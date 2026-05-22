@@ -142,7 +142,7 @@ function skel(){
       +'<div class="skel-line" style="width:65%"></div></div>';
   }).join('');
 }
-function loadDate(dateStr){
+function loadDate(dateStr,isFallback){
   document.querySelectorAll('.date-btn').forEach(function(b){b.classList.toggle('on',b.textContent===fmtDate(dateStr));});
   document.getElementById('feed').innerHTML=skel();
   document.getElementById('error-banner').classList.remove('show');
@@ -155,6 +155,14 @@ function loadDate(dateStr){
       renderFeed(currentCat);
     })
     .catch(function(){
+      // Auto-fallback: if today has no data yet, try yesterday
+      if(!isFallback){
+        var yesterday=new Date();yesterday.setDate(yesterday.getDate()-1);
+        var ys=yesterday.toISOString().split('T')[0];
+        document.getElementById('live-status').textContent='Завантаження...';
+        loadDate(ys,true);
+        return;
+      }
       document.getElementById('feed').innerHTML='';
       document.getElementById('error-banner').classList.add('show');
       document.getElementById('live-status').textContent='Помилка завантаження';

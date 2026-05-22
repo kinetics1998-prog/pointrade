@@ -44,8 +44,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-          GITHUB_PAGES_URL: https://kinetics1998-prog.github.io/biz-digest
+          GITHUB_PAGES_URL: https://pointrade.business
         run: python3 magazine_generator.py --${{ steps.mode.outputs.mode }}
+
+      - name: Notify failure
+        if: failure()
+        run: |
+          if [ -n "${{ secrets.TELEGRAM_BOT_TOKEN }}" ] && [ -n "${{ secrets.TELEGRAM_CHAT_ID }}" ]; then
+            curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+              -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -d text="⚠️ Pointrade digest FAILED $(date +'%Y-%m-%d %H:%M')"
+          fi
 
       - name: Commit
         run: |
