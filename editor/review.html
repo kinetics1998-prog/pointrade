@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pointrade · Редакторська черга</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500&family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1F1A14;--paper:#FAF6EE;--soft:#F2EDE2;--softer:#EBE5D6;--muted:#7B7166;--line:rgba(31,26,20,.08);--line-2:rgba(31,26,20,.16);--accent:#C25A3F;--brass:#A8884C;--ok:#4a9a4a;--display:'Fraunces',Georgia,serif;--sans:'Geist',system-ui,sans-serif;--mono:'Geist Mono',monospace}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--sans);background:var(--paper);color:var(--ink);font-size:14px;line-height:1.55;padding:24px}
+.wrap{max-width:1200px;margin:0 auto}
+.topbar{display:flex;justify-content:space-between;align-items:center;padding-bottom:18px;border-bottom:0.5px solid var(--line-2);margin-bottom:24px}
+h1{font-family:var(--display);font-size:32px;font-weight:500;letter-spacing:-.02em}
+h1 em{color:var(--accent);font-style:italic}
+.stats{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--muted)}
+.stats b{color:var(--ink)}
+.actions{display:flex;gap:10px}
+.btn{font-family:var(--mono);font-size:11px;letter-spacing:.08em;padding:9px 16px;border:0.5px solid var(--line-2);background:none;cursor:pointer;border-radius:4px;color:var(--ink);text-transform:uppercase;font-weight:500;transition:all .15s}
+.btn:hover{border-color:var(--ink);background:var(--soft)}
+.btn.primary{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.btn.primary:hover{background:#000}
+.btn.danger{color:var(--accent);border-color:rgba(194,90,63,.3)}
+.btn.danger:hover{background:rgba(194,90,63,.06)}
+.btn:disabled{opacity:.4;cursor:not-allowed}
+
+.story-card{background:#fff;border:0.5px solid var(--line-2);border-radius:8px;padding:24px;margin-bottom:18px;display:grid;grid-template-columns:1fr;gap:16px}
+.story-card.ready{border-color:var(--ok);background:rgba(74,154,74,.04)}
+.story-card.rejected{opacity:.35}
+.story-card.ai-flagged{border-color:rgba(194,90,63,.4);background:rgba(194,90,63,.03)}
+.validator-block{padding:10px 14px;background:rgba(194,90,63,.08);border-left:3px solid var(--accent);border-radius:4px;font-size:13px;line-height:1.5}
+.validator-block .vlabel{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--accent);text-transform:uppercase;font-weight:500;margin-bottom:5px;display:flex;align-items:center;gap:6px}
+.validator-flags{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px}
+.vflag{font-family:var(--mono);font-size:9.5px;padding:2px 6px;background:rgba(194,90,63,.15);color:var(--accent);border-radius:3px;letter-spacing:.04em}
+.score-pill{display:inline-flex;align-items:center;padding:2px 8px;border-radius:99px;font-family:var(--mono);font-size:10px;font-weight:500;letter-spacing:.04em}
+.score-high{background:rgba(74,154,74,.15);color:var(--ok)}
+.score-mid{background:rgba(168,136,76,.18);color:#8a6b30}
+.score-low{background:rgba(194,90,63,.15);color:var(--accent)}
+.meta-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;color:var(--muted)}
+.badge{padding:3px 9px;background:var(--soft);border-radius:3px}
+.badge.impact{background:rgba(194,90,63,.15);color:var(--accent);font-weight:500}
+.story-h{font-family:var(--display);font-size:22px;font-weight:500;line-height:1.25;letter-spacing:-.01em}
+.story-orig{font-size:13px;color:var(--muted);font-style:italic;padding-left:10px;border-left:2px solid var(--line-2)}
+.story-link{font-family:var(--mono);font-size:10.5px;color:var(--accent);text-decoration:none;letter-spacing:.08em;text-transform:uppercase}
+.tags-line{display:flex;flex-wrap:wrap;gap:5px}
+.tag{font-family:var(--mono);font-size:10px;padding:2px 8px;background:rgba(31,26,20,.05);border-radius:99px;border:0.5px solid var(--line);color:var(--muted)}
+
+.fields{display:grid;grid-template-columns:1fr;gap:14px;padding-top:12px;border-top:0.5px solid var(--line)}
+.field-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--brass);margin-bottom:5px;text-transform:uppercase;font-weight:500}
+.field-label .persona-flag{margin-right:5px}
+textarea{width:100%;font-family:var(--sans);font-size:13.5px;line-height:1.55;padding:10px 12px;border:0.5px solid var(--line-2);border-radius:5px;background:var(--paper);resize:vertical;min-height:62px;color:var(--ink)}
+textarea:focus{outline:none;border-color:var(--accent);background:#fff}
+input[type=text]{width:100%;font-family:var(--sans);font-size:14px;padding:10px 12px;border:0.5px solid var(--line-2);border-radius:5px;background:var(--paper)}
+input[type=text]:focus{outline:none;border-color:var(--accent);background:#fff}
+.editor-note{background:rgba(168,136,76,.08);padding:12px;border-radius:5px;border-left:3px solid var(--brass)}
+.editor-note .field-label{color:var(--brass)}
+.editor-note .hint{font-size:11px;color:var(--muted);margin-top:4px;font-style:italic;line-height:1.4}
+
+.card-actions{display:flex;justify-content:flex-end;gap:10px;padding-top:12px;border-top:0.5px solid var(--line)}
+.check-ready{display:inline-flex;align-items:center;gap:8px;font-family:var(--mono);font-size:11px;color:var(--ok);cursor:pointer;letter-spacing:.06em;text-transform:uppercase;font-weight:500}
+.check-ready input{width:16px;height:16px;cursor:pointer;accent-color:var(--ok)}
+
+.empty{padding:80px 24px;text-align:center}
+.empty-h{font-family:var(--display);font-size:24px;font-weight:500;margin-bottom:8px}
+.empty-p{font-size:14px;color:var(--muted)}
+
+.export-bar{position:sticky;bottom:0;background:var(--paper);border-top:0.5px solid var(--line-2);padding:14px 0;margin-top:18px;display:flex;justify-content:space-between;align-items:center;font-family:var(--mono);font-size:11.5px}
+.export-info{color:var(--muted)}
+.export-info b{color:var(--ok)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div>
+      <h1>Редакторська <em>черга</em></h1>
+      <div class="stats" style="margin-top:6px">Статті з <b>impact=3</b> — чекають executable takeaway перед публікацією.</div>
+    </div>
+    <div class="actions">
+      <button class="btn" onclick="loadPending()">↻ Оновити</button>
+      <button class="btn primary" id="exportBtn" onclick="exportReady()" disabled>↓ Експортувати готові</button>
+    </div>
+  </div>
+
+  <div id="feed"></div>
+
+  <div class="export-bar">
+    <div class="export-info">
+      Всього в черзі: <b id="totalCount">0</b> · Готових до публікації: <b id="readyCount">0</b> · Відхилено: <b id="rejectedCount">0</b>
+    </div>
+    <div style="color:var(--muted)">Експорт → <code style="font-family:var(--mono);background:var(--soft);padding:2px 6px;border-radius:3px">python3 editor/publish.py ~/Downloads/ready-*.json</code></div>
+  </div>
+</div>
+
+<script>
+var PENDING_URL='/data/pending_review.json';
+var stories=[],edits={};
+
+function loadPending(){
+  fetch(PENDING_URL+'?_='+Date.now())
+    .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(d){stories=d||[];renderAll();})
+    .catch(function(){
+      document.getElementById('feed').innerHTML='<div class="empty"><div class="empty-h">📭 Черги поки немає</div><p class="empty-p">Файл /data/pending_review.json порожній або не існує. Запусти <code>python3 rss_collector_v9.py</code> щоб AI додав сюди impact=3 статті.</p></div>';
+      updateStats();
+    });
+}
+
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+function renderAll(){
+  if(!stories.length){
+    document.getElementById('feed').innerHTML='<div class="empty"><div class="empty-h">✓ Черга порожня</div><p class="empty-p">Усі високо-impact статті опрацьовано. Хороша робота.</p></div>';
+    updateStats();return;
+  }
+  document.getElementById('feed').innerHTML=stories.map(function(s,i){return renderCard(s,i);}).join('');
+  updateStats();
+}
+
+function renderCard(s,idx){
+  var e=edits[s.id]||{};
+  var ready=e.ready;var rejected=e.rejected;
+  var aiFlagged=s.editor_flag==='ai_flagged';
+  var cls='story-card'+(ready?' ready':'')+(rejected?' rejected':'')+(aiFlagged?' ai-flagged':'');
+  var wm=s.what_it_means||{};
+  var tags=(s.tags||[]).map(function(t){return '<span class="tag">'+esc(t)+'</span>';}).join('');
+  var impact='⚪';if(s.impact_score===2)impact='🟡';if(s.impact_score===3)impact='🔴';
+  // Validator score pill
+  var scoreHtml='';
+  if(typeof s.validator_score==='number'){
+    var sclass='score-high';
+    if(s.validator_score<5)sclass='score-low';
+    else if(s.validator_score<8)sclass='score-mid';
+    scoreHtml='<span class="score-pill '+sclass+'">QA '+s.validator_score+'/10</span>';
+  }
+  var flagBadge=aiFlagged?'<span class="badge" style="background:rgba(194,90,63,.15);color:var(--accent)">🔍 AI-flagged</span>':(s.editor_flag==='high_impact'?'<span class="badge" style="background:rgba(168,136,76,.18);color:#8a6b30">⚡ High impact</span>':'');
+  // Validator block
+  var validatorBlock='';
+  if(s.validator_suggestions||(s.validator_flags&&s.validator_flags.length)){
+    var vflags=(s.validator_flags||[]).map(function(f){return '<span class="vflag">'+esc(f)+'</span>';}).join('');
+    validatorBlock='<div class="validator-block"><div class="vlabel">🛡 Validator зауваження</div>'
+      +(s.validator_suggestions?'<div>'+esc(s.validator_suggestions)+'</div>':'')
+      +(vflags?'<div class="validator-flags">'+vflags+'</div>':'')
+    +'</div>';
+  }
+  return '<div class="'+cls+'" id="card-'+s.id+'">'
+    +'<div class="meta-row">'
+      +'<span class="badge impact">'+impact+' impact='+(s.impact_score||0)+'</span>'
+      +scoreHtml
+      +flagBadge
+      +'<span class="badge">'+esc(s.source||'')+'</span>'
+      +'<span class="badge">'+esc(s.market||'')+' · '+esc(s.category||'')+'</span>'
+      +(s.published?'<span>'+esc(s.published.slice(0,16).replace('T',' '))+'</span>':'')
+    +'</div>'
+    +validatorBlock
+    +'<div class="field-label">Заголовок (uk)</div>'
+    +'<input type="text" value="'+esc(getValue(s,'title_uk'))+'" onchange="updateField(\''+s.id+'\',\'title_uk\',this.value)">'
+    +'<div class="story-orig">Оригінал: '+esc(s.title_orig||s.title||'')+' · <a href="'+esc(s.source_url||s.link||'#')+'" target="_blank" class="story-link">Відкрити →</a></div>'
+    +(tags?'<div class="tags-line">'+tags+'</div>':'')
+    +'<div class="fields">'
+      +'<div><div class="field-label">Переказ (uk)</div><textarea onchange="updateField(\''+s.id+'\',\'summary_uk\',this.value)">'+esc(getValue(s,'summary_uk'))+'</textarea></div>'
+      +'<div><div class="field-label"><span class="persona-flag">🇺🇦</span>UA-імпортер</div><textarea onchange="updateField(\''+s.id+'\',\'wm.ua_importer\',this.value)">'+esc(getWM(s,'ua_importer'))+'</textarea></div>'
+      +'<div><div class="field-label"><span class="persona-flag">🇵🇱</span>PL-дистриб\'ютор</div><textarea onchange="updateField(\''+s.id+'\',\'wm.pl_distributor\',this.value)">'+esc(getWM(s,'pl_distributor'))+'</textarea></div>'
+      +'<div><div class="field-label"><span class="persona-flag">🇹🇷</span>TR-виробник</div><textarea onchange="updateField(\''+s.id+'\',\'wm.tr_manufacturer\',this.value)">'+esc(getWM(s,'tr_manufacturer'))+'</textarea></div>'
+      +'<div><div class="field-label"><span class="persona-flag">📑</span>Категорійний менеджер</div><textarea onchange="updateField(\''+s.id+'\',\'wm.category_manager\',this.value)">'+esc(getWM(s,'category_manager'))+'</textarea></div>'
+      +'<div class="editor-note"><div class="field-label">✦ Executable takeaway (від редактора)</div><textarea placeholder="Конкретні кроки, цифри, дедлайни. Те що відрізняє Pointrade від агрегаторів." onchange="updateField(\''+s.id+'\',\'editor_note\',this.value)">'+esc(e.editor_note||'')+'</textarea><div class="hint">Приклад: «Формула KPI: SOS_high_margin × growth × penalty_OOS. Дашборд у Power BI — 2 тижні впровадження. Очікувана маржа: +1.8 п.п. за 6 міс.»</div></div>'
+    +'</div>'
+    +'<div class="card-actions">'
+      +'<button class="btn danger" onclick="toggleReject(\''+s.id+'\')">'+(rejected?'↶ Повернути':'✕ Відхилити')+'</button>'
+      +(rejected?'':'<label class="check-ready"><input type="checkbox" '+(ready?'checked':'')+' onchange="toggleReady(\''+s.id+'\')"> Готово до публікації</label>')
+    +'</div>'
+  +'</div>';
+}
+
+function getValue(s,k){var e=edits[s.id]||{};return e[k]!==undefined?e[k]:(s[k]||'');}
+function getWM(s,k){var e=edits[s.id]||{};if(e['wm.'+k]!==undefined)return e['wm.'+k];return (s.what_it_means||{})[k]||'';}
+function updateField(id,key,val){if(!edits[id])edits[id]={};edits[id][key]=val;}
+function toggleReady(id){if(!edits[id])edits[id]={};edits[id].ready=!edits[id].ready;edits[id].rejected=false;rerenderCard(id);updateStats();}
+function toggleReject(id){if(!edits[id])edits[id]={};edits[id].rejected=!edits[id].rejected;edits[id].ready=false;rerenderCard(id);updateStats();}
+
+function rerenderCard(id){
+  var idx=stories.findIndex(function(s){return s.id===id;});if(idx<0)return;
+  var card=document.getElementById('card-'+id);if(!card)return;
+  var tmp=document.createElement('div');tmp.innerHTML=renderCard(stories[idx],idx);
+  card.replaceWith(tmp.firstChild);
+}
+
+function updateStats(){
+  var total=stories.length;
+  var ready=Object.values(edits).filter(function(e){return e.ready;}).length;
+  var rejected=Object.values(edits).filter(function(e){return e.rejected;}).length;
+  document.getElementById('totalCount').textContent=total;
+  document.getElementById('readyCount').textContent=ready;
+  document.getElementById('rejectedCount').textContent=rejected;
+  document.getElementById('exportBtn').disabled=(ready+rejected)===0;
+}
+
+function exportReady(){
+  var output={ready:[],rejected:[],kept:[]};
+  stories.forEach(function(s){
+    var e=edits[s.id]||{};
+    if(e.rejected){output.rejected.push(s.id);return;}
+    if(!e.ready){output.kept.push(s.id);return;}
+    var merged=Object.assign({},s);
+    if(e.title_uk!==undefined)merged.title_uk=e.title_uk;
+    if(e.summary_uk!==undefined)merged.summary_uk=e.summary_uk;
+    var wm=Object.assign({},merged.what_it_means||{});
+    ['ua_importer','pl_distributor','tr_manufacturer','category_manager'].forEach(function(k){
+      if(e['wm.'+k]!==undefined)wm[k]=e['wm.'+k];
+    });
+    merged.what_it_means=wm;
+    if(e.editor_note)merged.editor_note=e.editor_note;
+    merged.editor_reviewed=true;
+    merged.editor_reviewed_at=new Date().toISOString();
+    merged.title=merged.title_uk||merged.title;
+    merged.summary=merged.summary_uk||merged.summary;
+    output.ready.push(merged);
+  });
+  var blob=new Blob([JSON.stringify(output,null,2)],{type:'application/json'});
+  var url=URL.createObjectURL(blob);
+  var stamp=new Date().toISOString().replace(/[:.]/g,'-').slice(0,19);
+  var a=document.createElement('a');a.href=url;a.download='ready-'+stamp+'.json';
+  document.body.appendChild(a);a.click();a.remove();
+  alert('Експортовано: '+output.ready.length+' готових, '+output.rejected.length+' відхилено.\n\nЗапусти: python3 editor/publish.py ~/Downloads/'+a.download);
+}
+
+window.addEventListener('load',loadPending);
+</script>
+</body>
+</html>

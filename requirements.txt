@@ -1,0 +1,6 @@
+# Pointrade pipeline v9 dependencies
+# Install: pip3 install -r requirements.txt
+
+feedparser>=6.0       # RSS parsing
+anthropic>=0.39       # Claude Haiku 4.5 — переклад (translate.py)
+openai>=1.40          # gpt-4o-mini — бізнес-збагачення (rss_collector_v9.py)

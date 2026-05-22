@@ -15,3 +15,12 @@ Thumbs.db
 
 # Local test data
 test_*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Pipeline v9 — debug-only, не для GitHub Pages
+data/rejected.json
+ready-*.json

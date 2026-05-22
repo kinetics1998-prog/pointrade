@@ -69,12 +69,57 @@ footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--s
 .foot-inner{max-width:960px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted)}
 .foot-inner a{color:var(--muted);text-decoration:none;text-transform:uppercase;transition:color .15s}
 .foot-inner a:hover{color:var(--ink)}
+
+/* === v9: тікер курсів === */
+.rates-ticker{display:flex;gap:14px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding:8px 24px;background:var(--soft);border-bottom:0.5px solid var(--line-2);font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--muted);scrollbar-width:none}
+.rates-ticker::-webkit-scrollbar{display:none}
+.rate-item{flex-shrink:0;display:inline-flex;align-items:baseline;gap:6px}
+.rate-ccy{color:var(--ink);font-weight:500}
+.rate-val{color:var(--accent);font-weight:500}
+.rate-delta{font-size:9.5px;opacity:.7}
+.rate-delta.up{color:#4a9a4a}
+.rate-delta.down{color:#c25a3f}
+.rates-updated{margin-left:auto;font-size:9.5px;opacity:.6;flex-shrink:0}
+
+/* === v9: impact-бейджі === */
+.impact-badge{display:inline-flex;align-items:center;gap:4px;padding:2px 7px;border-radius:3px;font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:500}
+.impact-1{background:rgba(123,113,102,.12);color:var(--muted)}
+.impact-2{background:rgba(168,136,76,.18);color:#8a6b30}
+.impact-3{background:rgba(194,90,63,.15);color:var(--accent)}
+
+/* === v9: теги === */
+.story-tags{display:flex;flex-wrap:wrap;gap:5px;margin:8px 0 10px}
+.story-tag{font-family:var(--mono);font-size:9.5px;padding:2px 8px;border-radius:99px;background:rgba(31,26,20,.05);color:var(--muted);letter-spacing:.04em;border:0.5px solid var(--line)}
+.story-tag-emoji{margin-right:3px}
+
+/* === v9: що це означає (експандабельний блок) === */
+.what-means{margin-top:10px;border:0.5px solid var(--line-2);border-radius:5px;overflow:hidden;background:rgba(168,136,76,.04)}
+.what-means-toggle{width:100%;text-align:left;padding:10px 14px;background:none;border:none;cursor:pointer;font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--brass);font-weight:500;display:flex;align-items:center;justify-content:space-between;transition:background .15s}
+.what-means-toggle:hover{background:rgba(168,136,76,.08)}
+.what-means-toggle .arrow{font-size:10px;transition:transform .2s}
+.what-means.on .what-means-toggle .arrow{transform:rotate(90deg)}
+.what-means-body{display:none;padding:0 14px 14px;font-size:13.5px;line-height:1.6}
+.what-means.on .what-means-body{display:block}
+.what-means-row{padding:8px 0;border-top:0.5px solid var(--line)}
+.what-means-row:first-child{border-top:none}
+.persona{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--muted);text-transform:uppercase;margin-bottom:3px}
+.persona-text{color:var(--ink)}
+.persona-text.skip{color:var(--muted);font-style:italic}
+
+/* === v9: editor's executable takeaway === */
+.editor-badge{display:inline-flex;align-items:center;gap:4px;padding:2px 7px;border-radius:3px;font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:500;background:linear-gradient(135deg,rgba(168,136,76,.2),rgba(194,90,63,.15));color:var(--brass);border:0.5px solid rgba(168,136,76,.3)}
+.editor-note{margin:12px 0 0;padding:14px 16px;background:linear-gradient(135deg,rgba(168,136,76,.06),rgba(194,90,63,.04));border-left:3px solid var(--brass);border-radius:4px}
+.editor-note-label{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--brass);text-transform:uppercase;margin-bottom:6px;font-weight:500;display:flex;align-items:center;gap:6px}
+.editor-note-body{font-size:14px;line-height:1.6;color:var(--ink);font-family:var(--display);font-weight:400;letter-spacing:-.005em}
 </style>
 </head>
 <body>
 <div class="topbar">
   <a href="../index.html" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POIN<b>·</b>TRADE</a>
   <a href="../index.html" class="back-link">← На головну</a>
+</div>
+<div class="rates-ticker" id="rates-ticker">
+  <span style="opacity:.5">Завантаження курсів…</span>
 </div>
 <div class="wrap">
   <section class="hero">
@@ -90,11 +135,14 @@ footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--s
   <div class="date-nav" id="date-nav"></div>
   <div class="cats">
     <button class="cat-chip on" onclick="filterCat('all',this)">Всі</button>
+    <button class="cat-chip" onclick="filterCat('distribution',this)">🚚 Дистрибуція</button>
+    <button class="cat-chip" onclick="filterCat('customs',this)">🛃 Митниця</button>
     <button class="cat-chip" onclick="filterCat('UA_BIZ',this)">UA Бізнес</button>
     <button class="cat-chip" onclick="filterCat('UA_TECH',this)">UA Tech</button>
     <button class="cat-chip" onclick="filterCat('PL_BIZ',this)">PL</button>
     <button class="cat-chip" onclick="filterCat('RO_BIZ',this)">RO</button>
     <button class="cat-chip" onclick="filterCat('TR_BIZ',this)">TR</button>
+    <button class="cat-chip" onclick="filterCat('FMCG',this)">🧴 FMCG</button>
   </div>
   <div class="error-banner" id="error-banner">⚠ Не вдалось завантажити дані. Спробуй іншу дату або перевір підключення.</div>
   <div class="feed" id="feed"></div>
@@ -116,7 +164,32 @@ footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--s
 <script>
 var BASE_URL='/data/';
 var allStories=[],currentCat='all';
-var CAT_LABELS={'UA_BIZ':'UA Бізнес','UA_TECH':'UA Tech','PL_BIZ':'PL','RO_BIZ':'RO','TR_BIZ':'TR','FMCG':'FMCG','RETAIL':'Рітейл'};
+var CAT_LABELS={'UA_BIZ':'UA Бізнес','UA_TECH':'UA Tech','PL_BIZ':'PL','RO_BIZ':'RO','TR_BIZ':'TR','FMCG':'FMCG','RETAIL':'Рітейл','distribution-case':'🚚 Дистрибуція','category-management':'📑 Категорійка','regulation':'⚖️ Регуляція','customs':'🛃 Митниця','market-data':'📈 Ринок','deal':'🤝 Угоди','opportunity':'💡 Можливість','warning':'⚠️ Увага'};
+var TAG_ICONS={'виробництво':'🏭','митниця':'🛃','регуляція':'⚖️','логістика':'📦','інвестиції':'💰','стартапи':'🚀','ритейл':'🏪','FMCG':'🧴','HoReCa':'🍽️','private-label':'🏷️','приватний-бренд':'🏷️','податки':'📊','експорт':'📤','імпорт':'📥','валюта':'💱','ціни-сировина':'📈','дистрибуція':'🚚','переговори-з-мережами':'🤝','KPI-команди':'📐','категорійний-менеджмент':'📑','трейд-маркетинг':'🎯','управління-полицею':'🛒','мотивація-ТП':'💪','робота-з-байєрами':'🧑‍💼','промо-акції':'🎁'};
+var IMPACT={1:['⚪','інфо','impact-1'],2:['🟡','важливо','impact-2'],3:['🔴','діяти зараз','impact-3']};
+var PERSONA_LABELS={'ua_importer':'🇺🇦 UA-імпортеру','pl_distributor':'🇵🇱 PL-дистриб\'ютору','tr_manufacturer':'🇹🇷 TR-виробнику','category_manager':'📑 Категорійному менеджеру'};
+
+// === v9: тікер курсів ===
+function loadRates(){
+  fetch('/data/rates.json',{cache:'no-store'})
+    .then(function(r){return r.ok?r.json():null;})
+    .then(function(data){
+      if(!data||!data.official){document.getElementById('rates-ticker').style.display='none';return;}
+      var off=data.official,cash=data.cash||{};
+      var order=['USD','EUR','PLN','TRY','RON','GBP'];
+      var html=order.filter(function(c){return off[c];}).map(function(c){
+        var v=off[c];
+        var cashStr='';
+        if(cash[c]){cashStr=' <span class="rate-delta">'+cash[c].buy.toFixed(2)+'/'+cash[c].sell.toFixed(2)+'</span>';}
+        return '<span class="rate-item"><span class="rate-ccy">'+c+'</span><span class="rate-val">'+v.toFixed(2)+'</span>'+cashStr+'</span>';
+      }).join('');
+      var upd='';
+      if(data.updated){var d=new Date(data.updated);upd='Оновлено '+d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});}
+      document.getElementById('rates-ticker').innerHTML=html+'<span class="rates-updated">'+upd+'</span>';
+    })
+    .catch(function(){document.getElementById('rates-ticker').style.display='none';});
+}
+function toggleMeans(id){var el=document.getElementById(id);if(el)el.classList.toggle('on');}
 
 function buildDates(){
   var d=[],now=new Date();
@@ -169,24 +242,74 @@ function loadDate(dateStr,isFallback){
     });
 }
 function renderFeed(cat){
-  var list=cat==='all'?allStories:allStories.filter(function(s){return s.category===cat;});
+  var list;
+  if(cat==='all'){list=allStories;}
+  else if(cat==='distribution'){list=allStories.filter(function(s){return s.category==='distribution-case'||s.category==='category-management'||(s.tags&&(s.tags.indexOf('дистрибуція')>=0||s.tags.indexOf('категорійний-менеджмент')>=0||s.tags.indexOf('трейд-маркетинг')>=0||s.tags.indexOf('переговори-з-мережами')>=0));});}
+  else if(cat==='customs'){list=allStories.filter(function(s){return s.category==='regulation'||s.category==='customs'||(s.tags&&(s.tags.indexOf('митниця')>=0||s.tags.indexOf('регуляція')>=0));});}
+  else if(cat==='FMCG'){list=allStories.filter(function(s){return s.category==='FMCG'||(s.tags&&(s.tags.indexOf('FMCG')>=0||s.tags.indexOf('HoReCa')>=0||s.tags.indexOf('private-label')>=0));});}
+  else{list=allStories.filter(function(s){return s.category===cat;});}
   if(!list.length){
     document.getElementById('feed').innerHTML='<div class="empty-state"><div style="font-size:36px">📭</div><div class="empty-h">Новин за цей день немає</div><p class="empty-p">Спробуй іншу дату або категорію.</p></div>';
     return;
   }
-  document.getElementById('feed').innerHTML=list.map(function(s){
+  document.getElementById('feed').innerHTML=list.map(function(s,idx){
     var cl=CAT_LABELS[s.category]||s.category;
     var tm='';
     if(s.published){var d=new Date(s.published);tm=d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});}
+    // Impact-бейдж
+    var impactHtml='';
+    if(s.impact_score&&IMPACT[s.impact_score]){
+      var imp=IMPACT[s.impact_score];
+      impactHtml='<span class="impact-badge '+imp[2]+'">'+imp[0]+' '+imp[1]+'</span>';
+    }
+    // Editor-reviewed бейдж
+    var editorBadge=s.editor_reviewed?'<span class="editor-badge">✦ Поглиблений аналіз</span>':'';
+    // Editor's executable takeaway
+    var editorNoteHtml='';
+    if(s.editor_note){
+      editorNoteHtml='<div class="editor-note"><div class="editor-note-label">✦ Як це повторити</div><div class="editor-note-body">'+esc(s.editor_note)+'</div></div>';
+    }
+    // Title + summary (uk → fallback на оригінал)
+    var title=s.title_uk||s.title||'';
+    var summary=s.summary_uk||s.summary||'';
+    // Теги
+    var tagsHtml='';
+    if(s.tags&&s.tags.length){
+      tagsHtml='<div class="story-tags">'+s.tags.map(function(t){
+        var ic=TAG_ICONS[t]||'';
+        return '<span class="story-tag">'+(ic?'<span class="story-tag-emoji">'+ic+'</span>':'')+esc(t)+'</span>';
+      }).join('')+'</div>';
+    }
+    // Що це означає
+    var meansHtml='';
+    if(s.what_it_means){
+      var wm=s.what_it_means;
+      var rows='';
+      Object.keys(PERSONA_LABELS).forEach(function(k){
+        if(wm[k]){
+          var isSkip=/^не впливає\b/i.test(wm[k].trim());
+          rows+='<div class="what-means-row"><div class="persona">'+PERSONA_LABELS[k]+'</div><div class="persona-text'+(isSkip?' skip':'')+'">'+esc(wm[k])+'</div></div>';
+        }
+      });
+      if(rows){
+        var mid='wm-'+idx;
+        meansHtml='<div class="what-means" id="'+mid+'"><button class="what-means-toggle" onclick="toggleMeans(\''+mid+'\')"><span>💡 Що це означає для бізнесу</span><span class="arrow">›</span></button><div class="what-means-body">'+rows+'</div></div>';
+      }
+    }
     return'<article class="story">'
       +'<div class="story-meta">'
       +'<span class="story-source">'+(s.source||'')+'</span>'
       +'<span class="story-cat-badge">'+cl+'</span>'
+      +impactHtml
+      +editorBadge
       +(tm?'<span class="story-time">'+tm+'</span>':'')
       +'</div>'
-      +'<h2 class="story-h">'+esc(s.title||'')+'</h2>'
-      +'<p class="story-p">'+esc(s.summary||'')+'</p>'
+      +'<h2 class="story-h">'+esc(title)+'</h2>'
+      +'<p class="story-p">'+esc(summary)+'</p>'
+      +tagsHtml
       +(s.link&&s.link!=='#'?'<a href="'+esc(s.link)+'" target="_blank" rel="noopener" class="story-link">Читати повністю →</a>':'')
+      +editorNoteHtml
+      +meansHtml
       +'</article>';
   }).join('');
 }
@@ -202,6 +325,8 @@ window.addEventListener('load',function(){
   var dates=buildDates();
   renderNav(dates,dates[0]);
   loadDate(dates[0]);
+  loadRates();
+  setInterval(loadRates,5*60*1000);
 });
 </script>
 </body>
