@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Pointrade — official SVG logo
+  Colors: Navy #1B1E78 · Steel #6B9FC4
+  Viewbox: 240 × 122 px
+  Usage:
+    Full logo:  <img src="assets/logo.svg" height="40" alt="Pointrade">
+    Icon only:  <svg viewBox="80 10 80 80" ...>  (crop to icon area)
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 240 122"
+     width="240" height="122"
+     role="img"
+     aria-labelledby="pt-logo-title">
+  <title id="pt-logo-title">Pointrade</title>
+
+  <!-- ─── ICON  center (120 50)  r=36 ─────────────────────────────── -->
+
+  <!--
+    Circular arc — navy
+    Open gap on the RIGHT side (~2 o'clock → ~4 o'clock, ≈60° gap)
+    Start: (151, 32)  End: (151, 68)
+    large-arc=1  sweep=0 (counter-clockwise on screen → goes through top+left+bottom)
+  -->
+  <path d="M 151 32 A 36 36 0 1 0 151 68"
+        fill="none"
+        stroke="#1B1E78"
+        stroke-width="8.5"
+        stroke-linecap="round"/>
+
+  <!--
+    P letterform — steel blue
+    Stem:  x 111–119  y 26–79
+    Bowl:  from (119, 53) clockwise arc to (119, 26) — extends right to x≈134
+  -->
+  <path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z"
+        fill="#6B9FC4"/>
+
+  <!-- ─── WORDMARK  y=108  centered at x=120 ───────────────────────── -->
+  <text font-family="'Nunito','Poppins','Segoe UI Rounded','Segoe UI',system-ui,sans-serif"
+        font-size="23"
+        font-weight="700"
+        letter-spacing="0.01em"
+        text-anchor="middle">
+    <tspan x="120" y="108" fill="#1B1E78">Point</tspan><tspan fill="#6B9FC4">trade</tspan>
+  </text>
+</svg>

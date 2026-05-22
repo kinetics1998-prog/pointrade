@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Бізнес-новини — Pointrade</title>
+<meta name="description" content="Щоденний AI-дайджест бізнес-новин UA · PL · RO · TR. Коротко, без води, з джерелами.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1F1A14;--paper:#FAF6EE;--soft:#F2EDE2;--softer:#EBE5D6;--muted:#7B7166;--line:rgba(31,26,20,0.08);--line-2:rgba(31,26,20,0.16);--accent:#C25A3F;--brass:#A8884C;--display:'Fraunces',Georgia,serif;--sans:'Geist',system-ui,sans-serif;--mono:'Geist Mono',monospace}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{font-family:var(--sans);background:var(--paper);color:var(--ink);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.topbar{position:sticky;top:0;z-index:50;background:rgba(250,246,238,0.92);-webkit-backdrop-filter:saturate(180%) blur(14px);backdrop-filter:saturate(180%) blur(14px);border-bottom:0.5px solid var(--line-2);padding:14px 24px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:0.22em;color:var(--ink);text-decoration:none}
+.brand b{color:var(--accent);font-weight:500}
+.back-link{font-family:var(--mono);font-size:11px;letter-spacing:0.08em;color:var(--muted);text-decoration:none;display:flex;align-items:center;gap:6px;padding:8px 10px;border-radius:5px;transition:background .15s,color .15s}
+.back-link:hover{background:var(--soft);color:var(--ink)}
+.wrap{max-width:960px;margin:0 auto;padding:0 24px}
+.hero{padding:56px 0 28px;border-bottom:0.5px solid var(--line-2)}
+.eyebrow{font-family:var(--mono);font-size:10px;letter-spacing:0.22em;color:var(--accent);text-transform:uppercase;margin-bottom:18px;display:flex;align-items:center;gap:12px}
+.eyebrow::before{content:'';width:28px;height:1px;background:var(--accent)}
+h1{font-family:var(--display);font-size:clamp(44px,8vw,76px);font-weight:500;line-height:0.95;letter-spacing:-0.03em;margin-bottom:20px;font-variation-settings:"opsz" 144,"SOFT" 50}
+h1 em{font-style:italic;color:var(--accent)}
+.hero-lead{font-size:15px;color:var(--muted);max-width:560px;line-height:1.65;margin-bottom:24px}
+.hero-lead strong{color:var(--ink);font-weight:500}
+.live-bar{display:flex;flex-wrap:wrap;gap:20px;padding-top:20px;border-top:0.5px solid var(--line-2)}
+.live-item{display:flex;align-items:center;gap:8px;font-family:var(--mono);font-size:10.5px;letter-spacing:0.06em;color:var(--muted)}
+.live-dot{width:7px;height:7px;background:#4a9a4a;border-radius:50%;animation:blink 2s ease-in-out infinite;flex-shrink:0}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.35}}
+.date-nav{padding:14px 0;display:flex;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;border-bottom:0.5px solid var(--line-2)}
+.date-nav::-webkit-scrollbar{display:none}
+.date-btn{flex-shrink:0;padding:7px 14px;background:none;border:0.5px solid var(--line-2);border-radius:4px;cursor:pointer;font-family:var(--mono);font-size:10.5px;color:var(--muted);transition:all .15s;white-space:nowrap;letter-spacing:0.06em}
+.date-btn:hover{border-color:var(--ink);color:var(--ink)}
+.date-btn.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.cats{padding:12px 0;display:flex;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;border-bottom:0.5px solid var(--line-2)}
+.cats::-webkit-scrollbar{display:none}
+.cat-chip{flex-shrink:0;padding:6px 14px;background:none;border:0.5px solid var(--line-2);border-radius:99px;cursor:pointer;font-family:var(--mono);font-size:10px;font-weight:500;color:var(--muted);transition:all .15s;white-space:nowrap;letter-spacing:0.08em;text-transform:uppercase}
+.cat-chip:hover{border-color:var(--ink);color:var(--ink)}
+.cat-chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.error-banner{background:rgba(194,90,63,.06);border:0.5px solid rgba(194,90,63,.2);border-radius:5px;padding:14px 18px;margin:24px 0;font-family:var(--mono);font-size:11px;color:var(--accent);letter-spacing:.04em;display:none}
+.error-banner.show{display:block}
+.feed{padding:28px 0 48px;display:flex;flex-direction:column}
+.story{padding:22px 0;border-bottom:0.5px solid var(--line-2)}
+.story:last-child{border-bottom:none}
+.story-meta{display:flex;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap}
+.story-source{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--muted);padding:3px 8px;background:var(--soft);border-radius:3px}
+.story-cat-badge{font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--brass);padding:3px 8px;border:0.5px solid rgba(168,136,76,.25);border-radius:3px}
+.story-time{font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:.06em}
+.story-h{font-family:var(--display);font-size:clamp(19px,3vw,25px);font-weight:500;line-height:1.2;letter-spacing:-.015em;color:var(--ink);margin-bottom:8px;font-variation-settings:"opsz" 48,"SOFT" 20}
+.story-p{font-size:14px;color:var(--muted);line-height:1.65;margin-bottom:12px;max-width:680px}
+.story-link{font-family:var(--mono);font-size:10.5px;color:var(--accent);text-decoration:none;letter-spacing:.1em;text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.story-link:hover{opacity:.7}
+.skeleton{animation:shimmer 1.5s ease-in-out infinite}
+@keyframes shimmer{0%,100%{opacity:.4}50%{opacity:.85}}
+.skel-line{background:var(--softer);border-radius:3px;height:13px;margin-bottom:9px}
+.empty-state{padding:64px 0;text-align:center}
+.empty-h{font-family:var(--display);font-size:22px;font-weight:500;margin-bottom:8px;margin-top:12px}
+.empty-p{font-size:14px;color:var(--muted)}
+.tg-cta{padding:28px 24px;background:var(--ink);border-radius:6px;color:var(--paper);display:grid;grid-template-columns:1fr;gap:18px;align-items:center;margin-bottom:36px}
+@media(min-width:640px){.tg-cta{grid-template-columns:1fr auto}}
+.tg-h{font-family:var(--display);font-size:24px;font-weight:500;margin-bottom:6px;line-height:1.15}
+.tg-p{font-size:13px;color:rgba(250,246,238,.6);line-height:1.6}
+.tg-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;background:#0088cc;color:#fff;font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;border-radius:4px;transition:background .15s;white-space:nowrap}
+.tg-btn:hover{background:#0073b3}
+footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--soft)}
+.foot-inner{max-width:960px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted)}
+.foot-inner a{color:var(--muted);text-decoration:none;text-transform:uppercase;transition:color .15s}
+.foot-inner a:hover{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a href="../index.html" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POINT<b>·</b>RADE</a>
+  <a href="../index.html" class="back-link">← На головну</a>
+</div>
+<div class="wrap">
+  <section class="hero">
+    <div class="eyebrow">Бізнес-дайджест · 2× на день</div>
+    <h1>Бізнес<br><em>новини</em><br>4 ринків.</h1>
+    <p class="hero-lead">AI збирає і скорочує новини <strong>UA, PL, RO, TR</strong> з 10+ джерел. Без жовтої преси. Тільки те що впливає на рішення.</p>
+    <div class="live-bar">
+      <div class="live-item"><div class="live-dot"></div><span id="live-status">Завантаження...</span></div>
+      <div class="live-item">📰 AIN · SPEKA · Liga · MC.today · mind.ua</div>
+      <div class="live-item">⚡ 2× на день</div>
+    </div>
+  </section>
+  <div class="date-nav" id="date-nav"></div>
+  <div class="cats">
+    <button class="cat-chip on" onclick="filterCat('all',this)">Всі</button>
+    <button class="cat-chip" onclick="filterCat('UA_BIZ',this)">UA Бізнес</button>
+    <button class="cat-chip" onclick="filterCat('UA_TECH',this)">UA Tech</button>
+    <button class="cat-chip" onclick="filterCat('PL_BIZ',this)">PL</button>
+    <button class="cat-chip" onclick="filterCat('RO_BIZ',this)">RO</button>
+    <button class="cat-chip" onclick="filterCat('TR_BIZ',this)">TR</button>
+  </div>
+  <div class="error-banner" id="error-banner">⚠ Не вдалось завантажити дані. Спробуй іншу дату або перевір підключення.</div>
+  <div class="feed" id="feed"></div>
+  <section class="tg-cta">
+    <div>
+      <div class="tg-h">Дайджест — у Telegram</div>
+      <p class="tg-p">Коротка версія 2 рази на день. Без реєстрації.</p>
+    </div>
+    <a href="https://t.me/signal_ua" target="_blank" rel="noopener" class="tg-btn">✈ @signal_ua</a>
+  </section>
+</div>
+<footer>
+  <div class="foot-inner">
+    <a href="../index.html">POINT<b style="color:var(--accent)">·</b>RADE</a>
+    <span>Claude AI · 2× на день</span>
+    <a href="../partner.html">Знайти партнера →</a>
+  </div>
+</footer>
+<script>
+var BASE_URL='https://pointrade.net/data/';
+var allStories=[],currentCat='all';
+var CAT_LABELS={'UA_BIZ':'UA Бізнес','UA_TECH':'UA Tech','PL_BIZ':'PL','RO_BIZ':'RO','TR_BIZ':'TR','FMCG':'FMCG','RETAIL':'Рітейл'};
+
+function buildDates(){
+  var d=[],now=new Date();
+  for(var i=0;i<7;i++){var x=new Date(now);x.setDate(x.getDate()-i);d.push(x.toISOString().split('T')[0]);}
+  return d;
+}
+function fmtDate(s){
+  var t=new Date().toISOString().split('T')[0];
+  var y=new Date(Date.now()-86400000).toISOString().split('T')[0];
+  if(s===t)return'Сьогодні';if(s===y)return'Вчора';
+  var d=new Date(s);return d.toLocaleDateString('uk-UA',{day:'numeric',month:'short'});
+}
+function renderNav(dates,active){
+  document.getElementById('date-nav').innerHTML=dates.map(function(d){
+    return '<button class="date-btn'+(d===active?' on':'')+'" onclick="loadDate(\''+d+'\')">'+fmtDate(d)+'</button>';
+  }).join('');
+}
+function skel(){
+  return[1,2,3].map(function(){
+    return'<div class="story skeleton"><div class="story-meta"><div class="skel-line" style="width:80px;height:11px"></div><div class="skel-line" style="width:55px;height:11px"></div></div>'
+      +'<div class="skel-line" style="height:22px;width:72%;margin-bottom:12px"></div>'
+      +'<div class="skel-line" style="width:90%"></div>'
+      +'<div class="skel-line" style="width:65%"></div></div>';
+  }).join('');
+}
+function loadDate(dateStr){
+  document.querySelectorAll('.date-btn').forEach(function(b){b.classList.toggle('on',b.textContent===fmtDate(dateStr));});
+  document.getElementById('feed').innerHTML=skel();
+  document.getElementById('error-banner').classList.remove('show');
+  allStories=[];
+  fetch(BASE_URL+dateStr+'.json')
+    .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(data){
+      allStories=data||[];
+      document.getElementById('live-status').textContent='Оновлено · '+allStories.length+' матеріалів';
+      renderFeed(currentCat);
+    })
+    .catch(function(){
+      document.getElementById('feed').innerHTML='';
+      document.getElementById('error-banner').classList.add('show');
+      document.getElementById('live-status').textContent='Помилка завантаження';
+    });
+}
+function renderFeed(cat){
+  var list=cat==='all'?allStories:allStories.filter(function(s){return s.category===cat;});
+  if(!list.length){
+    document.getElementById('feed').innerHTML='<div class="empty-state"><div style="font-size:36px">📭</div><div class="empty-h">Новин за цей день немає</div><p class="empty-p">Спробуй іншу дату або категорію.</p></div>';
+    return;
+  }
+  document.getElementById('feed').innerHTML=list.map(function(s){
+    var cl=CAT_LABELS[s.category]||s.category;
+    var tm='';
+    if(s.published){var d=new Date(s.published);tm=d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});}
+    return'<article class="story">'
+      +'<div class="story-meta">'
+      +'<span class="story-source">'+(s.source||'')+'</span>'
+      +'<span class="story-cat-badge">'+cl+'</span>'
+      +(tm?'<span class="story-time">'+tm+'</span>':'')
+      +'</div>'
+      +'<h2 class="story-h">'+esc(s.title||'')+'</h2>'
+      +'<p class="story-p">'+esc(s.summary||'')+'</p>'
+      +(s.link&&s.link!=='#'?'<a href="'+esc(s.link)+'" target="_blank" rel="noopener" class="story-link">Читати повністю →</a>':'')
+      +'</article>';
+  }).join('');
+}
+function filterCat(cat,btn){
+  currentCat=cat;
+  document.querySelectorAll('.cat-chip').forEach(function(c){c.classList.remove('on');});
+  btn.classList.add('on');
+  renderFeed(cat);
+}
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+window.addEventListener('load',function(){
+  var dates=buildDates();
+  renderNav(dates,dates[0]);
+  loadDate(dates[0]);
+});
+</script>
+</body>
+</html>

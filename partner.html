@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e0e0c">
+<title>Pointrade — Знайди B2B партнера за 24 години</title>
+<meta name="description" content="Закрита B2B мережа підприємців UA · PL · RO · TR. AI-матчинг постачальників, дистриб'юторів, байєрів.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500;1,9..144,600&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1F1A14;--paper:#FAF6EE;--soft:#F2EDE2;--line:rgba(31,26,20,0.08);--line-2:rgba(31,26,20,0.16);--muted:#7B7166;--softer:#EBE5D6;--brass:#A8884C;--olive:#6B7A3F;--red:#C25A3F;--accent:#C25A3F;--red-h:#a8472f;--red-s:#f8ebe6;--wa:#25d366;--tg:#0088cc;--serif:'Fraunces',Georgia,serif;--sans:'Geist',system-ui,sans-serif;--mono:'Geist Mono',monospace;--r:6px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{font-family:var(--sans);background:var(--paper);color:var(--ink);font-feature-settings:"ss01" on,"kern" on,"liga" on;font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
+.topbar{position:sticky;top:0;z-index:50;background:rgba(255,255,255,0.94);-webkit-backdrop-filter:saturate(180%) blur(10px);backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid var(--line);padding:12px 18px;display:flex;align-items:center;justify-content:space-between;gap:8px}
+.brand{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:0.18em;color:var(--ink);text-decoration:none;flex-shrink:0}
+.brand b{color:var(--red);font-weight:500}
+.langs{display:flex;gap:2px;background:var(--soft);padding:3px;border-radius:99px}
+.langs button{border:none;background:none;cursor:pointer;font-family:var(--mono);font-size:11px;font-weight:500;padding:6px 10px;border-radius:99px;color:var(--muted);transition:background .2s,color .2s}
+.langs button.on{background:var(--ink);color:#fff}
+.wrap{max-width:720px;margin:0 auto;padding:0 18px}
+.hero{padding:36px 0 24px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:0.16em;color:var(--red);display:flex;align-items:center;gap:10px;margin-bottom:18px;text-transform:uppercase}
+.eyebrow::before{content:'';display:block;width:22px;height:1px;background:var(--red)}
+.hero h1{font-family:var(--serif);font-size:clamp(38px,9vw,64px);font-weight:500;line-height:1;letter-spacing:-0.03em;margin-bottom:18px}
+.hero h1 em{font-style:italic;color:var(--red);font-weight:700}
+.hero p{font-size:16px;color:var(--muted);max-width:540px;margin-bottom:24px;line-height:1.6}
+.hero p strong{color:var(--ink);font-weight:500}
+.hero-stats{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:16px 0}
+.hs{padding:0 14px;border-right:1px solid var(--line)}
+.hs:first-child{padding-left:0}
+.hs:last-child{border-right:none;padding-right:0}
+.hs-num{font-family:var(--serif);font-size:28px;font-weight:600;line-height:1}
+.hs-lab{font-family:var(--mono);font-size:9px;letter-spacing:0.1em;color:var(--muted);margin-top:4px;text-transform:uppercase;line-height:1.3}
+.quiz{padding:28px 0 40px;border-top:1px solid var(--line);margin-top:24px}
+.qprog{display:flex;gap:6px;margin-bottom:28px}
+.qprog .d{flex:1;height:3px;background:var(--line);border-radius:2px;transition:background .3s}
+.qprog .d.done{background:var(--red)}
+.qprog .d.now{background:var(--ink)}
+.step{display:none;animation:in .35s ease}
+.step.on{display:block}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.s-eye{font-family:var(--mono);font-size:10px;letter-spacing:0.16em;color:var(--red);text-transform:uppercase;margin-bottom:10px}
+.s-q{font-family:var(--serif);font-size:clamp(28px,6.5vw,38px);font-weight:500;line-height:1.1;margin-bottom:8px;letter-spacing:-0.01em}
+.s-sub{font-size:14px;color:var(--muted);margin-bottom:24px;line-height:1.55}
+.markets{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:24px}
+.m-card{border:1px solid var(--line);border-radius:var(--r);padding:18px 14px;cursor:pointer;transition:border-color .15s,background .15s,transform .1s;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;position:relative;background:var(--paper)}
+.m-card:active{transform:scale(0.98)}
+.m-card.sel{border-color:var(--red);background:var(--red-s)}
+.m-card.sel::after{content:'✓';position:absolute;top:6px;right:8px;font-size:11px;color:var(--red);font-family:var(--mono);font-weight:600}
+.m-flag{font-size:28px;line-height:1}
+.m-name{font-size:13px;font-weight:500;color:var(--ink)}
+.m-sub{font-size:11px;color:var(--muted);font-weight:400;line-height:1.4}
+.opts{display:flex;flex-direction:column;gap:8px;margin-bottom:24px}
+.opt{display:flex;align-items:flex-start;gap:12px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--r);cursor:pointer;transition:border-color .15s,background .15s,transform .1s;background:var(--paper)}
+.opt:active{transform:scale(0.99)}
+.opt.sel{border-color:var(--red);background:var(--red-s)}
+.opt-ic{font-size:22px;flex-shrink:0;line-height:1;margin-top:2px}
+.opt-body{flex:1;min-width:0}
+.opt-t{font-size:14px;font-weight:500;color:var(--ink);margin-bottom:2px}
+.opt-d{font-size:12px;color:var(--muted);line-height:1.45}
+.opt-ck{flex-shrink:0;width:18px;height:18px;border:1px solid var(--line-2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;color:transparent;transition:all .15s;margin-top:2px}
+.opt.sel .opt-ck{background:var(--red);border-color:var(--red);color:#fff}
+.nav{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:20px;border-top:1px solid var(--line)}
+.btn{font-family:var(--mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;border:none;cursor:pointer;font-weight:500;transition:background .15s,color .15s,transform .1s}
+.btn:active{transform:scale(0.97)}
+.btn-back{background:none;color:var(--muted);padding:12px 0;display:flex;align-items:center;gap:6px}
+.btn-back:disabled{opacity:0;pointer-events:none}
+.btn-next{background:var(--ink);color:#fff;padding:14px 28px;border-radius:var(--r);display:flex;align-items:center;gap:8px;text-decoration:none}
+.btn-next:disabled{opacity:0.3;pointer-events:none}
+.result-box{border:1px solid var(--line);border-radius:var(--r);padding:24px 22px;margin-bottom:20px;position:relative;overflow:hidden;background:var(--paper)}
+.result-box::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--red)}
+.r-eye{font-family:var(--mono);font-size:9px;letter-spacing:0.16em;color:var(--red);text-transform:uppercase;margin-bottom:10px}
+.r-h{font-family:var(--serif);font-size:26px;font-weight:700;line-height:1.15;letter-spacing:-0.01em;margin-bottom:12px}
+.r-h .num{color:var(--red);font-style:italic}
+.r-body{font-size:14px;color:var(--muted);line-height:1.65;margin-bottom:18px}
+.r-matches{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:22px}
+.r-chip{font-family:var(--mono);font-size:10px;padding:5px 11px;border:1px solid var(--line-2);border-radius:99px;color:var(--muted);letter-spacing:0.04em}
+.r-cta-lab{font-family:var(--mono);font-size:10px;letter-spacing:0.14em;color:var(--muted);text-transform:uppercase;margin-bottom:10px}
+.field{display:flex;flex-direction:column;gap:6px;margin-bottom:12px}
+.field label{font-family:var(--mono);font-size:9px;letter-spacing:0.1em;color:var(--muted);text-transform:uppercase}
+.field input,.field textarea{font-family:var(--sans);font-size:15px;padding:13px 14px;border:1px solid var(--line);border-radius:var(--r);outline:none;background:var(--paper);color:var(--ink);width:100%;transition:border-color .15s;-webkit-appearance:none;resize:vertical}
+.field textarea{min-height:80px;line-height:1.45}
+.field input:focus,.field textarea:focus{border-color:var(--red)}
+.field input::placeholder,.field textarea::placeholder{color:#c0bdb5}
+.chans{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px;margin-bottom:16px}
+.chan{display:flex;align-items:center;gap:6px;padding:8px 12px;border:1px solid var(--line);border-radius:99px;cursor:pointer;transition:all .15s;font-size:12px;font-weight:500;user-select:none}
+.chan input{display:none}
+.chan-ic{font-size:14px;line-height:1}
+.chan.sel{border-color:var(--ink);background:var(--ink);color:#fff}
+.chan.wa.sel{background:var(--wa);border-color:var(--wa)}
+.chan.tg.sel{background:var(--tg);border-color:var(--tg)}
+.consent{display:flex;gap:10px;align-items:flex-start;padding:12px 0 16px;font-size:12px;color:var(--muted);line-height:1.45}
+.consent input[type="checkbox"]{flex-shrink:0;width:16px;height:16px;margin-top:2px;accent-color:var(--red);cursor:pointer}
+.consent label{cursor:pointer}
+.consent a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
+.r-submit{width:100%;background:var(--red);color:#fff;border:none;padding:16px;font-family:var(--mono);font-size:12px;font-weight:500;letter-spacing:0.12em;text-transform:uppercase;border-radius:var(--r);cursor:pointer;transition:background .15s,transform .1s}
+.r-submit:active{transform:scale(0.98)}
+.r-submit:hover{background:var(--red-h)}
+.r-note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:10px;text-align:center;letter-spacing:0.04em}
+.success{display:none;text-align:center;padding:24px 18px;background:var(--soft);border-radius:var(--r);border:1px solid var(--line)}
+.success.show{display:block}
+.success-ic{width:48px;height:48px;background:var(--red);border-radius:50%;margin:0 auto 16px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:22px}
+.success h3{font-family:var(--serif);font-size:24px;font-weight:600;margin-bottom:6px}
+.success p{font-size:13px;color:var(--muted);line-height:1.5}
+.sec-links{margin-top:24px;padding:18px;background:var(--soft);border-radius:var(--r)}
+.sec-h{font-family:var(--mono);font-size:10px;letter-spacing:0.12em;color:var(--muted);text-transform:uppercase;margin-bottom:12px}
+.sec-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.sec-item{display:flex;align-items:center;gap:10px;padding:12px 14px;background:var(--paper);border:1px solid var(--line);border-radius:var(--r);text-decoration:none;color:var(--ink);transition:border-color .15s,transform .1s}
+.sec-item:active{transform:scale(0.98)}
+.sec-item:hover{border-color:var(--ink)}
+.sec-ic{font-size:18px}
+.sec-body{flex:1;min-width:0}
+.sec-t{font-size:13px;font-weight:500;line-height:1.2}
+.sec-d{font-size:11px;color:var(--muted);margin-top:2px;line-height:1.3}
+footer{border-top:1px solid var(--line);padding:24px 18px 32px;margin-top:32px;background:var(--soft)}
+.foot-inner{max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:14px}
+.foot-row{display:flex;gap:18px;flex-wrap:wrap}
+.foot-row a{font-family:var(--mono);font-size:10px;letter-spacing:0.1em;color:var(--muted);text-transform:uppercase;text-decoration:none;transition:color .15s}
+.foot-row a:hover{color:var(--ink)}
+.foot-meta{font-family:var(--mono);font-size:10px;color:#b8b6ae;letter-spacing:0.06em}
+@media(min-width:720px){.topbar{padding:14px 28px}.wrap{padding:0 28px}.hero{padding:56px 0 32px}.markets{grid-template-columns:repeat(4,1fr)}.sec-grid{grid-template-columns:repeat(4,1fr)}}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="index.html" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POINT<b>·</b>RADE</a>
+  <div class="langs">
+    <button class="on" data-l="uk" onclick="setLang('uk')">🇺🇦 UA</button>
+    <button data-l="pl" onclick="setLang('pl')">🇵🇱 PL</button>
+    <button data-l="ro" onclick="setLang('ro')">🇷🇴 RO</button>
+    <button data-l="tr" onclick="setLang('tr')">🇹🇷 TR</button>
+  </div>
+</div>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="eyebrow" id="t-eye">Закрита B2B мережа</div>
+    <h1 id="t-h1">Знайди<br><em>партнера</em><br>за 24 години.</h1>
+    <p id="t-desc"></p>
+    <a href="../join.html" style="display:inline-flex;align-items:center;gap:10px;padding:13px 22px;background:var(--ink);color:var(--paper);font-family:var(--mono);font-size:11px;letter-spacing:0.12em;text-transform:uppercase;text-decoration:none;border-radius:5px;margin-bottom:28px;transition:background .2s" onmouseover="this.style.background='var(--red)'" onmouseout="this.style.background='var(--ink)'">Увійти через Google →</a>
+<div class="hero-stats">
+      <div class="hs"><div class="hs-num">100k+</div><div class="hs-lab" id="t-s1"></div></div>
+      <div class="hs"><div class="hs-num">24h</div><div class="hs-lab" id="t-s2"></div></div>
+      <div class="hs"><div class="hs-num">4</div><div class="hs-lab" id="t-s3"></div></div>
+    </div>
+  </section>
+
+  <section class="quiz" id="quiz">
+    <div class="qprog"><div class="d now" id="d1"></div><div class="d" id="d2"></div><div class="d" id="d3"></div></div>
+
+    <div class="step on" id="step-1">
+      <div class="s-eye" id="s1-e">Крок 01 з 03</div>
+      <div class="s-q" id="s1-q">Який твій ринок?</div>
+      <div class="s-sub" id="s1-s">Обери один — підлаштуємо матчинг під тебе.</div>
+      <div class="markets" id="m-grid"></div>
+      <div class="nav">
+        <button class="btn btn-back" disabled><span id="b1-back">Назад</span></button>
+        <button class="btn btn-next" id="next-1" disabled onclick="go(2)"><span id="b1-next">Далі</span> →</button>
+      </div>
+    </div>
+
+    <div class="step" id="step-2">
+      <div class="s-eye" id="s2-e">Крок 02 з 03</div>
+      <div class="s-q" id="s2-q">Хто ти в бізнесі?</div>
+      <div class="s-sub" id="s2-s">Знайдемо партнерів які шукають саме тебе.</div>
+      <div class="opts" id="r-opts"></div>
+      <div class="nav">
+        <button class="btn btn-back" onclick="go(1)">← <span id="b2-back">Назад</span></button>
+        <button class="btn btn-next" id="next-2" disabled onclick="go(3)"><span id="b2-next">Далі</span> →</button>
+      </div>
+    </div>
+
+    <div class="step" id="step-3">
+      <div class="s-eye" id="s3-e">Твій результат</div>
+      <div class="result-box">
+        <div class="r-eye" id="r-eye">Pointrade · Персональний підбір</div>
+        <div class="r-h" id="r-h">Дякую. Підберу 3 контакти з мережі особисто.</div>
+        <div class="r-body" id="r-body">Опиши коротко що саме шукаєш — це допоможе вибрати правильних людей. Відповідь — за 24 години у обраному каналі.</div>
+
+        <form id="cform" onsubmit="submitContact(event)">
+          <div class="r-cta-lab" id="r-intent-lab">Що саме шукаєш?</div>
+          <div class="field"><textarea id="f-intent" rows="3" placeholder="Напр.: PL дистриб'ютор для UA побутової хімії, опт від 1 контейнера/міс" required></textarea></div>
+          <div class="r-cta-lab" id="r-cta-lab">Як з тобою зв'язатися?</div>
+          <div class="field"><label id="f-name-l">Ім'я</label><input type="text" id="f-name" placeholder="Іван" required></div>
+          <div class="field"><label id="f-email-l">Email</label><input type="email" id="f-email" placeholder="ivan@company.com" required></div>
+          <div class="field"><label id="f-phone-l">Телефон / WhatsApp / Telegram</label><input type="tel" id="f-phone" placeholder="+380 50 123 4567"></div>
+
+          <div class="r-cta-lab" id="r-chan-lab">Канали зв'язку (обери)</div>
+          <div class="chans">
+            <label class="chan wa sel" data-c="whatsapp"><input type="checkbox" checked><span class="chan-ic">📱</span><span>WhatsApp</span></label>
+            <label class="chan tg sel" data-c="telegram"><input type="checkbox" checked><span class="chan-ic">✈</span><span>Telegram</span></label>
+            <label class="chan sel" data-c="email"><input type="checkbox" checked><span class="chan-ic">✉</span><span>Email</span></label>
+          </div>
+
+          <div class="consent">
+            <input type="checkbox" id="f-consent" required>
+            <label for="f-consent" id="f-consent-l">Згоден з <a href="privacy.html" target="_blank">обробкою даних</a> для підбору партнерів. Можу відкликати в будь-який момент.</label>
+          </div>
+          <button type="submit" class="r-submit" id="r-btn">Отримати 3 матчі →</button>
+          <div class="r-note" id="r-note">Без спаму. Тільки релевантні контакти.</div>
+        </form>
+
+        <div class="success" id="success">
+          <div class="success-ic">✓</div>
+          <h3 id="suc-h">Заявку прийнято</h3>
+          <p id="suc-p">Перші 3 матчі — протягом 24 годин.</p>
+        </div>
+      </div>
+
+      <div class="nav">
+        <button class="btn btn-back" onclick="go(2)">← <span id="b3-back">Назад</span></button>
+        <a href="orbit/onboarding.html" class="btn btn-next"><span id="b3-full">Повний профіль</span> →</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="sec-links">
+    <div class="sec-h" id="sec-h">Що ще є на Pointrade</div>
+    <div class="sec-grid">
+      <a href="catalog/lime.html" class="sec-item"><span class="sec-ic">📦</span><div class="sec-body"><div class="sec-t" id="sec1-t">Каталог</div><div class="sec-d" id="sec1-d">Товари партнерів</div></div></a>
+      <a href="news/index.html" class="sec-item"><span class="sec-ic">📰</span><div class="sec-body"><div class="sec-t" id="sec2-t">Новини</div><div class="sec-d" id="sec2-d">Бізнес-дайджест</div></div></a>
+      <a href="orbit/onboarding.html" class="sec-item"><span class="sec-ic">👤</span><div class="sec-body"><div class="sec-t" id="sec3-t">Профіль</div><div class="sec-d" id="sec3-d">Повне налаштування</div></div></a>
+      <a href="https://t.me/signal_ua" target="_blank" class="sec-item"><span class="sec-ic">✈</span><div class="sec-body"><div class="sec-t" id="sec4-t">Telegram</div><div class="sec-d" id="sec4-d">Канал дайджесту</div></div></a>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="foot-inner">
+    <a href="index.html" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POINT<b>·</b>RADE</a>
+    <div class="foot-row">
+      <a href="index.html" id="f-home">Головна</a>
+      <a href="orbit/onboarding.html" id="f-join">Приєднатись</a>
+      <a href="catalog/lime.html" id="f-cat">Каталог</a>
+      <a href="news/index.html" id="f-news">Новини</a>
+    </div>
+    <div class="foot-meta">UA · PL · RO · TR · © 2026 Pointrade</div>
+  </div>
+</footer>
+
+<script>
+const i18n={
+uk:{eye:"Закрита B2B мережа",h1:"Знайди<br><em>партнера</em><br>за 24 години.",desc:"Виробники, дистриб'ютори, байєри і інвестори з <strong>4 ринків</strong> — UA · PL · RO · TR. AI знаходить релевантний контакт без LinkedIn і холодних дзвінків.",s1:"UA бізнесів<br>у Польщі",s2:"До першого<br>матчу",s3:"Ринки<br>в мережі",s1e:"Крок 01 з 03",s1q:"Який твій ринок?",s1s:"Обери один — підлаштуємо матчинг під тебе.",s2e:"Крок 02 з 03",s2q:"Хто ти в бізнесі?",s2s:"Знайдемо партнерів які шукають саме тебе.",s3e:"Твій результат",rEye:"Pointrade · Персональний підбір",intentLab:"Що саме шукаєш?",intentP:"Напр.: PL дистриб'ютор для UA побутової хімії, опт від 1 контейнера/міс",rBody:"Опиши коротко що саме шукаєш — це допоможе вибрати правильних людей. Відповідь — за 24 години у обраному каналі.",rCtaLab:"Як з тобою зв'язатися?",fNameLab:"Ім'я",fNameP:"Іван",fEmailLab:"Email",fEmailP:"ivan@company.com",fPhoneLab:"Телефон / WhatsApp / Telegram",fPhoneP:"+380 50 123 4567",rChanLab:"Канали зв'язку (обери)",rBtn:"Надіслати запит →",rNote:"Без спаму. Тільки релевантні контакти.",sucH:"Заявку прийнято",sucP:"Перші 3 матчі — протягом 24 годин обраним каналом.",back:"Назад",next:"Далі",full:"Повний профіль",secH:"Що ще є на Pointrade",sec1t:"Каталог",sec1d:"Товари партнерів",sec2t:"Новини",sec2d:"Бізнес-дайджест",sec3t:"Профіль",sec3d:"Повне налаштування",sec4t:"Telegram",sec4d:"Канал дайджесту",fHome:"Головна",fJoin:"Приєднатись",fCat:"Каталог",fNews:"Новини",consentLab:"Згоден з <a href='privacy.html' target='_blank'>обробкою даних</a> для підбору партнерів. Можу відкликати в будь-який момент.",
+markets:[{code:'ua',flag:'🇺🇦',name:'Україна',sub:'Виробник, бренд, e-com'},{code:'pl',flag:'🇵🇱',name:'Польща',sub:'Байєр, дистриб\'ютор, рітейл'},{code:'ro',flag:'🇷🇴',name:'Румунія',sub:'Імпортер, дистриб\'ютор'},{code:'tr',flag:'🇹🇷',name:'Туреччина',sub:'Виробник, експортер'}],
+roles:{ua:[{id:'producer',icon:'🏭',t:'Виробник / Бренд',d:'Маєш продукт — шукаєш вихід в EU рітейл'},{id:'distributor',icon:'🚚',t:'Дистриб\'ютор / Імпортер',d:'Маєш канали — шукаєш нові SKU'},{id:'ecom',icon:'💻',t:'E-commerce',d:'Шукаєш фулфілмент або партнера на EU'},{id:'investor',icon:'💰',t:'Інвестор',d:'Шукаєш проєкт у регіоні'}],pl:[{id:'buyer',icon:'🏪',t:'Байєр / Рітейлер',d:'Шукаєш UA/TR постачальника'},{id:'distributor',icon:'🚚',t:'Дистриб\'ютор',d:'Шукаєш нові бренди для полиці'},{id:'horeca',icon:'🏨',t:'HoReCa',d:'Постачальник або канал збуту'},{id:'ecom',icon:'💻',t:'E-commerce',d:'Шукаєш нові продукти для Allegro'}],ro:[{id:'importer',icon:'📦',t:'Імпортер',d:'Шукаєш постачальників EU/UA/TR'},{id:'buyer',icon:'🏪',t:'Рітейлер / Байєр',d:'Шукаєш унікальні продукти'},{id:'distributor',icon:'🚚',t:'Дистриб\'ютор',d:'Шукаєш бренди для партнерства'}],tr:[{id:'producer',icon:'🏭',t:'Виробник / Експортер',d:'Шукаєш дистриб\'ютора в EU'},{id:'agent',icon:'🤝',t:'Торговий агент',d:'Шукаєш EU партнерів'},{id:'logistics',icon:'📦',t:'Логістика TR-EU',d:'Шукаєш клієнтів'}]}},
+pl:{eye:"Zamknięta sieć B2B",h1:"Znajdź<br><em>partnera</em><br>w 48 godzin.",desc:"Producenci, dystrybutorzy, kupcy i inwestorzy z <strong>4 rynków</strong> — UA · PL · RO · TR. AI znajdzie kontakt bez LinkedIn i zimnych telefonów.",s1:"Firm UA<br>w Polsce",s2:"Do pierwszego<br>matchu",s3:"Rynki<br>w sieci",s1e:"Krok 01 z 03",s1q:"Jaki jest Twój rynek?",s1s:"Wybierz jeden lub kilka.",s2e:"Krok 02 z 03",s2q:"Kim jesteś w biznesie?",s2s:"Znajdziemy partnerów dla Ciebie.",s3e:"Twój wynik",rEye:"Pointrade · Personalny dobór",intentLab:"Czego dokładnie szukasz?",intentP:"Np.: dystrybutor PL dla UA chemii gospodarczej, hurt od 1 kontenera/miesiąc",rBody:"Opisz krótko czego szukasz — pomoże mi wybrać właściwych ludzi. Odpowiedź w ciągu 24h wybranym kanałem.",rCtaLab:"Jak się skontaktować?",fNameLab:"Imię",fNameP:"Jan",fEmailLab:"Email",fEmailP:"jan@firma.pl",fPhoneLab:"Telefon / WhatsApp / Telegram",fPhoneP:"+48 500 123 456",rChanLab:"Kanały kontaktu",rBtn:"Wyślij zapytanie →",rNote:"Bez spamu.",sucH:"Zgłoszenie przyjęte",sucP:"Pierwsze matche — w ciągu 24 godzin.",back:"Wstecz",next:"Dalej",full:"Pełny profil",secH:"Co jeszcze jest",sec1t:"Katalog",sec1d:"Towary partnerów",sec2t:"Wiadomości",sec2d:"Digest",sec3t:"Profil",sec3d:"Konfiguracja",sec4t:"Telegram",sec4d:"Kanał",fHome:"Główna",fJoin:"Dołącz",fCat:"Katalog",fNews:"Wiadomości",consentLab:"Zgadzam się na <a href='privacy.html' target='_blank'>przetwarzanie danych</a> w celu doboru partnerów. Mogę wycofać w każdej chwili.",
+markets:[{code:'ua',flag:'🇺🇦',name:'Ukraina',sub:'Producent, marka'},{code:'pl',flag:'🇵🇱',name:'Polska',sub:'Nabywca, dystrybutor'},{code:'ro',flag:'🇷🇴',name:'Rumunia',sub:'Importer'},{code:'tr',flag:'🇹🇷',name:'Turcja',sub:'Producent'}],
+roles:{ua:[{id:'producer',icon:'🏭',t:'Producent / Marka',d:'Szukasz EU retailu'},{id:'distributor',icon:'🚚',t:'Dystrybutor',d:'Szukasz SKU'},{id:'ecom',icon:'💻',t:'E-commerce',d:'Szukasz partnera EU'}],pl:[{id:'buyer',icon:'🏪',t:'Nabywca / Retailer',d:'Szukasz dostawcy UA/TR'},{id:'distributor',icon:'🚚',t:'Dystrybutor',d:'Szukasz nowych marek'},{id:'horeca',icon:'🏨',t:'HoReCa',d:'Dostawca lub kanał'}],ro:[{id:'importer',icon:'📦',t:'Importer',d:'Szukasz dostawców'},{id:'buyer',icon:'🏪',t:'Retailer',d:'Szukasz unikalnych produktów'}],tr:[{id:'producer',icon:'🏭',t:'Producent',d:'Szukasz dystrybutora EU'},{id:'agent',icon:'🤝',t:'Agent',d:'Szukasz partnerów EU'}]}},
+ro:{eye:"Rețea B2B închisă",h1:"Găsește<br><em>partener</em><br>în 48 de ore.",desc:"Producători, distribuitori, cumpărători din <strong>4 piețe</strong> — UA · PL · RO · TR.",s1:"Firme UA<br>în Polonia",s2:"Până la<br>primul match",s3:"Piețe<br>în rețea",s1e:"Pasul 01 / 03",s1q:"Care e piața ta?",s1s:"Alege una sau mai multe.",s2e:"Pasul 02 / 03",s2q:"Cine ești în afaceri?",s2s:"Găsim partenerii potriviți.",s3e:"Rezultatul tău",rEye:"Pointrade · Selecție personală",intentLab:"Ce cauți exact?",intentP:"Ex.: distribuitor PL pentru chimie de uz casnic UA, en-gros de la 1 container/lună",rBody:"Descrie scurt ce cauți — mă va ajuta să aleg oamenii potriviți. Răspuns în 24 de ore pe canalul ales.",rCtaLab:"Cum te contactăm?",fNameLab:"Nume",fNameP:"Ion",fEmailLab:"Email",fEmailP:"ion@firma.ro",fPhoneLab:"Telefon / WhatsApp / Telegram",fPhoneP:"+40 700 123 456",rChanLab:"Canale de contact",rBtn:"Trimite cererea →",rNote:"Fără spam.",sucH:"Cerere acceptată",sucP:"Primele match-uri — în 24 de ore.",back:"Înapoi",next:"Înainte",full:"Profil complet",secH:"Ce mai e pe Pointrade",sec1t:"Catalog",sec1d:"Produse parteneri",sec2t:"Știri",sec2d:"Digest business",sec3t:"Profil",sec3d:"Configurare",sec4t:"Telegram",sec4d:"Canal digest",fHome:"Acasă",fJoin:"Înscriere",fCat:"Catalog",fNews:"Știri",consentLab:"Sunt de acord cu <a href='privacy.html' target='_blank'>prelucrarea datelor</a> pentru selecția partenerilor. Pot retrage oricând.",
+markets:[{code:'ua',flag:'🇺🇦',name:'Ucraina',sub:'Producător, brand'},{code:'pl',flag:'🇵🇱',name:'Polonia',sub:'Cumpărător'},{code:'ro',flag:'🇷🇴',name:'România',sub:'Importator'},{code:'tr',flag:'🇹🇷',name:'Turcia',sub:'Producător'}],
+roles:{ua:[{id:'producer',icon:'🏭',t:'Producător',d:'Cauți retail EU'},{id:'distributor',icon:'🚚',t:'Distribuitor',d:'Cauți noi SKU'}],pl:[{id:'buyer',icon:'🏪',t:'Cumpărător',d:'Cauți furnizor UA/TR'},{id:'distributor',icon:'🚚',t:'Distribuitor',d:'Cauți noi mărci'}],ro:[{id:'importer',icon:'📦',t:'Importator',d:'Cauți furnizori'},{id:'buyer',icon:'🏪',t:'Retailer',d:'Cauți produse unice'},{id:'distributor',icon:'🚚',t:'Distribuitor',d:'Cauți mărci'}],tr:[{id:'producer',icon:'🏭',t:'Producător',d:'Cauți distribuitor EU'},{id:'agent',icon:'🤝',t:'Agent',d:'Cauți parteneri EU'}]}},
+tr:{eye:"Kapalı B2B ağı",h1:"<em>Ortağını</em><br>48 saatte<br>bul.",desc:"<strong>4 pazardan</strong> üreticiler, distribütörler, alıcılar — UA · PL · RO · TR.",s1:"Polonya'da<br>UA şirketi",s2:"İlk<br>eşleşmeye",s3:"Ağdaki<br>pazar",s1e:"Adım 01 / 03",s1q:"Pazarın hangisi?",s1s:"Bir veya birkaçını seç.",s2e:"Adım 02 / 03",s2q:"İşte kimsin?",s2s:"Sana uygun ortakları bulalım.",s3e:"Sonucun",rEye:"Pointrade · Kişisel seçim",intentLab:"Tam olarak ne arıyorsun?",intentP:"Örn.: UA temizlik kimyasalları için PL distribütör, ayda 1 konteyner toptan",rBody:"Ne aradığını kısaca tarif et — doğru insanları seçmeme yardımcı olur. Seçilen kanaldan 24 saat içinde yanıt.",rCtaLab:"Sana nasıl ulaşalım?",fNameLab:"Ad",fNameP:"Mehmet",fEmailLab:"E-posta",fEmailP:"mehmet@firma.com",fPhoneLab:"Telefon / WhatsApp / Telegram",fPhoneP:"+90 532 123 4567",rChanLab:"İletişim kanalları",rBtn:"Talebi gönder →",rNote:"Spam yok.",sucH:"Başvuru alındı",sucP:"İlk eşleşmeler — 24 saat içinde.",back:"Geri",next:"İleri",full:"Tam profil",secH:"Pointrade'da neler var",sec1t:"Katalog",sec1d:"Ortak ürünleri",sec2t:"Haberler",sec2d:"İş özeti",sec3t:"Profil",sec3d:"Tam kurulum",sec4t:"Telegram",sec4d:"Özet kanalı",fHome:"Ana sayfa",fJoin:"Katıl",fCat:"Katalog",fNews:"Haberler",consentLab:"Ortak seçimi için <a href='privacy.html' target='_blank'>veri işlenmesini</a> kabul ediyorum. İstediğim zaman geri alabilirim.",
+markets:[{code:'ua',flag:'🇺🇦',name:'Ukrayna',sub:'Üretici, marka'},{code:'pl',flag:'🇵🇱',name:'Polonya',sub:'Alıcı'},{code:'ro',flag:'🇷🇴',name:'Romanya',sub:'İthalatçı'},{code:'tr',flag:'🇹🇷',name:'Türkiye',sub:'Üretici'}],
+roles:{tr:[{id:'producer',icon:'🏭',t:'Üretici / İhracatçı',d:'AB distribütörü arıyorum'},{id:'agent',icon:'🤝',t:'Ticari temsilci',d:'AB partnerleri'},{id:'logistics',icon:'📦',t:'Lojistik',d:'TR-AB müşterileri'}],ua:[{id:'producer',icon:'🏭',t:'Üretici',d:'AB pazarına giriş'},{id:'distributor',icon:'🚚',t:'Distribütör',d:'Yeni SKU'}],pl:[{id:'buyer',icon:'🏪',t:'Alıcı',d:'UA/TR tedarikçi'}],ro:[{id:'importer',icon:'📦',t:'İthalatçı',d:'AB/UA/TR tedarikçi'}]}}};
+
+let state={lang:'uk',market:null,role:null,step:1};
+function $(id){return document.getElementById(id)}
+function applyLang(L){
+  const t=i18n[L];document.documentElement.lang=L;
+  $('t-eye').textContent=t.eye;$('t-h1').innerHTML=t.h1;$('t-desc').innerHTML=t.desc;
+  $('t-s1').innerHTML=t.s1;$('t-s2').innerHTML=t.s2;$('t-s3').innerHTML=t.s3;
+  $('s1-e').textContent=t.s1e;$('s1-q').textContent=t.s1q;$('s1-s').textContent=t.s1s;
+  $('s2-e').textContent=t.s2e;$('s2-q').textContent=t.s2q;$('s2-s').textContent=t.s2s;
+  $('s3-e').textContent=t.s3e;$('r-eye').textContent=t.rEye;$('r-body').textContent=t.rBody;
+  $('r-intent-lab').textContent=t.intentLab;$('f-intent').placeholder=t.intentP;
+  $('r-cta-lab').textContent=t.rCtaLab;
+  $('f-name-l').textContent=t.fNameLab;$('f-name').placeholder=t.fNameP;
+  $('f-email-l').textContent=t.fEmailLab;$('f-email').placeholder=t.fEmailP;
+  $('f-phone-l').textContent=t.fPhoneLab;$('f-phone').placeholder=t.fPhoneP;
+  $('r-chan-lab').textContent=t.rChanLab;$('r-btn').textContent=t.rBtn;$('r-note').textContent=t.rNote;
+  $('f-consent-l').innerHTML=t.consentLab;
+  $('suc-h').textContent=t.sucH;$('suc-p').textContent=t.sucP;
+  ['b1-back','b2-back','b3-back'].forEach(id=>$(id)&&($(id).textContent=t.back));
+  ['b1-next','b2-next'].forEach(id=>$(id)&&($(id).textContent=t.next));
+  $('b3-full').textContent=t.full;$('sec-h').textContent=t.secH;
+  $('sec1-t').textContent=t.sec1t;$('sec1-d').textContent=t.sec1d;
+  $('sec2-t').textContent=t.sec2t;$('sec2-d').textContent=t.sec2d;
+  $('sec3-t').textContent=t.sec3t;$('sec3-d').textContent=t.sec3d;
+  $('sec4-t').textContent=t.sec4t;$('sec4-d').textContent=t.sec4d;
+  $('f-home').textContent=t.fHome;$('f-join').textContent=t.fJoin;
+  $('f-cat').textContent=t.fCat;$('f-news').textContent=t.fNews;
+  renderMarkets();
+  if(state.market)renderRoles();
+}
+function setLang(L){state.lang=L;document.querySelectorAll('.langs button').forEach(b=>b.classList.toggle('on',b.dataset.l===L));applyLang(L)}
+function renderMarkets(){
+  const t=i18n[state.lang];
+  $('m-grid').innerHTML=t.markets.map(m=>`<div class="m-card${state.market===m.code?' sel':''}" data-m="${m.code}" onclick="selMarket('${m.code}')"><div class="m-flag">${m.flag}</div><div class="m-name">${m.name}</div><div class="m-sub">${m.sub}</div></div>`).join('');
+}
+function selMarket(c){state.market=c;state.role=null;document.querySelectorAll('.m-card').forEach(x=>x.classList.toggle('sel',x.dataset.m===c));$('next-1').disabled=false}
+function renderRoles(){
+  const t=i18n[state.lang];const roles=(t.roles[state.market])||(i18n.uk.roles[state.market])||[];
+  $('r-opts').innerHTML=roles.map(r=>`<div class="opt${state.role===r.id?' sel':''}" data-r="${r.id}" onclick="selRole('${r.id}')"><div class="opt-ic">${r.icon}</div><div class="opt-body"><div class="opt-t">${r.t}</div><div class="opt-d">${r.d}</div></div><div class="opt-ck">✓</div></div>`).join('');
+  $('next-2').disabled=!state.role;
+}
+function selRole(id){state.role=id;document.querySelectorAll('.opt').forEach(o=>o.classList.toggle('sel',o.dataset.r===id));$('next-2').disabled=false}
+function go(n){
+  if(n===2)renderRoles();
+  document.querySelectorAll('.step').forEach(s=>s.classList.remove('on'));
+  $('step-'+n).classList.add('on');state.step=n;
+  for(let i=1;i<=3;i++){const d=$('d'+i);d.classList.remove('done','now');if(i<n)d.classList.add('done');else if(i===n)d.classList.add('now')}
+  window.scrollTo({top:$('quiz').offsetTop-60,behavior:'smooth'});
+}
+document.querySelectorAll('.chan').forEach(c=>c.addEventListener('click',e=>{e.preventDefault();c.classList.toggle('sel');c.querySelector('input').checked=c.classList.contains('sel')}));
+function submitContact(e){
+  e.preventDefault();
+  const btn=$('r-btn');const origText=btn.textContent;btn.textContent='...';btn.disabled=true;
+  const channels=[...document.querySelectorAll('.chan.sel')].map(c=>c.dataset.c);
+  const payload={
+    name:$('f-name').value.trim(),
+    email:$('f-email').value.trim(),
+    phone:$('f-phone').value.trim(),
+    intent:$('f-intent').value.trim(),
+    market:state.market,
+    role:state.role,
+    channels:channels,
+    lang:state.lang,
+    consent_pdpa:$('f-consent').checked
+  };
+  fetch('https://chysto.media/signal/orbit/save_lead.php',{
+    method:'POST',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify(payload)
+  }).then(r=>r.ok?r.json():Promise.reject(r.status))
+    .then(()=>{$('cform').style.display='none';$('success').classList.add('show')})
+    .catch(err=>{
+      btn.textContent=origText;btn.disabled=false;
+      $('r-note').textContent='Помилка відправки. Напиши на hello@signal.ua або в Telegram @signal_ua';
+      $('r-note').style.color='var(--red)';
+      console.error('Pointrade lead save failed:',err);
+    });
+}
+applyLang('uk');
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Pointrade — icon mark only (no wordmark)
+  Use for topbar, favicon, small placements.
+  Colors: Navy #1B1E78 · Steel #6B9FC4
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="80 10 80 80"
+     width="80" height="80"
+     role="img"
+     aria-label="Pointrade">
+  <title>Pointrade icon</title>
+
+  <!-- Arc: navy, open right side -->
+  <path d="M 151 32 A 36 36 0 1 0 151 68"
+        fill="none"
+        stroke="#1B1E78"
+        stroke-width="8.5"
+        stroke-linecap="round"/>
+
+  <!-- P: steel blue -->
+  <path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z"
+        fill="#6B9FC4"/>
+</svg>

@@ -1,0 +1,56 @@
+name: Biz Digest
+
+on:
+  schedule:
+    - cron: '30 4 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'morning or evening'
+        required: false
+        default: 'morning'
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser
+
+      - name: Collect articles
+        run: python3 rss_collector.py
+
+      - name: Set mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode || 'morning' }}" >> $GITHUB_OUTPUT
+          else
+            HOUR=$(TZ='Europe/Kyiv' date +%H)
+            if [ "$HOUR" -lt 14 ]; then
+              echo "mode=morning" >> $GITHUB_OUTPUT
+            else
+              echo "mode=evening" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Generate and send
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_PAGES_URL: https://kinetics1998-prog.github.io/biz-digest
+        run: python3 magazine_generator.py --${{ steps.mode.outputs.mode }}
+
+      - name: Commit
+        run: |
+          git config user.name "BizDigest Bot"
+          git config user.email "bot@biz-digest"
+          git add data/ magazines/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Digest $(date +'%Y-%m-%d %H:%M')"
+          git push

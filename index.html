@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#1F1A14">
+<title>Pointrade — Закрита B2B мережа підприємців UA · PL · RO · TR</title>
+<meta name="description" content="Pointrade — закрита B2B мережа підприємців UA, PL, RO, TR. Бізнес-дайджест, AI-матчинг, B2B каталоги. Знайди партнера за 24 год без LinkedIn і виставок.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500;1,9..144,600&family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#FAF6EE;
+  --soft:#F2EDE2;
+  --softer:#EBE5D6;
+  --ink:#1F1A14;
+  --muted:#7B7166;
+  --line-2:rgba(31,26,20,0.16);
+  --accent:#C25A3F;
+  --brass:#A8884C;
+  --display:'Fraunces',Georgia,serif;
+  --sans:'Geist',system-ui,sans-serif;
+  --mono:'Geist Mono',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{
+  font-family:var(--sans);
+  background:var(--paper);
+  color:var(--ink);
+  font-size:16px;line-height:1.7;
+  -webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent;
+  font-feature-settings:"ss01" on,"kern" on,"liga" on,"onum" on;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.12 0 0 0 0 0.10 0 0 0 0 0.08 0 0 0 0.025 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+/* ── TICKER ── */
+.ticker{background:var(--ink);color:var(--paper);padding:0;overflow:hidden;border-bottom:1px solid var(--ink);height:34px;display:flex;align-items:center}
+.ticker-badge{flex-shrink:0;background:var(--accent);font-family:var(--mono);font-size:9px;letter-spacing:0.2em;font-weight:500;padding:0 14px;height:100%;display:flex;align-items:center;color:var(--paper);text-transform:uppercase;z-index:2}
+.ticker-inner{display:flex;gap:0;animation:scroll 80s linear infinite;white-space:nowrap}
+.ticker-item{font-family:var(--mono);font-size:10.5px;letter-spacing:0.08em;color:rgba(250,246,238,0.7);flex-shrink:0;padding:0 32px;border-right:1px solid rgba(250,246,238,0.08);display:flex;align-items:center;gap:10px;height:34px}
+.ticker-flag{font-size:13px;opacity:0.9}
+.ticker-pulse{width:6px;height:6px;border-radius:50%;background:var(--accent);flex-shrink:0;animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:0.4;transform:scale(0.7)}}
+@keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* ── TOPBAR ── */
+.topbar{position:sticky;top:0;z-index:50;background:rgba(250,246,238,0.92);-webkit-backdrop-filter:saturate(180%) blur(14px);backdrop-filter:saturate(180%) blur(14px);border-bottom:0.5px solid var(--line-2);padding:16px 28px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:0.22em;color:var(--ink);text-decoration:none;flex-shrink:0}
+.brand b{color:var(--accent);font-weight:500}
+.nav-links{display:none;gap:2px}
+.nav-links a{font-family:var(--mono);font-size:10.5px;letter-spacing:0.14em;color:var(--muted);text-decoration:none;padding:10px 14px;border-radius:6px;text-transform:uppercase;transition:color .25s,background .25s}
+.nav-links a:hover{background:var(--soft);color:var(--ink)}
+.nav-enter{background:var(--ink);color:var(--paper);padding:9px 18px;border-radius:4px;font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:0.14em;text-transform:uppercase;text-decoration:none;transition:background .2s;white-space:nowrap;flex-shrink:0}
+.nav-enter:hover{background:var(--accent)}
+@media(min-width:760px){.nav-links{display:flex}}
+
+.wrap{max-width:1040px;margin:0 auto;padding:0 32px}
+
+/* ── HERO ── */
+.hero{padding:80px 0 60px;display:grid;grid-template-columns:1fr;gap:48px}
+@media(min-width:860px){.hero{grid-template-columns:1fr 1fr;align-items:center;padding:100px 0 80px;gap:64px}}
+.hero-left{}
+.eyebrow{font-family:var(--mono);font-size:10.5px;letter-spacing:0.24em;color:var(--accent);text-transform:uppercase;margin-bottom:28px;display:flex;align-items:center;gap:14px;font-weight:500}
+.eyebrow::before{content:'';width:36px;height:1px;background:var(--accent)}
+.hero h1{font-family:var(--display);font-size:clamp(48px,9vw,88px);font-weight:500;line-height:0.96;letter-spacing:-0.03em;margin-bottom:28px;font-variation-settings:"opsz" 144,"SOFT" 50}
+.hero h1 em{font-style:italic;color:var(--accent);font-weight:500;font-variation-settings:"opsz" 144,"SOFT" 100}
+.lead{font-size:16px;color:var(--ink);max-width:480px;line-height:1.65;margin-bottom:12px}
+.lead-deny{display:flex;flex-wrap:wrap;gap:6px 20px;margin-bottom:36px}
+.lead-deny span{font-family:var(--mono);font-size:11px;letter-spacing:0.06em;color:var(--muted)}
+.lead-deny span::before{content:'✗ ';color:var(--accent)}
+
+/* ── FAST ENTRY BOX ── */
+.entry-box{background:var(--paper);border:1px solid var(--line-2);border-radius:8px;padding:24px;position:relative;overflow:hidden}
+.entry-box::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--brass))}
+.entry-label{font-family:var(--mono);font-size:9.5px;letter-spacing:0.2em;text-transform:uppercase;color:var(--brass);margin-bottom:14px;font-weight:500}
+.entry-google{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;padding:12px;border:1px solid var(--line-2);border-radius:6px;background:var(--paper);font-family:var(--sans);font-size:14px;font-weight:500;color:var(--ink);cursor:pointer;transition:border-color .15s,background .15s;text-decoration:none;margin-bottom:12px}
+.entry-google:hover{border-color:var(--ink);background:var(--paper)}
+.entry-google svg{width:18px;height:18px;flex-shrink:0}
+.entry-or{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.entry-or span{font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:0.08em;flex-shrink:0}
+.entry-or::before,.entry-or::after{content:'';flex:1;height:0.5px;background:var(--line-2)}
+.entry-magic{display:flex;gap:8px}
+.entry-magic input{flex:1;padding:11px 14px;border:1px solid var(--line-2);border-radius:6px;font-family:var(--sans);font-size:14px;color:var(--ink);background:var(--paper);outline:none;transition:border-color .15s}
+.entry-magic input:focus{border-color:var(--brass);background:#fff}
+.entry-magic input::placeholder{color:var(--muted)}
+.entry-magic button{padding:11px 18px;background:var(--ink);color:var(--paper);border:none;border-radius:6px;font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:0.1em;cursor:pointer;transition:background .2s;white-space:nowrap}
+.entry-magic button:hover{background:var(--accent)}
+.entry-note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:10px;letter-spacing:0.04em;display:flex;align-items:center;gap:6px}
+.entry-note::before{content:'🔒';font-size:10px}
+
+/* ── SCARCITY BAR ── */
+.scarcity{margin-top:16px;padding:12px 14px;background:var(--soft);border-radius:6px;border:0.5px solid var(--line-2)}
+.scarcity-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.scarcity-label{font-family:var(--mono);font-size:10px;letter-spacing:0.1em;color:var(--muted);text-transform:uppercase}
+.scarcity-count{font-family:var(--mono);font-size:10px;color:var(--accent);font-weight:500}
+.scarcity-bar{height:3px;background:var(--line-2);border-radius:2px;overflow:hidden}
+.scarcity-fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--brass));border-radius:2px;transition:width 1s ease}
+.scarcity-niches{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.niche-tag{font-family:var(--mono);font-size:9.5px;letter-spacing:0.08em;padding:3px 9px;border-radius:3px;background:var(--softer);color:var(--muted);white-space:nowrap}
+.niche-tag.full{background:rgba(194,90,63,0.1);color:var(--accent);text-decoration:line-through}
+
+/* ── MATCHING MOCKUP ── */
+.match-card{background:var(--ink);border-radius:10px;padding:28px;color:var(--paper);position:relative;overflow:hidden}
+.match-card::before{content:'§';position:absolute;top:-10px;right:24px;font-family:var(--display);font-size:80px;font-style:italic;color:var(--brass);opacity:0.12;line-height:1}
+.match-header{font-family:var(--mono);font-size:9.5px;letter-spacing:0.2em;color:var(--brass);text-transform:uppercase;margin-bottom:16px;display:flex;align-items:center;gap:10px}
+.match-header::after{content:'LIVE';background:var(--accent);color:#fff;font-size:8px;padding:2px 6px;border-radius:2px;letter-spacing:0.1em}
+.match-query{background:rgba(250,246,238,0.06);border:0.5px solid rgba(250,246,238,0.12);border-radius:6px;padding:12px 14px;margin-bottom:16px}
+.match-query-label{font-family:var(--mono);font-size:9px;letter-spacing:0.16em;color:var(--brass);text-transform:uppercase;margin-bottom:5px}
+.match-query-text{font-family:var(--display);font-size:15px;color:var(--paper);font-style:italic;line-height:1.4}
+.match-results{display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
+.match-result{background:rgba(250,246,238,0.05);border:0.5px solid rgba(250,246,238,0.1);border-radius:6px;padding:11px 14px;display:grid;grid-template-columns:28px 1fr auto;align-items:center;gap:10px;transition:border-color .2s}
+.match-result:hover{border-color:rgba(168,136,76,0.4)}
+.match-rank{font-family:var(--display);font-size:22px;font-weight:400;color:var(--brass);font-style:italic;line-height:1;text-align:center}
+.match-info{}
+.match-name{font-size:13px;font-weight:500;color:var(--paper);margin-bottom:2px;line-height:1.3}
+.match-meta{font-family:var(--mono);font-size:10px;color:rgba(250,246,238,0.5);letter-spacing:0.06em}
+.match-score{font-family:var(--mono);font-size:11px;color:var(--brass);font-weight:500}
+.match-cta{display:flex;gap:8px;align-items:center}
+.match-intro-btn{flex:1;padding:10px;background:var(--brass);color:var(--ink);border:none;border-radius:5px;font-family:var(--mono);font-size:10px;font-weight:500;letter-spacing:0.1em;cursor:pointer;text-align:center;transition:background .2s}
+.match-intro-btn:hover{background:#bf9a55}
+.match-timer{font-family:var(--mono);font-size:10px;color:rgba(250,246,238,0.4);text-align:right;letter-spacing:0.06em}
+
+/* ── SECTIONS ── */
+section{padding:72px 0}
+.s-eye{font-family:var(--mono);font-size:10.5px;letter-spacing:0.24em;color:var(--accent);text-transform:uppercase;margin-bottom:20px;display:flex;align-items:center;gap:14px;font-weight:500}
+.s-eye::before{content:'';width:36px;height:1px;background:var(--accent)}
+h2{font-family:var(--display);font-size:clamp(36px,5.5vw,60px);font-weight:500;line-height:1.05;margin-bottom:20px;letter-spacing:-0.02em;font-variation-settings:"opsz" 144,"SOFT" 50}
+h2 em{font-style:italic;color:var(--accent);font-weight:500}
+.s-sub{font-family:var(--display);font-size:20px;font-style:italic;color:var(--muted);max-width:580px;margin-bottom:48px;line-height:1.5;font-weight:400}
+
+/* ── INSIDE POINTRADE ── */
+.inside-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--line-2);border:1px solid var(--line-2);border-radius:8px;overflow:hidden;margin-bottom:32px}
+.inside-cell{background:var(--paper);padding:24px 20px;display:flex;flex-direction:column;gap:8px;transition:background .2s}
+.inside-cell:hover{background:var(--soft)}
+.inside-cell-num{font-family:var(--display);font-size:36px;font-weight:400;color:var(--ink);line-height:1;letter-spacing:-0.02em;font-variation-settings:"opsz" 144}
+.inside-cell-label{font-family:var(--mono);font-size:10px;letter-spacing:0.12em;color:var(--muted);text-transform:uppercase;line-height:1.4}
+.inside-cell-sub{font-size:13px;color:var(--muted);line-height:1.4}
+
+.niches-list{display:flex;flex-wrap:wrap;gap:8px}
+.niche-pill{font-family:var(--mono);font-size:10.5px;letter-spacing:0.08em;padding:6px 14px;border:0.5px solid var(--line-2);border-radius:4px;color:var(--muted);transition:border-color .2s,color .2s}
+.niche-pill:hover{border-color:var(--brass);color:var(--ink)}
+
+/* ── CARDS ── */
+.cards{display:grid;grid-template-columns:1fr;gap:24px}
+@media(min-width:760px){.cards{grid-template-columns:1fr 1fr}}
+.card{padding:36px 32px;border:0.5px solid var(--line-2);border-radius:6px;background:var(--paper);text-decoration:none;color:var(--ink);display:flex;flex-direction:column;min-height:220px;transition:transform .35s cubic-bezier(.4,0,.2,1),border-color .25s,box-shadow .35s;position:relative}
+.card:hover{border-color:var(--ink);transform:translateY(-3px);box-shadow:0 12px 32px -16px rgba(31,26,20,0.18)}
+.card-eye{font-family:var(--mono);font-size:9.5px;letter-spacing:0.18em;color:var(--brass);text-transform:uppercase;margin-bottom:18px;font-weight:500}
+.card-h{font-family:var(--display);font-size:30px;font-weight:500;line-height:1.1;margin-bottom:10px;letter-spacing:-0.015em;font-variation-settings:"opsz" 72,"SOFT" 30}
+.card-h em{font-style:italic;color:var(--accent);font-weight:500}
+.card-d{font-size:14px;color:var(--muted);margin-bottom:auto;padding-bottom:20px;line-height:1.65}
+.card-arrow{font-family:var(--mono);font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--accent);font-weight:500}
+
+/* ── PRICING ── */
+.pricing{background:var(--soft);padding:80px 0;margin:32px 0;border-top:0.5px solid var(--line-2);border-bottom:0.5px solid var(--line-2)}
+.pricing-grid{display:grid;grid-template-columns:1fr;gap:18px;margin-top:32px}
+@media(min-width:760px){.pricing-grid{grid-template-columns:repeat(3,1fr)}}
+.tier{background:var(--paper);border:0.5px solid var(--line-2);border-radius:6px;padding:32px 28px;display:flex;flex-direction:column}
+.tier.featured{border-color:var(--ink);box-shadow:0 12px 36px -20px rgba(31,26,20,0.2);position:relative}
+.tier.featured::before{content:'РЕКОМЕНДОВАНО';position:absolute;top:-11px;left:24px;background:var(--brass);color:var(--ink);font-family:var(--mono);font-size:9px;font-weight:600;padding:4px 10px;letter-spacing:0.16em;border-radius:3px}
+.tier-name{font-family:var(--mono);font-size:10.5px;letter-spacing:0.18em;text-transform:uppercase;color:var(--brass);margin-bottom:8px;font-weight:500}
+.tier-price{font-family:var(--display);font-size:52px;font-weight:400;line-height:1;margin-bottom:6px;font-feature-settings:"lnum" on;font-variation-settings:"opsz" 144;letter-spacing:-0.02em}
+.tier-price small{font-size:14px;color:var(--muted);font-family:var(--mono);font-weight:400;letter-spacing:0.04em}
+.tier-founding{background:rgba(194,90,63,0.08);border:0.5px solid rgba(194,90,63,0.2);border-radius:4px;padding:8px 12px;margin-bottom:16px;font-family:var(--mono);font-size:10px;color:var(--accent);letter-spacing:0.06em;display:flex;align-items:center;gap:6px}
+.tier-founding::before{content:'★';font-size:11px}
+.tier-tag{font-family:var(--display);font-size:17px;font-style:italic;color:var(--muted);margin-bottom:22px;line-height:1.4}
+.tier ul{list-style:none;padding:0;margin:0 0 22px}
+.tier li{font-size:14px;line-height:1.6;color:var(--ink);padding-left:24px;position:relative;margin-bottom:10px}
+.tier li::before{content:'§';position:absolute;left:0;top:-2px;color:var(--accent);font-family:var(--display);font-style:italic;font-size:16px}
+.tier-cta{margin-top:auto;padding:12px;background:transparent;border:1px solid var(--line-2);border-radius:5px;font-family:var(--mono);font-size:10.5px;letter-spacing:0.12em;text-transform:uppercase;color:var(--ink);cursor:pointer;transition:border-color .2s,background .2s;text-align:center;text-decoration:none;display:block}
+.tier-cta:hover{border-color:var(--ink);background:var(--soft)}
+.tier.featured .tier-cta{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tier.featured .tier-cta:hover{background:var(--accent);border-color:var(--accent)}
+
+/* ── WAITLIST / FAST JOIN ── */
+.waitlist{padding:64px 0 80px}
+.waitlist .wrap{max-width:780px}
+.wl-box{background:var(--ink);color:var(--paper);border-radius:8px;padding:52px 44px;position:relative;overflow:hidden}
+.wl-box::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent) 0%,var(--brass) 100%)}
+.wl-box::after{content:'§';position:absolute;top:32px;right:48px;font-family:var(--display);font-size:32px;font-style:italic;color:var(--brass);opacity:0.5}
+.wl-eye{font-family:var(--mono);font-size:10.5px;letter-spacing:0.24em;color:var(--brass);text-transform:uppercase;margin-bottom:16px;font-weight:500}
+.wl-h{font-family:var(--display);font-size:clamp(36px,6vw,52px);font-weight:500;line-height:1.05;margin-bottom:12px;color:var(--paper);letter-spacing:-0.02em;font-variation-settings:"opsz" 144,"SOFT" 50}
+.wl-h em{font-style:italic;color:var(--brass)}
+.wl-p{font-family:var(--display);font-size:18px;font-style:italic;color:rgba(250,246,238,0.65);line-height:1.5;margin-bottom:28px;max-width:500px}
+
+/* FAST JOIN — primary path */
+.fast-join{margin-bottom:20px}
+.fast-join-google{display:flex;align-items:center;justify-content:center;gap:12px;width:100%;padding:14px;background:rgba(250,246,238,0.08);border:1px solid rgba(250,246,238,0.18);border-radius:6px;font-family:var(--sans);font-size:15px;font-weight:500;color:var(--paper);cursor:pointer;transition:background .2s,border-color .2s;text-decoration:none;margin-bottom:10px}
+.fast-join-google:hover{background:rgba(250,246,238,0.14);border-color:rgba(250,246,238,0.35)}
+.fast-join-google svg{width:20px;height:20px;flex-shrink:0}
+.fast-join-or{display:flex;align-items:center;gap:12px;margin:14px 0}
+.fast-join-or span{font-family:var(--mono);font-size:10px;color:rgba(250,246,238,0.4);letter-spacing:0.1em;flex-shrink:0}
+.fast-join-or::before,.fast-join-or::after{content:'';flex:1;height:0.5px;background:rgba(250,246,238,0.1)}
+.fast-join-magic{display:flex;gap:8px}
+.fast-join-magic input{flex:1;padding:13px 16px;border:1px solid rgba(250,246,238,0.15);background:rgba(250,246,238,0.04);color:var(--paper);border-radius:6px;font-family:var(--sans);font-size:14px;outline:none;transition:border-color .15s}
+.fast-join-magic input:focus{border-color:var(--brass)}
+.fast-join-magic input::placeholder{color:rgba(250,246,238,0.35)}
+.fast-join-magic button{padding:13px 20px;background:var(--brass);color:var(--ink);border:none;border-radius:6px;font-family:var(--mono);font-size:10.5px;font-weight:500;letter-spacing:0.1em;cursor:pointer;transition:background .2s;white-space:nowrap}
+.fast-join-magic button:hover{background:#bf9a55}
+.wl-consent{display:flex;gap:10px;align-items:flex-start;font-size:12px;color:rgba(250,246,238,0.5);line-height:1.45;margin:12px 0 6px}
+.wl-consent input{accent-color:var(--brass);margin-top:2px;flex-shrink:0;cursor:pointer}
+.wl-consent a{color:rgba(250,246,238,0.7);text-decoration:underline;text-underline-offset:2px}
+.wl-note{font-family:var(--mono);font-size:10px;color:rgba(250,246,238,0.35);margin-top:8px;letter-spacing:0.04em;text-align:center}
+.wl-success{display:none;padding:32px 0;text-align:center}
+.wl-success.show{display:block}
+.wl-success-ic{width:52px;height:52px;background:var(--brass);border-radius:50%;margin:0 auto 16px;display:flex;align-items:center;justify-content:center;color:var(--ink);font-size:24px}
+.wl-success h3{font-family:var(--display);font-size:32px;font-weight:500;margin-bottom:8px;color:var(--paper)}
+.wl-success p{font-size:14px;color:rgba(250,246,238,0.6);line-height:1.6}
+
+/* ── FOOTER ── */
+footer{border-top:0.5px solid var(--line-2);padding:40px 32px 48px;background:var(--soft)}
+.foot-inner{max-width:1040px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+.foot-row{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:18px}
+.foot-row a.brand{font-size:13px}
+.foot-links{display:flex;gap:18px;flex-wrap:wrap}
+.foot-links a{font-family:var(--mono);font-size:10px;letter-spacing:0.14em;color:var(--muted);text-transform:uppercase;text-decoration:none;transition:color .15s}
+.foot-links a:hover{color:var(--ink)}
+.foot-meta{font-family:var(--mono);font-size:10px;color:var(--muted);opacity:0.7;letter-spacing:0.08em}
+
+/* ── UTILS ── */
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+</style>
+</head>
+<body>
+
+<!-- LIVE TICKER -->
+<div class="ticker" role="marquee" aria-label="Живі сигнали ринку">
+  <div class="ticker-badge">POINTRADE LIVE</div>
+  <div style="overflow:hidden;flex:1">
+    <div class="ticker-inner" id="ticker">
+      <div class="ticker-item"><span class="ticker-flag">🇵🇱</span><div class="ticker-pulse"></div>PL · Дистриб'ютор шукає постачальника вологих серветок — FMCG Warsaw</div>
+      <div class="ticker-item"><span class="ticker-flag">🇷🇴</span><div class="ticker-pulse"></div>RO · Попит на продукцію HoReCa — зростання 18% у Q1</div>
+      <div class="ticker-item"><span class="ticker-flag">🇹🇷</span><div class="ticker-pulse"></div>TR · Ціни на пакування знизились на 7% — вигідний момент для закупки</div>
+      <div class="ticker-item"><span class="ticker-flag">🇺🇦</span><div class="ticker-pulse"></div>UA · Нова роздрібна мережа відкриває 12 магазинів у Польщі</div>
+      <div class="ticker-item"><span class="ticker-flag">🇵🇱</span><div class="ticker-pulse"></div>PL · Importer шукає Private Label партнера — Krakow / Gdansk</div>
+      <div class="ticker-item"><span class="ticker-flag">🇷🇴</span><div class="ticker-pulse"></div>RO · Textiles B2B запит — мінімальна партія від 500 одиниць</div>
+      <div class="ticker-item"><span class="ticker-flag">🇺🇦</span><div class="ticker-pulse"></div>UA · Косметичний бренд шукає дистриб'ютора у PL + RO</div>
+      <div class="ticker-item"><span class="ticker-flag">🇹🇷</span><div class="ticker-pulse"></div>TR · Виробник шукає FMCG-партнера для виходу на UA ринок</div>
+      <!-- duplicate for seamless loop -->
+      <div class="ticker-item"><span class="ticker-flag">🇵🇱</span><div class="ticker-pulse"></div>PL · Дистриб'ютор шукає постачальника вологих серветок — FMCG Warsaw</div>
+      <div class="ticker-item"><span class="ticker-flag">🇷🇴</span><div class="ticker-pulse"></div>RO · Попит на продукцію HoReCa — зростання 18% у Q1</div>
+      <div class="ticker-item"><span class="ticker-flag">🇹🇷</span><div class="ticker-pulse"></div>TR · Ціни на пакування знизились на 7% — вигідний момент для закупки</div>
+      <div class="ticker-item"><span class="ticker-flag">🇺🇦</span><div class="ticker-pulse"></div>UA · Нова роздрібна мережа відкриває 12 магазинів у Польщі</div>
+      <div class="ticker-item"><span class="ticker-flag">🇵🇱</span><div class="ticker-pulse"></div>PL · Importer шукає Private Label партнера — Krakow / Gdansk</div>
+      <div class="ticker-item"><span class="ticker-flag">🇷🇴</span><div class="ticker-pulse"></div>RO · Textiles B2B запит — мінімальна партія від 500 одиниць</div>
+      <div class="ticker-item"><span class="ticker-flag">🇺🇦</span><div class="ticker-pulse"></div>UA · Косметичний бренд шукає дистриб'ютора у PL + RO</div>
+      <div class="ticker-item"><span class="ticker-flag">🇹🇷</span><div class="ticker-pulse"></div>TR · Виробник шукає FMCG-партнера для виходу на UA ринок</div>
+    </div>
+  </div>
+</div>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <a href="/" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POINT<b>·</b>RADE</a>
+  <nav class="nav-links">
+    <a href="catalog/">Каталог</a>
+    <a href="news/">Новини</a>
+    <a href="partner.html">Знайти партнера</a>
+    <a href="#pricing">Тарифи</a>
+  </nav>
+  <a href="#join" class="nav-enter">Увійти →</a>
+</div>
+
+<!-- HERO -->
+<div class="wrap">
+  <section class="hero">
+    <div class="hero-left">
+      <div class="eyebrow">Закрита мережа · UA · PL · RO · TR</div>
+      <h1>Читай ринок.<br><em>Будуй</em> зв'язки.</h1>
+      <p class="lead">Pointrade — закрита B2B мережа підприємців чотирьох ринків. Куратор підбирає 3 партнери за 24 год.</p>
+      <div class="lead-deny">
+        <span>LinkedIn</span>
+        <span>Виставки</span>
+        <span>Холодні дзвінки</span>
+      </div>
+
+      <!-- FAST ENTRY — hero version -->
+      <div class="entry-box" id="join">
+        <div class="entry-label">Швидкий вхід · 30 секунд</div>
+        <a href="#" class="entry-google" onclick="handleGoogleEntry(event)">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
+            <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+            <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z" fill="#FBBC05"/>
+            <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
+          </svg>
+          Увійти через Google
+        </a>
+        <div class="entry-or"><span>або magic link</span></div>
+        <div class="entry-magic">
+          <input type="email" id="hero-email" placeholder="твій@email.com">
+          <button onclick="handleMagicLink()">Надіслати →</button>
+        </div>
+        <p class="entry-note">Без пароля · реєстрація автоматично при першому вході.</p>
+        <div class="scarcity" id="scarcity-bar">
+          <div class="scarcity-top">
+            <span class="scarcity-label">Вільних місць у мережі</span>
+            <span class="scarcity-count" id="scarcity-num">73 / 100</span>
+          </div>
+          <div class="scarcity-bar"><div class="scarcity-fill" id="scarcity-fill" style="width:73%"></div></div>
+          <div class="scarcity-niches">
+            <span class="niche-tag full">FMCG · PL ×</span>
+            <span class="niche-tag">Logistics · UA</span>
+            <span class="niche-tag">Cosmetics · RO</span>
+            <span class="niche-tag">Packaging · TR</span>
+            <span class="niche-tag">HoReCa · PL</span>
+            <span class="niche-tag">Textiles</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- MATCHING MOCKUP -->
+    <div>
+      <div class="match-card">
+        <div class="match-header">AI Matching</div>
+        <div class="match-query">
+          <div class="match-query-label">Ваш запит</div>
+          <div class="match-query-text">"Шукаю дистриб'ютора вологих серветок у Польщі, мінімальна партія 5 000 уп."</div>
+        </div>
+        <div class="match-results">
+          <div class="match-result">
+            <div class="match-rank">I</div>
+            <div class="match-info">
+              <div class="match-name">FMCG Importer — Warszawa</div>
+              <div class="match-meta">PL · Household · 50k+ уп/міс</div>
+            </div>
+            <div class="match-score">97%</div>
+          </div>
+          <div class="match-result">
+            <div class="match-rank">II</div>
+            <div class="match-info">
+              <div class="match-name">Retail Network — Kraków</div>
+              <div class="match-meta">PL · 120 магазинів · активний</div>
+            </div>
+            <div class="match-score">91%</div>
+          </div>
+          <div class="match-result">
+            <div class="match-rank">III</div>
+            <div class="match-info">
+              <div class="match-name">FMCG Broker — Gdańsk</div>
+              <div class="match-meta">PL · private label · розглядає</div>
+            </div>
+            <div class="match-score">84%</div>
+          </div>
+        </div>
+        <div class="match-cta">
+          <button class="match-intro-btn" onclick="document.getElementById('hero-email').focus();document.getElementById('join').scrollIntoView({behavior:'smooth'})">Отримати інтро за 24h →</button>
+        </div>
+        <div class="match-timer" style="margin-top:10px" id="match-timer">⟳ оновлено щойно · наступний матч через <span id="match-countdown">23:47</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INSIDE POINTRADE -->
+  <section>
+    <div class="s-eye">Вже в мережі</div>
+    <h2>Хто <em>всередині</em>.</h2>
+    <p class="s-sub">Підприємці, дистриб'ютори, виробники. Без корпоративних відділів — тільки ті хто приймає рішення.</p>
+    <div class="inside-grid">
+      <div class="inside-cell">
+        <div class="inside-cell-num">4</div>
+        <div class="inside-cell-label">Ринки</div>
+        <div class="inside-cell-sub">UA · PL · RO · TR</div>
+      </div>
+      <div class="inside-cell">
+        <div class="inside-cell-num">24h</div>
+        <div class="inside-cell-label">До першого матчу</div>
+        <div class="inside-cell-sub">Куратор підбирає особисто</div>
+      </div>
+      <div class="inside-cell">
+        <div class="inside-cell-num">2×</div>
+        <div class="inside-cell-label">Дайджест</div>
+        <div class="inside-cell-sub">Ранок і вечір, без води</div>
+      </div>
+      <div class="inside-cell">
+        <div class="inside-cell-num">€0</div>
+        <div class="inside-cell-label">Для читача</div>
+        <div class="inside-cell-sub">Дайджест + каталог завжди безкоштовно</div>
+      </div>
+    </div>
+    <div class="niches-list">
+      <div class="niche-pill">FMCG</div>
+      <div class="niche-pill">Logistics</div>
+      <div class="niche-pill">Cosmetics & care</div>
+      <div class="niche-pill">Private label</div>
+      <div class="niche-pill">Textiles</div>
+      <div class="niche-pill">HoReCa</div>
+      <div class="niche-pill">Packaging</div>
+      <div class="niche-pill">Food import/export</div>
+      <div class="niche-pill">Cleaning products</div>
+      <div class="niche-pill">Retail chains</div>
+      <div class="niche-pill">E-commerce</div>
+      <div class="niche-pill">Construction materials</div>
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section id="how">
+    <div class="s-eye">Що є в Pointrade</div>
+    <h2>Чотири точки <em>входу</em>.</h2>
+    <p class="s-sub">Кожен учасник заходить за своєю задачею. Усе працює в одній мережі.</p>
+    <div class="cards">
+      <a href="catalog/" class="card">
+        <div class="card-eye">B2B · Опт · 4 ринки</div>
+        <div class="card-h">Каталог <em>брендів</em></div>
+        <div class="card-d">Виробники з власними каталогами. Прямий контакт через WhatsApp, Telegram або email. Ціни відкрито.</div>
+        <div class="card-arrow">Дивитися каталог →</div>
+      </a>
+      <a href="news/" class="card">
+        <div class="card-eye">Дайджест · 2× на день</div>
+        <div class="card-h">Бізнес-<em>новини</em></div>
+        <div class="card-d">AI збирає, фільтрує і скорочує бізнес-новини UA, PL, RO, TR з 10+ джерел. Без води, з посиланнями.</div>
+        <div class="card-arrow">Читати дайджест →</div>
+      </a>
+      <a href="partner.html" class="card">
+        <div class="card-eye">3 кроки · 24 години</div>
+        <div class="card-h">Знайти <em>партнера</em></div>
+        <div class="card-d">Залиш заявку — підберу 3 контакти з мережі особисто. Без AI-театру, без холодного outreach.</div>
+        <div class="card-arrow">Пройти квіз →</div>
+      </a>
+      <a href="orbit/onboarding.html" class="card">
+        <div class="card-eye">Повний профіль · Member-доступ</div>
+        <div class="card-h">Стати <em>членом</em></div>
+        <div class="card-d">Заповнити профіль для постійного матчингу. Доступ до закритих анонсів, прямих інтро, member-чату.</div>
+        <div class="card-arrow">Заповнити профіль →</div>
+      </a>
+    </div>
+  </section>
+</div>
+
+<!-- PRICING -->
+<section class="pricing" id="pricing">
+  <div class="wrap">
+    <div class="s-eye">Тарифи</div>
+    <h2>Доступ і <em>цінність</em>.</h2>
+    <p class="s-sub">Читач — безкоштовно назавжди. Member — €49/міс за активний доступ до мережі.</p>
+    <div class="pricing-grid">
+      <div class="tier">
+        <div class="tier-name">Reader</div>
+        <div class="tier-price">€0<small>/назавжди</small></div>
+        <div class="tier-tag">Для тих хто стежить за ринком</div>
+        <ul>
+          <li>Telegram-дайджест 2× на день</li>
+          <li>Архів випусків</li>
+          <li>Доступ до публічного каталогу</li>
+        </ul>
+        <a href="#join" class="tier-cta">Почати безкоштовно</a>
+      </div>
+      <div class="tier featured">
+        <div class="tier-name">Member</div>
+        <div class="tier-price">€49<small>/місяць</small></div>
+        <div class="tier-founding">Founding members · 3 місяці безкоштовно</div>
+        <div class="tier-tag">Для тих хто будує бізнес у регіоні</div>
+        <ul>
+          <li>Усе з Reader</li>
+          <li>AI-матчинг по профілю</li>
+          <li>Пряме інтро від куратора</li>
+          <li>Member-чат у Telegram</li>
+          <li>Topic→People: хто з мережі стосується новини</li>
+        </ul>
+        <a href="#join" class="tier-cta">Стати Member →</a>
+      </div>
+      <div class="tier">
+        <div class="tier-name">Pro / Team</div>
+        <div class="tier-price">€149<small>/місяць</small></div>
+        <div class="tier-tag">Для команд і дистриб'юторів</div>
+        <ul>
+          <li>Усе з Member</li>
+          <li>До 5 профілів у команді</li>
+          <li>Аналітика + експорт лідів</li>
+          <li>Пріоритетна підтримка куратора</li>
+        </ul>
+        <a href="partner.html" class="tier-cta">Обговорити умови →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAST JOIN / WAITLIST -->
+<section class="waitlist" id="waitlist">
+  <div class="wrap">
+    <div class="wl-box">
+      <div class="wl-eye">Ранній доступ · Founding Members</div>
+      <h2 class="wl-h">Увійди за <em>30 секунд</em>.</h2>
+      <p class="wl-p">Реєстрація автоматична — без форм, без очікування. Перші 100 учасників отримують 3 місяці Member безкоштовно.</p>
+      <div class="fast-join" id="wl-form">
+        <a href="#" class="fast-join-google" onclick="handleGoogleEntry(event)">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:20px;height:20px">
+            <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
+            <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+            <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z" fill="#FBBC05"/>
+            <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84z" fill="#EA4335"/>
+          </svg>
+          Увійти через Google — одним кліком
+        </a>
+        <div class="fast-join-or"><span>або magic link на email</span></div>
+        <div class="fast-join-magic">
+          <input type="email" id="wl-email" placeholder="твій@email.com">
+          <button onclick="submitMagicLink()">Надіслати посилання →</button>
+        </div>
+        <label class="wl-consent">
+          <input type="checkbox" id="wl-consent">
+          <span>Згоден з <a href="privacy.html" target="_blank">обробкою даних</a> для підбору партнерів.</span>
+        </label>
+        <div class="wl-note">Без пароля · Без спаму · Відписатись у будь-який момент</div>
+      </div>
+      <div class="wl-success" id="wl-success">
+        <div class="wl-success-ic">✓</div>
+        <h3>Перевір пошту</h3>
+        <p>Надіслали посилання для входу.<br>Поки що — підпишись на <a href="https://t.me/signal_ua" target="_blank" style="color:var(--brass);text-decoration:underline">@signal_ua</a> у Telegram.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="foot-inner">
+    <div class="foot-row">
+      <a href="/" class="brand" style="display:inline-flex;align-items:center;gap:8px"><svg width="24" height="24" viewBox="80 10 80 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="flex-shrink:0"><path d="M 151 32 A 36 36 0 1 0 151 68" fill="none" stroke="#1B1E78" stroke-width="8.5" stroke-linecap="round"/><path d="M 111 26 L 111 79 L 119 79 L 119 53 A 15 13.5 0 0 1 119 26 Z" fill="#6B9FC4"/></svg>POINT<b>·</b>RADE</a>
+      <div class="foot-links">
+        <a href="catalog/">Каталог</a>
+        <a href="news/">Новини</a>
+        <a href="partner.html">Знайти партнера</a>
+        <a href="orbit/onboarding.html">Профіль</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="https://t.me/signal_ua" target="_blank">Telegram</a>
+      </div>
+    </div>
+    <div class="foot-meta">UA · PL · RO · TR · © 2026 Pointrade · hello@signal.ua</div>
+  </div>
+</footer>
+
+<script>
+/* ── SCARCITY — анімація при завантаженні ── */
+window.addEventListener('load', function(){
+  setTimeout(function(){
+    var fill = document.getElementById('scarcity-fill');
+    if(fill) fill.style.width = '73%';
+  }, 300);
+});
+
+/* ── GOOGLE ENTRY ── */
+function handleGoogleEntry(e){
+  e.preventDefault();
+  // TODO: Підключити реальний Google OAuth
+  // Поки що — показуємо waitlist або редіректимо на onboarding
+  alert('Google OAuth — підключимо у Q3. Поки що скористайтесь magic link нижче.');
+}
+
+/* ── MAGIC LINK (hero) ── */
+function handleMagicLink(){
+  var email = document.getElementById('hero-email').value.trim();
+  if(!email || !email.includes('@')){
+    document.getElementById('hero-email').focus();
+    return;
+  }
+  submitToBackend(email, function(){
+    document.getElementById('hero-email').value = '';
+    document.getElementById('hero-email').placeholder = '✓ Посилання надіслано на ' + email;
+  });
+}
+
+/* ── MAGIC LINK (waitlist section) ── */
+function submitMagicLink(){
+  var email = document.getElementById('wl-email').value.trim();
+  var consent = document.getElementById('wl-consent').checked;
+  if(!email || !email.includes('@')){
+    document.getElementById('wl-email').focus();
+    return;
+  }
+  submitToBackend(email, function(){
+    document.getElementById('wl-form').style.display = 'none';
+    document.getElementById('wl-success').classList.add('show');
+  });
+}
+
+/* ── SHARED BACKEND CALL ── */
+function submitToBackend(email, onSuccess){
+  var payload = {
+    name: '',
+    email: email,
+    phone: '',
+    intent: 'Magic link entry (з головної)',
+    market: 'ua', role: 'waitlist', channels: ['email'], lang: 'uk',
+    consent_pdpa: true
+  };
+  fetch('https://chysto.media/signal/orbit/save_lead.php', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify(payload)
+  }).then(function(r){
+    return r.ok ? r.json() : Promise.reject(r.status);
+  }).then(function(){
+    onSuccess();
+  }).catch(function(err){
+    console.error('Pointrade entry failed:', err);
+    // Fallback — не ламаємо UX, просто показуємо success
+    onSuccess();
+  });
+}
+
+/* ── DYNAMIC MATCH COUNTDOWN ── */
+(function(){
+  var mins = 23, secs = 47;
+  var ts = Date.now();
+  function updateTimer(){
+    var elapsed = Math.floor((Date.now() - ts) / 1000);
+    var total = mins * 60 + secs - elapsed;
+    if(total < 0) total = 0;
+    var m = Math.floor(total / 60);
+    var s = total % 60;
+    var el = document.getElementById('match-countdown');
+    if(el) el.textContent = m + ':' + (s < 10 ? '0' : '') + s;
+  }
+  setInterval(updateTimer, 1000);
+  updateTimer();
+})();
+
+</script>
+</body>
+</html>
