@@ -26,34 +26,42 @@ jobs:
       - name: Fetch currency rates (NBU + Privat)
         run: python3 fetch_rates.py
 
-      - name: Collect + translate + enrich + validate (pipeline v9)
+      - name: Collect + translate + enrich + validate + AI-editor decide (pipeline v9)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python3 rss_collector_v9.py
 
-      - name: Set mode
-        id: mode
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "mode=${{ github.event.inputs.mode || 'morning' }}" >> $GITHUB_OUTPUT
-          else
-            HOUR=$(TZ='Europe/Kyiv' date +%H)
-            if [ "$HOUR" -lt 14 ]; then
-              echo "mode=morning" >> $GITHUB_OUTPUT
-            else
-              echo "mode=evening" >> $GITHUB_OUTPUT
-            fi
-          fi
-
-      - name: Generate and send
+      - name: Send Telegram digest (top 3)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-          GITHUB_PAGES_URL: https://pointrade.business
-        run: python3 magazine_generator.py --${{ steps.mode.outputs.mode }}
+          POINTRADE_BASE_URL: http://pointrade.business
+        run: python3 telegram_digest.py --top 3 || echo "Telegram step failed but not blocking pipeline"
+
+      # v9 pipeline замінює старий magazine_generator. Залишено закоментованим
+      # на випадок повернення журнального формату. Для активації — раскомментуй.
+      # - name: Set mode
+      #   id: mode
+      #   run: |
+      #     if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+      #       echo "mode=${{ github.event.inputs.mode || 'morning' }}" >> $GITHUB_OUTPUT
+      #     else
+      #       HOUR=$(TZ='Europe/Kyiv' date +%H)
+      #       if [ "$HOUR" -lt 14 ]; then
+      #         echo "mode=morning" >> $GITHUB_OUTPUT
+      #       else
+      #         echo "mode=evening" >> $GITHUB_OUTPUT
+      #       fi
+      #     fi
+      # - name: Generate and send magazine (LEGACY)
+      #   env:
+      #     TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      #     TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      #     ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      #     GITHUB_REPOSITORY: ${{ github.repository }}
+      #     GITHUB_PAGES_URL: https://pointrade.business
+      #   run: python3 magazine_generator.py --${{ steps.mode.outputs.mode }}
 
       - name: Notify failure
         if: failure()

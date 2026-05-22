@@ -35,6 +35,7 @@ from rss_sources_v9 import RSS_FEEDS
 from ai_prompt_v9 import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE
 from translate import translate_batch
 from validate import validate_batch
+from editor_agent import apply_to_batch as editor_decide_batch
 
 # ============================================================
 # НАСТРОЙКИ
@@ -290,15 +291,15 @@ def _save_json(path: Path, data: list):
 
 def save_two_tier(stories: list[dict]):
     """
-    Триканальна маршрутизація (з врахуванням validator_verdict):
+    Чотириканальна маршрутизація (з врахуванням editor_decision від editor_agent):
 
-    1. verdict="reject"  (validator score < 5) → data/rejected.json (silent reject, debug)
-    2. verdict="review"  (validator score 5-7) → pending_review.json з flag "🔍 AI-flagged"
-    3. verdict="publish" (validator score >= 8):
-       - impact_score < 3 → одразу data/YYYY-MM-DD.json
-       - impact_score == 3 → pending_review.json для редакторського takeaway
+    1. editor_decision="reject"           → data/rejected.json (silent, debug)
+    2. editor_decision="auto_publish"     → одразу data/YYYY-MM-DD.json
+    3. editor_decision="auto_deepen"      → автопаблік + auto_deepen_recommended прапор
+                                             (deep article генерується окремо)
+    4. editor_decision="to_human_review"  → pending_review.json для редактора
 
-    Якщо validator не запускався → verdict вважається "publish" (back-compat).
+    Без editor_agent fallback на старий routing.
     """
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -307,22 +308,37 @@ def save_two_tier(stories: list[dict]):
     auto_pub = []
 
     for s in stories:
-        verdict = s.get("validator_verdict") or "publish"
-        impact = s.get("impact_score") or 0
+        decision = s.get("editor_decision")
 
-        if verdict == "reject":
-            rejected.append(s)
-        elif verdict == "review":
-            # Validator не пропустив якість — людина дивиться
-            s["editor_flag"] = "ai_flagged"
-            needs_review.append(s)
-        else:  # publish
-            if impact >= EDITOR_REVIEW_IMPACT:
-                # Високий impact — людина додає executable takeaway
+        if decision is None:
+            # back-compat: fallback на validator_verdict
+            verdict = s.get("validator_verdict") or "publish"
+            impact = s.get("impact_score") or 0
+            if verdict == "reject":
+                rejected.append(s)
+            elif verdict == "review":
+                s["editor_flag"] = "ai_flagged"
+                needs_review.append(s)
+            elif impact >= EDITOR_REVIEW_IMPACT:
                 s["editor_flag"] = "high_impact"
                 needs_review.append(s)
             else:
                 auto_pub.append(s)
+        elif decision == "reject":
+            rejected.append(s)
+        elif decision == "to_human_review":
+            # AI-редактор каже: потрібна людина
+            if (s.get("impact_score") or 0) >= EDITOR_REVIEW_IMPACT:
+                s["editor_flag"] = "high_impact"
+            elif (s.get("validator_score") or 10) < 8:
+                s["editor_flag"] = "ai_flagged"
+            else:
+                s["editor_flag"] = "human_review"
+            needs_review.append(s)
+        elif decision in ("auto_publish", "auto_deepen"):
+            # AI-редактор каже: одразу на сайт
+            # для auto_deepen ще й позначаємо для пізнішої генерації deep article
+            auto_pub.append(s)
 
     # 1. Auto-publish
     existing_today = _load_json(TODAY_FILE)
@@ -419,7 +435,11 @@ if __name__ == "__main__":
     else:
         print("\n⏭  Валідація пропущена (--no-validate) — все маршрутизується як publish")
 
-    # STEP 3 — триканальна маршрутизація:
+    # STEP 3 — AI-редактор приймає фінальне рішення (auto_publish / auto_deepen /
+    # to_human_review / reject). Детерміністичне рішення, без додаткових API-викликів.
+    editor_decide_batch(enriched)
+
+    # STEP 4 — маршрутизація:
     #   reject → rejected.json (silent)
     #   review (низький score або high impact) → pending_review.json
     #   publish + impact<3 → автопаблік

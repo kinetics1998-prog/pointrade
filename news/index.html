@@ -264,8 +264,16 @@ function isAllNotImpactful(s){
     return !v || v.startsWith('не впливає') || v==='—';
   });
 }
+function isNewFormat(s){
+  // Стаття пройшла новий v9 pipeline якщо має ОДНЕ з:
+  // - validator_score (пройшла Sonnet перевірку)
+  // - what_it_means (4 персонажі)
+  // - tags непорожні
+  // - deep_article_url
+  return !!(s.validator_score!==undefined||s.what_it_means||(s.tags&&s.tags.length)||s.deep_article_url);
+}
 function renderFeed(cat){
-  var base=allStories.filter(function(s){return !isAllNotImpactful(s);});
+  var base=allStories.filter(function(s){return isNewFormat(s)&&!isAllNotImpactful(s);});
   var list;
   if(cat==='all'){list=base;}
   else if(cat==='distribution'){list=base.filter(function(s){return s.category==='distribution-case'||s.category==='category-management'||(s.tags&&(s.tags.indexOf('дистрибуція')>=0||s.tags.indexOf('категорійний-менеджмент')>=0||s.tags.indexOf('трейд-маркетинг')>=0||s.tags.indexOf('переговори-з-мережами')>=0));});}
