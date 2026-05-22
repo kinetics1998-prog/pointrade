@@ -1,0 +1,66 @@
+name: Generate deep article (Purple Cow)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Спосіб виклику'
+        required: true
+        default: 'manual'
+        type: choice
+        options:
+          - 'manual'   # написати заголовок і текст прямо тут
+          - 'by_id'    # знайти статтю в data/ за id
+          - 'by_title' # знайти за частиною заголовка
+      query:
+        description: 'Для by_id / by_title — рядок пошуку'
+        required: false
+        default: ''
+      manual_title:
+        description: 'Для manual — заголовок новини'
+        required: false
+        default: ''
+      manual_body:
+        description: 'Для manual — текст новини (можна 2-3 абзаци)'
+        required: false
+        default: ''
+      manual_source:
+        description: 'Для manual — назва джерела (напр. SPEKA, Liga)'
+        required: false
+        default: 'manual'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+
+      - name: Generate deep article
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -e
+          if [ "${{ inputs.mode }}" = "manual" ]; then
+            python3 deep_article.py \
+              --manual "${{ inputs.manual_title }} | ${{ inputs.manual_body }}" \
+              --source "${{ inputs.manual_source }}" \
+              --verbose
+          elif [ "${{ inputs.mode }}" = "by_id" ]; then
+            python3 deep_article.py --id "${{ inputs.query }}" --verbose
+          else
+            python3 deep_article.py --title "${{ inputs.query }}" --verbose
+          fi
+
+      - name: Commit & push
+        run: |
+          git config user.name "Pointrade Insights Bot"
+          git config user.email "bot@pointrade"
+          git add news/insights/ data/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "insights: deep article — ${{ inputs.mode }}: ${{ inputs.query }}${{ inputs.manual_title }}"
+          git push
