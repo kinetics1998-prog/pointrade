@@ -51,8 +51,10 @@ h1 em{font-style:italic;color:var(--accent)}
 .story-time{font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:.06em}
 .story-h{font-family:var(--display);font-size:clamp(19px,3vw,25px);font-weight:500;line-height:1.2;letter-spacing:-.015em;color:var(--ink);margin-bottom:8px;font-variation-settings:"opsz" 48,"SOFT" 20}
 .story-p{font-size:14px;color:var(--muted);line-height:1.65;margin-bottom:12px;max-width:680px}
-.story-link{font-family:var(--mono);font-size:10.5px;color:var(--accent);text-decoration:none;letter-spacing:.1em;text-transform:uppercase;font-weight:500;transition:opacity .15s}
-.story-link:hover{opacity:.7}
+.story-link{font-family:var(--mono);font-size:10px;color:var(--muted);text-decoration:none;letter-spacing:.05em;opacity:.65;transition:opacity .15s;display:inline-flex;align-items:center;gap:4px}
+.story-link:hover{opacity:1;color:var(--ink)}
+.story-attribution{margin-top:14px;padding-top:10px;border-top:0.5px dotted var(--line-2);font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:.04em}
+.story-attribution .arrow{font-size:9px;opacity:.6}
 .skeleton{animation:shimmer 1.5s ease-in-out infinite}
 @keyframes shimmer{0%,100%{opacity:.4}50%{opacity:.85}}
 .skel-line{background:var(--softer);border-radius:3px;height:13px;margin-bottom:9px}
@@ -307,9 +309,9 @@ function renderFeed(cat){
       +'<h2 class="story-h">'+esc(title)+'</h2>'
       +'<p class="story-p">'+esc(summary)+'</p>'
       +tagsHtml
-      +(s.link&&s.link!=='#'?'<a href="'+esc(s.link)+'" target="_blank" rel="noopener" class="story-link">Читати повністю →</a>':'')
       +editorNoteHtml
       +meansHtml
+      +(s.link&&s.link!=='#'?'<div class="story-attribution">Першоджерело: <a href="'+esc(s.link)+'" target="_blank" rel="noopener" class="story-link">'+esc(s.source||'оригінал')+' <span class="arrow">↗</span></a></div>':'')
       +'</article>';
   }).join('');
 }

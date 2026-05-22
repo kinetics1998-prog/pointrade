@@ -1,0 +1,55 @@
+name: Backfill old articles through v9 pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'Кількість останніх днів (0 = ВСЕ, 3310 статей, ~$16)'
+        required: true
+        default: '3'
+      validate:
+        description: 'Запустити Sonnet validator (рекомендовано)'
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+
+      - name: Run backfill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.days }}" = "0" ]; then
+            ARGS="--all"
+          else
+            ARGS="--days ${{ inputs.days }}"
+          fi
+          if [ "${{ inputs.validate }}" = "false" ]; then
+            ARGS="$ARGS --no-validate"
+          fi
+          echo "Running: python3 backfill.py $ARGS"
+          python3 backfill.py $ARGS
+
+      - name: Commit backfilled data
+        run: |
+          git config user.name "Pointrade Backfill Bot"
+          git config user.email "bot@pointrade"
+          git add data/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "backfill: переобробка через v9 pipeline (days=${{ inputs.days }}, validate=${{ inputs.validate }})"
+          git push
