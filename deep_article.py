@@ -106,10 +106,29 @@ USER_TEMPLATE = """Напиши большую качественную стат
 Сгенерируй полную статью в готовом для публикации виде. Верни ТОЛЬКО валидный JSON по схеме из system-промпта, без markdown-обёртки, без ```json."""
 
 
+CYRILLIC_TRANSLIT = {
+    'а':'a','б':'b','в':'v','г':'h','ґ':'g','д':'d','е':'e','є':'ie','ё':'e',
+    'ж':'zh','з':'z','и':'y','і':'i','ї':'i','й':'i','к':'k','л':'l','м':'m',
+    'н':'n','о':'o','п':'p','р':'r','с':'s','т':'t','у':'u','ф':'f','х':'kh',
+    'ц':'ts','ч':'ch','ш':'sh','щ':'shch','ы':'y','э':'e','ю':'iu','я':'ia',
+    'ъ':'','ь':'','’':'',"'":'',
+}
+
 def slugify(text: str, maxlen: int = 60) -> str:
-    text = unicodedata.normalize("NFKD", text or "")
-    text = re.sub(r"[^\w\s-]", "", text, flags=re.UNICODE)
-    text = re.sub(r"\s+", "-", text.strip().lower())
+    text = (text or "").lower()
+    # Cyrillic → Latin
+    out = []
+    for ch in text:
+        if ch in CYRILLIC_TRANSLIT:
+            out.append(CYRILLIC_TRANSLIT[ch])
+        elif ch.isascii() and (ch.isalnum() or ch in '- '):
+            out.append(ch)
+        else:
+            out.append(' ')
+    text = ''.join(out)
+    text = re.sub(r"[^a-z0-9\s-]", "", text)
+    text = re.sub(r"\s+", "-", text.strip())
+    text = re.sub(r"-+", "-", text)
     return text[:maxlen].strip("-") or "article"
 
 
@@ -218,6 +237,8 @@ h1.main{{font-family:var(--display);font-size:clamp(34px,5vw,52px);font-weight:5
 .source-attr{{margin-top:24px;font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.05em}}
 .source-attr a{{color:var(--muted);text-decoration:none;opacity:.7}}
 .source-attr a:hover{{opacity:1;color:var(--ink)}}
+.alt-titles{{display:none}}
+body.admin .alt-titles{{display:block}}
 footer{{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--soft)}}
 .foot-inner{{max-width:720px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted)}}
 .foot-inner a{{color:var(--muted);text-decoration:none;text-transform:uppercase}}
@@ -242,12 +263,13 @@ footer{{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--
 {body}
   </div>
   <div class="tags">{tags_html}</div>
-  <div class="source-attr">Першоджерело: <a href="{source_url}" target="_blank" rel="noopener">{source_name} ↗</a></div>
+  {source_block}
   <div class="alt-titles">
     <div><strong>Альтернативні заголовки (для тестування):</strong></div>
     {alt_titles_html}
   </div>
 </article>
+<script>if(location.search.indexOf('admin=1')>=0)document.body.classList.add('admin');</script>
 <footer>
   <div class="foot-inner">
     <a href="../../index.html">POIN<b style="color:var(--accent)">·</b>TRADE</a>
@@ -264,6 +286,12 @@ def render_html(data: dict, story: dict | None) -> str:
     wc = data.get("word_count", 1000)
     read_min = max(1, round(wc / 220))
     pub = (story or {}).get("published") or datetime.now().isoformat()
+    source_url = (story or {}).get("link") or (story or {}).get("source_url") or ""
+    source_name = (story or {}).get("source") or ""
+    if source_url and source_url.startswith("http"):
+        source_block = f'<div class="source-attr">Першоджерело: <a href="{source_url}" target="_blank" rel="noopener">{source_name or "оригінал"} ↗</a></div>'
+    else:
+        source_block = ""
     return HTML_TEMPLATE.format(
         title=data.get("title_main", "Без заголовка"),
         subtitle=data.get("title_sub", ""),
@@ -274,8 +302,7 @@ def render_html(data: dict, story: dict | None) -> str:
         tags_html=tags_html,
         alt_titles_html=alt_titles_html,
         tldr=data.get("tldr", ""),
-        source_url=(story or {}).get("link") or (story or {}).get("source_url") or "#",
-        source_name=(story or {}).get("source") or "оригінал",
+        source_block=source_block,
     )
 
 
