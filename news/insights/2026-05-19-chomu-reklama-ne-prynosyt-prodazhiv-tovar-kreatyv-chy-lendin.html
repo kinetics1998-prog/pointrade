@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Реклама работает, но продаж нет: как найти реальную причину и не слить бюджет — Pointrade</title>
+<meta name="description" content="Реклама без продаж — это диагностическая задача: найдите слабое звено (товар, креатив или лендинг) и тестируйте строго по одному элементу за раз.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Geist:wght@300;400;500&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#1F1A14;--paper:#FAF6EE;--soft:#F2EDE2;--softer:#EBE5D6;--muted:#7B7166;--line:rgba(31,26,20,0.08);--line-2:rgba(31,26,20,0.16);--accent:#C25A3F;--brass:#A8884C;--display:'Fraunces',Georgia,serif;--sans:'Geist',system-ui,sans-serif;--mono:'Geist Mono',monospace}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--sans);background:var(--paper);color:var(--ink);font-size:17px;line-height:1.7;-webkit-font-smoothing:antialiased}
+.topbar{position:sticky;top:0;z-index:50;background:rgba(250,246,238,0.92);backdrop-filter:saturate(180%) blur(14px);border-bottom:0.5px solid var(--line-2);padding:14px 24px;display:flex;align-items:center;justify-content:space-between}
+.brand{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:0.22em;color:var(--ink);text-decoration:none}
+.brand b{color:var(--accent);font-weight:500;letter-spacing:0}
+.back-link{font-family:var(--mono);font-size:11px;letter-spacing:0.08em;color:var(--muted);text-decoration:none;padding:8px 10px;border-radius:5px}
+.back-link:hover{background:var(--soft);color:var(--ink)}
+.article{max-width:720px;margin:0 auto;padding:48px 24px 80px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:0.22em;color:var(--accent);text-transform:uppercase;margin-bottom:24px;display:flex;align-items:center;gap:12px}
+.eyebrow::before{content:'';width:28px;height:1px;background:var(--accent)}
+h1.main{font-family:var(--display);font-size:clamp(34px,5vw,52px);font-weight:500;line-height:1.05;letter-spacing:-0.02em;margin-bottom:14px;font-variation-settings:"opsz" 144}
+.subtitle{font-family:var(--display);font-size:clamp(18px,2.3vw,22px);font-weight:400;font-style:italic;color:var(--muted);line-height:1.4;margin-bottom:36px}
+.meta{display:flex;gap:14px;font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--muted);padding-bottom:28px;margin-bottom:36px;border-bottom:0.5px solid var(--line-2)}
+.body h2{font-family:var(--display);font-size:28px;font-weight:500;letter-spacing:-0.015em;line-height:1.2;margin:42px 0 16px}
+.body h3{font-family:var(--display);font-size:21px;font-weight:500;line-height:1.25;margin:28px 0 10px;color:var(--ink)}
+.body p{margin-bottom:18px;font-size:17px;line-height:1.75;color:var(--ink)}
+.body p strong{color:var(--ink);font-weight:500}
+.body ul,.body ol{margin:0 0 22px 22px}
+.body li{margin-bottom:9px;line-height:1.65}
+.body blockquote{margin:24px 0;padding:18px 22px;background:rgba(168,136,76,.08);border-left:3px solid var(--brass);border-radius:4px;font-style:italic;color:var(--ink)}
+.body blockquote p{margin:0;font-size:16px}
+.body table{width:100%;border-collapse:collapse;margin:24px 0;font-size:14.5px}
+.body table thead{background:var(--soft)}
+.body table th{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:10px 12px;text-align:left;border-bottom:1px solid var(--line-2);font-weight:500}
+.body table td{padding:10px 12px;border-bottom:0.5px solid var(--line);vertical-align:top}
+.body a{color:var(--accent);text-decoration:underline;text-decoration-thickness:0.5px;text-underline-offset:3px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:32px;padding-top:24px;border-top:0.5px solid var(--line-2)}
+.tag{font-family:var(--mono);font-size:10px;padding:3px 9px;background:var(--soft);border-radius:99px;color:var(--muted);letter-spacing:.04em}
+.alt-titles{margin-top:48px;padding:20px;background:var(--softer);border-radius:6px;font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.04em}
+.alt-titles div{margin-bottom:6px}
+.alt-titles strong{color:var(--ink);font-weight:500}
+.source-attr{margin-top:24px;font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.05em}
+.source-attr a{color:var(--muted);text-decoration:none;opacity:.7}
+.source-attr a:hover{opacity:1;color:var(--ink)}
+.alt-titles{display:none}
+body.admin .alt-titles{display:block}
+footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--soft)}
+.foot-inner{max-width:720px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--muted)}
+.foot-inner a{color:var(--muted);text-decoration:none;text-transform:uppercase}
+.foot-inner a:hover{color:var(--ink)}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a href="../../index.html" class="brand">POIN<b>·</b>TRADE</a>
+  <a href="../" class="back-link">← До новин</a>
+</div>
+<article class="article">
+  <div class="eyebrow">✦ Поглиблений розбір</div>
+  <h1 class="main">Реклама работает, но продаж нет: как найти реальную причину и не слить бюджет</h1>
+  <p class="subtitle">Системный разбор для импортёров, дистрибьюторов и закупщиков: товар, креатив или лендинг — что чинить первым</p>
+  <div class="meta">
+    <span>2026-05-19</span>
+    <span>•</span>
+    <span>1120 слів · ~5 хв читання</span>
+  </div>
+  <div class="body">
+<h2>Почему это важно именно сейчас</h2><p>В товарном бизнесе на стыке украинского, польского и турецкого рынков рекламные бюджеты давно перестали быть маленькими. Импортёр, который везёт турецкий текстиль в Польшу или польскую косметику в Украину, тратит на продвижение от 1 000 до 15 000 евро в месяц — и нередко получает в ответ лишь клики без заявок. Рынок 2025–2026 года усложнился: стоимость трафика выросла, покупатель стал требовательнее, а конкуренция в нишах уплотнилась.</p><p>Вместо системного анализа большинство предпринимателей действуют хаотично: меняют креатив, потом правят лендинг, потом переключаются на другой товар — и так по кругу, сжигая бюджет без понимания причины. Эта статья даёт конкретный алгоритм: как за 48 часов определить, где именно рвётся цепочка, и что делать дальше.</p><h2>Суть проблемы: три звена одной цепи</h2><p>Любая товарная воронка состоит из трёх элементов. Если продаж нет — сбой в одном из них или в их комбинации:</p><ul><li><strong>Товар</strong> — соответствует ли он реальному спросу, ценовому ожиданию и конкурентному окружению на конкретном рынке</li><li><strong>Креатив</strong> — передаёт ли объявление правильное сообщение нужной аудитории, вызывает ли доверие и желание кликнуть</li><li><strong>Лендинг / страница товара</strong> — убеждает ли посетителя оставить заявку или оформить заказ после перехода</li></ul><table><thead><tr><th>Элемент</th><th>Симптом провала</th><th>Ключевая метрика</th></tr></thead><tbody><tr><td>Товар</td><td>Клики есть, заявки есть, но конверсия в покупку низкая или много отказов после звонка</td><td>Конверсия заявка → оплата</td></tr><tr><td>Креатив</td><td>Показы есть, кликов мало или CTR падает со временем</td><td>CTR, CPС, частота показов</td></tr><tr><td>Лендинг</td><td>Клики есть, но люди уходят за 10–15 секунд, заявок нет</td><td>Bounce rate, время на странице, конверсия в заявку</td></tr></tbody></table><blockquote>Ключевое правило: менять можно только один элемент за раз. Иначе вы никогда не узнаете, что именно сработало или провалилось.</blockquote><h2>Что это меняет для каждой роли</h2><h3>UA-импортёр</h3><p>Украинский импортёр, работающий с польскими или турецкими поставщиками, чаще всего сталкивается с проблемой на уровне товара и лендинга одновременно. Причина — неправильная адаптация продукта под локальный рынок. Турецкий текстиль, который отлично продаётся в Стамбуле, может не заходить в Харькове не из-за качества, а из-за неподходящей размерной линейки, упаковки или ценового позиционирования. Перед запуском рекламы стоит провести хотя бы 20 живых разговоров с потенциальными покупателями — это дешевле, чем 2 недели тестового трафика.</p><h3>PL-дистрибьютор</h3><p>Польский дистрибьютор работает в высококонкурентной среде маркетплейсов (Allegro, Amazon.pl) и собственных интернет-магазинов. Здесь главная ловушка — слабый креатив на фоне сильного товара. Польский потребитель очень чувствителен к качеству фото, наличию отзывов и понятному описанию выгод. Если карточка товара выглядит как у новичка, а рядом стоит конкурент с профессиональной съёмкой — никакой бюджет не поможет. Проблема не в рекламе, а в визуальном и текстовом оформлении точки входа.</p><h3>TR-производитель / экспортёр в Украину</h3><p>Турецкий производитель, выходящий на украинский или польский рынок через дистрибьютора или напрямую, чаще всего недооценивает культурный и языковой барьер в коммуникации. Креатив, переведённый дословно с турецкого, часто теряет смысл и убедительность. Реальный пример: турецкий производитель строительной химии запустил кампанию в Украине с буквальным переводом слогана — и получил CTR в три раза ниже среднеотраслевого. После локализации месседжа под украинские реалии («защита от морозного пучения», конкретные примеры объектов) CTR вырос вдвое за две недели.</p><h3>Category Manager / закупщик</h3><p>Для категорийного менеджера розничной сети или маркетплейса эта проблема выглядит иначе: поставщик приходит с товаром и говорит «мы уже пробовали рекламу — не работает». Это сигнал не отказывать сразу, а разобраться, что именно не работало. Часто оказывается, что сам продукт перспективен, но поставщик тестировал не тот канал или не ту аудиторию. Закупщик, который умеет задать правильные вопросы (какой был CTR? какой bounce rate на лендинге? была ли аналитика?), получает конкурентное преимущество в выборе поставщиков.</p><h2>Практические рекомендации: что делать прямо сейчас</h2><ul><li><strong>Установите базовую аналитику до запуска рекламы.</strong> Google Analytics 4 или Meta Pixel с настроенными событиями — обязательный минимум. Без данных диагностика невозможна, вы будете лечить симптомы вслепую.</li><li><strong>Проведите экспресс-диагностику по метрикам.</strong> CTR ниже 1% в Meta или ниже 2% в Google Shopping — проблема в креативе или таргетинге. Bounce rate выше 70% при нормальном CTR — проблема в лендинге. Конверсия заявки в покупку ниже 20% — проблема в товаре или обработке заявок.</li><li><strong>Зафиксируйте гипотезу и тестируйте один элемент.</strong> Сформулируйте конкретное предположение: «Если я поменяю главный заголовок лендинга — конверсия вырастет». Запустите A/B тест минимум на 500 кликов, прежде чем делать выводы.</li><li><strong>Проверьте соответствие оффера и аудитории.</strong> Убедитесь, что то, что обещает ваш креатив, в точности соответствует тому, что человек видит на лендинге. Разрыв между обещанием и страницей — одна из самых частых причин высокого bounce rate.</li><li><strong>Сравните себя с тремя конкурентами вручную.</strong> Пройдите путь покупателя у конкурентов: кликните на их объявление, посмотрите лендинг, попробуйте оформить заказ. Это даст больше инсайтов, чем неделя аналитики.</li><li><strong>Проверьте скорость загрузки лендинга на мобильном.</strong> Более 3 секунд загрузки — вы теряете до 40% трафика ещё до того, как человек увидел ваш оффер. PageSpeed Insights покажет проблему за две минуты.</li><li><strong>Поговорите с теми, кто не купил.</strong> Настройте exit-intent опрос или обзвоните 10 человек, оставивших заявку, но не оплативших. Реальные возражения всегда точнее любой аналитики.</li></ul><h2>Возможности и риски</h2><h3>Где можно выиграть</h3><p>Компании, которые выстраивают системную аналитику воронки, получают устойчивое преимущество: они быстрее масштабируют то, что работает, и быстрее останавливают то, что не работает. На рынке UA-PL-TR большинство игроков среднего звена до сих пор работают «на глаз» — это означает, что даже базовая аналитика уже выделяет вас на фоне конкурентов. Дополнительная возможность: данные о провалах в воронке часто указывают на незакрытые потребности рынка, которые можно использовать для продуктового развития.</p><h3>Где нужно подготовиться</h3><p>Риск номер один — это «оптимизационная ловушка»: вы так увлекаетесь тестированием креативов и лендингов, что перестаёте видеть фундаментальную проблему — товар просто не нужен рынку в этом виде, по этой цене, в этот момент. Второй риск — доверять инструментам без понимания контекста. Метрики — это сигналы, а не приговор. Высокий bounce rate на польском рынке может объясняться особенностями поведения польских пользователей, а не плохим лендингом.</p><blockquote>Реальный пример: украинский дистрибьютор турецкой обуви три месяца менял креативы в Facebook, получая стабильно низкую конверсию. После аудита выяснилось: лендинг не загружался корректно на устройствах с украинской локалью iOS. Техническая ошибка, не имеющая отношения ни к товару, ни к рекламе. Три месяца и ~4 000 евро бюджета — потеряны.</blockquote><h2>Таблица: Сейчас vs После системного подхода</h2><table><thead><tr><th>Ситуация</th><th>Хаотичный подход</th><th>Системный подход</th></tr></thead><tbody><tr><td>Нет продаж при наличии трафика</td><td>Меняем товар, потом креатив, потом лендинг одновременно</td><td>Диагностируем метрики → выявляем слабое звено → тестируем гипотезу</td></tr><tr><td>Бюджет на тест</td><td>Сжигается без выводов</td><td>Каждый рубль/злотый даёт данные</td></tr><tr><td>Время до результата</td><td>Месяцы без прогресса</td><td>2–4 недели до первого валидного вывода</td></tr><tr><td>Решение о масштабировании</td><td>На интуиции</td><td>На основе данных конверсии</td></tr></tbody></table><h2>Заключение</h2><p>Реклама без продаж — это не повод паниковать и не приговор для бизнеса. Это диагностическая задача, которая решается методично: зафиксировать метрики, выдвинуть гипотезу, проверить одну переменную, сделать вывод. Хаотичные изменения — самый дорогой способ учиться на ошибках.</p><p>Для участников рынка UA-PL-TR дополнительная сложность — это кросс-культурный контекст. То, что работает в польском e-commerce, не всегда переносится в украинскую реальность, и наоборот. Именно поэтому ценность отраслевой сети, где можно сверить опыт с коллегами по рынку, сложно переоценить.</p><blockquote>Если вы импортёр, дистрибьютор или производитель, работающий в треугольнике Украина–Польша–Турция, и хотите разобрать свою воронку с коллегами по отрасли — присоединяйтесь к закрытой B2B-сети Pointrade. Здесь предприниматели делятся реальными кейсами, находят партнёров и решают именно такие практические задачи без лишнего шума.</blockquote>
+  </div>
+  <div class="tags"><span class="tag">реклама</span><span class="tag">конверсия</span><span class="tag">e-commerce</span><span class="tag">UA-PL-TR</span><span class="tag">товарный бизнес</span></div>
+  <div class="source-attr">Першоджерело: <a href="https://speka.ua/technologies/tovar-ne-prodajetsya-tovar-kreativ-ci-lending-vinen-vr83r3" target="_blank" rel="noopener">🇺🇦 SPEKA ↗</a></div>
+  <div class="alt-titles">
+    <div><strong>Альтернативні заголовки (для тестування):</strong></div>
+    <div>· Клики есть, заявок нет: где теряются деньги в товарной рекламе UA-PL-TR</div><div>· Три причины, по которым реклама не конвертирует — и как это диагностировать за один день</div>
+  </div>
+</article>
+<script>if(location.search.indexOf('admin=1')>=0)document.body.classList.add('admin');</script>
+<footer>
+  <div class="foot-inner">
+    <a href="../../index.html">POIN<b style="color:var(--accent)">·</b>TRADE</a>
+    <a href="../">← Усі новини</a>
+  </div>
+</footer>
+</body>
+</html>
