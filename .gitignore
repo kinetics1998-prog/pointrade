@@ -1,0 +1,17 @@
+# Secrets
+*.env
+.env*
+signal_config.php
+config.php
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.claude/
+.vscode/
+*.swp
+
+# Local test data
+test_*.json
