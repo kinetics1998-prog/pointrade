@@ -174,6 +174,9 @@ def send_telegram(text: str) -> bool:
         print("⚠ TELEGRAM_BOT_TOKEN/CHAT_ID не задані")
         return False
 
+    chat_id_preview = TELEGRAM_CHAT_ID[:3] + "..." + TELEGRAM_CHAT_ID[-3:] if len(TELEGRAM_CHAT_ID) > 6 else "(short)"
+    print(f"📡 Sending to chat_id={chat_id_preview} (len={len(TELEGRAM_CHAT_ID)}, starts_with_@={TELEGRAM_CHAT_ID.startswith('@')})")
+
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     data = urllib.parse.urlencode({
         "chat_id": TELEGRAM_CHAT_ID,
@@ -191,6 +194,19 @@ def send_telegram(text: str) -> bool:
                 return True
             print(f"❌ Telegram error: {result}")
             return False
+    except urllib.error.HTTPError as e:
+        # Друкуємо повне тіло помилки — Telegram там дає точну причину
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"❌ Telegram HTTPError {e.code}: {body}")
+        # Спробуємо також через getChat — щоб зрозуміти чи бот бачить канал
+        try:
+            url2 = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/getChat"
+            req2 = urllib.request.Request(url2 + "?chat_id=" + urllib.parse.quote(TELEGRAM_CHAT_ID))
+            with urllib.request.urlopen(req2, timeout=10) as r2:
+                print(f"   getChat: {r2.read().decode('utf-8')[:300]}")
+        except Exception as ee:
+            print(f"   getChat also failed: {ee}")
+        return False
     except Exception as e:
         print(f"❌ Telegram exception: {e}")
         return False
