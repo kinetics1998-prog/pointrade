@@ -87,7 +87,7 @@ def summarize_with_claude(title, article_text):
 Напиши коротку виважку (3-4 речення, максимум 400 символів) українською мовою. Тільки суть — що сталося, чому це важливо для бізнесу, що робити. Без вступів, без "У статті йдеться". Пиши як Bloomberg — сухо, чітко, по факту."""
 
     data = json.dumps({
-        "model": "claude-sonnet-4-20250514",
+        "model": "claude-haiku-4-5-20251001",
         "max_tokens": 300,
         "messages": [{"role": "user", "content": prompt}]
     }).encode()
