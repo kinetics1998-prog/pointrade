@@ -1832,5 +1832,92 @@
     "editor_reasoning": "AI-редактор: QA=5/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "0a77aec2039d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-yaklasik-6-5-milyar-lira-tarimsal-destekleme-odemesinin-bugun-yapilacagini-bildirdi/3946066",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Міністр Юмаклі повідомив про здійснення сьогодні виплат дотацій на суму близько 6,5 мільярда ліри",
+    "body_orig": "Міністр сільського господарства та лісового господарства Ібрагім Юмаклі оголосив, що сьогодні на рахунки фермерів буде переведено 6 мільярдів 468 мільйонів 162 тисяч ліри як виплати дотацій на сільськогосподарське виробництво.",
+    "published": "2026-05-22T15:42:47",
+    "fetched": "2026-05-22T15:50:54.056543",
+    "_title_pre_translate": "Bakan Yumaklı, yaklaşık 6,5 milyar lira tarımsal destekleme ödemesinin bugün yapılacağını bildirdi",
+    "_body_pre_translate": "Tarım ve Orman Bakanı İbrahim Yumaklı, tarımsal destekleme ödemesi olarak bugün çiftçilerin hesaplarına 6 milyar 468 milyon 162 bin lira aktarılacağını açıkladı.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Туреччина виплачує дотації фермерам на €230 млн",
+    "summary_uk": "Міністр сільського господарства Туреччини Ібрагім Юмаклі оголосив про виплату дотацій на суму приблизно €230 млн для фермерів. Ці кошти спрямовані на підтримку сільськогосподарського виробництва. Виплати відбуваються сьогодні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця дотація може підвищити конкурентоспроможність турецьких виробників на внутрішньому ринку, що може вплинути на ціни для експортерів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина виплачує дотації фермерам на €230 млн",
+    "summary": "Міністр сільського господарства Туреччини Ібрагім Юмаклі оголосив про виплату дотацій на суму приблизно €230 млн для фермерів. Ці кошти спрямовані на підтримку сільськогосподарського виробництва. Виплати відбуваються сьогодні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-yaklasik-6-5-milyar-lira-tarimsal-destekleme-odemesinin-bugun-yapilacagini-bildirdi/3946066",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Expecting value: line 1 column 1 (char 0)",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d0db09481da",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/compania-de-foraj-foraj-sonde-videle-unde-iulian-stanciu-de-la-emag-23157824",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Буровинна компанія Foraj Sonde Videle, де Юліан Станчу з eMAG є акціонером з часткою 33%, підписала контракт на 24,6 мільйона доларів з OMV Petrom",
+    "body_orig": "",
+    "published": "2026-05-22T15:34:42",
+    "fetched": "2026-05-22T15:50:56.353786",
+    "_title_pre_translate": "Compania de foraj Foraj Sonde Videle, unde Iulian Stanciu de la eMAG este acţionar cu 33%, a semnat un contract de 24,6 milioane de dolari cu OMV Petrom",
+    "_body_pre_translate": "",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Foraj Sonde Videle підписала контракт на $24.6 млн з OMV Petrom",
+    "summary_uk": "Буровинна компанія Foraj Sonde Videle уклала угоду з OMV Petrom на суму $24.6 млн. Юліан Станчу, акціонер eMAG, володіє 33% акцій компанії. Контракт передбачає виконання робіт у сфері буріння.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Foraj Sonde Videle підписала контракт на $24.6 млн з OMV Petrom",
+    "summary": "Буровинна компанія Foraj Sonde Videle уклала угоду з OMV Petrom на суму $24.6 млн. Юліан Станчу, акціонер eMAG, володіє 33% акцій компанії. Контракт передбачає виконання робіт у сфері буріння.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/compania-de-foraj-foraj-sonde-videle-unde-iulian-stanciu-de-la-emag-23157824",
+    "validator_score": 7,
+    "validator_flags": [
+      "irrelevant_persona",
+      "impact_too_low"
+    ],
+    "validator_suggestions": "Стаття про румунський буровий контракт — цілком реальна новина, але жоден з 4 персонажів (UA-імпортер, PL-дистриб'ютор, TR-виробник, категорійний менеджер) справді не релевантний. Impact=0 виглядає правильним для цих персонажів, але тоді постає питання: навіщо стаття на Pointrade? Якщо аудиторія — FMCG/рітейл, цю новину варто відхилити як off-topic, або переадресувати на профільний енергетичний/інвестиційний розділ.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
