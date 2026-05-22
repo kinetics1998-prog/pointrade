@@ -1,5 +1,9 @@
 name: Generate deep article (Purple Cow)
 
+concurrency:
+  group: deep_article
+  cancel-in-progress: false
+
 on:
   workflow_dispatch:
     inputs:
