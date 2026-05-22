@@ -1,6 +1,6 @@
-# Pointrade — Deploy Guide
+# Poin Trade — Deploy Guide
 
-Як запустити Pointrade на проді.
+Як запустити Poin Trade на проді.
 
 ## ⚠️ Найчастіша помилка при деплої PHP
 
@@ -51,14 +51,14 @@ Static і backend на різних доменах → треба CORS (вже �
 
 Якщо стартуєш з нуля:
 1. Telegram → @BotFather → `/newbot`
-2. Назва: `Pointrade Notifications`
+2. Назва: `Poin Trade Notifications`
 3. Username: `signal_notify_bot` (або інший вільний)
 4. Збережи токен у password manager — НЕ в git, НЕ в чат
 
 ### 2. Дізнатись свій Telegram chat_id
 
 1. У Telegram знайди `@userinfobot` → напиши йому будь-що → отримай `Id: 123456789`
-2. **АБО** створи приватну групу "Pointrade leads", додай туди бота, відкрий
+2. **АБО** створи приватну групу "Poin Trade leads", додай туди бота, відкрий
    `https://api.telegram.org/bot<TOKEN>/getUpdates` → знайди `"chat":{"id":-100...}` (для групи з `-100`)
 3. **Дай боту дозвіл писати тобі**: відкрий бота → натисни `/start`
 
