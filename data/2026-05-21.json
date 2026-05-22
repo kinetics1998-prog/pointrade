@@ -1,66 +1,5 @@
 [
   {
-    "id": "8cb8cfde6d39",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Нові механізми захисту інвесторів у нерухомість в Україні",
-    "link": "https://ain.ua/2026/05/19/zahyst-investytsij-nerukhomist-pravyla-rynky/",
-    "summary": "В Україні запроваджено нові правила для захисту інвесторів у новобудови. Після змін 2022 року з'явилися механізми, що забезпечують більшу прозорість для девелоперів. Це дозволить зменшити ризики для вкладників, які фінансували будівництво без гарантій завершення проєктів.",
-    "published": "2026-05-21T08:00:00",
-    "fetched": "2026-05-21T08:08:00.347524",
-    "title_uk": "Нові механізми захисту інвесторів у нерухомість в Україні",
-    "summary_uk": "В Україні запроваджено нові правила для захисту інвесторів у новобудови. Після змін 2022 року з'явилися механізми, що забезпечують більшу прозорість для девелоперів. Це дозволить зменшити ризики для вкладників, які фінансували будівництво без гарантій завершення проєктів.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "інвестиції",
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "84b7e0269a4e",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Google презентує нові ШІ-інструменти на I/O 2026",
-    "link": "https://ain.ua/2026/05/20/google-io-2026/",
-    "summary": "На конференції Google I/O 2026 були представлені нові ШІ-інструменти для пошуковика. Оновлення включає покращений рядок пошуку та нові розробки для науковців. Ці зміни можуть суттєво вплинути на ефективність роботи з інформацією.",
-    "published": "2026-05-21T07:35:00",
-    "fetched": "2026-05-21T08:08:00.347540",
-    "title_uk": "Google презентує нові ШІ-інструменти на I/O 2026",
-    "summary_uk": "На конференції Google I/O 2026 були представлені нові ШІ-інструменти для пошуковика. Оновлення включає покращений рядок пошуку та нові розробки для науковців. Ці зміни можуть суттєво вплинути на ефективність роботи з інформацією.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "f11ca7bb95b6",
     "source": "🇺🇦 AIN.ua",
     "category": "UA_TECH",
@@ -92,37 +31,6 @@
       "ціни-сировина"
     ],
     "impact_score": 1,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "3eb765c07d5f",
-    "source": "🇺🇦 MC.today",
-    "category": "news",
-    "title": "Українські miltech-компанії шукають кваліфікованих спеціалістів",
-    "link": "https://mc.today/uk/ukrayinskij-miltech-rozshiryuye-komandi-ta-klyuchovi-vakansiyi-zakrivayutsya-misyatsyami/",
-    "summary": "Дослідження Української ради зброярів та CORE Team показало, що miltech-компанії в Україні активно наймають, але не можуть закрити попит на фахівців. Це свідчить про зростаючу потребу в кваліфікованих кадрах у галузі. Дані опубліковані 21 травня 2026 року.",
-    "published": "2026-05-21T06:14:59",
-    "fetched": "2026-05-21T08:08:04.407188",
-    "title_uk": "Українські miltech-компанії шукають кваліфікованих спеціалістів",
-    "summary_uk": "Дослідження Української ради зброярів та CORE Team показало, що miltech-компанії в Україні активно наймають, але не можуть закрити попит на фахівців. Це свідчить про зростаючу потребу в кваліфікованих кадрах у галузі. Дані опубліковані 21 травня 2026 року.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "виробництво"
-    ],
-    "impact_score": 0,
     "market": "ua",
     "source_lang": "uk",
     "validator_score": 7,
@@ -224,37 +132,6 @@
     "fetched": "2026-05-21T08:08:11.297633"
   },
   {
-    "id": "db6d42dc7fe6",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "Google інтегрує ШІ в пошук: нові можливості для користувачів",
-    "link": "https://speka.ua/news/google-integruje-agentnii-si-v-posuk-shho-ce-oznacaje-dlya-koristuvaciv-pkm121",
-    "summary": "На конференції Google I/O 2026 компанія представила нове оновлення пошуку, в якому штучний інтелект став центральним елементом. Це оновлення обіцяє поліпшити якість результатів пошуку та персоналізацію контенту для користувачів. Очікується, що нові функції з'являться у найближчі місяці.",
-    "published": "2026-05-20T20:20:24",
-    "fetched": "2026-05-21T08:08:11.297645",
-    "title_uk": "Google інтегрує ШІ в пошук: нові можливості для користувачів",
-    "summary_uk": "На конференції Google I/O 2026 компанія представила нове оновлення пошуку, в якому штучний інтелект став центральним елементом. Це оновлення обіцяє поліпшити якість результатів пошуку та персоналізацію контенту для користувачів. Очікується, що нові функції з'являться у найближчі місяці.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "технології"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "fcaeeaaabbcb",
     "source": "🇺🇦 SPEKA",
     "category": "UA_TECH",
@@ -263,37 +140,6 @@
     "summary": "ШІ перестає бути просто технологічним трендом: сьогодні він одночасно змінює пошук, робочі місця, фінансовий софт, креативні індустрії та настрої молодих працівників.",
     "published": "2026-05-20T20:11:03",
     "fetched": "2026-05-21T08:08:11.297655"
-  },
-  {
-    "id": "cc513a582fe8",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "OpenAI фінансує дослідження впливу ШІ на освіту в Україні",
-    "link": "https://speka.ua/news/openai-profinansuje-ukrayinske-doslidzennya-pro-vpliv-si-na-osvitu-shho-vidomo-pyqwjg",
-    "summary": "Україна розпочала національне дослідження впливу штучного інтелекту на шкільну освіту в умовах війни. Проєкт отримав фінансову підтримку від OpenAI. Міністерство цифрової трансформації повідомило про старт дослідження.",
-    "published": "2026-05-20T19:13:17",
-    "fetched": "2026-05-21T08:08:11.297666",
-    "title_uk": "OpenAI фінансує дослідження впливу ШІ на освіту в Україні",
-    "summary_uk": "Україна розпочала національне дослідження впливу штучного інтелекту на шкільну освіту в умовах війни. Проєкт отримав фінансову підтримку від OpenAI. Міністерство цифрової трансформації повідомило про старт дослідження.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "інвестиції"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "9ef90a9094b3",
@@ -328,37 +174,6 @@
       "ціни-сировина"
     ],
     "impact_score": 1,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "58ec314c066d",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Трансформація ринку івент-локацій в Україні",
-    "link": "https://mind.ua/publications/20305356-shcho-viznachae-liderstvo-na-rinku-ivent-lokacij-kejs-kvc-parkovy",
-    "summary": "Ринок бізнес-заходів в Україні змінюється, переходячи від простору до продукту. КВЦ Parkovy демонструє нові підходи до організації заходів, акцентуючи на якості та сервісах. Це може підвищити конкурентоспроможність локацій на ринку.",
-    "published": "2026-05-21T08:00:00",
-    "fetched": "2026-05-21T08:08:15.664889",
-    "title_uk": "Трансформація ринку івент-локацій в Україні",
-    "summary_uk": "Ринок бізнес-заходів в Україні змінюється, переходячи від простору до продукту. КВЦ Parkovy демонструє нові підходи до організації заходів, акцентуючи на якості та сервісах. Це може підвищити конкурентоспроможність локацій на ринку.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "інвестиції"
-    ],
-    "impact_score": 0,
     "market": "ua",
     "source_lang": "uk",
     "validator_score": 7,
@@ -430,38 +245,6 @@
     "fetched": "2026-05-21T08:08:15.664924"
   },
   {
-    "id": "2504e2921f77",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Вплив email-маркетингу на прибуток бізнесу в Україні та США",
-    "link": "https://mind.ua/openmind/20305458-yak-email-marketing-vplivae-na-pributok-biznesu-vidminnosti-rinkiv-ssha-ta-ukrayini",
-    "summary": "Email-маркетинг стає важливим інструментом для бізнесу в Україні та США. Ефективність цього каналу залежить від стратегії взаємодії з клієнтами. У США компанії отримують до 42% ROI від email-кампаній, тоді як в Україні цей показник ще формується. Важливо адаптувати підходи до специфіки ринку.",
-    "published": "2026-05-21T06:30:00",
-    "fetched": "2026-05-21T08:08:15.664932",
-    "title_uk": "Вплив email-маркетингу на прибуток бізнесу в Україні та США",
-    "summary_uk": "Email-маркетинг стає важливим інструментом для бізнесу в Україні та США. Ефективність цього каналу залежить від стратегії взаємодії з клієнтами. У США компанії отримують до 42% ROI від email-кампаній, тоді як в Україні цей показник ще формується. Важливо адаптувати підходи до специфіки ринку.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "ритейл",
-      "стартапи",
-      "трейд-маркетинг"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "acf4b12bf84d",
     "source": "🇺🇦 mind.ua",
     "category": "UA_BIZ",
@@ -492,36 +275,6 @@
     "fetched": "2026-05-21T08:08:15.664956"
   },
   {
-    "id": "f43f49e2ec6d",
-    "source": "🇺🇦 mind.ua",
-    "category": "regulation",
-    "title": "Трейдери ЄС маніпулюють енергетичним ринком, Україна готується",
-    "link": "https://mind.ua/publications/20305460-manipulyaciyi-na-energetichnomu-rinku-na-chomu-palyatsya-trejderi-v-es-i-do-chogo-gotuvatisya-ukrayini",
-    "summary": "НКРЕКП адаптує європейські правила REMIT до українських умов. Це дозволить зменшити маніпуляції на енергетичному ринку. Очікується, що нові правила підвищать прозорість і стабільність ринку в Україні.",
-    "published": "2026-05-21T05:00:00",
-    "fetched": "2026-05-21T08:08:15.664965",
-    "title_uk": "Трейдери ЄС маніпулюють енергетичним ринком, Україна готується",
-    "summary_uk": "НКРЕКП адаптує європейські правила REMIT до українських умов. Це дозволить зменшити маніпуляції на енергетичному ринку. Очікується, що нові правила підвищать прозорість і стабільність ринку в Україні.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "1f28a43e6106",
     "source": "🇺🇦 mind.ua",
     "category": "UA_BIZ",
@@ -532,36 +285,6 @@
     "fetched": "2026-05-21T08:08:15.664973"
   },
   {
-    "id": "b01ff65db9ac",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Киргизстан почав перевірки компаній, що торгують з рф",
-    "link": "https://mind.ua/news/20305456-kirgizstan-pislya-vvedennya-evropejskih-sankcij-nareshti-vzyavsya-za-kompaniyi-yaki-torguyut-z-rf",
-    "summary": "Киргизстан розпочав перевірки компаній, які підозрюються у торгівлі з рф. Інформацію про ці компанії надали США та Велика Британія. Це може вплинути на бізнес-стосунки з країнами, які підтримують санкції.",
-    "published": "2026-05-20T19:39:00",
-    "fetched": "2026-05-21T08:08:15.664981",
-    "title_uk": "Киргизстан почав перевірки компаній, що торгують з рф",
-    "summary_uk": "Киргизстан розпочав перевірки компаній, які підозрюються у торгівлі з рф. Інформацію про ці компанії надали США та Велика Британія. Це може вплинути на бізнес-стосунки з країнами, які підтримують санкції.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "40687d80bd54",
     "source": "🇺🇦 mind.ua",
     "category": "UA_BIZ",
@@ -570,95 +293,6 @@
     "summary": "Родичів змушують поширювати фейки про те, що українська влада нібито не займається поверненням полонених",
     "published": "2026-05-20T19:12:00",
     "fetched": "2026-05-21T08:08:15.664990"
-  },
-  {
-    "id": "cffe4e052b6c",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Саудівська Аравія знизила експорт нафти до рекордно низького рівня",
-    "link": "https://mind.ua/news/20305454-saudivska-araviya-eksportuvala-rekordno-malij-obsyag-nafti-za-misyac-reuters",
-    "summary": "Саудівська Аравія зафіксувала найнижчий обсяг експорту нафти за місяць. Видобуток також зменшився до рекордно низького рівня. Це може вплинути на глобальні ціни на нафту та енергетичний ринок.",
-    "published": "2026-05-20T18:56:00",
-    "fetched": "2026-05-21T08:08:15.664999",
-    "title_uk": "Саудівська Аравія знизила експорт нафти до рекордно низького рівня",
-    "summary_uk": "Саудівська Аравія зафіксувала найнижчий обсяг експорту нафти за місяць. Видобуток також зменшився до рекордно низького рівня. Це може вплинути на глобальні ціни на нафту та енергетичний ринок.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "експорт",
-      "ціни-сировина"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "360010cfd1be",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Fynd Reality та Sensorama створять навчальні сценарії для військових",
-    "link": "https://ain.ua/2026/05/20/fynd-reality-sensorama-navcalni-scenariyi-dlia/",
-    "summary": "Норвезька компанія Fynd Reality та українська Sensorama розпочали спільну розробку XR-сценаріїв для підготовки військових. Сценарії будуть доступні через платформу Fynd CORE. Це сприятиме покращенню навчання військовослужбовців в Україні.",
-    "published": "2026-05-21T14:54:00",
-    "fetched": "2026-05-21T17:53:39.347790",
-    "title_uk": "Fynd Reality та Sensorama створять навчальні сценарії для військових",
-    "summary_uk": "Норвезька компанія Fynd Reality та українська Sensorama розпочали спільну розробку XR-сценаріїв для підготовки військових. Сценарії будуть доступні через платформу Fynd CORE. Це сприятиме покращенню навчання військовослужбовців в Україні.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "a28eb567bfcc",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Ольга Кревська стала заступницею міністра цифрової трансформації",
-    "link": "https://ain.ua/2026/05/21/u-mincifri-ziavilas-nova-zastupnicia-z-jevrointegraciyi/",
-    "summary": "Ольга Кревська призначена новою заступницею міністра цифрової трансформації з євроінтеграції. Вона має понад вісім років досвіду в цій сфері, з яких шість — у Мінцифри. Це призначення може вплинути на стратегії цифровізації в Україні.",
-    "published": "2026-05-21T13:10:00",
-    "fetched": "2026-05-21T17:53:39.347805",
-    "title_uk": "Ольга Кревська стала заступницею міністра цифрової трансформації",
-    "summary_uk": "Ольга Кревська призначена новою заступницею міністра цифрової трансформації з євроінтеграції. Вона має понад вісім років досвіду в цій сфері, з яких шість — у Мінцифри. Це призначення може вплинути на стратегії цифровізації в Україні.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "315705e77585",
@@ -681,67 +315,6 @@
       "митниця",
       "регуляція",
       "виробництво"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "096991f44fad",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Ефективні кампанії Demand Gen у Display & Video 360 у 2026 році",
-    "link": "https://ain.ua/2026/05/20/mastering-demand-gen-dv360-best-practices-2026/",
-    "summary": "Стаття описує можливості Demand Gen у 2026 році, зокрема глобальний функціонал, принципи створення креативу та роботу із сигналами. Зокрема, акцентується на важливості first-party data та налаштуванні lookalike-сегментів для підвищення ефективності кампаній.",
-    "published": "2026-05-21T11:00:00",
-    "fetched": "2026-05-21T17:53:39.347824",
-    "title_uk": "Ефективні кампанії Demand Gen у Display & Video 360 у 2026 році",
-    "summary_uk": "Стаття описує можливості Demand Gen у 2026 році, зокрема глобальний функціонал, принципи створення креативу та роботу із сигналами. Зокрема, акцентується на важливості first-party data та налаштуванні lookalike-сегментів для підвищення ефективності кампаній.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "ритейл"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "e8636b3ac5a5",
-    "source": "🇺🇦 AIN.ua",
-    "category": "news",
-    "title": "Україна та Японія підписали угоду на $40 млн для відбудови",
-    "link": "https://ain.ua/2026/05/21/vidbudova-ukrayina-ta-iaponiia/",
-    "summary": "Україна та Японія уклали грантову угоду на $40 млн для відновлення інфраструктури. Кошти будуть спрямовані на проекти, що підтримують відновлення після війни. Це важливий крок у співпраці між країнами.",
-    "published": "2026-05-21T10:20:00",
-    "fetched": "2026-05-21T17:53:39.347832",
-    "title_uk": "Україна та Японія підписали угоду на $40 млн для відбудови",
-    "summary_uk": "Україна та Японія уклали грантову угоду на $40 млн для відновлення інфраструктури. Кошти будуть спрямовані на проекти, що підтримують відновлення після війни. Це важливий крок у співпраці між країнами.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "інвестиції"
     ],
     "impact_score": 0,
     "market": "ua",
@@ -782,36 +355,6 @@
     "summary": "<p>Організації різних типів — від урядових агентств до великих корпорацій — стають жертвами масштабних крадіжок з боку власних працівників. За даними Міністерства юстиції США за період з травня 2025 по квітень 2026 року, 10 найбільших схем привласнення коштів завдали збитків на суму від $23 млн до $",
     "published": "2026-05-21T14:14:05",
     "fetched": "2026-05-21T17:53:42.801769"
-  },
-  {
-    "id": "ecf22776b286",
-    "source": "🇺🇦 MC.today",
-    "category": "warning",
-    "title": "НБУ попередив про фішинг: як розпізнати шахрайство",
-    "link": "https://mc.today/uk/nbu-poperediv-ukrayintsiv-pro-fishing-yak-pratsyuye-shema-ta-yak-rozpiznati-shahrajstvo/",
-    "summary": "Національний банк України повідомив про фішингову кампанію, в якій зловмисники розсилають листи від імені регулятора з шкідливими файлами. Громадянам рекомендовано бути обережними та перевіряти достовірність отриманих повідомлень.",
-    "published": "2026-05-21T13:28:48",
-    "fetched": "2026-05-21T17:53:42.801779",
-    "title_uk": "НБУ попередив про фішинг: як розпізнати шахрайство",
-    "summary_uk": "Національний банк України повідомив про фішингову кампанію, в якій зловмисники розсилають листи від імені регулятора з шкідливими файлами. Громадянам рекомендовано бути обережними та перевіряти достовірність отриманих повідомлень.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "18f248ef3341",
@@ -855,67 +398,6 @@
     "fetched": "2026-05-21T17:53:42.801797"
   },
   {
-    "id": "e7f493d4ae41",
-    "source": "🇺🇦 MC.today",
-    "category": "news",
-    "title": "Шахраї використовують ШІ для вдосконалення схем обману",
-    "link": "https://mc.today/uk/rozpiznati-shahrajstvo-staye-skladnishe-yak-zlovmisniki-vikoristovuyut-shi-ta-shho-robiti-ukrayintsyam/",
-    "summary": "Зловмисники застосовують штучний інтелект для покращення фішингових атак. Повідомлення стають більш персоналізованими, а кількість помилок зменшується. Анна Довгальська з «Глобус Банку» підкреслила, що це ускладнює розпізнавання шахрайства.",
-    "published": "2026-05-21T09:12:17",
-    "fetched": "2026-05-21T17:53:42.801806",
-    "title_uk": "Шахраї використовують ШІ для вдосконалення схем обману",
-    "summary_uk": "Зловмисники застосовують штучний інтелект для покращення фішингових атак. Повідомлення стають більш персоналізованими, а кількість помилок зменшується. Анна Довгальська з «Глобус Банку» підкреслила, що це ускладнює розпізнавання шахрайства.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "виробництво"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "f7ca7167451d",
-    "source": "🇺🇦 DOU.ua",
-    "category": "news",
-    "title": "EPAM найняла 200 junior-спеціалістів з початку року",
-    "link": "https://dou.ua/lenta/news/juniors-in-epam-2026/",
-    "summary": "З початку 2026 року компанія EPAM найняла близько 200 джуніор-спеціалістів. Найчастіше запитувані ролі включають Java, .NET, DevOps, Python та JavaScript. Це свідчить про активний розвиток компанії в Україні.",
-    "published": "2026-05-21T16:48:28",
-    "fetched": "2026-05-21T17:53:43.087469",
-    "title_uk": "EPAM найняла 200 junior-спеціалістів з початку року",
-    "summary_uk": "З початку 2026 року компанія EPAM найняла близько 200 джуніор-спеціалістів. Найчастіше запитувані ролі включають Java, .NET, DevOps, Python та JavaScript. Це свідчить про активний розвиток компанії в Україні.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "інвестиції"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "bdbcdce329be",
     "source": "🇺🇦 DOU.ua",
     "category": "UA_TECH",
@@ -924,67 +406,6 @@
     "summary": "<p>Міноборони назвало головні напрями роботи на найближчі місяці. У фокусі — посилення «малої» ППО, створення дешевих ракет для збиття Shahed, розвиток приватної ППО, масштабування закупівель дронів, система Mission Control і перехід оборонних закупівель на тендери. </p>\n\n<p>Про це заявив Михайло Фе",
     "published": "2026-05-21T09:04:48",
     "fetched": "2026-05-21T17:53:43.087485"
-  },
-  {
-    "id": "b9479020a97c",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "Вчені виявили спільну слабкість мутацій раку",
-    "link": "https://speka.ua/news/vceni-viyavili-spilnu-slabkist-soten-mutacii-raku-ce-moze-zminiti-pidxid-do-likuvannya-pyqw6g",
-    "summary": "Дослідники Університету Рокфеллера розробили технологію PerturbFate для виявлення спільних механізмів дії мутацій раку. Це відкриття може призвести до створення універсальніших методів лікування. Результати опубліковані в ScienceDaily.",
-    "published": "2026-05-21T17:35:56",
-    "fetched": "2026-05-21T17:53:57.465772",
-    "title_uk": "Вчені виявили спільну слабкість мутацій раку",
-    "summary_uk": "Дослідники Університету Рокфеллера розробили технологію PerturbFate для виявлення спільних механізмів дії мутацій раку. Це відкриття може призвести до створення універсальніших методів лікування. Результати опубліковані в ScienceDaily.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "75584f745098",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "Вчені виявили зв'язок між споживанням м'яса та тривалістю життя",
-    "link": "https://speka.ua/news/ci-spravdi-myaso-dopomagaje-doziti-do-100-rokiv-vceni-zrobili-nespodivanii-visnovok-9gxme4",
-    "summary": "Дослідження вчених з Китаю показало, що жінки старше 80 років, які вживають м'ясо, мають на 44% більше шансів дожити до 100 років. Однак це стосується лише тих, хто має недостатню кількість інших поживних речовин. Результати можуть вплинути на споживчі звички та харчування літніх людей.",
-    "published": "2026-05-21T16:10:12",
-    "fetched": "2026-05-21T17:53:57.465788",
-    "title_uk": "Вчені виявили зв'язок між споживанням м'яса та тривалістю життя",
-    "summary_uk": "Дослідження вчених з Китаю показало, що жінки старше 80 років, які вживають м'ясо, мають на 44% більше шансів дожити до 100 років. Однак це стосується лише тих, хто має недостатню кількість інших поживних речовин. Результати можуть вплинути на споживчі звички та харчування літніх людей.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "виробництво",
-      "FMCG"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "949e7463a540",
@@ -1005,36 +426,6 @@
     "summary": "У 2026 році НМТ знову проводитимуть у цифровому форматі через спеціальний онлайн-сервіс. УЦОЯО радить учасникам заздалегідь ознайомитися з процедурою, щоб уникнути помилок під час іспиту та впевнено пройти тестування.",
     "published": "2026-05-21T15:54:48",
     "fetched": "2026-05-21T17:53:57.465809"
-  },
-  {
-    "id": "8b3e08640037",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "Геймінг в Україні: нові тренди та витрати геймерів",
-    "link": "https://speka.ua/news/ukrayinski-geimeri-v-yaki-igri-grayut-cim-cikavlyatsya-i-na-shho-vitracayut-grosi-9elwo1",
-    "summary": "Дослідження OLX показало, що більше половини українських геймерів грають щодня. Ринок геймінгу в Україні розвивається, зростає інтерес до нових ігор та витрат на них. Це свідчить про зміну споживчих звичок серед українців.",
-    "published": "2026-05-21T15:25:36",
-    "fetched": "2026-05-21T17:53:57.465818",
-    "title_uk": "Геймінг в Україні: нові тренди та витрати геймерів",
-    "summary_uk": "Дослідження OLX показало, що більше половини українських геймерів грають щодня. Ринок геймінгу в Україні розвивається, зростає інтерес до нових ігор та витрат на них. Це свідчить про зміну споживчих звичок серед українців.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "виробництво"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "c3b38d6232e7",
@@ -1065,189 +456,6 @@
     "summary": "Тим часом сусідня Білорусь\nостаточно закріплює за собою звання країни маразму, що переміг. Там провладна\nпартія «Біла Русь» (якщо хтось не в курсі, це місцева «профспілка чиновників»)\nстворила систему «Искра Ультра» на базі штучного інтелекту. Завдання системи –\nвиявляти «ідеологічно неправильний» к",
     "published": "2026-05-21T14:26:04",
     "fetched": "2026-05-21T17:53:57.465844"
-  },
-  {
-    "id": "7a8af8565e87",
-    "source": "🇺🇦 SPEKA",
-    "category": "regulation",
-    "title": "ФОП не можуть приймати криптовалюту на єдиному податку",
-    "link": "https://speka.ua/news/fop-na-jedinomu-podatku-priimaje-oplatu-v-kriptovalyuti-cim-ce-zagrozuje-pidprijemcyu-vr830n",
-    "summary": "ФОП в Україні не можуть отримувати доходи в криптовалюті, оскільки вона не має правового статусу. Це означає, що прийняття оплати в USDT чи Bitcoin не сумісне з єдиним податком. Відповідно, підприємці ризикують порушити податкове законодавство.",
-    "published": "2026-05-21T14:00:05",
-    "fetched": "2026-05-21T17:53:57.465855",
-    "title_uk": "ФОП не можуть приймати криптовалюту на єдиному податку",
-    "summary_uk": "ФОП в Україні не можуть отримувати доходи в криптовалюті, оскільки вона не має правового статусу. Це означає, що прийняття оплати в USDT чи Bitcoin не сумісне з єдиним податком. Відповідно, підприємці ризикують порушити податкове законодавство.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "регуляція",
-      "податки"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "6a206b34e73d",
-    "source": "🇺🇦 SPEKA",
-    "category": "regulation",
-    "title": "Верховний Суд пояснив законність зменшення зарплати під час війни",
-    "link": "https://speka.ua/news/ci-zakonno-zmensuvati-zarplatu-pid-cas-viini-risennya-verxovnogo-sudu-pnndzw",
-    "summary": "Верховний Суд України роз'яснив можливості роботодавців змінювати умови праці під час воєнного стану. Зокрема, зменшення зарплати може бути законним за певних умов. Також уточнено, що попередження працівника про зміни має відбуватися за два місяці, якщо це не пов'язано зі звільненням.",
-    "published": "2026-05-21T16:46:52",
-    "fetched": "2026-05-21T17:53:57.465863",
-    "title_uk": "Верховний Суд пояснив законність зменшення зарплати під час війни",
-    "summary_uk": "Верховний Суд України роз'яснив можливості роботодавців змінювати умови праці під час воєнного стану. Зокрема, зменшення зарплати може бути законним за певних умов. Також уточнено, що попередження працівника про зміни має відбуватися за два місяці, якщо це не пов'язано зі звільненням.",
-    "what_it_means": {
-      "ua_importer": "Не впливає.",
-      "pl_distributor": "Не впливає.",
-      "tr_manufacturer": "Не впливає.",
-      "category_manager": "Не впливає."
-    },
-    "tags": [
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "f7726978c49e",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "Вітамін С може подовжити життя пацієнтів з раком підшлункової залози",
-    "link": "https://speka.ua/news/vceni-diznalisya-yakii-vitamin-dopomagaje-borotisya-z-rakom-9q30zw",
-    "summary": "Дослідження Університету Айови показало, що внутрішньовенне введення вітаміну С пацієнтам з раком підшлункової залози разом з хіміотерапією подовжує життя вдвічі. Це відкриття може змінити підходи до лікування раку. Результати опубліковані в SciTechDaily.",
-    "published": "2026-05-21T13:09:19",
-    "fetched": "2026-05-21T17:53:57.465871",
-    "title_uk": "Вітамін С може подовжити життя пацієнтів з раком підшлункової залози",
-    "summary_uk": "Дослідження Університету Айови показало, що внутрішньовенне введення вітаміну С пацієнтам з раком підшлункової залози разом з хіміотерапією подовжує життя вдвічі. Це відкриття може змінити підходи до лікування раку. Результати опубліковані в SciTechDaily.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "ecaf0437b39a",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "На порталі «Дія» зʼявився сервіс податкової знижки",
-    "link": "https://speka.ua/news/u-diyi-zyavivsya-shhe-odin-korisnii-servis-xto-moze-skoristatisya-p623zl",
-    "summary": "Портал «Дія» запустив новий сервіс для фізичних осіб, що дозволяє отримувати податкову знижку на навчання, іпотеку та страхування онлайн. Користувачі також можуть подавати декларацію про майновий стан і доходи. Це спростить процес отримання знижок та звітності.",
-    "published": "2026-05-21T12:27:04",
-    "fetched": "2026-05-21T17:53:57.465879",
-    "title_uk": "На порталі «Дія» зʼявився сервіс податкової знижки",
-    "summary_uk": "Портал «Дія» запустив новий сервіс для фізичних осіб, що дозволяє отримувати податкову знижку на навчання, іпотеку та страхування онлайн. Користувачі також можуть подавати декларацію про майновий стан і доходи. Це спростить процес отримання знижок та звітності.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "регуляція",
-      "податки"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "b0a821419cd6",
-    "source": "🇺🇦 SPEKA",
-    "category": "news",
-    "title": "В Україні стартував проєкт U-TEX для текстильної галузі",
-    "link": "https://speka.ua/business/u-tex-startuvav-novii-projekt-dlya-rozvitku-tekstilnoyi-ekosistemi-ukrayini-pyqwzg",
-    "summary": "Започатковано проєкт U-TEX, який підтримує організації, що працюють з підприємцями текстильної галузі. Ініціатива має на меті покращити підготовку бізнесу до експорту та відповідності міжнародним стандартам. Участь беруть бізнес-організації та профільні гравці.",
-    "published": "2026-05-21T12:10:54",
-    "fetched": "2026-05-21T17:53:57.465889",
-    "title_uk": "В Україні стартував проєкт U-TEX для текстильної галузі",
-    "summary_uk": "Започатковано проєкт U-TEX, який підтримує організації, що працюють з підприємцями текстильної галузі. Ініціатива має на меті покращити підготовку бізнесу до експорту та відповідності міжнародним стандартам. Участь беруть бізнес-організації та профільні гравці.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "виробництво",
-      "експорт",
-      "інвестиції"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "46269e86aa98",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Казахстан підтримав Україну у справі проти Газпрому",
-    "link": "https://mind.ua/news/20305505-kazahstan-stav-na-bik-ukrayini-naftogaz-otrimav-vazhlivu-peremogu-nad-gazpromom-za-kordonom",
-    "summary": "Казахстан ухвалив рішення, яке дозволяє Україні шукати та арештовувати активи Газпрому на своїй території. Це важливий крок у боротьбі з російським газовим монополістом. Рішення відкриває нові можливості для українських компаній у міжнародних справах.",
-    "published": "2026-05-21T17:03:00",
-    "fetched": "2026-05-21T17:54:00.914124",
-    "title_uk": "Казахстан підтримав Україну у справі проти Газпрому",
-    "summary_uk": "Казахстан ухвалив рішення, яке дозволяє Україні шукати та арештовувати активи Газпрому на своїй території. Це важливий крок у боротьбі з російським газовим монополістом. Рішення відкриває нові можливості для українських компаній у міжнародних справах.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "інвестиції",
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "60eadf52e65b",
@@ -1298,68 +506,6 @@
     "summary": "Запаси стратегічної речовини повинні залишатися на території країни, вважає керівництво",
     "published": "2026-05-21T16:00:00",
     "fetched": "2026-05-21T17:54:00.914154"
-  },
-  {
-    "id": "7a8c3352e129",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Кернел встановлює сонячні електростанції на елеваторах",
-    "link": "https://mind.ua/news/20305501-kernel-obladnue-svoyi-elevatori-sonyachnimi-elektrostanciyami-dlya-avtonomnoyi-roboti",
-    "summary": "Компанія Кернел розпочала встановлення сонячних електростанцій на своїх елеваторах для забезпечення автономної роботи. Власна генерація електроенергії покриє потреби зерносховищ, а надлишки будуть продаватися в мережу. Це дозволить знизити витрати на електрику та підвищити енергоефективність.",
-    "published": "2026-05-21T15:51:00",
-    "fetched": "2026-05-21T17:54:00.914162",
-    "title_uk": "Кернел встановлює сонячні електростанції на елеваторах",
-    "summary_uk": "Компанія Кернел розпочала встановлення сонячних електростанцій на своїх елеваторах для забезпечення автономної роботи. Власна генерація електроенергії покриє потреби зерносховищ, а надлишки будуть продаватися в мережу. Це дозволить знизити витрати на електрику та підвищити енергоефективність.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "інвестиції",
-      "виробництво"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "599461abc098",
-    "source": "🇺🇦 mind.ua",
-    "category": "warning",
-    "title": "НБУ попередив про ризики 50%-го податку на банки",
-    "link": "https://mind.ua/news/20305500-nbu-poperediv-radu-50-j-podatok-na-banki-mozhe-vdariti-po-kreditah-dlya-ekonomiki-ta-oboroni",
-    "summary": "Національний банк України висловив занепокоєння щодо можливого введення 50%-го податку на банки. За оцінками, це може призвести до втрати кредитного ресурсу в обсязі 200–300 млрд грн, що негативно вплине на економіку та оборону. Уряд розраховує на 20 млрд грн додаткових надходжень.",
-    "published": "2026-05-21T15:38:00",
-    "fetched": "2026-05-21T17:54:00.914170",
-    "title_uk": "НБУ попередив про ризики 50%-го податку на банки",
-    "summary_uk": "Національний банк України висловив занепокоєння щодо можливого введення 50%-го податку на банки. За оцінками, це може призвести до втрати кредитного ресурсу в обсязі 200–300 млрд грн, що негативно вплине на економіку та оборону. Уряд розраховує на 20 млрд грн додаткових надходжень.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "регуляція",
-      "податки"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
   },
   {
     "id": "b9bfb81af040",
@@ -1435,94 +581,6 @@
     "validator_verdict": "review"
   },
   {
-    "id": "d6f403417d10",
-    "source": "🇺🇦 mind.ua",
-    "category": "regulation",
-    "title": "НБУ запускає новий закон для фінансової інклюзії з 2026 року",
-    "link": "https://mind.ua/news/20305495-nbu-gotue-zmini-dlya-zapusku-bankiv-finansovoyi-inklyuziyi",
-    "summary": "Національний банк України планує впровадження нового закону, який набуде чинності 26 червня 2026 року. Закон спрямований на покращення доступу до фінансових послуг для населення. Очікується, що це допоможе залучити більше клієнтів до банківської системи.",
-    "published": "2026-05-21T14:00:00",
-    "fetched": "2026-05-21T17:54:00.914200",
-    "title_uk": "НБУ запускає новий закон для фінансової інклюзії з 2026 року",
-    "summary_uk": "Національний банк України планує впровадження нового закону, який набуде чинності 26 червня 2026 року. Закон спрямований на покращення доступу до фінансових послуг для населення. Очікується, що це допоможе залучити більше клієнтів до банківської системи.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "c8120dff5e32",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "ВАКС залишив заставу Єрмаку на рівні 140 млн грн",
-    "link": "https://mind.ua/news/20305486-onovleno-vaks-zalishiv-bez-zmin-zastavu-ermaku-u-140-mln-grn",
-    "summary": "Вищий антикорупційний суд не підтримав вимогу Спеціалізованої антикорупційної прокуратури щодо збільшення застави Єрмака до 180 млн грн. Таким чином, застава залишається на рівні 140 млн грн. Це рішення ухвалене в рамках апеляційного розгляду.",
-    "published": "2026-05-21T13:45:00",
-    "fetched": "2026-05-21T17:54:00.914208",
-    "title_uk": "ВАКС залишив заставу Єрмаку на рівні 140 млн грн",
-    "summary_uk": "Вищий антикорупційний суд не підтримав вимогу Спеціалізованої антикорупційної прокуратури щодо збільшення застави Єрмака до 180 млн грн. Таким чином, застава залишається на рівні 140 млн грн. Це рішення ухвалене в рамках апеляційного розгляду.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "87f0a6b88e52",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Військові отримали платформу для управління дронами Mission Control",
-    "link": "https://mind.ua/news/20305496-sistemu-onlajn-upravlinnya-dronami-mission-control-rozgornuli-u-vijskah-minoboroni",
-    "summary": "Міністерство оборони України впровадило платформу Mission Control для управління дронами. Система збирає дані про польоти та роботу операторів, що дозволяє отримати повну картину бойових дій. Це підвищить ефективність використання дронів у військових операціях.",
-    "published": "2026-05-21T13:37:00",
-    "fetched": "2026-05-21T17:54:00.914216",
-    "title_uk": "Військові отримали платформу для управління дронами Mission Control",
-    "summary_uk": "Міністерство оборони України впровадило платформу Mission Control для управління дронами. Система збирає дані про польоти та роботу операторів, що дозволяє отримати повну картину бойових дій. Це підвищить ефективність використання дронів у військових операціях.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "виробництво"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
     "id": "dc0f026378ba",
     "source": "🇺🇦 mind.ua",
     "category": "regulation",
@@ -1543,37 +601,6 @@
       "митниця",
       "логістика",
       "регуляція"
-    ],
-    "impact_score": 0,
-    "market": "ua",
-    "source_lang": "uk",
-    "validator_score": 7,
-    "validator_flags": [
-      "validator_error"
-    ],
-    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
-    "validator_verdict": "review"
-  },
-  {
-    "id": "2102c12b3bff",
-    "source": "🇺🇦 mind.ua",
-    "category": "news",
-    "title": "Експериментальний проєкт ППО залучив 27 компаній",
-    "link": "https://mind.ua/news/20305494-eksperimentalnij-proekt-privatnoyi-ppo-masshtabuvavsya-do-27-kompanij-uchasnic",
-    "summary": "Проєкт приватної протиповітряної оборони залучив 27 підприємств. Перші підрозділи вже знищили близько 20 ворожих безпілотників. Це свідчить про активізацію співпраці між бізнесом і оборонними структурами.",
-    "published": "2026-05-21T13:06:00",
-    "fetched": "2026-05-21T17:54:00.914231",
-    "title_uk": "Експериментальний проєкт ППО залучив 27 компаній",
-    "summary_uk": "Проєкт приватної протиповітряної оборони залучив 27 підприємств. Перші підрозділи вже знищили близько 20 ворожих безпілотників. Це свідчить про активізацію співпраці між бізнесом і оборонними структурами.",
-    "what_it_means": {
-      "ua_importer": "не впливає",
-      "pl_distributor": "не впливає",
-      "tr_manufacturer": "не впливає",
-      "category_manager": "не впливає"
-    },
-    "tags": [
-      "стартапи",
-      "виробництво"
     ],
     "impact_score": 0,
     "market": "ua",

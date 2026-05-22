@@ -243,13 +243,26 @@ function loadDate(dateStr,isFallback){
       document.getElementById('live-status').textContent='Помилка завантаження';
     });
 }
+function isAllNotImpactful(s){
+  // Якщо стаття має what_it_means і ВСІ 4 персонажі = "не впливає" — приховуємо
+  var wm=s.what_it_means;
+  if(!wm)return false;
+  var keys=['ua_importer','pl_distributor','tr_manufacturer','category_manager'];
+  var hasAny=keys.some(function(k){return wm[k];});
+  if(!hasAny)return false;
+  return keys.every(function(k){
+    var v=(wm[k]||'').trim().toLowerCase();
+    return !v || v.startsWith('не впливає') || v==='—';
+  });
+}
 function renderFeed(cat){
+  var base=allStories.filter(function(s){return !isAllNotImpactful(s);});
   var list;
-  if(cat==='all'){list=allStories;}
-  else if(cat==='distribution'){list=allStories.filter(function(s){return s.category==='distribution-case'||s.category==='category-management'||(s.tags&&(s.tags.indexOf('дистрибуція')>=0||s.tags.indexOf('категорійний-менеджмент')>=0||s.tags.indexOf('трейд-маркетинг')>=0||s.tags.indexOf('переговори-з-мережами')>=0));});}
-  else if(cat==='customs'){list=allStories.filter(function(s){return s.category==='regulation'||s.category==='customs'||(s.tags&&(s.tags.indexOf('митниця')>=0||s.tags.indexOf('регуляція')>=0));});}
-  else if(cat==='FMCG'){list=allStories.filter(function(s){return s.category==='FMCG'||(s.tags&&(s.tags.indexOf('FMCG')>=0||s.tags.indexOf('HoReCa')>=0||s.tags.indexOf('private-label')>=0));});}
-  else{list=allStories.filter(function(s){return s.category===cat;});}
+  if(cat==='all'){list=base;}
+  else if(cat==='distribution'){list=base.filter(function(s){return s.category==='distribution-case'||s.category==='category-management'||(s.tags&&(s.tags.indexOf('дистрибуція')>=0||s.tags.indexOf('категорійний-менеджмент')>=0||s.tags.indexOf('трейд-маркетинг')>=0||s.tags.indexOf('переговори-з-мережами')>=0));});}
+  else if(cat==='customs'){list=base.filter(function(s){return s.category==='regulation'||s.category==='customs'||(s.tags&&(s.tags.indexOf('митниця')>=0||s.tags.indexOf('регуляція')>=0));});}
+  else if(cat==='FMCG'){list=base.filter(function(s){return s.category==='FMCG'||(s.tags&&(s.tags.indexOf('FMCG')>=0||s.tags.indexOf('HoReCa')>=0||s.tags.indexOf('private-label')>=0));});}
+  else{list=base.filter(function(s){return s.category===cat;});}
   if(!list.length){
     document.getElementById('feed').innerHTML='<div class="empty-state"><div style="font-size:36px">📭</div><div class="empty-h">Новин за цей день немає</div><p class="empty-p">Спробуй іншу дату або категорію.</p></div>';
     return;
