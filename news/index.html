@@ -113,6 +113,15 @@ footer{border-top:0.5px solid var(--line-2);padding:28px 24px;background:var(--s
 .editor-note{margin:12px 0 0;padding:14px 16px;background:linear-gradient(135deg,rgba(168,136,76,.06),rgba(194,90,63,.04));border-left:3px solid var(--brass);border-radius:4px}
 .editor-note-label{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--brass);text-transform:uppercase;margin-bottom:6px;font-weight:500;display:flex;align-items:center;gap:6px}
 .editor-note-body{font-size:14px;line-height:1.6;color:var(--ink);font-family:var(--display);font-weight:400;letter-spacing:-.005em}
+
+/* === Deep article link — фіолетова корова === */
+.deep-link{display:flex;align-items:center;justify-content:space-between;margin-top:14px;padding:14px 18px;background:linear-gradient(135deg,#1F1A14,#2a2218);color:#FAF6EE;border-radius:6px;text-decoration:none;transition:transform .15s,box-shadow .15s;gap:14px}
+.deep-link:hover{transform:translateY(-1px);box-shadow:0 8px 24px rgba(31,26,20,.18)}
+.deep-link .dl-left{flex:1;min-width:0}
+.deep-link .dl-eyebrow{font-family:var(--mono);font-size:9.5px;letter-spacing:.14em;color:#A8884C;text-transform:uppercase;font-weight:500;margin-bottom:4px}
+.deep-link .dl-title{font-family:var(--display);font-size:16px;font-weight:500;line-height:1.3;letter-spacing:-.01em;color:#FAF6EE;margin-bottom:3px}
+.deep-link .dl-tldr{font-size:12.5px;color:rgba(250,246,238,.65);line-height:1.45}
+.deep-link .dl-cta{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:#C25A3F;text-transform:uppercase;white-space:nowrap;font-weight:500}
 </style>
 </head>
 <body>
@@ -284,6 +293,14 @@ function renderFeed(cat){
     if(s.editor_note){
       editorNoteHtml='<div class="editor-note"><div class="editor-note-label">✦ Як це повторити</div><div class="editor-note-body">'+esc(s.editor_note)+'</div></div>';
     }
+    // Deep article link — Purple Cow
+    var deepLinkHtml='';
+    if(s.deep_article_url){
+      var dlTitle=s.deep_article_title||s.title_uk||s.title||'';
+      var dlTldr=s.deep_article_tldr||'';
+      var dlWc=s.deep_article_word_count?(' · '+s.deep_article_word_count+' слів'):'';
+      deepLinkHtml='<a href="'+esc(s.deep_article_url)+'" class="deep-link"><div class="dl-left"><div class="dl-eyebrow">✦ Поглиблений розбір'+dlWc+'</div><div class="dl-title">'+esc(dlTitle)+'</div>'+(dlTldr?'<div class="dl-tldr">'+esc(dlTldr)+'</div>':'')+'</div><div class="dl-cta">Читати →</div></a>';
+    }
     // Title + summary (uk → fallback на оригінал)
     var title=s.title_uk||s.title||'';
     var summary=s.summary_uk||s.summary||'';
@@ -323,6 +340,7 @@ function renderFeed(cat){
       +'<p class="story-p">'+esc(summary)+'</p>'
       +tagsHtml
       +editorNoteHtml
+      +deepLinkHtml
       +meansHtml
       +(s.link&&s.link!=='#'?'<div class="story-attribution">Першоджерело: <a href="'+esc(s.link)+'" target="_blank" rel="noopener" class="story-link">'+esc(s.source||'оригінал')+' <span class="arrow">↗</span></a></div>':'')
       +'</article>';
