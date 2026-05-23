@@ -2788,5 +2788,180 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "0cc215a76b1e",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/biznes/bez-precedensu-polska-spolka-gigantem-technologicznym-przekroczyli-bariere-7288936429496480a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "«Без прецеденту». Польська компанія стала технологічним гігантом. Подолали бар'єр",
+    "body_orig": "Польські компанії космічної галузі Creotech подолали рівень мільярда доларів капіталізації, набувши статусу однорога світового рівня. Це результат зростаючих оцінок акцій Creotech Instruments та Creotech Quantum. У планах нова стратегія та залучення близько 100 млн євро на проекти космічної галузі.",
+    "published": "2026-05-23T09:12:48",
+    "fetched": "2026-05-23T16:59:26.671507",
+    "_title_pre_translate": "\"Bez precedensu\". Polska spółka gigantem technologicznym. Przebili barierę",
+    "_body_pre_translate": "Polskie spółki z branży kosmicznej Creotech przebiły poziom miliarda dolarów kapitalizacji, osiągając światowy status jednorożca. To zasługa szybujących wycen akcji Creotech Instruments oraz Creotech Quantum. W planie jest nowa strategia i pozyskanie na projekty z branży kosmicznej ok. 100 mln euro.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Creotech стала технологічним гігантом з капіталізацією понад $1 млрд",
+    "summary_uk": "Польська компанія Creotech досягла капіталізації понад $1 млрд, отримавши статус однорога. Це стало можливим завдяки зростанню оцінок акцій Creotech Instruments та Creotech Quantum. Компанія планує залучити близько €100 млн для розвитку проектів у космічній галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Creotech стала технологічним гігантом з капіталізацією понад $1 млрд",
+    "summary": "Польська компанія Creotech досягла капіталізації понад $1 млрд, отримавши статус однорога. Це стало можливим завдяки зростанню оцінок акцій Creotech Instruments та Creotech Quantum. Компанія планує залучити близько €100 млн для розвитку проектів у космічній галузі.",
+    "link": "https://www.money.pl/biznes/bez-precedensu-polska-spolka-gigantem-technologicznym-przekroczyli-bariere-7288936429496480a.html",
+    "validator_score": 6,
+    "validator_flags": [
+      "wrong_tag",
+      "banned_words",
+      "impact_too_low"
+    ],
+    "validator_suggestions": "1. Теги 'інвестиції, стартапи' не відповідають — Creotech це публічна компанія (не стартап), тема стосується космічної галузі та капітальних ринків PL; доречніші теги: 'космос', 'польський ринок', 'IPO/капіталізація'. 2. В оригіналі заголовка є 'bez precedensu' — це пряма калька забороненого 'безпрецедентний', у summary цього немає, але варто перевірити фінальний текст. 3. Impact=0 виглядає заниженим: новина про першого польського технологічного унікорна в космічній галузі з планами залучення €100 млн релевантна для PL-аудиторії (інвестори, B2B-партнери, держзакупівлі) — мінімум impact=1-2.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=6/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cbf26cb56d0c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kurban-bayrami-nedeniyle-hava-yolu-tasimaciliginda-1506-ek-sefer-planlandi/3946557",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "До свята Курбан-байрам заплановано 1506 додаткових авіарейсів",
+    "body_orig": "Міністр транспорту та інфраструктури Абдулкадір Уралоглу повідомив, що з метою задоволення інтенсивного попиту пасажирів під час свята Курбан-байрам у авіатранспорті заплановано всього 1506 додаткових рейсів, з яких 1214 — внутрішніх і 292 — міжнародних.",
+    "published": "2026-05-23T09:34:41",
+    "fetched": "2026-05-23T16:59:50.071478",
+    "_title_pre_translate": "Kurban Bayramı nedeniyle hava yolu taşımacılığında 1506 ek sefer planlandı",
+    "_body_pre_translate": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Kurban Bayramı dolayısıyla yoğun yolcu talebini karşılamak amacıyla hava yolu taşımacılığında 1214'ü iç ve 292'si dış hat olmak üzere toplam 1506 ek sefer planlandığını bildirdi.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "До Курбан-байраму заплановано 1506 додаткових авіарейсів",
+    "summary_uk": "Міністр транспорту Туреччини повідомив про 1506 додаткових авіарейсів під час свята Курбан-байрам. З них 1214 рейсів будуть внутрішніми, а 292 — міжнародними. Це рішення прийнято для задоволення високого попиту пасажирів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "До Курбан-байраму заплановано 1506 додаткових авіарейсів",
+    "summary": "Міністр транспорту Туреччини повідомив про 1506 додаткових авіарейсів під час свята Курбан-байрам. З них 1214 рейсів будуть внутрішніми, а 292 — міжнародними. Це рішення прийнято для задоволення високого попиту пасажирів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kurban-bayrami-nedeniyle-hava-yolu-tasimaciliginda-1506-ek-sefer-planlandi/3946557",
+    "validator_score": 7,
+    "validator_flags": [
+      "irrelevant_persona"
+    ],
+    "validator_suggestions": "Стаття про авіалогістику Туреччини під час Курбан-байраму — всі 4 персонажі отримали 'не впливає', що виглядає занадто швидким відхиленням. TR-виробник міг би отримати конкретну ремарку про вікно доставки/відвантаження: наприклад, що в період свята (дата) варто узгодити відвантаження заздалегідь через пікове навантаження на аеропорти. Impact=0 виправданий, але теги мають включати 'авіація' або 'Туреччина', не лише 'логістика'.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e7109d2fd920",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/acelasi-iphone-mai-putine-functii-ce-pierd-utilizatorii-europeni-ai-23158398",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Той же iPhone, менше функцій: що втрачають європейські користувачі Apple порівняно з рештою світу. Який підхід мають конкуренти Google, Samsung, Xiaomi чи OPPO",
+    "body_orig": "Американський гігант Apple продає в Європейському Союзі ті самі iPhone-и за тими самими цінами, що й в решті світу, але з меншою кількістю функцій або обмеженими функціями, посилаючись на Регламент про ринки цифрових послуг (Digital Markets Act — DMA) — європейське законодавство, яке зобов'язує компанії технологічного сектора, визначені як гравці з великою ринковою силою («привратники»), дозволяти взаємосумісність із сервісами та пристроями третіх сторін. Через два роки після введення регламенту Apple залишається єдиною компанією, яка вирішила заблокувати, затримати або навіть вилучити функції для європейських користувачів, тоді як інші виробники з тією самою — або без — такої обов'язку демонструють, що взаємосумісність і повноцінність користувацького досвіду не виключають один одного.",
+    "published": "2026-05-23T13:43:54",
+    "fetched": "2026-05-23T16:59:51.636181",
+    "_title_pre_translate": "Acelaşi iPhone, mai puţine funcţii: ce pierd utilizatorii europeni ai Apple faţă de restul lumii. Ce abordare au rivalii Google, Samsung, Xiaomi sau OPPO",
+    "_body_pre_translate": "Gigantul american Apple vinde în Uniunea Europeană aceleaşi iPhone-uri, la aceleaşi preţuri ca în restul lumii, dar cu mai funcţii mai puţine sau limitate, invocând Regulamentul pieţelor digitale (Digital Markets Act - DMA), legislaţia europeană care obligă companiile de tehnologie desemnate drept jucători cu o putere mare pe piaţă („gatekeepers\") să permită interoperabilitatea cu servicii şi dispozitive terţe. La doi ani de la aplicarea regulamentului, Apple rămâne singura companie care a ales să blocheze, să întârzie sau chiar să retragă funcţii pentru utilizatorii europeni, în timp ce alţi producători cu aceeaşi obligaţie - sau fără ea - demonstrează că interoperabilitatea şi experienţa completă a utilizatorului nu se exclud reciproc.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Європейські користувачі Apple отримують обмежені функції iPhone",
+    "summary_uk": "Apple продає iPhone в ЄС за тими ж цінами, але з меншими функціями через Регламент про ринки цифрових послуг. Компанія є єдиною, що обмежила функціонал для європейців, тоді як конкуренти, такі як Google і Samsung, забезпечують повноцінний досвід. Це викликано вимогами законодавства щодо взаємосумісності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Європейські користувачі Apple отримують обмежені функції iPhone",
+    "summary": "Apple продає iPhone в ЄС за тими ж цінами, але з меншими функціями через Регламент про ринки цифрових послуг. Компанія є єдиною, що обмежила функціонал для європейців, тоді як конкуренти, такі як Google і Samsung, забезпечують повноцінний досвід. Це викликано вимогами законодавства щодо взаємосумісності.",
+    "link": "https://www.zf.ro/business-hi-tech/acelasi-iphone-mai-putine-functii-ce-pierd-utilizatorii-europeni-ai-23158398",
+    "validator_score": 5,
+    "validator_flags": [
+      "irrelevant_persona",
+      "impact_too_low",
+      "generic_advice"
+    ],
+    "validator_suggestions": "Всі 4 персонажі отримали 'не впливає' — але стаття про DMA та обмеження Apple в ЄС дотична як мінімум до PL-дистриб'ютора (продає iPhone у ЄС, може впливати на конкурентоспроможність Apple vs Android у категорії). Impact=0 занижений: регуляторне рішення, що стосується продажів у ЄС, має хоча б impact=1-2. Summary поверхневий — немає конкретики щодо яких саме функцій (AI features, NFC, browser defaults), що дало б змогу побудувати корисний what_it_means для дистриб'ютора.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=5/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "183b6d830c16",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bolojan-romania-pierde-toti-banii-daca-proiectele-pnrr-nu-sunt-gata-in-august-ce-jaloane-nu-vor-putea-fi-indeplinite_944088.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Болоян оголошує проблему максимальної термінності: Румунія втратить усі гроші, якщо проекти ПНРР не будуть готові в серпні – Які контрольні точки не можуть бути досягнуті",
+    "body_orig": "Тимчасовий прем'єр-міністр Іліе Болоян запустив гостре попередження щодо проектів, фінансованих через ПНРР: якщо інвестиції на компоненті грантів не будуть завершені до кінця серпня, Румунія ризикує повністю втратити європейське фінансування, навіть у разі майже завершених проектів.",
+    "published": "2026-05-23T15:46:13",
+    "fetched": "2026-05-23T16:59:54.088749",
+    "_title_pre_translate": "Bolojan anunţă o problemă de maximă urgenţă: România pierde toți banii dacă proiectele PNRR nu sunt gata în august – Ce jaloane nu vor putea fi îndeplinite",
+    "_body_pre_translate": "Premierul interimar Ilie Bolojan a lansat un avertisment dur privind proiectele finanțate prin PNRR: dacă investițiile aflate pe componenta de grant nu sunt finalizate până la sfârșitul lunii august, România riscă să piardă integral finanțarea europeană, chiar și în cazul proiectelor aproape terminate.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Румунія ризикує втратити європейське фінансування до серпня",
+    "summary_uk": "Тимчасовий прем'єр-міністр Іліе Болоян попередив, що Румунія може втратити європейське фінансування, якщо проекти, фінансовані через ПНРР, не будуть завершені до кінця серпня. Це стосується навіть майже завершених проектів. Важливо дотримуватися термінів для збереження інвестицій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Румунія ризикує втратити європейське фінансування до серпня",
+    "summary": "Тимчасовий прем'єр-міністр Іліе Болоян попередив, що Румунія може втратити європейське фінансування, якщо проекти, фінансовані через ПНРР, не будуть завершені до кінця серпня. Це стосується навіть майже завершених проектів. Важливо дотримуватися термінів для збереження інвестицій.",
+    "link": "https://www.economica.net/bolojan-romania-pierde-toti-banii-daca-proiectele-pnrr-nu-sunt-gata-in-august-ce-jaloane-nu-vor-putea-fi-indeplinite_944088.html",
+    "validator_score": 6,
+    "validator_flags": [
+      "impact_too_low",
+      "irrelevant_persona"
+    ],
+    "validator_suggestions": "Impact=0 занижений: новина про ризик втрати EU-фінансування Румунією через ПНРР напряму впливає на інвестиційний клімат та бізнес-середовище в країні — мінімум impact=1-2. Блоки 'що це означає' для всіх 4 персонажів виглядають як шаблонне 'не впливає' без аналізу: UA-імпортер або PL-дистриб'ютор, що працює з румунськими постачальниками або має проекти в RO, може відчути затримки інфраструктурних і логістичних проектів, фінансованих ПНРР. Варто або прописати конкретний вплив хоча б для одного персонажа (наприклад, затримки держзакупівель, уповільнення інфраструктури), або чесно прибрати нерелевантних персонажів зі статті.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=6/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
