@@ -3226,5 +3226,176 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "a3a6ab4268dc",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/nieruchomosci/opolski-tor-kartingowy-k1-zmienia-wlasciciela-sprawdzona-inwestycja-czeka/ghbpbml",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Що за нерухомість. Легендарний картинг-трек у Ополе виставлено на продаж за 9,5 млн злотих",
+    "body_orig": "Опольський картинг-трек K1, один з найстаріших об'єктів такого типу в Польщі, виставлено на продаж. Це не тільки 2,5 тис. м кв. ангару та 2 тис. м кв. асфальтової трас, а також впізнавана марка, парк з 30 картингів, ресторан, майстерня та лояльна клієнтська база. Пропонована ціна: 9,5 млн злотих.",
+    "published": "2026-05-24T12:51:12",
+    "fetched": "2026-05-24T17:01:50.274434",
+    "_title_pre_translate": "Co za nieruchomość. Legendarny tor kartingowy w Opolu na sprzedaż za 9,5 mln zł",
+    "_body_pre_translate": "Opolski tor kartingowy K1, jeden z najstarszych tego typu obiektów w Polsce, trafił na sprzedaż. To nie tylko 2,5 tys. m kw. hali i 2 tys. m kw. asfaltowego toru, ale także rozpoznawalna marka, flota 30 gokartów, restauracja, warsztat i lojalna baza klientów. Cena ofertowa: 9,5 mln zł.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Картинг-трек у Ополе виставлено на продаж за 9,5 млн злотих",
+    "summary_uk": "Картинг-трек K1 в Ополе, один з найстаріших в Польщі, виставлено на продаж за €2.1 млн. Об'єкт включає 2,5 тис. м² ангару, 2 тис. м² асфальтової траси, 30 картингів, ресторан та майстерню. Пропозиція також містить лояльну клієнтську базу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Картинг-трек у Ополе виставлено на продаж за 9,5 млн злотих",
+    "summary": "Картинг-трек K1 в Ополе, один з найстаріших в Польщі, виставлено на продаж за €2.1 млн. Об'єкт включає 2,5 тис. м² ангару, 2 тис. м² асфальтової траси, 30 картингів, ресторан та майстерню. Пропозиція також містить лояльну клієнтську базу.",
+    "link": "https://businessinsider.com.pl/nieruchomosci/opolski-tor-kartingowy-k1-zmienia-wlasciciela-sprawdzona-inwestycja-czeka/ghbpbml",
+    "validator_score": 5,
+    "validator_flags": [
+      "wrong_currency",
+      "wrong_tag",
+      "impact_too_low"
+    ],
+    "validator_suggestions": "1. Валютна помилка: 9,5 млн злотих ≠ €2.1 млн — за курсом PLN/EUR (~4.25) це ~€2.24 млн, але в summary написано €2.1 млн; або лишити PLN, або перерахувати точно. 2. Тег 'інвестиції' формально підходить, але стаття про продаж нерухомості розважального об'єкту — нерелевантна для FMCG/рітейл аудиторії Pointrade. 3. Impact=0 і всі 4 персонажі 'не впливає' — якщо стаття дійсно нерелевантна для аудиторії, варто розглянути відхилення або зміну рубрики на 'інше'.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=5/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "217fab92547f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/constructii-imobiliare/semnal-negativ-cea-mare-tranzactie-cladiri-birouri-europa-ultimii-23156095",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Негативний сигнал: найбільша угода з офісними будівлями в Європі за останні роки провалилася. Продаж OpernTurm, офісної вежі у Франкфурті оціненої приблизно в 850 мільйонів євро і цінуватися за її розташування та орендарів таких як швейцарський банк UBS, більше не відбудеться після того, як потенційний покупець не зумів отримати необхідне фінансування",
+    "body_orig": "",
+    "published": "2026-05-24T15:31:00",
+    "fetched": "2026-05-24T17:02:16.568540",
+    "_title_pre_translate": "Un semnal negativ: cea mai mare tranzacţie cu clădiri de birouri din Europa din ultimii ani a eşuat. Vânzarea OpernTurm, un turn de birouri din Frankfurt evaluat la aproximativ 850 de milioane de euro şi apreciat pentru locaţia sa şi chiriaşii precum banca elveţiană UBS, nu va mai avea loc după ce potenţialul cumpărător nu a reuşit să obţină finanţarea necesară",
+    "_body_pre_translate": "",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Угода з продажу офісної вежі у Франкфурті провалилася",
+    "summary_uk": "Продаж OpernTurm у Франкфурті, оцінений у €850 млн, не відбудеться через відсутність фінансування у потенційного покупця. Офісна вежа була привабливою завдяки розташуванню та орендарям, зокрема банку UBS. Ця угода стала найбільшою невдачею на ринку офісної нерухомості в Європі за останні роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Угода з продажу офісної вежі у Франкфурті провалилася",
+    "summary": "Продаж OpernTurm у Франкфурті, оцінений у €850 млн, не відбудеться через відсутність фінансування у потенційного покупця. Офісна вежа була привабливою завдяки розташуванню та орендарям, зокрема банку UBS. Ця угода стала найбільшою невдачею на ринку офісної нерухомості в Європі за останні роки.",
+    "link": "https://www.zf.ro/constructii-imobiliare/semnal-negativ-cea-mare-tranzactie-cladiri-birouri-europa-ultimii-23156095",
+    "validator_score": 7,
+    "validator_flags": [
+      "wrong_tag",
+      "impact_too_low"
+    ],
+    "validator_suggestions": "Теги 'ритейл' не відповідають статті про офісну нерухомість — замінити на 'нерухомість', 'офісний ринок', 'Франкфурт'. Impact=0 занижений: угода на €850 млн у сегменті CRE є значущим сигналом для інвесторів у євро-нерухомість, доречний impact 1-2. Персонажі коректно позначені як 'не впливає' — це чесно для даної аудиторії сайту.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f2331cdf4b21",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cnab-licitatie-pentru-intretinerea-sistemelor-de-prelucrare-bagaje-de-la-aeroportul-baneasa_944184.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "CNAB – Тендер на обслуговування систем обробки багажу в аеропорту Бенеса",
+    "body_orig": "Компанія Національні аеропорти Бухареста (CNAB) оголосила відкритий тендер на обслуговування систем обробки багажу та систем доступу в Міжнародному аеропорту Бухареста Бенеса - Аурел Влайку, загальна кошторисна вартість контракту становить 7,25 млн румунських лей без ПДВ.",
+    "published": "2026-05-24T13:41:19",
+    "fetched": "2026-05-24T17:02:21.033300",
+    "_title_pre_translate": "CNAB – Licitaţie pentru întreţinerea sistemelor de prelucrare bagaje de la Aeroportul Băneasa",
+    "_body_pre_translate": "Compania Naţională Aeroporturi Bucureşti (CNAB) a lansat o licitaţie deschisă pentru întreţinerea sistemelor de prelucrare bagaje şi a sistemelor de acces la Aeroportul Internaţional Bucureşti Băneasa - Aurel Vlaicu, valoarea totală estimată a contractului fiind de 7,25 milioane de lei, fără TVA.",
+    "_translated_by": "claude-haiku-4-5-20251001",
+    "title_uk": "Тендер на обслуговування систем обробки багажу в Бухаресті",
+    "summary_uk": "Національні аеропорти Бухареста оголосили тендер на обслуговування систем обробки багажу в аеропорту Бенеса. Загальна вартість контракту становить €1.5 млн без ПДВ. Це відкриває можливості для компаній, які спеціалізуються на аеропортовій інфраструктурі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Тендер на обслуговування систем обробки багажу в Бухаресті",
+    "summary": "Національні аеропорти Бухареста оголосили тендер на обслуговування систем обробки багажу в аеропорту Бенеса. Загальна вартість контракту становить €1.5 млн без ПДВ. Це відкриває можливості для компаній, які спеціалізуються на аеропортовій інфраструктурі.",
+    "link": "https://www.economica.net/cnab-licitatie-pentru-intretinerea-sistemelor-de-prelucrare-bagaje-de-la-aeroportul-baneasa_944184.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "irrelevant_persona"
+    ],
+    "validator_suggestions": "Стаття вузькоспеціалізована (аеропортовий B2B-тендер в Румунії) і жоден з 4 стандартних персонажів не є цільовою аудиторією. Варто або додати профільного персонажа (наприклад, 'Постачальник аеропортового обладнання') або позначити як нерелевантну для поточної аудиторії Pointrade і відхилити. Impact=0 виставлено коректно, summary точний і без води.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e47ccc77db6b",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/artificial-intelligence/zyavilas-neiromereza-yaka-stvoryuje-3d-modeli-z-odnijeyi-kartinki-9q300y",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "З’явилась нейромережа, яка створює 3D-моделі з однієї картинки",
+    "body_orig": "Для розробників ігор та 3D-художників представили новий AI-інструмент Pixal3D, який здатний перетворювати звичайне 2D-зображення на повноцінний 3D-асет.",
+    "published": "2026-05-24T10:19:54",
+    "fetched": "2026-05-24T17:01:58.452414",
+    "title_uk": "Pixal3D: новий AI-інструмент для створення 3D-моделей",
+    "summary_uk": "Представлено Pixal3D — AI-інструмент, що перетворює 2D-зображення на 3D-асети. Це рішення може спростити роботу розробників ігор та 3D-художників, зменшуючи час на створення моделей. Інструмент може стати важливим активом для креативних індустрій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Pixal3D: новий AI-інструмент для створення 3D-моделей",
+    "summary": "Представлено Pixal3D — AI-інструмент, що перетворює 2D-зображення на 3D-асети. Це рішення може спростити роботу розробників ігор та 3D-художників, зменшуючи час на створення моделей. Інструмент може стати важливим активом для креативних індустрій.",
+    "link": "https://speka.ua/artificial-intelligence/zyavilas-neiromereza-yaka-stvoryuje-3d-modeli-z-odnijeyi-kartinki-9q300y",
+    "validator_score": 6,
+    "validator_flags": [
+      "irrelevant_persona",
+      "impact_too_low"
+    ],
+    "validator_suggestions": "Чотири персонажі виправдано позначені як 'не впливає' — інструмент не стосується FMCG/дистрибуції. Але це означає, що стаття не відповідає аудиторії Pointrade взагалі: немає жодного релевантного персонажа. Impact=0 логічний для цих персон, але сама публікація на бізнес-сайті для трейд-маркетингу сумнівна. Рекомендація редактору: або додати персонажа 'product manager / e-commerce' якому це може бути корисним (3D-контент для маркетплейсів), або відхилити як off-topic.",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=6/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
