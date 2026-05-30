@@ -15,7 +15,7 @@ validate.py — крок 2.5 pipeline v9. Контроль якості.
 
 ENV:
     ANTHROPIC_API_KEY — обов'язково
-    VALIDATOR_MODEL    — опц. (default: claude-sonnet-4-6)
+    VALIDATOR_MODEL    — опц. (default: claude-haiku-4-5-20251001)
 
 Routing logic у rss_collector_v9.py:
     score >= 8 → нормальний маршрут (impact=3 → редактор, інше → автопаблік)
@@ -37,7 +37,7 @@ ROOT = Path(__file__).resolve().parent
 FRAMEWORKS_FILE = ROOT / "frameworks.md"
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-VALIDATOR_MODEL = os.environ.get("VALIDATOR_MODEL", "claude-sonnet-4-6")
+VALIDATOR_MODEL = os.environ.get("VALIDATOR_MODEL", "claude-haiku-4-5-20251001")
 
 
 SYSTEM_PROMPT_TEMPLATE = """Ти — суворий бізнес-редактор Pointrade. Твоя робота — НЕ пропускати на сайт маячню.

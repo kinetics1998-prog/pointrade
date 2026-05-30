@@ -28,7 +28,7 @@ deep_article.py — генератор глибокого розбору для 
 
 ENV:
     ANTHROPIC_API_KEY
-    DEEP_MODEL — за замовчуванням claude-sonnet-4-6
+    DEEP_MODEL — за замовчуванням claude-haiku-4-5-20251001
 """
 
 import argparse
@@ -45,7 +45,7 @@ DATA_DIR = ROOT / "data"
 INSIGHTS_DIR = ROOT / "news" / "insights"
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-DEEP_MODEL = os.environ.get("DEEP_MODEL", "claude-sonnet-4-6")
+DEEP_MODEL = os.environ.get("DEEP_MODEL", "claude-haiku-4-5-20251001")
 
 
 SYSTEM_PROMPT = """Ти — опытный бизнес-журналист и консультант по международной торговле между Украиной, Польшей и Турцией. Пишешь практичные, полезные статьи для предпринимателей (импортёров, дистрибьюторов, производителей и категорийных менеджеров).
