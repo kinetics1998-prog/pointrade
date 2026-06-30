@@ -84581,5 +84581,2109 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "32284ed2649c",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Globalne-odbicie-napedza-GPW-Szybkie-54-proc-na-kosmicznym-Liftero-w-debiucie-9161162.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Globalne odbicie napędza GPW. Szybkie 54 proc. na kosmicznym Liftero w debiucie",
+    "body_orig": "Wtorkowa sesja na warszawskim parkiecie upłynęła pod znakiem wyraźnej dominacji popytu, który z impetem wkroczył na rynki po ubiegłotygodniowej korekcie sektora technologicznego. Inwestorzy postanowili kupować dołki. Uwagę rynku mogły zwrócić zaskakująco niskie odczyty inflacyjne oraz fantastyczny debiut trzeciej spółki z branży komicznej na polskiej giełdzie.",
+    "published": "2026-06-30T16:24:00",
+    "fetched": "2026-06-30T17:53:38.204893",
+    "title_uk": "Підвищений попит на Варшавській біржі після корекції",
+    "summary_uk": "На Варшавській фондовій біржі спостерігається зростання попиту після корекції у секторі технологій. Інвестори активно купують акції, зокрема, відзначено успішний дебют компанії Liftero, яка зросла на 54%. Низькі показники інфляції також привернули увагу інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання попиту може позитивно вплинути на продажі товарів у дистриб'ютора, особливо в технологічному секторі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання інтересу до акцій технологічних компаній може вплинути на категорійні стратегії в ритейлі, зокрема, на асортимент і промо-акції."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Підвищений попит на Варшавській біржі після корекції",
+    "summary": "На Варшавській фондовій біржі спостерігається зростання попиту після корекції у секторі технологій. Інвестори активно купують акції, зокрема, відзначено успішний дебют компанії Liftero, яка зросла на 54%. Низькі показники інфляції також привернули увагу інвесторів.",
+    "link": "https://www.bankier.pl/wiadomosc/Globalne-odbicie-napedza-GPW-Szybkie-54-proc-na-kosmicznym-Liftero-w-debiucie-9161162.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8ffc8efd7fa9",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Klamka-zapadla-Polskie-Elektrownie-Jadrowe-z-kluczowym-pozwoleniem-9161251.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Klamka zapadła. Polskie Elektrownie Jądrowe z kluczowym pozwoleniem",
+    "body_orig": "Polskie Elektrownie Jądrowy otrzymały pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy pierwszej polskiej elektrowni jądrowej - poinformował we wtorek minister energii Miłosz Motyka.",
+    "published": "2026-06-30T17:18:00",
+    "fetched": "2026-06-30T17:53:38.204978",
+    "title_uk": "Польські електростанції отримали дозвіл на будівництво АЕС",
+    "summary_uk": "Polskie Elektrownie Jądrowe отримали дозвіл на підготовку будівельного майданчика для першої атомної електростанції в Польщі. Міністр енергетики повідомив про це 30 червня 2026 року. Це важливий крок у розвитку енергетичного сектору країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польські електростанції отримали дозвіл на будівництво АЕС",
+    "summary": "Polskie Elektrownie Jądrowe отримали дозвіл на підготовку будівельного майданчика для першої атомної електростанції в Польщі. Міністр енергетики повідомив про це 30 червня 2026 року. Це важливий крок у розвитку енергетичного сектору країни.",
+    "link": "https://www.bankier.pl/wiadomosc/Klamka-zapadla-Polskie-Elektrownie-Jadrowe-z-kluczowym-pozwoleniem-9161251.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "51eeed881a04",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/oto-rekordzisci-systemu-kaucyjnego-lidl-podal-liczby/g7yxfw2",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wiemy, ile wyniósł kaucyjny rekord w Lidlu",
+    "body_orig": "\"Polacy masowo korzystają z butelkomatów\" — ogłosiła sieć Lidl. Najwyższa do tej pory wartość kuponu z butelkomatu zrealizowanego przy kasie wyniosła aż 685 zł — podała też firma.",
+    "published": "2026-06-30T17:36:49",
+    "fetched": "2026-06-30T17:53:40.272390",
+    "title_uk": "Рекордний купон у Lidl Польща склав 685 zł",
+    "summary_uk": "Мережа Lidl повідомила про рекордну суму купона з бутелкомату, яка досягла 685 zł. Це свідчить про зростаючу популярність автоматів для збору пляшок серед польських споживачів. Lidl активно просуває цю ініціативу, що може вплинути на екологічні практики в ритейлі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності бутелкоматів може підвищити попит на екологічні упаковки. Розгляньте можливість співпраці з постачальниками таких рішень.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження бутелкоматів може змінити споживчі звички. Рекомендується переглянути асортимент упаковки, щоб відповідати новим екологічним стандартам."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Рекордний купон у Lidl Польща склав 685 zł",
+    "summary": "Мережа Lidl повідомила про рекордну суму купона з бутелкомату, яка досягла 685 zł. Це свідчить про зростаючу популярність автоматів для збору пляшок серед польських споживачів. Lidl активно просуває цю ініціативу, що може вплинути на екологічні практики в ритейлі.",
+    "link": "https://businessinsider.com.pl/biznes/oto-rekordzisci-systemu-kaucyjnego-lidl-podal-liczby/g7yxfw2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1b356d78a08a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/elektrownia-atomowa-w-polsce-minister-przekazal-wazna-informacje/hbwwgf8",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Elektrownia jądrowa w Polsce. Minister przekazał ważną informację",
+    "body_orig": "Polskie Elektrownie Jądrowe otrzymały pozwolenie na rozpoczęcie głównego etapu przygotowania placu budowy pierwszej polskiej elektrowni jądrowej — poinformował we wtorek minister energii Miłosz Motyka.",
+    "published": "2026-06-30T16:59:28",
+    "fetched": "2026-06-30T17:53:40.272414",
+    "title_uk": "Польща отримала дозвіл на будівництво першої АЕС",
+    "summary_uk": "Польські Elektrownie Jądrowe отримали дозвіл на підготовку будівництва першої атомної електростанції. Міністр енергетики Міłosz Motyka оголосив про це 30 червня 2026 року. Це важливий крок у розвитку енергетичного сектору країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща отримала дозвіл на будівництво першої АЕС",
+    "summary": "Польські Elektrownie Jądrowe отримали дозвіл на підготовку будівництва першої атомної електростанції. Міністр енергетики Міłosz Motyka оголосив про це 30 червня 2026 року. Це важливий крок у розвитку енергетичного сектору країни.",
+    "link": "https://businessinsider.com.pl/gospodarka/elektrownia-atomowa-w-polsce-minister-przekazal-wazna-informacje/hbwwgf8",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cc5cd30c475b",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/znana-polska-wprowadza-marka-rzemieslnicze-lody-dla-psow/4pmkx4w",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Znana polska marka wprowadza... rzemieślnicze lody dla psów. Smaki: kaczka i indyk",
+    "body_orig": "W sieci Pijalni Czekolady E.Wedel pojawi się ciekawa nowość. Będą to \"rzemieślnicze lody dla psów oparte na prostych składnikach\", jak zapowiada firma.",
+    "published": "2026-06-30T16:47:17",
+    "fetched": "2026-06-30T17:53:40.272423",
+    "title_uk": "Польська марка E.Wedel запускає рідкісні лоди для собак",
+    "summary_uk": "Компанія E.Wedel представила новинку — рідкісні лоди для собак з простих інгредієнтів. Серед смаків — качка та індик. Продукт з'явиться в мережі Пijalni Czekolady E.Wedel.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цей продукт може стати цікавою пропозицією для дистриб'юторів у сегменті товарів для домашніх тварин. Рекомендується врахувати попит на ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей запуск може вплинути на категорію товарів для домашніх тварин у ритейлі. Рекомендується переглянути асортимент та можливі промо-акції."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польська марка E.Wedel запускає рідкісні лоди для собак",
+    "summary": "Компанія E.Wedel представила новинку — рідкісні лоди для собак з простих інгредієнтів. Серед смаків — качка та індик. Продукт з'явиться в мережі Пijalni Czekolady E.Wedel.",
+    "link": "https://businessinsider.com.pl/biznes/znana-polska-wprowadza-marka-rzemieslnicze-lody-dla-psow/4pmkx4w",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4fc3f3d0ec72",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/ministerstwo-finansow-uspokaja-rynek-finansowanie-budzetu-zabezpieczone/zqh0h97",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Spadają rentowności obligacji. Lipiec przyniesie trzy duże przetargi skarbowe",
+    "body_orig": "Zawierucha rynkowa, spowodowana przez wojnę w Iranie, już minęła. Rentowności obligacji spadły i Ministerstwo Finansów wróciło do regularnych przetargów. Resort podał, ile ma zapewnionego finansowania i jaka jest płynność.",
+    "published": "2026-06-30T14:55:06",
+    "fetched": "2026-06-30T17:53:40.272460",
+    "title_uk": "Падіння доходності облігацій в Польщі та нові аукціони",
+    "summary_uk": "Доходність облігацій у Польщі знизилась після ринкових коливань, викликаних війною в Ірані. Міністерство фінансів анонсувало повернення до регулярних аукціонів. Очікується три великі аукціони в липні, що забезпечать фінансування та покращать ліквідність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження доходності облігацій може позитивно вплинути на кредитні умови для дистриб'юторів. Розгляньте можливість рефінансування або залучення нових інвестицій.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Падіння доходності облігацій в Польщі та нові аукціони",
+    "summary": "Доходність облігацій у Польщі знизилась після ринкових коливань, викликаних війною в Ірані. Міністерство фінансів анонсувало повернення до регулярних аукціонів. Очікується три великі аукціони в липні, що забезпечать фінансування та покращать ліквідність.",
+    "link": "https://businessinsider.com.pl/finanse/ministerstwo-finansow-uspokaja-rynek-finansowanie-budzetu-zabezpieczone/zqh0h97",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6743a987cbde",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/ceny-w-czerwcu-odpuscily-dla-rpp-to-wazny-sygnal-przed-kolejnymi-decyzjami",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny w czerwcu odpuściły. Dla RPP to ważny sygnał przed kolejnymi decyzjami",
+    "body_orig": "Inflacja CPI w czerwcu spadła do 2,5 proc. rok do roku z 3,1 proc. w maju – wynika z szybkiego szacunku GUS, który komentują ekonomiści Erste Bank Polska i Banku Pocztowego. Odczyt okazał się pozytywnym zaskoczeniem, bo rynkowy konsensus zakładał inflację na poziomie 2,7 proc. Dla kredytobiorców i rynku finansowego to ważny sygnał, bo inflacja znalazła się dokładnie w celu NBP, a prawdopodobieństwo podwyżek stóp procentowych mocno spadło.\nCeny towarów i usług konsumpcyjnych w ujęciu miesięcznym obniżyły się w czerwcu o 0,5 proc. To rzadki moment, w którym koszyk zakupowy liczony przez statystyków nie tylko wolniej drożeje, lecz w porównaniu z poprzednim miesiącem faktycznie tanieje.\nZa czerwcowym spadkiem stały przede wszystkim paliwa i żywność. Według danych przywołanych przez ekonomistów ceny paliw zmniejszyły się o 7,4 proc. miesiąc do miesiąca, a żywności o 0,7 proc. Ceny energii i gazu spadły o 0,4 proc.\nInflacja wróciła do środka celu\nCel inflacyjny NBP wynosi 2,5 proc. z dopuszczalnym pasmem odchyleń o 1 pkt proc. w górę lub w dół. W prostych słowach: bank centralny uznaje, że inflacja jest zgodna z celem, gdy mieści się w przedziale od 1,5 do 3,5 proc. Czerwcowy odczyt trafił więc dokładnie w środek tego przedziału. Erste Bank Polska zwraca uwagę, że inflacja dwunasty miesiąc z rzędu mieści się w paśmie dopuszczalnych odchyleń.\nNiższy od prognoz wynik zaskoczył ekonomistów. Erste oczekiwał 2,7 proc., podobnie jak rynek. Bank Pocztowy pisze, że tempo wzrostu cen ponownie istotnie się obniżyło i przebiło w dół średnie oczekiwania.\nŻywność i paliwa mocno zbiły wskaźnik\nNajwiększą różnicę wobec prognoz zrobiły ceny żywności. Erste zakładał spadek o 0,4 proc. miesiąc do miesiąca, a GUS pokazał spadek o 0,7 proc. Ekonomiści banku wiążą to prawdopodobnie z niższymi cenami warzyw i mięsa, podobnie jak w maju.\nPaliwa zadziałały jeszcze silniej. Ich ceny spadły o 7,4 proc. miesiąc do miesiąca, co wyraźnie obniżyło całkowity wskaźnik CPI. CPI, czyli Consumer Price Index, to najczęściej używana miara inflacji konsumenckiej. Pokazuje, jak zmieniają się ceny koszyka dóbr i usług kupowanych przez gospodarstwa domowe.\n„W ujęciu rocznym wszystkie zaprezentowane we wstępnym odczycie kategorie CPI oddziaływały w kierunku obniżenia inflacji ogółem” – podkreślają ekonomiści Erste Bank Polska. Bank Pocztowy dodaje, że na podstawie tych danych inflację bazową można szacować na 2,9-3,0 proc. rok do roku wobec 3,1 proc. w maju.\nInflacja bazowa nie obejmuje cen żywności i energii, bo te często zmieniają się pod wpływem pogody, paliw, podatków lub sytuacji na rynkach surowców. Dzięki temu ekonomiści lepiej widzą, czy presja cenowa jest rozlana po gospodarce, czy wynika głównie z kilku zmiennych kategorii.\nLipiec może przynieść odbicie\nCzerwcowy wynik nie zamyka jednak tematu inflacji. Ekonomiści zwracają uwagę na program CPN, czyli rozwiązanie obniżające podatki na paliwa. Jego zakończenie może podbić ceny na stacjach.\nErste oczekuje, że w lipcu inflacja wróci w ok",
+    "published": "2026-06-30T15:40:58",
+    "fetched": "2026-06-30T17:53:42.297683",
+    "title_uk": "Інфляція в Польщі знизилася до 2,5% у червні",
+    "summary_uk": "Інфляція CPI в Польщі у червні знизилася до 2,5% з 3,1% у травні, що стало позитивним сюрпризом для економістів. Ціни на паливо зменшилися на 7%, а на продукти харчування — на 0,7%. Це зниження може вплинути на рішення НБП щодо процентних ставок.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зниження цін на паливо та продукти може зменшити витрати на логістику та закупівлі. Розгляньте можливість корекції цін на продукцію.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін на продукти харчування може відкрити можливості для перегляду асортименту та цінової політики в категоріях, де ціни знижуються."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Інфляція в Польщі знизилася до 2,5% у червні",
+    "summary": "Інфляція CPI в Польщі у червні знизилася до 2,5% з 3,1% у травні, що стало позитивним сюрпризом для економістів. Ціни на паливо зменшилися на 7%, а на продукти харчування — на 0,7%. Це зниження може вплинути на рішення НБП щодо процентних ставок.",
+    "link": "https://300gospodarka.pl/news/ceny-w-czerwcu-odpuscily-dla-rpp-to-wazny-sygnal-przed-kolejnymi-decyzjami",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "941a69ab5ce3",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/multidluznicy-pod-lupa-rekordzista-zalega-29-podmiotom",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Co piąty dłużnik ma co najmniej trzech wierzycieli. Rekordzista zalega 29 podmiotom",
+    "body_orig": "347,5 tys. osób w Polsce ma zaległości wobec co najmniej trzech wierzycieli – wynika z danych BIG InfoMonitor. Tacy multidłużnicy odpowiadają już za 40 proc. przeterminowanego zadłużenia pozakredytowego konsumentów wpisanego do Rejestru Dłużników BIG InfoMonitor. Rekordzista ma 29 wierzycieli. To pokazuje, że problem nie kończy się na pojedynczym niezapłaconym rachunku, lecz często przeradza się w spiralę długów.\nPolscy konsumenci mają do spłaty ponad 37 mld zł zaległości kredytowych i 44 mld zł zaległych długów pozakredytowych. Ta druga kategoria obejmuje m.in. niezapłacone rachunki za media, telefon, internet, czynsz, ubezpieczenia, koszty sądowe, jazdę bez biletu, pożyczki i alimenty.\nWśród osób, które zalegają z bieżącymi płatnościami, niemal co piąta ma zobowiązania wobec co najmniej trzech firm, instytucji lub innych podmiotów. Łącznie ta grupa jest winna 17,5 mld zł.\nSpirala długu zaczyna się od kilku zaległości\nMultidłużnicy to osoby, które mają zaległości wobec wielu wierzycieli jednocześnie. Wierzycielem może być bank, firma pożyczkowa, operator telefoniczny, dostawca energii, wspólnota mieszkaniowa, sąd, ubezpieczyciel albo gmina. Problem polega na tym, że kilka niespłaconych zobowiązań bardzo szybko komplikuje codzienne finanse. Trudniej ustalić, komu zapłacić najpierw, które odsetki rosną najszybciej i gdzie ryzyko egzekucji jest największe.\n– Obserwujemy wyraźne pogłębianie się zjawiska spirali zadłużenia w Polsce, które przestaje być problemem marginalnym. Już co piąty konsument zalega z płatnościami wobec kilku podmiotów jednocześnie, co wskazuje na rosnące trudności w utrzymaniu równowagi finansowej. Szczególnie niepokojąca jest jednak koncentracja zadłużenia – aż 40 proc. zaległości przypada na multidłużników, często znajdujących się w zaawansowanej spirali długów. Tak wysoka liczba wierzycieli, sięgająca w skrajnych przypadkach kilkudziesięciu, oznacza całkowitą utratę kontroli nad zobowiązaniami – mówi dr hab. Waldemar Rogowski, główny analityk BIG InfoMonitor.\nJak wyglądają multidłużnicy?\nWśród osób mających co najmniej trzech wierzycieli dominują mężczyźni. Jest ich ponad 230 tys., a ich zaległości sięgają 12,6 mld zł. To ponad trzykrotnie więcej niż w przypadku kobiet.\nNajwięcej multidłużników mieszka w województwie śląskim – 46 tys. osób. Niewiele mniej jest ich na Mazowszu, gdzie liczba takich dłużników wynosi 45,5 tys. Dalej są Dolny Śląsk z wynikiem 35,8 tys., Wielkopolska z 34 tys. i Pomorze, gdzie mieszka 25,6 tys. osób mających zobowiązania wobec co najmniej trzech wierzycieli. Wysoko są też województwa łódzkie i kujawsko-pomorskie, odpowiednio z 25,3 tys. i 24 tys. multidłużników.\nMultidłużnicy najczęściej mają od 35 do 44 lat – to oni stanowią największą grupę wiekową. BIG InfoMonitor podaje, że jest ich ponad 112 tys., a ich łączne zadłużenie przekracza 5,3 mld zł. Dłużnicy z co najmniej trzema wierzycielami pojawiają się jednak w każdej grupie wiekowej, nawet wśród osób poniżej 18. roku życia.\nRekordzista ma 29 w",
+    "published": "2026-06-30T14:21:14",
+    "fetched": "2026-06-30T17:53:42.297720",
+    "title_uk": "Кожен п'ятий боржник в Польщі має щонайменше трьох кредиторів",
+    "summary_uk": "347,5 тис. осіб у Польщі мають заборгованість перед щонайменше трьома кредиторами. Ці боржники становлять 40% простроченого споживчого боргу. Загальна сума заборгованості споживачів перевищує 81 млрд злотих, з яких 44 млрд — це борги поза кредитами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання боргів серед споживачів може знизити купівельну спроможність, що вплине на обсяги продажів. Розгляньте коригування асортименту та цінової політики.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання заборгованості може призвести до зменшення попиту на певні категорії товарів. Рекомендується переглянути плани промо та запаси на найближчі місяці."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кожен п'ятий боржник в Польщі має щонайменше трьох кредиторів",
+    "summary": "347,5 тис. осіб у Польщі мають заборгованість перед щонайменше трьома кредиторами. Ці боржники становлять 40% простроченого споживчого боргу. Загальна сума заборгованості споживачів перевищує 81 млрд злотих, з яких 44 млрд — це борги поза кредитами.",
+    "link": "https://300gospodarka.pl/news/multidluznicy-pod-lupa-rekordzista-zalega-29-podmiotom",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5282dafe3f3a",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/material-partnera/nowoczesne-standardy-bezpieczenstwa-w-inzynierii-i-budownictwie-postaw-na-sprawdzone-rozwiazania",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowoczesne standardy bezpieczeństwa w inżynierii i budownictwie. Postaw na sprawdzone rozwiązania.",
+    "body_orig": "W dobie dynamicznego rozwoju nowoczesnych obiektów kubaturowych, zaawansowanej infrastruktury przemysłowej, sieci telekomunikacyjnych oraz odnawialnych źródeł energii, kluczowym wyzwaniem staje się zarządzanie ryzykiem zawodowym. Współczesne place budowy oraz obiekty inżynieryjne charakteryzują się ogromną złożonością operacyjną. Dynamiczne tempo prac, obecność wielu podwykonawców oraz presja harmonogramów zmuszają inwestorów i generalnych wykonawców do bezkompromisowego podejścia do struktur BHP. Jak skutecznie zadbać o życie i zdrowie pracowników, nie rezygnując przy tym z efektywności biznesowej? Kluczem jest współpraca z profesjonalnym partnerem, który dostarcza kompleksowe rozwiązania szkoleniowe, sprzętowe i doradcze.\nZłożoność współczesnych projektów a ryzyko prac na wysokości\nStatystyki wypadkowości w sektorze budowlanym i instalacyjnym od lat jednoznacznie wskazują, że upadki z wysokości stanowią jedną z najczęstszych przyczyn poważnych oraz śmiertelnych zdarzeń. Każda specyfika branżowa generuje unikalny zestaw zagrożeń. Tradycyjne, ogólne szkolenia BHP rzadko kiedy odpowiadają na realne wyzwania, przed jakimi staje monter paneli fotowoltaicznych na stromym dachu, technik serwisu na maszcie telekomunikacyjnym czy operator wózka systemowego w centrum logistycznym.\nNowoczesne podejście do inżynierii wymaga zbudowania autentycznej kultury bezpieczeństwa, w której ochrona zdrowia i życia pracowników stanowi integralny element strategii finansowej przedsiębiorstwa. Bezpieczeństwo to inwestycja, która minimalizuje ryzyko kosztownych przestojów, eliminuje konsekwencje prawne oraz buduje pozycję odpowiedzialnego partnera na rynku. Aby to osiągnąć, niezbędne jest wykształcenie u pracowników twardych, praktycznych umiejętności, biegłości w obsłudze Sprzętu Ochrony Indywidualnej (ŚOI) oraz procedurach ratowniczych.\nBezpieczeństwo skrojone na miarę – specjalistyczne programy branżowe\nMarka Aroca Safety redefiniuje pojęcie szkoleń wysokościowych, odchodząc od szablonowych rozwiązań na rzecz dedykowanych programów szkoleniowych, precyzyjnie dostosowanych do specyfiki konkretnych sektorów gospodarki:\n\n\nDostęp ogólny i przemysł – szkolenia dedykowane pracownikom szeroko pojętej branży przemysłowej, którzy wykorzystują sprzęt ochrony indywidualnej przed upadkiem z wysokości na konstrukcjach stałych, drabinach przenośnych i stałych, podestach ruchomych oraz dachach płaskich.\n\n\nBranża telekomunikacyjna – program skupiający się na zasadach asekuracji i bezpiecznego użytkowania sprzętu na obiektach telekomunikacyjnych, w tym na drabinach stałych wyposażonych w systemy asekuracji pionowej, a także na dachach płaskich i stromych.\n\n\nBranża energetyczna – zaawansowane szkolenia dla pracowników wykonujących prace na słupach średniego i wysokiego napięcia (kratowych, żerdziowych, drewnianych). Program obejmuje także techniki bezpiecznej asekuracji w podnośnikach koszowych oraz procedury ratownicze.\n\n\nBranża fotowoltaiczna (OZE) – unikalna odpowiedź na potrzeby zi",
+    "published": "2026-06-30T12:24:12",
+    "fetched": "2026-06-30T17:53:42.297761",
+    "title_uk": "Сучасні стандарти безпеки в будівництві та інженерії",
+    "summary_uk": "В умовах зростаючої складності будівельних проектів важливою є безпека працівників. Статистика показує, що падіння з висоти є основною причиною нещасних випадків. Компанія Aroca Safety пропонує спеціалізовані програми навчання для різних галузей, що підвищують безпеку на робочих місцях.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зверніть увагу на нові стандарти безпеки при плануванні закупівель. Інвестиції в навчання можуть знизити ризики та витрати на нещасні випадки."
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Сучасні стандарти безпеки в будівництві та інженерії",
+    "summary": "В умовах зростаючої складності будівельних проектів важливою є безпека працівників. Статистика показує, що падіння з висоти є основною причиною нещасних випадків. Компанія Aroca Safety пропонує спеціалізовані програми навчання для різних галузей, що підвищують безпеку на робочих місцях.",
+    "link": "https://300gospodarka.pl/material-partnera/nowoczesne-standardy-bezpieczenstwa-w-inzynierii-i-budownictwie-postaw-na-sprawdzone-rozwiazania",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d7f076ae578",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/karpowership-launches-construction-of-new-generation-powerships-223843",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Karpowership launches construction of new-generation powerships",
+    "body_orig": "Karadeniz Holding’s Karpowership has reached another milestone in the expansion of its global fleet with the commencement of construction on its new “Sea Lion” class powerships.",
+    "published": "2026-06-30T09:53:30",
+    "fetched": "2026-06-30T17:55:19.862394",
+    "title_uk": "Karpowership розпочала будівництво нових електростанцій на кораблях",
+    "summary_uk": "Компанія Karpowership, що належить Karadeniz Holding, розпочала будівництво нових електростанцій класу 'Sea Lion'. Ці нові потужності розширять глобальний флот компанії, що дозволить забезпечити більшу гнучкість у постачанні електроенергії. Конкретні фінансові деталі не розголошуються.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в енергетичному секторі. Важливо слідкувати за змінами в інфраструктурі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Karpowership розпочала будівництво нових електростанцій на кораблях",
+    "summary": "Компанія Karpowership, що належить Karadeniz Holding, розпочала будівництво нових електростанцій класу 'Sea Lion'. Ці нові потужності розширять глобальний флот компанії, що дозволить забезпечити більшу гнучкість у постачанні електроенергії. Конкретні фінансові деталі не розголошуються.",
+    "link": "https://www.hurriyetdailynews.com/karpowership-launches-construction-of-new-generation-powerships-223843",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "372b5d67bcd9",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-trade-deficit-narrows-15-6-percent-in-may-223840",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s trade deficit narrows 15.6 percent in May",
+    "body_orig": "Türkiye’s foreign trade deficit narrowed 15.6 percent year-on-year in May, as imports fell more sharply than exports, official data showed on June 30.",
+    "published": "2026-06-30T08:28:52",
+    "fetched": "2026-06-30T17:55:19.862409",
+    "title_uk": "Торговий дефіцит Туреччини зменшився на 15.6% у травні",
+    "summary_uk": "Торговий дефіцит Туреччини у травні зменшився на 15.6% у річному вимірі. Це сталося через значніше зниження імпорту в порівнянні з експортом. Офіційні дані оприлюднені 30 червня.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зменшення дефіциту може свідчити про покращення внутрішнього ринку. Це може створити можливості для турецьких виробників, які шукають нові ринки в Україні, Польщі чи Румунії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Торговий дефіцит Туреччини зменшився на 15.6% у травні",
+    "summary": "Торговий дефіцит Туреччини у травні зменшився на 15.6% у річному вимірі. Це сталося через значніше зниження імпорту в порівнянні з експортом. Офіційні дані оприлюднені 30 червня.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-trade-deficit-narrows-15-6-percent-in-may-223840",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f4be6446214a",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-unemployment-rate-steady-at-8-2-percent-in-may-223839",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s unemployment rate steady at 8.2 percent in May",
+    "body_orig": "Türkiye’s unemployment rate remained unchanged at 8.2 percent in May compared to the previous month, the country’s statistical authority said on June 30.",
+    "published": "2026-06-30T08:28:01",
+    "fetched": "2026-06-30T17:55:19.862419",
+    "title_uk": "Рівень безробіття в Туреччині залишився на рівні 8.2% у травні",
+    "summary_uk": "У травні рівень безробіття в Туреччині залишився незмінним на рівні 8.2%. Ці дані оприлюднила статистична служба країни 30 червня. Це свідчить про стабільність на ринку праці, незважаючи на економічні виклики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Стабільний рівень безробіття може свідчити про стабільний попит на продукцію. Виробники можуть розглядати можливості для розширення на ринки з низьким безробіттям.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок-роботи"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Рівень безробіття в Туреччині залишився на рівні 8.2% у травні",
+    "summary": "У травні рівень безробіття в Туреччині залишився незмінним на рівні 8.2%. Ці дані оприлюднила статистична служба країни 30 червня. Це свідчить про стабільність на ринку праці, незважаючи на економічні виклики.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-unemployment-rate-steady-at-8-2-percent-in-may-223839",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "59180fb65c5f",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkiye-calls-for-easier-eu-visa-rules-clarity-on-made-in-eu-specifications/3982385",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye calls for easier EU visa rules, clarity on ‘Made in EU’ specifications",
+    "body_orig": "Türkiye has become key player in regional transit corridor, says Turkish trade minister, urging EU to protect established supply chains as new protectionist proposal threatens decades-old Customs Union",
+    "published": "2026-06-30T14:10:18",
+    "fetched": "2026-06-30T17:55:22.305554",
+    "title_uk": "Туреччина закликає до спрощення візових правил ЄС",
+    "summary_uk": "Турецький міністр торгівлі закликав ЄС захистити постійні ланцюги постачання. Він зазначив, що нові протекціоністські пропозиції можуть загрожувати давньому Митному Союзу. Туреччина стала ключовим гравцем у регіональному транзитному коридорі.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Спрощення візових правил може полегшити доступ до європейських ринків для турецьких виробників. Рекомендується слідкувати за змінами в регуляціях ЄС.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина закликає до спрощення візових правил ЄС",
+    "summary": "Турецький міністр торгівлі закликав ЄС захистити постійні ланцюги постачання. Він зазначив, що нові протекціоністські пропозиції можуть загрожувати давньому Митному Союзу. Туреччина стала ключовим гравцем у регіональному транзитному коридорі.",
+    "link": "https://www.aa.com.tr/en/economy/turkiye-calls-for-easier-eu-visa-rules-clarity-on-made-in-eu-specifications/3982385",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f5960ce00b86",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/global-markets-advance-on-easing-geopolitical-tensions-ai-optimism/3982288",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Global markets advance on easing geopolitical tensions, AI optimism",
+    "body_orig": "Planned US-Iran talks support investor sentiment as technology stocks lead gains, lifting Asian markets",
+    "published": "2026-06-30T12:38:37",
+    "fetched": "2026-06-30T17:55:22.305579",
+    "title_uk": "Глобальні ринки зростають на фоні зменшення геополітичних напружень",
+    "summary_uk": "Плани переговорів між США та Іраном покращили настрій інвесторів. Технологічні акції стали лідерами зростання, що підняло азійські ринки. Загалом, позитивні новини зменшують ризики на фінансових ринках.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Глобальні ринки зростають на фоні зменшення геополітичних напружень",
+    "summary": "Плани переговорів між США та Іраном покращили настрій інвесторів. Технологічні акції стали лідерами зростання, що підняло азійські ринки. Загалом, позитивні новини зменшують ризики на фінансових ринках.",
+    "link": "https://www.aa.com.tr/en/economy/global-markets-advance-on-easing-geopolitical-tensions-ai-optimism/3982288",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a9d2c7c9ffbf",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/world/commercial-ship-traffic-through-strait-of-hormuz-rises-more-than-50-over-past-week/3982242",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Commercial ship traffic through Strait of Hormuz rises more than 50% over past week",
+    "body_orig": "Some 223 ships transited vital waterway in June 15-21, compared with 343 during June 22-28, Kpler data show",
+    "published": "2026-06-30T11:43:23",
+    "fetched": "2026-06-30T17:55:22.305597",
+    "title_uk": "Трафік комерційних суден через Ормузьку протоку зріс на 50%",
+    "summary_uk": "Протягом тижня з 22 по 28 червня через Ормузьку протоку пройшло 343 судна, що на 50% більше, ніж за попередній тиждень. Це свідчить про зростання активності в регіоні. Дані надані компанією Kpler.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання трафіку може свідчити про підвищений попит на товари з регіону. Рекомендується переглянути логістичні стратегії для оптимізації постачань.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Трафік комерційних суден через Ормузьку протоку зріс на 50%",
+    "summary": "Протягом тижня з 22 по 28 червня через Ормузьку протоку пройшло 343 судна, що на 50% більше, ніж за попередній тиждень. Це свідчить про зростання активності в регіоні. Дані надані компанією Kpler.",
+    "link": "https://www.aa.com.tr/en/world/commercial-ship-traffic-through-strait-of-hormuz-rises-more-than-50-over-past-week/3982242",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "08055f2c5f4c",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkiye-eu-underline-railway-freight-cooperation-through-intermodal-transport-project/3982202",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye, EU underline railway freight cooperation through intermodal transport project",
+    "body_orig": "U-IMT Project aimed at making rail freight more competitive, boosting Middle Corridor capacity, says Turkish transport minister",
+    "published": "2026-06-30T11:11:29",
+    "fetched": "2026-06-30T17:55:22.305606",
+    "title_uk": "Туреччина та ЄС підкреслюють співпрацю у залізничних вантажах",
+    "summary_uk": "Турецький міністр транспорту оголосив про проект U-IMT, що має на меті підвищення конкурентоспроможності залізничних вантажів та збільшення потужностей Серединного коридору. Проект передбачає розвиток міжмодального транспорту. Очікується, що це позитивно вплине на логістику в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Розширення залізничних вантажних перевезень може знизити витрати на логістику для турецьких виробників, які постачають продукцію до ЄС.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина та ЄС підкреслюють співпрацю у залізничних вантажах",
+    "summary": "Турецький міністр транспорту оголосив про проект U-IMT, що має на меті підвищення конкурентоспроможності залізничних вантажів та збільшення потужностей Серединного коридору. Проект передбачає розвиток міжмодального транспорту. Очікується, що це позитивно вплине на логістику в регіоні.",
+    "link": "https://www.aa.com.tr/en/economy/turkiye-eu-underline-railway-freight-cooperation-through-intermodal-transport-project/3982202",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "36aeeb197bae",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/carrefour-finalizeaza-vanzarea-operatiunilor-din-romania-catre-paval-23185278",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Carrefour finalizează vânzarea operaţiunilor din România către Pavăl Holding. Tranzacţia marchează ieşirea grupului francez de pe piaţa locală",
+    "body_orig": "",
+    "published": "2026-06-30T16:07:07",
+    "fetched": "2026-06-30T17:55:26.376789",
+    "title_uk": "Carrefour продає бізнес в Румунії Pavăl Holding",
+    "summary_uk": "Carrefour завершив продаж своїх румунських активів компанії Pavăl Holding. Транзакція відзначає вихід французького рітейлера з румунського ринку. Угода підкреслює зміни в ритейлі країни, оскільки Pavăl Holding планує розширення своїх операцій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Carrefour продає бізнес в Румунії Pavăl Holding",
+    "summary": "Carrefour завершив продаж своїх румунських активів компанії Pavăl Holding. Транзакція відзначає вихід французького рітейлера з румунського ринку. Угода підкреслює зміни в ритейлі країни, оскільки Pavăl Holding планує розширення своїх операцій.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/carrefour-finalizeaza-vanzarea-operatiunilor-din-romania-catre-paval-23185278",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "45c12e51a2fb",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/fratii-paval-proprietarii-dedeman-l-au-numit-pe-andrei-bica-fost-cfo-23185262",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fraţii Pavăl, proprietarii Dedeman, l-au numit pe Andrei Bica, fost CFO la Profi şi Telekom România, în funcţia de director financiar al Carrefour România, după preluarea lanţului",
+    "body_orig": "",
+    "published": "2026-06-30T15:56:53",
+    "fetched": "2026-06-30T17:55:26.376809",
+    "title_uk": "Andrei Bica став фінансовим директором Carrefour România",
+    "summary_uk": "Andrei Bica, колишній CFO Profi та Telekom România, призначений фінансовим директором Carrefour România після придбання мережі. Це призначення може вплинути на фінансову стратегію компанії в регіоні. Carrefour продовжує розширювати свій вплив на ринку ритейлу в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Andrei Bica став фінансовим директором Carrefour România",
+    "summary": "Andrei Bica, колишній CFO Profi та Telekom România, призначений фінансовим директором Carrefour România після придбання мережі. Це призначення може вплинути на фінансову стратегію компанії в регіоні. Carrefour продовжує розширювати свій вплив на ринку ритейлу в Румунії.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/fratii-paval-proprietarii-dedeman-l-au-numit-pe-andrei-bica-fost-cfo-23185262",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "430ddef20dc0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-bucuresti-avut-evolutie-spectaculoasa-prima-jumatate-2026-23185255",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la Bucureşti a avut o evoluţie spectaculoasă în prima jumătate a lui 2026: indicele BET a urcat cu 33%, iar capitalizarea companiilor a atins un record de 685 mld. lei. Premier Energy, performer. Urmează Cris-Tim, Digi, Hidro, Electrica, Romgaz",
+    "body_orig": "",
+    "published": "2026-06-30T15:41:00",
+    "fetched": "2026-06-30T17:55:26.376819",
+    "title_uk": "Бухарестська біржа зросла на 33% за півроку",
+    "summary_uk": "Індекс BET на Бухарестській біржі зріс на 33% у першій половині 2026 року. Загальна капіталізація компаній досягла рекорду в €685 млрд. Найкращими показниками відзначилися Premier Energy, Cris-Tim, Digi, Hidro, Electrica та Romgaz.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа зросла на 33% за півроку",
+    "summary": "Індекс BET на Бухарестській біржі зріс на 33% у першій половині 2026 року. Загальна капіталізація компаній досягла рекорду в €685 млрд. Найкращими показниками відзначилися Premier Energy, Cris-Tim, Digi, Hidro, Electrica та Romgaz.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-bucuresti-avut-evolutie-spectaculoasa-prima-jumatate-2026-23185255",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8f694723c514",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/o-singura-emisiune-de-titluri-de-stat-fidelis-a-generat-astazi-23185243",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "O singură emisiune de titluri de stat Fidelis a generat astăzi tranzacţii de 58,6 milioane de lei la BVB",
+    "body_orig": "",
+    "published": "2026-06-30T15:23:00",
+    "fetched": "2026-06-30T17:55:26.376838",
+    "title_uk": "Емісія титулів держави Fidelis принесла 58.6 млн леїв на BVB",
+    "summary_uk": "На ринку Румунії відбулася емісія державних облігацій Fidelis, яка згенерувала транзакції на суму 58.6 млн леїв. Це свідчить про активний інтерес інвесторів до державних цінних паперів. Емісія відбулася 30 червня 2026 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Емісія титулів держави Fidelis принесла 58.6 млн леїв на BVB",
+    "summary": "На ринку Румунії відбулася емісія державних облігацій Fidelis, яка згенерувала транзакції на суму 58.6 млн леїв. Це свідчить про активний інтерес інвесторів до державних цінних паперів. Емісія відбулася 30 червня 2026 року.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/o-singura-emisiune-de-titluri-de-stat-fidelis-a-generat-astazi-23185243",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "991056dca21d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/apia-a-aprobat-plati-de-peste-19-miliarde-de-euro-catre-fermieri-pentru-anul-de-cerere-2025-anunta-ministrul-tanczos-barna_955336.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "APIA a aprobat plăți de peste 1,9 miliarde de euro către fermieri pentru anul de cerere 2025, anunță ministrul Tanczos Barna",
+    "body_orig": "Agenţia de Plăţi şi Intervenţie pentru Agricultură (APIA) a autorizat la plată 1,924 de miliarde de euro, reprezentând un grad de absorbţie de 98,6% din fondurile europene disponibile pentru plăţile directe aferente anului de cerere 2025, a anunţat ministrul interimar al Agriculturii, Tanczos Barna.",
+    "published": "2026-06-30T17:42:57",
+    "fetched": "2026-06-30T17:55:31.019130",
+    "title_uk": "APIA затвердила виплати фермерам на €1.92 млрд за 2025 рік",
+    "summary_uk": "APIA затвердила виплати фермерам у розмірі €1.92 млрд, що становить 98.6% від доступних європейських фондів на 2025 рік. Міністр Танчоз Барна повідомив про успішну реалізацію програми підтримки агросектору.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "APIA затвердила виплати фермерам на €1.92 млрд за 2025 рік",
+    "summary": "APIA затвердила виплати фермерам у розмірі €1.92 млрд, що становить 98.6% від доступних європейських фондів на 2025 рік. Міністр Танчоз Барна повідомив про успішну реалізацію програми підтримки агросектору.",
+    "link": "https://www.economica.net/apia-a-aprobat-plati-de-peste-19-miliarde-de-euro-catre-fermieri-pentru-anul-de-cerere-2025-anunta-ministrul-tanczos-barna_955336.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "021091099ee0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bursa-de-la-bucuresti-a-inchis-in-crestere-sedinta-de-tranzactionare-de-marti-rulajul-a-ajuns-la-189-de-milioane-de-lei_955327.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la București a închis în creștere ședința de tranzacționare de marți. Rulajul a ajuns la 189 de milioane de lei",
+    "body_orig": "Bursa de Valori Bucureşti (BVB) a închis în creştere şedinţa de tranzacţionare de marţi, iar rulajul total s-a ridicat la 189 de milioane de lei (36 de milioane de euro).",
+    "published": "2026-06-30T16:36:38",
+    "fetched": "2026-06-30T17:55:31.019160",
+    "title_uk": "Бухарестська біржа закрилася з ростом, обсяг торгів досяг 189 млн леїв",
+    "summary_uk": "Біржа цінних паперів у Бухаресті завершила торги з підвищенням. Загальний обсяг торгів склав 189 млн леїв (близько €36 млн). Це свідчить про активність на ринку та можливий інтерес інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа закрилася з ростом, обсяг торгів досяг 189 млн леїв",
+    "summary": "Біржа цінних паперів у Бухаресті завершила торги з підвищенням. Загальний обсяг торгів склав 189 млн леїв (близько €36 млн). Це свідчить про активність на ринку та можливий інтерес інвесторів.",
+    "link": "https://www.economica.net/bursa-de-la-bucuresti-a-inchis-in-crestere-sedinta-de-tranzactionare-de-marti-rulajul-a-ajuns-la-189-de-milioane-de-lei_955327.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5c0d5b7cdef1",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cgmb-a-decis-ca-administratia-strazilor-poate-contracta-imprumuturi-de-aproape-1-miliard-de-lei-pentru-finantarea-lucrarilor-de-reabilitare-la-principalele-pasaje-din-oras_955324.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "CGMB a decis că Administrația Străzilor poate contracta împrumuturi de aproape 1 miliard de lei pentru finanțarea lucrărilor de reabilitare la principalele pasaje din oraș",
+    "body_orig": "Consiliul General a aprobat marţi o hotărâre în baza căreia Administraţia Străzilor va putea contracta finanţări rambursabile în valoare totală de până la 990.000.000 de lei, cu o maturitate de până la 25 ani, din care o perioadă de graţie de până la 4 ani, relatează Agerpres.",
+    "published": "2026-06-30T16:28:47",
+    "fetched": "2026-06-30T17:55:31.019171",
+    "title_uk": "Київська адміністрація може залучити до 1 млрд грн на ремонти",
+    "summary_uk": "Київська міська рада ухвалила рішення про можливість залучення кредитів до 990 млн грн для фінансування ремонту основних шляхопроводів. Кредити матимуть термін погашення до 25 років з пільговим періодом до 4 років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Київська адміністрація може залучити до 1 млрд грн на ремонти",
+    "summary": "Київська міська рада ухвалила рішення про можливість залучення кредитів до 990 млн грн для фінансування ремонту основних шляхопроводів. Кредити матимуть термін погашення до 25 років з пільговим періодом до 4 років.",
+    "link": "https://www.economica.net/cgmb-a-decis-ca-administratia-strazilor-poate-contracta-imprumuturi-de-aproape-1-miliard-de-lei-pentru-finantarea-lucrarilor-de-reabilitare-la-principalele-pasaje-din-oras_955324.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5171b48e7c88",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/grupul-farmaceutic-american-eli-lilly-il-numeste-pe-sebastian-iovan-la-conducerea-filialei-din-romania_955320.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul farmaceutic american Eli Lilly îl numește pe Sebastian Iovan la conducerea filialei din România",
+    "body_orig": "Eli Lilly and Company anunță că îl numește pe Sebastian Iovan General Manager pentru Romania Cluster. Sebastian Iovan va coordona, începând cu data de 1 iulie 2026, activitatea comercială, medicală și operațională a companiei pe piețele din România, Bulgaria, Serbia, Croația, Slovenia, Bosnia și Herțegovina.",
+    "published": "2026-06-30T16:22:42",
+    "fetched": "2026-06-30T17:55:31.019180",
+    "title_uk": "Eli Lilly призначає Себастьяна Йована керівником в Румунії",
+    "summary_uk": "Eli Lilly and Company оголосила про призначення Себастьяна Йована Генеральним директором для Румунського кластеру. Він почне виконувати обов'язки з 1 липня 2026 року, координуючи діяльність компанії в Румунії, Болгарії, Сербії, Хорватії, Словенії, Боснії та Герцеговині.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Eli Lilly призначає Себастьяна Йована керівником в Румунії",
+    "summary": "Eli Lilly and Company оголосила про призначення Себастьяна Йована Генеральним директором для Румунського кластеру. Він почне виконувати обов'язки з 1 липня 2026 року, координуючи діяльність компанії в Румунії, Болгарії, Сербії, Хорватії, Словенії, Боснії та Герцеговині.",
+    "link": "https://www.economica.net/grupul-farmaceutic-american-eli-lilly-il-numeste-pe-sebastian-iovan-la-conducerea-filialei-din-romania_955320.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8edfa8d1111c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/salariul-minim-ajunge-la-4-325-lei-brut-valoarea-punctului-amenda-se-majoreaza-asigurarea-optionala-la-pensie-se-scumpeste-dar-nu-si-cea-optionala-la-sanatate_955221.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Salariul minim crește la 4.325 de lei brut de mâine, 1 iulie. Valoarea punctului-amendă se majorează. Asigurarea opţională la pensie se scumpeşte, dar nu şi cea opţională la sănătate",
+    "body_orig": "Salariul minim pe economie e în valoare de 4.325 de lei brut începând cu 1 iulie 2026 pentru normă întreagă, potrivit HG 146 din 2026. Economica.net vă arată cele mai importante efecte ale HG 146 din 2026.",
+    "published": "2026-06-30T16:01:05",
+    "fetched": "2026-06-30T17:55:31.019189",
+    "title_uk": "Мінімальна зарплата в Румунії зростає до 4.325 леїв з 1 липня 2026",
+    "summary_uk": "З 1 липня 2026 року мінімальна зарплата в Румунії становитиме 4.325 леїв брутто для повного робочого дня. Це рішення ухвалене відповідно до постанови уряду. Очікується, що підвищення вплине на бюджетні витрати та споживчий попит.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Мінімальна зарплата в Румунії зростає до 4.325 леїв з 1 липня 2026",
+    "summary": "З 1 липня 2026 року мінімальна зарплата в Румунії становитиме 4.325 леїв брутто для повного робочого дня. Це рішення ухвалене відповідно до постанови уряду. Очікується, що підвищення вплине на бюджетні витрати та споживчий попит.",
+    "link": "https://www.economica.net/salariul-minim-ajunge-la-4-325-lei-brut-valoarea-punctului-amenda-se-majoreaza-asigurarea-optionala-la-pensie-se-scumpeste-dar-nu-si-cea-optionala-la-sanatate_955221.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "261e28e883d7",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/romanian-companies-exempt-from-half-year-accounting-reports-for-2026-297887",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Romanian companies exempt from half-year accounting reports for 2026",
+    "body_orig": "Romanian companies will no longer be required to prepare and submit half-year accounting reports as of 30 June 2026, the Ministry of Finance has announced. The measure applies to 2026 only and is aimed at simplifying reporting requirements and reducing administrative burdens for businesses, without affecting annual reporting obligations provided by law. The decision targets [&#8230;]\nThe post Romanian companies exempt from half-year accounting reports for 2026 appeared first on Business Review.",
+    "published": "2026-06-30T11:25:37",
+    "fetched": "2026-06-30T17:55:35.184958",
+    "title_uk": "Румунські компанії звільняються від піврічних звітів у 2026",
+    "summary_uk": "Румунський уряд скасував вимогу щодо подання піврічних бухгалтерських звітів з 30 червня 2026 року. Це рішення має на меті спростити звітність та зменшити адміністративне навантаження на бізнес. Річні звіти залишаються обов'язковими.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунські компанії звільняються від піврічних звітів у 2026",
+    "summary": "Румунський уряд скасував вимогу щодо подання піврічних бухгалтерських звітів з 30 червня 2026 року. Це рішення має на меті спростити звітність та зменшити адміністративне навантаження на бізнес. Річні звіти залишаються обов'язковими.",
+    "link": "https://business-review.eu/business/romanian-companies-exempt-from-half-year-accounting-reports-for-2026-297887",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7e3e851f3e1",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/industrial/knauf-gips-romania-targets-2027-opening-for-eur-88-mln-huedin-factory-297882",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Knauf Gips Romania targets 2027 opening for EUR 88 mln Huedin factory",
+    "body_orig": "Knauf Gips Romania is progressing with the construction of a new plasterboard plant in Huedin, Cluj County, with works now reaching several key logistical milestones, according to a company press release. The project, a strategic investment worth EUR 88 million, is one of the largest recent developments in the construction materials industry in Eastern Europe. [&#8230;]\nThe post Knauf Gips Romania targets 2027 opening for EUR 88 mln Huedin factory appeared first on Business Review.",
+    "published": "2026-06-30T11:21:53",
+    "fetched": "2026-06-30T17:55:35.184975",
+    "title_uk": "Knauf Gips Romania планує завод у Хуедіні за €88 млн",
+    "summary_uk": "Knauf Gips Romania розпочала будівництво нового заводу з виробництва гіпсокартону в Хуедіні, повіт Клуж. Інвестиції в проект становлять €88 млн, а відкриття заплановане на 2027 рік. Це один з найбільших проектів у сфері будівельних матеріалів в Східній Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Knauf Gips Romania планує завод у Хуедіні за €88 млн",
+    "summary": "Knauf Gips Romania розпочала будівництво нового заводу з виробництва гіпсокартону в Хуедіні, повіт Клуж. Інвестиції в проект становлять €88 млн, а відкриття заплановане на 2027 рік. Це один з найбільших проектів у сфері будівельних матеріалів в Східній Європі.",
+    "link": "https://business-review.eu/property/industrial/knauf-gips-romania-targets-2027-opening-for-eur-88-mln-huedin-factory-297882",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "62fc7c2e3430",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/news/bucharest-metropolitan-rail-project-advances-with-completed-feasibility-study-297874",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bucharest metropolitan rail project advances with completed feasibility study",
+    "body_orig": "Bucharest City Hall has announced the completion of the feasibility study for the Gara de Nord Bucureşti – Chitila – Crivina section of the Bucharest-Ilfov Metropolitan Train project, an investment estimated at more than RON 1.5 billion. The feasibility study, carried out by the Bucharest-Ilfov Public Transport Intercommunity Development Association, has received the necessary approvals [&#8230;]\nThe post Bucharest metropolitan rail project advances with completed feasibility study appeared first on Business Review.",
+    "published": "2026-06-30T11:14:43",
+    "fetched": "2026-06-30T17:55:35.185007",
+    "title_uk": "Завершено дослідження для метрополітену Бухареста",
+    "summary_uk": "Міська рада Бухареста оголосила про завершення дослідження доцільності для ділянки Гара де Норд Бухарест – Читила – Кривіна. Інвестиції в проект перевищать 1.5 млрд RON. Дослідження виконано Асоціацією розвитку міжмуніципального громадського транспорту Бухарест-Ільфов.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Завершено дослідження для метрополітену Бухареста",
+    "summary": "Міська рада Бухареста оголосила про завершення дослідження доцільності для ділянки Гара де Норд Бухарест – Читила – Кривіна. Інвестиції в проект перевищать 1.5 млрд RON. Дослідження виконано Асоціацією розвитку міжмуніципального громадського транспорту Бухарест-Ільфов.",
+    "link": "https://business-review.eu/news/bucharest-metropolitan-rail-project-advances-with-completed-feasibility-study-297874",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f2f6ce048846",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/economic-sentiment-weakens-sharply-in-romania-despite-eu-wide-improvement-297868",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Economic sentiment weakens sharply in Romania despite EU-wide improvement",
+    "body_orig": "Romania’s economic sentiment indicator fell sharply in June, reaching the lowest level recorded since the pandemic lockdown period, while confidence improved across both the EU and the euro area, according to European Commission data. The Economic Sentiment Indicator (ESI) for Romania dropped to 83.5 points in June, from 90.8 points in May. The decline places [&#8230;]\nThe post Economic sentiment weakens sharply in Romania despite EU-wide improvement appeared first on Business Review.",
+    "published": "2026-06-30T10:41:40",
+    "fetched": "2026-06-30T17:55:35.185021",
+    "title_uk": "Економічні настрої в Румунії різко погіршилися в червні",
+    "summary_uk": "Індикатор економічних настроїв у Румунії впав до 83.5 пунктів у червні, знизившись з 90.8 у травні. Це найнижчий рівень з часів пандемії, тоді як у ЄС та зоні євро настрої покращилися.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Економічні настрої в Румунії різко погіршилися в червні",
+    "summary": "Індикатор економічних настроїв у Румунії впав до 83.5 пунктів у червні, знизившись з 90.8 у травні. Це найнижчий рівень з часів пандемії, тоді як у ЄС та зоні євро настрої покращилися.",
+    "link": "https://business-review.eu/business/economic-sentiment-weakens-sharply-in-romania-despite-eu-wide-improvement-297868",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d47e55a36205",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/offices/social-and-collaboration-areas-take-larger-share-of-office-fit-out-budgets-in-2026-workspace-studio-297865",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Social and collaboration areas take larger share of office fit-out budgets in 2026 – Workspace Studio",
+    "body_orig": "Companies that continue to invest in office fit-outs in 2026 are allocating a larger share of their budgets to collaboration and social areas, despite weaker overall demand in the office market, according to Workspace Studio, a fit-out and workplace transformation company with a turnover of EUR 30 million in 2025. Representatives say this trend is visible [&#8230;]\nThe post Social and collaboration areas take larger share of office fit-out budgets in 2026 &#8211; Workspace Studio appeared first on Business Review.",
+    "published": "2026-06-30T10:12:37",
+    "fetched": "2026-06-30T17:55:35.185035",
+    "title_uk": "Компанії збільшують витрати на соціальні та колабораційні зони в офісах",
+    "summary_uk": "У 2026 році компанії, що інвестують в облаштування офісів, виділяють більшу частину бюджету на соціальні та колабораційні зони. Це відбувається на фоні зниження загального попиту на офісні приміщення. Workspace Studio, компанія з оборотом €30 млн у 2025 році, зазначає, що ця тенденція стає помітною.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в облаштуванні офісів може вплинути на попит на товари для офісів, тому варто переглянути асортимент та пропозиції для компаній, які інвестують у нові простори."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Компанії збільшують витрати на соціальні та колабораційні зони в офісах",
+    "summary": "У 2026 році компанії, що інвестують в облаштування офісів, виділяють більшу частину бюджету на соціальні та колабораційні зони. Це відбувається на фоні зниження загального попиту на офісні приміщення. Workspace Studio, компанія з оборотом €30 млн у 2025 році, зазначає, що ця тенденція стає помітною.",
+    "link": "https://business-review.eu/property/offices/social-and-collaboration-areas-take-larger-share-of-office-fit-out-budgets-in-2026-workspace-studio-297865",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6c27c15bdc02",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/profiles1/whoss-news/eli-lilly-and-company-appoints-sebastian-iovan-as-general-manager-for-romania-cluster-297861",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Eli Lilly and Company appoints Sebastian Iovan as General Manager for Romania Cluster",
+    "body_orig": "Eli Lilly and Company has announced the appointment of Sebastian Iovan as General Manager for its Romania Cluster. Starting July 1st, 2026, Iovan will coordinate the company&#8217;s commercial, medical, and operational activity on the markets of Romania, Bulgaria, Serbia, Croatia, Slovenia, and Bosnia and Herzegovina. Sebastian Iovan is a Medical Doctor from Cluj-Napoca with a [&#8230;]\nThe post Eli Lilly and Company appoints Sebastian Iovan as General Manager for Romania Cluster appeared first on Business Review.",
+    "published": "2026-06-30T10:01:56",
+    "fetched": "2026-06-30T17:55:35.185046",
+    "title_uk": "Eli Lilly призначила Себастьяна Іована генеральним директором в Румунії",
+    "summary_uk": "Eli Lilly and Company оголосила про призначення Себастьяна Іована генеральним директором для Румунського кластеру. Він розпочне роботу 1 липня 2026 року та координуватиме діяльність компанії в Румунії, Болгарії, Сербії, Хорватії, Словенії та Боснії і Герцеговині. Іован — лікар з Клуж-Напоки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Eli Lilly призначила Себастьяна Іована генеральним директором в Румунії",
+    "summary": "Eli Lilly and Company оголосила про призначення Себастьяна Іована генеральним директором для Румунського кластеру. Він розпочне роботу 1 липня 2026 року та координуватиме діяльність компанії в Румунії, Болгарії, Сербії, Хорватії, Словенії та Боснії і Герцеговині. Іован — лікар з Клуж-Напоки.",
+    "link": "https://business-review.eu/profiles1/whoss-news/eli-lilly-and-company-appoints-sebastian-iovan-as-general-manager-for-romania-cluster-297861",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d0da0b973ff",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/aire-openai-meta-aire-fundraise/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Exclusive: Meta and OpenAI alumni seek $400m for new AI lab",
+    "body_orig": "",
+    "published": "2026-06-30T12:58:10",
+    "fetched": "2026-06-30T17:53:35.296435",
+    "title_uk": "Meta та OpenAI залучають $400 млн для нового AI-лабораторії",
+    "summary_uk": "Команда з колишніх співробітників Meta та OpenAI планує залучити $400 млн для створення нової лабораторії штучного інтелекту. Інвестори зацікавлені в розробках, які можуть змінити ринок AI. Проект має на меті розширити можливості технологій, що використовуються в різних сферах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Meta та OpenAI залучають $400 млн для нового AI-лабораторії",
+    "summary": "Команда з колишніх співробітників Meta та OpenAI планує залучити $400 млн для створення нової лабораторії штучного інтелекту. Інвестори зацікавлені в розробках, які можуть змінити ринок AI. Проект має на меті розширити можливості технологій, що використовуються в різних сферах.",
+    "link": "https://sifted.eu/articles/aire-openai-meta-aire-fundraise/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f0514a50842a",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "British-U.S. startup Build secures €7.4 million to accelerate “agentic real estate” platform",
+    "body_orig": "Build, a British and U.S.-based AI-native infrastructure company helping governments, developers and investors accelerate critical projects, has raised €7.4. million ($8.5 million) in Seed funding to expand its engineering and infrastructure teams, accelerate R&#38;D and deepen its presence across North America and Europe. The round was led by Index Ventures. Pebblebed, Puzzle Ventures and Tiny.vc [&#8230;]\nThe post British-U.S. startup Build secures €7.4 million to accelerate “agentic real estate” platform appeared first on EU-Startups.",
+    "published": "2026-06-30T13:57:20",
+    "fetched": "2026-06-30T17:53:37.021069",
+    "title_uk": "Стартап Build залучив €7.4 млн для розвитку платформи у сфері нерухомості",
+    "summary_uk": "Британсько-американський стартап Build отримав €7.4 млн на початковому етапі фінансування. Кошти підуть на розширення інженерних команд, прискорення досліджень та розвитку, а також на зміцнення позицій у Північній Америці та Європі. Раунд фінансування очолила компанія Index Ventures.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стартап Build залучив €7.4 млн для розвитку платформи у сфері нерухомості",
+    "summary": "Британсько-американський стартап Build отримав €7.4 млн на початковому етапі фінансування. Кошти підуть на розширення інженерних команд, прискорення досліджень та розвитку, а також на зміцнення позицій у Північній Америці та Європі. Раунд фінансування очолила компанія Index Ventures.",
+    "link": "https://www.eu-startups.com/2026/06/british-u-s-startup-build-secures-e7-4-million-to-accelerate-agentic-real-estate-platform/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "20092fb99a1e",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team",
+    "body_orig": "Vienna-based Epitome Therapeutics, a BioTech company advancing precision epigenome editing for programmable gene expression, today announced a total funding of €4 million to advance development programmes and grow the company&#8217;s team. The pre-seed round, comprising an oversubscribed €2 million pre-seed round and €2 million in non-dilutive grant funding, was co-led by XISTA Science Ventures and [&#8230;]\nThe post Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team appeared first on EU-Startups.",
+    "published": "2026-06-30T12:02:38",
+    "fetched": "2026-06-30T17:53:37.021088",
+    "title_uk": "Австрійський стартап Epitome Therapeutics залучив €4 млн фінансування",
+    "summary_uk": "Віденський стартап Epitome Therapeutics, що займається редагуванням епігеному, оголосив про залучення €4 млн. Фінансування включає €2 млн з перевищенням попиту на раунд pre-seed та €2 млн грантових коштів. Інвестиції спрямовані на розвиток програм і розширення команди.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Австрійський стартап Epitome Therapeutics залучив €4 млн фінансування",
+    "summary": "Віденський стартап Epitome Therapeutics, що займається редагуванням епігеному, оголосив про залучення €4 млн. Фінансування включає €2 млн з перевищенням попиту на раунд pre-seed та €2 млн грантових коштів. Інвестиції спрямовані на розвиток програм і розширення команди.",
+    "link": "https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "71e2654fed08",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "UK speech AI startup Lucida AI lands €6.1 million to develop speech-native AI for global communication",
+    "body_orig": "Lucida AI, a London-based speech-to-speech AI platform for global communication, has raised a €6.1 million ($7 million) Seed round to expand into new languages and geographies, develop its proprietary AI infrastructure, scale its enterprise offering globally, and accelerate product development. The round was led by Velocity Capital and included participation from Next Tier Ventures and [&#8230;]\nThe post UK speech AI startup Lucida AI lands €6.1 million to develop speech-native AI for global communication appeared first on EU-Startups.",
+    "published": "2026-06-30T10:49:03",
+    "fetched": "2026-06-30T17:53:37.021101",
+    "title_uk": "Lucida AI залучила €6.1 млн для розвитку AI для глобальної комунікації",
+    "summary_uk": "Лондонський стартап Lucida AI отримав €6.1 млн на початковому етапі для розширення на нові мови та ринки. Кошти підуть на розвиток власної AI-інфраструктури та масштабування пропозицій для підприємств. Раунд фінансування очолила Velocity Capital за участю Next Tier Ventures.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Lucida AI залучила €6.1 млн для розвитку AI для глобальної комунікації",
+    "summary": "Лондонський стартап Lucida AI отримав €6.1 млн на початковому етапі для розширення на нові мови та ринки. Кошти підуть на розвиток власної AI-інфраструктури та масштабування пропозицій для підприємств. Раунд фінансування очолила Velocity Capital за участю Next Tier Ventures.",
+    "link": "https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "000295d47ce1",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/six-robotics-lands-e12-million-to-advance-unmanned-systems-software-with-norwegian-defence-partners/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Six Robotics lands €12 million to advance unmanned systems software with Norwegian defence partners",
+    "body_orig": "Six Robotics, an Oslo-based DefenceTech company, has announced a €12 million Seed round to accelerate the development and deployment of its autonomy software platform for unmanned systems. DTCP leads the round through DTCP Defence, a recently launched €500 million venture capital fund dedicated exclusively to defence, security, and resilience technologies. With participation from EIFO and [&#8230;]\nThe post Six Robotics lands €12 million to advance unmanned systems software with Norwegian defence partners appeared first on EU-Startups.",
+    "published": "2026-06-30T09:45:10",
+    "fetched": "2026-06-30T17:53:37.021113",
+    "title_uk": "Six Robotics залучила €12 млн для розвитку програмного забезпечення",
+    "summary_uk": "Компанія Six Robotics з Осло оголосила про залучення €12 млн у Seed-раунді для прискорення розробки платформи автономії для безпілотних систем. Раунд очолила компанія DTCP через фонд DTCP Defence, який має €500 млн для інвестицій у технології оборони. Участь також взяли EIFO та інші інвестори.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Six Robotics залучила €12 млн для розвитку програмного забезпечення",
+    "summary": "Компанія Six Robotics з Осло оголосила про залучення €12 млн у Seed-раунді для прискорення розробки платформи автономії для безпілотних систем. Раунд очолила компанія DTCP через фонд DTCP Defence, який має €500 млн для інвестицій у технології оборони. Участь також взяли EIFO та інші інвестори.",
+    "link": "https://www.eu-startups.com/2026/06/six-robotics-lands-e12-million-to-advance-unmanned-systems-software-with-norwegian-defence-partners/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4dc1c578de8a",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/verkko-robotics-launch-voltaic-a-cost-and-energy-saving-spiking-neural-inference-model-sponsored/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Verkko Robotics launch VOLTAIC, a cost and energy saving Spiking Neural Inference Model (Sponsored)",
+    "body_orig": "London-based Verkko Robotics, a DeepTech European AI research lab, has unveiled VOLTAIC, an AI system designed to keep learning over time, retain what it has learned, and operate using far less energy and computing power than today&#8217;s leading multimodal models. If its early performance claims hold true, the technology could challenge the economics of the [&#8230;]\nThe post Verkko Robotics launch VOLTAIC, a cost and energy saving Spiking Neural Inference Model (Sponsored) appeared first on EU-Startups.",
+    "published": "2026-06-30T09:15:46",
+    "fetched": "2026-06-30T17:53:37.021125",
+    "title_uk": "Verkko Robotics представила VOLTAIC — нову AI-систему",
+    "summary_uk": "Лондонська компанія Verkko Robotics анонсувала VOLTAIC, AI-систему, що навчається з часом та споживає менше енергії, ніж сучасні моделі. Якщо початкові показники підтвердяться, технологія може суттєво знизити витрати на обчислення. Це може вплинути на ринок AI в Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Verkko Robotics представила VOLTAIC — нову AI-систему",
+    "summary": "Лондонська компанія Verkko Robotics анонсувала VOLTAIC, AI-систему, що навчається з часом та споживає менше енергії, ніж сучасні моделі. Якщо початкові показники підтвердяться, технологія може суттєво знизити витрати на обчислення. Це може вплинути на ринок AI в Європі.",
+    "link": "https://www.eu-startups.com/2026/06/verkko-robotics-launch-voltaic-a-cost-and-energy-saving-spiking-neural-inference-model-sponsored/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b1c03c6a66d0",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/06/with-3500-agricultural-smes-financed-estonias-insoil-lands-e120-million-to-expand-regenerative-agriculture-lending/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "With 3,500+ agricultural SMEs financed, Estonia’s InSoil lands €120 million to expand regenerative agriculture lending",
+    "body_orig": "Vilnius-based climate finance company InSoil has secured a €120 million senior secured credit facility to expand their capacity to provide mid-term debt capital to agricultural SMEs adopting sustainable farming practices, including no-till cultivation, cover cropping, diversified crop rotation and reduced use of synthetic fertilisers. The credit facility has come from Pollen Street Capital, marking one [&#8230;]\nThe post With 3,500+ agricultural SMEs financed, Estonia&#8217;s InSoil lands €120 million to expand regenerative agriculture lending appeared first on EU-Startups.",
+    "published": "2026-06-30T08:17:52",
+    "fetched": "2026-06-30T17:53:37.021149",
+    "title_uk": "InSoil отримала €120 млн для фінансування агросереднього бізнесу",
+    "summary_uk": "Естонська компанія InSoil залучила €120 млн для розширення кредитування агросереднього бізнесу, що впроваджує сталий розвиток. Кошти надані Pollen Street Capital. Це дозволить фінансувати практики, такі як безорна обробка та зменшення використання синтетичних добрив.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "InSoil отримала €120 млн для фінансування агросереднього бізнесу",
+    "summary": "Естонська компанія InSoil залучила €120 млн для розширення кредитування агросереднього бізнесу, що впроваджує сталий розвиток. Кошти надані Pollen Street Capital. Це дозволить фінансувати практики, такі як безорна обробка та зменшення використання синтетичних добрив.",
+    "link": "https://www.eu-startups.com/2026/06/with-3500-agricultural-smes-financed-estonias-insoil-lands-e120-million-to-expand-regenerative-agriculture-lending/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "db76e7fb5be1",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/06/30/gotel-ribas-rooms-ferenc-lviv-u-tsentri-mista/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Ribas Rooms Ferenc Lviv: готель у центрі Львова для бізнесу та відпочинку",
+    "body_orig": "Ribas Rooms Ferenc Lviv — готель у центрі Львова з номерами різних категорій та конференц-залом для невеликих заходів. Локація дозволяє швидко дістатися ключових ділових і туристичних об’єктів міста.",
+    "published": "2026-06-30T16:00:00",
+    "fetched": "2026-06-30T17:55:01.697893",
+    "title_uk": "Новий готель Ribas Rooms Ferenc у Львові для бізнесу та відпочинку",
+    "summary_uk": "Відкрився Ribas Rooms Ferenc Lviv — готель у центрі Львова з різними категоріями номерів та конференц-залом. Локація забезпечує зручний доступ до ділових і туристичних об'єктів міста. Це створює нові можливості для бізнес-туризму у Львові.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Готель може стати новим партнером для організації заходів та промо-акцій. Розгляньте можливість співпраці для проведення бізнес-зустрічей."
+    },
+    "tags": [
+      "HoReCa",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Новий готель Ribas Rooms Ferenc у Львові для бізнесу та відпочинку",
+    "summary": "Відкрився Ribas Rooms Ferenc Lviv — готель у центрі Львова з різними категоріями номерів та конференц-залом. Локація забезпечує зручний доступ до ділових і туристичних об'єктів міста. Це створює нові можливості для бізнес-туризму у Львові.",
+    "link": "https://ain.ua/2026/06/30/gotel-ribas-rooms-ferenc-lviv-u-tsentri-mista/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8a25e2a3ed6f",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/06/30/nova-posta-vidkrila-novii-logisticnii-terminal-u-moldovi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Нова пошта» відкрила новий логістичний термінал у Молдові за €800 тис.",
+    "body_orig": "Новий хаб поблизу Кишинева зможе обробляти до десяти тисяч посилок на годину.",
+    "published": "2026-06-30T11:35:00",
+    "fetched": "2026-06-30T17:55:01.697941",
+    "title_uk": "«Нова пошта» відкрила логістичний термінал у Молдові",
+    "summary_uk": "Компанія «Нова пошта» відкрила новий логістичний термінал поблизу Кишинева за €800 тис. Хаб зможе обробляти до 10 тис. посилок на годину. Це розширить можливості доставки в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "«Нова пошта» відкрила логістичний термінал у Молдові",
+    "summary": "Компанія «Нова пошта» відкрила новий логістичний термінал поблизу Кишинева за €800 тис. Хаб зможе обробляти до 10 тис. посилок на годину. Це розширить можливості доставки в регіоні.",
+    "link": "https://ain.ua/2026/06/30/nova-posta-vidkrila-novii-logisticnii-terminal-u-moldovi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4089e1a44fa",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/06/30/blablacar-20-krayin-ai/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "BlaBlaCar масштабується на 20 країн за допомогою ШІ. Де ще працюватиме сервіс?",
+    "body_orig": "Це перша масштабна міжнародна експансія компанії за останні 10 років",
+    "published": "2026-06-30T11:20:00",
+    "fetched": "2026-06-30T17:55:01.697950",
+    "title_uk": "BlaBlaCar розширює діяльність на 20 країн за допомогою ШІ",
+    "summary_uk": "BlaBlaCar оголосила про масштабну експансію на 20 нових ринків, що є її першим великим виходом за останні 10 років. Компанія планує використовувати штучний інтелект для покращення сервісу. Це дозволить залучити нових користувачів та підвищити ефективність роботи платформи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BlaBlaCar розширює діяльність на 20 країн за допомогою ШІ",
+    "summary": "BlaBlaCar оголосила про масштабну експансію на 20 нових ринків, що є її першим великим виходом за останні 10 років. Компанія планує використовувати штучний інтелект для покращення сервісу. Це дозволить залучити нових користувачів та підвищити ефективність роботи платформи.",
+    "link": "https://ain.ua/2026/06/30/blablacar-20-krayin-ai/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "951c69741fbd",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/nacionalnii-kesbek-za-kviten-viplatyat-3-lipnya-do-koli-mozna-vitratiti-kosti-p103d5",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Національний кешбек» за квітень виплатять 3 липня: до коли можна витратити кошти",
+    "body_orig": "Виплати за квітень у межах програми «Національний кешбек» зарахують 3 липня. Також українці отримають додатковий місяць для використання накопичених коштів, пише Мінцифри.",
+    "published": "2026-06-30T17:10:23",
+    "fetched": "2026-06-30T17:55:14.099451",
+    "title_uk": "Виплати «Національного кешбеку» за квітень відбудуться 3 липня",
+    "summary_uk": "Виплати за програмою «Національний кешбек» за квітень заплановані на 3 липня. Українці отримають додатковий місяць для витрат накопичених коштів. Це рішення ухвалене Міністерством цифрової трансформації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Виплати «Національного кешбеку» за квітень відбудуться 3 липня",
+    "summary": "Виплати за програмою «Національний кешбек» за квітень заплановані на 3 липня. Українці отримають додатковий місяць для витрат накопичених коштів. Це рішення ухвалене Міністерством цифрової трансформації.",
+    "link": "https://speka.ua/news/nacionalnii-kesbek-za-kviten-viplatyat-3-lipnya-do-koli-mozna-vitratiti-kosti-p103d5",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a848b8396840",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/blablacar-zyavitsya-odrazu-v-20-novix-krayinax-yak-ce-vdalosya-vm4l2l",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Blablacar з’явиться одразу в 20 нових країнах: як це вдалося",
+    "body_orig": "BlaBlaCar виходить одразу на 20 нових ринків — від Балкан до Південно-Східної Азії. Кількість країн, де працює сервіс, виросте з 21 до 41 за один раунд експансії, і це найбільше розширення компанії за останнє десятиліття, у цьому допоміг ШІ, повідомили у BlaBlaCar.&nbsp;",
+    "published": "2026-06-30T16:07:17",
+    "fetched": "2026-06-30T17:55:14.099487",
+    "title_uk": "BlaBlaCar виходить на 20 нових ринків",
+    "summary_uk": "BlaBlaCar розширює свою присутність, виходячи на 20 нових ринків, збільшуючи загальну кількість країн з 21 до 41. Це найбільше розширення компанії за останнє десятиліття, яке стало можливим завдяки технологіям штучного інтелекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BlaBlaCar виходить на 20 нових ринків",
+    "summary": "BlaBlaCar розширює свою присутність, виходячи на 20 нових ринків, збільшуючи загальну кількість країн з 21 до 41. Це найбільше розширення компанії за останнє десятиліття, яке стало можливим завдяки технологіям штучного інтелекту.",
+    "link": "https://speka.ua/news/blablacar-zyavitsya-odrazu-v-20-novix-krayinax-yak-ce-vdalosya-vm4l2l",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ed4c2d6c3dac",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/662-ukrayinki-proisli-skolu-si-yakii-rezultat-navcannya-pl5xl7",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "662 українки пройшли Школу ШІ: який результат навчання",
+    "body_orig": "662 жінки з усієї України завершили місячну Школу ШІ від ООН Жінки та AI House, а заявок на участь подали понад 1200. Фінал першої хвилі програми відбувся в Києві, і результати виявились показовими: 74% випускниць говорять, що дізналися більше про ШІ, а 80% уже застосовують навички щодня, повідомили у Мінцифри.",
+    "published": "2026-06-30T14:37:10",
+    "fetched": "2026-06-30T17:55:14.099523",
+    "title_uk": "662 українки завершили навчання в Школі штучного інтелекту",
+    "summary_uk": "662 жінки з України закінчили місячну Школу ШІ від ООН Жінки та AI House. Заявки подали понад 1200 учасниць. 74% випускниць зазначили, що дізналися більше про ШІ, а 80% вже використовують нові навички щодня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "662 українки завершили навчання в Школі штучного інтелекту",
+    "summary": "662 жінки з України закінчили місячну Школу ШІ від ООН Жінки та AI House. Заявки подали понад 1200 учасниць. 74% випускниць зазначили, що дізналися більше про ШІ, а 80% вже використовують нові навички щодня.",
+    "link": "https://speka.ua/news/662-ukrayinki-proisli-skolu-si-yakii-rezultat-navcannya-pl5xl7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "15c791ddb480",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/iak-moyo-vykorystovuye-ai-u-kliyentskomu-servisi-ta-marketyngu-pro-shcho-govoryly-na-rau-expo-2026/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Як MOYO використовує AI у клієнтському сервісі та маркетингу",
+    "body_orig": "Під час RAU Expo 2026 одним із практичних виступів, присвячених цифровій трансформації українського ритейлу, стала презентація CMO MOYO Максима Левченка та керівниці відділу комунікаційного маркетингу MOYO Анни Вовк. Замість прогнозів про майбутнє штучного інтелекту спікери показали, як AI вже сього…",
+    "published": "2026-06-30T08:29:51",
+    "fetched": "2026-06-30T17:55:37.354471",
+    "title_uk": "MOYO впроваджує AI у клієнтський сервіс та маркетинг",
+    "summary_uk": "На RAU Expo 2026 CMO MOYO Максим Левченко та Анна Вовк представили практичні приклади використання штучного інтелекту в ритейлі. Спікери продемонстрували, як AI оптимізує клієнтський сервіс та маркетингові кампанії. Це підтверджує тренд на цифрову трансформацію в українському ритейлі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження AI може стати прикладом для ритейлерів в Україні, які прагнуть покращити обслуговування клієнтів та маркетингові стратегії. Рекомендується вивчити досвід MOYO для впровадження аналогічних технологій."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "MOYO впроваджує AI у клієнтський сервіс та маркетинг",
+    "summary": "На RAU Expo 2026 CMO MOYO Максим Левченко та Анна Вовк представили практичні приклади використання штучного інтелекту в ритейлі. Спікери продемонстрували, як AI оптимізує клієнтський сервіс та маркетингові кампанії. Це підтверджує тренд на цифрову трансформацію в українському ритейлі.",
+    "link": "https://rau.ua/news/iak-moyo-vykorystovuye-ai-u-kliyentskomu-servisi-ta-marketyngu-pro-shcho-govoryly-na-rau-expo-2026/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c805a8d4ae50",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/kapital-doviry-iak-partnerstvo-z-bankom-posyliuye-biznes-dosvid-taskombank/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Капітал довіри: як партнерство з банком посилює бізнес. Досвід ТАСКОМБАНК",
+    "body_orig": "Поки одні компанії концентруються на кризах і ризиках, інші знаходять нові ринки, запускають продукти та масштабують бізнес. В умовах війни саме здатність швидко адаптуватися та ухвалювати стратегічні рішення стає ключовою конкурентною перевагою. Проте для цього бізнесу потрібен не просто фінансовий…",
+    "published": "2026-06-30T05:38:23",
+    "fetched": "2026-06-30T17:55:37.354483",
+    "title_uk": "Партнерство з ТАСКОМБАНК: нові можливості для бізнесу",
+    "summary_uk": "Компанії, які швидко адаптуються до змін, знаходять нові ринки та продукти. ТАСКОМБАНК пропонує фінансові рішення для бізнесу в умовах війни, що дозволяє зменшити ризики та підвищити конкурентоспроможність. Адаптація до нових умов стає ключовою перевагою.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Партнерство з ТАСКОМБАНК: нові можливості для бізнесу",
+    "summary": "Компанії, які швидко адаптуються до змін, знаходять нові ринки та продукти. ТАСКОМБАНК пропонує фінансові рішення для бізнесу в умовах війни, що дозволяє зменшити ризики та підвищити конкурентоспроможність. Адаптація до нових умов стає ключовою перевагою.",
+    "link": "https://rau.ua/news/kapital-doviry-iak-partnerstvo-z-bankom-posyliuye-biznes-dosvid-taskombank/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9030106f6c22",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/mcdonalds-vidkryv-tretiyi-restoran-u-cherkasakh/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "McDonald’s відкрив третій ресторан у Черкасах",
+    "body_orig": "30 червня в Черкасах відкрився третій ресторан McDonald’s — за адресою проспект Перемоги, 8-А. Це 128-й заклад мережі, що працює в Україні.\nНовий ресторан розташований у популярній для прогулянок і відпочинку частині міста — поруч із парком і неподалік від Черкаського зоопарку. Заклад має площу близ…",
+    "published": "2026-06-30T05:30:12",
+    "fetched": "2026-06-30T17:55:37.354493",
+    "title_uk": "McDonald’s відкрив третій ресторан у Черкасах",
+    "summary_uk": "30 червня в Черкасах відкрився третій ресторан McDonald’s на проспекті Перемоги, 8-А. Це 128-й заклад мережі в Україні. Ресторан розташований у популярній частині міста, поруч із парком та зоопарком.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "McDonald’s відкрив третій ресторан у Черкасах",
+    "summary": "30 червня в Черкасах відкрився третій ресторан McDonald’s на проспекті Перемоги, 8-А. Це 128-й заклад мережі в Україні. Ресторан розташований у популярній частині міста, поруч із парком та зоопарком.",
+    "link": "https://rau.ua/news/mcdonalds-vidkryv-tretiyi-restoran-u-cherkasakh/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d7e32a708cb",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/nova-post-vidkryla-novyyi-logistychnyyi-terminal-u-moldovi-investuvavshy-800-000/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Nova Post відкрила найбільший логістичний хаб у Молдові інвестувавши €800 000",
+    "body_orig": "Поблизу Кишинева запрацював найбільший хаб у країні площею 3 800 кв. м. У розвиток нового логістичного комплексу інвестували €800 000. Також переду відкриття нового сортувального центру в Бєльцях. Про це йдеться в повідомленні компанії.\nНовий логістичний комплекс може обробляти до 10 000 посилок на…",
+    "published": "2026-06-30T04:45:10",
+    "fetched": "2026-06-30T17:55:37.354504",
+    "title_uk": "Nova Post відкрила найбільший логістичний хаб у Молдові",
+    "summary_uk": "У Молдові запрацював новий логістичний хаб площею 3 800 кв. м, розташований поблизу Кишинева. Інвестиції в проект склали €800 000. Хаб здатний обробляти до 10 000 посилок на день. Також планується відкриття сортувального центру в Бєльцях.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Nova Post відкрила найбільший логістичний хаб у Молдові",
+    "summary": "У Молдові запрацював новий логістичний хаб площею 3 800 кв. м, розташований поблизу Кишинева. Інвестиції в проект склали €800 000. Хаб здатний обробляти до 10 000 посилок на день. Також планується відкриття сортувального центру в Бєльцях.",
+    "link": "https://rau.ua/news/nova-post-vidkryla-novyyi-logistychnyyi-terminal-u-moldovi-investuvavshy-800-000/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6795d6159262",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Primark nears 50 US stores with latest openings",
+    "body_orig": "Two locations, in Houston and Indianapolis, will expand the Irish retailer&rsquo;s U.S. footprint to 44 as it pushes deeper into the region.",
+    "published": "2026-06-30T16:15:00",
+    "fetched": "2026-06-30T17:55:44.042061",
+    "title_uk": "Primark відкриває нові магазини в США, досягнувши 44 локацій",
+    "summary_uk": "Primark відкриває два нові магазини в Х'юстоні та Індіанаполісі, що збільшує їх кількість у США до 44. Рітейлер продовжує розширювати свою присутність на американському ринку. Це частина стратегії з глибшого входження в регіон.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Primark відкриває нові магазини в США, досягнувши 44 локацій",
+    "summary": "Primark відкриває два нові магазини в Х'юстоні та Індіанаполісі, що збільшує їх кількість у США до 44. Рітейлер продовжує розширювати свою присутність на американському ринку. Це частина стратегії з глибшого входження в регіон.",
+    "link": "https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "33361f0f2da1",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/amazon-jcpenney-gas-related-deals-ahead-of-july-4/824072/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Amazon, J.C. Penney dangle gas-related deals ahead of July 4",
+    "body_orig": "At the e-commerce giant, the savings are only for Prime members, while at the department store customers can trade a gas receipt for $10 off.",
+    "published": "2026-06-30T15:30:00",
+    "fetched": "2026-06-30T17:55:44.042075",
+    "title_uk": "Amazon та J.C. Penney пропонують знижки на паливо до Дня незалежності",
+    "summary_uk": "Amazon надає знижки лише для членів Prime, тоді як J.C. Penney дозволяє обмінювати чеки за паливо на знижку в $10. Обидві акції приурочені до святкування Дня незалежності США.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Amazon та J.C. Penney пропонують знижки на паливо до Дня незалежності",
+    "summary": "Amazon надає знижки лише для членів Prime, тоді як J.C. Penney дозволяє обмінювати чеки за паливо на знижку в $10. Обидві акції приурочені до святкування Дня незалежності США.",
+    "link": "https://www.retaildive.com/news/amazon-jcpenney-gas-related-deals-ahead-of-july-4/824072/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "46a449c8974c",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
+    "body_orig": "The acquisition of the platform designed for small- and mid-sized businesses speaks to the evolution of streaming TV advertising.",
+    "published": "2026-06-30T15:23:00",
+    "fetched": "2026-06-30T17:55:44.042086",
+    "title_uk": "Walmart купує платформу Vibe.co для малого бізнесу",
+    "summary_uk": "Walmart придбав платформу Vibe.co, що орієнтована на малий та середній бізнес. Ця угода підкреслює зміни у рекламі на стрімінгових платформах. Walmart прагне інтегрувати CTV та ритейл медіа, щоб покращити рекламні можливості для своїх партнерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Walmart купує платформу Vibe.co для малого бізнесу",
+    "summary": "Walmart придбав платформу Vibe.co, що орієнтована на малий та середній бізнес. Ця угода підкреслює зміни у рекламі на стрімінгових платформах. Walmart прагне інтегрувати CTV та ритейл медіа, щоб покращити рекламні можливості для своїх партнерів.",
+    "link": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bd77d9fb837b",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/consumer-sentiment-record-low-prospect-lower-inflation-fed/823953/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Consumer sentiment rises from record low on prospect of lower inflation",
+    "body_orig": "&ldquo;Inflation likely peaked in May as the worst of the war in Iran energy shock hit consumers,&rdquo; Navy Federal Credit Union Chief Economist Heather Long said.",
+    "published": "2026-06-30T14:37:00",
+    "fetched": "2026-06-30T17:55:44.042106",
+    "title_uk": "Споживчий настрій зростає на фоні зниження інфляції",
+    "summary_uk": "Споживчий настрій покращився після досягнення рекордно низького рівня. Економіст Navy Federal Credit Union Хізер Лонг зазначила, що інфляція, ймовірно, досягла піку в травні через енергетичний шок в Ірані. Це може свідчити про позитивні зміни в економіці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Споживчий настрій зростає на фоні зниження інфляції",
+    "summary": "Споживчий настрій покращився після досягнення рекордно низького рівня. Економіст Navy Federal Credit Union Хізер Лонг зазначила, що інфляція, ймовірно, досягла піку в травні через енергетичний шок в Ірані. Це може свідчити про позитивні зміни в економіці.",
+    "link": "https://www.retaildive.com/news/consumer-sentiment-record-low-prospect-lower-inflation-fed/823953/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4d4780175aae",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/823995/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Rhode Island becomes first state to mandate staffing ratio for self-checkout",
+    "body_orig": "Legislation signed by Gov. Dan McKee and due to take effect in 2027 comes as other states also consider self-checkout restrictions.",
+    "published": "2026-06-30T14:00:00",
+    "fetched": "2026-06-30T17:55:44.042116",
+    "title_uk": "Род-Айленд став першим штатом з нормою на співвідношення персоналу для самообслуговування",
+    "summary_uk": "Губернатор Род-Айленду Дан МакКі підписав закон, який набуде чинності у 2027 році. Він встановлює вимоги до співвідношення персоналу на касах самообслуговування. Інші штати також розглядають подібні обмеження.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Род-Айленд став першим штатом з нормою на співвідношення персоналу для самообслуговування",
+    "summary": "Губернатор Род-Айленду Дан МакКі підписав закон, який набуде чинності у 2027 році. Він встановлює вимоги до співвідношення персоналу на касах самообслуговування. Інші штати також розглядають подібні обмеження.",
+    "link": "https://www.retaildive.com/news/rhode-island-first-state-mandate-staffing-ratio-self-checkout-grocery/823995/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'You have reached your specifi",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
