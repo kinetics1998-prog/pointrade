@@ -123580,5 +123580,927 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7706f4d078f5",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ceny-ofertowe-wynajmu-mieszkan-lipiec-2026-Raport-Bankier-pl-9167757.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny najmu w górę. Drożej niż przed wakacjami, ale lokalnie taniej niż rok temu",
+    "body_orig": "Czerwiec, już niemal bez wyjątku, przyniósł podwyżki w ofertach dotyczących najmu mieszkań – wynika z danych Otodom Analytics. Wakacje rozpoczęły tradycyjnie gorący okres nad morzem. Odpływ lokali na rzecz najmu krótkoterminowego natychmiast przełożył się na presję cenową w Trójmieście. W Gdańsku kwoty wpisywane w ogłoszeniach są jednak niższe niż przed rokiem, a nawet dwoma laty.",
+    "published": "2026-07-15T05:00:00",
+    "fetched": "2026-07-15T06:34:09.322406",
+    "title_uk": "Ціни на оренду в Польщі зросли, але нижчі ніж рік тому",
+    "summary_uk": "У червні 2026 року в Польщі спостерігається зростання цін на оренду квартир. Це пов'язано з сезонним попитом на короткострокову оренду, особливо в Труймясті. У Гданську ціни залишаються нижчими, ніж у червні 2025 та 2024 років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на оренду може вплинути на витрати дистриб'юторів, які орендують склади або офіси в Труймясті. Рекомендується переглянути бюджет на оренду.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на оренду в Польщі зросли, але нижчі ніж рік тому",
+    "summary": "У червні 2026 року в Польщі спостерігається зростання цін на оренду квартир. Це пов'язано з сезонним попитом на короткострокову оренду, особливо в Труймясті. У Гданську ціни залишаються нижчими, ніж у червні 2025 та 2024 років.",
+    "link": "https://www.bankier.pl/wiadomosc/Ceny-ofertowe-wynajmu-mieszkan-lipiec-2026-Raport-Bankier-pl-9167757.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1f9fe0de52a9",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "To ryzyko w S&P500 jest coraz większe. To już dawno nie jest szeroka gospodarka USA",
+    "body_orig": "Kupując ETF na indeks S&amp;P 500, tak naprawdę stawiasz zakład o kontynuację hossy technologicznej. Od 1990 roku udział sektora IT w indeksie SPX gwałtownie wzrósł z prawie 7% do blisko 40%. Warto jednak wiedzieć, że wiele kluczowych przedsiębiorstw będących de facto liderami innowacyjnej branży jest przypisanych do innych sektorów, jak np. Tesla, Amazon, czy Meta i Google. Z nimi ten udział jest znacznie większy, a to sprawia, że indeks amerykańskich blue chipów tak naprawdę często zachowuje się jak indeks technologicznej giełdy Nasadq i są na to dowody.",
+    "published": "2026-07-15T05:00:00",
+    "fetched": "2026-07-15T06:34:09.322425",
+    "title_uk": "Зростання ризиків в індексі S&P 500 через технологічний сектор",
+    "summary_uk": "Інвестиції в ETF на S&P 500 стають ставкою на технології. Частка IT-сектору в індексі зросла з 7% до 40% з 1990 року. Багато лідерів інновацій, як Tesla та Amazon, належать до інших секторів, що впливає на динаміку індексу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання ризиків в індексі S&P 500 через технологічний сектор",
+    "summary": "Інвестиції в ETF на S&P 500 стають ставкою на технології. Частка IT-сектору в індексі зросла з 7% до 40% з 1990 року. Багато лідерів інновацій, як Tesla та Amazon, належать до інших секторів, що впливає на динаміку індексу.",
+    "link": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "53a2cb367bb2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Unijna-komisarz-i-szef-Novo-Holdings-Europa-moze-miec-wlasnych-gigantow-technologicznych-Luka-do-zalatania-9168164.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Unijna komisarz i szef Novo Holdings: Europa może mieć własnych gigantów technologicznych. Luka do załatania",
+    "body_orig": "Europa nie ma problemu z innowacjami, lecz z ich skalowaniem. Ekaterina Zachariewa, europejska komisarz ds. start-upów, badań i innowacji, oraz Kasim Kutay, szef Novo Holdings, we wspólnej opinii na naszych łamach tłumaczą, jak nowy unijny fundusz o wartości 5 mld euro pomoże zmienić ten stan rzeczy. To największe w historii narzędzie, które ma sprawić, że przyszli technologiczni giganci nie przeniosą się w poszukiwaniu kapitału za ocean.",
+    "published": "2026-07-15T05:00:00",
+    "fetched": "2026-07-15T06:34:09.322449",
+    "title_uk": "ЄС запустить фонд на €5 млрд для підтримки технологічних стартапів",
+    "summary_uk": "Європейський Союз оголосив про створення фонду на €5 млрд для підтримки стартапів. Мета — допомогти європейським технологічним компаніям масштабуватися та залишатися в Європі, а не шукати фінансування в США. Ініціатива обговорюється комісаром ЄС з інновацій та керівником Novo Holdings.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цей фонд може стимулювати інновації в Польщі, що позитивно вплине на дистрибуцію нових технологічних продуктів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання інновацій в ЄС може призвести до появи нових продуктів на ринку, що варто врахувати при плануванні асортименту."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "ЄС запустить фонд на €5 млрд для підтримки технологічних стартапів",
+    "summary": "Європейський Союз оголосив про створення фонду на €5 млрд для підтримки стартапів. Мета — допомогти європейським технологічним компаніям масштабуватися та залишатися в Європі, а не шукати фінансування в США. Ініціатива обговорюється комісаром ЄС з інновацій та керівником Novo Holdings.",
+    "link": "https://www.bankier.pl/wiadomosc/Unijna-komisarz-i-szef-Novo-Holdings-Europa-moze-miec-wlasnych-gigantow-technologicznych-Luka-do-zalatania-9168164.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9ee0d0354c26",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/nsa-rozstrzygnal-spor-o-vat-od-ciezarowek-to-wazne-dla-firm/sthc3lg",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Czy trzeba mieć badania, żeby odliczyć VAT od ciężarówki? Jest wyrok NSA",
+    "body_orig": "Czy dodatkowe badanie techniczne i odpowiedni wpis w dowodzie rejestracyjnym są konieczne, aby móc odliczyć 100 proc. VAT od wydatków eksploatacyjnych samochodu ciężarowego? Rozstrzygnął to NSA w kolejnym wyroku.",
+    "published": "2026-07-15T04:31:16",
+    "fetched": "2026-07-15T06:34:10.913590",
+    "title_uk": "Верховний суд Польщі роз'яснив правила відшкодування VAT на вантажівки",
+    "summary_uk": "Верховний адміністративний суд Польщі ухвалив рішення щодо необхідності технічного обстеження для відшкодування 100% VAT на витрати експлуатації вантажівок. Суд встановив, що додаткові технічні перевірки та відповідні записи в реєстраційних документах не є обов'язковими. Це рішення може вплинути на податкові зобов'язання компаній, які використовують вантажівки.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Компанії, що займаються дистрибуцією вантажівок, можуть спростити процес відшкодування VAT, що зменшить адміністративні витрати.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Верховний суд Польщі роз'яснив правила відшкодування VAT на вантажівки",
+    "summary": "Верховний адміністративний суд Польщі ухвалив рішення щодо необхідності технічного обстеження для відшкодування 100% VAT на витрати експлуатації вантажівок. Суд встановив, що додаткові технічні перевірки та відповідні записи в реєстраційних документах не є обов'язковими. Це рішення може вплинути на податкові зобов'язання компаній, які використовують вантажівки.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/nsa-rozstrzygnal-spor-o-vat-od-ciezarowek-to-wazne-dla-firm/sthc3lg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b0c6ed3fb387",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/rzad-wprowadza-zmiany-w-najmie-krotkoterminowym-podatki-i-rejestr-obowiazkowe/rmb3bdb",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Najem krótkoterminowy. Rząd przyjął projekt. Tak ma się zmienić opodatkowanie",
+    "body_orig": "Rząd przyjął we wtorek 14 lipca projekt, który niesie duże zmiany w najmie krótkoterminowym. Będzie to miało również istotne skutki podatkowe, w PIT, VAT, a nawet podatku od nieruchomości.",
+    "published": "2026-07-15T04:25:54",
+    "fetched": "2026-07-15T06:34:10.913599",
+    "title_uk": "Польща змінює оподаткування короткострокового оренду",
+    "summary_uk": "Уряд Польщі ухвалив проект, що змінює правила оподаткування короткострокового оренду. Зміни торкнуться податків на доходи фізичних осіб, ПДВ та податку на нерухомість. Очікується, що нововведення вплинуть на ринок оренди в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на дистриб'юторів, які працюють з сервісами короткострокового оренду. Рекомендується переглянути стратегії співпраці з такими сервісами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща змінює оподаткування короткострокового оренду",
+    "summary": "Уряд Польщі ухвалив проект, що змінює правила оподаткування короткострокового оренду. Зміни торкнуться податків на доходи фізичних осіб, ПДВ та податку на нерухомість. Очікується, що нововведення вплинуть на ринок оренди в країні.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/rzad-wprowadza-zmiany-w-najmie-krotkoterminowym-podatki-i-rejestr-obowiazkowe/rmb3bdb",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ba7cd5aee00",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/stawki-orlenu-rosna-kiepskie-wiesci-dla-kierowcow/yy3nht1",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Coraz gorsze wieści dla kierowców. Rosną hurtowe stawki Orlenu",
+    "body_orig": "Relatywnie niskie ceny paliw odchodzą do przeszłości. Sprawdziliśmy najnowsze stawki hurtowe Orlenu, które zapowiadają to, co będzie działo się na stacjach. Najwięcej powodów do niepokoju mają ci kierowcy, którzy kupują olej napędowy i benzynę 98.",
+    "published": "2026-07-15T04:15:15",
+    "fetched": "2026-07-15T06:34:10.913607",
+    "title_uk": "Ціни на паливо в Польщі знову зростають",
+    "summary_uk": "Orlen підвищив оптові ціни на дизельне паливо та бензин 98. Це може призвести до зростання роздрібних цін на АЗС, що викликає занепокоєння у водіїв. Зниження цін на паливо, яке тривало останнім часом, закінчується.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання оптових цін може вплинути на ваші закупівлі. Рекомендується переглянути контракти з постачальниками та запланувати запаси на кілька місяців вперед.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на паливо може вплинути на витрати на логістику. Рекомендується переглянути стратегії закупівель та ціноутворення для збереження маржі."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на паливо в Польщі знову зростають",
+    "summary": "Orlen підвищив оптові ціни на дизельне паливо та бензин 98. Це може призвести до зростання роздрібних цін на АЗС, що викликає занепокоєння у водіїв. Зниження цін на паливо, яке тривало останнім часом, закінчується.",
+    "link": "https://businessinsider.com.pl/gospodarka/stawki-orlenu-rosna-kiepskie-wiesci-dla-kierowcow/yy3nht1",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "71d0af4e6661",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/tylko-w-300gospodarce/tak-energetyka-zmienia-rytm-pracy",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Fotowoltaika bije rekordy w słońcu. Pytanie, czy sieć wytrzyma nowe obciążenia",
+    "body_orig": "Polski system elektroenergetyczny zmienia rytm pracy. Przez dekady największe zapotrzebowanie na prąd przypadało zimą, a dziś coraz mocniej liczą się letnie fale upałów. Wysokie temperatury zwiększają zużycie energii przez klimatyzację, a w tym samym czasie fotowoltaika pracuje z największą mocą. To wymusza rozbudowę sieci przesyłowej i zmianę sposobu zarządzania przepływami energii w kraju.\nZmiana nie jest kosmetyczna. Polska energetyka była przez lata projektowana wokół dużych elektrowni węglowych i przemysłu skoncentrowanego głównie na południu. Teraz rośnie znaczenie źródeł odnawialnych, w tym farm fotowoltaicznych oraz morskiej energetyki wiatrowej, a wiele nowych źródeł powstaje na północy kraju.\nWłaśnie dlatego Polskie Sieci Elektroenergetyczne prowadzą inwestycje na rekordową skalę. PSE, czyli operator krajowego systemu przesyłowego, odpowiada za transport energii liniami wysokiego napięcia. Modernizacja obejmuje rozbudowę sieci oraz przebudowę stacji elektroenergetycznych, które muszą obsługiwać nowe kierunki przepływu prądu.\nEnergetyka musi przygotować się na letnie szczyty\nPrzez długi czas najtrudniejszym okresem, z którym mierzyła się energetyka, była zima. Krótszy dzień, ogrzewanie, większe zużycie energii przez firmy i gospodarstwa domowe sprawiały, że system energetyczny musiał przygotowywać się przede wszystkim na chłodne miesiące.\nTen układ zaczyna się zmieniać. Latem rośnie zużycie energii w biurach i mieszkaniach, bo coraz więcej osób korzysta z klimatyzacji. W czasie upałów chłodzenie budynków nie jest już luksusem zarezerwowanym dla galerii handlowych czy biurowców, lecz staje się normalną częścią codziennego funkcjonowania domów.\nDla operatorów sieci oznacza to większe znaczenie letnich szczytów zapotrzebowania. Szczyt to moment, w którym odbiorcy pobierają z systemu wyjątkowo dużo energii. Jeśli przypada w czasie wysokich temperatur, sieć musi jednocześnie obsłużyć większe zużycie i pracować w trudniejszych warunkach technicznych. To dlatego, że wysoka temperatura wpływa też na same linie przesyłowe, ogranicza ich możliwości transportu energii i zwiększa straty. Mówiąc prościej: w najgorętszych momentach sieć musi przenieść więcej energii, choć sama pracuje wtedy w mniej komfortowych warunkach.\nFotowoltaika pomaga, ale komplikuje zarządzanie\nLetni obraz energetyki ma jednak drugą stronę. Gdy rośnie zapotrzebowanie na chłodzenie, fotowoltaika zwykle produkuje najwięcej prądu. To może pomagać systemowi, bo część energii trafia od razu do odbiorców.\nProblem polega na tym, że produkcja ze słońca zależy od pogody i pory dnia. Operatorzy muszą więc stale równoważyć podaż i popyt, czyli dbać o to, aby ilość wytwarzanej energii odpowiadała temu, ile w danym momencie zużywają gospodarstwa domowe, firmy i przemysł.\n– Pod tym względem Polska coraz częściej mierzy się z wyzwaniami, które dotychczas były charakterystyczne dla Europy Południowej. Jeszcze niedawno największy pobór energii kojarzył się przede wszystkim z okresem zimowym, t",
+    "published": "2026-07-14T20:33:32",
+    "fetched": "2026-07-15T06:34:11.702513",
+    "title_uk": "Польща модернізує енергетичну мережу через зростання споживання",
+    "summary_uk": "Польща стикається зі змінами в енергетичному споживанні, оскільки літні температури підвищують попит на електрику через використання кондиціонерів. Це призводить до необхідності модернізації електромережі та збільшення потужностей відновлювальних джерел енергії. Поляки активно інвестують у нові сонячні та вітрові електростанції, щоб впоратися з новими викликами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростаюче споживання електрики влітку може вплинути на попит на продукти, що потребують енергії. Дистриб'ютори повинні враховувати зміни в споживанні при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в енергетичному споживанні можуть вплинути на категорії товарів, пов'язані з енергоефективністю. Рекомендується переглянути асортимент та акцентувати увагу на енергоощадних продуктах."
+    },
+    "tags": [
+      "інвестиції",
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща модернізує енергетичну мережу через зростання споживання",
+    "summary": "Польща стикається зі змінами в енергетичному споживанні, оскільки літні температури підвищують попит на електрику через використання кондиціонерів. Це призводить до необхідності модернізації електромережі та збільшення потужностей відновлювальних джерел енергії. Поляки активно інвестують у нові сонячні та вітрові електростанції, щоб впоратися з новими викликами.",
+    "link": "https://300gospodarka.pl/tylko-w-300gospodarce/tak-energetyka-zmienia-rytm-pracy",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6e7d38c8b735",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/co-drugi-polak-odklada-na-nagle-wydatki-emerytura-jest-znacznie-dalej-na-liscie",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Co drugi Polak odkłada na nagłe wydatki. Emerytura jest znacznie dalej na liście",
+    "body_orig": "Ponad połowa Polaków oszczędza przede wszystkim na nieprzewidziane wydatki – wynika z badania UCE Research przeprowadzonego na zlecenie Raisin. Finansową poduszkę bezpieczeństwa jako główny cel odkładania pieniędzy wybrało 55 proc. respondentów. Jednocześnie oszczędzający nie chcą zamrażać środków na słabo oprocentowanych lokatach.\nPoczucie bezpieczeństwa wygrywa z innymi motywacjami niezależnie od wieku i wysokości zarobków. Nawet wśród osób osiągających dochody powyżej 9 tys. zł netto miesięcznie 54,7 proc. odkłada oszczędności głównie z myślą o nagłych wydatkach.\nZnacznie mniejsza grupa traktuje oszczędzanie przede wszystkim jako sposób na zwiększanie majątku. Pomnażanie kapitału jest głównym celem dla 20,7 proc. ankietowanych.\nGotówka i depozyty dominują w portfelach Polaków\nOstrożne podejście do finansów widać również w danych Narodowego Banku Polskiego. Na koniec czwartego kwartału 2025 r. gotówka i depozyty bankowe odpowiadały za 48,6 proc. aktywów finansowych gospodarstw domowych.\nInstrumenty kapitałowe oraz fundusze inwestycyjne miały łącznie 25,5 proc. udziału. Polacy trzymają więc znacznie większą część pieniędzy w rozwiązaniach, które łatwo zrozumieć i które nie podlegają tak dużym wahaniom jak akcje czy jednostki funduszy.\n– Wyniki naszego badania pokazują, że dla większości Polaków oszczędności są przede wszystkim sposobem na budowanie poczucia bezpieczeństwa oraz finansowego spokoju. Nie oznacza to jednak, że nie zwracają uwagi na oprocentowanie. Oszczędzający coraz częściej poszukują rozwiązań, które łączą stabilność i przewidywalność z atrakcyjnymi, gwarantowanymi odsetkami – mówi Michał Piątek, dyrektor generalny Raisin w Polsce.\nNa konkretny wydatek, taki jak wakacje lub remont mieszkania, odkłada 35,3 proc. badanych. Cele długoterminowe wybiera 17,9 proc. respondentów, a przyszłą emeryturę finansuje z myślą o przyszłości 14,2 proc.\nIm starsi Polacy, tym ważniejsza poduszka bezpieczeństwa\nObawa przed nagłymi wydatkami łączy wszystkie grupy wiekowe, choć jej znaczenie rośnie wraz z wiekiem. Zabezpieczenie na nieprzewidziane sytuacje wybrało 50 proc. osób w wieku od 18 do 24 lat oraz 52,5 proc. respondentów między 25. a 34. rokiem życia. W starszej grupie osób od 65 do 74 lat taki cel wskazało już 64,1 proc. badanych. Starsi respondenci częściej koncentrują się więc na ochronie zgromadzonych środków niż na ich szybkim pomnażaniu.\nDochody zmieniają część finansowych priorytetów, ale nie usuwają potrzeby bezpieczeństwa finansowego. Wśród osób zarabiających ponad 9 tys. zł netto miesięcznie 34,9 proc. uznaje zwiększanie kapitału za jeden z głównych powodów oszczędzania. Nadal jednak większa grupa buduje przede wszystkim rezerwę na trudniejsze chwile.\n– Oszczędności pełnią znacznie szerszą funkcję niż tylko finansową. Dają poczucie większej kontroli nad domowym budżetem oraz pomagają ograniczyć stres związany z niepewnością gospodarczą – komentuje Michał Piątek.\nOszczędzanie? Tak, ale oprocentowanie zniechęca\nBezpieczeństwo nie wysta",
+    "published": "2026-07-14T19:27:35",
+    "fetched": "2026-07-15T06:34:11.702559",
+    "title_uk": "Більшість поляків заощаджує на непередбачені витрати",
+    "summary_uk": "55% поляків відкладають гроші на непередбачені витрати, згідно з дослідженням UCE Research. Лише 21% респондентів заощаджують для збільшення капіталу. Готівка та депозити складають 49% фінансових активів домогосподарств. 35% опитаних заощаджують на конкретні витрати, такі як відпустка чи ремонт.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зосередьтеся на пропозиціях, що забезпечують стабільність і привабливі відсотки, оскільки поляки шукають безпечні інвестиції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростаючий інтерес до безпечних фінансових інструментів. Це може вплинути на попит на товари, що асоціюються з фінансовою стабільністю."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Більшість поляків заощаджує на непередбачені витрати",
+    "summary": "55% поляків відкладають гроші на непередбачені витрати, згідно з дослідженням UCE Research. Лише 21% респондентів заощаджують для збільшення капіталу. Готівка та депозити складають 49% фінансових активів домогосподарств. 35% опитаних заощаджують на конкретні витрати, такі як відпустка чи ремонт.",
+    "link": "https://300gospodarka.pl/news/co-drugi-polak-odklada-na-nagle-wydatki-emerytura-jest-znacznie-dalej-na-liscie",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8462fc7a1ef2",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/gastronomy-becomes-high-value-service-export-for-turkiye-224387",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Gastronomy becomes high-value service export for Türkiye",
+    "body_orig": "Gastronomy has evolved into a high-value service export sector for Türkiye rather than merely an element supporting tourism, according to Hediye Güral Gür, board member of the Service Exporters’ Association (HİB) and chair of the Tourism, Travel and Gastronomy Services Committee.",
+    "published": "2026-07-15T05:23:19",
+    "fetched": "2026-07-15T06:34:19.566837",
+    "title_uk": "Гастрономія стає важливим експортом послуг для Туреччини",
+    "summary_uk": "Гастрономія в Туреччині перетворилася на високоякісний експорт послуг, а не лише на елемент туризму. Це підтверджує Хедіє Гюрал Гюр, член правління Асоціації експортерів послуг. Вона підкреслила зростаючу роль гастрономії у економіці країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це відкриває нові можливості для турецьких виробників, які можуть експортувати гастрономічні продукти до інших країн, включаючи Україну.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Гастрономія стає важливим експортом послуг для Туреччини",
+    "summary": "Гастрономія в Туреччині перетворилася на високоякісний експорт послуг, а не лише на елемент туризму. Це підтверджує Хедіє Гюрал Гюр, член правління Асоціації експортерів послуг. Вона підкреслила зростаючу роль гастрономії у економіці країни.",
+    "link": "https://www.hurriyetdailynews.com/gastronomy-becomes-high-value-service-export-for-turkiye-224387",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a1163357f5d0",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/minister-welcomes-ratification-of-fta-by-ukrainian-parliament-224386",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Minister welcomes ratification of FTA by Ukrainian parliament",
+    "body_orig": "Turkish Trade Minister Ömer Bolat has hailed the ratification of the free trade agreement (FTA) by the Ukrainian parliament as “another historic milestone.”",
+    "published": "2026-07-15T05:18:30",
+    "fetched": "2026-07-15T06:34:19.566854",
+    "title_uk": "Туреччина вітає ратифікацію угоди про вільну торгівлю Україною",
+    "summary_uk": "Турецький міністр торгівлі Ömer Bolat привітав ратифікацію угоди про вільну торгівлю (FTA) українським парламентом. Це рішення вважається важливим кроком у розвитку економічних відносин між Україною та Туреччиною. Очікується, що угода сприятиме зростанню торгівлі між країнами.",
+    "what_it_means": {
+      "ua_importer": "Ратифікація FTA відкриває нові можливості для українських імпортерів товарів з Туреччини, зокрема в секторах текстилю та продуктів харчування.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це створює нові можливості для турецьких виробників, які можуть розширити свій ринок в Україні без митних бар'єрів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина вітає ратифікацію угоди про вільну торгівлю Україною",
+    "summary": "Турецький міністр торгівлі Ömer Bolat привітав ратифікацію угоди про вільну торгівлю (FTA) українським парламентом. Це рішення вважається важливим кроком у розвитку економічних відносин між Україною та Туреччиною. Очікується, що угода сприятиме зростанню торгівлі між країнами.",
+    "link": "https://www.hurriyetdailynews.com/minister-welcomes-ratification-of-fta-by-ukrainian-parliament-224386",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad66a205ee39",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/salariul-mediu-net-a-crescut-in-mai-cu-3-2-fata-de-perioada-similara-23195834",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Salariul mediu net a crescut în mai cu 3,2% faţă de perioada similară din 2025, la 5.684 lei, dar, raportat la inflaţie, câştigul real s-a diminuat cu 7%",
+    "body_orig": "",
+    "published": "2026-07-15T06:16:37",
+    "fetched": "2026-07-15T06:34:24.752421",
+    "title_uk": "Середня зарплата в Румунії зросла на 3% у травні 2026",
+    "summary_uk": "Середня чиста зарплата в Румунії у травні 2026 року становила 5.684 леїв, що на 3% більше, ніж у травні 2025 року. Однак, з урахуванням інфляції, реальний дохід зменшився на 7%. Це свідчить про зниження купівельної спроможності населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження реального доходу населення може вплинути на попит на товари. Рекомендується переглянути стратегії цін та промо-акцій."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Середня зарплата в Румунії зросла на 3% у травні 2026",
+    "summary": "Середня чиста зарплата в Румунії у травні 2026 року становила 5.684 леїв, що на 3% більше, ніж у травні 2025 року. Однак, з урахуванням інфляції, реальний дохід зменшився на 7%. Це свідчить про зниження купівельної спроможності населення.",
+    "link": "https://www.zf.ro/zf-24/salariul-mediu-net-a-crescut-in-mai-cu-3-2-fata-de-perioada-similara-23195834",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19c20af60a21",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-teodor-blidarus-ceo-cofondator-fintechos-platforma-23195455",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Teodor Blidăruş, CEO şi cofondator, FintechOS, platformă AI pentru bănci şi asigurători: Pe platforma noastră, companiile americane folosesc capabilităţile de AI aproape dublu faţă de cele europene, deşi sunt mai mici. În România şi în regiune, oamenii sunt foarte competenţi, dar îi ţine pe loc reglementarea",
+    "body_orig": "FintechOS, una dintre cele mai promiţătoare companii de tehnologie pornite din România, vinde aceeaşi platformă băncilor şi asigurătorilor din Europa, din Marea Britanie şi din Statele Unite, aşa că poate vedea, pe propriile statistici de utilizare, cât de mult o foloseşte fiecare piaţă. Iar diferenţa este semnificativă: clienţii americani folosesc funcţiile de inteligenţă artificială de aproape două ori mai intens decât cei europeni, deşi sunt companii mai mici.",
+    "published": "2026-07-15T05:00:00",
+    "fetched": "2026-07-15T06:34:24.752461",
+    "title_uk": "Американські компанії активніше використовують AI, ніж європейські",
+    "summary_uk": "FintechOS повідомляє, що американські банки та страховики використовують функції штучного інтелекту майже вдвічі інтенсивніше, ніж європейські. Хоча американські компанії менші за розміром, їхня активність у сфері AI значно вища. Регуляторні обмеження стримують розвиток AI в Румунії та регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські компанії активніше використовують AI, ніж європейські",
+    "summary": "FintechOS повідомляє, що американські банки та страховики використовують функції штучного інтелекту майже вдвічі інтенсивніше, ніж європейські. Хоча американські компанії менші за розміром, їхня активність у сфері AI значно вища. Регуляторні обмеження стримують розвиток AI в Румунії та регіоні.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-teodor-blidarus-ceo-cofondator-fintechos-platforma-23195455",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d5b26f0e975",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/top-10-companii-antreprenoriale-din-energie-de-la-2-mld-lei-afaceri-23195650",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Top 10 companii antreprenoriale din energie: de la 2 mld. lei afaceri cumulate în 2020 la 10 mld. lei anul trecut, creştere adusă de valul care schimbă sistemul energetic din temelii",
+    "body_orig": "Producători de baterii, de transformatoare, dezvoltatori şi constructori de proiecte de energie verde la cheie, investitori în stocare de energie, companii care migrează spre modele integrate, de la producţie de energie multi-resursă la client, toate s-au dovedit în ultimii ani pariuri câştigate făcute de antreprenorii din energie.",
+    "published": "2026-07-14T21:08:00",
+    "fetched": "2026-07-15T06:34:24.752470",
+    "title_uk": "Топ-10 компаній у енергетиці Румунії: зростання до €2.1 млрд",
+    "summary_uk": "Компанії у сфері енергетики Румунії показали зростання обсягу бізнесу з €0.5 млрд у 2020 до €2.1 млрд у 2022. Зростання зумовлене переходом на зелену енергію, інвестиціями у зберігання енергії та інтегрованими моделями виробництва. Основні учасники — виробники батарей, трансформаторів та розробники проектів з енергії з відновлювальних джерел.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Топ-10 компаній у енергетиці Румунії: зростання до €2.1 млрд",
+    "summary": "Компанії у сфері енергетики Румунії показали зростання обсягу бізнесу з €0.5 млрд у 2020 до €2.1 млрд у 2022. Зростання зумовлене переходом на зелену енергію, інвестиціями у зберігання енергії та інтегрованими моделями виробництва. Основні учасники — виробники батарей, трансформаторів та розробники проектів з енергії з відновлювальних джерел.",
+    "link": "https://www.zf.ro/companii/energie/top-10-companii-antreprenoriale-din-energie-de-la-2-mld-lei-afaceri-23195650",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "14931f929805",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/legislatia-privind-criptomonedele-este-neclara-si-poate-genera-litigii-fiscale-avocat_959249.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Legislaţia privind criptomonedele este neclară şi poate genera litigii fiscale – avocat",
+    "body_orig": "Lipsa unor reguli contabile şi fiscale clare pentru societăţile care operează cu criptoactive poate genera litigii între contribuabili şi autorităţile fiscale, în contextul noilor obligaţii de raportare şi al controalelor anunţate de ANAF în domeniu, susţine avocatul Luisiana Dobrinescu, partener Dobrinescu Dobrev Haraga.",
+    "published": "2026-07-15T05:40:09",
+    "fetched": "2026-07-15T06:34:26.699344",
+    "title_uk": "Неясність у законодавстві щодо криптовалют може призвести до спорів",
+    "summary_uk": "Відсутність чітких облікових і податкових норм для компаній, що працюють з криптоактивами, може викликати конфлікти між платниками податків і фіскальними органами. Це пов'язано з новими вимогами до звітності та контролю з боку ANAF. Юрист Луїзіана Добріеску підкреслює ризики, які виникають у цій ситуації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Неясність у законодавстві щодо криптовалют може призвести до спорів",
+    "summary": "Відсутність чітких облікових і податкових норм для компаній, що працюють з криптоактивами, може викликати конфлікти між платниками податків і фіскальними органами. Це пов'язано з новими вимогами до звітності та контролю з боку ANAF. Юрист Луїзіана Добріеску підкреслює ризики, які виникають у цій ситуації.",
+    "link": "https://www.economica.net/legislatia-privind-criptomonedele-este-neclara-si-poate-genera-litigii-fiscale-avocat_959249.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2577cf31ffe3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/canada-vrea-un-acord-comercial-cu-mercosur-pana-la-sfarsitul-anului_959246.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Canada vrea un acord comercial cu Mercosur până la sfârşitul anului",
+    "body_orig": "Canada încearcă să încheie un acord comercial cu Mercosur înainte de sfârşitul anului, cu scopul de a găsi alţi parteneri în afară de Statele Unite, a declarat marţi ministrul său de externe, Anita Anand, în timpul unei vizite în Brazilia, transmite AFP.",
+    "published": "2026-07-15T04:42:41",
+    "fetched": "2026-07-15T06:34:26.699353",
+    "title_uk": "Канада прагне укласти угоду з Меркосур до кінця року",
+    "summary_uk": "Канада намагається завершити угоду з Меркосур до кінця року, щоб знайти нових партнерів, окрім США. Міністр закордонних справ Канади, Аніта Ананд, оголосила про це під час візиту до Бразилії. Угода може розширити торговельні можливості для Канади в Латинській Америці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Канада прагне укласти угоду з Меркосур до кінця року",
+    "summary": "Канада намагається завершити угоду з Меркосур до кінця року, щоб знайти нових партнерів, окрім США. Міністр закордонних справ Канади, Аніта Ананд, оголосила про це під час візиту до Бразилії. Угода може розширити торговельні можливості для Канади в Латинській Америці.",
+    "link": "https://www.economica.net/canada-vrea-un-acord-comercial-cu-mercosur-pana-la-sfarsitul-anului_959246.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "794bf39c17f4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/agricultura-a-produs-anul-trecut-1177-miliarde-de-lei-fermierii-au-dus-in-hambare-cea-mai-mare-productie-de-cereale-din-2022-incoace_958084.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Agricultura a produs anul trecut 117,7 miliarde de lei. Fermierii au dus în hambare cea mai mare producție de cereale din 2022 încoace",
+    "body_orig": "Fermierii au generat anul trecut 117,7 miliarde de lei din producția agricolă realizată, cu peste 17% mai mult decât în 2024, un an agricol foarte slab.",
+    "published": "2026-07-14T19:10:11",
+    "fetched": "2026-07-15T06:34:26.699372",
+    "title_uk": "Румунські фермери отримали €117.7 млрд від агровиробництва",
+    "summary_uk": "У 2025 році румунські фермери заробили €117.7 млрд, що на 17% більше, ніж у 2024. Це сталося завдяки рекордному збору зернових. Сектор агровиробництва демонструє позитивну динаміку після слабкого року.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунські фермери отримали €117.7 млрд від агровиробництва",
+    "summary": "У 2025 році румунські фермери заробили €117.7 млрд, що на 17% більше, ніж у 2024. Це сталося завдяки рекордному збору зернових. Сектор агровиробництва демонструє позитивну динаміку після слабкого року.",
+    "link": "https://www.economica.net/agricultura-a-produs-anul-trecut-1177-miliarde-de-lei-fermierii-au-dus-in-hambare-cea-mai-mare-productie-de-cereale-din-2022-incoace_958084.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "327f07a44ab4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/tranzactie-in-brokerajul-de-asigurari-antonio-babeti-fost-globasig-vrea-sa-redevina-antreprenor-dupa-ce-si-a-vandut-prima-companie-catre-liderul-safety-broker-unde-a-fost-un-an-director_959129.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Tranzacție în brokerajul de asigurări. Antonio Babeti, fost Globasig, vrea să redevină antreprenor, după ce și-a vândut prima companie către liderul Safety Broker, unde a fost un an director",
+    "body_orig": "Antonio Babeti, fondatorul Globasig, intermediar de asigurări important vândut la începutul anului 2024 către Safety Broker, liderul pieței, unde Babeti a fost și angajat, vrea să redevină antreprenor în domeniu. El a achiziționat Fanbrok, un intermediar mic, din Vâlcea, și așteaptă acum avizul Autorității de Supraveghere Financiară (ASF) pentru tranzacție.",
+    "published": "2026-07-14T19:09:09",
+    "fetched": "2026-07-15T06:34:26.699382",
+    "title_uk": "Антоніо Бабеті повертається в бізнес, купивши Fanbrok",
+    "summary_uk": "Антоніо Бабеті, засновник Globasig, продав компанію Safety Broker і тепер купив Fanbrok, невеликий страховий посередник. Він чекає на схвалення від Авторитету фінансового нагляду Румунії для завершення угоди. Бабеті планує знову стати підприємцем у сфері страхування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Антоніо Бабеті повертається в бізнес, купивши Fanbrok",
+    "summary": "Антоніо Бабеті, засновник Globasig, продав компанію Safety Broker і тепер купив Fanbrok, невеликий страховий посередник. Він чекає на схвалення від Авторитету фінансового нагляду Румунії для завершення угоди. Бабеті планує знову стати підприємцем у сфері страхування.",
+    "link": "https://www.economica.net/tranzactie-in-brokerajul-de-asigurari-antonio-babeti-fost-globasig-vrea-sa-redevina-antreprenor-dupa-ce-si-a-vandut-prima-companie-catre-liderul-safety-broker-unde-a-fost-un-an-director_959129.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e3553927f32b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/energie-solara-pentru-fabricile-de-mancare-grupul-carmistin-a-luat-autorizatia-de-la-anre-pentru-doua-parcuri-fotovoltaice_959172.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Energie solară pentru fabricile de mâncare. Grupul Carmistin a luat autorizația de la ANRE pentru două parcuri fotovoltaice",
+    "body_orig": "Avicarvil, unul dintre cei mai mari producători de carne de pui din România, parte a grupului antreprenorial Carmistin, a primit de la ANRE autorizația de înființare pentru două parcuri fotovoltaice, cu finanțare din Fondul de Modernizare.",
+    "published": "2026-07-14T19:06:15",
+    "fetched": "2026-07-15T06:34:26.699391",
+    "title_uk": "Carmistin отримав дозвіл на два сонячні парки в Румунії",
+    "summary_uk": "Avicarvil, один з найбільших виробників курятини в Румунії, отримав дозвіл від ANRE на створення двох сонячних електростанцій. Проект фінансується з Фонду модернізації. Це дозволить знизити витрати на енергію та підвищити екологічність виробництва.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Carmistin отримав дозвіл на два сонячні парки в Румунії",
+    "summary": "Avicarvil, один з найбільших виробників курятини в Румунії, отримав дозвіл від ANRE на створення двох сонячних електростанцій. Проект фінансується з Фонду модернізації. Це дозволить знизити витрати на енергію та підвищити екологічність виробництва.",
+    "link": "https://www.economica.net/energie-solara-pentru-fabricile-de-mancare-grupul-carmistin-a-luat-autorizatia-de-la-anre-pentru-doua-parcuri-fotovoltaice_959172.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "13b4cd155e7c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/topul-rentabilitatii-in-comertul-alimentar-cine-a-fost-cel-mai-profitabil-dintre-kaufland-lidl-mega-image-sau-carrefour-surpriza-produsa-de-francezi_956154.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Topul rentabilității în comerțul alimentar. Cine a fost cel mai profitabil dintre Kaufland, Lidl, Mega Image sau Carrefour. Surpriza produsă de francezi",
+    "body_orig": "Dintre cele mai mari zece lanțuri de magazine alimentare, trei au pierdut bani anul trecut, surpriza venind de la Carrefour, business preluat între timp de Pavăl Holding. Cele mai mari rate de profit au fost generate, în schimb, de grupul german Schwarz, prin cele două entități ale sale, Lidl și Kaufland. În 2025, doar Lidl și-a securizat un profit mai mare de 1 miliard de lei.",
+    "published": "2026-07-14T19:03:57",
+    "fetched": "2026-07-15T06:34:26.699401",
+    "title_uk": "Kaufland і Lidl лідирують за прибутковістю в ритейлі Румунії",
+    "summary_uk": "Три з десяти найбільших ритейлерів Румунії зазнали збитків у 2025 році. Найбільші прибутки отримали Lidl і Kaufland, тоді як Carrefour, який перейшов під управління Pavăl Holding, здивував збитками. Lidl забезпечив прибуток понад 1 млрд леїв.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Результати фінансової діяльності ритейлерів можуть вплинути на стратегії закупівель і переговори з постачальниками в румунському ринку. Рекомендується аналізувати конкурентів, щоб адаптувати свої пропозиції."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Kaufland і Lidl лідирують за прибутковістю в ритейлі Румунії",
+    "summary": "Три з десяти найбільших ритейлерів Румунії зазнали збитків у 2025 році. Найбільші прибутки отримали Lidl і Kaufland, тоді як Carrefour, який перейшов під управління Pavăl Holding, здивував збитками. Lidl забезпечив прибуток понад 1 млрд леїв.",
+    "link": "https://www.economica.net/topul-rentabilitatii-in-comertul-alimentar-cine-a-fost-cel-mai-profitabil-dintre-kaufland-lidl-mega-image-sau-carrefour-surpriza-produsa-de-francezi_956154.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "88f688eab764",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/neko-health-raises-700m-interview/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Neko raises $700m Series C: ‘We now have 100k members and are profitable at clinic level’",
+    "body_orig": "",
+    "published": "2026-07-15T05:00:26",
+    "fetched": "2026-07-15T06:34:07.277963",
+    "title_uk": "Neko залучає $700 млн у раунді Series C та виходить на прибуток",
+    "summary_uk": "Стартап Neko залучив $700 млн у раунді Series C, що дозволило йому досягти 100 тис. учасників та стати прибутковим на рівні клінік. Кошти будуть спрямовані на розширення послуг та покращення технологій. Це підтверджує зростаючий інтерес інвесторів до медичних стартапів у Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Neko залучає $700 млн у раунді Series C та виходить на прибуток",
+    "summary": "Стартап Neko залучив $700 млн у раунді Series C, що дозволило йому досягти 100 тис. учасників та стати прибутковим на рівні клінік. Кошти будуть спрямовані на розширення послуг та покращення технологій. Це підтверджує зростаючий інтерес інвесторів до медичних стартапів у Європі.",
+    "link": "https://sifted.eu/articles/neko-health-raises-700m-interview/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ebe6e4b7897e",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Float raises €4.5 million to help European tech founders scale without equity dilution or needless bureaucracy",
+    "body_orig": "Float, a Stockholm-based revenue-based financing platform for tech SMEs, today announced a €4.5 million Series A funding round to close the European tech funding gap. The round was led by Hamburg-based CHAPTERS Group AG, a holding company investing in attractive small and medium-sized enterprises across various industries. Its portfolio includes Swiss wealth management software provider [&#8230;]\nThe post Float raises €4.5 million to help European tech founders scale without equity dilution or needless bureaucracy appeared first on EU-Startups.",
+    "published": "2026-07-15T06:00:39",
+    "fetched": "2026-07-15T06:34:08.500038",
+    "title_uk": "Float залучив €4.5 млн для фінансування європейських стартапів",
+    "summary_uk": "Float, фінансова платформа з Стокгольма, оголосила про залучення €4.5 млн у раунді Series A. Інвестиції спрямовані на закриття фінансового розриву у європейському технологічному секторі. Раунд очолила компанія CHAPTERS Group AG з Гамбурга, що інвестує в малі та середні підприємства.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Float залучив €4.5 млн для фінансування європейських стартапів",
+    "summary": "Float, фінансова платформа з Стокгольма, оголосила про залучення €4.5 млн у раунді Series A. Інвестиції спрямовані на закриття фінансового розриву у європейському технологічному секторі. Раунд очолила компанія CHAPTERS Group AG з Гамбурга, що інвестує в малі та середні підприємства.",
+    "link": "https://www.eu-startups.com/2026/07/float-raises-e4-5-million-to-help-european-tech-founders-scale-without-sacrificing-equity-and-tackle-unnecessary-bureaucracy/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3c85a6fafb15",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/yak-ukrayinskii-biznes-avtomatizuje-povtoryuvani-dzvinki-dosvid-ringostat-texno-yizaka-vodaland-ta-simple-academy-9eze2m",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як український бізнес автоматизує повторювані дзвінки: досвід Ringostat, «Техно Їжака», Vodaland та Simple Academy",
+    "body_orig": "Ще кілька років тому автоматизація голосових дзвінків означала одне. Робот телефонує, зачитує текст, просить натиснути цифру і майже гарантовано викликає бажання покласти слухавку.",
+    "published": "2026-07-15T05:32:09",
+    "fetched": "2026-07-15T06:34:15.831443",
+    "title_uk": "Автоматизація дзвінків: досвід українських компаній",
+    "summary_uk": "Компанії Ringostat, «Техно Їжак», Vodaland та Simple Academy впроваджують автоматизацію голосових дзвінків. Це дозволяє зменшити час на обробку повторюваних запитів та підвищити ефективність комунікацій. Технології змінюють підходи до обслуговування клієнтів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Розгляньте можливість впровадження автоматизації дзвінків для підвищення ефективності комунікацій з клієнтами та зменшення витрат на обробку запитів."
+    },
+    "tags": [
+      "стартапи",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Автоматизація дзвінків: досвід українських компаній",
+    "summary": "Компанії Ringostat, «Техно Їжак», Vodaland та Simple Academy впроваджують автоматизацію голосових дзвінків. Це дозволяє зменшити час на обробку повторюваних запитів та підвищити ефективність комунікацій. Технології змінюють підходи до обслуговування клієнтів.",
+    "link": "https://speka.ua/business/yak-ukrayinskii-biznes-avtomatizuje-povtoryuvani-dzvinki-dosvid-ringostat-texno-yizaka-vodaland-ta-simple-academy-9eze2m",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a92d1702ffc7",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/novyny-fashion-ryteyilu-guide-cher17-coosh-bevza-one-by-one/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Новини fashion-ритейлу: guide, Cher’17, Coosh, Bevza, One by One",
+    "body_orig": "Перший флагманський бутик Bevza у Києві, вихід бренду Kachorovska на міжнародний ринок, розширення присутності One by One у Польщі, нові локації guide, Vloria, Coosh та інші новини fashion-ритейлу.\nНовий Sinsay у Кам’янському\n14 липня польський бренд Sinsay відкриває новий магазин у Кам’янському на…",
+    "published": "2026-07-15T02:45:24",
+    "fetched": "2026-07-15T06:34:31.352525",
+    "title_uk": "Нові магазини та вихід брендів на міжнародний ринок",
+    "summary_uk": "Bevza відкриває флагманський бутик у Києві, Kachorovska виходить на міжнародний ринок, а One by One розширює присутність у Польщі. Також відкривається новий Sinsay у Кам’янському. Інші бренди, такі як guide та Coosh, також анонсують нові локації.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Розширення присутності брендів може вплинути на конкуренцію в сегменті fashion-ритейлу. Рекомендується стежити за новими локаціями та адаптувати стратегії закупівель."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Нові магазини та вихід брендів на міжнародний ринок",
+    "summary": "Bevza відкриває флагманський бутик у Києві, Kachorovska виходить на міжнародний ринок, а One by One розширює присутність у Польщі. Також відкривається новий Sinsay у Кам’янському. Інші бренди, такі як guide та Coosh, також анонсують нові локації.",
+    "link": "https://rau.ua/news/novyny-fashion-ryteyilu-guide-cher17-coosh-bevza-one-by-one/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
