@@ -133560,5 +133560,754 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "f26257e28a14",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kilka-rat-mozna-zamienic-w-jedna-VeloBank-oferuje-konsolidacje-bez-prowizji-9169752.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kilka rat można zamienić w jedną. VeloBank oferuje konsolidację bez prowizji",
+    "body_orig": "Konsolidacja pozwala uporządkować spłatę kilku kredytów i pożyczek oraz zastąpić je jednym zobowiązaniem. W ofercie VeloBanku finansowanie dostępne jest bez prowizji, a przy odpowiedniej zdolności kredytowej można również otrzymać dodatkową gotówkę. Bank umożliwia ponadto odroczenie pierwszej raty nawet o trzy miesiące.",
+    "published": "2026-07-18T07:00:00",
+    "fetched": "2026-07-18T06:25:58.218668",
+    "title_uk": "VeloBank пропонує консолидацію кредитів без комісії",
+    "summary_uk": "VeloBank запровадив послугу консолидації кредитів без комісії. Клієнти можуть об'єднати кілька кредитів в один, отримавши можливість додаткового фінансування за умови доброї кредитної історії. Також банк пропонує відстрочку першої виплати до трьох місяців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця послуга може зацікавити дистриб'юторів, які мають кілька кредитів. Вони можуть скористатися консолидацією для зменшення фінансового навантаження.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "фінанси",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "VeloBank пропонує консолидацію кредитів без комісії",
+    "summary": "VeloBank запровадив послугу консолидації кредитів без комісії. Клієнти можуть об'єднати кілька кредитів в один, отримавши можливість додаткового фінансування за умови доброї кредитної історії. Також банк пропонує відстрочку першої виплати до трьох місяців.",
+    "link": "https://www.bankier.pl/wiadomosc/Kilka-rat-mozna-zamienic-w-jedna-VeloBank-oferuje-konsolidacje-bez-prowizji-9169752.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e5b7936de4bf",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/media/ile-google-zaplaci-polskim-wydawcom-zdecyduje-uke/13g19jc",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "UKE decyduje, ile Google zapłaci polskim wydawcom. W grze setki milionów złotych",
+    "body_orig": "Urząd Komunikacji Elektronicznej zdecyduje, ile Google zapłaci polskim wydawcom medialnym za dostęp do treści.",
+    "published": "2026-07-17T19:45:08",
+    "fetched": "2026-07-18T06:26:00.105906",
+    "title_uk": "UKE вирішує, скільки Google заплатить польським медіа",
+    "summary_uk": "Управління електронних комунікацій Польщі визначає, яку суму Google сплатить польським медіа за доступ до їх контенту. Очікується, що мова йде про сотні мільйонів злотих. Це рішення вплине на фінансові відносини між технологічними компаніями та медіа.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може вплинути на рекламні бюджети польських медіа, що, в свою чергу, може позначитися на дистрибуції контенту та співпраці з рекламодавцями.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "UKE вирішує, скільки Google заплатить польським медіа",
+    "summary": "Управління електронних комунікацій Польщі визначає, яку суму Google сплатить польським медіа за доступ до їх контенту. Очікується, що мова йде про сотні мільйонів злотих. Це рішення вплине на фінансові відносини між технологічними компаніями та медіа.",
+    "link": "https://businessinsider.com.pl/biznes/media/ile-google-zaplaci-polskim-wydawcom-zdecyduje-uke/13g19jc",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "090928f22c8a",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/gaz-odpowiada-za-wiekszosc-kosztow-nawozow-doplaty-nie-usuna-tego-problemu",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gaz odpowiada za większość kosztów nawozów. Dopłaty nie usuną tego problemu",
+    "body_orig": "Polska ma otrzymać 66,6 mln euro unijnego wsparcia dla rolników dotkniętych wzrostem cen nawozów. Po dołożeniu pieniędzy z budżetu krajowego łączna pula pomocy może przekroczyć 850 mln zł. Nowy mechanizm pozwoli pokryć do 80 proc. dodatkowych kosztów, jednak część europosłów ocenia, że dopłaty do nawozów i tak duża skala przedsięwzięcia nie rozwiążą problemu wysokich cen.\nRada Unii Europejskiej formalnie zatwierdziła zmiany 13 lipca. Przepisy wejdą w życie po ich publikacji w Dzienniku Urzędowym UE. Wcześniej europosłowie przyjęli je w trybie pilnym jako element wspólnej polityki rolnej.\nBruksela reaguje w ten sposób na gwałtowny wzrost kosztów produkcji rolnej po eskalacji konfliktu między Stanami Zjednoczonymi a Iranem. Zakłócenia w dostawach surowców podbiły ceny gazu, który odpowiada za większość kosztów wytwarzania nawozów azotowych.\nPolska otrzyma najwięcej pieniędzy\nKomisja Europejska zamierza uruchomić łącznie 540 mln euro. Największa część tej kwoty trafi do Polski, która ma dostać 66,6 mln euro na dopłaty do nawozów.\nPaństwa członkowskie będą mogły zwiększyć pomoc krajową do 200 proc. otrzymanego przydziału unijnego. Gdyby wszystkie wykorzystały ten limit, łączna wartość wsparcia w UE wzrosłaby do około 1,5 mld euro.\nMinisterstwo Rolnictwa i Rozwoju Wsi zapowiedziało 10 lipca, że Polska sięgnie po pełny dostępny limit współfinansowania. W rezultacie krajowy program może dysponować kwotą przekraczającą 850 mln zł.\n– Od kilku miesięcy walczyliśmy o to, aby po wybuchu konfliktu pomiędzy Stanami Zjednoczonymi i Iranem i po wzrostach cen, szczególnie gazu, a co za tym idzie drastycznym wzroście cen nawozów, wesprzeć polskich rolników. To się udało. Mamy już przyjęte rozwiązanie, w ramach którego będą oni mogli skorzystać ze specjalnych dopłat do hektara gospodarstwa zarówno z pieniędzy europejskich, jak i krajowych – mówi Krzysztof Hetman, europoseł PSL należący do grupy Europejskiej Partii Ludowej.\nUnijne dopłaty do nawozów pokryją do 80 proc. dodatkowych kosztów\nNowe przepisy umożliwią wypłatę wsparcia płynnościowego odpowiadającego maksymalnie 80 proc. dodatkowych wydatków na nawozy. Pomoc płynnościowa ma zapewnić gospodarstwom pieniądze potrzebne do bieżącego funkcjonowania, zanim rolnicy uzyskają wpływy ze sprzedaży plonów.\nPaństwa będą mogły także podnieść zaliczki na płatności bezpośrednie z 70 do 75 proc. Poszkodowany rolnik otrzyma pieniądze po złożeniu wniosku, bez czekania do 16 października, jak wymagają obecne przepisy.\nKraje członkowskie dostaną też większą swobodę w przenoszeniu środków i planowaniu przyszłorocznych budżetów płatności bezpośrednich. Szczegółowe zasady podziału pieniędzy między gospodarstwa przygotują władze krajowe.\nKrzysztof Hetman ocenia, że połączenie środków europejskich i krajowych powinno złagodzić skutki wzrostu cen. Znacznie bardziej sceptycznie do programu podchodzi europoseł PiS Waldemar Buda z grupy Europejskich Konserwatystów i Reformatorów.\n– Nie twierdzę, że to są rozwiązania, które mocno wpłyną ",
+    "published": "2026-07-17T21:08:26",
+    "fetched": "2026-07-18T06:26:00.617894",
+    "title_uk": "Польща отримає €66.6 млн на підтримку аграріїв через зростання цін на добрива",
+    "summary_uk": "Польща отримує €66.6 млн з бюджету ЄС для аграріїв, постраждалих від підвищення цін на добрива. Загальна допомога може перевищити 850 млн zł завдяки національному фінансуванню. Новий механізм покриє до 80% додаткових витрат на добрива, але експерти сумніваються в його ефективності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на добрива вплине на вартість продукції. Дистриб'юторам варто переглянути ціни на аграрну продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в аграрному секторі можуть вплинути на ціни на добрива та, відповідно, на собівартість продукції. Рекомендується переглянути стратегії закупівель."
+    },
+    "tags": [
+      "ціни-сировина",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща отримає €66.6 млн на підтримку аграріїв через зростання цін на добрива",
+    "summary": "Польща отримує €66.6 млн з бюджету ЄС для аграріїв, постраждалих від підвищення цін на добрива. Загальна допомога може перевищити 850 млн zł завдяки національному фінансуванню. Новий механізм покриє до 80% додаткових витрат на добрива, але експерти сумніваються в його ефективності.",
+    "link": "https://300gospodarka.pl/news/gaz-odpowiada-za-wiekszosc-kosztow-nawozow-doplaty-nie-usuna-tego-problemu",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f40f713450ba",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/przetworstwo-zywnosci-rosnie-szybciej-niz-przemysl-raport-alior-banku",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska jest żywnościową potęgą UE. Teraz musi udowodnić, że potrafi więcej niż produkować masowo",
+    "body_orig": "Polskie przetwórstwo żywności zwiększyło w 2025 r. realną produkcję sprzedaną o 5,4 proc. rok do roku, ponad dwa razy szybciej niż całe przetwórstwo przemysłowe, które urosło o 2,3 proc. – wynika z raportu Działu Analiz Makroekonomicznych Alior Banku. Sektor jest dziś największą częścią krajowego przetwórstwa, odpowiada za około 21 proc. jego produkcji sprzedanej i mocno opiera się na eksporcie. Kolejny etap wzrostu ma jednak zależeć już nie od samej skali, lecz od innowacji, automatyzacji i produktów o wyższej wartości.\nRaport „Sytuacja branży przetwórstwa żywności w Polsce” obejmuje lata 2021-2025. Autor analizy, Bartosz Bartoszuk, przeanalizował m.in. przychody, rentowność, zadłużenie, płynność finansową, inwestycje i koszty firm z sektora.\nBadanie dotyczy najważniejszych segmentów branży: przetwórstwa mięsa, ryb, owoców i warzyw, produkcji olejów i tłuszczów, mleczarstwa, przemysłu zbożowo-młynarskiego, piekarnictwa, produkcji pozostałych artykułów spożywczych oraz pasz.\n– Polski sektor spożywczy zdał trudny egzamin ostatnich kilku lat. Przeszedł przez okres wysokiej inflacji, skokowych wzrostów kosztów energii i surowców oraz zmian w zachowaniach konsumentów, utrzymując zdolność do rozwoju. Dziś pytanie nie brzmi już, czy branża będzie rosła, ale skąd będzie pochodził ten wzrost – z większego wolumenu czy z wyższej wartości produktów. Nasze analizy wskazują, że coraz większe znaczenie będzie miał ten drugi czynnik – mówi Bartosz Bartoszuk, ekspert ds. analiz sektorowych w Dziale Analiz Makroekonomicznych Alior Banku.\nNajwiększy segment przetwórstwa\nPrzetwórstwo żywności jest filarem polskiego przemysłu. Wartość produkcji sprzedanej sektora wzrosła z około 285 mld zł w 2021 r. do 431 mld zł w 2025 r. To produkcja sprzedana w ujęciu nominalnym, czyli wyrażona w bieżących cenach, bez oczyszczania z wpływu inflacji.\nSektor spożywczy odpowiada za 21,4 proc. produkcji sprzedanej całego przetwórstwa przemysłowego. Dla porównania motoryzacja ma udział na poziomie 11,3 proc., wyroby z metali 8,5 proc., wyroby z gumy i tworzyw sztucznych 6,6 proc., a chemikalia 4,8 proc.\nSiłą branży jest odporność popytu. Ludzie mogą ograniczać część zakupów w gorszych momentach gospodarczych, ale żywność należy do dóbr podstawowych. Z tego powodu sektor spożywczy zwykle przechodzi przez spowolnienia łagodniej niż branże bardziej zależne od inwestycji albo dóbr trwałych.\nNie oznacza to jednak, że wszystkie firmy działają w takich samych warunkach. Raport pokazuje rosnące różnice między segmentami. Część kategorii rozwija się dynamicznie, inne mocno odczuwają presję kosztową i konkurencję cenową.\nEksport żywności rośnie, ale sama skala już nie wystarczy\nJednym z najmocniejszych źródeł wzrostu branży jest sprzedaż zagraniczna. Eksport artykułów rolno-spożywczych wzrósł z 29,7 mld euro w 2018 r. do 58,4 mld euro w 2025 r. Dodatnie saldo handlowe, czyli nadwyżka eksportu nad importem, wyniosło 19,8 mld euro.\nPolska umacnia pozycję jednego z największych producentów żywnoś",
+    "published": "2026-07-17T19:08:19",
+    "fetched": "2026-07-18T06:26:00.617934",
+    "title_uk": "Польща збільшує виробництво продуктів харчування на 5.4% у 2025 році",
+    "summary_uk": "Польське харчове виробництво зросло на 5.4% у 2025 році, що перевищує загальну промисловість, яка виросла на 2.3%. Сектор становить 21% від загального обсягу промислового виробництва. Експорт продуктів харчування зріс з €29.7 млрд у 2018 році до €58.4 млрд у 2025 році.",
+    "what_it_means": {
+      "ua_importer": "Зростання польського експорту може створити нові можливості для українських імпортерів, які шукають якісні продукти з Польщі.",
+      "pl_distributor": "Дистриб'ютори в Польщі можуть скористатися зростанням виробництва, щоб розширити асортимент і підвищити конкурентоспроможність.",
+      "tr_manufacturer": "Зростання експорту з Польщі може створити можливості для турецьких виробників, які шукають нові ринки для своїх продуктів.",
+      "category_manager": "Зростання виробництва вимагає перегляду асортименту та стратегій переговорів з постачальниками для забезпечення конкурентоспроможності."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Польща збільшує виробництво продуктів харчування на 5.4% у 2025 році",
+    "summary": "Польське харчове виробництво зросло на 5.4% у 2025 році, що перевищує загальну промисловість, яка виросла на 2.3%. Сектор становить 21% від загального обсягу промислового виробництва. Експорт продуктів харчування зріс з €29.7 млрд у 2018 році до €58.4 млрд у 2025 році.",
+    "link": "https://300gospodarka.pl/news/przetworstwo-zywnosci-rosnie-szybciej-niz-przemysl-raport-alior-banku",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a629db4b88d1",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/emerytury/5000-zl-emerytury-z-zus-tyle-trzeba-zarabiac-by-ja-dostac-7308539018619328a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "5000 zł emerytury z ZUS. Tyle trzeba zarabiać, by ją dostać",
+    "body_orig": "Aby otrzymywać emeryturę w wysokości co najmniej 5 tys. zł miesięcznie, obecni trzydziestolatkowie powinni zarabiać od 6,2 do 9,8 tys. zł brutto – wynika z wyliczeń głównego ekonomisty Federacji Przedsiębiorców Polskich Łukasza Kozłowskiego.",
+    "published": "2026-07-17T18:08:30",
+    "fetched": "2026-07-18T06:26:02.085666",
+    "title_uk": "Щоб отримати 5000 zł пенсії, потрібно заробляти до 9800 zł",
+    "summary_uk": "Для отримання пенсії в розмірі щонайменше 5000 zł на місяць, тридцятирічні поляки повинні заробляти від 6200 до 9800 zł брутто. Це вказав головний економіст Федерації підприємців Польщі Łukasz Kozłowski. Вимоги до заробітку пов'язані з майбутніми пенсійними виплатами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Щоб отримати 5000 zł пенсії, потрібно заробляти до 9800 zł",
+    "summary": "Для отримання пенсії в розмірі щонайменше 5000 zł на місяць, тридцятирічні поляки повинні заробляти від 6200 до 9800 zł брутто. Це вказав головний економіст Федерації підприємців Польщі Łukasz Kozłowski. Вимоги до заробітку пов'язані з майбутніми пенсійними виплатами.",
+    "link": "https://www.money.pl/emerytury/5000-zl-emerytury-z-zus-tyle-trzeba-zarabiac-by-ja-dostac-7308539018619328a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ab3e2936eda3",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ab-yilda-260-milyar-avro-tasarruf-etme-hedefiyle-elektrifikasyonu-hizlandiriyor/4001939",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "AB, yılda 260 milyar avro tasarruf etme hedefiyle elektrifikasyonu hızlandırıyor",
+    "body_orig": "ABD/İsrail-İran Savaşı sonrası oluşan enerji krizinin AB'nin fosil yakıta bağımlılığının yarattığı riskleri 5 yılda ikinci kez göstermesi nedeniyle Komisyon, yılda 260 milyar avro tasarruf sağlamak için elektrifikasyon hedefini yüzde 46'ya çıkardı.",
+    "published": "2026-07-18T05:34:13",
+    "fetched": "2026-07-18T06:26:17.162221",
+    "title_uk": "ЄС планує заощаджувати €260 млрд через електрифікацію",
+    "summary_uk": "Європейська комісія підвищила ціль електрифікації до 46% для економії €260 млрд на рік. Це рішення стало наслідком енергетичної кризи, викликаної конфліктом між США, Ізраїлем та Іраном, що підкреслило ризики залежності від викопних видів пального.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "ЄС планує заощаджувати €260 млрд через електрифікацію",
+    "summary": "Європейська комісія підвищила ціль електрифікації до 46% для економії €260 млрд на рік. Це рішення стало наслідком енергетичної кризи, викликаної конфліктом між США, Ізраїлем та Іраном, що підкреслило ризики залежності від викопних видів пального.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ab-yilda-260-milyar-avro-tasarruf-etme-hedefiyle-elektrifikasyonu-hizlandiriyor/4001939",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f60ca495c14a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-ab-arasindaki-arac-ticareti-2025te-37-milyar-avroyu-buldu-/4001828",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye ile AB arasındaki araç ticareti 2025'te 37 milyar avroyu buldu",
+    "body_orig": "Avrupa Otomobil Üreticileri Birliği (ACEA), Türkiye'nin 2025'te Avrupa Birliği'nin (AB) yeni araç ihracatında üçüncü büyük pazar olduğunu ve karşılıklı yeni araç ticaret hacminin 37 milyar avroya ulaştığını bildirdi.",
+    "published": "2026-07-17T20:22:37",
+    "fetched": "2026-07-18T06:26:17.162254",
+    "title_uk": "Торговий обіг нових автомобілів між Туреччиною та ЄС досяг €37 млрд",
+    "summary_uk": "Європейська асоціація автомобільних виробників (ACEA) повідомила, що Туреччина стала третім найбільшим ринком для експорту нових автомобілів до ЄС у 2025 році. Загальний обсяг торгівлі новими автомобілями між Туреччиною та ЄС досяг €37 млрд. Це свідчить про зростання співпраці між Туреччиною та Європейським Союзом у автомобільній галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання експорту до ЄС відкриває нові можливості для турецьких виробників. Рекомендується розглянути партнерства з європейськими дистриб'юторами.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Торговий обіг нових автомобілів між Туреччиною та ЄС досяг €37 млрд",
+    "summary": "Європейська асоціація автомобільних виробників (ACEA) повідомила, що Туреччина стала третім найбільшим ринком для експорту нових автомобілів до ЄС у 2025 році. Загальний обсяг торгівлі новими автомобілями між Туреччиною та ЄС досяг €37 млрд. Це свідчить про зростання співпраці між Туреччиною та Європейським Союзом у автомобільній галузі.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-ab-arasindaki-arac-ticareti-2025te-37-milyar-avroyu-buldu-/4001828",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e89663219263",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/anpc-lanseaza-primul-ghid-national-pentru-comertul-online-magazinele-online-intra-sub-noi-standarde-de-transparenta-iar-consumatorii-primesc-reguli-clare-pentru-cumparaturile-pe-internet-23197619",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ANPC lansează primul ghid naţional pentru comerţul online. Magazinele online intră sub noi standarde de transparenţă, iar consumatorii primesc reguli clare pentru cumpărăturile pe internet",
+    "body_orig": "ANPC a lansat Ghidul de bune practici privind piaţa produselor şi serviciilor comercializate online – Ediţia 2026, realizat împreună cu ANCOM, DNSC, ARB şi ARMO. Documentul stabileşte recomandări pentru comercianţi şi reguli privind drepturile consumatorilor.",
+    "published": "2026-07-18T06:11:00",
+    "fetched": "2026-07-18T06:26:19.373524",
+    "title_uk": "В Румунії запустили перший національний гід для онлайн-торгівлі",
+    "summary_uk": "ANPC представила Гід з практик для онлайн-продажів, розроблений спільно з ANCOM, DNSC, ARB та ARMO. Документ містить рекомендації для продавців та правила для споживачів. Це перший такий стандарт у країні, що має на меті підвищити прозорість у торгівлі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей гід може стати прикладом для розробки подібних стандартів в Україні. Розгляньте можливість адаптації рекомендацій для покращення прозорості у своїй онлайн-торгівлі."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "В Румунії запустили перший національний гід для онлайн-торгівлі",
+    "summary": "ANPC представила Гід з практик для онлайн-продажів, розроблений спільно з ANCOM, DNSC, ARB та ARMO. Документ містить рекомендації для продавців та правила для споживачів. Це перший такий стандарт у країні, що має на меті підвищити прозорість у торгівлі.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/anpc-lanseaza-primul-ghid-national-pentru-comertul-online-magazinele-online-intra-sub-noi-standarde-de-transparenta-iar-consumatorii-primesc-reguli-clare-pentru-cumparaturile-pe-internet-23197619",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "412ef3e4950d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/anaf-a-descoperit-un-circuit-de-facturare-fictiva-in-constructii-prejudiciu-de-4-6-milioane-de-lei-23197615",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ANAF a descoperit un circuit de facturare fictivă în construcţii. Prejudiciu de 4,6 milioane de lei",
+    "body_orig": "Inspectorii Antifraudă ai ANAF au identificat un mecanism de facturare fictivă în sectorul construcţiilor, cu un prejudiciu estimat la 4,6 milioane de lei. Cazul a fost sesizat organelor de urmărire penală.",
+    "published": "2026-07-18T05:31:00",
+    "fetched": "2026-07-18T06:26:19.373558",
+    "title_uk": "В Румунії виявлено схему фіктивного бухгалтерського обліку в будівництві",
+    "summary_uk": "Антикорупційні інспектори ANAF виявили механізм фіктивної звітності в будівельному секторі. Загальний збиток оцінюється в €1 млн. Справа передана до прокуратури.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Румунії виявлено схему фіктивного бухгалтерського обліку в будівництві",
+    "summary": "Антикорупційні інспектори ANAF виявили механізм фіктивної звітності в будівельному секторі. Загальний збиток оцінюється в €1 млн. Справа передана до прокуратури.",
+    "link": "https://www.zf.ro/banci-si-asigurari/anaf-a-descoperit-un-circuit-de-facturare-fictiva-in-constructii-prejudiciu-de-4-6-milioane-de-lei-23197615",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2ef9187166b3",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/auto/afm-deschide-luni-inscrierile-pentru-programul-rabla-auto-2026-buget-de-300-milioane-lei-pentru-persoanele-fizice-si-ecotichete-de-pana-la-18-500-de-lei-23197613",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "AFM deschide luni înscrierile pentru Programul Rabla Auto 2026. Buget de 300 milioane lei pentru persoanele fizice şi ecotichete de până la 18.500 de lei",
+    "body_orig": "Administraţia Fondului pentru Mediu începe pe 20 iulie înscrierile persoanelor fizice în Programul Rabla Auto 2026. Bugetul este de 300 milioane de lei, iar valoarea maximă a ecotichetului ajunge la 18.500 de lei.",
+    "published": "2026-07-18T04:29:00",
+    "fetched": "2026-07-18T06:26:19.373578",
+    "title_uk": "Румунія запускає програму Rabla Auto 2026 з бюджетом 300 млн леїв",
+    "summary_uk": "Адміністрація Фонду для навколишнього середовища Румунії оголосила про початок реєстрації учасників програми Rabla Auto 2026 з 20 липня. Загальний бюджет програми становить 300 млн леїв, а максимальна сума екотикету досягає 18.500 леїв.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунія запускає програму Rabla Auto 2026 з бюджетом 300 млн леїв",
+    "summary": "Адміністрація Фонду для навколишнього середовища Румунії оголосила про початок реєстрації учасників програми Rabla Auto 2026 з 20 липня. Загальний бюджет програми становить 300 млн леїв, а максимальна сума екотикету досягає 18.500 леїв.",
+    "link": "https://www.zf.ro/auto/afm-deschide-luni-inscrierile-pentru-programul-rabla-auto-2026-buget-de-300-milioane-lei-pentru-persoanele-fizice-si-ecotichete-de-pana-la-18-500-de-lei-23197613",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d300ba2beb0f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/familia-tofan-piatra-neamt-vandut-distribuitorul-anvelope-dinamic-92-23196869",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Familia Tofan din Piatra-Neamţ a vândut distribuitorul de anvelope Dinamic 92 Distribution, cu afaceri de 410 mil. lei, către Nordic Tyre Group. Dinamic 92 Distribution a încheiat anul 2025 cu o cifră de afaceri de 410,8 mil. lei (circa 78,4 mil. euro), un profit net de 33,6 mil. lei (6,4 mil. euro) şi un număr mediu de 256 de angajaţi",
+    "body_orig": "Nordic Tyre Group, unul dintre cei mai mari jucători independenţi din distribuţia şi comerţul angro de anvelope din ţările nordice şi baltice, cu venituri anuale cumulate de circa 400 de milioane de euro, a semnat un acord pentru achiziţia Dinamic 92 Distribution, cel mai mare distri­buitor independent de anve­lope din România, com­panie fondată şi con­trolată de familia Tofan.",
+    "published": "2026-07-17T21:06:00",
+    "fetched": "2026-07-18T06:26:19.373588",
+    "title_uk": "Nordic Tyre Group купує Dinamic 92 Distribution в Румунії",
+    "summary_uk": "Nordic Tyre Group уклала угоду про придбання Dinamic 92 Distribution, найбільшого дистриб'ютора шин в Румунії, з річним доходом €78 млн. У 2025 році компанія отримала прибуток у €6.4 млн і мала 256 працівників. Угода підкреслює зростаючий інтерес до ринку шин у Східній Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Nordic Tyre Group купує Dinamic 92 Distribution в Румунії",
+    "summary": "Nordic Tyre Group уклала угоду про придбання Dinamic 92 Distribution, найбільшого дистриб'ютора шин в Румунії, з річним доходом €78 млн. У 2025 році компанія отримала прибуток у €6.4 млн і мала 256 працівників. Угода підкреслює зростаючий інтерес до ринку шин у Східній Європі.",
+    "link": "https://www.zf.ro/companii/familia-tofan-piatra-neamt-vandut-distribuitorul-anvelope-dinamic-92-23196869",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5694ccff5feb",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/aeroportul-varsovia-printre-cele-mari-cresteri-traficului-aerian-23196874",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aeroportul din Varşovia are printre cele mai mari creşteri ale traficului aerian din Europa, iar numărul de pasageri se apropie de cel al tuturor aeroporturilor din România. Ce poate învăţa aeroportul Otopeni",
+    "body_orig": "Aeroportul Chopin Varşovia, cel mai mare din Polonia, a ajuns la 24 de milioane de pasageri în 2025, după o creştere de 13%, având una dintre cele mai mari creşteri dintre aeroporturile europene, potrivit informaţiilor Central European Times. Spre comparaţie, toate aeroporturile din România au fost tranzitate de peste 28,5 milioane de pasageri anul trecut, după un avans de 9,6% faţă de 2024.",
+    "published": "2026-07-17T21:06:00",
+    "fetched": "2026-07-18T06:26:19.373598",
+    "title_uk": "Аеропорт Варшави демонструє значне зростання пасажиропотоку",
+    "summary_uk": "Аеропорт Шопен у Варшаві досяг 24 млн пасажирів у 2025 році, зростання на 13%. Для порівняння, усі аеропорти Румунії обслугували 28,5 млн пасажирів у 2024 році, зростання на 10%. Це один з найвищих темпів зростання в Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Аеропорт Варшави демонструє значне зростання пасажиропотоку",
+    "summary": "Аеропорт Шопен у Варшаві досяг 24 млн пасажирів у 2025 році, зростання на 13%. Для порівняння, усі аеропорти Румунії обслугували 28,5 млн пасажирів у 2024 році, зростання на 10%. Це один з найвищих темпів зростання в Європі.",
+    "link": "https://www.zf.ro/companii/aeroportul-varsovia-printre-cele-mari-cresteri-traficului-aerian-23196874",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "53d259f8c157",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/grupul-ad-auto-total-face-achizitie-parte-unui-plan-construi-companie-1-mld-euro-an-dupa-preluat-companie-bulgaria-cumpara-firma-buzau-service-autorizat-mercedes-dealer-autorizat-doua-marci-asiatice-23194696",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul AD Auto Total face o nouă achiziţie, ca parte a unui plan de a construi o companie de 1 mld. de euro: La un an după ce a preluat o companie din Bulgaria, cumpără o firmă din Buzău, service autorizat Mercedes şi dealer autorizat pentru două mărci asiatice",
+    "body_orig": "",
+    "published": "2026-07-17T18:46:00",
+    "fetched": "2026-07-18T06:26:19.373607",
+    "title_uk": "Grupul AD Auto Total купує нову компанію в Румунії",
+    "summary_uk": "Grupul AD Auto Total оголосив про придбання сервісу в Бузеу, що є авторизованим сервісом Mercedes та дилером для двох азійських брендів. Це придбання є частиною стратегії компанії, спрямованої на досягнення обсягу в €1 млрд. Раніше компанія вже придбала бізнес у Болгарії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Grupul AD Auto Total купує нову компанію в Румунії",
+    "summary": "Grupul AD Auto Total оголосив про придбання сервісу в Бузеу, що є авторизованим сервісом Mercedes та дилером для двох азійських брендів. Це придбання є частиною стратегії компанії, спрямованої на досягнення обсягу в €1 млрд. Раніше компанія вже придбала бізнес у Болгарії.",
+    "link": "https://www.zf.ro/companii/grupul-ad-auto-total-face-achizitie-parte-unui-plan-construi-companie-1-mld-euro-an-dupa-preluat-companie-bulgaria-cumpara-firma-buzau-service-autorizat-mercedes-dealer-autorizat-doua-marci-asiatice-23194696",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a00ddbfa6473",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/in-ce-stadiu-sunt-proiectele-de-energie-regnerabila-ale-electrica-pentru-care-a-emis-obligatiuni-de-500-de-milioane-de-euro_960065.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "În ce stadiu sunt proiectele de energie regnerabilă ale Electrica, pentru care a emis obligațiuni de 500 de milioane de euro",
+    "body_orig": "Electrica, unul dintre marile grupuri de distribuție și furnizare a energiei electrice, care își construiește acum și un portofiliu de generare, a informat publicul despre alocarea sumelor din emisiunea de obligațiuni de 500 de milioane de euro și despre stadiul proiectelor finanțatre din acești bani.",
+    "published": "2026-07-18T05:53:34",
+    "fetched": "2026-07-18T06:26:22.841625",
+    "title_uk": "Electrica звітує про проекти з відновлювальної енергії на €500 млн",
+    "summary_uk": "Electrica оголосила про використання €500 млн, отриманих від облігацій, для фінансування проектів у сфері відновлювальної енергії. Компанія розвиває портфель генерації електроенергії. Деталі про конкретні проекти поки не розкриті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Electrica звітує про проекти з відновлювальної енергії на €500 млн",
+    "summary": "Electrica оголосила про використання €500 млн, отриманих від облігацій, для фінансування проектів у сфері відновлювальної енергії. Компанія розвиває портфель генерації електроенергії. Деталі про конкретні проекти поки не розкриті.",
+    "link": "https://www.economica.net/in-ce-stadiu-sunt-proiectele-de-energie-regnerabila-ale-electrica-pentru-care-a-emis-obligatiuni-de-500-de-milioane-de-euro_960065.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9b27d4a43036",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bursa-de-la-bucuresti-a-inchis-in-scadere-sedinta-de-tranzactionare-de-vineri-rulajul-a-depasit-97-de-milioane-de-lei_960397.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la București a închis în scădere ședința de tranzacționare de vineri. Rulajul a depășit 97 de milioane de lei",
+    "body_orig": "Bursa de Valori Bucureşti a închis în scădere ultima şedinţă din această săptămână, iar valoarea totală a tranzacţiilor a fost de 97,4 milioane de lei (18,6 milioane de euro), relatează Agerpres.",
+    "published": "2026-07-17T18:56:33",
+    "fetched": "2026-07-18T06:26:22.841650",
+    "title_uk": "Бухарестська біржа закрилася зі зниженням, обсяг торгів перевищив 97 млн леїв",
+    "summary_uk": "Біржа у Бухаресті завершила торги в п'ятницю зі зниженням. Загальний обсяг угод склав 97.4 млн леїв (близько €18.6 млн). Це свідчить про зменшення активності на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа закрилася зі зниженням, обсяг торгів перевищив 97 млн леїв",
+    "summary": "Біржа у Бухаресті завершила торги в п'ятницю зі зниженням. Загальний обсяг угод склав 97.4 млн леїв (близько €18.6 млн). Це свідчить про зменшення активності на ринку.",
+    "link": "https://www.economica.net/bursa-de-la-bucuresti-a-inchis-in-scadere-sedinta-de-tranzactionare-de-vineri-rulajul-a-depasit-97-de-milioane-de-lei_960397.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fc7b2612daad",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/simtel-team-renunta-la-controlul-companiei-ant-power-energy-si-vinde-etapizat-14-din-capitalul-social_960394.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Simtel Team renunță la controlul companiei ANT Power Energy și vinde etapizat 14% din capitalul social",
+    "body_orig": "Conducerea Simtel Team S.A. informează acționarii și investitorii de la Bursa de Valori București cu privire la semnarea, la data de 29 iunie 2026, a unui contract cu Adrian-Nicolae Tita, asociat existent al ANT Power Energy S.R.L., având ca obiect cesionarea etapizată a unei participații reprezentând 14% din capitalul social al acestei companii.",
+    "published": "2026-07-17T18:49:32",
+    "fetched": "2026-07-18T06:26:22.841658",
+    "title_uk": "Simtel Team продає 14% ANT Power Energy",
+    "summary_uk": "Simtel Team S.A. підписала угоду про поетапний продаж 14% акцій ANT Power Energy S.R.L. Угода укладена з Adrian-Nicolae Tita, існуючим партнером компанії. Це рішення вплине на структуру власності ANT Power Energy.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Simtel Team продає 14% ANT Power Energy",
+    "summary": "Simtel Team S.A. підписала угоду про поетапний продаж 14% акцій ANT Power Energy S.R.L. Угода укладена з Adrian-Nicolae Tita, існуючим партнером компанії. Це рішення вплине на структуру власності ANT Power Energy.",
+    "link": "https://www.economica.net/simtel-team-renunta-la-controlul-companiei-ant-power-energy-si-vinde-etapizat-14-din-capitalul-social_960394.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c78c124c646",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/lantul-de-magazine-second-hand-humana-people-to-people-deschide-o-unitate-noua-la-arad_960380.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Lanțul de magazine second-hand Humana People to People deschide o unitate nouă la Arad",
+    "body_orig": "Humana People to People România anunță că își extinde rețeaua de retail prin deschiderea unui nou magazin de articole vestimentare second-hand, în Arad. Începând de luni, 20 iulie 2026, arădenii vor avea acces la o gamă variată de articole vestimentare second-hand, într-un magazin organizat pe principiul colecțiilor care se reînnoiesc constant.",
+    "published": "2026-07-17T17:35:29",
+    "fetched": "2026-07-18T06:26:22.841686",
+    "title_uk": "Humana People to People відкриває новий магазин у Араді",
+    "summary_uk": "Humana People to People România розширює свою мережу, відкриваючи новий магазин second-hand в Араді. Магазин почне працювати 20 липня 2026 року і запропонує різноманітний асортимент одягу, що постійно оновлюється.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Humana People to People відкриває новий магазин у Араді",
+    "summary": "Humana People to People România розширює свою мережу, відкриваючи новий магазин second-hand в Араді. Магазин почне працювати 20 липня 2026 року і запропонує різноманітний асортимент одягу, що постійно оновлюється.",
+    "link": "https://www.economica.net/lantul-de-magazine-second-hand-humana-people-to-people-deschide-o-unitate-noua-la-arad_960380.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d1e65ab29b8e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noul-proiect-al-legii-salarizarii-guvernul-impune-un-plafon-maxim-pentru-sporurile-pe-care-pot-sa-le-ia-angajatii-din-institutiile-de-stat-care-se-autofinanteaza_960378.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noul proiect al Legii salarizării. Guvernul impune un plafon maxim pentru sporurile pe care pot să le ia angajații din instituțiile de stat care se autofinanțează",
+    "body_orig": "Personalul autorităţilor şi instituţiilor publice finanţate integral din venituri proprii va putea beneficia de o diferenţiere a salariilor, prin acordarea unui spor de până la 20% din salariul de bază, în funcţie de specificul activităţii desfăşurate şi de calitatea acesteia, conform proiectului actualizat al noii legi a salarizării, publicat vineri de Ministerul Muncii, Familiei, Tineretului şi Solidarităţii Sociale (MMFTSS), transmite Agerpres.",
+    "published": "2026-07-17T17:10:15",
+    "fetched": "2026-07-18T06:26:22.841694",
+    "title_uk": "У Румунії вводять обмеження на надбавки для держслужбовців",
+    "summary_uk": "Уряд Румунії пропонує новий проект закону про зарплати, який передбачає, що працівники державних установ, що фінансуються з власних доходів, можуть отримувати надбавки до 20% від основної зарплати. Це залежатиме від специфіки діяльності та її якості. Проект опублікований Міністерством праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "У Румунії вводять обмеження на надбавки для держслужбовців",
+    "summary": "Уряд Румунії пропонує новий проект закону про зарплати, який передбачає, що працівники державних установ, що фінансуються з власних доходів, можуть отримувати надбавки до 20% від основної зарплати. Це залежатиме від специфіки діяльності та її якості. Проект опублікований Міністерством праці.",
+    "link": "https://www.economica.net/noul-proiect-al-legii-salarizarii-guvernul-impune-un-plafon-maxim-pentru-sporurile-pe-care-pot-sa-le-ia-angajatii-din-institutiile-de-stat-care-se-autofinanteaza_960378.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8673095a6cd6",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/morozyvo-bez-obmezhen-glovo-sprostovuye-mify-pro-sezonnist-desertu-v-ukrayini/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Українці замовили майже мільйон морозива за рік: Glovo спростовує міфи про сезонність десерту",
+    "body_orig": "Glovo ділиться цікавими даними про споживання морозива в Україні. За останні 12 місяців користувачі сервісу замовили майже мільйон одиниць морозива (942 428 шт.), що на 25,4% більше у порівнянні з минулим роком.\nАналітика Glovo підтверджує: для українців морозиво вже давно не є лише літнім десертом…",
+    "published": "2026-07-18T02:30:59",
+    "fetched": "2026-07-18T06:26:27.745961",
+    "title_uk": "Українці замовили майже мільйон морозива за рік",
+    "summary_uk": "Glovo повідомляє про зростання замовлень морозива в Україні. За рік користувачі сервісу замовили 942 тисячі одиниць морозива, що на 25% більше, ніж минулого року. Це свідчить про те, що морозиво стало популярним не лише влітку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання попиту на морозиво може вплинути на стратегії закупівель і промо-акції. Рекомендується переглянути асортимент і акції на цю категорію."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Українці замовили майже мільйон морозива за рік",
+    "summary": "Glovo повідомляє про зростання замовлень морозива в Україні. За рік користувачі сервісу замовили 942 тисячі одиниць морозива, що на 25% більше, ніж минулого року. Це свідчить про те, що морозиво стало популярним не лише влітку.",
+    "link": "https://rau.ua/news/morozyvo-bez-obmezhen-glovo-sprostovuye-mify-pro-sezonnist-desertu-v-ukrayini/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
