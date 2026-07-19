@@ -134309,5 +134309,287 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "0bb8bda97864",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/praca/reforma-pip-te-bledy-moga-kosztowac-pracodawcow-fortune/bl2xh8b",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Reforma PIP. Prawniczka wskazuje na mity, które firmę mogą kosztować fortunę",
+    "body_orig": "Reforma Państwowej Inspekcji Pracy to jedno z największych wyzwań dla pracodawców i firm w ostatnich latach. Wraz z nią wokół modelu B2B narosło wiele mitów i fałszywych przekonań, które mogą skończyć się kontrolą, zakwestionowaniem współpracy i wysokimi kosztami dla przedsiębiorstwa. Katarzyna Łodygowska, prawniczka i specjalistka prawa pracy, obala 10 najczęściej powtarzanych mitów i wyjaśnia, na co w praktyce PIP będzie zwracać uwagę.",
+    "published": "2026-07-19T04:50:00",
+    "fetched": "2026-07-19T07:02:26.628577",
+    "title_uk": "Реформа ПІП: юристка спростовує міфи, які можуть коштувати компаніям",
+    "summary_uk": "Реформа Державної інспекції праці в Польщі створює нові виклики для роботодавців. Юристка Катажина Лодиговська спростовує 10 поширених міфів, які можуть призвести до контролю та високих витрат для компаній. Важливо звертати увагу на нові вимоги та практики, щоб уникнути штрафів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні бути обережними з новими вимогами ПІП, щоб уникнути штрафів і контролю.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Реформа ПІП: юристка спростовує міфи, які можуть коштувати компаніям",
+    "summary": "Реформа Державної інспекції праці в Польщі створює нові виклики для роботодавців. Юристка Катажина Лодиговська спростовує 10 поширених міфів, які можуть призвести до контролю та високих витрат для компаній. Важливо звертати увагу на нові вимоги та практики, щоб уникнути штрафів.",
+    "link": "https://businessinsider.com.pl/prawo/praca/reforma-pip-te-bledy-moga-kosztowac-pracodawcow-fortune/bl2xh8b",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "edde490baa27",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-haziranda-608-firmaya-dahilde-isleme-izin-belgesi-verdi/4002598",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ticaret Bakanlığı haziranda 608 firmaya dahilde işleme izin belgesi verdi",
+    "body_orig": "Ticaret Bakanlığı, dahilde işleme rejimi kapsamında haziranda 608 firma için izin belgesi düzenledi.",
+    "published": "2026-07-19T06:29:52",
+    "fetched": "2026-07-19T07:02:46.406546",
+    "title_uk": "Турецьке міністерство видало 608 дозволів для компаній у червні",
+    "summary_uk": "Турецьке міністерство торгівлі видало 608 дозволів для компаній у рамках режиму внутрішньої обробки. Це свідчить про активізацію бізнесу в країні. Дозволи надаються для полегшення імпорту сировини та матеріалів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це позитивний сигнал для турецьких виробників, які шукають нові ринки. Дозволи можуть спростити доступ до сировини для виробництв.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Турецьке міністерство видало 608 дозволів для компаній у червні",
+    "summary": "Турецьке міністерство торгівлі видало 608 дозволів для компаній у рамках режиму внутрішньої обробки. Це свідчить про активізацію бізнесу в країні. Дозволи надаються для полегшення імпорту сировини та матеріалів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-haziranda-608-firmaya-dahilde-isleme-izin-belgesi-verdi/4002598",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0503e156582f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/salariile-tin-pasul-scumpirile-puterea-cumparare-angajatilor-romani-scazut-11-luna-consecutiv-salariul-mediu-net-ajuns-5-684-lei-scadere-159-lei-fata-aprilie-3-2-peste-nivelul-aceeasi-luna-anului-23196295",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Salariile nu mai ţin pasul cu scumpirile. Puterea de cumpărare a angajaţilor români a scăzut pentru a 11- a lună consecutiv. Salariul mediu net a ajuns la 5.684 lei în mai, în scădere cu 159 de lei faţă de aprilie şi cu doar 3,2% peste nivelul din aceeaşi lună a anului trecut",
+    "body_orig": "Salariul mediu net a ajuns la 5.684 lei în luna mai a acestui an, în scădere cu 159 lei (-2,7%) faţă de luna aprilie 2026. Comparativ cu luna mai a anului precedent, câştigul salarial mediu net a crescut cu 3,2%, arată datele publicate de Institutul Naţional de Statistică (INS).",
+    "published": "2026-07-19T06:01:00",
+    "fetched": "2026-07-19T07:02:49.823942",
+    "title_uk": "Зниження зарплат в Румунії триває 11 місяців поспіль",
+    "summary_uk": "Середня зарплата в Румунії у травні становила 5.684 лей, що на 159 лей менше, ніж у квітні. Це зниження на 2,7% порівняно з попереднім місяцем. У річному вимірі зарплата зросла лише на 3,2%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зниження зарплат в Румунії триває 11 місяців поспіль",
+    "summary": "Середня зарплата в Румунії у травні становила 5.684 лей, що на 159 лей менше, ніж у квітні. Це зниження на 2,7% порівняно з попереднім місяцем. У річному вимірі зарплата зросла лише на 3,2%.",
+    "link": "https://www.zf.ro/eveniment/salariile-tin-pasul-scumpirile-puterea-cumparare-angajatilor-romani-scazut-11-luna-consecutiv-salariul-mediu-net-ajuns-5-684-lei-scadere-159-lei-fata-aprilie-3-2-peste-nivelul-aceeasi-luna-anului-23196295",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d3d8523eccb",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-vreti-sa-platiti-un-impozit-mai-mic-pe-salariu-daca-investiti-la-bursa-cum-functioneaza-deducerea-de-400-de-euro-pe-an-pentru-actiuni-obligatiuni-si-etf-uri-si-ce-pasi-trebuie-sa-urmati-23195545",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Vreţi să plătiţi un impozit mai mic pe salariu dacă investiţi la bursă? Cum funcţionează deducerea de 400 de euro pe an pentru acţiuni, obligaţiuni şi ETF-uri şi ce paşi trebuie să urmaţi",
+    "body_orig": "",
+    "published": "2026-07-18T19:13:00",
+    "fetched": "2026-07-19T07:02:49.824006",
+    "title_uk": "Зниження податку на зарплату для інвесторів на біржі в Румунії",
+    "summary_uk": "У Румунії запроваджено можливість зниження податку на зарплату для інвесторів, які вкладають у акції, облігації та ETF. Інвестори можуть отримати податкову знижку до €400 на рік. Для цього потрібно виконати певні умови, зокрема, зареєструватися у податкових органах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Зниження податку на зарплату для інвесторів на біржі в Румунії",
+    "summary": "У Румунії запроваджено можливість зниження податку на зарплату для інвесторів, які вкладають у акції, облігації та ETF. Інвестори можуть отримати податкову знижку до €400 на рік. Для цього потрібно виконати певні умови, зокрема, зареєструватися у податкових органах.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-vreti-sa-platiti-un-impozit-mai-mic-pe-salariu-daca-investiti-la-bursa-cum-functioneaza-deducerea-de-400-de-euro-pe-an-pentru-actiuni-obligatiuni-si-etf-uri-si-ce-pasi-trebuie-sa-urmati-23195545",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "10b7ffbaa6e0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/umbrarescu-noua-investitie-intr-o-fabrica-in-romania_960555.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Umbrărescu, nouă investiție într-o fabrică în România",
+    "body_orig": "Compania ieșeană Totalgaz Industrie SRL, controlată de familia Umbrărescu, derulează o investiție de peste patru milioane de lei ce vizează o hală de producție în incinta platformei industriale pe care o deține la Iași, zona Păcurari, potrivit pubicației APIX.ro.",
+    "published": "2026-07-19T06:56:15",
+    "fetched": "2026-07-19T07:02:54.497614",
+    "title_uk": "Totalgaz Industrie інвестує у нову фабрику в Румунії",
+    "summary_uk": "Компанія Totalgaz Industrie SRL, що належить родині Умбрашеску, інвестує понад 4 млн леїв у нову виробничу залу на своїй платформі в Яссах. Інвестиція спрямована на розширення виробничих потужностей. Проект реалізується в індустріальному районі Пакурарі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Totalgaz Industrie інвестує у нову фабрику в Румунії",
+    "summary": "Компанія Totalgaz Industrie SRL, що належить родині Умбрашеску, інвестує понад 4 млн леїв у нову виробничу залу на своїй платформі в Яссах. Інвестиція спрямована на розширення виробничих потужностей. Проект реалізується в індустріальному районі Пакурарі.",
+    "link": "https://www.economica.net/umbrarescu-noua-investitie-intr-o-fabrica-in-romania_960555.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "40f854e16303",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/uniunea-europeana-interzice-incepand-de-azi-distrugerea-articolelor-de-imbracaminte-a-accesoriilor-si-a-incaltamintei-nevandute_960539.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Uniunea Europeană interzice, începând de azi, distrugerea articolelor de îmbrăcăminte, a accesoriilor şi a încălţămintei nevândute",
+    "body_orig": "Noile norme europene care reglementează gestionarea articolelor de îmbrăcăminte, a accesoriilor vestimentare şi a încălţămintei nevândute intră în vigoare începând de duminică. O schimbare importantă, care vizează o mai bună protecţie a mediului, potrivit News.ro.",
+    "published": "2026-07-19T05:56:43",
+    "fetched": "2026-07-19T07:02:54.497705",
+    "title_uk": "ЄС забороняє знищення невиданих товарів одягу та взуття",
+    "summary_uk": "З 19 липня 2026 року в Європейському Союзі заборонено знищення невиданих товарів одягу, аксесуарів та взуття. Це рішення має на меті покращення екологічної ситуації. Виробники та рітейлери повинні знайти альтернативні способи утилізації або продажу таких товарів.",
+    "what_it_means": {
+      "ua_importer": "Якщо ви імпортуєте одяг з Румунії, враховуйте нові вимоги щодо утилізації невиданих товарів. Це може вплинути на ваші витрати.",
+      "pl_distributor": "Польські дистриб'ютори, які працюють з одягом, повинні переглянути свої стратегії утилізації. Можливі додаткові витрати на зберігання або переробку.",
+      "tr_manufacturer": "Турецькі виробники, які постачають одяг до ЄС, повинні враховувати нові правила, щоб уникнути штрафів за знищення невиданих товарів.",
+      "category_manager": "Категорійні менеджери рітейлу повинні переглянути асортимент і стратегії продажу, щоб уникнути накопичення невиданих товарів."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "ЄС забороняє знищення невиданих товарів одягу та взуття",
+    "summary": "З 19 липня 2026 року в Європейському Союзі заборонено знищення невиданих товарів одягу, аксесуарів та взуття. Це рішення має на меті покращення екологічної ситуації. Виробники та рітейлери повинні знайти альтернативні способи утилізації або продажу таких товарів.",
+    "link": "https://www.economica.net/uniunea-europeana-interzice-incepand-de-azi-distrugerea-articolelor-de-imbracaminte-a-accesoriilor-si-a-incaltamintei-nevandute_960539.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ed0f28035be6",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/iak-kliyent-pryyimaye-rishennia-pro-pokupku-chomu-nyzka-tcina-bilshe-ne-ye-golovnym-argumentom-dosvid-kasta/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Як клієнт приймає рішення про покупку: чому низька ціна більше не є головним аргументом. Досвід Kasta",
+    "body_orig": "Зараз покупці мають десятки варіантів, де придбати один і той самий товар, тому найнижча ціна вже не гарантує продаж. Натомість дедалі важливішими стають швидкість, зручність, безпека, прозорі умови покупки та загальний клієнтський досвід. Чому сучасний споживач оцінює не лише ціну, а повну цінність…",
+    "published": "2026-07-19T02:50:13",
+    "fetched": "2026-07-19T07:03:00.488779",
+    "title_uk": "Клієнти більше не обирають лише за ціною, важливий досвід покупки",
+    "summary_uk": "Сучасні покупці мають безліч варіантів для придбання товарів, тому найнижча ціна не є гарантією продажу. Замість цього важливими стають швидкість, зручність, безпека та загальний клієнтський досвід. Досвід компанії Kasta підтверджує цю тенденцію.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Важливо враховувати, що споживачі оцінюють не лише ціну, а й загальний досвід покупки. Це може вплинути на стратегії промоцій та розміщення товарів."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Клієнти більше не обирають лише за ціною, важливий досвід покупки",
+    "summary": "Сучасні покупці мають безліч варіантів для придбання товарів, тому найнижча ціна не є гарантією продажу. Замість цього важливими стають швидкість, зручність, безпека та загальний клієнтський досвід. Досвід компанії Kasta підтверджує цю тенденцію.",
+    "link": "https://rau.ua/news/iak-kliyent-pryyimaye-rishennia-pro-pokupku-chomu-nyzka-tcina-bilshe-ne-ye-golovnym-argumentom-dosvid-kasta/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
