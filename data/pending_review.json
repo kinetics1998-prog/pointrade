@@ -134591,5 +134591,767 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "285940438112",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Gwaltowny-spadek-pustostanow-Srodmiescie-prawie-w-calosci-wynajete-9167868.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gwałtowny spadek pustostanów. Śródmieście prawie w całości wynajęte",
+    "body_orig": "Na koniec czerwca 2026 roku zasoby nowoczesnej powierzchni biurowej w Warszawie wyniosły około 6,23 mln m kw. - podała Polska Izba Nieruchomości Komercyjnych w komunikacie prasowym.",
+    "published": "2026-07-19T12:46:00",
+    "fetched": "2026-07-19T16:57:28.441716",
+    "title_uk": "Варшава майже повністю заповнена сучасними офісами",
+    "summary_uk": "На кінець червня 2026 року в Варшаві було близько 6.2 млн м² сучасних офісних приміщень. Польська Ізба Нерухомості Комерційних повідомила про різке зменшення вакантних площ. Це свідчить про активізацію ринку оренди офісів у столиці Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення вакантних площ може свідчити про зростання попиту на офісні приміщення, що може вплинути на логістику та обслуговування бізнесу в Польщі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання заповнюваності офісів може вплинути на попит на послуги HoReCa в цьому районі. Рекомендується переглянути стратегії постачання для відповідних категорій."
+    },
+    "tags": [
+      "логістика",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Варшава майже повністю заповнена сучасними офісами",
+    "summary": "На кінець червня 2026 року в Варшаві було близько 6.2 млн м² сучасних офісних приміщень. Польська Ізба Нерухомості Комерційних повідомила про різке зменшення вакантних площ. Це свідчить про активізацію ринку оренди офісів у столиці Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/Gwaltowny-spadek-pustostanow-Srodmiescie-prawie-w-calosci-wynajete-9167868.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "23b3523b313e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/nowe-technologie/rewolucja-humanoidow-czy-miliard-robotow-ai-do-2040-r-odmieni-gospodarke-swiatowa/l0s614j",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Miliard humanoidalnych robotów do 2040 r., przewiduje CEO SoftBank. Jak to wpłynie na świat?",
+    "body_orig": "Masayoshi Son, założyciel i prezes SoftBank Group (Japonia), podczas corocznej konferencji inwestorskiej przedstawił wizję, która może na zawsze zmienić sposób, w jaki funkcjonuje światowa gospodarka. Według niego do 2040 r. na świecie powstanie 1 mld humanoidów wyposażonych w zaawansowaną sztuczną inteligencję.",
+    "published": "2026-07-19T16:35:00",
+    "fetched": "2026-07-19T16:57:29.943669",
+    "title_uk": "SoftBank прогнозує 1 мільярд роботів до 2040 року",
+    "summary_uk": "Масайоші Сон, засновник SoftBank, на інвестконференції заявив про плани створення 1 млрд гуманоїдних роботів з AI до 2040 року. Це може суттєво змінити світову економіку. Очікується, що роботи будуть інтегровані у різні сфери життя.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "SoftBank прогнозує 1 мільярд роботів до 2040 року",
+    "summary": "Масайоші Сон, засновник SoftBank, на інвестконференції заявив про плани створення 1 млрд гуманоїдних роботів з AI до 2040 року. Це може суттєво змінити світову економіку. Очікується, що роботи будуть інтегровані у різні сфери життя.",
+    "link": "https://businessinsider.com.pl/technologie/nowe-technologie/rewolucja-humanoidow-czy-miliard-robotow-ai-do-2040-r-odmieni-gospodarke-swiatowa/l0s614j",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a2cdd086f982",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/obligacje-skarbowe-na-lato-czy-oplaca-sie-zamienic-wygasajace-papiery/rqkzex8",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kluczowe miesiące dla Ministerstwa Finansów. Możesz na tym zarobić",
+    "body_orig": "Gospodarstwa domowe mają spore znaczenie dla realizacji celu potrzeb pożyczkowych rządu. Szczególnie ważne pod tym względem są miesiące letnie, kiedy zapadają detaliczne obligacje skarbowe warte miliardy złotych. MF zachęca do przeprowadzenia zamiany. Sprawdzamy, czy to się opłaca.",
+    "published": "2026-07-19T14:30:23",
+    "fetched": "2026-07-19T16:57:29.943694",
+    "title_uk": "Літні місяці важливі для польського Міністерства фінансів",
+    "summary_uk": "Польське Міністерство фінансів акцентує увагу на важливості літніх місяців для досягнення цілей з позик. У цей період випускаються детальні облігації на мільярди злотих. Міністерство закликає до обміну облігацій, що може бути вигідним для інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Можливість інвестування в облігації може підвищити ліквідність дистриб'юторів, які мають вільні кошти.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Літні місяці важливі для польського Міністерства фінансів",
+    "summary": "Польське Міністерство фінансів акцентує увагу на важливості літніх місяців для досягнення цілей з позик. У цей період випускаються детальні облігації на мільярди злотих. Міністерство закликає до обміну облігацій, що може бути вигідним для інвесторів.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/obligacje-skarbowe-na-lato-czy-oplaca-sie-zamienic-wygasajace-papiery/rqkzex8",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "78d84d959610",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/handel/oplaty-od-paczek-z-chin-juz-dzialaja-rynek-e-commerce-notuje-tapniecie/k8m6s78",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Trzy euro od paczki z Chin działa. Spadek przesyłek już dwucyfrowy",
+    "body_orig": "Wprowadzenie dodatkowych opłat od przesyłek spoza Unii Europejskiej już po dwóch tygodniach przyniosło zauważalne efekty. Dostawcy odnotowują wyraźny, dwucyfrowy spadek liczby paczek z Chin — informuje \"Rzeczpospolita\". Jeśli obecny trend się utrzyma, liczba przesyłek z Państwa Środka do UE może zmniejszyć się nawet o miliard rocznie.",
+    "published": "2026-07-19T14:27:59",
+    "fetched": "2026-07-19T16:57:29.943704",
+    "title_uk": "Спад кількості посилок з Китаю до ЄС через нові збори",
+    "summary_uk": "Введення додаткових зборів на посилки з-за меж ЄС призвело до двозначного зниження їх кількості. За два тижні постачальники зафіксували значне скорочення, яке може досягти мільярда посилок на рік. Це вплине на ринок доставки в Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження кількості посилок з Китаю може призвести до зменшення конкуренції на ринку, що вплине на ціни та асортимент. Дистриб'ютори повинні переглянути свої закупівлі та плани на майбутнє.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "імпорт",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Спад кількості посилок з Китаю до ЄС через нові збори",
+    "summary": "Введення додаткових зборів на посилки з-за меж ЄС призвело до двозначного зниження їх кількості. За два тижні постачальники зафіксували значне скорочення, яке може досягти мільярда посилок на рік. Це вплине на ринок доставки в Європі.",
+    "link": "https://businessinsider.com.pl/finanse/handel/oplaty-od-paczek-z-chin-juz-dzialaja-rynek-e-commerce-notuje-tapniecie/k8m6s78",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dcadfd3b861e",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/deik-chief-pushes-for-turkiye-to-partner-in-eus-green-digital-shift-224539",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "DEİK chief pushes for Türkiye to partner in EU’s green, digital shift",
+    "body_orig": "Türkiye should move beyond the role of a supplier to Europe and position itself as a founding partner in the European Union’s green and digital industrial transformation, according to Mehmet Ali Yalçındağ, head of the Foreign Economic Relations Board’s (DEİK) Türkiye-Europe Business Councils.",
+    "published": "2026-07-19T10:22:07",
+    "fetched": "2026-07-19T16:57:40.191765",
+    "title_uk": "Туреччина прагне стати партнером ЄС у зеленій та цифровій трансформації",
+    "summary_uk": "Голова DEİK Мехмет Алі Ялчіндаг закликав Туреччину перейти від ролі постачальника до стратегічного партнера ЄС у сфері зеленої та цифрової промислової трансформації. Це може відкрити нові можливості для співпраці між Туреччиною та Європою.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають партнерів у ЄС, зокрема у сферах екологічних технологій та цифровізації.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина прагне стати партнером ЄС у зеленій та цифровій трансформації",
+    "summary": "Голова DEİK Мехмет Алі Ялчіндаг закликав Туреччину перейти від ролі постачальника до стратегічного партнера ЄС у сфері зеленої та цифрової промислової трансформації. Це може відкрити нові можливості для співпраці між Туреччиною та Європою.",
+    "link": "https://www.hurriyetdailynews.com/deik-chief-pushes-for-turkiye-to-partner-in-eus-green-digital-shift-224539",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c55f0815c23",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/central-bank-set-to-meet-for-rate-decision-this-week-224538",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Central Bank set to meet for rate decision this week",
+    "body_orig": "The Central Bank’s Monetary Policy Committee (MPC) is scheduled to meet on July 23 to decide on the key policy rate, with most analysts expecting the bank to leave the rate unchanged at 37 percent.",
+    "published": "2026-07-19T10:10:07",
+    "fetched": "2026-07-19T16:57:40.191780",
+    "title_uk": "Центральний банк Туреччини вирішить ставку на засіданні 23 липня",
+    "summary_uk": "Монетарний комітет Центрального банку Туреччини зустрінеться 23 липня для ухвалення рішення щодо ключової процентної ставки. Більшість аналітиків очікує, що ставка залишиться на рівні 37%. Це рішення вплине на фінансові ринки та кредитування в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Рішення про ставку може вплинути на вартість кредитів для виробників. Якщо плануєте розширення, враховуйте можливі зміни у фінансуванні.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Центральний банк Туреччини вирішить ставку на засіданні 23 липня",
+    "summary": "Монетарний комітет Центрального банку Туреччини зустрінеться 23 липня для ухвалення рішення щодо ключової процентної ставки. Більшість аналітиків очікує, що ставка залишиться на рівні 37%. Це рішення вплине на фінансові ринки та кредитування в країні.",
+    "link": "https://www.hurriyetdailynews.com/central-bank-set-to-meet-for-rate-decision-this-week-224538",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7a1282614cf0",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-ice-cream-exports-reach-23-5-million-in-four-months-224537",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s ice cream exports reach $23.5 million in four months",
+    "body_orig": "Türkiye exported $23.5 million worth of ice cream in the first four months of 2026, with Iraq, the United States, Northern Cyprus, Kosovo and Kazakhstan emerging as key export markets.",
+    "published": "2026-07-19T10:07:22",
+    "fetched": "2026-07-19T16:57:40.191792",
+    "title_uk": "Експорт морозива з Туреччини досяг $23.5 млн за 4 місяці",
+    "summary_uk": "Туреччина експортувала морозиво на суму $23.5 млн у перші чотири місяці 2026 року. Основними ринками стали Ірак, США, Північний Кіпр, Косово та Казахстан. Цей показник свідчить про зростання попиту на турецьке морозиво за кордоном.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це свідчить про зростання попиту на турецьке морозиво, що може бути сигналом для розширення експорту до нових ринків, включаючи Україну.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Експорт морозива з Туреччини досяг $23.5 млн за 4 місяці",
+    "summary": "Туреччина експортувала морозиво на суму $23.5 млн у перші чотири місяці 2026 року. Основними ринками стали Ірак, США, Північний Кіпр, Косово та Казахстан. Цей показник свідчить про зростання попиту на турецьке морозиво за кордоном.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-ice-cream-exports-reach-23-5-million-in-four-months-224537",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0a9a45f37223",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/tim-board-approves-poste-italianes-10-8-bln-euro-bid-224533",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "TIM board approves Poste Italiane's 10.8 bln euro bid",
+    "body_orig": "The board of Telecom Italia (TIM) unanimously approved on July 18 the 10.8-billion-euro ($12.4-billion) voluntary public tender and exchange offer from Poste Italiane, deeming it fair, the company said.",
+    "published": "2026-07-19T09:28:15",
+    "fetched": "2026-07-19T16:57:40.191827",
+    "title_uk": "Telecom Italia схвалила пропозицію Poste Italiane на €10.8 млрд",
+    "summary_uk": "Правління Telecom Italia одноголосно підтримало добровільну пропозицію Poste Italiane на €10.8 млрд. Компанія вважає цю угоду справедливою. Пропозиція включає обмін акцій та викуп акцій компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Telecom Italia схвалила пропозицію Poste Italiane на €10.8 млрд",
+    "summary": "Правління Telecom Italia одноголосно підтримало добровільну пропозицію Poste Italiane на €10.8 млрд. Компанія вважає цю угоду справедливою. Пропозиція включає обмін акцій та викуп акцій компанії.",
+    "link": "https://www.hurriyetdailynews.com/tim-board-approves-poste-italianes-10-8-bln-euro-bid-224533",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6c8c33c3ad87",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/chinese-company-warns-of-legal-action-after-british-steel-nationalization-224527",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Chinese company warns of legal action after British Steel nationalization",
+    "body_orig": "Jingye Steel demanded compensation and threatened the U.K. government with legal action on July 19, after London took control of British Steel from the Chinese firm.",
+    "published": "2026-07-19T08:54:23",
+    "fetched": "2026-07-19T16:57:40.191836",
+    "title_uk": "Китайська компанія Jingye Steel погрожує судом через націоналізацію British Steel",
+    "summary_uk": "Jingye Steel вимагає компенсацію від уряду Великої Британії після націоналізації British Steel. Компанія заявила про намір подати позов 19 липня 2026 року, коли Лондон взяв під контроль активи, що належали китайській фірмі. Це може призвести до юридичних наслідків для британського уряду.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайська компанія Jingye Steel погрожує судом через націоналізацію British Steel",
+    "summary": "Jingye Steel вимагає компенсацію від уряду Великої Британії після націоналізації British Steel. Компанія заявила про намір подати позов 19 липня 2026 року, коли Лондон взяв під контроль активи, що належали китайській фірмі. Це може призвести до юридичних наслідків для британського уряду.",
+    "link": "https://www.hurriyetdailynews.com/chinese-company-warns-of-legal-action-after-british-steel-nationalization-224527",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c04eeeb11020",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/elektrikli-araclarin-sarj-tuketimi-yilin-ilk-yarisinda-yuzde-153-5-artti/4002729",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Elektrikli araçların şarj tüketimi yılın ilk yarısında yüzde 153,5 arttı",
+    "body_orig": "Türkiye'de elektrikli araçların şarj hizmeti kapsamında tükettiği elektrik miktarı, yılın ilk yarısında geçen yılın aynı dönemine göre yüzde 153,5 artarak 392 bin 252 megavatsaate ulaştı.",
+    "published": "2026-07-19T09:00:42",
+    "fetched": "2026-07-19T16:57:44.106210",
+    "title_uk": "Споживання електрики для зарядки авто в Туреччині зросло на 154%",
+    "summary_uk": "У першій половині року споживання електрики для зарядки електромобілів у Туреччині зросло на 154% у порівнянні з минулим роком, досягнувши 392 тисяч мегават-годин. Це свідчить про зростаючий інтерес до електромобілів у країні. Збільшення споживання електрики може вплинути на інфраструктуру зарядних станцій.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання споживання електрики для зарядки свідчить про потенційний ріст попиту на електромобілі. Виробники можуть розглянути можливість розширення асортименту електромобілів.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Споживання електрики для зарядки авто в Туреччині зросло на 154%",
+    "summary": "У першій половині року споживання електрики для зарядки електромобілів у Туреччині зросло на 154% у порівнянні з минулим роком, досягнувши 392 тисяч мегават-годин. Це свідчить про зростаючий інтерес до електромобілів у країні. Збільшення споживання електрики може вплинути на інфраструктуру зарядних станцій.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/elektrikli-araclarin-sarj-tuketimi-yilin-ilk-yarisinda-yuzde-153-5-artti/4002729",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "de145b73595c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/soguk-hava-depolari-urun-israfini-onlerken-gidada-arz-guvenligine-katki-sagliyor/4002670",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Soğuk hava depoları ürün israfını önlerken gıdada arz güvenliğine katkı sağlıyor",
+    "body_orig": "Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK) Başkanı Ahmet Antalyalı, soğuk hava depolarının ulusal ölçekte gıda israfını ve kayıplarını önlediğini, gıda arz güvenliğine de katkı sağladığını söyledi.",
+    "published": "2026-07-19T08:01:36",
+    "fetched": "2026-07-19T16:57:44.106220",
+    "title_uk": "Холодильні склади зменшують харчові відходи в Туреччині",
+    "summary_uk": "Голова TKDK Ахмет Анталялі повідомив, що холодильні склади допомагають зменшити харчові відходи та забезпечити продовольчу безпеку в країні. Вони відіграють важливу роль у збереженні продуктів та зменшенні втрат. Ця ініціатива має позитивний вплив на аграрний сектор.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Інвестиції в холодильні склади можуть покращити зберігання продукції та зменшити втрати. Рекомендується розглянути можливості для співпраці з такими складами.",
+      "category_manager": "Зменшення харчових відходів може позитивно вплинути на асортимент та цінову політику. Рекомендується переглянути стратегії управління запасами."
+    },
+    "tags": [
+      "логістика",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Холодильні склади зменшують харчові відходи в Туреччині",
+    "summary": "Голова TKDK Ахмет Анталялі повідомив, що холодильні склади допомагають зменшити харчові відходи та забезпечити продовольчу безпеку в країні. Вони відіграють важливу роль у збереженні продуктів та зменшенні втрат. Ця ініціатива має позитивний вплив на аграрний сектор.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/soguk-hava-depolari-urun-israfini-onlerken-gidada-arz-guvenligine-katki-sagliyor/4002670",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "660658d478d3",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/napolyon-kirazindaki-verim-ureticinin-yuzunu-gulduruyor/4002707",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Napolyon kirazındaki verim üreticinin yüzünü güldürüyor",
+    "body_orig": "Afyonkarahisar'ın Çay ve Sultandağı ilçelerinde hasadına başlanan ve yüksek rekoltesiyle öne çıkan Napolyon kirazında verim, üreticiyi memnun etti.",
+    "published": "2026-07-19T08:31:57",
+    "fetched": "2026-07-19T16:57:44.106239",
+    "title_uk": "Високий врожай черешні Napolyon радує виробників у Туреччині",
+    "summary_uk": "У районах Чай і Султандаг в Афьонкарахісарі розпочався збір черешні Napolyon, яка відзначається високою врожайністю. Виробники задоволені результатами, що свідчить про позитивні тенденції в агросекторі. Очікується, що це вплине на ринок черешні в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Висока врожайність черешні може відкрити нові можливості для експорту. Рекомендується розглянути ринки, де попит на цю продукцію зростає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Високий врожай черешні Napolyon радує виробників у Туреччині",
+    "summary": "У районах Чай і Султандаг в Афьонкарахісарі розпочався збір черешні Napolyon, яка відзначається високою врожайністю. Виробники задоволені результатами, що свідчить про позитивні тенденції в агросекторі. Очікується, що це вплине на ринок черешні в регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/napolyon-kirazindaki-verim-ureticinin-yuzunu-gulduruyor/4002707",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ea7b4bc4d12",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/abd-nin-onde-gelen-teknoloji-sirketlerinin-toplam-piyasa-degeri-115-milyar-dolarin-uzerinde-artti/4002702",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ABD’nin önde gelen teknoloji şirketlerinin toplam piyasa değeri 115 milyar doların üzerinde arttı",
+    "body_orig": "Nvidia, Alphabet, Apple, Microsoft, Amazon, Tesla ve Meta'nın toplam piyasa değeri yılın ilk yarısında 115 milyar 300 milyon dolar artarak 22 trilyon 100 milyar 800 milyon dolara yükseldi.",
+    "published": "2026-07-19T08:25:41",
+    "fetched": "2026-07-19T16:57:44.106249",
+    "title_uk": "Підвищення ринкової вартості провідних технологічних компаній США",
+    "summary_uk": "У першій половині року ринкова вартість Nvidia, Alphabet, Apple, Microsoft, Amazon, Tesla та Meta зросла на $115 млрд, досягнувши $22 трлн. Це свідчить про зростання інтересу до технологічного сектору. Найбільші компанії продовжують демонструвати стабільний ріст.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Підвищення ринкової вартості провідних технологічних компаній США",
+    "summary": "У першій половині року ринкова вартість Nvidia, Alphabet, Apple, Microsoft, Amazon, Tesla та Meta зросла на $115 млрд, досягнувши $22 трлн. Це свідчить про зростання інтересу до технологічного сектору. Найбільші компанії продовжують демонструвати стабільний ріст.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/abd-nin-onde-gelen-teknoloji-sirketlerinin-toplam-piyasa-degeri-115-milyar-dolarin-uzerinde-artti/4002702",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7df1639e7376",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/auto/asaltul-chinei-pe-piata-auto-byd-poate-detrona-toyota-din-pozitia-de-cel-mai-mare-producator-auto-din-lume-dupa-volumul-vanzarilor-chiar-si-fara-acces-la-piata-din-sua-23195875",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Asaltul Chinei pe piaţa auto: BYD poate detrona Toyota din poziţia de cel mai mare producător auto din lume după volumul vânzărilor chiar şi fără acces la piaţa din SUA",
+    "body_orig": "",
+    "published": "2026-07-19T13:50:00",
+    "fetched": "2026-07-19T16:57:46.039831",
+    "title_uk": "Китайська BYD може обійти Toyota за обсягом продажів авто",
+    "summary_uk": "Компанія BYD з Китаю має можливість стати найбільшим виробником автомобілів у світі за обсягом продажів, навіть без доступу до ринку США. Вона вже демонструє зростання продажів, що може загрожувати позиціям Toyota. Конкуренція на ринку автомобілів посилюється через інновації та зниження цін на електромобілі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайська BYD може обійти Toyota за обсягом продажів авто",
+    "summary": "Компанія BYD з Китаю має можливість стати найбільшим виробником автомобілів у світі за обсягом продажів, навіть без доступу до ринку США. Вона вже демонструє зростання продажів, що може загрожувати позиціям Toyota. Конкуренція на ринку автомобілів посилюється через інновації та зниження цін на електромобілі.",
+    "link": "https://www.zf.ro/auto/asaltul-chinei-pe-piata-auto-byd-poate-detrona-toyota-din-pozitia-de-cel-mai-mare-producator-auto-din-lume-dupa-volumul-vanzarilor-chiar-si-fara-acces-la-piata-din-sua-23195875",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9c4e1a2b371a",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ce-a-castigat-romania-in-20-de-ani-de-ue-oamenii-traiesc-mai-bine-si-suntem-primii-la-cresterea-consumului-la-educatie-am-ramas-mult-in-urma-iar-viitorul-arata-rau-rethink-romania_959809.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce a câștigat România în 20 de ani de UE: Oamenii trăiesc mai bine și suntem primii la creșterea consumului. La educație am rămas mult în urmă, iar viitorul arată rău- Rethink România",
+    "body_orig": "Anul viitor, în 2027, România împlinește 20 de ani de când a intrat în Uniunea Europeană. Rethink România a analizat evoluția principalilor indicatori economici, demografici și sociali și trage o concluzie clară: marele succes al celor două decenii este creșterea nivelului de trai al populației. Se putea, totuși, mult mai bine.",
+    "published": "2026-07-19T13:32:38",
+    "fetched": "2026-07-19T16:57:48.195834",
+    "title_uk": "Румунія святкує 20 років в ЄС: зростання рівня життя та споживання",
+    "summary_uk": "У 2027 році Румунія відзначить 20-річчя вступу до ЄС. Згідно з аналізом Rethink România, основним досягненням є підвищення рівня життя населення. Проте в освіті країна відстає, що може вплинути на майбутнє. Відзначено зростання споживання, але є можливості для покращення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія святкує 20 років в ЄС: зростання рівня життя та споживання",
+    "summary": "У 2027 році Румунія відзначить 20-річчя вступу до ЄС. Згідно з аналізом Rethink România, основним досягненням є підвищення рівня життя населення. Проте в освіті країна відстає, що може вплинути на майбутнє. Відзначено зростання споживання, але є можливості для покращення.",
+    "link": "https://www.economica.net/ce-a-castigat-romania-in-20-de-ani-de-ue-oamenii-traiesc-mai-bine-si-suntem-primii-la-cresterea-consumului-la-educatie-am-ramas-mult-in-urma-iar-viitorul-arata-rau-rethink-romania_959809.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f97f06c699bd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/statiuni-din-sudul-litoralului-fara-electricitate-din-cauza-unor-avarii-la-retea_960618.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Staţiuni din sudul litoralului, fără electricitate din cauza unor avarii la reţea. Consum mare, peste puterea contractată de unele hoteluri",
+    "body_orig": "Mai multe staţiuni din sudul litoralului au rămas fără curent electric începând de sâmbătă, echipele de intervenţie ale distribuitorului de electricitate remediind avariile în mod gradual, intervenţii care urmează să fie finalizate duminică după-amiază. De vină este consumul mare, prea mare în unele cazuri față de puterea din contract pentru unele unități turistice.",
+    "published": "2026-07-19T12:16:16",
+    "fetched": "2026-07-19T16:57:48.195873",
+    "title_uk": "Курорти на півдні Румунії залишилися без електрики через аварії",
+    "summary_uk": "Кілька курортів на півдні Румунії з суботи залишилися без електрики через великі аварії в мережі. Команди електропостачальника поступово усувають проблеми, які мають бути завершені до неділі. Причиною стало перевищення споживання електроенергії в деяких готелях порівняно з контрактною потужністю.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "HoReCa"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Курорти на півдні Румунії залишилися без електрики через аварії",
+    "summary": "Кілька курортів на півдні Румунії з суботи залишилися без електрики через великі аварії в мережі. Команди електропостачальника поступово усувають проблеми, які мають бути завершені до неділі. Причиною стало перевищення споживання електроенергії в деяких готелях порівняно з контрактною потужністю.",
+    "link": "https://www.economica.net/statiuni-din-sudul-litoralului-fara-electricitate-din-cauza-unor-avarii-la-retea_960618.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "921729d2adbc",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/17/ukrayinskii-biznes-zbilsuje-import-komplektuiucix-dlia-lokalnogo-virobnictva/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Український бізнес збільшує імпорт комплектуючих для локального виробництва — дослідження",
+    "body_orig": "Компанії дедалі частіше купують за кордоном деталі та електронні модулі, що дозволяє їм економити на логістиці та швидше реагувати на зміни попиту.",
+    "published": "2026-07-19T11:10:00",
+    "fetched": "2026-07-19T16:57:34.948058",
+    "title_uk": "Українські компанії збільшують імпорт комплектуючих для виробництва",
+    "summary_uk": "Українські підприємства активно імпортують деталі та електронні модулі з-за кордону. Це дозволяє знижувати витрати на логістику та швидше реагувати на зміни попиту. Зростання імпорту свідчить про адаптацію бізнесу до нових умов ринку.",
+    "what_it_means": {
+      "ua_importer": "Зростання імпорту комплектуючих відкриває нові можливості для українських імпортерів, які можуть знижувати витрати та підвищувати конкурентоспроможність.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Збільшення імпорту комплектуючих може вплинути на асортимент товарів у ритейлі. Рекомендується переглянути стратегії закупівель та адаптувати їх до нових трендів."
+    },
+    "tags": [
+      "імпорт",
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Українські компанії збільшують імпорт комплектуючих для виробництва",
+    "summary": "Українські підприємства активно імпортують деталі та електронні модулі з-за кордону. Це дозволяє знижувати витрати на логістику та швидше реагувати на зміни попиту. Зростання імпорту свідчить про адаптацію бізнесу до нових умов ринку.",
+    "link": "https://ain.ua/2026/07/17/ukrayinskii-biznes-zbilsuje-import-komplektuiucix-dlia-lokalnogo-virobnictva/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4c507085ed54",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/17/ia-buduvav-marketpleisi-os-comu-teper-obiraiu-antimarketpleis-kolonka/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Я будував маркетплейси. Ось чому тепер обираю «антимаркетплейс» — колонка",
+    "body_orig": "Артем Шевченко, CEO «Цитрус», співзасновник Hubber і колишній CEO Monomarket, у колонці для AIN пояснює, чому після років роботи з маркетплейсами став прихильником «антимаркетплейсу», як ШІ знизив технологічний поріг входу та чому головним активом платформи тепер є не продавці, а клієнти.",
+    "published": "2026-07-19T09:04:24",
+    "fetched": "2026-07-19T16:57:34.948074",
+    "title_uk": "Чому CEO «Цитрус» обирає «антимаркетплейс»",
+    "summary_uk": "Артем Шевченко, CEO «Цитрус», розповідає про свій перехід від маркетплейсів до «антимаркетплейсу». Він зазначає, що штучний інтелект знизив технологічний поріг входу, а головним активом платформи стали клієнти, а не продавці. Це свідчить про зміни в підходах до бізнесу в епоху цифровізації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна акценту на клієнтів може вплинути на стратегії категорійного менеджменту. Розгляньте можливість адаптації до нових бізнес-моделей."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Чому CEO «Цитрус» обирає «антимаркетплейс»",
+    "summary": "Артем Шевченко, CEO «Цитрус», розповідає про свій перехід від маркетплейсів до «антимаркетплейсу». Він зазначає, що штучний інтелект знизив технологічний поріг входу, а головним активом платформи стали клієнти, а не продавці. Це свідчить про зміни в підходах до бізнесу в епоху цифровізації.",
+    "link": "https://ain.ua/2026/07/17/ia-buduvav-marketpleisi-os-comu-teper-obiraiu-antimarketpleis-kolonka/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "207c5039220c",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/life/diplom-bilse-ne-garantuje-zarplatu-robotodavci-teper-platyat-za-get-insi-navicki-pjzqo1",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Диплом більше не гарантує зарплату: роботодавці тепер платять за геть інші навички",
+    "body_orig": "Технічні скіли відкривають двері, а от кар'єру будують зовсім інші речі. Дослідження показують: у 2026 році компанії платять не за диплом, а за вміння домовлятися, не панікувати в хаосі та грамотно ставити задачі штучному інтелекту, розповідають на&nbsp;MC: Money &amp; Career.",
+    "published": "2026-07-19T14:58:13",
+    "fetched": "2026-07-19T16:57:35.701111",
+    "title_uk": "Диплом більше не гарантує зарплату: нові навички в ціні",
+    "summary_uk": "Дослідження показує, що до 2026 року компанії оцінюватимуть працівників не за дипломами, а за навичками, такими як вміння домовлятися та ставити задачі штучному інтелекту. Це свідчить про зміну вимог на ринку праці. Роботодавці акцентують увагу на гнучкості та стресостійкості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Диплом більше не гарантує зарплату: нові навички в ціні",
+    "summary": "Дослідження показує, що до 2026 року компанії оцінюватимуть працівників не за дипломами, а за навичками, такими як вміння домовлятися та ставити задачі штучному інтелекту. Це свідчить про зміну вимог на ринку праці. Роботодавці акцентують увагу на гнучкості та стресостійкості.",
+    "link": "https://speka.ua/life/diplom-bilse-ne-garantuje-zarplatu-robotodavci-teper-platyat-za-get-insi-navicki-pjzqo1",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
