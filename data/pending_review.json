@@ -135353,5 +135353,1048 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "f4fb2dddaec4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ryanair-z-wynikami-za-I-kwartal-Wiecej-pasazerow-tansze-bilety-i-spadek-zyskow-9170441.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ryanair z wynikami za I kwartał. Więcej pasażerów, tańsze bilety i... spadek zysków",
+    "body_orig": "Ryanair opublikował właśnie swoje wyniki finansowe za pierwszy kwartał roku finansowego 2027 (okres od kwietnia do czerwca 2026 r.) i wyłaniający się z nich obraz jest słodko-gorzki. Z jednej strony samoloty irlandzkiego przewoźnika pękają w szwach, z drugiej – zyski firmy zaliczyły zauważalny spadek. Przyjrzyjmy się bliżej, co wpłynęło na takie wyniki i co to oznacza dla pasażerów.",
+    "published": "2026-07-20T08:18:00",
+    "fetched": "2026-07-20T07:39:03.351232",
+    "title_uk": "Ryanair звітує про зростання пасажирів, але зниження прибутків",
+    "summary_uk": "Ryanair опублікував фінансові результати за I квартал 2027 року. Кількість пасажирів зросла, проте прибутки компанії знизилися. Це пов'язано з зниженням цін на квитки, що вплинуло на фінансові показники.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання кількості пасажирів може підвищити попит на продукти в сегменті HoReCa. Розгляньте можливість збільшення постачань до аеропортів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "HoReCa",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ryanair звітує про зростання пасажирів, але зниження прибутків",
+    "summary": "Ryanair опублікував фінансові результати за I квартал 2027 року. Кількість пасажирів зросла, проте прибутки компанії знизилися. Це пов'язано з зниженням цін на квитки, що вплинуло на фінансові показники.",
+    "link": "https://www.bankier.pl/wiadomosc/Ryanair-z-wynikami-za-I-kwartal-Wiecej-pasazerow-tansze-bilety-i-spadek-zyskow-9170441.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d5790615a2d3",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-maju-2026-W-tych-miastach-widac-juz-spadki-9169680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Indeks cen mieszkań znów w górę, ale ceny mieszkań w tych miastach spadają",
+    "body_orig": "Polski rynek mieszkaniowy wkracza w fazę stabilizacji z wyraźnym wyhamowaniem dynamiki wzrostów. Choć indeks cen wciąż rośnie, to w największych aglomeracjach coraz częściej widać lokalne korekty cen ofertowych. Co więcej, wciąż rośnie rozstrzał między wyceną a kwotami faktycznie płaconymi za mieszkania. Odporność na te trendy wykazuje jedynie stale drożejący rynek gruntów.",
+    "published": "2026-07-20T05:00:00",
+    "fetched": "2026-07-20T07:39:03.351243",
+    "title_uk": "Ціни на житло в Польщі стабілізуються, але в деяких містах знижуються",
+    "summary_uk": "Польський ринок житла демонструє ознаки стабілізації, з уповільненням зростання цін. Незважаючи на загальний ріст індексу, в найбільших містах спостерігаються локальні корекції цін. Різниця між оцінками та фактичними цінами на житло продовжує зростати, тоді як ринок земельних ділянок залишається стійким.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на житло може вплинути на витрати на комерційну нерухомість, що варто врахувати при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Слідкуйте за змінами цін на житло, оскільки це може вплинути на купівельну спроможність споживачів та попит на FMCG."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на житло в Польщі стабілізуються, але в деяких містах знижуються",
+    "summary": "Польський ринок житла демонструє ознаки стабілізації, з уповільненням зростання цін. Незважаючи на загальний ріст індексу, в найбільших містах спостерігаються локальні корекції цін. Різниця між оцінками та фактичними цінами на житло продовжує зростати, тоді як ринок земельних ділянок залишається стійким.",
+    "link": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-maju-2026-W-tych-miastach-widac-juz-spadki-9169680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "705ab5d94fe3",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Mocna-reakcja-gield-Ceny-ropy-gwaltownie-rosna-po-grozbach-Teheranu-9170368.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Mocna reakcja giełd. Ceny ropy gwałtownie rosną po groźbach Teheranu",
+    "body_orig": "Ceny ropy naftowej Brent wzrosły w poniedziałek rano na otwarciu sesji azjatyckiej powyżej 90 dolarów za baryłkę, osiągając najwyższy poziom od połowy czerwca. To gwałtowna reakcja rynków na eskalację konfliktu militarnego między Stanami Zjednoczonymi a Iranem.",
+    "published": "2026-07-20T05:39:00",
+    "fetched": "2026-07-20T07:39:03.351253",
+    "title_uk": "Ціни на нафту Brent перевищили $90 за барель через загострення конфлікту",
+    "summary_uk": "Ціни на нафту Brent зросли до понад $90 за барель, що є найвищим показником з червня. Це сталося через ескалацію військового конфлікту між США та Іраном. Ринок реагує на загрози з Тегерана.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення витрат на імпорт енергоносіїв в Україні. Імпортерам варто переглянути ціни на свою продукцію.",
+      "pl_distributor": "Польські дистриб'ютори FMCG повинні врахувати можливе підвищення цін на паливо, що може вплинути на логістику та витрати на доставку.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту Brent перевищили $90 за барель через загострення конфлікту",
+    "summary": "Ціни на нафту Brent зросли до понад $90 за барель, що є найвищим показником з червня. Це сталося через ескалацію військового конфлікту між США та Іраном. Ринок реагує на загрози з Тегерана.",
+    "link": "https://www.bankier.pl/wiadomosc/Mocna-reakcja-gield-Ceny-ropy-gwaltownie-rosna-po-grozbach-Teheranu-9170368.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ec7d2f982c5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/podwyzki-plac-mialy-byc-skromniejsze-ale-jest-zaskoczenie-tyle-sie-teraz-zarabia/3g1mewx",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Podwyżki płac miały być skromniejsze, ale jest zaskoczenie. Tyle się teraz zarabia",
+    "body_orig": "Przeciętne wynagrodzenie w średnich i dużych firmach w czerwcu 2026 r. wyraźnie przekraczało 9 tys. zł brutto — wynika z raportu Głównego Urzędu Statystycznego (GUS) opublikowanego w poniedziałek.",
+    "published": "2026-07-20T07:33:50",
+    "fetched": "2026-07-20T07:39:04.869427",
+    "title_uk": "Середня зарплата в Польщі перевищила 9 тис. злотих",
+    "summary_uk": "Середня зарплата в середніх і великих компаніях у червні 2026 року перевищила 9 тис. злотих брутто. Це стало відомо з нового звіту Головного управління статистики Польщі. Зростання зарплат стало несподіванкою для експертів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання зарплат може призвести до підвищення витрат на персонал. Дистриб'юторам варто переглянути ціни на продукцію, щоб зберегти маржу.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання зарплат може вплинути на споживчий попит. Рекомендується переглянути асортимент і ціни, щоб адаптуватися до змін на ринку."
+    },
+    "tags": [
+      "економіка",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Середня зарплата в Польщі перевищила 9 тис. злотих",
+    "summary": "Середня зарплата в середніх і великих компаніях у червні 2026 року перевищила 9 тис. злотих брутто. Це стало відомо з нового звіту Головного управління статистики Польщі. Зростання зарплат стало несподіванкою для експертів.",
+    "link": "https://businessinsider.com.pl/praca/podwyzki-plac-mialy-byc-skromniejsze-ale-jest-zaskoczenie-tyle-sie-teraz-zarabia/3g1mewx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d91be646dff4",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/ai-rosnie-w-sile-w-polsce-ponad-6000-nowych-firm-w-pol-roku/ecnbm0d",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Branża w rozkwicie. W pół roku przybyło ponad 6000 firm",
+    "body_orig": "Ponad 6000 firm AI zarejestrowano w Polsce w pierwszym półroczu 2026 r., a każdego dnia powstały średnio 34 takie biznesy — pisze \"Rzeczpospolita\".",
+    "published": "2026-07-20T07:01:13",
+    "fetched": "2026-07-20T07:39:04.869451",
+    "title_uk": "В Польщі зареєстровано понад 6000 нових компаній у сфері AI",
+    "summary_uk": "У першій половині 2026 року в Польщі з'явилося понад 6000 нових компаній, що займаються штучним інтелектом. Це означає, що щодня реєструвалися в середньому 34 нові бізнеси. Зростання свідчить про активний розвиток ринку технологій у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання кількості компаній у сфері AI може призвести до збільшення попиту на інноваційні рішення в дистрибуції. Розгляньте можливості співпраці з новими гравцями.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання AI-компаній може вплинути на категорійний менеджмент, оскільки нові технології можуть змінити підходи до управління полицями та аналізу даних. Слідкуйте за новими рішеннями на ринку."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Польщі зареєстровано понад 6000 нових компаній у сфері AI",
+    "summary": "У першій половині 2026 року в Польщі з'явилося понад 6000 нових компаній, що займаються штучним інтелектом. Це означає, що щодня реєструвалися в середньому 34 нові бізнеси. Зростання свідчить про активний розвиток ринку технологій у країні.",
+    "link": "https://businessinsider.com.pl/biznes/ai-rosnie-w-sile-w-polsce-ponad-6000-nowych-firm-w-pol-roku/ecnbm0d",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8cce00ed4854",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/zus-zmienia-zasady-wynagrodzen-lekarzy-nowe-stawki-zaskakuja-specjalistow/8lnn091",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nawet 20 tys. zł. ZUS wprowadza nowe zasady wynagradzania kadry medycznej",
+    "body_orig": "W Zakładzie Ubezpieczeń Społecznych obowiązują nowe zasady ustalania wynagrodzeń dla kadry medycznej. Lekarze orzecznicy zatrudnieni w ZUS mogą liczyć na pensje w przedziale od 14,2 tys. zł do 20 tys. zł brutto. To efekt wdrażania kolejnego etapu reformy orzecznictwa lekarskiego.",
+    "published": "2026-07-20T05:54:05",
+    "fetched": "2026-07-20T07:39:04.869470",
+    "title_uk": "Польща підвищує зарплати для медиків у ZUS до 20 тис. злотих",
+    "summary_uk": "У ZUS запроваджено нові правила визначення зарплат для медичних працівників. Лікарі-експерти можуть отримувати від 14.2 тис. до 20 тис. злотих брутто. Це частина реформи медичного оцінювання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польща підвищує зарплати для медиків у ZUS до 20 тис. злотих",
+    "summary": "У ZUS запроваджено нові правила визначення зарплат для медичних працівників. Лікарі-експерти можуть отримувати від 14.2 тис. до 20 тис. злотих брутто. Це частина реформи медичного оцінювання.",
+    "link": "https://businessinsider.com.pl/praca/zus-zmienia-zasady-wynagrodzen-lekarzy-nowe-stawki-zaskakuja-specjalistow/8lnn091",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "712998096dfb",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/ataki-w-zatoce-perskiej-winduja-ceny-ropy-branza-energetyczna-w-napieciu/4v44lyw",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ropa najdroższa od ponad miesiąca. Efekt ataków na Iran",
+    "body_orig": "Ceny ropy wzrosły powyżej 90 dol. za baryłkę po raz pierwszy od ponad miesiąca. Do podwyżki doszło po tym, jak Stany Zjednoczone przeprowadziły kolejną falę ataków na Iran, a liczba amerykańskich żołnierzy zabitych w konflikcie wzrosła.",
+    "published": "2026-07-20T05:27:37",
+    "fetched": "2026-07-20T07:39:04.869480",
+    "title_uk": "Ціни на нафту зросли до найвищого рівня за місяць",
+    "summary_uk": "Ціни на нафту перевищили $90 за барель вперше за понад місяць. Зростання відбулося після нових атак США на Іран, що призвело до збільшення кількості загиблих американських військових у конфлікті.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціни на нафту зросли до найвищого рівня за місяць",
+    "summary": "Ціни на нафту перевищили $90 за барель вперше за понад місяць. Зростання відбулося після нових атак США на Іран, що призвело до збільшення кількості загиблих американських військових у конфлікті.",
+    "link": "https://businessinsider.com.pl/gielda/ataki-w-zatoce-perskiej-winduja-ceny-ropy-branza-energetyczna-w-napieciu/4v44lyw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8a4cce94bfc3",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/od-dzis-nowe-zasady-programu-czyste-powietrze-wyzsze-dotacje/hvnsxy4",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Od dziś nowe zasady programu „Czyste Powietrze”. Wyższe dotacje",
+    "body_orig": "Od 20 lipca wchodzą w życie pierwsze zmiany w rządowym programie \"Czyste Powietrze\". Będzie wyższe wsparcie na termomodernizację oraz uproszczenie zasad dla nowych beneficjentów. W drugiej połowie roku wprowadzony ma zostać bon na audyt energetyczny.",
+    "published": "2026-07-20T04:56:08",
+    "fetched": "2026-07-20T07:39:04.869489",
+    "title_uk": "Польща підвищує підтримку в програмі «Чисте повітря»",
+    "summary_uk": "З 20 липня в Польщі запроваджуються зміни в програмі «Чисте повітря». Збільшено фінансування на термомодернізацію, а також спрощено умови для нових учасників. У другій половині року планується введення ваучера на енергетичний аудит.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть збільшити попит на енергоефективні рішення, що вигідно для дистриб'юторів, які працюють у цій категорії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Збільшення фінансування на термомодернізацію може підвищити попит на відповідні товари в ритейлі. Рекомендується переглянути асортимент енергоефективних продуктів."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща підвищує підтримку в програмі «Чисте повітря»",
+    "summary": "З 20 липня в Польщі запроваджуються зміни в програмі «Чисте повітря». Збільшено фінансування на термомодернізацію, а також спрощено умови для нових учасників. У другій половині року планується введення ваучера на енергетичний аудит.",
+    "link": "https://businessinsider.com.pl/wiadomosci/od-dzis-nowe-zasady-programu-czyste-powietrze-wyzsze-dotacje/hvnsxy4",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e47f86d181c0",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/ceny-w-sklepach-zjechaly-dol-koszyk-ponizej-100-zl/m4b7vlj",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nagły zwrot cenowy. Stawki poszły w nowym kierunku [Koszyk zakupowy Business Insidera i aplikacji PanParagon]",
+    "body_orig": "Mimo rosnących cen paliw, w sklepach spożywczych w ostatnim tygodniu płaciliśmy za zakupy wyraźnie mniej. Po raz pierwszy w tym roku nasz koszyk spadł poniżej 100 zł.",
+    "published": "2026-07-20T04:49:26",
+    "fetched": "2026-07-20T07:39:04.869498",
+    "title_uk": "Ціни на продукти в Польщі знизились вперше в 2026 році",
+    "summary_uk": "У польських супермаркетах ціни на продукти знизились, і кошик покупок вперше в цьому році опустився нижче 100 злотих. Це відбулося попри зростання цін на паливо. Зниження цін може свідчити про зміни в ринковій ситуації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін може призвести до зменшення маржі. Розгляньте перегляд цінових стратегій та акцій для залучення покупців.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на продукти може відкрити можливості для перегляду асортименту та акцій. Рекомендується адаптувати стратегії управління полицею для підтримки конкурентоспроможності."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на продукти в Польщі знизились вперше в 2026 році",
+    "summary": "У польських супермаркетах ціни на продукти знизились, і кошик покупок вперше в цьому році опустився нижче 100 злотих. Це відбулося попри зростання цін на паливо. Зниження цін може свідчити про зміни в ринковій ситуації.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/ceny-w-sklepach-zjechaly-dol-koszyk-ponizej-100-zl/m4b7vlj",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8f5a7e67cfec",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/tankowce-plona-ceny-ropy-wystrzelily-kolejna-granica-przebita-7309390959663552a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowy wstrząs na rynku ropy. Oto co się dzieje z cenami",
+    "body_orig": "Ceny ropy Brent przebiły w poniedziałek rano na otwarciu handlu w Azji poziom 90 dolarów za baryłkę, osiągając najwyższe wartości od połowy czerwca. To gwałtowna reakcja rynków na eskalację konfliktu militarnego między Stanami Zjednoczonymi a Iranem.",
+    "published": "2026-07-20T04:01:17",
+    "fetched": "2026-07-20T07:39:07.435683",
+    "title_uk": "Ціни на нафту Brent перевищили $90 за барель через конфлікт в Ірані",
+    "summary_uk": "Ціни на нафту Brent зросли до $90 за барель, досягнувши найвищого рівня з червня. Це сталося через ескалацію військового конфлікту між США та Іраном. Ринок реагує на новини про загострення ситуації.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може вплинути на вартість імпортованих товарів, особливо енергетичних. Рекомендується переглянути ціни на продукцію, що залежить від нафтопродуктів.",
+      "pl_distributor": "Зростання цін на нафту може призвести до підвищення витрат на логістику. Варто переглянути умови контрактів з постачальниками.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на нафту може вплинути на витрати на транспортування товарів. Рекомендується переглянути бюджети на логістику та ціни на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "імпорт"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на нафту Brent перевищили $90 за барель через конфлікт в Ірані",
+    "summary": "Ціни на нафту Brent зросли до $90 за барель, досягнувши найвищого рівня з червня. Це сталося через ескалацію військового конфлікту між США та Іраном. Ринок реагує на новини про загострення ситуації.",
+    "link": "https://www.money.pl/gospodarka/tankowce-plona-ceny-ropy-wystrzelily-kolejna-granica-przebita-7309390959663552a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a6b196c9e52",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/electric-vehicle-charging-consumption-up-154-percent-in-first-half-224566",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Electric vehicle charging consumption up 154 percent in first half",
+    "body_orig": "The amount of electricity consumed through electric vehicle charging services in Türkiye increased by 153.5 percent in the first half of the year compared with the same period last year, reaching 392,252 megawatt-hours (MWh), according to data released by the Energy Market Regulatory Authority.",
+    "published": "2026-07-20T06:34:36",
+    "fetched": "2026-07-20T07:39:16.917524",
+    "title_uk": "Споживання електрики для зарядки електромобілів у Туреччині зросло на 154%",
+    "summary_uk": "У першій половині року споживання електрики для зарядки електромобілів у Туреччині зросло на 154% в порівнянні з аналогічним періодом минулого року, досягнувши 392 тисяч мегават-годин. Дані надані Регулятором енергетичного ринку. Це свідчить про зростаючий інтерес до електромобілів у країні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання споживання електрики для зарядки електромобілів може свідчити про зростаючий ринок електромобілів у Туреччині. Це відкриває можливості для виробників електромобілів та зарядних станцій.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Споживання електрики для зарядки електромобілів у Туреччині зросло на 154%",
+    "summary": "У першій половині року споживання електрики для зарядки електромобілів у Туреччині зросло на 154% в порівнянні з аналогічним періодом минулого року, досягнувши 392 тисяч мегават-годин. Дані надані Регулятором енергетичного ринку. Це свідчить про зростаючий інтерес до електромобілів у країні.",
+    "link": "https://www.hurriyetdailynews.com/electric-vehicle-charging-consumption-up-154-percent-in-first-half-224566",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "382267d94537",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/misleading-discounts-under-scrutiny-as-summer-sales-approach-224565",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Misleading discounts under scrutiny as summer sales approach",
+    "body_orig": "With retailers rolling out seasonal promotions ahead of the summer sales period, consumer watchdogs are warning shoppers to look beyond eye-catching discount claims.",
+    "published": "2026-07-20T06:33:39",
+    "fetched": "2026-07-20T07:39:16.917533",
+    "title_uk": "Знижки під прицілом: споживачам радять бути обережними",
+    "summary_uk": "Перед початком літніх розпродажів рітейлери запускають акції, але споживчі організації попереджають про можливі маніпуляції зі знижками. Вони закликають покупців уважно перевіряти реальні ціни та знижки. Це може вплинути на довіру до рітейлерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Споживчі організації можуть вплинути на репутацію рітейлерів, тому важливо контролювати акції та знижки, щоб уникнути негативних наслідків для бренду."
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Знижки під прицілом: споживачам радять бути обережними",
+    "summary": "Перед початком літніх розпродажів рітейлери запускають акції, але споживчі організації попереджають про можливі маніпуляції зі знижками. Вони закликають покупців уважно перевіряти реальні ціни та знижки. Це може вплинути на довіру до рітейлерів.",
+    "link": "https://www.hurriyetdailynews.com/misleading-discounts-under-scrutiny-as-summer-sales-approach-224565",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e05ef93f7660",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-2026-2028-arasinda-toplam-187-5-milyar-lirayi-imalat-sektorumuzun-kullanimina-sunacagiz/4003338",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Işıkhan: 2026-2028 arasında toplam 187,5 milyar lirayı imalat sektörümüzün kullanımına sunacağız",
+    "body_orig": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"2026-2028 arasında toplam 187,5 milyar lirayı imalat sektörümüzün kullanımına sunacağız.\" ifadesini kullandı.",
+    "published": "2026-07-20T07:17:38",
+    "fetched": "2026-07-20T07:39:20.238293",
+    "title_uk": "Туреччина виділить €7.5 млрд на розвиток виробництва до 2028",
+    "summary_uk": "Міністр праці та соціального забезпечення Туреччини Ведат Ішикхан оголосив про виділення €7.5 млрд на підтримку виробничого сектору в період з 2026 по 2028 роки. Це фінансування має на меті покращити інфраструктуру та технології в промисловості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це фінансування може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі або Румунії. Важливо стежити за змінами в інфраструктурі та технологіях.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина виділить €7.5 млрд на розвиток виробництва до 2028",
+    "summary": "Міністр праці та соціального забезпечення Туреччини Ведат Ішикхан оголосив про виділення €7.5 млрд на підтримку виробничого сектору в період з 2026 по 2028 роки. Це фінансування має на меті покращити інфраструктуру та технології в промисловості.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-2026-2028-arasinda-toplam-187-5-milyar-lirayi-imalat-sektorumuzun-kullanimina-sunacagiz/4003338",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d3c78c8c434",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tarimsal-girdi-fiyat-endeksi-mayista-yillik-yuzde-36-65-aylik-yuzde-0-44-artti/4003333",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Tarımsal girdi fiyat endeksi mayısta yıllık yüzde 36,65, aylık yüzde 0,44 arttı",
+    "body_orig": "Tarımsal girdi fiyat endeksi (Tarım-GFE), mayısta yıllık bazda yüzde 36,65, aylık bazda yüzde 0,44 artış gösterdi.",
+    "published": "2026-07-20T07:13:28",
+    "fetched": "2026-07-20T07:39:20.238328",
+    "title_uk": "Ціни на сільськогосподарські витрати в Туреччині зросли на 36,7% за рік",
+    "summary_uk": "Індекс цін на сільськогосподарські витрати в Туреччині у травні зріс на 36,7% у річному вимірі та на 0,4% у місячному. Це свідчить про зростання витрат у агросекторі, що може вплинути на ціни на продукцію. Виробники сільгосппродукції стикаються з підвищенням витрат на ресурси.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на сільськогосподарські витрати в Туреччині може призвести до підвищення цін на імпортовану продукцію з цієї країни. Рекомендується переглянути контракти на постачання.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання витрат може зменшити конкурентоспроможність турецьких виробників на зовнішніх ринках. Важливо оптимізувати витрати та шукати нові ринки.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на сільськогосподарські витрати в Туреччині зросли на 36,7% за рік",
+    "summary": "Індекс цін на сільськогосподарські витрати в Туреччині у травні зріс на 36,7% у річному вимірі та на 0,4% у місячному. Це свідчить про зростання витрат у агросекторі, що може вплинути на ціни на продукцію. Виробники сільгосппродукції стикаються з підвищенням витрат на ресурси.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tarimsal-girdi-fiyat-endeksi-mayista-yillik-yuzde-36-65-aylik-yuzde-0-44-artti/4003333",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5e55995be14",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-dususle-basladi/4003314",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa haftaya düşüşle başladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,32 düşüşle 13.936,16 puandan başladı.",
+    "published": "2026-07-20T06:59:18",
+    "fetched": "2026-07-20T07:39:20.238337",
+    "title_uk": "Істамбул: біржа відкрилася зі зниженням на 0,32%",
+    "summary_uk": "BIST 100 на біржі Стамбула розпочала тиждень зі зниження на 0,32%, досягнувши 13.936 пунктів. Це свідчить про певну нестабільність на ринку. Інвестори можуть переглядати свої стратегії в умовах змін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження індексу може свідчити про зменшення інвестиційної привабливості. Рекомендується переглянути стратегії виходу на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Істамбул: біржа відкрилася зі зниженням на 0,32%",
+    "summary": "BIST 100 на біржі Стамбула розпочала тиждень зі зниження на 0,32%, досягнувши 13.936 пунктів. Це свідчить про певну нестабільність на ринку. Інвестори можуть переглядати свої стратегії в умовах змін.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-dususle-basladi/4003314",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5ccd7ad17a0c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-valori-in-usoara-crestere-luni-dimineata-actiunile-electrica-si-transelectrica-castiga-1-8-respectiv-1-pietele-vest-europene-pe-minus-23198678",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de Valori, în uşoară creştere luni dimineaţa: Acţiunile Electrica şi Transelectrica câştigă 1,8%, respectiv 1%. Pieţele vest-europene, pe minus",
+    "body_orig": "",
+    "published": "2026-07-20T07:29:54",
+    "fetched": "2026-07-20T07:39:21.754311",
+    "title_uk": "Ринок акцій Румунії зростає: Electrica та Transelectrica в плюсі",
+    "summary_uk": "Румунська фондова біржа показала невелике зростання. Акції Electrica піднялися на 2%, а Transelectrica — на 1%. Водночас, західноєвропейські ринки демонструють негативну динаміку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ринок акцій Румунії зростає: Electrica та Transelectrica в плюсі",
+    "summary": "Румунська фондова біржа показала невелике зростання. Акції Electrica піднялися на 2%, а Transelectrica — на 1%. Водночас, західноєвропейські ринки демонструють негативну динаміку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-valori-in-usoara-crestere-luni-dimineata-actiunile-electrica-si-transelectrica-castiga-1-8-respectiv-1-pietele-vest-europene-pe-minus-23198678",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5a0a9c6d2b56",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/gigantul-castiga-cel-mult-boom-ul-nvidia-nici-microsoft-banca-americana-morgan-stanley-devenit-principalul-finantator-spatele-investitiilor-zeci-miliarde-dolari-centrele-date-dezvoltand-modele-23198673",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Gigantul care câştigă cel mai mult din boom-ul AI nu este Nvidia şi nici Microsoft. Banca americană Morgan Stanley a devenit principalul finanţator din spatele investiţiilor de zeci de miliarde de dolari în centrele de date AI, dezvoltând noi modele de finanţare",
+    "body_orig": "",
+    "published": "2026-07-20T07:18:20",
+    "fetched": "2026-07-20T07:39:21.754327",
+    "title_uk": "Morgan Stanley стає головним фінансистом AI-інвестицій",
+    "summary_uk": "Morgan Stanley залучив десятки мільярдів доларів для інвестицій в центри даних AI. Банк розробив нові моделі фінансування, що дозволяють підтримувати розвиток технологій штучного інтелекту. Це може змінити ринок фінансування в технологічному секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Morgan Stanley стає головним фінансистом AI-інвестицій",
+    "summary": "Morgan Stanley залучив десятки мільярдів доларів для інвестицій в центри даних AI. Банк розробив нові моделі фінансування, що дозволяють підтримувати розвиток технологій штучного інтелекту. Це може змінити ринок фінансування в технологічному секторі.",
+    "link": "https://www.zf.ro/banci-si-asigurari/gigantul-castiga-cel-mult-boom-ul-nvidia-nici-microsoft-banca-americana-morgan-stanley-devenit-principalul-finantator-spatele-investitiilor-zeci-miliarde-dolari-centrele-date-dezvoltand-modele-23198673",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb82f1f37cfb",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/danezii-de-la-eurowind-incep-constructia-a-trei-parcuri-eoliene-in-galati-si-constanta-cu-o-capacitate-totala-de-138-mw-23198674",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Danezii de la Eurowind încep construcţia a trei parcuri eoliene în Galaţi şi Constanţa, cu o capacitate totală de 138 MW",
+    "body_orig": "",
+    "published": "2026-07-20T07:16:03",
+    "fetched": "2026-07-20T07:39:21.754338",
+    "title_uk": "Eurowind розпочинає будівництво трьох вітрових електростанцій в Румунії",
+    "summary_uk": "Компанія Eurowind почала будівництво трьох вітрових парків у Галаці та Констанці з загальною потужністю 138 МВт. Проект сприятиме розвитку відновлювальної енергетики в регіоні. Очікується, що нові електростанції зменшать викиди CO2 та забезпечать нові робочі місця.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Eurowind розпочинає будівництво трьох вітрових електростанцій в Румунії",
+    "summary": "Компанія Eurowind почала будівництво трьох вітрових парків у Галаці та Констанці з загальною потужністю 138 МВт. Проект сприятиме розвитку відновлювальної енергетики в регіоні. Очікується, що нові електростанції зменшать викиди CO2 та забезпечать нові робочі місця.",
+    "link": "https://www.zf.ro/companii/energie/danezii-de-la-eurowind-incep-constructia-a-trei-parcuri-eoliene-in-galati-si-constanta-cu-o-capacitate-totala-de-138-mw-23198674",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb1d1ea970ec",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/conflictul-din-iran-adanceste-criza-energetica-pretul-petrolului-brent-a-crescut-luni-cu-2-4-pana-la-90-de-dolari-barilul-maximul-din-ultima-luna-23198657",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Conflictul din Iran adânceşte criza energetică. Preţul petrolului Brent a crescut luni cu 2,4%, până la 90 de dolari barilul, maximul din ultima lună",
+    "body_orig": "",
+    "published": "2026-07-20T06:38:01",
+    "fetched": "2026-07-20T07:39:21.754388",
+    "title_uk": "Ціни на нафту зросли до $90 за барель через конфлікт в Ірані",
+    "summary_uk": "Ціни на нафту марки Brent піднялися на 2% до $90 за барель, що є максимальним показником за останній місяць. Зростання цін пов'язане з ескалацією конфлікту в Ірані, що викликає занепокоєння на ринку енергетики. Інвестори стежать за ситуацією, оскільки це може вплинути на глобальні постачання.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення вартості імпортних товарів, особливо енергетичних. Імпортерам варто переглянути ціни на продукцію.",
+      "pl_distributor": "Польські дистриб'ютори можуть очікувати підвищення цін на паливо, що вплине на логістику та витрати на доставку товарів.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту зросли до $90 за барель через конфлікт в Ірані",
+    "summary": "Ціни на нафту марки Brent піднялися на 2% до $90 за барель, що є максимальним показником за останній місяць. Зростання цін пов'язане з ескалацією конфлікту в Ірані, що викликає занепокоєння на ринку енергетики. Інвестори стежать за ситуацією, оскільки це може вплинути на глобальні постачання.",
+    "link": "https://www.zf.ro/companii/energie/conflictul-din-iran-adanceste-criza-energetica-pretul-petrolului-brent-a-crescut-luni-cu-2-4-pana-la-90-de-dolari-barilul-maximul-din-ultima-luna-23198657",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d68fae24acde",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noi-parcuri-eoliene-in-romania-danezii-de-la-eurowind-incep-constructia-a-trei-centrale-eoliene-138-mw-in-galati-si-constanta_960699.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noi parcuri eoliene în România. Danezii de la Eurowind încep construcția a trei centrale eoliene, 138 MW, în Galați și Constanța",
+    "body_orig": "Eurowind Energy România anunță obținerea Autorizațiilor de Înființare de la Autoritatea Națională de Reglementare în Domeniul Energiei (ANRE) și startul lucrărilor de construcție pentru parcurile eoliene Frumușița, Vector și Pecineaga Nord-Est, potrivit unui comunicat de presă.",
+    "published": "2026-07-20T07:17:39",
+    "fetched": "2026-07-20T07:39:23.682567",
+    "title_uk": "Данці починають будівництво трьох вітрових електростанцій в Румунії",
+    "summary_uk": "Eurowind Energy România отримала дозволи на будівництво трьох вітрових електростанцій загальною потужністю 138 МВт у Румунії. Проекти розташовані в Галаці та Констанці. Будівництво розпочнеться найближчим часом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Данці починають будівництво трьох вітрових електростанцій в Румунії",
+    "summary": "Eurowind Energy România отримала дозволи на будівництво трьох вітрових електростанцій загальною потужністю 138 МВт у Румунії. Проекти розташовані в Галаці та Констанці. Будівництво розпочнеться найближчим часом.",
+    "link": "https://www.economica.net/noi-parcuri-eoliene-in-romania-danezii-de-la-eurowind-incep-constructia-a-trei-centrale-eoliene-138-mw-in-galati-si-constanta_960699.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9bd6abf999e6",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/criza-severa-in-toata-europa-probleme-grave-cu-motorina-la-stocuri-si-pe-lanturile-de-aprovizionare-avertisment-morgan-stanley_960683.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Problemele mari cu motorina din  Europa se vor agrava, avertizează Morgan Stanley. În România, prețurile continuă să crească",
+    "body_orig": "Piaţa de motorină din Europa se confruntă cu o serie de mari probleme simultane pe partea de aprovizionare, susţin analiştii băncii americane Morgan Stanley, care atrag atenţia asupra nivelului record al marjelor de rafinare şi a stocurilor scăzute din regiune, transmite Bloomberg.",
+    "published": "2026-07-20T06:37:00",
+    "fetched": "2026-07-20T07:39:23.682609",
+    "title_uk": "Проблеми з постачанням дизельного пального в Європі посилюються",
+    "summary_uk": "Morgan Stanley попереджає про серйозні проблеми на ринку дизельного пального в Європі. Рівень маржі рафінування досяг рекорду, а запаси пального знижуються. Це може призвести до подальшого зростання цін у регіоні.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на дизельне пальне в Європі може вплинути на вартість імпортованих товарів в Україні. Імпортерам слід переглянути логістичні витрати.",
+      "pl_distributor": "Польські дистриб'ютори можуть зіткнутися з підвищенням цін на дизель, що вплине на витрати на транспортування. Рекомендується переглянути контракти з постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Проблеми з постачанням дизельного пального в Європі посилюються",
+    "summary": "Morgan Stanley попереджає про серйозні проблеми на ринку дизельного пального в Європі. Рівень маржі рафінування досяг рекорду, а запаси пального знижуються. Це може призвести до подальшого зростання цін у регіоні.",
+    "link": "https://www.economica.net/criza-severa-in-toata-europa-probleme-grave-cu-motorina-la-stocuri-si-pe-lanturile-de-aprovizionare-avertisment-morgan-stanley_960683.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "55bc300d6251",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/sustainability/community-involvement/13-local-gastronomic-points-recognised-as-heritage-custodians-in-romania-298546",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "13 Local Gastronomic Points recognised as heritage custodians in Romania",
+    "body_orig": "Thirteen Local Gastronomic Points from across Romania have joined the Romania’s Creative Traditions network as recognised “heritage custodians”, highlighting the growing role of small rural food businesses in preserving local identity and supporting community development. The new members were selected following a national call for applications and were formally presented on July 17 at the [&#8230;]\nThe post 13 Local Gastronomic Points recognised as heritage custodians in Romania appeared first on Business Review.",
+    "published": "2026-07-20T06:08:18",
+    "fetched": "2026-07-20T07:39:29.728427",
+    "title_uk": "13 гастрономічних точок Румунії визнані охоронцями спадщини",
+    "summary_uk": "Тринадцять гастрономічних точок Румунії приєдналися до мережі Creative Traditions як охоронці спадщини. Це підкреслює важливість малих сільських бізнесів у збереженні місцевої ідентичності. Нові учасники були обрані за результатами національного конкурсу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "13 гастрономічних точок Румунії визнані охоронцями спадщини",
+    "summary": "Тринадцять гастрономічних точок Румунії приєдналися до мережі Creative Traditions як охоронці спадщини. Це підкреслює важливість малих сільських бізнесів у збереженні місцевої ідентичності. Нові учасники були обрані за результатами національного конкурсу.",
+    "link": "https://business-review.eu/sustainability/community-involvement/13-local-gastronomic-points-recognised-as-heritage-custodians-in-romania-298546",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ca08beb5ccb1",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/milan-based-contents-acquires-spanish-financial-wellbeing-platform-balio-in-sixth-buy-and-build-deal/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Milan-based Contents acquires Spanish financial wellbeing platform Balio in sixth buy-and-build deal",
+    "body_orig": "Contents, a Milan-based enterprise execution platform that orchestrates AI agents, enterprise knowledge and approval workflows for global brands, has acquired Balio, a Barcelona-based enterprise company specialising in corporate financial wellbeing. The financial terms of the transaction were not disclosed. This deal represents Contents’ sixth acquisition and further advances its buy-and-build strategy, which it has been [&#8230;]\nThe post Milan-based Contents acquires Spanish financial wellbeing platform Balio in sixth buy-and-build deal appeared first on EU-Startups.",
+    "published": "2026-07-20T07:04:17",
+    "fetched": "2026-07-20T07:39:02.597203",
+    "title_uk": "Contents придбала фінансову платформу Balio в Іспанії",
+    "summary_uk": "Міланська компанія Contents, що спеціалізується на управлінні бізнес-процесами, придбала іспанську платформу Balio, яка займається корпоративним фінансовим добробутом. Умови угоди не розголошені. Це вже шосте придбання Contents у рамках стратегії buy-and-build.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Contents придбала фінансову платформу Balio в Іспанії",
+    "summary": "Міланська компанія Contents, що спеціалізується на управлінні бізнес-процесами, придбала іспанську платформу Balio, яка займається корпоративним фінансовим добробутом. Умови угоди не розголошені. Це вже шосте придбання Contents у рамках стратегії buy-and-build.",
+    "link": "https://www.eu-startups.com/2026/07/milan-based-contents-acquires-spanish-financial-wellbeing-platform-balio-in-sixth-buy-and-build-deal/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1595fffc8ac0",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/bez-nazvi-9gw308",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як я навчив Gemini аналізувати лоти на OLX: практичний кейс із модульної архітектури для ШІ",
+    "body_orig": "Від ідеї до практики: як CK.MELA аналізує OLX за допомогою Gemini",
+    "published": "2026-07-19T22:20:47",
+    "fetched": "2026-07-20T07:39:10.949706",
+    "title_uk": "CK.MELA використовує Gemini для аналізу лотів на OLX",
+    "summary_uk": "Компанія CK.MELA розробила рішення на базі штучного інтелекту Gemini, яке аналізує лоти на платформі OLX. Це дозволяє оптимізувати процеси продажу та підвищити ефективність роботи з даними. Інструмент вже демонструє позитивні результати у практичному використанні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження таких технологій може стати прикладом для ритейлерів в Україні, які прагнуть оптимізувати аналіз даних та прийняття рішень."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "CK.MELA використовує Gemini для аналізу лотів на OLX",
+    "summary": "Компанія CK.MELA розробила рішення на базі штучного інтелекту Gemini, яке аналізує лоти на платформі OLX. Це дозволяє оптимізувати процеси продажу та підвищити ефективність роботи з даними. Інструмент вже демонструє позитивні результати у практичному використанні.",
+    "link": "https://speka.ua/business/bez-nazvi-9gw308",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fe83367aed08",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/trtc-respublika-park-investuye-45-mln-grn-u-transportnu-infrastrukturu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "ТРЦ Respublika Park інвестує 45 млн грн у транспортну інфраструктуру",
+    "body_orig": "Столичний ТРЦ Respublika Park підбив підсумки першого півріччя 2026 року. За цей період комплекс відвідали 11,3 млн гостей — майже на 6% більше, ніж торік, а компанії, пов’язані з його експлуатацією та управлінням, сплатили 305,4 млн грн податків і зборів. Водночас ТРЦ інвестує близько 45 млн грн у…",
+    "published": "2026-07-20T03:45:49",
+    "fetched": "2026-07-20T07:39:31.260872",
+    "title_uk": "ТРЦ Respublika Park інвестує 45 млн грн у транспортну інфраструктуру",
+    "summary_uk": "ТРЦ Respublika Park у Києві підбив підсумки першого півріччя 2026 року. Комплекс відвідали 11,3 млн гостей, що на 6% більше, ніж минулого року. Компанії, пов’язані з експлуатацією ТРЦ, сплатили 305,4 млн грн податків. ТРЦ інвестує 45 млн грн у транспортну інфраструктуру.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Інвестиції в інфраструктуру можуть поліпшити доступність ТРЦ, що позитивно вплине на відвідуваність і продажі. Рекомендується врахувати це при плануванні промо-акцій."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "ТРЦ Respublika Park інвестує 45 млн грн у транспортну інфраструктуру",
+    "summary": "ТРЦ Respublika Park у Києві підбив підсумки першого півріччя 2026 року. Комплекс відвідали 11,3 млн гостей, що на 6% більше, ніж минулого року. Компанії, пов’язані з експлуатацією ТРЦ, сплатили 305,4 млн грн податків. ТРЦ інвестує 45 млн грн у транспортну інфраструктуру.",
+    "link": "https://rau.ua/news/trtc-respublika-park-investuye-45-mln-grn-u-transportnu-infrastrukturu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "db56cf327898",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/ukrayinskyyi-ryteyil-za-kordonom-golovni-vidkryttia-ukrayinskyyi-brendiv-u-pershiyi-polovyni-2026-roku/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Український ритейл за кордоном: головні відкриття вітчизняних брендів у першій половині 2026 року",
+    "body_orig": "Фраза «made in Ukraine» вже давно вийшла за межі локального патріотичного тренду і перетворилася на синонім якості, стилю та сміливого бізнес-мислення у всьому світі. Попри складну логістику, адаптацію під іноземного споживача та перші помилки, українські компанії впевнено завойовують закордонні рин…",
+    "published": "2026-07-20T03:29:31",
+    "fetched": "2026-07-20T07:39:31.260889",
+    "title_uk": "Українські бренди активно виходять на закордонні ринки",
+    "summary_uk": "Українські компанії успішно завойовують міжнародні ринки, перетворюючи «made in Ukraine» на символ якості. Незважаючи на виклики, такі як логістика та адаптація до іноземного споживача, вони продовжують розширювати свою присутність. Це свідчить про зростаючий інтерес до українських товарів за кордоном.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Українські бренди активно виходять на закордонні ринки",
+    "summary": "Українські компанії успішно завойовують міжнародні ринки, перетворюючи «made in Ukraine» на символ якості. Незважаючи на виклики, такі як логістика та адаптація до іноземного споживача, вони продовжують розширювати свою присутність. Це свідчить про зростаючий інтерес до українських товарів за кордоном.",
+    "link": "https://rau.ua/news/ukrayinskyyi-ryteyil-za-kordonom-golovni-vidkryttia-ukrayinskyyi-brendiv-u-pershiyi-polovyni-2026-roku/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
