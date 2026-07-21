@@ -136396,5 +136396,1155 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7027eb485826",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wycena-SpaceX-skurczyla-sie-o-bilion-dolarow-Spolka-Muska-przed-kluczowa-data-9170959.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wycena SpaceX skurczyła się o bilion dolarów. Spółka Muska przed kluczową datą",
+    "body_orig": "Akcje SpaceX zamknęły poniedziałkową sesję na nowym dołku, zaliczając siódmy spadkowy dzień z rzędu. Od czerwcowego szczytu wycena kosmicznego giganta skurczyła się o ponad bilion dolarów, spychając kurs coraz dalej od ceny z debiutu. W cieniu kiepskiej passy na notowaniach spółka Elona Muska oficjalnie ogłosiła datę publikacji pierwszego w historii sprawozdania finansowego.",
+    "published": "2026-07-21T07:10:00",
+    "fetched": "2026-07-21T07:03:36.192796",
+    "title_uk": "Вартість SpaceX знизилась на трильйон доларів",
+    "summary_uk": "Акції SpaceX впали на 7-й день поспіль, знизившись на понад трильйон доларів з червневого піку. Компанія оголосила дату публікації свого першого фінансового звіту. Це відбувається на фоні погіршення ринкових умов.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Вартість SpaceX знизилась на трильйон доларів",
+    "summary": "Акції SpaceX впали на 7-й день поспіль, знизившись на понад трильйон доларів з червневого піку. Компанія оголосила дату публікації свого першого фінансового звіту. Це відбувається на фоні погіршення ринкових умов.",
+    "link": "https://www.bankier.pl/wiadomosc/Wycena-SpaceX-skurczyla-sie-o-bilion-dolarow-Spolka-Muska-przed-kluczowa-data-9170959.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a26a4239ffe6",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-podwyzke-ryczaltu-Zmiany-obejma-takze-najem-9170571.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd szykuje podwyżkę ryczałtu. Zmiany obejmą także najem",
+    "body_orig": "Ministerstwo Finansów planuje podwyższenie ryczałtu dla części przedsiębiorców świadczących usługi opodatkowane obecnie stawką 8,5 proc. Jeżeli nie zatrudniają pracowników, od nadwyżki przychodów ponad 100 tys. zł mogą zapłacić 15 proc. Nowe zasady mają objąć również część przychodów z najmu uzyskiwanych od podmiotów powiązanych.",
+    "published": "2026-07-21T05:00:00",
+    "fetched": "2026-07-21T07:03:36.192814",
+    "title_uk": "Польща підвищує ставку податку для підприємців та орендарів",
+    "summary_uk": "Міністерство фінансів Польщі планує підвищити ставку податку для підприємців, які надають послуги за ставкою 8,5%. Якщо підприємці не мають працівників, вони сплачуватимуть 15% з надлишку доходів понад 100 тис. злотих. Зміни також торкнуться доходів від оренди, пов'язаних з підприємствами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні врахувати нові податкові ставки при плануванні цін на свої товари, особливо для послуг, що надаються підприємцями.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща підвищує ставку податку для підприємців та орендарів",
+    "summary": "Міністерство фінансів Польщі планує підвищити ставку податку для підприємців, які надають послуги за ставкою 8,5%. Якщо підприємці не мають працівників, вони сплачуватимуть 15% з надлишку доходів понад 100 тис. злотих. Зміни також торкнуться доходів від оренди, пов'язаних з підприємствами.",
+    "link": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-podwyzke-ryczaltu-Zmiany-obejma-takze-najem-9170571.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7200a3a3919",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Tysiace-firm-nie-zdaja-sobie-sprawy-z-nowych-obowiazkow-Co-i-do-kiedy-musza-zrobic-9170617.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tysiące firm nie zdają sobie sprawy z nowych obowiązków. Co i do kiedy muszą zrobić?",
+    "body_orig": "Wielu przedsiębiorców nie ma świadomości, że ciążą na nich obowiązki nałożone przez nowelizację ustawy o krajowym systemie cyberbezpieczeństwa (KSC). Muszą oni m.in. złożyć wniosek o wpis do stosownego wykazu. W ciągu dwóch miesięcy wpisało się do niego ok. 200 firm, tymczasem nowym przepisom podlega ok. 11 tys. jednostek niepublicznych. Jakie firmy podlegają ustawie i do kiedy mają czas na spełnienie obowiązków?",
+    "published": "2026-07-21T05:00:00",
+    "fetched": "2026-07-21T07:03:36.192826",
+    "title_uk": "Близько 11 тис. польських компаній повинні виконати нові вимоги",
+    "summary_uk": "Багато підприємців у Польщі не знають про нові обов'язки, пов'язані з оновленням закону про кібербезпеку. За два місяці до реєстру внесено лише 200 компаній, хоча під нові вимоги підпадає близько 11 тис. непублічних одиниць. Компанії мають термін для виконання обов'язків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Якщо ви працюєте з непублічними компаніями, переконайтеся, що вони знають про нові вимоги, щоб уникнути штрафів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Близько 11 тис. польських компаній повинні виконати нові вимоги",
+    "summary": "Багато підприємців у Польщі не знають про нові обов'язки, пов'язані з оновленням закону про кібербезпеку. За два місяці до реєстру внесено лише 200 компаній, хоча під нові вимоги підпадає близько 11 тис. непублічних одиниць. Компанії мають термін для виконання обов'язків.",
+    "link": "https://www.bankier.pl/wiadomosc/Tysiace-firm-nie-zdaja-sobie-sprawy-z-nowych-obowiazkow-Co-i-do-kiedy-musza-zrobic-9170617.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9860a689f6d2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Sprzedaz-aut-premium-w-I-pol-2026-Ranking-modeli-9170622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Luksus na polskich drogach traci blask, ale wciąż ma się dobrze. Te modele kupujemy najczęściej",
+    "body_orig": "W I poł. 2026 r. w Polsce zarejestrowano 68 871 samochodów klasyfikowanych w segmencie premium – wynika z danych Instytutu Badań Rynku Motoryzacyjnego Samar. Choć sprzedaż najdroższych aut wciąż rośnie, to ich udział w rynku maleje, ponieważ Polacy znacznie chętniej sięgają po tańsze auta.",
+    "published": "2026-07-21T05:00:00",
+    "fetched": "2026-07-21T07:03:36.192848",
+    "title_uk": "Продажі преміум-авто в Польщі зростають, але їх частка зменшується",
+    "summary_uk": "У першій половині 2026 року в Польщі зареєстровано 68 871 автомобіль преміум-класу. Незважаючи на зростання продажів, їх частка на ринку зменшується через збільшення попиту на дешевші автомобілі. Дані надані Інститутом Бадань Ринку Моторизації Samar.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання продажів преміум-авто може свідчити про зміни в споживчих вподобаннях. Розгляньте можливість розширення асортименту дешевших моделей.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зменшення частки преміум-авто може вплинути на категорійні стратегії. Розгляньте можливість акцій на доступні моделі для залучення нових клієнтів."
+    },
+    "tags": [
+      "ринок",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Продажі преміум-авто в Польщі зростають, але їх частка зменшується",
+    "summary": "У першій половині 2026 року в Польщі зареєстровано 68 871 автомобіль преміум-класу. Незважаючи на зростання продажів, їх частка на ринку зменшується через збільшення попиту на дешевші автомобілі. Дані надані Інститутом Бадань Ринку Моторизації Samar.",
+    "link": "https://www.bankier.pl/wiadomosc/Sprzedaz-aut-premium-w-I-pol-2026-Ranking-modeli-9170622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "93ae90b5d7e0",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/6-na-dwoch-lokatach-na-pol-roku-Najnowszy-ranking-lokat-Bankier-pl-9170654.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ranking lokat półrocznych. Tu można otrzymać stawkę przekraczającą 6%",
+    "body_orig": "Szukając atrakcyjnego oprocentowania dla oszczędności, warto przyjrzeć się ofertom na średni okres. Lokaty na 6 miesięcy to obecnie jedne z wyżej oprocentowanych depozytów, a topowe stawki na rynku sięgają 6,10 proc. w skali roku. Prześwietlamy aktualne propozycje banków na pół roku i sprawdzamy, gdzie odsetki będą najwyższe.",
+    "published": "2026-07-21T05:00:00",
+    "fetched": "2026-07-21T07:03:36.192870",
+    "title_uk": "Банки Польщі пропонують депозитні ставки понад 6%",
+    "summary_uk": "Польські банки пропонують вигідні умови для піврічних депозитів, з максимальними ставками до 6,1% річних. Це робить їх одними з найпривабливіших на ринку. Інвестори можуть отримати високі відсотки на свої заощадження.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Високі ставки можуть стимулювати споживчий попит, що позитивно вплине на обсяги продажів. Розгляньте можливість акцій для залучення клієнтів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Високі депозитні ставки можуть зменшити споживчі витрати на інші категорії. Перегляньте стратегії просування товарів у найближчі місяці."
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Банки Польщі пропонують депозитні ставки понад 6%",
+    "summary": "Польські банки пропонують вигідні умови для піврічних депозитів, з максимальними ставками до 6,1% річних. Це робить їх одними з найпривабливіших на ринку. Інвестори можуть отримати високі відсотки на свої заощадження.",
+    "link": "https://www.bankier.pl/wiadomosc/6-na-dwoch-lokatach-na-pol-roku-Najnowszy-ranking-lokat-Bankier-pl-9170654.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "de234a0f0f45",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/holenderski-gigant-chce-zatrzymac-pracownikow-oferuje-ogromne-premie/17xmqnj",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Pracownicy holenderskiego giganta mają otrzymać 20 tys. euro premii. Muszą spełnić jeden warunek",
+    "body_orig": "Pracownicy holenderskiego przedsiębiorstwa ASML mają otrzymać po 20 tys. euro premii. Stanie się tak, jeżeli będą pracować w firmie do 2030 r.",
+    "published": "2026-07-21T06:20:24",
+    "fetched": "2026-07-21T07:03:37.824383",
+    "title_uk": "Працівники ASML отримають премію за лояльність до 2030 року",
+    "summary_uk": "Співробітники голландської компанії ASML отримають по €20 тис. премії, якщо залишаться в компанії до 2030 року. Це рішення має на меті підвищити лояльність працівників. ASML є одним з провідних виробників обладнання для напівпровідників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "мотивація-ТП"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Працівники ASML отримають премію за лояльність до 2030 року",
+    "summary": "Співробітники голландської компанії ASML отримають по €20 тис. премії, якщо залишаться в компанії до 2030 року. Це рішення має на меті підвищити лояльність працівників. ASML є одним з провідних виробників обладнання для напівпровідників.",
+    "link": "https://businessinsider.com.pl/biznes/holenderski-gigant-chce-zatrzymac-pracownikow-oferuje-ogromne-premie/17xmqnj",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9515e2952dcf",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/ciesnina-ormuz-pod-ostrzalem-takie-bonusy-proponuja-armatorzy-dla-zalogi/td036ly",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gigantyczna pensja dla załogi za przepłynięcie cieśniny Ormuz. Tak kuszą armatorzy",
+    "body_orig": "Armatorzy próbują zachęcić marynarzy do podejmowania ryzykownych rejsów przez cieśninę Ormuz, oferując im wyjątkowo wysokie premie finansowe — informuje Bloomberg. W grę wchodzi nawet sześciokrotność wynagrodzenia.",
+    "published": "2026-07-21T05:39:50",
+    "fetched": "2026-07-21T07:03:37.824393",
+    "title_uk": "Арматори пропонують високі премії за ризикові рейси через Ормуз",
+    "summary_uk": "Компанії намагаються залучити моряків до небезпечних рейсів через Ормуз, пропонуючи до шести разів більше звичайної зарплати. Це рішення викликане ризиками, пов'язаними з цим маршрутом. Згідно з Bloomberg, премії можуть суттєво підвищити інтерес до цих рейсів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Арматори пропонують високі премії за ризикові рейси через Ормуз",
+    "summary": "Компанії намагаються залучити моряків до небезпечних рейсів через Ормуз, пропонуючи до шести разів більше звичайної зарплати. Це рішення викликане ризиками, пов'язаними з цим маршрутом. Згідно з Bloomberg, премії можуть суттєво підвищити інтерес до цих рейсів.",
+    "link": "https://businessinsider.com.pl/gospodarka/ciesnina-ormuz-pod-ostrzalem-takie-bonusy-proponuja-armatorzy-dla-zalogi/td036ly",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "998441e7d030",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/wynajem-mieszkania-na-doby-po-nowemu-takie-beda-skutki-podatkowe/s8prkmp",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Najem krótkoterminowy. Korzystasz z firmy zarządzającej? Takie będą skutki podatkowe",
+    "body_orig": "Najem krótkoterminowy czekają zmiany. Projekt, który przyjął już rząd, zakłada, że wynajmujący będą m.in. musieli zarejestrować mieszkanie w nowym wykazie. Dotyczy to również właścicieli, którzy skorzystali z pośredników. Tłumaczymy skutki podatkowe, m.in. jeśli właściciel powierza mieszkanie firmie zarządzającej.",
+    "published": "2026-07-21T04:41:47",
+    "fetched": "2026-07-21T07:03:37.824402",
+    "title_uk": "Зміни в оподаткуванні короткострокової оренди в Польщі",
+    "summary_uk": "Уряд Польщі ухвалив проект, що вимагає реєстрації квартир для короткострокової оренди. Це стосується також власників, які користуються послугами управлінських компаній. Зміни вплинуть на податкові зобов'язання орендодавців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Орендодавці, які працюють з управлінськими компаніями, повинні враховувати нові податкові зобов'язання, що можуть вплинути на їхні витрати.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Зміни в оподаткуванні короткострокової оренди в Польщі",
+    "summary": "Уряд Польщі ухвалив проект, що вимагає реєстрації квартир для короткострокової оренди. Це стосується також власників, які користуються послугами управлінських компаній. Зміни вплинуть на податкові зобов'язання орендодавців.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/wynajem-mieszkania-na-doby-po-nowemu-takie-beda-skutki-podatkowe/s8prkmp",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad2c147e17ea",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/zabiora-bankom-zeby-zalatac-dziure-z-pit-rzad-szuka-pieniedzy-do-budzetu-zaplaca/t9e98hl",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Politycy znów chcą sięgnąć do kieszeni banków. \"Rachunek za to zapłacą klienci\"",
+    "body_orig": "Ministra Katarzyna Pełczyńska-Nałęcz uznała, że skoro \"jest ogromna nadpłynność w bankach\", to warto sięgnąć po wyższy podatek. Bankowcy wytykają politykom mylenie pojęć i ostrzegają przed konsekwencjami dla gospodarki. Skutki mogą odczuć także sami klienci banków w postaci wyższych marż, opłat i prowizji i niższego oprocentowania depozytów.",
+    "published": "2026-07-21T04:37:21",
+    "fetched": "2026-07-21T07:03:37.824412",
+    "title_uk": "Польські політики планують підвищити податки для банків",
+    "summary_uk": "Міністр фінансів Польщі пропонує підвищити податок на банки через їхню надплітність. Банківська асоціація попереджає про можливі негативні наслідки для економіки, зокрема підвищення комісій та зниження відсотків за депозитами для клієнтів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистрибутори можуть зіткнутися з підвищенням витрат через зростання банківських комісій, що вплине на ціни товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські політики планують підвищити податки для банків",
+    "summary": "Міністр фінансів Польщі пропонує підвищити податок на банки через їхню надплітність. Банківська асоціація попереджає про можливі негативні наслідки для економіки, зокрема підвищення комісій та зниження відсотків за депозитами для клієнтів.",
+    "link": "https://businessinsider.com.pl/finanse/zabiora-bankom-zeby-zalatac-dziure-z-pit-rzad-szuka-pieniedzy-do-budzetu-zaplaca/t9e98hl",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dccf59c46cb5",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/rybolowstwo-ma-granice-dzikie-stada-sa-przelowione",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rybołówstwo nie jest fabryką. Dzikie stada nie nadążają za globalnym popytem",
+    "body_orig": "Światowa produkcja ryb, owoców morza i innych organizmów wodnych sięgnęła w 2024 r. rekordowych 235 mln ton – wynika z raportu FAO „The State of World Fisheries and Aquaculture 2026”. Ryby są jednym z ważnych źródeł białka dla miliardów ludzi, a globalna populacja nadal rośnie. Jednocześnie coraz większy popyt zwiększa presję na dzikie stada: według FAO przełowionych jest już 37,6 proc. stad ryb na świecie.\nFAO, czyli Organizacja Narodów Zjednoczonych ds. Wyżywienia i Rolnictwa, analizuje m.in. stan światowego rybołówstwa i akwakultury. Akwakultura to hodowla organizmów wodnych, np. ryb, skorupiaków albo alg. Obok niej działa rybołówstwo połowowe, czyli pozyskiwanie dzikich organizmów z mórz, oceanów i wód śródlądowych.\nZ 235 mln ton wyprodukowanych w 2024 r. organizmów wodnych 40 mln ton stanowiły algi, a 195 mln ton – zwierzęta wodne. Z tej drugiej grupy 92 mln ton pochodziły z połowów dzikich ryb i innych organizmów. W przeliczeniu daje to prawie 175 ton dzikich organizmów wodnych wyławianych średnio w każdej minucie.\nPopyt rośnie razem z populacją\n– Zapotrzebowanie na ryby i owoce morza rośnie z roku na rok, ponieważ jest coraz więcej ludzi na świecie. Obecnie światowa populacja wynosi 8 mld, natomiast według szacunków w 2050 roku ma osiągnąć 10 mld. Ryby i owoce morza są cennym źródłem wartościowego białka, które jest niezbędne do prawidłowego funkcjonowania organizmu. Są także źródłem niskoemisyjnej i odnawialnej żywności – mówi Gabriela Kotkowska, kierownik ds. marketingu i komunikacji na Polskę i Europę Centralną w Marine Stewardship Council.\nMarine Stewardship Council, czyli MSC, to organizacja zajmująca się zrównoważonym rybołówstwem. Jej standardy mają pomagać w prowadzeniu połowów tak, aby stada ryb mogły się odnawiać, a ekosystem morski nie był nadmiernie obciążany.\nRosnący popyt na ryby i owoce morza ma więc dwa oblicza. Z jednej strony pomaga odpowiadać na potrzeby żywnościowe świata. Z drugiej zwiększa presję na ekosystemy, które nie są niewyczerpalne.\nPrzełowionych stad jest prawie cztery razy więcej niż w latach 70.\nNajbardziej alarmująca liczba z raportu FAO dotyczy przełowienia. Obecnie 37,6 proc. stad ryb na świecie jest eksploatowanych zbyt mocno. W latach 70. ubiegłego wieku taki problem dotyczył około 10 proc. stad.\nPrzełowienie oznacza, że z danego stada rybołówstwo pozyskuje więcej ryb, niż populacja jest w stanie naturalnie odtworzyć. Jeśli taki stan trwa zbyt długo, liczebność ryb spada, a w skrajnym przypadku połowy trzeba ograniczyć albo całkowicie zamknąć.\n– Coraz większe zapotrzebowanie na ryby i owoce morza oznacza coraz większą eksploatację ekosystemów morskich. Dane z najnowszego raportu na temat stanu rybołówstw i akwakultury na świecie, przygotowanego przez Organizację Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa, wskazują na to, że przełowienie stale rośnie – wyjaśnia Gabriela Kotkowska.\nProblem nie sprowadza się do ochrony przyrody. Zdrowe stada ryb mają znaczenie dla bezpieczeństwa żywnościowego, c",
+    "published": "2026-07-20T18:04:19",
+    "fetched": "2026-07-21T07:03:38.999235",
+    "title_uk": "Глобальне виробництво риби досягло рекорду, але стани риб зменшуються",
+    "summary_uk": "У 2024 році світове виробництво риби та морепродуктів досягло 235 млн тонн. Потреба у рибі зростає через зростання населення, яке до 2050 року може досягти 10 млрд. Водночас 38% рибних стадів на планеті вже є перевантаженими, що загрожує екосистемам.",
+    "what_it_means": {
+      "ua_importer": "Зростання попиту на рибу може призвести до підвищення цін на імпортні морепродукти. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Зростання попиту на рибу може вплинути на ціни та наявність продукції. Варто планувати закупівлі з урахуванням майбутніх змін на ринку.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання попиту може вплинути на категорії морепродуктів. Рекомендується переглянути асортимент та стратегії закупівель."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Глобальне виробництво риби досягло рекорду, але стани риб зменшуються",
+    "summary": "У 2024 році світове виробництво риби та морепродуктів досягло 235 млн тонн. Потреба у рибі зростає через зростання населення, яке до 2050 року може досягти 10 млрд. Водночас 38% рибних стадів на планеті вже є перевантаженими, що загрожує екосистемам.",
+    "link": "https://300gospodarka.pl/news/rybolowstwo-ma-granice-dzikie-stada-sa-przelowione",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ee8d3c7ef853",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/jeden-blad-przy-darowiznie-moze-slono-kosztowac-to-trzeba-wiedziec-7309761234020384a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Jeden błąd przy darowiźnie może słono kosztowac. To trzeba wiedzieć",
+    "body_orig": "Rodzinna darowizna może być całkowicie zwolniona z podatku, ale jeden błąd wystarczy, by zainteresował się nią fiskus. Kluczowe są: formularz SD-Z2, termin sześciu miesięcy i potwierdzenie przelewu. W przeciwnym razie grożą kosztowne konsekwencje - informuje \"Dziennik Gazeta Prawna\".",
+    "published": "2026-07-21T05:17:10",
+    "fetched": "2026-07-21T07:03:40.427516",
+    "title_uk": "Помилка при даруванні може призвести до податкових наслідків",
+    "summary_uk": "Сімейні дарунки можуть бути звільнені від податку, але помилка в оформленні призведе до уваги податкових органів. Важливі елементи: форма SD-Z2, термін шести місяців і підтвердження переказу. В іншому випадку можливі дорогі наслідки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Помилка при даруванні може призвести до податкових наслідків",
+    "summary": "Сімейні дарунки можуть бути звільнені від податку, але помилка в оформленні призведе до уваги податкових органів. Важливі елементи: форма SD-Z2, термін шести місяців і підтвердження переказу. В іншому випадку можливі дорогі наслідки.",
+    "link": "https://www.money.pl/podatki/jeden-blad-przy-darowiznie-moze-slono-kosztowac-to-trzeba-wiedziec-7309761234020384a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "38b29ced1a98",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/kraj-ue-juz-wydaje-pieniadze-z-safe-podali-szczegoly-7309583138469920a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kraj UE już wydaje pieniądze z SAFE. Podali szczegóły",
+    "body_orig": "Rumunia zamówiła 12 śmigłowców wojskowych u koncernu Airbus i 12 radarów, których producentem są zakłady Thales - podała Agencja Reutera. Zakupy te mają być sfinansowane w ramach pożyczki z unijnego programu SAFE.",
+    "published": "2026-07-20T17:26:54",
+    "fetched": "2026-07-21T07:03:40.427587",
+    "title_uk": "Румунія замовила 12 військових гелікоптерів у Airbus",
+    "summary_uk": "Румунія уклала контракт на постачання 12 військових гелікоптерів від Airbus та 12 радарів від Thales. Фінансування здійснюється через кредит з програми SAFE ЄС. Ці закупівлі мають на меті зміцнення обороноздатності країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія замовила 12 військових гелікоптерів у Airbus",
+    "summary": "Румунія уклала контракт на постачання 12 військових гелікоптерів від Airbus та 12 радарів від Thales. Фінансування здійснюється через кредит з програми SAFE ЄС. Ці закупівлі мають на меті зміцнення обороноздатності країни.",
+    "link": "https://www.money.pl/gospodarka/kraj-ue-juz-wydaje-pieniadze-z-safe-podali-szczegoly-7309583138469920a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "03f61bd86904",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/manufacturing-sector-takes-largest-share-of-bank-lending-224609",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Manufacturing sector takes largest share of bank lending",
+    "body_orig": "The manufacturing sector received the largest share of bank lending in Türkiye as total cash loans extended across sectors reached 26.8 trillion Turkish Liras in May, according to data from the Banking Regulation and Supervision Agency (BDDK).",
+    "published": "2026-07-21T06:40:16",
+    "fetched": "2026-07-21T07:03:51.251190",
+    "title_uk": "Виробництво отримало найбільшу частку банківського кредитування в Туреччині",
+    "summary_uk": "Сектор виробництва отримав найбільшу частку банківських кредитів у Туреччині. Загальний обсяг грошових позик у всіх секторах досяг 26.8 трлн турецьких лір у травні. Дані надані Управлінням регулювання та нагляду за банками (BDDK).",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання кредитування може свідчити про збільшення інвестицій у виробництво, що відкриває нові можливості для експорту в UA/PL/RO.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Виробництво отримало найбільшу частку банківського кредитування в Туреччині",
+    "summary": "Сектор виробництва отримав найбільшу частку банківських кредитів у Туреччині. Загальний обсяг грошових позик у всіх секторах досяг 26.8 трлн турецьких лір у травні. Дані надані Управлінням регулювання та нагляду за банками (BDDK).",
+    "link": "https://www.hurriyetdailynews.com/manufacturing-sector-takes-largest-share-of-bank-lending-224609",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "55df4146819b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-cements-its-safe-haven-position-for-russian-real-estate-investors-224608",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye cements its safe haven position for Russian real estate investors",
+    "body_orig": "Türkiye boasts robust infrastructure, advanced transport networks and a high quality of life, establishing itself as a premier safe haven for Russian real estate investors, a point underscored during a recent webinar held by the Türkiye-Russia Business Council of the Foreign Economic Relations Board (DEİK).",
+    "published": "2026-07-21T06:39:02",
+    "fetched": "2026-07-21T07:03:51.251200",
+    "title_uk": "Туреччина стає безпечним притулком для російських інвесторів у нерухомість",
+    "summary_uk": "Туреччина демонструє розвинену інфраструктуру та високий рівень життя, що приваблює російських інвесторів у нерухомість. Ці тези були обговорені під час вебінару, організованого Турецько-російською бізнес-радою. Інвестори розглядають Туреччину як надійний ринок для вкладень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, зокрема в сегменті нерухомості.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина стає безпечним притулком для російських інвесторів у нерухомість",
+    "summary": "Туреччина демонструє розвинену інфраструктуру та високий рівень життя, що приваблює російських інвесторів у нерухомість. Ці тези були обговорені під час вебінару, організованого Турецько-російською бізнес-радою. Інвестори розглядають Туреччину як надійний ринок для вкладень.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-cements-its-safe-haven-position-for-russian-real-estate-investors-224608",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6c3003bfac71",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/revenues-of-turkiyes-top-500-it-companies-rise-40-percent-in-2025-224607",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Revenues of Türkiye’s Top 500 IT companies rise 40 percent in 2025",
+    "body_orig": "The combined revenue of Türkiye’s 500 largest information technology companies rose 40 percent year-on-year to 1.6 trillion Turkish Liras in 2025, according to a summary of the Bilişim 500 research.",
+    "published": "2026-07-21T06:32:15",
+    "fetched": "2026-07-21T07:03:51.251211",
+    "title_uk": "Доходи 500 найбільших ІТ-компаній Туреччини зросли на 40% у 2025",
+    "summary_uk": "Згідно з дослідженням Bilişim 500, загальний дохід 500 найбільших ІТ-компаній Туреччини зріс на 40% до 1.6 трлн турецьких лір у 2025 році. Це свідчить про зростання попиту на ІТ-послуги в країні. Основними учасниками ринку є провідні технологічні компанії Туреччини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання доходів ІТ-компаній може свідчити про підвищений попит на технології, що може бути корисним для турецьких виробників, які шукають нові ринки в Україні, Польщі чи Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Доходи 500 найбільших ІТ-компаній Туреччини зросли на 40% у 2025",
+    "summary": "Згідно з дослідженням Bilişim 500, загальний дохід 500 найбільших ІТ-компаній Туреччини зріс на 40% до 1.6 трлн турецьких лір у 2025 році. Це свідчить про зростання попиту на ІТ-послуги в країні. Основними учасниками ринку є провідні технологічні компанії Туреччини.",
+    "link": "https://www.hurriyetdailynews.com/revenues-of-turkiyes-top-500-it-companies-rise-40-percent-in-2025-224607",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "82ef691e652f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-may-natural-gas-oil-imports-rise-nearly-3-percent-224606",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s May natural gas, oil imports rise nearly 3 percent",
+    "body_orig": "Türkiye’s natural gas imports rose 2.95 percent year-on-year in May to approximately 3.64 billion cubic meters, while total imports of oil and petroleum products increased 2.97 percent to 4.09 million tons, according to separate monthly sector reports released by the Energy Market Regulatory Authority (EPDK).",
+    "published": "2026-07-21T06:29:59",
+    "fetched": "2026-07-21T07:03:51.251220",
+    "title_uk": "Імпорт природного газу та нафти в Туреччині зріс на 3%",
+    "summary_uk": "У травні Туреччина імпортувала 3.64 млрд кубометрів природного газу, що на 3% більше, ніж рік тому. Загальний імпорт нафти та нафтопродуктів зріс на 3% до 4.09 млн тонн. Дані надані Енергетичним регулятором Туреччини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "імпорт",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Імпорт природного газу та нафти в Туреччині зріс на 3%",
+    "summary": "У травні Туреччина імпортувала 3.64 млрд кубометрів природного газу, що на 3% більше, ніж рік тому. Загальний імпорт нафти та нафтопродуктів зріс на 3% до 4.09 млн тонн. Дані надані Енергетичним регулятором Туреччини.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-may-natural-gas-oil-imports-rise-nearly-3-percent-224606",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1ceaa1003cbc",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/imf-approves-690m-disbursement-for-ukraine-after-first-review-of-aid-program/4004199",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "IMF approves $690M disbursement for Ukraine after first review of aid program",
+    "body_orig": "'Ukraine continues to demonstrate remarkable resilience in the face of Russia’s devastating war,' says managing director",
+    "published": "2026-07-21T03:33:10",
+    "fetched": "2026-07-21T07:03:54.255464",
+    "title_uk": "МВФ схвалив виділення $690 млн для України після першого огляду програми",
+    "summary_uk": "Міжнародний валютний фонд затвердив виділення $690 млн Україні після першого огляду програми допомоги. Керівник МВФ відзначив стійкість України в умовах війни з Росією. Ці кошти мають підтримати економіку країни в складний час.",
+    "what_it_means": {
+      "ua_importer": "Це може позитивно вплинути на стабільність гривні, що важливо для імпортерів. Проте конкретних змін у митних ставках чи умовах імпорту не передбачено.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "МВФ схвалив виділення $690 млн для України після першого огляду програми",
+    "summary": "Міжнародний валютний фонд затвердив виділення $690 млн Україні після першого огляду програми допомоги. Керівник МВФ відзначив стійкість України в умовах війни з Росією. Ці кошти мають підтримати економіку країни в складний час.",
+    "link": "https://www.aa.com.tr/en/economy/imf-approves-690m-disbursement-for-ukraine-after-first-review-of-aid-program/4004199",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9b39ea20220f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-6-ayda-guvensiz-urunlere-8-6-milyon-lira-ceza-uyguladi/4004267",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ticaret Bakanlığı 6 ayda \"güvensiz ürünlere\" 8,6 milyon lira ceza uyguladı",
+    "body_orig": "Ticaret Bakanlığı, bu yılın ilk yarısında 4 bin 704 firmada mevzuata uyum konusunda bilgilendirme faaliyetlerinin gerçekleştirildiğini, mevzuata aykırı olduğu tespit edilen ürünleri arz edenlere 8,6 milyon lira idari para cezası kesildiğini bildirdi.",
+    "published": "2026-07-21T06:28:33",
+    "fetched": "2026-07-21T07:03:56.171843",
+    "title_uk": "Туреччина наклала штрафи на 8,6 млн лір за небезпечні продукти",
+    "summary_uk": "Міністерство торгівлі Туреччини повідомило про накладення штрафів на 8,6 млн лір на 4 704 компанії за продаж небезпечних товарів. Ці штрафи були застосовані в першій половині року після проведення інформаційних кампаній щодо дотримання законодавства.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Виробникам у Туреччині слід звернути увагу на дотримання стандартів безпеки, щоб уникнути штрафів і зберегти репутацію.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Туреччина наклала штрафи на 8,6 млн лір за небезпечні продукти",
+    "summary": "Міністерство торгівлі Туреччини повідомило про накладення штрафів на 8,6 млн лір на 4 704 компанії за продаж небезпечних товарів. Ці штрафи були застосовані в першій половині року після проведення інформаційних кампаній щодо дотримання законодавства.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-6-ayda-guvensiz-urunlere-8-6-milyon-lira-ceza-uyguladi/4004267",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "047b9198978b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-euforia-bursa-fie-produce-zile-scadere-fie-cresteri-sustine-lichiditatea-si-actiunile-operatorului-bvb-broker-clar-vor-veni-comisioane-consistente-produsele-derivate-odata-lansarea-23199162",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Euforia de la Bursă, fie că se produce pe zile cu scădere, fie cu creşteri, susţine lichiditatea şi deci şi acţiunile operatorului BVB. Broker: Este clar că vor veni comisioane consistente şi din produsele derivate odată cu lansarea Contrapărţii Centrale",
+    "body_orig": "Acţiunile companiei Bursa de Valori Bucureşti, operatorul pieţei de capital din România, şi-au dublat valoarea de la început de an, susţinute de o creştere vizibilă a lichidităţii la nivelul întregii pieţe, ajunsă în iulie la a şaisprezecea lună consecutivă cu rulaj lunar de peste 1 miliard de lei pe segmentul principal de acţiuni.",
+    "published": "2026-07-21T07:00:00",
+    "fetched": "2026-07-21T07:03:58.960895",
+    "title_uk": "Акції Бухарестської фондової біржі подвоїлися з початку року",
+    "summary_uk": "Акції Bursa de Valori Bucureşti зросли вдвічі з початку року завдяки зростанню ліквідності. У липні ліквідність на ринку перевищила 1 млрд леїв протягом 16 місяців поспіль. Очікується, що нові комісії з продуктів деривативів з'являться з запуском Центрального контрагента.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Акції Бухарестської фондової біржі подвоїлися з початку року",
+    "summary": "Акції Bursa de Valori Bucureşti зросли вдвічі з початку року завдяки зростанню ліквідності. У липні ліквідність на ринку перевищила 1 млрд леїв протягом 16 місяців поспіль. Очікується, що нові комісії з продуктів деривативів з'являться з запуском Центрального контрагента.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-euforia-bursa-fie-produce-zile-scadere-fie-cresteri-sustine-lichiditatea-si-actiunile-operatorului-bvb-broker-clar-vor-veni-comisioane-consistente-produsele-derivate-odata-lansarea-23199162",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "07eae4524b84",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-cei-care-au-mizat-pe-fondul-listat-la-bursa-de-banca-transilvania-au-in-trei-luni-un-castig-cat-ar-fi-obtinut-la-banca-in-trei-ani-asta-pentru-ca-bursa-a-mers-spectaculos-23199179",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Cei care au mizat pe fondul listat la bursă de Banca Transilvania au în trei luni un câştig cât ar fi obţinut la bancă în trei ani. Asta pentru că bursa a mers spectaculos",
+    "body_orig": "Listat în luna aprilie, BT România ETF – primul astfel de fond lansat de Banca Transilvania la BVB – a ajuns la active de peste 300 mil. lei şi a depăşit 12.500 de investitori, generând un randament de 20,2% până la jumătatea lunii iulie, o performanţă care depăşeşte semnificativ dobânzile clasice la depozite.",
+    "published": "2026-07-21T07:00:00",
+    "fetched": "2026-07-21T07:03:58.960907",
+    "title_uk": "Banca Transilvania запускає ETF з 20% прибутковістю за три місяці",
+    "summary_uk": "BT România ETF, перший фонд Banca Transilvania, зібрав понад €60 млн активів і залучив понад 12.500 інвесторів. За три місяці фонд показав прибутковість 20,2%, що значно перевищує традиційні депозитні ставки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Banca Transilvania запускає ETF з 20% прибутковістю за три місяці",
+    "summary": "BT România ETF, перший фонд Banca Transilvania, зібрав понад €60 млн активів і залучив понад 12.500 інвесторів. За три місяці фонд показав прибутковість 20,2%, що значно перевищує традиційні депозитні ставки.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-cei-care-au-mizat-pe-fondul-listat-la-bursa-de-banca-transilvania-au-in-trei-luni-un-castig-cat-ar-fi-obtinut-la-banca-in-trei-ani-asta-pentru-ca-bursa-a-mers-spectaculos-23199179",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7143ee5a1ce3",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/francezii-ardian-unul-dintre-cele-mari-fonduri-investitii-europene-baza-active-peste-175-mld-dolari-doua-achizitie-romania-piata-frigului-au-ajuns-solutiile-refrigerare-piata-frige-nivel-mondial-23199129",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Francezii de la Ardian, unul dintre cele mai mari fonduri de investiţii europene, cu o bază de active de peste 175 mld. dolari, la a doua achiziţie în România, pe piaţa frigului. De ce au ajuns soluţiile de refrigerare o piaţă care „frige“ la nivel mondial?",
+    "body_orig": "La nivel mondial, cererea pentru soluţiile de răcire este în creştere, atât la nivel rezi­denţial, unde se montează mai multe aparate de aer condi­ţionat ca niciodată, cât şi pentru spaţii comerciale, clădiri şi zone industriale, unde sunt necesare sisteme de refrigerare masive.",
+    "published": "2026-07-21T06:00:00",
+    "fetched": "2026-07-21T07:03:58.960948",
+    "title_uk": "Ardian купує компанію в Румунії на ринку холодильних рішень",
+    "summary_uk": "Фонд Ardian, один з найбільших інвестиційних фондів Європи з активами понад $175 млрд, здійснив другу покупку в Румунії. Зростання попиту на холодильні рішення спостерігається в житловому, комерційному та промисловому секторах. Це свідчить про глобальну тенденцію до збільшення використання систем охолодження.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ardian купує компанію в Румунії на ринку холодильних рішень",
+    "summary": "Фонд Ardian, один з найбільших інвестиційних фондів Європи з активами понад $175 млрд, здійснив другу покупку в Румунії. Зростання попиту на холодильні рішення спостерігається в житловому, комерційному та промисловому секторах. Це свідчить про глобальну тенденцію до збільшення використання систем охолодження.",
+    "link": "https://www.zf.ro/companii/francezii-ardian-unul-dintre-cele-mari-fonduri-investitii-europene-baza-active-peste-175-mld-dolari-doua-achizitie-romania-piata-frigului-au-ajuns-solutiile-refrigerare-piata-frige-nivel-mondial-23199129",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a5aac7b994dc",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cea-mai-mare-baterie-de-stocare-a-energiei-din-romania-s-a-semnat-finantarea-pentru-bess-gura-ialomitei-faza-a-doua-500-mwh-in-total_960992.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cea mai mare baterie de stocare a energiei din România: s-a semnat finanțarea pentru BESS Gura Ialomiței faza a doua: 500 MWh în total",
+    "body_orig": "Aukera, platforma paneuropeană de stocare a energiei în baterii și energie din surse regenerabile, anunță astăzi semnarea contractului de finanțare în valoare de 48,5 milioane EUR cu International Finance Corporation (IFC), divizia de sector privat a Băncii Mondiale, pentru a doua fază a Sistemului de Stocare a Energiei în Baterii (BESS) Gura Ialomiței din România, potrivit unui comunicat de presă.",
+    "published": "2026-07-21T07:01:03",
+    "fetched": "2026-07-21T07:04:03.806275",
+    "title_uk": "В Румунії підписано фінансування для найбільшої батареї зберігання енергії",
+    "summary_uk": "Aukera підписала контракт на €48.5 млн з IFC для другої фази BESS Gura Ialomiței. Загальна потужність складе 500 МВт. Проект має на меті збільшити обсяги зберігання енергії в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Румунії підписано фінансування для найбільшої батареї зберігання енергії",
+    "summary": "Aukera підписала контракт на €48.5 млн з IFC для другої фази BESS Gura Ialomiței. Загальна потужність складе 500 МВт. Проект має на меті збільшити обсяги зберігання енергії в Румунії.",
+    "link": "https://www.economica.net/cea-mai-mare-baterie-de-stocare-a-energiei-din-romania-s-a-semnat-finantarea-pentru-bess-gura-ialomitei-faza-a-doua-500-mwh-in-total_960992.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c81cc9dca245",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cu-cat-au-crescut-insolventele-din-romania-si-care-sunt-zonele-cele-mai-afectate-date-onrc_960997.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cu cât au crescut insolvenţele din România şi care sunt zonele cele mai afectate – date ONRC",
+    "body_orig": "Numărul societăţilor comerciale şi al persoanelor fizice autorizate (PFA) intrate în insolvenţă în primele cinci luni din acest an a fost de 3.146, în creştere cu 13,62% faţă de perioada similară din 2025, când au fost înregistrate 2.769 de insolvenţe, conform datelor publicate pe site-ul Oficiului Naţional al Registrului Comerţului (ONRC).",
+    "published": "2026-07-21T06:45:17",
+    "fetched": "2026-07-21T07:04:03.806291",
+    "title_uk": "Кількість insolvency в Румунії зросла на 14% у 2026 році",
+    "summary_uk": "У Румунії за перші п'ять місяців 2026 року 3.146 компаній та фізичних осіб стали insolvent. Це на 14% більше, ніж у 2025 році, коли було зафіксовано 2.769 випадків. Дані надані Національним реєстром комерції (ONRC).",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Кількість insolvency в Румунії зросла на 14% у 2026 році",
+    "summary": "У Румунії за перші п'ять місяців 2026 року 3.146 компаній та фізичних осіб стали insolvent. Це на 14% більше, ніж у 2025 році, коли було зафіксовано 2.769 випадків. Дані надані Національним реєстром комерції (ONRC).",
+    "link": "https://www.economica.net/cu-cat-au-crescut-insolventele-din-romania-si-care-sunt-zonele-cele-mai-afectate-date-onrc_960997.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "258b1ab16c68",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/china-continua-sa-construiasca-parcuri-eoliene-si-fotovoltaice-in-pofida-riscului-de-risipa_960988.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "China continuă să construiască parcuri eoliene şi fotovoltaice în pofida riscului de risipă",
+    "body_orig": "Proiectele în derulare care vizează construcţia de parcuri eoliene şi fotovoltaice în China continuă să le depăşească pe cele din restul lumii, chiar dacă există un risc crescut ca o parte din energia produsă de aceste instalaţii să fie irosită, transmite Bloomberg.",
+    "published": "2026-07-21T06:33:24",
+    "fetched": "2026-07-21T07:04:03.806302",
+    "title_uk": "Китай продовжує будувати вітрові та сонячні електростанції",
+    "summary_uk": "Китай активно реалізує проекти з будівництва вітрових та сонячних електростанцій, перевищуючи темпи інших країн. Незважаючи на ризик імовірної втрати частини виробленої енергії, країна продовжує інвестувати в ці технології. Bloomberg повідомляє, що такі проекти залишаються пріоритетними для Китаю.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китай продовжує будувати вітрові та сонячні електростанції",
+    "summary": "Китай активно реалізує проекти з будівництва вітрових та сонячних електростанцій, перевищуючи темпи інших країн. Незважаючи на ризик імовірної втрати частини виробленої енергії, країна продовжує інвестувати в ці технології. Bloomberg повідомляє, що такі проекти залишаються пріоритетними для Китаю.",
+    "link": "https://www.economica.net/china-continua-sa-construiasca-parcuri-eoliene-si-fotovoltaice-in-pofida-riscului-de-risipa_960988.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3242b8b1f35b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/prin-e-factura-au-inceput-sa-apara-solicitari-de-sume-fictive-anumite-facturi-primite-prin-e-factura-nu-reprezinta-produse-achizitionate-ori-servicii-prestate-mare-atentie-inainte-de-plata_960983.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Prin e-Factura au început să apară solicitări de sume fictive. Anumite facturi primite prin e-Factura nu reprezintă produse achiziționate ori servicii prestate. Mare atenție înainte de plată!",
+    "body_orig": "Prin e-Factura apar situații în care antreprenorii de bună credință primesc facturi cu sume fictive. Este foarte important ca acestea să fie verificate înainte de plată, a declarat expertul contabil Cosmin Dumitrașcu.",
+    "published": "2026-07-21T06:31:29",
+    "fetched": "2026-07-21T07:04:03.806314",
+    "title_uk": "У Румунії з'явилися фіктивні рахунки через e-Factura",
+    "summary_uk": "Антрепренери в Румунії отримують фіктивні рахунки через систему e-Factura. Експерт закликав перевіряти рахунки перед оплатою, щоб уникнути шахрайства. Це може призвести до фінансових втрат для підприємців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "У Румунії з'явилися фіктивні рахунки через e-Factura",
+    "summary": "Антрепренери в Румунії отримують фіктивні рахунки через систему e-Factura. Експерт закликав перевіряти рахунки перед оплатою, щоб уникнути шахрайства. Це може призвести до фінансових втрат для підприємців.",
+    "link": "https://www.economica.net/prin-e-factura-au-inceput-sa-apara-solicitari-de-sume-fictive-anumite-facturi-primite-prin-e-factura-nu-reprezinta-produse-achizitionate-ori-servicii-prestate-mare-atentie-inainte-de-plata_960983.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "516b00a61bd6",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/news/iasi-becomes-first-romanian-county-where-every-locality-bans-slot-machine-halls-298580",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Iași becomes first Romanian county where every locality bans slot-machine halls",
+    "body_orig": "Iași has become the first county in Romania in which all 98 local councils have voted to prohibit gambling venues operating slot machines, according to Adevărul newspaper. The restrictions will be introduced gradually, as some halls may continue operating until their existing authorisations expire, while several local administrations have opted for immediate closure. The campaign [&#8230;]\nThe post Iași becomes first Romanian county where every locality bans slot-machine halls appeared first on Business Review.",
+    "published": "2026-07-21T06:22:11",
+    "fetched": "2026-07-21T07:04:08.597245",
+    "title_uk": "У повіті Ясси заборонено гральні зали з ігровими автоматами",
+    "summary_uk": "Ясси став першим повітом Румунії, де всі 98 місцевих рад проголосували за заборону гральних закладів з ігровими автоматами. Заборона вводитиметься поступово: деякі зали зможуть працювати до закінчення терміну дії ліцензій, інші закриються негайно. Це рішення підтримано місцевими адміністраціями.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "У повіті Ясси заборонено гральні зали з ігровими автоматами",
+    "summary": "Ясси став першим повітом Румунії, де всі 98 місцевих рад проголосували за заборону гральних закладів з ігровими автоматами. Заборона вводитиметься поступово: деякі зали зможуть працювати до закінчення терміну дії ліцензій, інші закриються негайно. Це рішення підтримано місцевими адміністраціями.",
+    "link": "https://business-review.eu/news/iasi-becomes-first-romanian-county-where-every-locality-bans-slot-machine-halls-298580",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad1c9b79bbf5",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "ORiS secures €5 million to develop wireless power transmission systems for space and dual-use applications",
+    "body_orig": "ORiS, a Turin-based DeepTech startup developing laser-based wireless power transmission systems for space and dual-use applications, has closed a €4.5 million pre-Seed round.  The round was led by Earlybird and co-led by Pitchdrive, with participation from Galaxia, Vento and Piemonte Next Fund. The company has also secured a €500k (€0.5 million) grant through the Piedmont [&#8230;]\nThe post ORiS secures €5 million to develop wireless power transmission systems for space and dual-use applications appeared first on EU-Startups.",
+    "published": "2026-07-21T06:17:43",
+    "fetched": "2026-07-21T07:03:35.008366",
+    "title_uk": "ORiS залучила €5 млн для розробки бездротових систем передачі енергії",
+    "summary_uk": "Туринський стартап ORiS закрив раунд фінансування на €4.5 млн, очолюваний Earlybird. Додатково компанія отримала грант у €0.5 млн від регіону П'ємонту. ORiS спеціалізується на лазерних бездротових системах передачі енергії для космічних та подвійних застосувань.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ORiS залучила €5 млн для розробки бездротових систем передачі енергії",
+    "summary": "Туринський стартап ORiS закрив раунд фінансування на €4.5 млн, очолюваний Earlybird. Додатково компанія отримала грант у €0.5 млн від регіону П'ємонту. ORiS спеціалізується на лазерних бездротових системах передачі енергії для космічних та подвійних застосувань.",
+    "link": "https://www.eu-startups.com/2026/07/turin-based-oris-secures-e5-million-to-develop-wireless-power-transmission-systems-for-space-and-dual-use-applications/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ccd3cb96c9ff",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/prozorii-biznes-fop-yak-ne-masstabuvati-podatkovi-riziki-98ky8z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Прозорий бізнес ФОП: як не масштабувати податкові ризики",
+    "body_orig": "Два ФОП можуть продавати однаковий товар, мати схожі обороти й зовні нічим не відрізнятися. Різниця стає помітною, коли податкова починає перевірку або банк просить пояснити операції в межах фінмоніторингу. Про ознаки прозорої та ризикової моделей розповів адвокат Богдан Янків на YouTube-каналі YANKIV — ФОП, податки та суди.",
+    "published": "2026-07-20T17:19:39",
+    "fetched": "2026-07-21T07:03:45.726389",
+    "title_uk": "Прозорий бізнес ФОП: як не масштабувати податкові ризики",
+    "summary_uk": "Адвокат Богдан Янків розповів про різницю між прозорими та ризиковими моделями ведення бізнесу для ФОП. Основна увага приділена податковим перевіркам та фінансовому моніторингу. Важливо знати ознаки, які можуть викликати підозри у контролюючих органів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прозорий бізнес ФОП: як не масштабувати податкові ризики",
+    "summary": "Адвокат Богдан Янків розповів про різницю між прозорими та ризиковими моделями ведення бізнесу для ФОП. Основна увага приділена податковим перевіркам та фінансовому моніторингу. Важливо знати ознаки, які можуть викликати підозри у контролюючих органів.",
+    "link": "https://speka.ua/business/prozorii-biznes-fop-yak-ne-masstabuvati-podatkovi-riziki-98ky8z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "223af2a02496",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/aktualni-vakansiyi-v-ryteyili-20-lypnia/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Актуальні вакансії в ритейлі (20 липня)",
+    "body_orig": "Добірка свіжих топових вакансій компаній членів та партнерів Асоціації ритейлерів України\nRetail Association of Ukraine\nЖурналіст, Київ\nБФК Гулівер\nМенеджер з оренди, Київ\nАнтошка\nКеруючий магазином, Київ\nКеруючий магазином, Івано-Франківськ\nКерівник проєктів ІТ-відділу, дистанційно\nАдміністратор в…",
+    "published": "2026-07-21T02:31:00",
+    "fetched": "2026-07-21T07:04:10.724915",
+    "title_uk": "Актуальні вакансії в ритейлі на 20 липня",
+    "summary_uk": "Асоціація ритейлерів України представила добірку вакансій від своїх членів. Серед них: журналіст у Києві, менеджер з оренди в БФК Гулівер, керуючі магазинами в Антошці в Києві та Івано-Франківську, а також керівник проєктів ІТ-відділу на дистанційній основі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Актуальні вакансії в ритейлі на 20 липня",
+    "summary": "Асоціація ритейлерів України представила добірку вакансій від своїх членів. Серед них: журналіст у Києві, менеджер з оренди в БФК Гулівер, керуючі магазинами в Антошці в Києві та Івано-Франківську, а також керівник проєктів ІТ-відділу на дистанційній основі.",
+    "link": "https://rau.ua/news/aktualni-vakansiyi-v-ryteyili-20-lypnia/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
