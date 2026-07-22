@@ -140737,5 +140737,2516 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "d550ea62e547",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/eu-donald-trump-new-generic-drug-tariff-export/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU says Trump’s new generic drug tariffs won’t hit its exports",
+    "body_orig": "Brussels argues its unbranded medicines are protected by last year's EU-U.S. trade deal struck in Turnberry, Scotland.",
+    "published": "2026-07-22T12:37:02",
+    "fetched": "2026-07-22T17:18:34.463113",
+    "title_uk": "ЄС запевняє, що тарифи Трампа на генерики не вплинуть на експорт",
+    "summary_uk": "Європейський Союз стверджує, що його безмаркові ліки захищені угодою з США, укладеною минулого року в Шотландії. Це означає, що нові тарифи на генеричні препарати не вплинуть на європейський експорт. Угода була підписана в Turnberry.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС запевняє, що тарифи Трампа на генерики не вплинуть на експорт",
+    "summary": "Європейський Союз стверджує, що його безмаркові ліки захищені угодою з США, укладеною минулого року в Шотландії. Це означає, що нові тарифи на генеричні препарати не вплинуть на європейський експорт. Угода була підписана в Turnberry.",
+    "link": "https://www.politico.eu/article/eu-donald-trump-new-generic-drug-tariff-export/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8550a2d3d2cc",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/telecom-industry-estimates-huawei-ban-cost-europe-40-billion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Huawei ban to cost the EU up to €40 billion, says industry",
+    "body_orig": "The price tag for replacing telecom equipment from the Chinese manufacturer is hotly contested, and telecom operators want compensation.",
+    "published": "2026-07-22T08:36:24",
+    "fetched": "2026-07-22T17:18:34.463158",
+    "title_uk": "Витрати на заміну обладнання Huawei в ЄС можуть сягнути €40 млрд",
+    "summary_uk": "Європейські телекомунікаційні оператори оцінюють витрати на заміну обладнання Huawei до €40 млрд. Вони вимагають компенсації від урядів через фінансові втрати. Це питання викликає суперечки в галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Витрати на заміну обладнання Huawei в ЄС можуть сягнути €40 млрд",
+    "summary": "Європейські телекомунікаційні оператори оцінюють витрати на заміну обладнання Huawei до €40 млрд. Вони вимагають компенсації від урядів через фінансові втрати. Це питання викликає суперечки в галузі.",
+    "link": "https://www.politico.eu/article/telecom-industry-estimates-huawei-ban-cost-europe-40-billion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5d947c3c415b",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Orlen-najdrozszy-w-historii-W-Europie-wiecej-wartych-jest-tylko-5-branzowych-spolek-9171921.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Orlen najdroższy w historii. W Europie więcej wartych jest tylko 5. branżowych spółek",
+    "body_orig": "Mimo rosnącego napięcia geopolitycznego, polska giełda po raz kolejny wykazała się ogromną siłą. Główne indeksy na GPW kolejny raz pobiły swoje historyczne rekordy, a niekwestionowanym liderem środowego handlu okazał się sektor energetyczny. Indeks WIG20 znajduje się już krok od pokonania rekordu wszech czasów ze szczytu hossy z 2007 roku. Rekordy od kilku dni notuje Orlen, którego kapitalizacja przekroczyła 176 mld zł.",
+    "published": "2026-07-22T16:25:00",
+    "fetched": "2026-07-22T17:18:37.887767",
+    "title_uk": "Orlen досяг рекордної капіталізації на польському ринку",
+    "summary_uk": "Польська компанія Orlen встановила новий рекорд капіталізації, перевищивши €38 млрд. Це сталося на фоні зростання основних індексів на Варшавській фондовій біржі, зокрема WIG20, який наближається до історичного максимуму з 2007 року. Сектор енергетики продемонстрував особливу силу під час торгів.",
+    "what_it_means": {
+      "ua_importer": "Зростання капіталізації Orlen може свідчити про стабільність польського ринку, що важливо для українських імпортерів, які працюють з польськими партнерами.",
+      "pl_distributor": "Зростання інтересу до акцій Orlen може підвищити попит на енергетичні товари, що варто врахувати при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Orlen досяг рекордної капіталізації на польському ринку",
+    "summary": "Польська компанія Orlen встановила новий рекорд капіталізації, перевищивши €38 млрд. Це сталося на фоні зростання основних індексів на Варшавській фондовій біржі, зокрема WIG20, який наближається до історичного максимуму з 2007 року. Сектор енергетики продемонстрував особливу силу під час торгів.",
+    "link": "https://www.bankier.pl/wiadomosc/Orlen-najdrozszy-w-historii-W-Europie-wiecej-wartych-jest-tylko-5-branzowych-spolek-9171921.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d41be8b1395b",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Za-oceanem-rozpoczyna-sie-najgoretszy-okres-raportowania-Co-pokaza-giganci-technologiczni-9171735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Za oceanem rozpoczyna się najgorętszy okres raportowania. Co pokażą giganci technologiczni?",
+    "body_orig": "Jak dotąd sprawozdania finansowe za II kwartał zaprezentowały spółki odpowiadające za nieco ponad 10 proc. kapitalizacji S&amp;P 500. Początki sezonu wyników na Wall Street są nad wyraz obiecujące: w niemal 9 na 10 przypadków spółki pobiły rynkowe prognozy zysku na akcję, a tempo wzrostu wskaźnika przekracza 25 proc. r/r. Prawdziwy test jednak dopiero się rozpoczyna – piszą w komentarzu dla Bankier.pl analitycy firmy brokerskiej Exante.",
+    "published": "2026-07-22T13:20:00",
+    "fetched": "2026-07-22T17:18:37.887785",
+    "title_uk": "Сезон звітності у США: технологічні компанії перевищують прогнози",
+    "summary_uk": "Фінансові звіти за II квартал показали, що понад 10% компаній S&P 500 перевищили прогнози з прибутку на акцію. Зростання показників перевищує 25% в річному вимірі. Це свідчить про позитивні тенденції на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Сезон звітності у США: технологічні компанії перевищують прогнози",
+    "summary": "Фінансові звіти за II квартал показали, що понад 10% компаній S&P 500 перевищили прогнози з прибутку на акцію. Зростання показників перевищує 25% в річному вимірі. Це свідчить про позитивні тенденції на ринку.",
+    "link": "https://www.bankier.pl/wiadomosc/Za-oceanem-rozpoczyna-sie-najgoretszy-okres-raportowania-Co-pokaza-giganci-technologiczni-9171735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "450b9f47e0ba",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Przemysl-budownictwo-i-konsumpcja-ida-jak-burza-PZU-podnosi-prognoze-wzrostu-PKB-do-3-6-procent-9171881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Przemysł, budownictwo i konsumpcja idą jak burza. PZU podnosi prognozę wzrostu PKB do 3,6 procent",
+    "body_orig": "Czerwcowe dane makro potwierdzają dobrą kondycję polskiej gospodarki, a wzrost aktywności obejmuje przemysł, budownictwo i konsumpcję - ocenił w środę główny ekonomista PZU Dawid Pachucki. Po lepszych od oczekiwań danych, PZU podniósł prognozę wzrostu PKB Polski w 2026 r. do 3,6 proc. z 3,4 proc.",
+    "published": "2026-07-22T15:26:00",
+    "fetched": "2026-07-22T17:18:37.887840",
+    "title_uk": "PZU підвищує прогноз зростання ВВП Польщі до 3,6%",
+    "summary_uk": "PZU підвищив прогноз зростання ВВП Польщі на 2026 рік до 3,6% з 3,4%. Головний економіст PZU зазначив, що червневі макроекономічні дані підтверджують позитивні тенденції в промисловості, будівництві та споживанні. Це свідчить про зростання економічної активності в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання ВВП може свідчити про підвищення споживчого попиту, що позитивно вплине на обсяги продажів у дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання економіки може позитивно вплинути на плани з продажів та промо-акції в ритейлі. Рекомендується переглянути стратегії на 2026 рік."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "PZU підвищує прогноз зростання ВВП Польщі до 3,6%",
+    "summary": "PZU підвищив прогноз зростання ВВП Польщі на 2026 рік до 3,6% з 3,4%. Головний економіст PZU зазначив, що червневі макроекономічні дані підтверджують позитивні тенденції в промисловості, будівництві та споживанні. Це свідчить про зростання економічної активності в країні.",
+    "link": "https://www.bankier.pl/wiadomosc/Przemysl-budownictwo-i-konsumpcja-ida-jak-burza-PZU-podnosi-prognoze-wzrostu-PKB-do-3-6-procent-9171881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fad0247c31ac",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/AI-zmienia-role-dyrektorow-finansowych-9171650.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "AI zmienia rolę dyrektorów finansowych",
+    "body_orig": "Sztuczna inteligencja coraz mocniej wpływa na sposób zarządzania firmami, ale większość przedsiębiorstw nadal nie potrafi odpowiedzieć na podstawowe pytanie: czy inwestycje w AI rzeczywiście się opłacają? Z najnowszego badania EY wynika, że połowa dyrektorów finansowych ma problem z wykazaniem zwrotu z takich inwestycji, a niemal tyle samo uważa, że tradycyjne wskaźniki finansowe przestały nadążać za nową rzeczywistością.",
+    "published": "2026-07-22T11:25:00",
+    "fetched": "2026-07-22T17:18:37.887850",
+    "title_uk": "Штучний інтелект змінює роль фінансових директорів",
+    "summary_uk": "Штучний інтелект суттєво впливає на управління компаніями. За даними EY, половина фінансових директорів не може продемонструвати повернення інвестицій в AI. Багато з них вважають, що традиційні фінансові показники більше не відповідають новим реаліям.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Штучний інтелект змінює роль фінансових директорів",
+    "summary": "Штучний інтелект суттєво впливає на управління компаніями. За даними EY, половина фінансових директорів не може продемонструвати повернення інвестицій в AI. Багато з них вважають, що традиційні фінансові показники більше не відповідають новим реаліям.",
+    "link": "https://www.bankier.pl/wiadomosc/AI-zmienia-role-dyrektorow-finansowych-9171650.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aea34b179537",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/szok-na-stacjach-paliw-takich-cen-nie-bylo-o-2022-r/408klyh",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Podwyżki na stacjach. Benzyna 95 najdroższa od 2022 r.",
+    "body_orig": "Benzyna 95 podrożała o 30 groszy i kosztuje średnio 7,29 zł/l. \"Z tej zwyżkowej tendencji wyłamał się jedynie autogaz\" - oceniają eksperci z e-petrol.pl. Najszybsze podwyżki odnotowano w przypadku oleju napędowego.",
+    "published": "2026-07-22T15:44:18",
+    "fetched": "2026-07-22T17:18:39.204518",
+    "title_uk": "Ціни на бензин у Польщі зросли до рекорду з 2022 року",
+    "summary_uk": "Середня ціна бензину 95 в Польщі зросла на 30 грошів до 7.29 зл/л. Експерти зазначають, що автогаз залишився поза цим зростанням. Найбільше подорожчав дизель.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на паливо може вплинути на витрати логістики. Рекомендується переглянути ціни на доставку та умови контрактів з постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на паливо може призвести до підвищення витрат на транспортування товарів. Рекомендується переглянути бюджети на логістику та можливі зміни в цінах на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин у Польщі зросли до рекорду з 2022 року",
+    "summary": "Середня ціна бензину 95 в Польщі зросла на 30 грошів до 7.29 зл/л. Експерти зазначають, що автогаз залишився поза цим зростанням. Найбільше подорожчав дизель.",
+    "link": "https://businessinsider.com.pl/wiadomosci/szok-na-stacjach-paliw-takich-cen-nie-bylo-o-2022-r/408klyh",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1af1d1213e89",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/praca/panstwowa-inspekcja-pracy-zalala-fala-skarg-gigantyczny-wzrost/gmx6dpp",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PIP podaje liczbę skarg po dwóch tygodniach reformy. \"Gigantyczny wzrost\"",
+    "body_orig": "Nowe uprawnienia Państwowej Inspekcji Pracy uruchomiły falę zgłoszeń. — Od 8 lipca do wczoraj (wtorku 21 lipca — red.) mamy około 250 skarg, które dotyczą stricte nieprawidłowości w zakresie zastępowania umów o pracę umowami cywilnoprawnymi — ujawniła w \"Onet Rano Finansowo\" Urszula Langer.",
+    "published": "2026-07-22T15:00:23",
+    "fetched": "2026-07-22T17:18:39.204529",
+    "title_uk": "Польська інспекція праці отримала 250 скарг за два тижні реформ",
+    "summary_uk": "Після впровадження нових повноважень, Державна інспекція праці Польщі отримала близько 250 скарг. Основна проблема стосується заміни трудових договорів на цивільно-правові. Це свідчить про зростання уваги до трудових прав працівників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори, які працюють з працівниками на цивільно-правових договорах, повинні бути готові до перевірок і можливих скарг. Рекомендується переглянути умови співпраці.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польська інспекція праці отримала 250 скарг за два тижні реформ",
+    "summary": "Після впровадження нових повноважень, Державна інспекція праці Польщі отримала близько 250 скарг. Основна проблема стосується заміни трудових договорів на цивільно-правові. Це свідчить про зростання уваги до трудових прав працівників.",
+    "link": "https://businessinsider.com.pl/prawo/praca/panstwowa-inspekcja-pracy-zalala-fala-skarg-gigantyczny-wzrost/gmx6dpp",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4e224f318480",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/wskazniki-koniunktury-w-polsce-zaskakuja-turystyka-i-finanse-liderami-wzrostu/60czhqk",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska turystyka na szczycie koniunktury. I nie tylko ona. Nowe badanie GUS",
+    "body_orig": "Przemysł, budownictwo, transport. Te filary zatrudnienia w polskiej gospodarce wciąż sygnalizują dekoniunkturę. Ale to w tych branżach nie nowina, a w lipcu dało się jednak zauważyć poprawę. Zdecydowanie pozytywne trendy obowiązują w finansach i turystyce. W branży wypoczynkowej zapanował wręcz rekordowy entuzjazm.",
+    "published": "2026-07-22T14:55:59",
+    "fetched": "2026-07-22T17:18:39.204539",
+    "title_uk": "Польська туристична галузь демонструє позитивні тенденції",
+    "summary_uk": "У липні 2026 року в Польщі спостерігається покращення в туристичній галузі. Фінансовий сектор також показує позитивні тренди. Водночас, промисловість, будівництво та транспорт залишаються під тиском. Туризм відзначається рекордним ентузіазмом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання туристичної активності може призвести до підвищення попиту на продукти HoReCa. Розгляньте можливість розширення асортименту для задоволення потреб туристів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання туристичної активності може позитивно вплинути на продажі в категоріях, пов'язаних з відпочинком. Розгляньте можливість адаптації асортименту до потреб туристів."
+    },
+    "tags": [
+      "HoReCa",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська туристична галузь демонструє позитивні тенденції",
+    "summary": "У липні 2026 року в Польщі спостерігається покращення в туристичній галузі. Фінансовий сектор також показує позитивні тренди. Водночас, промисловість, будівництво та транспорт залишаються під тиском. Туризм відзначається рекордним ентузіазмом.",
+    "link": "https://businessinsider.com.pl/gospodarka/wskazniki-koniunktury-w-polsce-zaskakuja-turystyka-i-finanse-liderami-wzrostu/60czhqk",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "94b1aa66b32d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/nowe-technologie/samsung-pokazal-nowe-smartfony-apple-nie-ma-odpowiedzi-na-galaxy-fold-8-i-galaxy-flip/h1p6yqf",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Samsung prezentuje nowe składane smartfony. Trzy modele do wyboru. Jeden z nich może być hitem",
+    "body_orig": "Na rynek wchodzą trzy nowe składane telefony: Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 i Galaxy Z Flip 8. Dzisiejszą premierę uzupełniają dwa zegarki — Galaxy Watch Ultra 2 oraz Galaxy Watch 8. Co się zmieniło względem poprzedników? Czy są jakieś nowości? Co z cenami i czy Samsung przygotował jakąś ciekawą promocję na start? Odpowiadamy.",
+    "published": "2026-07-22T14:47:03",
+    "fetched": "2026-07-22T17:18:39.204549",
+    "title_uk": "Samsung представив нові складані смартфони та годинники",
+    "summary_uk": "Samsung анонсував три нові складані моделі смартфонів: Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 і Galaxy Z Flip 8. Також представлені Galaxy Watch Ultra 2 та Galaxy Watch 8. Деталі про зміни в характеристиках та ціни поки не розголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Samsung представив нові складані смартфони та годинники",
+    "summary": "Samsung анонсував три нові складані моделі смартфонів: Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 і Galaxy Z Flip 8. Також представлені Galaxy Watch Ultra 2 та Galaxy Watch 8. Деталі про зміни в характеристиках та ціни поки не розголошені.",
+    "link": "https://businessinsider.com.pl/technologie/nowe-technologie/samsung-pokazal-nowe-smartfony-apple-nie-ma-odpowiedzi-na-galaxy-fold-8-i-galaxy-flip/h1p6yqf",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b3567afdf861",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/cena-to-nie-wszystko-uokik-sprawdza-co-doliczano-klientom-do-kredytu-w-autocentrum-aaa-auto",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Cena to nie wszystko. UOKiK sprawdza, co doliczano klientom do kredytu w Autocentrum AAA Auto",
+    "body_orig": "Prezes UOKiK postawił zarzuty naruszenia zbiorowych interesów konsumentów spółce Autocentrum AAA Auto. Urząd kwestionuje sposób sprzedaży samochodów na kredyt, bo z ustaleń UOKiK wynika, że konsumenci mogli kupić auto na raty wyłącznie po dokupieniu dodatkowych produktów lub usług. W grę wchodziły m.in. lokalizator GPS, ubezpieczenie samochodu oraz artykuły samochodowe, a koszt tych dodatków trafiał do kredytu i podnosił jego wartość nawet o kilka tysięcy złotych.\nAutocentrum AAA Auto to znany sprzedawca używanych samochodów. Firma oferuje auta w sieci salonów, na stronie internetowej i w popularnym serwisie ogłoszeniowym. Klienci mogą płacić gotówką, ale spółka ma też ofertę sprzedaży kredytowej.\nTo właśnie ten model sprzedaży wzbudził zastrzeżenia Urzędu Ochrony Konkurencji i Konsumentów. Do tej instytucji trafiły skargi osób, które twierdziły, że zakup samochodu na raty był możliwy tylko w pakiecie z dodatkowymi usługami.\nCena auta rosła razem z dodatkami\nWedług informacji zebranych przez urząd konsumenci mieli dokupywać m.in. lokalizator GPS, ubezpieczenie samochodu oraz artykuły takie jak gaśnica, trójkąt ostrzegawczy i kamizelka odblaskowa. Część tych rzeczy nie była potrzebna do samego korzystania z auta albo klient mógł już je posiadać.\nProblem polegał na tym, że koszt dodatków doliczano do kwoty kredytu. Kredyt nie obejmował więc wyłącznie ceny samochodu, ale także pakiet produktów i usług dołączonych do transakcji.\nW skargach konsumenci opisywali, że różnica mogła być duża. Jeden z klientów napisał, że auto kosztowało 23 908 zł, a do banku podano kwotę 32 779 zł. Inny skarżył się, że sprzedawca „wymusił” dodatkowy zakup gwarancji Carlife oraz pakietów, które przedstawiono jako obowiązkowe przy otrzymaniu kredytu.\n– Konsumentowi oferowano zakup samochodu na raty, ale pod warunkiem dokupienia dodatkowych produktów lub usług. W efekcie musiał spłacić wyższy kredyt niż zaplanował, czasem o kilka tysięcy. Taka praktyka spółki może naruszać zbiorowe interesy konsumentów, co jest zagrożone karą do 10 proc. rocznego obrotu firmy – mówi Prezes UOKiK Tomasz Chróstny.\nLokalizator GPS z odnawialną opłatą\nZarzuty UOKiK dotyczą także informacji o lokalizatorze GPS. To jedno z urządzeń oferowanych przez Autocentrum AAA Auto jako dodatkowy produkt przy zakupie auta.\nUrząd twierdzi, że konsumenci nie dostawali istotnych danych o urządzeniu. Chodziło m.in. o model, typ, przeznaczenie, podstawowe parametry techniczne oraz zakres usługi. Bez takich informacji klient nie mógł rzetelnie ocenić, czy produkt jest mu potrzebny i czy nadaje się do montażu w konkretnym samochodzie.\nKolejna kwestia dotyczyła odnawiania usługi lokalizacji. Kupujący mieli nie być informowani, że po czasie określonym w umowie usługa GPS zostanie automatycznie przedłużona na kolejny płatny okres.\nJedna ze skarg przywołanych przez UOKiK pokazuje, jak wyglądał ten problem z perspektywy klienta: „Nie informują o zakończeniu umowy a jeszcze trzeba 30 dni przed wysłać formularz wypowiedzen",
+    "published": "2026-07-22T17:05:40",
+    "fetched": "2026-07-22T17:18:39.876887",
+    "title_uk": "UOKiK перевіряє AAA Auto через продаж автомобілів на кредит",
+    "summary_uk": "Польський регулятор UOKiK звинуватив компанію Autocentrum AAA Auto у порушенні прав споживачів. Виявлено, що покупці могли отримати кредит на автомобіль лише за умови придбання додаткових послуг, що підвищувало вартість кредиту на тисячі злотих. Наприклад, один клієнт повідомив, що сума кредиту зросла з 23 908 до 32 779 злотих через додаткові продукти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця ситуація може вплинути на довіру споживачів до кредитних пропозицій у Польщі, що важливо врахувати при плануванні продажів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Проблеми з прозорістю кредитних пропозицій можуть вплинути на споживчий попит, тому варто переглянути стратегії продажів та комунікації з клієнтами."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "UOKiK перевіряє AAA Auto через продаж автомобілів на кредит",
+    "summary": "Польський регулятор UOKiK звинуватив компанію Autocentrum AAA Auto у порушенні прав споживачів. Виявлено, що покупці могли отримати кредит на автомобіль лише за умови придбання додаткових послуг, що підвищувало вартість кредиту на тисячі злотих. Наприклад, один клієнт повідомив, що сума кредиту зросла з 23 908 до 32 779 злотих через додаткові продукти.",
+    "link": "https://300gospodarka.pl/news/cena-to-nie-wszystko-uokik-sprawdza-co-doliczano-klientom-do-kredytu-w-autocentrum-aaa-auto",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "944bebb5d763",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/koszty-chiny-i-krotkie-zamowienia-dociskaja-polskie-automotive",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Automotive pod presją kosztów i Chin. Firmy szukają klientów, a pieniądze grzęzną w fakturach",
+    "body_orig": "Wzrost kosztów operacyjnych i konkurencja cenowa ze strony dostawców spoza Unii Europejskiej są dziś największymi problemami firm obsługujących branżę automotive – wynika z badania Keralla Research dla Bibby Financial Services. Na oba czynniki zwraca uwagę po 38 proc. przedsiębiorstw. Co trzecia firma mierzy się też z koniecznością dostosowania do transformacji technologicznej, w tym elektromobilności, czyli przechodzenia branży na napędy elektryczne i nowe komponenty.\nAutomotive to nie tylko producenci samochodów. To cały łańcuch dostaw: firmy projektujące, wytwarzające i sprzedające części, podzespoły, komponenty, a także podmioty zajmujące się serwisem, handlem i recyklingiem pojazdów. Gdy europejska motoryzacja zwalnia, zmienia technologie albo tnie koszty, skutki odczuwają setki firm pracujących na jej zapleczu.\nRaport „Automotive 2026: gdzie branża zarabia, a gdzie traci?” pokazuje sektor, który działa pod naciskiem z kilku stron naraz. Oprócz kosztów i konkurencji spoza UE firmy wymieniają spadek albo dużą zmienność wolumenów zamówień. Ten problem zgłasza 26 proc. badanych. Rosnące wymagania regulacyjne i raportowe wskazuje 23 proc. przedsiębiorstw, a presję cenową ze strony odbiorców – 22 proc.\nKoszty są tylko częścią problemu\nW badaniu wzięło udział 100 przedsiębiorstw obsługujących sektor motoryzacyjny, bez mikrofirm. Nadal mocno odczuwają ceny energii, surowców, pracy i logistyki. Problem w tym, że sama presja kosztowa nie wyczerpuje listy zmartwień. Branża musi równocześnie inwestować, spełniać nowe wymogi klientów, raportować dane, kontrolować ślad węglowy i utrzymywać ceny na poziomie akceptowalnym dla odbiorców.\n– Jeszcze kilka lat temu automotive mówiło głównie językiem kosztów: energii, surowców, pracy i logistyki. Dziś koszty nadal są bardzo istotne, ale stanowią tylko część większej układanki. Firmy działają równocześnie pod presją cenową, technologiczną i regulacyjną. U producentów większym ciężarem stają się inwestycje, certyfikacje, wymagania jakościowe, ślad węglowy i nowe komponenty. U dystrybutorów mocniej widać presję na marże, rotację zapasów, dostępność części i płynność. Wspólny mianownik jest jeden: coraz trudniej planować długoterminowo – mówi Tomasz Bęben, prezes Stowarzyszenia Dystrybutorów i Producentów Części Motoryzacyjnych.\nTa ostatnia kwestia jest dla firm szczególnie bolesna. Planowanie produkcji, zakupów i inwestycji wymaga przewidywalności. Tymczasem część zamówień skraca się, marże maleją, a pieniądze za już wykonaną sprzedaż nie zawsze szybko wracają do firmy.\nChiny zmieniają reguły gry w motoryzacji\nPresja ze strony dostawców spoza Unii Europejskiej ma w raporcie konkretny adres. Eksperci mówią przede wszystkim o Chinach. Firmy z Państwa Środka konkurują skalą produkcji, tempem działania, ceną, powiązaniem własnych łańcuchów dostaw i dostępem do kapitału.\n– Presja konkurencyjna ze strony Chin jest jednym z najważniejszych czynników zmieniających europejską i polską motoryzację. Chińskie firmy konkurują ",
+    "published": "2026-07-22T15:24:32",
+    "fetched": "2026-07-22T17:18:39.876938",
+    "title_uk": "Автомобільна промисловість під тиском витрат і конкуренції з Китаю",
+    "summary_uk": "Згідно з дослідженням Keralla Research, 38% компаній у автомобільній галузі відзначають зростання витрат та цінову конкуренцію з постачальниками з-за меж ЄС. 26% підприємств стикаються зі зменшенням обсягів замовлень, а 23% — з новими регуляторними вимогами. Витрати на енергію, сировину та логістику залишаються актуальними проблемами.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Польські дистрибутори повинні враховувати зростаючу конкуренцію з Китаю, що може вплинути на ціни та доступність компонентів.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Автомобільна промисловість під тиском витрат і конкуренції з Китаю",
+    "summary": "Згідно з дослідженням Keralla Research, 38% компаній у автомобільній галузі відзначають зростання витрат та цінову конкуренцію з постачальниками з-за меж ЄС. 26% підприємств стикаються зі зменшенням обсягів замовлень, а 23% — з новими регуляторними вимогами. Витрати на енергію, сировину та логістику залишаються актуальними проблемами.",
+    "link": "https://300gospodarka.pl/news/koszty-chiny-i-krotkie-zamowienia-dociskaja-polskie-automotive",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aabed4d92c6b",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/szpitale-zaplaca-wiecej-za-krew-centra-krwiodawstwa-w-gorszej-kondycji-7310192200554528a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Krew coraz droższa. Tyle zapłacą szpitale",
+    "body_orig": "Od 1 stycznia 2027 r. większość opłat za krew i jej składniki ma wzrosnąć o 5,65 proc. Jest to efekt wzrostu wynagrodzeń w ochronie zdrowia oraz inflacji. Rosną również koszty pobierania i przechowywania składników krwi - podaje serwis medexpress.pl.",
+    "published": "2026-07-22T10:59:19",
+    "fetched": "2026-07-22T17:18:40.969425",
+    "title_uk": "Вартість крові в Польщі зросте на 5,65% з 2027 року",
+    "summary_uk": "З 1 січня 2027 року більшість тарифів на кров і її компоненти зросте на 5,65%. Це пов'язано з підвищенням зарплат у сфері охорони здоров'я та інфляцією. Також зростають витрати на забор крові та її зберігання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання вартості крові може вплинути на витрати медичних закладів, що може призвести до підвищення цін на медичні послуги.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Вартість крові в Польщі зросте на 5,65% з 2027 року",
+    "summary": "З 1 січня 2027 року більшість тарифів на кров і її компоненти зросте на 5,65%. Це пов'язано з підвищенням зарплат у сфері охорони здоров'я та інфляцією. Також зростають витрати на забор крові та її зберігання.",
+    "link": "https://www.money.pl/finanse/szpitale-zaplaca-wiecej-za-krew-centra-krwiodawstwa-w-gorszej-kondycji-7310192200554528a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e993b045bcb6",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/orlen-na-szczycie-akcje-giganta-bija-historyczny-rekord-7310193604339744a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Orlen na szczycie. Akcje giganta biją historyczny rekord",
+    "body_orig": "Akcje Orlenu przebiły na warszawskiej giełdzie granicę 150 zł i ustanowiły kolejny historyczny rekord. Od początku 2026 r. akcje Orlenu zyskały już ponad 65 procent, a jego kapitalizacja przekracza 170 mld zł - informuje serwis wnp.pl.",
+    "published": "2026-07-22T10:35:11",
+    "fetched": "2026-07-22T17:18:40.969442",
+    "title_uk": "Акції Orlen досягли рекорду на Варшавській біржі",
+    "summary_uk": "Акції компанії Orlen перевищили 150 zł на Варшавській біржі, встановивши новий рекорд. З початку 2026 року їхня вартість зросла на понад 65%, а капіталізація перевищила 170 млрд zł.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання акцій Orlen може свідчити про стабільність компанії, що позитивно вплине на дистриб'юторів, які працюють з їхніми продуктами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Акції Orlen досягли рекорду на Варшавській біржі",
+    "summary": "Акції компанії Orlen перевищили 150 zł на Варшавській біржі, встановивши новий рекорд. З початку 2026 року їхня вартість зросла на понад 65%, а капіталізація перевищила 170 млрд zł.",
+    "link": "https://www.money.pl/gospodarka/orlen-na-szczycie-akcje-giganta-bija-historyczny-rekord-7310193604339744a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6bbd5f3ff81b",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/hossa-na-gpw-wig-bije-rekordy-akcje-energetyki-w-gore-7310193085835296a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Hossa na GPW. WIG bije rekordy, akcje energetyki w górę",
+    "body_orig": "Środowa sesja na Giełdzie Papierów Wartościowych w Warszawie przynosi wyraźne umocnienie spółek z sektora energetycznego. Prym wiodą największe podmioty w tej branży.",
+    "published": "2026-07-22T10:16:05",
+    "fetched": "2026-07-22T17:18:40.969466",
+    "title_uk": "Акції енергетичних компаній у Польщі зростають",
+    "summary_uk": "На Варшавській фондовій біржі спостерігається зростання акцій енергетичних компаній. Найбільші гравці в секторі демонструють значне зміцнення. Це свідчить про позитивні тенденції на ринку енергетики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання акцій енергетичних компаній може свідчити про підвищення попиту на енергетичні товари. Розгляньте можливість укладення нових контрактів з постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання акцій енергетичних компаній може вплинути на ціни на енергетичні товари. Перегляньте плани закупівель та цінову політику на Q3."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Акції енергетичних компаній у Польщі зростають",
+    "summary": "На Варшавській фондовій біржі спостерігається зростання акцій енергетичних компаній. Найбільші гравці в секторі демонструють значне зміцнення. Це свідчить про позитивні тенденції на ринку енергетики.",
+    "link": "https://www.money.pl/gospodarka/hossa-na-gpw-wig-bije-rekordy-akcje-energetyki-w-gore-7310193085835296a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "161a0ba11659",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/polska-nie-ma-problemu-z-przedsiebiorczoscia-ma-problem-ze-skalowaniem-firm-7308054423640064a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska nie ma problemu z przedsiębiorczością. Ma problem ze skalowaniem firm.",
+    "body_orig": "Polskie firmy coraz rzadziej przegrywają z powodu braku pieniędzy. Znacznie częściej ograniczają je bariery organizacyjne, kompetencyjne i zarządcze. Mimo szerokiego dostępu do kapitału, technologii i narzędzi wsparcia wiele przedsiębiorstw nadal nie potrafi przejść do kolejnego etapu rozwoju.",
+    "published": "2026-07-22T10:09:00",
+    "fetched": "2026-07-22T17:18:40.969477",
+    "title_uk": "Польські компанії стикаються з проблемами масштабування",
+    "summary_uk": "Польські підприємства все рідше стикаються з нестачею фінансування. Основними перешкодами є організаційні, управлінські та компетенційні бар'єри. Незважаючи на доступ до капіталу та технологій, багато компаній не можуть перейти на наступний етап розвитку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори можуть зосередитися на підтримці компаній у подоланні управлінських бар'єрів, що може покращити їхні бізнес-процеси.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польські компанії стикаються з проблемами масштабування",
+    "summary": "Польські підприємства все рідше стикаються з нестачею фінансування. Основними перешкодами є організаційні, управлінські та компетенційні бар'єри. Незважаючи на доступ до капіталу та технологій, багато компаній не можуть перейти на наступний етап розвитку.",
+    "link": "https://www.money.pl/gospodarka/polska-nie-ma-problemu-z-przedsiebiorczoscia-ma-problem-ze-skalowaniem-firm-7308054423640064a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2131da05e28d",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/fitch-turkish-economy-stays-resilient-amid-global-risks-224681",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Fitch: Turkish economy stays resilient amid global risks",
+    "body_orig": "The Turkish economy demonstrates its resilience against external macroeconomic shocks despite a highly volatile global environment and regional geopolitical politics, according to a senior Fitch Ratings director.",
+    "published": "2026-07-22T12:39:50",
+    "fetched": "2026-07-22T17:18:47.506431",
+    "title_uk": "Турецька економіка демонструє стійкість до глобальних ризиків",
+    "summary_uk": "Економіка Туреччини показує стійкість до зовнішніх макроекономічних шоків, незважаючи на глобальну волатильність та регіональну геополітику. Це підтвердив старший директор Fitch Ratings. Прогнози на майбутнє залишаються позитивними.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Стійкість економіки може свідчити про стабільний попит на турецькі товари. Розгляньте можливість розширення експорту до країн з високим попитом.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Турецька економіка демонструє стійкість до глобальних ризиків",
+    "summary": "Економіка Туреччини показує стійкість до зовнішніх макроекономічних шоків, незважаючи на глобальну волатильність та регіональну геополітику. Це підтвердив старший директор Fitch Ratings. Прогнози на майбутнє залишаються позитивними.",
+    "link": "https://www.hurriyetdailynews.com/fitch-turkish-economy-stays-resilient-amid-global-risks-224681",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0c12d488d271",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/uk-inflation-falls-more-than-expected-to-2-6-pct-in-june-224665",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Cooler inflation hands new UK PM Burnham an early boost",
+    "body_orig": "Britain's annual inflation rate fell more than expected in June, driven by lower fuel prices, official data showed Wednesday, in a boost to new Prime Minister Andy Burnham.",
+    "published": "2026-07-22T09:17:00",
+    "fetched": "2026-07-22T17:18:47.506448",
+    "title_uk": "Інфляція у Великій Британії знизилась, що підвищило рейтинг нового прем'єра",
+    "summary_uk": "Річна інфляція у Великій Британії у червні знизилась більше, ніж очікувалось, завдяки зниженню цін на паливо. Це позитивно вплинуло на нового прем'єр-міністра Енді Бернхема. Офіційні дані свідчать про зменшення інфляції, що може поліпшити економічну ситуацію в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Інфляція у Великій Британії знизилась, що підвищило рейтинг нового прем'єра",
+    "summary": "Річна інфляція у Великій Британії у червні знизилась більше, ніж очікувалось, завдяки зниженню цін на паливо. Це позитивно вплинуло на нового прем'єр-міністра Енді Бернхема. Офіційні дані свідчать про зменшення інфляції, що може поліпшити економічну ситуацію в країні.",
+    "link": "https://www.hurriyetdailynews.com/uk-inflation-falls-more-than-expected-to-2-6-pct-in-june-224665",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "26381672be03",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-airlines-signs-contract-for-12-flight-simulators-from-havelsan-224653",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish Airlines signs contract for 12 flight simulators from HAVELSAN",
+    "body_orig": "Turkish Airlines has signed an agreement with defense technology company HAVELSAN for the procurement of 12 domestically produced flight simulators as part of an expansion of its pilot training infrastructure, officials have announced.",
+    "published": "2026-07-22T08:31:11",
+    "fetched": "2026-07-22T17:18:47.506491",
+    "title_uk": "Turkish Airlines уклала угоду на постачання 12 симуляторів польотів",
+    "summary_uk": "Turkish Airlines підписала угоду з HAVELSAN на постачання 12 симуляторів польотів, виготовлених в Туреччині. Це частина розширення інфраструктури підготовки пілотів. Угода сприятиме розвитку навчання авіаційного персоналу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може відкрити нові можливості для турецьких виробників, які прагнуть розширити свою присутність на міжнародних ринках, зокрема в Україні.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Turkish Airlines уклала угоду на постачання 12 симуляторів польотів",
+    "summary": "Turkish Airlines підписала угоду з HAVELSAN на постачання 12 симуляторів польотів, виготовлених в Туреччині. Це частина розширення інфраструктури підготовки пілотів. Угода сприятиме розвитку навчання авіаційного персоналу.",
+    "link": "https://www.hurriyetdailynews.com/turkish-airlines-signs-contract-for-12-flight-simulators-from-havelsan-224653",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fd3865960270",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/ipo-market-surges-past-1-billion-224631",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "IPO market surges past $1 billion",
+    "body_orig": "Türkiye’s initial public offering market has surpassed full-year 2025 figures, with 24 companies raising more than $1 billion so far in 2026 despite geopolitical tensions and global economic uncertainty, brokerage firm Tera Yatırım has reported.",
+    "published": "2026-07-22T08:25:00",
+    "fetched": "2026-07-22T17:18:47.506500",
+    "title_uk": "Ринок IPO у Туреччині перевищив $1 млрд у 2026 році",
+    "summary_uk": "Турецький ринок первинних публічних розміщень зібрав понад $1 млрд, перевищивши показники 2025 року. 24 компанії залучили інвестиції, незважаючи на геополітичні напруження та економічну невизначеність. Звіт підготувала брокерська компанія Tera Yatırım.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це позитивний сигнал для турецьких виробників, які шукають інвестиції для розширення. Залучення капіталу може підвищити конкурентоспроможність на міжнародних ринках.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ринок IPO у Туреччині перевищив $1 млрд у 2026 році",
+    "summary": "Турецький ринок первинних публічних розміщень зібрав понад $1 млрд, перевищивши показники 2025 року. 24 компанії залучили інвестиції, незважаючи на геополітичні напруження та економічну невизначеність. Звіт підготувала брокерська компанія Tera Yatırım.",
+    "link": "https://www.hurriyetdailynews.com/ipo-market-surges-past-1-billion-224631",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "241713a380f1",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkiye-syria-target-bilateral-trade-volume-of-10b/4005751",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye, Syria target bilateral trade volume of $10B",
+    "body_orig": "Türkiye aims to mobilize full commercial potential along all border lines, Turkish trade minister says",
+    "published": "2026-07-22T11:04:42",
+    "fetched": "2026-07-22T17:18:49.520009",
+    "title_uk": "Туреччина та Сирія планують збільшити двосторонню торгівлю до $10 млрд",
+    "summary_uk": "Туреччина має намір активізувати комерційний потенціал на всіх кордонах. Міністр торгівлі Туреччини оголосив про ціль досягти обсягу двосторонньої торгівлі з Сирією у $10 млрд. Це може включати різні сектори, але деталі поки не розкриті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в сусідніх країнах, зокрема в Сирії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина та Сирія планують збільшити двосторонню торгівлю до $10 млрд",
+    "summary": "Туреччина має намір активізувати комерційний потенціал на всіх кордонах. Міністр торгівлі Туреччини оголосив про ціль досягти обсягу двосторонньої торгівлі з Сирією у $10 млрд. Це може включати різні сектори, але деталі поки не розкриті.",
+    "link": "https://www.aa.com.tr/en/economy/turkiye-syria-target-bilateral-trade-volume-of-10b/4005751",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "abd79460195a",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkish-airlines-inks-new-major-deals-at-uk-airshow/4005745",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish Airlines inks new major deals at UK airshow",
+    "body_orig": "Türkiye’s flag carrier enhances pilot training quality with new simulator procurements from Havelsan, Canadian Aviation Electronics, while joining sustainable aviation fuel fund SAFFA to reach carbon reduction goals, says chair",
+    "published": "2026-07-22T11:00:10",
+    "fetched": "2026-07-22T17:18:49.520026",
+    "title_uk": "Turkish Airlines уклала угоди на авіашоу у Великій Британії",
+    "summary_uk": "Turkish Airlines підвищує якість підготовки пілотів через нові симулятори від Havelsan та Canadian Aviation Electronics. Авіакомпанія також приєдналася до фонду SAFFA для зменшення викидів вуглецю. Ці кроки спрямовані на підвищення екологічної стійкості компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ці угоди можуть створити нові можливості для турецьких виробників авіаційного обладнання, які шукають партнерів у міжнародних ринках.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Turkish Airlines уклала угоди на авіашоу у Великій Британії",
+    "summary": "Turkish Airlines підвищує якість підготовки пілотів через нові симулятори від Havelsan та Canadian Aviation Electronics. Авіакомпанія також приєдналася до фонду SAFFA для зменшення викидів вуглецю. Ці кроки спрямовані на підвищення екологічної стійкості компанії.",
+    "link": "https://www.aa.com.tr/en/economy/turkish-airlines-inks-new-major-deals-at-uk-airshow/4005745",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0808b7fb8caf",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/nato-s-front-door-initiative-aims-to-streamline-turkish-defense-engagement-with-alliance/4005725",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "NATO’s 'Front Door' initiative aims to streamline Turkish defense engagement with alliance",
+    "body_orig": "Turkish National Defense Ministry details critical security and administrative steps Turkish firms must take to access NATO’s joint budget of over $6B, as the new mechanism aims to connect businesses of all sizes",
+    "published": "2026-07-22T10:43:19",
+    "fetched": "2026-07-22T17:18:49.520037",
+    "title_uk": "Туреччина спрощує доступ до бюджету НАТО для місцевих компаній",
+    "summary_uk": "Міністерство національної оборони Туреччини оголосило про нові кроки для компаній, які хочуть отримати доступ до спільного бюджету НАТО, що перевищує $6 млрд. Ініціатива має на меті з'єднати бізнеси різних розмірів з можливостями альянсу. Це відкриває нові можливості для турецьких виробників у сфері оборони.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це створює нові можливості для турецьких виробників, які можуть отримати фінансування та підтримку від НАТО для розвитку своїх продуктів у сфері оборони.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Туреччина спрощує доступ до бюджету НАТО для місцевих компаній",
+    "summary": "Міністерство національної оборони Туреччини оголосило про нові кроки для компаній, які хочуть отримати доступ до спільного бюджету НАТО, що перевищує $6 млрд. Ініціатива має на меті з'єднати бізнеси різних розмірів з можливостями альянсу. Це відкриває нові можливості для турецьких виробників у сфері оборони.",
+    "link": "https://www.aa.com.tr/en/economy/nato-s-front-door-initiative-aims-to-streamline-turkish-defense-engagement-with-alliance/4005725",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05ef4f6e20a8",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/eu-fuel-prices-rise-137-year-on-year-in-june/4005615",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU fuel prices rise 13.7% year-on-year in June",
+    "body_orig": "Bulgaria records highest annual increase among EU member states at 26%",
+    "published": "2026-07-22T09:22:44",
+    "fetched": "2026-07-22T17:18:49.520045",
+    "title_uk": "Ціни на паливо в ЄС зросли на 13.7% у червні",
+    "summary_uk": "У червні ціни на паливо в ЄС зросли на 13.7% в річному вимірі. Найбільше зростання зафіксовано в Болгарії — 26%. Це підвищення вплине на витрати споживачів та бізнесу в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в ЄС може призвести до підвищення витрат на логістику для українських імпортерів, які працюють з країнами ЄС.",
+      "pl_distributor": "Польські дистриб'ютори FMCG можуть очікувати підвищення витрат на транспортування, що може вплинути на ціни товарів.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на паливо в ЄС зросли на 13.7% у червні",
+    "summary": "У червні ціни на паливо в ЄС зросли на 13.7% в річному вимірі. Найбільше зростання зафіксовано в Болгарії — 26%. Це підвищення вплине на витрати споживачів та бізнесу в регіоні.",
+    "link": "https://www.aa.com.tr/en/economy/eu-fuel-prices-rise-137-year-on-year-in-june/4005615",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e9d4aa597413",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4006070",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa günü yükselişle tamamladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,18 değer kazanarak 14.138,85 puandan tamamladı.",
+    "published": "2026-07-22T15:29:16",
+    "fetched": "2026-07-22T17:18:50.843577",
+    "title_uk": "Істамбул: біржа зросла на 1.18% за день",
+    "summary_uk": "BIST 100 на біржі Істанбулу підвищився на 1.18% і закрився на рівні 14.139 пунктів. Це свідчить про позитивні настрої на ринку. Інвестори продовжують проявляти активність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Позитивна динаміка на біржі може свідчити про зростання економічної активності в Туреччині. Це може бути сигналом для виробників шукати нові можливості на ринку.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Істамбул: біржа зросла на 1.18% за день",
+    "summary": "BIST 100 на біржі Істанбулу підвищився на 1.18% і закрився на рівні 14.139 пунктів. Це свідчить про позитивні настрої на ринку. Інвестори продовжують проявляти активність.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4006070",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "abb22a7d8e58",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/finansal-kesim-disindaki-firmalarin-net-doviz-acigi-mayista-azaldi/4005840",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Finansal kesim dışındaki firmaların net döviz açığı mayısta azaldı",
+    "body_orig": "Finansal kesim dışındaki firmaların net döviz açığı, mayıs ayında 204 milyar 415 milyon dolar oldu.",
+    "published": "2026-07-22T12:26:09",
+    "fetched": "2026-07-22T17:18:50.843607",
+    "title_uk": "Нетто-валютний дефіцит турецьких компаній зменшився у травні",
+    "summary_uk": "У травні нетто-валютний дефіцит компаній, що не входять до фінансового сектору, склав $204 млрд. Це свідчить про покращення валютної позиції підприємств у Туреччині. Зменшення дефіциту може позитивно вплинути на стабільність економіки.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зменшення валютного дефіциту може свідчити про покращення економічної ситуації в Туреччині, що може відкрити нові можливості для експорту до інших країн.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "валюта",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Нетто-валютний дефіцит турецьких компаній зменшився у травні",
+    "summary": "У травні нетто-валютний дефіцит компаній, що не входять до фінансового сектору, склав $204 млрд. Це свідчить про покращення валютної позиції підприємств у Туреччині. Зменшення дефіциту може позитивно вплинути на стабільність економіки.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/finansal-kesim-disindaki-firmalarin-net-doviz-acigi-mayista-azaldi/4005840",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7f410df79dfa",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/goldman-sachs-orta-dogudaki-gerilim-nedeniyle-avrupa-dogal-gaz-fiyati-tahminini-yukseltti/4005728",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Goldman Sachs, Orta Doğu'daki gerilim nedeniyle Avrupa doğal gaz fiyatı tahminini yükseltti",
+    "body_orig": "Goldman Sachs, Orta Doğu'da süren gerilimlerin Basra Körfezi'nden LNG ihracatının beklenenden daha yavaş toparlanmasına yol açacağı öngörüsüyle Avrupa doğal gaz fiyatlarına ilişkin kısa vadeli tahminini yukarı yönlü revize etti.",
+    "published": "2026-07-22T10:45:32",
+    "fetched": "2026-07-22T17:18:50.843635",
+    "title_uk": "Goldman Sachs підвищив прогнози цін на газ в Європі через конфлікти в регіоні",
+    "summary_uk": "Goldman Sachs переглянув прогнози цін на природний газ в Європі через затримки в відновленні експорту LNG з Перської затоки. Очікується, що ціни зростуть через геополітичні ризики. Зміни можуть вплинути на ринок енергетики в Європі.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на газ в Європі може призвести до підвищення вартості імпортованих товарів, особливо енергетично залежних. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Польські дистриб'ютори можуть відчути тиск на ціни, особливо в категоріях, що залежать від енергетичних витрат. Розгляньте можливість перегляду цінової політики.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на газ може вплинути на витрати в категоріях, що залежать від енергетики. Рекомендується переглянути плани закупівель та ціноутворення."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "імпорт"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Goldman Sachs підвищив прогнози цін на газ в Європі через конфлікти в регіоні",
+    "summary": "Goldman Sachs переглянув прогнози цін на природний газ в Європі через затримки в відновленні експорту LNG з Перської затоки. Очікується, що ціни зростуть через геополітичні ризики. Зміни можуть вплинути на ринок енергетики в Європі.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/goldman-sachs-orta-dogudaki-gerilim-nedeniyle-avrupa-dogal-gaz-fiyati-tahminini-yukseltti/4005728",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6babfb0bdeb2",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/elektrikli-arac-sarj-soket-sayisi-haziranda-45-bini-asti/4005644",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Elektrikli araç şarj soket sayısı haziranda 45 bini aştı",
+    "body_orig": "Türkiye genelinde elektrikli araç şarj soket sayısı haziranda bir önceki aya göre yüzde 2,09 artarak 45 bin 97'ye çıktı.",
+    "published": "2026-07-22T09:46:44",
+    "fetched": "2026-07-22T17:18:50.843644",
+    "title_uk": "Кількість зарядних станцій для електрокарів у Туреччині перевищила 45 тисяч",
+    "summary_uk": "У червні 2026 року кількість зарядних станцій для електричних автомобілів у Туреччині зросла на 2% у порівнянні з травнем, досягнувши 45 097 одиниць. Це свідчить про зростаючий інтерес до електромобілів у країні. Збільшення інфраструктури зарядки може сприяти подальшому розвитку ринку електрокарів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання кількості зарядних станцій може створити нові можливості для виробників електромобілів у Туреччині. Розгляньте можливість виходу на ринок з новими моделями.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кількість зарядних станцій для електрокарів у Туреччині перевищила 45 тисяч",
+    "summary": "У червні 2026 року кількість зарядних станцій для електричних автомобілів у Туреччині зросла на 2% у порівнянні з травнем, досягнувши 45 097 одиниць. Це свідчить про зростаючий інтерес до електромобілів у країні. Збільшення інфраструктури зарядки може сприяти подальшому розвитку ринку електрокарів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/elektrikli-arac-sarj-soket-sayisi-haziranda-45-bini-asti/4005644",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e0d5090de68",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/clinica-sanovil-din-bistrita-detinuta-de-medicul-gavrilas-muresan-si-a-triplat-profitul-net-in-2025-la-afaceri-de-peste-31-mil-lei-23199975",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Clinica Sanovil din Bistriţa, deţinută de medicul Gavrilaş Mureşan, şi-a triplat profitul net în 2025, la afaceri de peste 31 mil. lei",
+    "body_orig": "Clinica Sanovil din Bistriţa, parte a grupului Sanovil, creat de medicul Gavrilaş Mureşan în urmă cu 19 ani, a raportat pentru 2025 o cifră de afaceri de 31,4 mil. lei (6,2 mil. euro), în creştere cu aproximativ 16% faţă de anul anterior, când compania a avut afaceri de 27,1 mil. lei (5,4 mil. euro), potrivit calculelor ZF făcute pe baza datelor de pe site-ul Ministerului Finanţelor.",
+    "published": "2026-07-22T15:40:00",
+    "fetched": "2026-07-22T17:18:52.903770",
+    "title_uk": "Clinica Sanovil тріплює прибуток у 2025 році до 31 млн. леїв",
+    "summary_uk": "Clinica Sanovil з Бистриці зафіксувала прибуток у 31,4 млн. леїв (€6,2 млн) у 2025 році, що на 16% більше, ніж у 2024 році. Клініка, заснована лікарем Гаврілашем Мурешаном, продовжує зростати на ринку медичних послуг. Зростання обсягу продажів свідчить про успішну стратегію компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Clinica Sanovil тріплює прибуток у 2025 році до 31 млн. леїв",
+    "summary": "Clinica Sanovil з Бистриці зафіксувала прибуток у 31,4 млн. леїв (€6,2 млн) у 2025 році, що на 16% більше, ніж у 2024 році. Клініка, заснована лікарем Гаврілашем Мурешаном, продовжує зростати на ринку медичних послуг. Зростання обсягу продажів свідчить про успішну стратегію компанії.",
+    "link": "https://www.zf.ro/companii/clinica-sanovil-din-bistrita-detinuta-de-medicul-gavrilas-muresan-si-a-triplat-profitul-net-in-2025-la-afaceri-de-peste-31-mil-lei-23199975",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7344dd52ad94",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/fostul-sidex-respira-contracte-de-tolling-cu-glencore-marea-britanie-si-kaiseri-metal-center-k-c-m-turcia-ce-va-produce-23200725",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fostul Sidex respiră: contracte de tolling cu Glencore (Marea Britanie) şi Kaiseri Metal Center K.C.M (Turcia). Ce va produce?",
+    "body_orig": "",
+    "published": "2026-07-22T15:20:32",
+    "fetched": "2026-07-22T17:18:52.903786",
+    "title_uk": "Sidex уклав контракти з Glencore та Kaiseri Metal Center",
+    "summary_uk": "Компанія Sidex підписала контракти на tolling з Glencore (Велика Британія) та Kaiseri Metal Center K.C.M (Туреччина). Це дозволить Sidex розпочати виробництво нових металевих продуктів. Угода відкриває нові можливості для співпраці на ринку металургії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Румунії, оскільки Sidex розширює виробництво.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Sidex уклав контракти з Glencore та Kaiseri Metal Center",
+    "summary": "Компанія Sidex підписала контракти на tolling з Glencore (Велика Британія) та Kaiseri Metal Center K.C.M (Туреччина). Це дозволить Sidex розпочати виробництво нових металевих продуктів. Угода відкриває нові можливості для співпраці на ринку металургії.",
+    "link": "https://www.zf.ro/companii/energie/fostul-sidex-respira-contracte-de-tolling-cu-glencore-marea-britanie-si-kaiseri-metal-center-k-c-m-turcia-ce-va-produce-23200725",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "562c945b57c3",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/spectacol-bursa-valori-bucuresti-tranzactie-speciala-82-mil-lei-actiuni-digi-cele-cris-tim-cresc-9-compania-trece-capitalizare-3-mld-lei-romgaz-continua-cresterea-lichiditate-213-mil-lei-actiuni-23200723",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Spectacol la Bursa de Valori Bucureşti: Tranzacţie specială de 82 mil. lei cu acţiuni Digi, cele ale Cris-Tim cresc cu 9% şi compania trece de o capitalizare de 3 mld. lei, Romgaz continuă creşterea. Lichiditate de 213 mil. lei doar pe acţiuni. Nou maxim istoric pe indicele BET",
+    "body_orig": "",
+    "published": "2026-07-22T15:19:25",
+    "fetched": "2026-07-22T17:18:52.903798",
+    "title_uk": "Торги на біржі в Румунії: акції Digi на €82 млн, Cris-Tim зростає",
+    "summary_uk": "На біржі в Бухаресті відбулася угода на суму €82 млн з акціями Digi. Акції Cris-Tim зросли на 9%, що дозволило компанії перевищити капіталізацію в €3 млрд. Ліквідність на ринку склала €213 млн, а індекс BET досяг нового історичного максимуму.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Торги на біржі в Румунії: акції Digi на €82 млн, Cris-Tim зростає",
+    "summary": "На біржі в Бухаресті відбулася угода на суму €82 млн з акціями Digi. Акції Cris-Tim зросли на 9%, що дозволило компанії перевищити капіталізацію в €3 млрд. Ліквідність на ринку склала €213 млн, а індекс BET досяг нового історичного максимуму.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/spectacol-bursa-valori-bucuresti-tranzactie-speciala-82-mil-lei-actiuni-digi-cele-cris-tim-cresc-9-compania-trece-capitalizare-3-mld-lei-romgaz-continua-cresterea-lichiditate-213-mil-lei-actiuni-23200723",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0d03929581f7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/irinel-darau-ministrul-economiei-am-negociat-si-am-dus-pana-la-capat-obligatia-rheinmetall-sa-investeasca-foarte-concret-la-mangalia-si-sa-construiasca-aceste-patru-nave-militare-cu-920-mil-euro-23200721",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Irinel Dărău, ministrul economiei: “Am negociat şi am dus până la capăt obligaţia Rheinmetall să investească foarte concret la Mangalia şi să construiască aceste patru nave militare, cu 920 mil.euro”",
+    "body_orig": "",
+    "published": "2026-07-22T15:18:11",
+    "fetched": "2026-07-22T17:18:52.903808",
+    "title_uk": "Румунія домовилась про інвестиції Rheinmetall у військові кораблі",
+    "summary_uk": "Міністр економіки Румунії Ірінел Дарау оголосив про успішні переговори з компанією Rheinmetall. Інвестиції складуть €920 млн на будівництво чотирьох військових кораблів у Мангалії. Проект має стратегічне значення для оборонної промисловості країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія домовилась про інвестиції Rheinmetall у військові кораблі",
+    "summary": "Міністр економіки Румунії Ірінел Дарау оголосив про успішні переговори з компанією Rheinmetall. Інвестиції складуть €920 млн на будівництво чотирьох військових кораблів у Мангалії. Проект має стратегічне значення для оборонної промисловості країни.",
+    "link": "https://www.zf.ro/zf-24/irinel-darau-ministrul-economiei-am-negociat-si-am-dus-pana-la-capat-obligatia-rheinmetall-sa-investeasca-foarte-concret-la-mangalia-si-sa-construiasca-aceste-patru-nave-militare-cu-920-mil-euro-23200721",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "395ec02b8657",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/auto/euro-auto-plastic-systems-subsidiara-locala-a-francezilor-de-la-faurecia-aproape-si-a-triplat-profitul-in-2025-la-peste-90-mil-lei-si-afaceri-de-821-4-mil-lei-23199977",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Euro Auto Plastic Systems, subsidiara locală a francezilor de la Faurecia, aproape şi-a triplat profitul în 2025, la peste 90 mil. lei, şi afaceri de 821,4 mil. lei",
+    "body_orig": "Compania Euro Auto Plastic Systems, subsidiara locală a gigantului francez Faurecia, parte a grupului Forvia, cu vânzări globale de peste 26 mld. euro, a raportat pentru 2025 o cifră de afaceri de 821,4 mil. lei (aproximativ 163 mil. euro), în creştere cu aproape 27,6% faţă de anul anterior, când compania a realizat afaceri de 643,7 mil. lei (129,4 mil. euro), potrivit calculelor ZF făcute pe baza datelor de la Ministerul Finanţelor.",
+    "published": "2026-07-22T15:00:00",
+    "fetched": "2026-07-22T17:18:52.903827",
+    "title_uk": "Euro Auto Plastic Systems майже потроїла прибуток у 2025 році",
+    "summary_uk": "Euro Auto Plastic Systems, підрозділ Faurecia, зафіксувала прибуток понад 90 млн. леїв у 2025 році. Дохід компанії зріс на 28% до 821 млн. леїв (близько €163 млн). У 2024 році продажі становили 644 млн. леїв (приблизно €129 млн).",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Euro Auto Plastic Systems майже потроїла прибуток у 2025 році",
+    "summary": "Euro Auto Plastic Systems, підрозділ Faurecia, зафіксувала прибуток понад 90 млн. леїв у 2025 році. Дохід компанії зріс на 28% до 821 млн. леїв (близько €163 млн). У 2024 році продажі становили 644 млн. леїв (приблизно €129 млн).",
+    "link": "https://www.zf.ro/auto/euro-auto-plastic-systems-subsidiara-locala-a-francezilor-de-la-faurecia-aproape-si-a-triplat-profitul-in-2025-la-peste-90-mil-lei-si-afaceri-de-821-4-mil-lei-23199977",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e8423c84d694",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/auto/conducere-tarom-bogdan-costas-directorul-general-revocat-functie-iar-locul-vine-cristian-anghel-ministrul-transporturilor-directorul-intreprins-niciun-demers-refacerea-bugetului-date-reale-intarziat-23200679",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "O nouă conducere la TAROM: Bogdan Costaş, directorul general, a fost revocat din funcţie, iar în locul său vine Cristian Anghel. Ministrul Transporturilor: „Directorul nu a întreprins niciun demers pentru refacerea bugetului pe date reale şi a întârziat nejustificat demersurile pentru modificarea planului de restructurare”",
+    "body_orig": "",
+    "published": "2026-07-22T14:47:38",
+    "fetched": "2026-07-22T17:18:52.903846",
+    "title_uk": "Зміна керівництва в TAROM: новий директор замість Богдана Косташа",
+    "summary_uk": "Богдан Косташ був звільнений з посади генерального директора TAROM. На його місце призначено Крістіана Ангела. Міністр транспорту зазначив, що попередній директор не вживав заходів для покращення бюджету та затримував реформи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зміна керівництва в TAROM: новий директор замість Богдана Косташа",
+    "summary": "Богдан Косташ був звільнений з посади генерального директора TAROM. На його місце призначено Крістіана Ангела. Міністр транспорту зазначив, що попередній директор не вживав заходів для покращення бюджету та затримував реформи.",
+    "link": "https://www.zf.ro/auto/conducere-tarom-bogdan-costas-directorul-general-revocat-functie-iar-locul-vine-cristian-anghel-ministrul-transporturilor-directorul-intreprins-niciun-demers-refacerea-bugetului-date-reale-intarziat-23200679",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9b49b3d1a941",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/penny-deschide-un-magazin-nou-in-tara-si-ajunge-la-468-de-unitati-la-nivel-national_961628.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "PENNY deschide un magazin nou în țară și ajunge la 468 de unități la nivel național",
+    "body_orig": "Retailerul alimentar PENNY anunță că își continuă extinderea rețelei la nivel național și inaugurează un nou magazin în Jidvei, județul Alba. Odată cu această deschidere, rețeaua PENNY ajunge la 468 de unități la nivel național.",
+    "published": "2026-07-22T16:26:44",
+    "fetched": "2026-07-22T17:18:55.306141",
+    "title_uk": "PENNY відкриває новий магазин в Румунії, досягнувши 468 одиниць",
+    "summary_uk": "Рітейлер PENNY продовжує розширення в Румунії, відкриваючи новий магазин у Джидвеї, повіт Альба. Тепер мережа налічує 468 магазинів по всій країні. Це свідчить про активний розвиток компанії на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Відкриття нових магазинів PENNY може вплинути на конкуренцію в ритейлі. Рекомендується переглянути асортимент і стратегії просування, щоб залишатися конкурентоспроможними."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "PENNY відкриває новий магазин в Румунії, досягнувши 468 одиниць",
+    "summary": "Рітейлер PENNY продовжує розширення в Румунії, відкриваючи новий магазин у Джидвеї, повіт Альба. Тепер мережа налічує 468 магазинів по всій країні. Це свідчить про активний розвиток компанії на ринку.",
+    "link": "https://www.economica.net/penny-deschide-un-magazin-nou-in-tara-si-ajunge-la-468-de-unitati-la-nivel-national_961628.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2bf15555ceca",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noi-scumpiri-la-carburanti-benzina-este-foarte-aproape-de-9-lei-litrul-iar-motorina-se-aproapie-rapid-de-10-lei-care-sunt-preturile-acum_961624.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noi scumpiri la carburanți, benzina este foarte aproape de 9 lei litrul iar motorina se aproapie rapid de 10 lei. Care sunt prețurile acum",
+    "body_orig": "După scumpirile din această dimineață operate de OMV Petrom, liderul pieței, celelalte mari lanțuri de distribuție a carburanților au crescut prețurile după amiază.",
+    "published": "2026-07-22T16:07:46",
+    "fetched": "2026-07-22T17:18:55.306150",
+    "title_uk": "Ціни на пальне в Румунії знову зростають",
+    "summary_uk": "OMV Petrom підвищив ціни на бензин до 9 леїв за літр, а на дизель до 10 леїв. Інші мережі також підвищили ціни після цього рішення. Зростання цін відбулося в умовах нестабільності на ринку пального.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на пальне в Румунії знову зростають",
+    "summary": "OMV Petrom підвищив ціни на бензин до 9 леїв за літр, а на дизель до 10 леїв. Інші мережі також підвищили ціни після цього рішення. Зростання цін відбулося в умовах нестабільності на ринку пального.",
+    "link": "https://www.economica.net/noi-scumpiri-la-carburanti-benzina-este-foarte-aproape-de-9-lei-litrul-iar-motorina-se-aproapie-rapid-de-10-lei-care-sunt-preturile-acum_961624.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "edd84ac24309",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/irineu-darau-spune-ca-e-posibil-ca-din-2027-sa-fie-reintrodusa-prima-de-incoming-in-turism-nu-putem-sa-i-lasam-pe-cei-din-horeca-sa-suporte-100-din-efectele-scaderii-consumului_961622.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Irineu Darău spune că e posibil ca din 2027 să fie reintrodusă prima de incoming în turism. „Nu putem să-i lăsăm pe cei din HoReCa să suporte 100% din efectele scăderii consumului”",
+    "body_orig": "Industria turismului din România şi cea a HoReCa nu trebuie să suporte sută la sută efectele scăderii consumului şi sper ca anul viitor să acordăm din nou prima de incoming, a declarat, miercuri, ministrul interimar al Economiei, Digitalizării, Antreprenoriatului şi Turismului, Irineu Darău, într-o conferinţă de bilanţ la şase luni de mandat, transmite Agerpres.",
+    "published": "2026-07-22T15:52:35",
+    "fetched": "2026-07-22T17:18:55.306159",
+    "title_uk": "Міністр економіки Румунії анонсує повернення премії для туризму з 2027",
+    "summary_uk": "Міністр економіки Румунії Ірінеу Дарау заявив про можливість відновлення премії для incoming-туризму з 2027 року. Це рішення має на меті підтримати індустрію туризму та HoReCa, які зазнали значних втрат через зниження споживання. Міністр підкреслив, що не можна залишати ці сектори наодинці з проблемами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "HoReCa"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Міністр економіки Румунії анонсує повернення премії для туризму з 2027",
+    "summary": "Міністр економіки Румунії Ірінеу Дарау заявив про можливість відновлення премії для incoming-туризму з 2027 року. Це рішення має на меті підтримати індустрію туризму та HoReCa, які зазнали значних втрат через зниження споживання. Міністр підкреслив, що не можна залишати ці сектори наодинці з проблемами.",
+    "link": "https://www.economica.net/irineu-darau-spune-ca-e-posibil-ca-din-2027-sa-fie-reintrodusa-prima-de-incoming-in-turism-nu-putem-sa-i-lasam-pe-cei-din-horeca-sa-suporte-100-din-efectele-scaderii-consumului_961622.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e2566b00ce66",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bancile-din-zona-euro-au-inasprit-conditiile-de-creditare-din-cauza-temerilor-generate-de-instabilitatea-politica-studiu-bce_961620.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Băncile din zona euro au înăsprit condițiile de creditare, din cauza temerilor generate de instabilitatea politică – studiu BCE",
+    "body_orig": "Băncile din zona euro au înăsprit accesul companiilor la credite, în trimestrul doi, pe fondul temerilor privind instabilitatea politică, şi se aşteaptă ca tendinţa să continue în actualul trimestru, arată datele unui studiu publicat de Banca Centrală Europeană (BCE), transmite Reuters, relatează Agerpres.",
+    "published": "2026-07-22T15:37:37",
+    "fetched": "2026-07-22T17:18:55.306168",
+    "title_uk": "Європейські банки посилили умови кредитування через політичну нестабільність",
+    "summary_uk": "Банки в зоні євро у другому кварталі обмежили доступ до кредитів для компаній через побоювання щодо політичної нестабільності. Очікується, що ця тенденція продовжиться в третьому кварталі. Дослідження проведене Європейським центральним банком.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Європейські банки посилили умови кредитування через політичну нестабільність",
+    "summary": "Банки в зоні євро у другому кварталі обмежили доступ до кредитів для компаній через побоювання щодо політичної нестабільності. Очікується, що ця тенденція продовжиться в третьому кварталі. Дослідження проведене Європейським центральним банком.",
+    "link": "https://www.economica.net/bancile-din-zona-euro-au-inasprit-conditiile-de-creditare-din-cauza-temerilor-generate-de-instabilitatea-politica-studiu-bce_961620.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bba5dd06255b",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/residential-property/alto-home-builds-first-residential-development-with-basalt-mineral-wool-ventilated-facades-in-ploiesti-298676",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "ALTO Home builds first residential development with basalt mineral wool ventilated façades in Ploiești",
+    "body_orig": "Ploiești is consolidating its status as a city undergoing major residential transformation, with the western district becoming one of the most attractive areas for premium housing development. ALTO Home, the new project now at an advanced stage of construction, brings to the local market building solutions rarely seen in Romania and continues the development begun by [&#8230;]\nThe post ALTO Home builds first residential development with basalt mineral wool ventilated façades in Ploiești appeared first on Business Review.",
+    "published": "2026-07-22T14:10:26",
+    "fetched": "2026-07-22T17:18:58.423892",
+    "title_uk": "ALTO Home будує перший житловий комплекс з фасадами з базальтової вати в Плоєшті",
+    "summary_uk": "У Плоєшті триває будівництво нового житлового комплексу ALTO Home. Проект використовує фасади з базальтової мінеральної вати, що є рідкісним рішенням для Румунії. Західний район міста стає привабливим для преміум-житла.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ALTO Home будує перший житловий комплекс з фасадами з базальтової вати в Плоєшті",
+    "summary": "У Плоєшті триває будівництво нового житлового комплексу ALTO Home. Проект використовує фасади з базальтової мінеральної вати, що є рідкісним рішенням для Румунії. Західний район міста стає привабливим для преміум-житла.",
+    "link": "https://business-review.eu/property/residential-property/alto-home-builds-first-residential-development-with-basalt-mineral-wool-ventilated-facades-in-ploiesti-298676",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ca50a7047941",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/legal/dentons-advises-lenders-on-e48-5-million-ifc-financing-for-second-phase-of-aukeras-gura-ialomitei-bess-project-in-romania-298673",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Dentons advises lenders on €48.5 million IFC financing for second phase of Aukera’s Gura Ialomitei BESS project in Romania",
+    "body_orig": "Global law firm Dentons has advised the lenders, International Finance Corporation (IFC), the private sector arm of the World Bank Group, and Kommunalkredit Austria AG, on the EUR 48.5 million financing provided by IFC for the second phase of Aukera’s Gura Ialomiței battery energy storage system (BESS) project in Romania. The financing package comprises EUR [&#8230;]\nThe post Dentons advises lenders on €48.5 million IFC financing for second phase of Aukera’s Gura Ialomitei BESS project in Romania appeared first on Business Review.",
+    "published": "2026-07-22T10:45:55",
+    "fetched": "2026-07-22T17:18:58.423911",
+    "title_uk": "Dentons консультує кредиторів щодо фінансування проєкту в Румунії",
+    "summary_uk": "Юридична фірма Dentons надала консультації кредиторам, включаючи Міжнародну фінансову корпорацію (IFC), щодо фінансування в €48.5 млн для другого етапу проєкту зберігання енергії Aukera в Гурі Іаломиці, Румунія. IFC є приватним підрозділом Групи Світового банку. Фінансування сприятиме розвитку інфраструктури зберігання енергії в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Dentons консультує кредиторів щодо фінансування проєкту в Румунії",
+    "summary": "Юридична фірма Dentons надала консультації кредиторам, включаючи Міжнародну фінансову корпорацію (IFC), щодо фінансування в €48.5 млн для другого етапу проєкту зберігання енергії Aukera в Гурі Іаломиці, Румунія. IFC є приватним підрозділом Групи Світового банку. Фінансування сприятиме розвитку інфраструктури зберігання енергії в регіоні.",
+    "link": "https://business-review.eu/business/legal/dentons-advises-lenders-on-e48-5-million-ifc-financing-for-second-phase-of-aukeras-gura-ialomitei-bess-project-in-romania-298673",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "801e9bd01697",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/residential-property/ai-powered-residential-sales-platform-evoost-enters-the-romanian-market-298670",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "AI-powered residential sales platform eVoost enters the Romanian market",
+    "body_orig": "eVoost AI, a company that built an AI-based operating system for residential sales, has announced the launch of operations in Romania.  Founded in the UAE in May 2024, the platform is backed by Mubadala, Abu Dhabi’s sovereign wealth fund, through its Hub71 global technology ecosystem. Its managed residential volume increased from USD 234 million at [&#8230;]\nThe post AI-powered residential sales platform eVoost enters the Romanian market appeared first on Business Review.",
+    "published": "2026-07-22T10:39:03",
+    "fetched": "2026-07-22T17:18:58.423923",
+    "title_uk": "eVoost запускає платформу продажів нерухомості в Румунії",
+    "summary_uk": "eVoost AI, компанія з ОАЕ, анонсувала вихід на румунський ринок. Платформа, що використовує штучний інтелект для продажів нерухомості, отримала підтримку фонду Mubadala. Обсяг управлінської нерухомості компанії зріс до $234 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "eVoost запускає платформу продажів нерухомості в Румунії",
+    "summary": "eVoost AI, компанія з ОАЕ, анонсувала вихід на румунський ринок. Платформа, що використовує штучний інтелект для продажів нерухомості, отримала підтримку фонду Mubadala. Обсяг управлінської нерухомості компанії зріс до $234 млн.",
+    "link": "https://business-review.eu/property/residential-property/ai-powered-residential-sales-platform-evoost-enters-the-romanian-market-298670",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "107f5b730fe9",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/future-of-work/ai-raises-the-bar-for-some-jobs-while-widening-access-to-others-pwc-report-298664",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "AI raises the bar for some jobs while widening access to others – PwC report",
+    "body_orig": "Artificial intelligence is reshaping how work is organised and what companies look for when hiring, according to the latest PwC Global AI Jobs Barometer. While the technology is lowering barriers to entry in some occupations, it is raising expectations in others. As AI takes on a larger share of routine and technical tasks, human judgement [&#8230;]\nThe post AI raises the bar for some jobs while widening access to others &#8211; PwC report appeared first on Business Review.",
+    "published": "2026-07-22T10:34:01",
+    "fetched": "2026-07-22T17:18:58.423935",
+    "title_uk": "Штучний інтелект змінює вимоги до працівників за даними PwC",
+    "summary_uk": "Згідно з PwC Global AI Jobs Barometer, штучний інтелект змінює організацію праці та вимоги до найму. Технологія знижує бар'єри для деяких професій, але підвищує очікування в інших. Це вплине на структуру ринку праці в найближчі роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Штучний інтелект змінює вимоги до працівників за даними PwC",
+    "summary": "Згідно з PwC Global AI Jobs Barometer, штучний інтелект змінює організацію праці та вимоги до найму. Технологія знижує бар'єри для деяких професій, але підвищує очікування в інших. Це вплине на структуру ринку праці в найближчі роки.",
+    "link": "https://business-review.eu/future-of-work/ai-raises-the-bar-for-some-jobs-while-widening-access-to-others-pwc-report-298664",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a22787570af3",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/real-estate-guide/institutional-flight-to-quality-and-pre-leasing-surge-drive-recovery-in-romanian-office-market-298658",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Institutional flight to quality and pre-leasing surge drive recovery in Romanian office market",
+    "body_orig": "Office occupiers in Romania are increasingly pivoting towards premium, sustainable, and professionally managed spaces, securing long-term leases up to two years ahead of delivery to mitigate a looming supply squeeze in core submarkets. Furthermore, the market has demonstrated resilience this year, driven by an institutional flight to quality and an unprecedented surge in pre-leasing activity.    By Ovidiu [&#8230;]\nThe post Institutional flight to quality and pre-leasing surge drive recovery in Romanian office market  appeared first on Business Review.",
+    "published": "2026-07-22T10:04:48",
+    "fetched": "2026-07-22T17:18:58.423946",
+    "title_uk": "Ринок офісів у Румунії відновлюється завдяки попиту на якість",
+    "summary_uk": "Орендарі в Румунії все частіше обирають преміум-офіси з довгостроковими договорами, укладаючи їх до двох років до початку будівництва. Цей тренд зумовлений зростанням попиту на якісні та стійкі приміщення. Ринок демонструє стійкість завдяки рекордному зростанню активності попереднього орендування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Якщо ви плануєте вихід на ринок Румунії, зосередьтеся на преміум-сегменті, оскільки попит на якісні офіси зростає.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ринок офісів у Румунії відновлюється завдяки попиту на якість",
+    "summary": "Орендарі в Румунії все частіше обирають преміум-офіси з довгостроковими договорами, укладаючи їх до двох років до початку будівництва. Цей тренд зумовлений зростанням попиту на якісні та стійкі приміщення. Ринок демонструє стійкість завдяки рекордному зростанню активності попереднього орендування.",
+    "link": "https://business-review.eu/real-estate-guide/institutional-flight-to-quality-and-pre-leasing-surge-drive-recovery-in-romanian-office-market-298658",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b00dcefff0e7",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/real-estate-guide/office-and-retail-spearhead-romanian-investment-market-in-2026-298655",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Office and retail spearhead Romanian investment market in 2026",
+    "body_orig": "The Romanian commercial real estate sector has demonstrated a striking divergence from broader regional trends in the opening months of 2026, driven by tactical deal timing and a pronounced concentration of capital in the office sector. Romania’s total real estate investment volume reached EUR 151 million in Q1. by Ovidiu Poșircă The office sector singlehandedly [&#8230;]\nThe post Office and retail spearhead Romanian investment market in 2026 appeared first on Business Review.",
+    "published": "2026-07-22T09:59:44",
+    "fetched": "2026-07-22T17:18:58.423957",
+    "title_uk": "Офісний та ритейл-сектори ведуть інвестиції в Румунії у 2026",
+    "summary_uk": "У першому кварталі 2026 року обсяг інвестицій у румунську нерухомість склав €151 млн. Основний акцент зроблено на офісному секторі, що демонструє відмінності від регіональних трендів. Інвестори зосереджують капітал у цій категорії, що свідчить про її стійкість.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Офісний та ритейл-сектори ведуть інвестиції в Румунії у 2026",
+    "summary": "У першому кварталі 2026 року обсяг інвестицій у румунську нерухомість склав €151 млн. Основний акцент зроблено на офісному секторі, що демонструє відмінності від регіональних трендів. Інвестори зосереджують капітал у цій категорії, що свідчить про її стійкість.",
+    "link": "https://business-review.eu/real-estate-guide/office-and-retail-spearhead-romanian-investment-market-in-2026-298655",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a7cd130e2b53",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/real-estate-guide/vastint-romania-benchmarks-sustainable-high-performance-offices-298651",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Vastint Romania benchmarks sustainable, high-performance offices",
+    "body_orig": "Antoniu Panait, managing director of Vastint Romania, talked to BR about the shifting dynamics of the capital’s office market, highlighting their landmark 60,000 sqm fossil-fuel-free development, New Tales, and explaining why highly sustainable, mixed-use urban environments continue to outperform by attracting premier global tenants through strategic pre-leasing.  by Ovidiu Poșircă How do you approach pre-leasing in your ongoing developments [&#8230;]\nThe post Vastint Romania benchmarks sustainable, high-performance offices appeared first on Business Review.",
+    "published": "2026-07-22T09:54:27",
+    "fetched": "2026-07-22T17:18:58.423967",
+    "title_uk": "Vastint Romania розвиває екологічні офіси у Бухаресті",
+    "summary_uk": "Vastint Romania представила проект New Tales площею 60 тис. кв. м, який не використовує викопне паливо. Компанія акцентує на зростаючому попиті на стійкі, змішані міські простори, які приваблюють міжнародних орендарів через стратегічне попереднє бронювання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Vastint Romania розвиває екологічні офіси у Бухаресті",
+    "summary": "Vastint Romania представила проект New Tales площею 60 тис. кв. м, який не використовує викопне паливо. Компанія акцентує на зростаючому попиті на стійкі, змішані міські простори, які приваблюють міжнародних орендарів через стратегічне попереднє бронювання.",
+    "link": "https://business-review.eu/real-estate-guide/vastint-romania-benchmarks-sustainable-high-performance-offices-298651",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "510f847ec174",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/profiles1/whoss-news/vantage-towers-ag-appoints-simona-nijnic-as-managing-director-for-romania-298646",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Vantage Towers AG appoints Simona Nijnic as Managing Director for Romania",
+    "body_orig": "Vantage Towers has appointed Simona Nijnic as Managing Director for Romania, effective July 20, 2026. In this role, Simona will lead the company’s operations in Romania and will continue to drive growth, operational excellence, and value creation in one of Vantage Towers’ key markets. She will report to Gergo Budai, Cluster Managing Director. Simona Nijnic [&#8230;]\nThe post Vantage Towers AG appoints Simona Nijnic as Managing Director for Romania appeared first on Business Review.",
+    "published": "2026-07-22T09:18:52",
+    "fetched": "2026-07-22T17:18:58.423978",
+    "title_uk": "Vantage Towers призначила Симону Нійніч директором в Румунії",
+    "summary_uk": "Vantage Towers призначила Симону Нійніч директором в Румунії з 20 липня 2026 року. Вона відповідатиме за операції компанії в країні, зосереджуючись на зростанні та операційній ефективності. Симона підпорядковуватиметься Гергому Будаю, директору кластера.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Vantage Towers призначила Симону Нійніч директором в Румунії",
+    "summary": "Vantage Towers призначила Симону Нійніч директором в Румунії з 20 липня 2026 року. Вона відповідатиме за операції компанії в країні, зосереджуючись на зростанні та операційній ефективності. Симона підпорядковуватиметься Гергому Будаю, директору кластера.",
+    "link": "https://business-review.eu/profiles1/whoss-news/vantage-towers-ag-appoints-simona-nijnic-as-managing-director-for-romania-298646",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19eb8983dabe",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/revolut-115-valuation-secondary-share-sale/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Revolut hits $115bn valuation in employee share sale, reports say",
+    "body_orig": "",
+    "published": "2026-07-22T16:12:22",
+    "fetched": "2026-07-22T17:18:34.972903",
+    "title_uk": "Revolut досягає оцінки $115 млрд у продажу акцій для працівників",
+    "summary_uk": "Revolut оголосив про оцінку в $115 млрд після продажу акцій своїм працівникам. Цей крок дозволяє залучити додаткові інвестиції та зміцнити позиції компанії на ринку фінансових технологій. Продаж акцій відбувся в рамках програми, що підтримує залучення та утримання талановитих співробітників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Revolut досягає оцінки $115 млрд у продажу акцій для працівників",
+    "summary": "Revolut оголосив про оцінку в $115 млрд після продажу акцій своїм працівникам. Цей крок дозволяє залучити додаткові інвестиції та зміцнити позиції компанії на ринку фінансових технологій. Продаж акцій відбувся в рамках програми, що підтримує залучення та утримання талановитих співробітників.",
+    "link": "https://sifted.eu/articles/revolut-115-valuation-secondary-share-sale/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d1342eaeb003",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/spanish-energy-startup-catalyxx-picks-portugal-for-e120-million-bio-based-chemicals-plant/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Spanish energy startup Catalyxx picks Portugal for €120 million bio-based chemicals plant",
+    "body_orig": "Seville&#8217;s Catalyxx, a bio-based chemicals company transforming bioethanol into alternatives to fossil-derived industrial chemicals, has selected Sines, Portugal, as the location for its €120 million commercial-scale production facility. The development is being financed through a combination of private investment and public funding. Catalyxx was recently awarded €20 million by the Circular Bio-based Europe Joint Undertaking, [&#8230;]\nThe post Spanish energy startup Catalyxx picks Portugal for €120 million bio-based chemicals plant appeared first on EU-Startups.",
+    "published": "2026-07-22T11:45:37",
+    "fetched": "2026-07-22T17:18:36.844163",
+    "title_uk": "Іспанський стартап Catalyxx відкриває завод у Португалії за €120 млн",
+    "summary_uk": "Catalyxx, компанія з виробництва біохімікатів, обрала Сінес, Португалія, для нового заводу вартістю €120 млн. Виробництво буде фінансуватись за рахунок приватних інвестицій та державного фінансування. Нещодавно компанія отримала €20 млн від Circular Bio-based Europe Joint Undertaking.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Іспанський стартап Catalyxx відкриває завод у Португалії за €120 млн",
+    "summary": "Catalyxx, компанія з виробництва біохімікатів, обрала Сінес, Португалія, для нового заводу вартістю €120 млн. Виробництво буде фінансуватись за рахунок приватних інвестицій та державного фінансування. Нещодавно компанія отримала €20 млн від Circular Bio-based Europe Joint Undertaking.",
+    "link": "https://www.eu-startups.com/2026/07/spanish-energy-startup-catalyxx-picks-portugal-for-e120-million-bio-based-chemicals-plant/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "34c781b48c2d",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/zurich-based-immitra-bio-secures-e2-58-million-to-scale-its-scalable-in-vivo-genetic-medicine-platform/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Zürich-based Immitra Bio secures €2.58 million to scale its scalable in-vivo genetic medicine platform",
+    "body_orig": "Immitra Bio, a Zürich-based genetic medicine platform bringing scalability and commercial viability to gene editing therapies, has announced the completion of an upsized €2.58 million (CHF 2.4 million) pre-Seed financing round. Venture capital and private investors contributed €2.42 million (CHF 2.25 million), while an additional €161.8k (CHF 150k) was obtained through non-dilutive funding sources. The [&#8230;]\nThe post Zürich-based Immitra Bio secures €2.58 million to scale its scalable in-vivo genetic medicine platform appeared first on EU-Startups.",
+    "published": "2026-07-22T11:20:57",
+    "fetched": "2026-07-22T17:18:36.844176",
+    "title_uk": "Immitra Bio залучила €2.58 млн для розширення генетичної медицини",
+    "summary_uk": "Швейцарська компанія Immitra Bio завершила раунд фінансування на €2.58 млн. З них €2.42 млн надали венчурні капіталісти та приватні інвестори, а €162 тис. отримано з недилютивних джерел. Кошти підуть на розвиток платформи генетичної медицини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Immitra Bio залучила €2.58 млн для розширення генетичної медицини",
+    "summary": "Швейцарська компанія Immitra Bio завершила раунд фінансування на €2.58 млн. З них €2.42 млн надали венчурні капіталісти та приватні інвестори, а €162 тис. отримано з недилютивних джерел. Кошти підуть на розвиток платформи генетичної медицини.",
+    "link": "https://www.eu-startups.com/2026/07/zurich-based-immitra-bio-secures-e2-58-million-to-scale-its-scalable-in-vivo-genetic-medicine-platform/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d6dd5e4d2d88",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-series-a-extension-to-advance-immunotherapy-for-hard-to-treat-solid-tumours/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Brenus Pharma raises €11 million Series A extension to advance immunotherapy for hard-to-treat solid tumours",
+    "body_orig": "Brenus Pharma, a Lyon-based clinical-stage BioTech startup aiming to prevent cancer recurrence, has announced an €11 million ($12.6M) extension to its Series A round. This brings the company&#8217;s total capital raised since inception to €38 million. The round was supported by strong follow-on participation from existing investors, including Angelor, UI Investissement (managing FRAI), Crédit Agricole [&#8230;]\nThe post Brenus Pharma raises €11 million Series A extension to advance immunotherapy for hard-to-treat solid tumours appeared first on EU-Startups.",
+    "published": "2026-07-22T09:28:28",
+    "fetched": "2026-07-22T17:18:36.844198",
+    "title_uk": "Brenus Pharma залучила €11 млн для розвитку імунотерапії",
+    "summary_uk": "Brenus Pharma, стартап з Ліона, отримав €11 млн у рамках розширення раунду Series A. Загалом компанія залучила €38 млн з моменту заснування. Фінансування підтримали існуючі інвестори, такі як Angelor та Crédit Agricole.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Brenus Pharma залучила €11 млн для розвитку імунотерапії",
+    "summary": "Brenus Pharma, стартап з Ліона, отримав €11 млн у рамках розширення раунду Series A. Загалом компанія залучила €38 млн з моменту заснування. Фінансування підтримали існуючі інвестори, такі як Angelor та Crédit Agricole.",
+    "link": "https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-series-a-extension-to-advance-immunotherapy-for-hard-to-treat-solid-tumours/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e6abf64d1c25",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/months-after-raising-e102-5-million-helsinkis-ai-infrastructure-company-verda-secures-e22-million-nib-loan/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Months after raising €102.5 million, Helsinki’s AI infrastructure company Verda secures €22 million NIB loan",
+    "body_orig": "The Nordic Investment Bank (NIB) has signed a 4-year €22 million InvestEU-backed loan with Verda (formerly DataCrunch), a Helsinki-based AI infrastructure company.  This financing comes months after the company raised €102.5 million ($117 million) in funding to develop its AI cloud infrastructure and international expansion. Ruben Bryon, founder and CEO of Verda Cloud, said, “AI [&#8230;]\nThe post Months after raising €102.5 million, Helsinki’s AI infrastructure company Verda secures €22 million NIB loan appeared first on EU-Startups.",
+    "published": "2026-07-22T07:57:03",
+    "fetched": "2026-07-22T17:18:36.844210",
+    "title_uk": "Фінансування Verda: €22 млн кредиту від NIB для розвитку AI",
+    "summary_uk": "Компанія Verda з Гельсінкі отримала кредит у €22 млн від Північного інвестиційного банку. Це фінансування стало можливим після залучення €102.5 млн для розвитку AI-інфраструктури. Кредит має термін 4 роки і підтримується програмою InvestEU.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фінансування Verda: €22 млн кредиту від NIB для розвитку AI",
+    "summary": "Компанія Verda з Гельсінкі отримала кредит у €22 млн від Північного інвестиційного банку. Це фінансування стало можливим після залучення €102.5 млн для розвитку AI-інфраструктури. Кредит має термін 4 роки і підтримується програмою InvestEU.",
+    "link": "https://www.eu-startups.com/2026/07/months-after-raising-e102-5-million-helsinkis-ai-infrastructure-company-verda-secures-e22-million-nib-loan/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0773650cf8a3",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/22/vakansii-dlia-vebprogramistiv-stalo-do-76-mense/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ШІ змінює ринок праці: вакансій для вебпрограмістів стало до 76% менше — «Економічна правда»",
+    "body_orig": "У SoftServe пояснюють, що ШІ-асистенти значно прискорюють виконання завдань, які раніше доручали джуніорам.",
+    "published": "2026-07-22T16:20:00",
+    "fetched": "2026-07-22T17:18:43.629524",
+    "title_uk": "Вакансій для вебпрограмістів стало на 76% менше через ШІ",
+    "summary_uk": "SoftServe повідомляє про зменшення вакансій для вебпрограмістів на 76% через впровадження ШІ-асистентів. Ці технології значно прискорюють виконання завдань, які раніше виконували джуніори. Це може призвести до змін на ринку праці в ІТ-секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення вакансій може вплинути на доступність кадрів у ІТ-секторі. Розгляньте можливість співпраці з фрілансерами або аутсорсингом для підтримки технологічних потреб."
+    },
+    "tags": [
+      "стартапи",
+      "робота-з-байєрами"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Вакансій для вебпрограмістів стало на 76% менше через ШІ",
+    "summary": "SoftServe повідомляє про зменшення вакансій для вебпрограмістів на 76% через впровадження ШІ-асистентів. Ці технології значно прискорюють виконання завдань, які раніше виконували джуніори. Це може призвести до змін на ринку праці в ІТ-секторі.",
+    "link": "https://ain.ua/2026/07/22/vakansii-dlia-vebprogramistiv-stalo-do-76-mense/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b4929f4baa26",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/22/jes-sxvaliv-ucast-velikoyi-britaniyi-u-programi-kreditu-na-eur90-mlrd/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Україна зможе купувати британську зброю за кошти кредиту на €90 млрд. ЄС схвалив участь Великої Британії у програмі",
+    "body_orig": "Україна зможе закуповувати оборонну продукцію британських виробників у межах кредитної програми ЄС.",
+    "published": "2026-07-22T14:15:00",
+    "fetched": "2026-07-22T17:18:43.629552",
+    "title_uk": "Україна може купувати британську зброю за кредитом ЄС на €90 млрд",
+    "summary_uk": "ЄС схвалив участь Великої Британії у програмі кредитування для закупівлі оборонної продукції. Україна отримає можливість використовувати €90 млрд на придбання зброї у британських виробників. Це рішення має на меті зміцнити обороноздатність України.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Україна може купувати британську зброю за кредитом ЄС на €90 млрд",
+    "summary": "ЄС схвалив участь Великої Британії у програмі кредитування для закупівлі оборонної продукції. Україна отримає можливість використовувати €90 млрд на придбання зброї у британських виробників. Це рішення має на меті зміцнити обороноздатність України.",
+    "link": "https://ain.ua/2026/07/22/jes-sxvaliv-ucast-velikoyi-britaniyi-u-programi-kreditu-na-eur90-mlrd/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "acd38f0ce94a",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/22/samsung-moze-investuvati-do-eur1-mlrd-u-mistral/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Samsung може інвестувати до €1 млрд у французький ШІ-стартап Mistral — FT",
+    "body_orig": "Інвестиція стане частиною нового раунду фінансування, під час якого Mistral планує залучити кілька мільярдів євро.",
+    "published": "2026-07-22T13:10:00",
+    "fetched": "2026-07-22T17:18:43.629570",
+    "title_uk": "Samsung інвестує до €1 млрд у французький ШІ-стартап Mistral",
+    "summary_uk": "Samsung планує інвестувати до €1 млрд у стартап Mistral, що займається штучним інтелектом. Це частина нового раунду фінансування, в рамках якого Mistral має намір залучити кілька мільярдів євро. Інвестиція підкреслює зростаючий інтерес до технологій ШІ.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Samsung інвестує до €1 млрд у французький ШІ-стартап Mistral",
+    "summary": "Samsung планує інвестувати до €1 млрд у стартап Mistral, що займається штучним інтелектом. Це частина нового раунду фінансування, в рамках якого Mistral має намір залучити кілька мільярдів євро. Інвестиція підкреслює зростаючий інтерес до технологій ШІ.",
+    "link": "https://ain.ua/2026/07/22/samsung-moze-investuvati-do-eur1-mlrd-u-mistral/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d53bf7e305ea",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/technologies/ukrayinci-znovu-na-siggraph-zibra-ai-pokazala-texnologiyu-yaku-vze-testuyut-nvidia-ta-sony-p08506",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українці знову на SIGGRAPH: Zibra AI показала технологію, яку вже тестують NVIDIA та Sony",
+    "body_orig": "Українська deep-tech компанія Zibra AI вдруге представила свої розробки на SIGGRAPH — одній із найпрестижніших світових конференцій у сфері комп'ютерної графіки. Як повідомили SPEKA у самій компанії, цього року команда презентувала технологію ZibraGDS (Geometry Data Structure), яка дозволяє стискати анімовану геометрію до 92% та прискорювати її рендеринг у 5-10 разів.",
+    "published": "2026-07-22T16:31:44",
+    "fetched": "2026-07-22T17:18:44.379558",
+    "title_uk": "Zibra AI демонструє технологію на SIGGRAPH, яку тестують NVIDIA та Sony",
+    "summary_uk": "Компанія Zibra AI представила технологію ZibraGDS на конференції SIGGRAPH. Технологія дозволяє стискати анімовану геометрію до 92% та прискорює рендеринг у 5-10 разів. Це вже тестують такі компанії, як NVIDIA та Sony.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Zibra AI демонструє технологію на SIGGRAPH, яку тестують NVIDIA та Sony",
+    "summary": "Компанія Zibra AI представила технологію ZibraGDS на конференції SIGGRAPH. Технологія дозволяє стискати анімовану геометрію до 92% та прискорює рендеринг у 5-10 разів. Це вже тестують такі компанії, як NVIDIA та Sony.",
+    "link": "https://speka.ua/technologies/ukrayinci-znovu-na-siggraph-zibra-ai-pokazala-texnologiyu-yaku-vze-testuyut-nvidia-ta-sony-p08506",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bfc5a033ebe7",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/yak-kiyanam-sprobuvati-5g-usi-detali-i-osoblivosti-pidklyucennya-vr1n6n",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як киянам спробувати 5G: усі деталі й особливості підключення",
+    "body_orig": "Мобільні оператори сьогодні розпочали тестування 5G у всіх районах Києва. Швидкість мобільного інтернету в столиці сягає 1,9 Гбіт/с. У Vodafone на запит SPEKA розповіли, як киянам протестувати нову технологію.",
+    "published": "2026-07-22T16:19:40",
+    "fetched": "2026-07-22T17:18:44.379586",
+    "title_uk": "Київ тестує 5G: швидкість до 1.9 Гбіт/с",
+    "summary_uk": "Мобільні оператори розпочали тестування 5G у всіх районах Києва. Швидкість мобільного інтернету досягає 1.9 Гбіт/с. Vodafone надає можливість киянам протестувати нову технологію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Київ тестує 5G: швидкість до 1.9 Гбіт/с",
+    "summary": "Мобільні оператори розпочали тестування 5G у всіх районах Києва. Швидкість мобільного інтернету досягає 1.9 Гбіт/с. Vodafone надає можливість киянам протестувати нову технологію.",
+    "link": "https://speka.ua/news/yak-kiyanam-sprobuvati-5g-usi-detali-i-osoblivosti-pidklyucennya-vr1n6n",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa484fd8df9b",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/google-ai-poshuk-trafik-media-blokuvannya-bota-usa-today-reddit-2026n41927-pn453w",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Reddit, Politico і Reuters готові блокувати Google після обвалу пошукового трафіку",
+    "body_orig": "USA Today, Reddit, Politico, Reuters і The Economist розглядають повне або часткове блокування Google-бота після того, як ШІ-функції пошуковика обвалили органічний трафік на їхні сайти. Про це повідомляє Wall Street Journal.",
+    "published": "2026-07-22T16:02:08",
+    "fetched": "2026-07-22T17:18:44.379599",
+    "title_uk": "Сайти USA Today, Reddit і Politico розглядають блокування Google",
+    "summary_uk": "USA Today, Reddit, Politico, Reuters і The Economist можуть заблокувати Google-бота через падіння органічного трафіку. Штучний інтелект у пошуковику зменшив відвідуваність їхніх сайтів. Це може вплинути на рекламні доходи та видимість контенту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Сайти USA Today, Reddit і Politico розглядають блокування Google",
+    "summary": "USA Today, Reddit, Politico, Reuters і The Economist можуть заблокувати Google-бота через падіння органічного трафіку. Штучний інтелект у пошуковику зменшив відвідуваність їхніх сайтів. Це може вплинути на рекламні доходи та видимість контенту.",
+    "link": "https://speka.ua/news/google-ai-poshuk-trafik-media-blokuvannya-bota-usa-today-reddit-2026n41927-pn453w",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0e626fe05b78",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/persii-golosovii-si-asistent-vze-dopomagaje-koristuvacam-u-derzsluzbi-zainyatosti-p6w1rl",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Перший голосовий ШІ-асистент вже допомагає користувачам у Держслужбі зайнятості",
+    "body_orig": "Мінекономіки разом з ElevenLabs запустили в контакт-центрі Державної служби зайнятості перший в Україні голосовий ШІ-асистент, який відповідає на вхідні дзвінки громадян, повідомили у відомстві.&nbsp;",
+    "published": "2026-07-22T15:25:21",
+    "fetched": "2026-07-22T17:18:44.379630",
+    "title_uk": "В Україні запустили перший голосовий ШІ-асистент для Держслужби зайнятості",
+    "summary_uk": "Мінекономіки спільно з ElevenLabs презентували голосового ШІ-асистента в контакт-центрі Державної служби зайнятості. Асистент обробляє вхідні дзвінки від громадян. Це перший подібний проект в Україні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Україні запустили перший голосовий ШІ-асистент для Держслужби зайнятості",
+    "summary": "Мінекономіки спільно з ElevenLabs презентували голосового ШІ-асистента в контакт-центрі Державної служби зайнятості. Асистент обробляє вхідні дзвінки від громадян. Це перший подібний проект в Україні.",
+    "link": "https://speka.ua/news/persii-golosovii-si-asistent-vze-dopomagaje-koristuvacam-u-derzsluzbi-zainyatosti-p6w1rl",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "31c0646496a2",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/sproshcheni-vidpravlennia-ta-shi-rozpiznavannia-invoyisiv-meest-shopping-onovyv-vebkabinet/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Спрощені відправлення та ШІ-розпізнавання інвойсів: Meest Shopping оновив вебкабінет",
+    "body_orig": "Сервіс доставки та викупу товарів з іноземних інтернет-магазинів Meest Shopping оновив особистий кабінет користувача. Зміни покликані спростити міжнародний онлайн-шопінг, а також підготувати платформу до запуску нових функцій у майбутньому.\nУ межах оновлення змінилася головна сторінка кабінету. Тепе…",
+    "published": "2026-07-22T08:55:42",
+    "fetched": "2026-07-22T17:18:59.940375",
+    "title_uk": "Meest Shopping оновив вебкабінет для спрощення шопінгу",
+    "summary_uk": "Сервіс Meest Shopping модернізував особистий кабінет користувача, щоб спростити міжнародний онлайн-шопінг. Оновлення включає зміну головної сторінки та підготовку до нових функцій. Це покращить користувацький досвід та може вплинути на обсяги замовлень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Meest Shopping оновив вебкабінет для спрощення шопінгу",
+    "summary": "Сервіс Meest Shopping модернізував особистий кабінет користувача, щоб спростити міжнародний онлайн-шопінг. Оновлення включає зміну головної сторінки та підготовку до нових функцій. Це покращить користувацький досвід та може вплинути на обсяги замовлень.",
+    "link": "https://rau.ua/news/sproshcheni-vidpravlennia-ta-shi-rozpiznavannia-invoyisiv-meest-shopping-onovyv-vebkabinet/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6c5257308515",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/lifecell-zapustyv-testuvannia-5g-u-kyyevi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "lifecell запустив тестування 5G у Києві",
+    "body_orig": "22 липня оператор lifecell розпочав пілотну експлуатацію мережі 5G у Києві на частотах 3500 МГц. Після Львова, Бородянки та Харкова Київ став четвертим містом пілотної експлуатації 5G lifecell, де оператор тестує технологію нового покоління.\nНову технологію можуть використовувати всі абоненти операт…",
+    "published": "2026-07-22T06:22:56",
+    "fetched": "2026-07-22T17:18:59.940391",
+    "title_uk": "lifecell розпочав тестування 5G у Києві",
+    "summary_uk": "22 липня lifecell запустив пілотну експлуатацію 5G у Києві на частотах 3500 МГц. Київ став четвертим містом, де оператор тестує нову технологію, після Львова, Бородянки та Харкова. Усі абоненти можуть використовувати нову мережу під час тестування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "lifecell розпочав тестування 5G у Києві",
+    "summary": "22 липня lifecell запустив пілотну експлуатацію 5G у Києві на частотах 3500 МГц. Київ став четвертим містом, де оператор тестує нову технологію, після Львова, Бородянки та Харкова. Усі абоненти можуть використовувати нову мережу під час тестування.",
+    "link": "https://rau.ua/news/lifecell-zapustyv-testuvannia-5g-u-kyyevi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "77cced816f16",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/kartoplia-po-seliansky-ta-kuriachi-kryltcia-povertaiutsia-u-makdonaldz-startuiut-ukrayinski-tyzhni/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Картопля по-селянськи та курячі крильця повертаються: у McDonald's стартують «Українські тижні»",
+    "body_orig": "З 22 липня у McDonald's розпочинаються традиційні «Українські тижні» — лімітована серія продуктів. Нове меню буде доступне в усіх відкритих ресторанах McDonald's в Україні до повного розпродажу продуктів.\nУ центрі «Українських тижнів» два нові бургери: «Свій з куркою та часниковим соусом» із житньою…",
+    "published": "2026-07-22T04:57:16",
+    "fetched": "2026-07-22T17:18:59.940402",
+    "title_uk": "McDonald's запускає «Українські тижні» з новим меню",
+    "summary_uk": "З 22 липня McDonald's в Україні розпочинає «Українські тижні» з новими стравами. У меню з'являться два нові бургери: «Свій з куркою та часниковим соусом». Продукти будуть доступні до повного розпродажу. Це частина стратегії підтримки локального виробництва.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на категорійний менеджмент, оскільки нові продукти можуть змінити попит на певні категорії в ритейлі."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG",
+      "промо-акції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "McDonald's запускає «Українські тижні» з новим меню",
+    "summary": "З 22 липня McDonald's в Україні розпочинає «Українські тижні» з новими стравами. У меню з'являться два нові бургери: «Свій з куркою та часниковим соусом». Продукти будуть доступні до повного розпродажу. Це частина стратегії підтримки локального виробництва.",
+    "link": "https://rau.ua/news/kartoplia-po-seliansky-ta-kuriachi-kryltcia-povertaiutsia-u-makdonaldz-startuiut-ukrayinski-tyzhni/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6c964c677bde",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Nike resets online distribution in ‘fragmented’ China market",
+    "body_orig": "Revenue in the region fell 12% in the brand&rsquo;s most recent quarter and has been dragging down the company&rsquo;s turnaround.",
+    "published": "2026-07-22T16:17:00",
+    "fetched": "2026-07-22T17:19:06.330766",
+    "title_uk": "Nike переглядає онлайн-дистрибуцію в Китаї через падіння доходів",
+    "summary_uk": "Доходи Nike в Китаї знизилися на 12% у останньому кварталі, що вплинуло на загальний фінансовий стан компанії. Бренд намагається адаптувати свою стратегію дистрибуції на фрагментованому ринку. Зміни можуть включати нові підходи до онлайн-продажів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Nike переглядає онлайн-дистрибуцію в Китаї через падіння доходів",
+    "summary": "Доходи Nike в Китаї знизилися на 12% у останньому кварталі, що вплинуло на загальний фінансовий стан компанії. Бренд намагається адаптувати свою стратегію дистрибуції на фрагментованому ринку. Зміни можуть включати нові підходи до онлайн-продажів.",
+    "link": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "541589e90693",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/target-adds-former-7-eleven-ceo-joe-depinto-board/825863/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Target adds former 7-Eleven CEO to board",
+    "body_orig": "Joe DePinto, who comes with food and digital commerce experience, will join the retailer's board of directors in August.",
+    "published": "2026-07-22T14:32:00",
+    "fetched": "2026-07-22T17:19:06.330800",
+    "title_uk": "Екс-гендиректор 7-Eleven приєднується до ради Target",
+    "summary_uk": "Джо ДеПінто, колишній CEO 7-Eleven, стане членом ради директорів Target з серпня. Він має досвід у харчовій та цифровій торгівлі. Це може вплинути на стратегію Target у цих сегментах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може свідчити про зміни в стратегії Target, які можуть вплинути на категорійні рішення. Слідкуйте за новинами компанії."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Екс-гендиректор 7-Eleven приєднується до ради Target",
+    "summary": "Джо ДеПінто, колишній CEO 7-Eleven, стане членом ради директорів Target з серпня. Він має досвід у харчовій та цифровій торгівлі. Це може вплинути на стратегію Target у цих сегментах.",
+    "link": "https://www.retaildive.com/news/target-adds-former-7-eleven-ceo-joe-depinto-board/825863/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
