@@ -139779,5 +139779,963 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "8934abf8d2bf",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/ukraine-drone-strikes-russian-economy-pressure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Ukraine’s drone strikes pile pressure on Russian economy",
+    "body_orig": "As its refineries and warehouses burn, Russia's financial markets are starting to freeze.",
+    "published": "2026-07-22T02:00:00",
+    "fetched": "2026-07-22T07:05:33.572135",
+    "title_uk": "Дрони України тиснуть на російську економіку",
+    "summary_uk": "Внаслідок ударів безпілотників по російських нафтопереробних заводах та складах, фінансові ринки Росії починають заморожуватися. Пожежі на об'єктах інфраструктури негативно впливають на економічну стабільність країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Дрони України тиснуть на російську економіку",
+    "summary": "Внаслідок ударів безпілотників по російських нафтопереробних заводах та складах, фінансові ринки Росії починають заморожуватися. Пожежі на об'єктах інфраструктури негативно впливають на економічну стабільність країни.",
+    "link": "https://www.politico.eu/article/ukraine-drone-strikes-russian-economy-pressure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "08cee6cad08a",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.com/news/2026/07/21/trump-says-he-will-impose-tariffs-on-generic-drugs-starting-in-august-2028-01007137?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Trump says he will impose tariffs on generic drugs starting in August 2028",
+    "body_orig": "If implemented, tariffs on generic drugs would be set at 100 percent and rise to 200 percent a year later.",
+    "published": "2026-07-22T01:25:11",
+    "fetched": "2026-07-22T07:05:33.572196",
+    "title_uk": "Трамп запровадить мита на генеричні ліки з серпня 2028",
+    "summary_uk": "Президент США Дональд Трамп оголосив про намір ввести мита на генеричні ліки. Ставка мит становитиме 100%, а через рік зросте до 200%. Це рішення може суттєво вплинути на ринок лікарських засобів у США та за кордоном.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Трамп запровадить мита на генеричні ліки з серпня 2028",
+    "summary": "Президент США Дональд Трамп оголосив про намір ввести мита на генеричні ліки. Ставка мит становитиме 100%, а через рік зросте до 200%. Це рішення може суттєво вплинути на ринок лікарських засобів у США та за кордоном.",
+    "link": "https://www.politico.com/news/2026/07/21/trump-says-he-will-impose-tariffs-on-generic-drugs-starting-in-august-2028-01007137?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5be625fa9d29",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nie-kupilbym-dzis-akcji-ani-obligacji-Szef-JPMorgan-ostrzega-9171493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Nie kupiłbym dziś akcji ani obligacji\". Szef JPMorgan ostrzega",
+    "body_orig": "Szef największego banku świata, Jamie Dimon, w najnowszym wywiadzie dla stacji CNBC oświadczył, że przy obecnych wycenach nie kupiłby ani amerykańskich akcji, ani długoterminowych obligacji skarbowych. Prezes JPMorgan Chase wyraził opinię, że inwestorzy popełniają błąd, bagatelizując ryzyko geopolityczne i rosnące zadłużenie.",
+    "published": "2026-07-22T06:54:00",
+    "fetched": "2026-07-22T07:05:36.699801",
+    "title_uk": "Голова JPMorgan не радить купувати акції та облігації",
+    "summary_uk": "Джеймі Даймон, голова JPMorgan Chase, заявив, що не купував би акції та довгострокові облігації через високі ризики. Він вважає, що інвестори недооцінюють геополітичні ризики та зростаюче боргове навантаження. Ця думка може вплинути на інвестиційні рішення на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Голова JPMorgan не радить купувати акції та облігації",
+    "summary": "Джеймі Даймон, голова JPMorgan Chase, заявив, що не купував би акції та довгострокові облігації через високі ризики. Він вважає, що інвестори недооцінюють геополітичні ризики та зростаюче боргове навантаження. Ця думка може вплинути на інвестиційні рішення на ринку.",
+    "link": "https://www.bankier.pl/wiadomosc/Nie-kupilbym-dzis-akcji-ani-obligacji-Szef-JPMorgan-ostrzega-9171493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0f60bf867952",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Firmy-moga-odliczyc-150-proc-wydatkow-na-roboty-Ulga-moze-zniknac-z-koncem-2026-r-9171208.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy odliczą 150 proc. wydatków na roboty. Ta ulga może zniknąć z końcem 2026 r.",
+    "body_orig": "Do końca 2026 r. firmy mogą odliczyć podatkowo 150 proc. wydatków na robotyzację. Później ulga może zniknąć, bo resort finansów nadal nie przesądził o jej przedłużeniu. Jednocześnie korzystny wyrok WSA może pozwolić przedsiębiorcom szybciej wykorzystać preferencję.",
+    "published": "2026-07-22T05:00:00",
+    "fetched": "2026-07-22T07:05:36.699831",
+    "title_uk": "Польські компанії можуть відрахувати 150% витрат на роботизацію",
+    "summary_uk": "До кінця 2026 року підприємства в Польщі можуть відрахувати 150% витрат на роботизацію. Після цього терміна пільга може бути скасована, оскільки Міністерство фінансів ще не ухвалило рішення про її продовження. Вигідний вердикт суду може прискорити використання цієї пільги підприємцями.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця пільга може стимулювати інвестиції в автоматизацію, що підвищить ефективність дистрибуції. Розгляньте можливість впровадження нових технологій до 2026 року.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські компанії можуть відрахувати 150% витрат на роботизацію",
+    "summary": "До кінця 2026 року підприємства в Польщі можуть відрахувати 150% витрат на роботизацію. Після цього терміна пільга може бути скасована, оскільки Міністерство фінансів ще не ухвалило рішення про її продовження. Вигідний вердикт суду може прискорити використання цієї пільги підприємцями.",
+    "link": "https://www.bankier.pl/wiadomosc/Firmy-moga-odliczyc-150-proc-wydatkow-na-roboty-Ulga-moze-zniknac-z-koncem-2026-r-9171208.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5b394ee7e7af",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowy-program-Czek-turystyczny-doplaca-nawet-600-zl-do-urlopu-Kto-bedzie-mogl-wnioskowac-9171221.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Czek turystyczny: dopłacą nawet 600 zł do urlopu. Kto ma szansę na to wsparcie?",
+    "body_orig": "Jeszcze w tym roku będzie można skorzystać z nowego rodzaju dofinansowania promującego turystykę. W ramach programu Czek turystyczny do wzięcia będą dopłaty od 300 zł do 600 zł do pobytów w hotelach lub pensjonatach. Inicjatywa obejmuje jednak tylko wybrane województwa i nie każdy będzie mógł z niej skorzystać. Kto jest uprawniony i na jakich zasadach będą przyznawane dopłaty?",
+    "published": "2026-07-22T05:00:00",
+    "fetched": "2026-07-22T07:05:36.699842",
+    "title_uk": "Польща запроваджує туристичні доплати до €600",
+    "summary_uk": "У Польщі стартує програма Czek turystyczny, що передбачає доплати від €300 до €600 на проживання в готелях та пенсіонатах. Програма діє лише в обраних воєводствах, а доступ до неї матимуть лише певні категорії громадян. Очікується, що це стимулює внутрішній туризм.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця програма може підвищити попит на готельні послуги, тому дистриб'ютори, що працюють з HoReCa, повинні планувати запаси з урахуванням можливого зростання туристичного потоку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща запроваджує туристичні доплати до €600",
+    "summary": "У Польщі стартує програма Czek turystyczny, що передбачає доплати від €300 до €600 на проживання в готелях та пенсіонатах. Програма діє лише в обраних воєводствах, а доступ до неї матимуть лише певні категорії громадян. Очікується, що це стимулює внутрішній туризм.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowy-program-Czek-turystyczny-doplaca-nawet-600-zl-do-urlopu-Kto-bedzie-mogl-wnioskowac-9171221.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6ea6b3b15292",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Przerob-ropy-w-rafineriach-Orlenu-spadl-w-II-kwartale-rdr-o-7-proc-do-9-165-mln-ton-9171429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Mniej ropy w rafineriach Orlenu. Gigant zapowiada też 1,9 mld zł odpisów",
+    "body_orig": "Przerób ropy w rafineriach Orlenu wyniósł w drugim kwartale 9,165 mln ton, o 7 proc. mniej niż rok wcześniej, a poziom wykorzystania mocy w tych zakładach sięgnął 86 proc. wobec 93 proc. w II kw. 2025 roku - poinformowała spółka w komunikacie.",
+    "published": "2026-07-22T05:57:00",
+    "fetched": "2026-07-22T07:05:36.699875",
+    "title_uk": "Orlen зменшує переробку нафти та оголошує про відписки",
+    "summary_uk": "У другому кварталі переробка нафти в Orlen склала 9.2 млн тонн, що на 7% менше, ніж минулого року. Використання потужностей знизилося до 86% з 93% у 2025 році. Компанія також анонсувала відписки на суму €0.4 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення переробки може вплинути на постачання нафтопродуктів. Дистриб'юторам варто переглянути запаси та стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження обсягів переробки може призвести до нестачі нафтопродуктів на ринку. Рекомендується моніторити запаси та адаптувати стратегії управління полицею."
+    },
+    "tags": [
+      "виробництво",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Orlen зменшує переробку нафти та оголошує про відписки",
+    "summary": "У другому кварталі переробка нафти в Orlen склала 9.2 млн тонн, що на 7% менше, ніж минулого року. Використання потужностей знизилося до 86% з 93% у 2025 році. Компанія також анонсувала відписки на суму €0.4 млрд.",
+    "link": "https://www.bankier.pl/wiadomosc/Przerob-ropy-w-rafineriach-Orlenu-spadl-w-II-kwartale-rdr-o-7-proc-do-9-165-mln-ton-9171429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c22b0db6b38d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/rumunia-szykuje-energetyczny-przelom-wielkie-zloze-gazu-ruszy-w-2027-roku/f55qfg1",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "To może zmienić rynek gazu w Europie. Trwają przygotowania do uruchomienia ogromnego złoża",
+    "body_orig": "Na Morzu Czarnym zakończył się jeden z najważniejszych etapów budowy projektu Neptun Deep. Inwestycja, której zasoby szacowane są na około 100 mld m sześc. gazu ziemnego, ma rozpocząć komercyjne wydobycie w 2027 r. i znacząco zwiększyć znaczenie Rumunii na europejskim rynku energii.",
+    "published": "2026-07-22T06:45:17",
+    "fetched": "2026-07-22T07:05:38.199350",
+    "title_uk": "Румунія готується до видобутку газу з родовища Neptun Deep",
+    "summary_uk": "На Чорному морі завершено важливий етап будівництва проекту Neptun Deep. Запаси газу оцінюються в €100 млрд кубометрів. Комерційне видобуток планується розпочати у 2027 році, що підвищить роль Румунії на європейському енергетичному ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія готується до видобутку газу з родовища Neptun Deep",
+    "summary": "На Чорному морі завершено важливий етап будівництва проекту Neptun Deep. Запаси газу оцінюються в €100 млрд кубометрів. Комерційне видобуток планується розпочати у 2027 році, що підвищить роль Румунії на європейському енергетичному ринку.",
+    "link": "https://businessinsider.com.pl/gospodarka/rumunia-szykuje-energetyczny-przelom-wielkie-zloze-gazu-ruszy-w-2027-roku/f55qfg1",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "254cc44eaa6e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/handel/polacy-maja-dosc-chatbotow-w-sklepach-online-wyraznie-irytuja-konsumentow/6b5wghr",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy mają dość sklepowych chatbotów. \"Wyraźnie irytują konsumentów\"",
+    "body_orig": "Chatboty, które mają ułatwiać zakupy w sklepach internetowych, często zniechęcają klientów do korzystania z usług platform handlowych. Niemal sześciu na 10 internautów zrezygnowało z tego powodu z zakupu online — pisze \"Rzeczpospolita\".",
+    "published": "2026-07-22T06:19:18",
+    "fetched": "2026-07-22T07:05:38.199370",
+    "title_uk": "Польські споживачі незадоволені чат-ботами в онлайн-магазинах",
+    "summary_uk": "Близько 60% польських інтернет-користувачів відмовилися від покупок онлайн через незадовільну роботу чат-ботів. Ці технології, які мають полегшити процес покупок, часто дратують споживачів, що негативно впливає на продажі платформ. Проблема була висвітлена в статті видання 'Rzeczpospolita'.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні звернути увагу на негативний досвід споживачів з чат-ботами. Можливо, варто переглянути стратегії обслуговування клієнтів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські споживачі незадоволені чат-ботами в онлайн-магазинах",
+    "summary": "Близько 60% польських інтернет-користувачів відмовилися від покупок онлайн через незадовільну роботу чат-ботів. Ці технології, які мають полегшити процес покупок, часто дратують споживачів, що негативно впливає на продажі платформ. Проблема була висвітлена в статті видання 'Rzeczpospolita'.",
+    "link": "https://businessinsider.com.pl/finanse/handel/polacy-maja-dosc-chatbotow-w-sklepach-online-wyraznie-irytuja-konsumentow/6b5wghr",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ee1de57049d6",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/znany-przedsiebiorca-rusza-z-firma-zbrojeniowa-znamy-szczegoly/fyttz4c",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Znany przedsiębiorca rusza z firmą z sektora obronnego. Wyjaśniła się tajemnicza wizyta Andrzeja Dudy",
+    "body_orig": "Dawid Rożek, twórca ZEN.COM, rusza z nową firmą — dowiaduje się Business Insider Polska. Będzie się ona zajmowała \"materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym\". W tym kontekście nowego znaczenia nabiera spotkanie byłego prezydenta Andrzeja Dudy z szefem Agencji Uzbrojenia.",
+    "published": "2026-07-22T06:03:37",
+    "fetched": "2026-07-22T07:05:38.199380",
+    "title_uk": "Давид Рожек запускає нову компанію в оборонному секторі",
+    "summary_uk": "Давид Рожек, засновник ZEN.COM, оголосив про запуск нової компанії, яка спеціалізуватиметься на матеріалах, зброї та технологіях для військових і правоохоронних органів. Ця новина пов'язана зі зустріччю колишнього президента Польщі Анджея Дуди з керівником Агентства озброєння. Компанія планує працювати в оборонному секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Давид Рожек запускає нову компанію в оборонному секторі",
+    "summary": "Давид Рожек, засновник ZEN.COM, оголосив про запуск нової компанії, яка спеціалізуватиметься на матеріалах, зброї та технологіях для військових і правоохоронних органів. Ця новина пов'язана зі зустріччю колишнього президента Польщі Анджея Дуди з керівником Агентства озброєння. Компанія планує працювати в оборонному секторі.",
+    "link": "https://businessinsider.com.pl/gospodarka/znany-przedsiebiorca-rusza-z-firma-zbrojeniowa-znamy-szczegoly/fyttz4c",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0fbc17fc91cb",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/europa-przechodzi-na-prad-a-polski-plan-prowadzi-znacznie-wolniejsza-trasa",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Europa przechodzi na prąd, a polski plan prowadzi znacznie wolniejszą trasą",
+    "body_orig": "Komisja Europejska chce zwiększyć udział energii elektrycznej w końcowym zużyciu energii w Unii do 32 proc. w 2030 r. i 46 proc. dekadę później. Tymczasem polski plan zakłada wzrost z obecnych 17 proc. do około 26 proc. w 2040 r. Branżowe organizacje ostrzegają, że bez szybszej elektryfikacji Polska może pogłębić zależność od importowanych paliw i stracić dystans do bardziej konkurencyjnych gospodarek.\nKomisja opublikowała 17 lipca Plan działania UE na rzecz elektryfikacji. Dokument obejmuje budynki, transport i przemysł, a także rozwój sieci elektroenergetycznych, magazynów energii oraz elastycznego zarządzania zużyciem prądu.\nElektryfikacja polega na zastępowaniu paliw kopalnych energią elektryczną tam, gdzie pozwalają na to dostępne technologie. Przykładem jest zamiana kotła gazowego na pompę ciepła, samochodu spalinowego na elektryczny albo przemysłowego pieca opalanego paliwem na urządzenie zasilane prądem.\nWedług Komisji osiągnięcie 46-proc. udziału energii elektrycznej mogłoby zmniejszyć unijny rachunek za import ropy, gazu i innych paliw kopalnych nawet o 260 mld euro rocznie. Europa ograniczyłaby w ten sposób podatność na kryzysy geopolityczne i gwałtowne zmiany cen surowców.\nPolska dopiero w połowie lat 30. osiągnie dzisiejszą średnią UE\nEnergia elektryczna odpowiada dziś za około 17 proc. końcowego zużycia energii w Polsce. Średnia unijna wynosi około 23 proc.\nKrajowy Plan w dziedzinie Energii i Klimatu (KPEiK) przewiduje, że polski wskaźnik wzrośnie do blisko 20 proc. w 2030 r., około 23 proc. w 2035 r. oraz 26 proc. w 2040 r. Unia chce w tych samych latach elektryfikacja osiągnęła odpowiednio 32 proc., około 39 proc. i 46 proc.\n\nPowyższy wykres przygotowany przez Polską Organizację Rozwoju Technologii Pomp Ciepła (PORT PC) pokazuje, że różnica między polską a unijną ścieżką będzie się powiększać. Zgodnie z KPEiK Polska dopiero w połowie przyszłej dekady zbliży się do poziomu, na którym UE jest już teraz.\nPORT PC proponuje, aby Polska wyznaczyła cel co najmniej 35 proc. w 2035 r. i opracowała dalszą ścieżkę prowadzącą w stronę unijnego poziomu w 2040 r.\n– Polska nie może być biernym obserwatorem unijnych i globalnych zmian. Startujemy z poziomu wyraźnie niższego niż średnia UE, dlatego potrzebujemy własnego, ambitnego planu dojścia do minimum 35 proc. udziału energii elektrycznej w 2035 r. oraz wyraźnego przyspieszenia elektryfikacji w kolejnych latach. Bez jasnego celu i dalszej trajektorii dystans do najbardziej konkurencyjnych gospodarek będzie się tylko powiększał – mówi Paweł Lachman, prezes PORT PC.\nMniej paliwa nie musi oznaczać tyle samo prądu\nElektryfikacja nie polega na zamianie jednej jednostki energii na dokładnie taką samą ilość prądu. Urządzenia na prąd często wykorzystują energię znacznie efektywniej. Pompa ciepła może dostarczyć od trzech do pięciu jednostek ciepła z każdej jednostki pobranej energii elektrycznej. Samochód elektryczny zużywa energię kilkukrotnie efektywniej niż pojazd spalinowy.\nWraz z rozwojem niskoem",
+    "published": "2026-07-21T21:22:25",
+    "fetched": "2026-07-22T07:05:38.971572",
+    "title_uk": "Польща відстає від планів ЄС щодо електрифікації",
+    "summary_uk": "Комісія ЄС планує збільшити частку електроенергії до 32% в 2030 році, тоді як Польща має намір підвищити цей показник лише до 26% до 2040 року. Без пришвидшення електрифікації Польща ризикує поглибити залежність від імпортованих енергоресурсів. Організації закликають до амбітніших цілей, зокрема до 35% у 2035 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні враховувати повільний ріст електрифікації, що може вплинути на попит на енергоефективні продукти.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Плануйте асортимент з урахуванням зростаючого попиту на електрообладнання та енергоефективні рішення, оскільки конкуренція зростає."
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща відстає від планів ЄС щодо електрифікації",
+    "summary": "Комісія ЄС планує збільшити частку електроенергії до 32% в 2030 році, тоді як Польща має намір підвищити цей показник лише до 26% до 2040 року. Без пришвидшення електрифікації Польща ризикує поглибити залежність від імпортованих енергоресурсів. Організації закликають до амбітніших цілей, зокрема до 35% у 2035 році.",
+    "link": "https://300gospodarka.pl/news/europa-przechodzi-na-prad-a-polski-plan-prowadzi-znacznie-wolniejsza-trasa",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d0802ea60a5",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/za-10-lat-moze-zabraknac-ludzi-do-odbudowy-ukrainski-biznesmen-ostrzega-7310107894102112a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wielki problem Ukrainy. Klęska demograficzna uderza w gospodarkę",
+    "body_orig": "Kryzys demograficzny już uderza w ukraiński rynek pracy - ostrzega dyrektor generalny Chorolskiego Zakładu Produktów dla Dzieci Ołeksandr Suchko. Zdaniem przedsiębiorcy odbudowa kraju po wojnie z Rosją może być utrudniona z powodu braku pracowników, którzy wyjechali z kraju. Nie ma również dzieci.",
+    "published": "2026-07-22T04:59:17",
+    "fetched": "2026-07-22T07:05:39.931451",
+    "title_uk": "Демографічна криза в Україні загрожує ринку праці",
+    "summary_uk": "Директор Chorolskiego Zakładu Produktów dla Dzieci Олександр Сухко попереджає про демографічну кризу в Україні, яка вже впливає на ринок праці. Відсутність робочої сили через еміграцію та зменшення народжуваності ускладнить відновлення країни після війни. Це може призвести до дефіциту працівників у багатьох секторах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Демографічна криза в Україні загрожує ринку праці",
+    "summary": "Директор Chorolskiego Zakładu Produktów dla Dzieci Олександр Сухко попереджає про демографічну кризу в Україні, яка вже впливає на ринок праці. Відсутність робочої сили через еміграцію та зменшення народжуваності ускладнить відновлення країни після війни. Це може призвести до дефіциту працівників у багатьох секторах.",
+    "link": "https://www.money.pl/gospodarka/za-10-lat-moze-zabraknac-ludzi-do-odbudowy-ukrainski-biznesmen-ostrzega-7310107894102112a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4e1e29b7bbe8",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4005396",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa güne yükselişle başladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,26 yükselişle 14.010,38 puandan başladı.",
+    "published": "2026-07-22T06:59:40",
+    "fetched": "2026-07-22T07:05:50.233996",
+    "title_uk": "Borsa İstanbul відкривається з незначним зростанням",
+    "summary_uk": "BIST 100 на Borsa İstanbul піднявся на 0,26% до 14.010,38 пунктів. Це свідчить про позитивні настрої на ринку. Інвестори спостерігають за змінами в економіці та політиці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Borsa İstanbul відкривається з незначним зростанням",
+    "summary": "BIST 100 на Borsa İstanbul піднявся на 0,26% до 14.010,38 пунктів. Це свідчить про позитивні настрої на ринку. Інвестори спостерігають за змінами в економіці та політиці.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4005396",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cee6a1bbe111",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/reklam-kurulu-yaniltici-reklamlara-7-ayda-yaklasik-185-milyon-lira-ceza-kesti/4005381",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Reklam Kurulu yanıltıcı reklamlara 7 ayda yaklaşık 185 milyon lira ceza kesti",
+    "body_orig": "Reklam Kurulu, yanıltıcı reklamlar ve haksız ticari uygulamalara karşı 7 ayda yaklaşık 21 bin dosyayı karara bağlarken 185 milyon liranın üzerinde idari para cezası uygulanmasını kararlaştırdı.",
+    "published": "2026-07-22T06:49:57",
+    "fetched": "2026-07-22T07:05:50.234012",
+    "title_uk": "Турецький рекламний регулятор наклав штрафи на 185 млн лір",
+    "summary_uk": "Рекламний комітет Туреччини розглянув близько 21 тисячі справ щодо misleading реклами. За результатами, накладено штрафи на суму понад 185 млн лір. Це свідчить про посилення контролю за рекламною діяльністю в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Посилення контролю за рекламою може вплинути на стратегії просування товарів. Виробникам слід переглянути рекламні кампанії, щоб уникнути штрафів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Турецький рекламний регулятор наклав штрафи на 185 млн лір",
+    "summary": "Рекламний комітет Туреччини розглянув близько 21 тисячі справ щодо misleading реклами. За результатами, накладено штрафи на суму понад 185 млн лір. Це свідчить про посилення контролю за рекламною діяльністю в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/reklam-kurulu-yaniltici-reklamlara-7-ayda-yaklasik-185-milyon-lira-ceza-kesti/4005381",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "467058f97d0d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-kesimhanelerde-bir-ay-kayit-kapasiteli-yuksek-cozunurluklu-kamera-sistemlerini-zorunlu-hale-getiriyoruz/4005075",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Yumaklı: Kesimhanelerde bir ay kayıt kapasiteli, yüksek çözünürlüklü kamera sistemlerini zorunlu hale getiriyoruz",
+    "body_orig": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"Kesimhanelerde bir ay kayıt kapasiteli, yüksek çözünürlüklü kamera sistemlerini zorunlu hale getiriyoruz.\" dedi.",
+    "published": "2026-07-21T17:56:51",
+    "fetched": "2026-07-22T07:05:50.234043",
+    "title_uk": "Туреччина запроваджує обов'язкові камери на м'ясокомбінатах",
+    "summary_uk": "Міністр сільського господарства Туреччини Ібрагім Юмакли оголосив про запровадження обов'язкових систем високої роздільної здатності камер на м'ясокомбінатах. Камери повинні мати можливість запису протягом місяця. Це рішення спрямоване на підвищення контролю за процесами на підприємствах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це рішення може збільшити витрати на обладнання для м'ясокомбінатів. Виробники повинні врахувати нові вимоги в своїх бізнес-планах.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина запроваджує обов'язкові камери на м'ясокомбінатах",
+    "summary": "Міністр сільського господарства Туреччини Ібрагім Юмакли оголосив про запровадження обов'язкових систем високої роздільної здатності камер на м'ясокомбінатах. Камери повинні мати можливість запису протягом місяця. Це рішення спрямоване на підвищення контролю за процесами на підприємствах.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-kesimhanelerde-bir-ay-kayit-kapasiteli-yuksek-cozunurluklu-kamera-sistemlerini-zorunlu-hale-getiriyoruz/4005075",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bc9af853ad6d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-crestere-de-peste-40-pentru-actiunile-electro-alfa-in-ultima-luna-societatea-evaluata-de-investitorii-de-la-bvb-la-peste-3-mld-lei-23199968",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Creştere de peste 40% pentru acţiunile Electro-Alfa în ultima lună. Societatea, evaluată de investitorii de la BVB la peste 3 mld. lei",
+    "body_orig": "Electro-Alfa International (EAI), producător român de echipamente electrice şi furnizor de servicii IT şi EPC (engineering, procurement and construction), înregistrează un avans de 43,1% al preţului acţiunilor în ultima lună, pe un rulaj de 24 mil. lei, o capitalizare de peste 3 mld. lei şi un indicator PER de circa 30x, conform raportului la 2025. Este a treia cea mai mare creştere afişată în această perioadă de o companie listată pe piaţa principală a Bursei de Valori Bucureşti.",
+    "published": "2026-07-22T07:00:00",
+    "fetched": "2026-07-22T07:05:52.363815",
+    "title_uk": "Акції Electro-Alfa зросли на 43% за місяць, капіталізація перевищила 3 млрд леїв",
+    "summary_uk": "Electro-Alfa International зафіксувала зростання акцій на 43% за останній місяць, з обсягом торгів у 24 млн леїв. Капіталізація компанії перевищила 3 млрд леїв, а показник PER становить близько 30x. Це третя найбільша зростання акцій на ринку Бухарестської фондової біржі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Акції Electro-Alfa зросли на 43% за місяць, капіталізація перевищила 3 млрд леїв",
+    "summary": "Electro-Alfa International зафіксувала зростання акцій на 43% за останній місяць, з обсягом торгів у 24 млн леїв. Капіталізація компанії перевищила 3 млрд леїв, а показник PER становить близько 30x. Це третя найбільша зростання акцій на ринку Бухарестської фондової біржі.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-crestere-de-peste-40-pentru-actiunile-electro-alfa-in-ultima-luna-societatea-evaluata-de-investitorii-de-la-bvb-la-peste-3-mld-lei-23199968",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0d15154ffb26",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/industrie/cifra-de-afaceri-din-industrie-a-crescut-cu-6-1-in-mai-fata-de-aprilie-dar-ramane-sub-nivelul-din-mai-2025-la-cinci-luni-afacerile-din-industrie-au-scazut-cu-1-6-an-an-23200379",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cifra de afaceri din industrie a crescut cu 6,1% în mai faţă de aprilie, dar rămâne sub nivelul din mai 2025. La cinci luni, afacerile din industrie au scăzut cu 1,6% an/an",
+    "body_orig": "",
+    "published": "2026-07-22T06:49:00",
+    "fetched": "2026-07-22T07:05:52.363837",
+    "title_uk": "Виробництво в Румунії зросло на 6% у травні",
+    "summary_uk": "У травні 2026 року обсяги промислового виробництва в Румунії зросли на 6% порівняно з квітнем, але залишаються нижчими за рівень травня 2025 року. За п'ять місяців 2026 року промисловість зменшилася на 2% в річному обчисленні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Виробництво в Румунії зросло на 6% у травні",
+    "summary": "У травні 2026 року обсяги промислового виробництва в Румунії зросли на 6% порівняно з квітнем, але залишаються нижчими за рівень травня 2025 року. За п'ять місяців 2026 року промисловість зменшилася на 2% в річному обчисленні.",
+    "link": "https://www.zf.ro/companii/industrie/cifra-de-afaceri-din-industrie-a-crescut-cu-6-1-in-mai-fata-de-aprilie-dar-ramane-sub-nivelul-din-mai-2025-la-cinci-luni-afacerile-din-industrie-au-scazut-cu-1-6-an-an-23200379",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "806aff1047d0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/volumul-lucrarilor-de-constructii-a-crescut-in-primele-cinci-luni-din-2026-cu-12-4-cladirile-rezidentiale-au-avansat-cu-16-iar-constructiile-ingineresti-cu-14-23200374",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Volumul lucrărilor de construcţii a crescut în primele cinci luni din 2026 cu 12,4%. Clădirile rezidenţiale au avansat cu 16%, iar construcţiile inginereşti cu 14%",
+    "body_orig": "",
+    "published": "2026-07-22T06:46:20",
+    "fetched": "2026-07-22T07:05:52.363847",
+    "title_uk": "Обсяги будівництва в Румунії зросли на 12% за перші п'ять місяців",
+    "summary_uk": "У Румунії обсяги будівельних робіт зросли на 12% у січні-травні 2026 року. Житлові будівлі показали приріст на 16%, а інженерні споруди — на 14%. Це свідчить про активізацію ринку будівництва в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання будівництва в Румунії може створити нові можливості для турецьких виробників будматеріалів. Рекомендується вивчити ринок для можливого експорту.",
+      "category_manager": "Зростання обсягів будівництва може вплинути на попит на товари для ремонту та будівництва. Рекомендується переглянути асортимент у відповідних категоріях."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Обсяги будівництва в Румунії зросли на 12% за перші п'ять місяців",
+    "summary": "У Румунії обсяги будівельних робіт зросли на 12% у січні-травні 2026 року. Житлові будівлі показали приріст на 16%, а інженерні споруди — на 14%. Це свідчить про активізацію ринку будівництва в країні.",
+    "link": "https://www.zf.ro/zf-24/volumul-lucrarilor-de-constructii-a-crescut-in-primele-cinci-luni-din-2026-cu-12-4-cladirile-rezidentiale-au-avansat-cu-16-iar-constructiile-ingineresti-cu-14-23200374",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5aead58aef81",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/kazahstan-principala-sursa-de-importuri-de-petrol-a-romaniei-a-oprit-livrarile-spre-terminalul-sau-de-pe-coasta-ruseasca-a-marii-negre-ca-urmare-a-unor-atacuri-cu-drone-asupra-petrolierelor-23200321",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Kazahstan, principala sursă de importuri de petrol a României, a oprit livrările spre terminalul său de pe coasta rusească a Mării Negre ca urmare a unor atacuri cu drone asupra petrolierelor",
+    "body_orig": "",
+    "published": "2026-07-22T06:11:00",
+    "fetched": "2026-07-22T07:05:52.363857",
+    "title_uk": "Казахстан зупинив постачання нафти до Румунії через атаки дронів",
+    "summary_uk": "Казахстан призупинив постачання нафти до Румунії через атаки дронів на нафтові танкери на російському узбережжі Чорного моря. Це може вплинути на ринок нафти в регіоні, оскільки Казахстан є основним постачальником для Румунії. Румунія, в свою чергу, може зіткнутися з нестачею нафти та підвищенням цін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця ситуація може призвести до підвищення цін на нафту в регіоні, що варто врахувати при плануванні закупівель та цінової політики."
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Казахстан зупинив постачання нафти до Румунії через атаки дронів",
+    "summary": "Казахстан призупинив постачання нафти до Румунії через атаки дронів на нафтові танкери на російському узбережжі Чорного моря. Це може вплинути на ринок нафти в регіоні, оскільки Казахстан є основним постачальником для Румунії. Румунія, в свою чергу, може зіткнутися з нестачею нафти та підвищенням цін.",
+    "link": "https://www.zf.ro/zf-24/kazahstan-principala-sursa-de-importuri-de-petrol-a-romaniei-a-oprit-livrarile-spre-terminalul-sau-de-pe-coasta-ruseasca-a-marii-negre-ca-urmare-a-unor-atacuri-cu-drone-asupra-petrolierelor-23200321",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2477bcc04e8c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-operatorul-portuar-comvex-constanta-cu-generalul-in-rezerva-dan-dragoi-in-actionariat-are-o-crestere-de-45-in-ultima-luna-la-bursa-plus-17-ieri-23199992",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Operatorul portuar Comvex Constanţa, cu generalul în rezervă Dan Drăgoi în acţionariat, are o creştere de 45% în ultima lună la Bursă. Plus 17% ieri",
+    "body_orig": "Acţiunile companiei Comvex (CMVX), cel mai mare operator portuar din Constanţa, creşteau ieri după-amiaza cu 16,9%, ducând dinamica din ultimele 30 de zile la 44,6% şi capitalizarea la circa 930 mil. lei, conform BVB; evoluţia vine însă în lipsa unor noi rapoarte financiare şi altor ştiri care ar putea-o explica.",
+    "published": "2026-07-22T06:00:00",
+    "fetched": "2026-07-22T07:05:52.363878",
+    "title_uk": "Акції Comvex зросли на 45% за місяць",
+    "summary_uk": "Акції Comvex, найбільшого портового оператора в Констанці, зросли на 45% за останній місяць, зокрема на 17% лише вчора. Капіталізація компанії становить близько 930 млн леїв. Зростання відбувається без нових фінансових звітів чи інших пояснень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Акції Comvex зросли на 45% за місяць",
+    "summary": "Акції Comvex, найбільшого портового оператора в Констанці, зросли на 45% за останній місяць, зокрема на 17% лише вчора. Капіталізація компанії становить близько 930 млн леїв. Зростання відбувається без нових фінансових звітів чи інших пояснень.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-operatorul-portuar-comvex-constanta-cu-generalul-in-rezerva-dan-dragoi-in-actionariat-are-o-crestere-de-45-in-ultima-luna-la-bursa-plus-17-ieri-23199992",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aaf56004bd68",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/anunt-de-la-patronul-lidl-si-kaufland-ce-pregateste-gigantul-german_961379.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Anunţ de la patronul Lidl şi Kaufland. Ce pregăteşte gigantul german",
+    "body_orig": "Divizia de tehnologie a grupului german de retail Schwarz vizează o creştere puternică în următorii ani, pe măsură ce îşi extinde activităţile de cloud computing şi securitate cibernetică dincolo de operaţiunile sale tradiţionale din domeniul supermarketurilor, transmite DPA.",
+    "published": "2026-07-22T06:55:47",
+    "fetched": "2026-07-22T07:05:54.378284",
+    "title_uk": "Lidl та Kaufland розширюють технологічні послуги",
+    "summary_uk": "Група Schwarz планує значне зростання у сфері хмарних технологій та кібербезпеки. Це розширення виходить за межі традиційних супермаркетів. Очікується, що нові технологічні рішення вплинуть на ринок ритейлу в найближчі роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на стратегії закупівель у ритейлі, оскільки нові технології можуть змінити підходи до управління запасами та обслуговування клієнтів."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "технології"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Lidl та Kaufland розширюють технологічні послуги",
+    "summary": "Група Schwarz планує значне зростання у сфері хмарних технологій та кібербезпеки. Це розширення виходить за межі традиційних супермаркетів. Очікується, що нові технологічні рішення вплинуть на ринок ритейлу в найближчі роки.",
+    "link": "https://www.economica.net/anunt-de-la-patronul-lidl-si-kaufland-ce-pregateste-gigantul-german_961379.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d8e3c1c1fd7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/scumpire-semnificativa-a-carburantilor-azi-cat-costa-acum-benzina-si-motorina-cresterile-de-pret-vor-continua_961366.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Scumpire semnificativă a carburanților, azi. Cât costă acum benzina și motorina, creșterile de preț vor continua",
+    "body_orig": "Și OMV Petrom, liderul pieței de distribuție a carburanților, a majorat azi semnificativ prețurile în benzinării, pe fondul creșterii cotațiilor internaționale. Rompetrol crescuse prețurile încă de ieri.",
+    "published": "2026-07-22T06:19:17",
+    "fetched": "2026-07-22T07:05:54.378320",
+    "title_uk": "Значне підвищення цін на паливо в Румунії",
+    "summary_uk": "OMV Petrom підвищив ціни на паливо через зростання міжнародних котирувань. Раніше Rompetrol також підвищив ціни. Очікується, що зростання цін продовжиться.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на паливо може вплинути на логістику та витрати на доставку товарів. Рекомендується переглянути бюджети на транспортування."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Значне підвищення цін на паливо в Румунії",
+    "summary": "OMV Petrom підвищив ціни на паливо через зростання міжнародних котирувань. Раніше Rompetrol також підвищив ціни. Очікується, що зростання цін продовжиться.",
+    "link": "https://www.economica.net/scumpire-semnificativa-a-carburantilor-azi-cat-costa-acum-benzina-si-motorina-cresterile-de-pret-vor-continua_961366.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6a17e790d818",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "London’s Modo Energy secures €14.9 million to scale its AI-powered energy benchmarking and valuation platform",
+    "body_orig": "Modo Energy, a London-based AI-powered benchmarking and valuation platform for energy storage and renewable assets, has secured a €14.9 million ($17 million) growth funding package from CIBC Innovation Banking, bringing the total amount of funding raised by the company to €45.5 million ($52 million).  CIBC Innovation Banking is the lead backer in the new capital, [&#8230;]\nThe post London’s Modo Energy secures €14.9 million to scale its AI-powered energy benchmarking and valuation platform appeared first on EU-Startups.",
+    "published": "2026-07-22T06:50:43",
+    "fetched": "2026-07-22T07:05:35.679324",
+    "title_uk": "Modo Energy залучила €15 млн для розширення платформи оцінки енергії",
+    "summary_uk": "Лондонська компанія Modo Energy отримала €14.9 млн інвестицій від CIBC Innovation Banking для розвитку своєї платформи оцінки енергії. Загальна сума залучених коштів досягла €45.5 млн. Інвестиції сприятимуть масштабуванню технологій у сфері зберігання енергії та відновлювальних джерел.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Modo Energy залучила €15 млн для розширення платформи оцінки енергії",
+    "summary": "Лондонська компанія Modo Energy отримала €14.9 млн інвестицій від CIBC Innovation Banking для розвитку своєї платформи оцінки енергії. Загальна сума залучених коштів досягла €45.5 млн. Інвестиції сприятимуть масштабуванню технологій у сфері зберігання енергії та відновлювальних джерел.",
+    "link": "https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "36fc9f344d6e",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/rosiyiski-balistychni-rakety-znyshchyly-osnovnyyi-sklad-winetime-naslidky-ataky/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Через російську атаку знищено основний склад Winetime: втрати сягнули 300 млн гривень",
+    "body_orig": "У ніч з 18 на 19 липня 8 ворожих балістичних ракет поцілили в основний склад продукції Winetime, повністю його знищивши. Втрати товару сягнули 300 млн гривень. З команди ніхто не постраждав, повідомили в компанії 21 липня.\nWinetime — український бізнес, що входить до складу Аснова холдингу, заснован…",
+    "published": "2026-07-22T03:56:32",
+    "fetched": "2026-07-22T07:05:59.379862",
+    "title_uk": "Втрата складу Winetime через російську атаку: 300 млн гривень",
+    "summary_uk": "Внаслідок атаки 18-19 липня знищено основний склад Winetime. Втрати компанії оцінюються в 300 млн гривень. Ніхто з команди не постраждав, повідомили в компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Втрата складу Winetime через російську атаку: 300 млн гривень",
+    "summary": "Внаслідок атаки 18-19 липня знищено основний склад Winetime. Втрати компанії оцінюються в 300 млн гривень. Ніхто з команди не постраждав, повідомили в компанії.",
+    "link": "https://rau.ua/news/rosiyiski-balistychni-rakety-znyshchyly-osnovnyyi-sklad-winetime-naslidky-ataky/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "001229b0cf01",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/zberegty-yi-dovezty-iak-ryteyilery-perebudovuiut-logistyku-pid-systemnymy-obstrilamy-voroga/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Зберегти й довезти: як ритейлери перебудовують логістику під системними обстрілами ворога",
+    "body_orig": "Великі бренди відмовляються від гігантських хабів, будують підземні укриття та змінюють способи доставки.\nЗ початку 2026 року росія значно посилила системні обстріли української логістики. Зважаючи, що жоден склад в Україні не може отримати абсолютний захист від ракетних атак, ключовий акцент сьогод…",
+    "published": "2026-07-22T03:15:49",
+    "fetched": "2026-07-22T07:05:59.379880",
+    "title_uk": "Ритейлери змінюють логістику через обстріли в Україні",
+    "summary_uk": "Великі бренди адаптують логістику до нових умов, відмовляючись від великих хабів та будуючи підземні укриття. З початку 2026 року росія посилила обстріли української логістики, що змушує компанії шукати нові способи доставки. Це вплине на ефективність постачань та безпеку товарів.",
+    "what_it_means": {
+      "ua_importer": "Необхідно переглянути логістичні маршрути та способи доставки, щоб зменшити ризики. Рекомендується розглянути альтернативні шляхи постачання.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Необхідно адаптувати стратегії управління запасами та планування промо-акцій у зв'язку з можливими затримками в постачаннях."
+    },
+    "tags": [
+      "логістика",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Ритейлери змінюють логістику через обстріли в Україні",
+    "summary": "Великі бренди адаптують логістику до нових умов, відмовляючись від великих хабів та будуючи підземні укриття. З початку 2026 року росія посилила обстріли української логістики, що змушує компанії шукати нові способи доставки. Це вплине на ефективність постачань та безпеку товарів.",
+    "link": "https://rau.ua/news/zberegty-yi-dovezty-iak-ryteyilery-perebudovuiut-logistyku-pid-systemnymy-obstrilamy-voroga/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
