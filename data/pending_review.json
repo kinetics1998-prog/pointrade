@@ -146757,5 +146757,1124 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "a66e40788b74",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Zaskakujacy-ruch-tuz-przed-polnoca-Cla-w-USA-zmieniaja-sie-diametralnie-9172674.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zaskakujący ruch tuż przed północą. Cła w USA zmieniają się diametralnie",
+    "body_orig": "Władze USA ogłosiły w czwartek nowe cła w wysokości 10 albo 12,5 proc. na swoich 60 partnerów handlowych, w tym UE. Pochodzi z nich niemal cały import do USA. Taryfy mają zastąpić tymczasową 10-procentową stawkę globalną, wygasającą 24 lipca.",
+    "published": "2026-07-23T23:42:00",
+    "fetched": "2026-07-24T06:44:07.576697",
+    "title_uk": "США запроваджують нові мита на імпорт з 60 країн",
+    "summary_uk": "Уряди США оголосили про нові мита у розмірі 10% або 12,5% на імпорт з 60 країн, включаючи ЄС. Ці тарифи замінять тимчасову 10% ставку, що закінчується 24 липня. Це вплине на більшість імпорту до США.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори, які постачають товари до США, повинні врахувати нові мита у своїх ціноутвореннях.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "США запроваджують нові мита на імпорт з 60 країн",
+    "summary": "Уряди США оголосили про нові мита у розмірі 10% або 12,5% на імпорт з 60 країн, включаючи ЄС. Ці тарифи замінять тимчасову 10% ставку, що закінчується 24 липня. Це вплине на більшість імпорту до США.",
+    "link": "https://www.bankier.pl/wiadomosc/Zaskakujacy-ruch-tuz-przed-polnoca-Cla-w-USA-zmieniaja-sie-diametralnie-9172674.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "72d2ebda35a4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Remont-mieszkania-w-kosztach-firmy-Fiskus-stawia-kilka-warunkow-9172336.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Remont mieszkania w kosztach firmy? Fiskus stawia kilka warunków",
+    "body_orig": "Wydatki na materiały budowlane, ekipę remontową, a w określonych przypadkach także wyposażenie i sprzęt AGD mogą obniżyć podatek firmy. Sam fakt prowadzenia działalności w mieszkaniu jednak nie wystarczy. Znaczenie mają sposób wykorzystania lokalu, charakter wykonanych prac, moment ich przeprowadzenia oraz wybrana forma opodatkowania.",
+    "published": "2026-07-24T05:00:00",
+    "fetched": "2026-07-24T06:44:07.576710",
+    "title_uk": "Витрати на ремонт в офісі можуть зменшити податки",
+    "summary_uk": "Витрати на будівельні матеріали, ремонтні роботи та обладнання можуть знижувати податки для компаній у Польщі. Однак, для цього важливо дотримуватись певних умов, зокрема, як використовується приміщення та характер виконаних робіт. Витрати на ремонт не завжди автоматично підлягають податковим пільгам.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори, які надають послуги або продукцію для ремонту, можуть скористатися зростанням попиту на матеріали та послуги внаслідок податкових пільг.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Витрати на ремонт в офісі можуть зменшити податки",
+    "summary": "Витрати на будівельні матеріали, ремонтні роботи та обладнання можуть знижувати податки для компаній у Польщі. Однак, для цього важливо дотримуватись певних умов, зокрема, як використовується приміщення та характер виконаних робіт. Витрати на ремонт не завжди автоматично підлягають податковим пільгам.",
+    "link": "https://www.bankier.pl/wiadomosc/Remont-mieszkania-w-kosztach-firmy-Fiskus-stawia-kilka-warunkow-9172336.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "13eb433e5fcf",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Windfall-tax-zadziala-wstecz-Nowy-podatek-moze-stworzyc-niebezpieczny-precedens-9171597.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Windfall tax zadziała wstecz. Nowy podatek może stworzyć niebezpieczny precedens",
+    "body_orig": "Podatek od nadzwyczajnych zysków firm paliwowych ma wejść w życie 1 sierpnia 2026 r., ale obejmie przychody osiągane już od 1 marca. Rząd przekonuje, że danina pozwoli sfinansować działania osłonowe związane z wysokimi cenami paliw. Przedstawiciele branży ostrzegają jednak, że ustawa narusza zakaz działania prawa wstecz. Spór nie dotyczy wyłącznie koncernów paliwowych. Chodzi o to, czy państwo może nakładać nowy podatek na dochody osiągnięte w czasie, gdy podatnik nie wiedział jeszcze, że takie obciążenie powstanie.",
+    "published": "2026-07-24T05:00:00",
+    "fetched": "2026-07-24T06:44:07.576719",
+    "title_uk": "Польща запроваджує податок на надприбутки з 1 серпня 2026",
+    "summary_uk": "Новий податок на надприбутки компаній у паливному секторі почне діяти з 1 серпня 2026 року, але охоплюватиме доходи з 1 березня. Уряд стверджує, що це дозволить фінансувати заходи підтримки через високі ціни на паливо. Представники галузі попереджають про можливі юридичні наслідки через зворотну дію закону.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно врахувати можливе підвищення цін на паливо, що може вплинути на логістику та витрати. Рекомендується переглянути контракти з постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща запроваджує податок на надприбутки з 1 серпня 2026",
+    "summary": "Новий податок на надприбутки компаній у паливному секторі почне діяти з 1 серпня 2026 року, але охоплюватиме доходи з 1 березня. Уряд стверджує, що це дозволить фінансувати заходи підтримки через високі ціни на паливо. Представники галузі попереджають про можливі юридичні наслідки через зворотну дію закону.",
+    "link": "https://www.bankier.pl/wiadomosc/Windfall-tax-zadziala-wstecz-Nowy-podatek-moze-stworzyc-niebezpieczny-precedens-9171597.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "853fc3199b6c",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Exlantix-luksusowa-marka-giganta-z-Panstwa-Srodka-chce-podbic-Polske-9172427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nie tylko Omoda. Luksusowa marka giganta z Państwa Środka chce podbić Polskę",
+    "body_orig": "Polska wyrasta na jeden z kluczowych rynków dla marki Exlantix w Europie. Ta należąca do koncernu Chery marka zaawansowanych technologicznie luksusowych elektryków jeszcze w tym roku chce mieć nad Wisłą co najmniej pięć salonów i zapowiada debiuty nowych modeli. W ostatnich dniach wprowadziła nową ofertę finansowania aut.",
+    "published": "2026-07-24T05:00:00",
+    "fetched": "2026-07-24T06:44:07.576729",
+    "title_uk": "Електромобілі Exlantix планують вихід на польський ринок",
+    "summary_uk": "Бренд Exlantix, що належить конгломерату Chery, розширює присутність у Польщі. У 2026 році компанія планує відкрити щонайменше п'ять салонів та представити нові моделі електромобілів. Також було запущено нову фінансову пропозицію для покупців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть розглянути співпрацю з Exlantix, оскільки бренд активно розширюється та пропонує нові моделі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Електромобілі Exlantix планують вихід на польський ринок",
+    "summary": "Бренд Exlantix, що належить конгломерату Chery, розширює присутність у Польщі. У 2026 році компанія планує відкрити щонайменше п'ять салонів та представити нові моделі електромобілів. Також було запущено нову фінансову пропозицію для покупців.",
+    "link": "https://www.bankier.pl/wiadomosc/Exlantix-luksusowa-marka-giganta-z-Panstwa-Srodka-chce-podbic-Polske-9172427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "79d9a87a45ed",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/tylu-polakow-ufa-agentom-ai-znamy-wyniki-badania/03tzb3q",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tylu Polaków ufa agentom AI. Jest badanie",
+    "body_orig": "Nowe badanie pokazuje, że już połowa przedstawicieli pokolenia Z i millenialsów sięga po asystentów AI. Jest też druga strona tego trendu: połowa konsumentów obawia się utraty kontroli nad procesem zakupowym, a 47 proc. nie ufa w pełni rekomendacjom generowanym przez sztuczną inteligencję.",
+    "published": "2026-07-24T06:18:27",
+    "fetched": "2026-07-24T06:44:09.442441",
+    "title_uk": "Половина молоді в Польщі довіряє AI-агентам",
+    "summary_uk": "Дослідження показало, що 50% представників покоління Z і мілленіалів використовують AI-асистентів. Водночас 50% споживачів бояться втрати контролю над покупками, а 47% не повністю довіряють рекомендаціям AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори повинні враховувати, що молодь активно використовує AI для покупок, що може змінити підходи до маркетингу та комунікацій.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Необхідно враховувати, що споживачі мають сумніви щодо рекомендацій AI. Варто переглянути стратегії просування та комунікації з клієнтами."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Половина молоді в Польщі довіряє AI-агентам",
+    "summary": "Дослідження показало, що 50% представників покоління Z і мілленіалів використовують AI-асистентів. Водночас 50% споживачів бояться втрати контролю над покупками, а 47% не повністю довіряють рекомендаціям AI.",
+    "link": "https://businessinsider.com.pl/gospodarka/tylu-polakow-ufa-agentom-ai-znamy-wyniki-badania/03tzb3q",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fd83d341c022",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/granica-przekroczona-tyle-teraz-kosztuje-czarne-zloto/ym24l30",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Granica przekroczona. Paliwa coraz droższe",
+    "body_orig": "Kierowcy w Polsce nie mają powodów do zadowolenia. Benzyna 95 przebiła 7 zł za litr, a benzyna 98 przekroczyła właśnie pułap 8 zł — wynika z najnowszych danych.",
+    "published": "2026-07-24T06:04:46",
+    "fetched": "2026-07-24T06:44:09.442449",
+    "title_uk": "Ціни на бензин у Польщі знову зростають",
+    "summary_uk": "У Польщі ціна бензину 95 досягла 7 зл за літр, а бензину 98 — 8 зл. Це викликано зростанням цін на нафту та змінами в ринковій ситуації. Водії не задоволені новими цінами, які продовжують зростати.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на паливо може призвести до підвищення витрат на логістику. Рекомендується переглянути цінову політику та оптимізувати витрати.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на паливо може вплинути на витрати в категоріях, пов'язаних з логістикою. Рекомендується переглянути плани закупівель та ціни на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин у Польщі знову зростають",
+    "summary": "У Польщі ціна бензину 95 досягла 7 зл за літр, а бензину 98 — 8 зл. Це викликано зростанням цін на нафту та змінами в ринковій ситуації. Водії не задоволені новими цінами, які продовжують зростати.",
+    "link": "https://businessinsider.com.pl/gospodarka/granica-przekroczona-tyle-teraz-kosztuje-czarne-zloto/ym24l30",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c6969f531d38",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/cyfryzacja-ksiegowosci-w-polsce-wlodek-markowicz-o-roli-czlowieka-i-ai/ky1llxt",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Cyfryzacja księgowości to maksymalne ułatwienie prowadzenia firmy",
+    "body_orig": "Dziś przedsiębiorca może założyć firmę, podpiąć konto bankowe i prowadzić księgowość z poziomu jednej aplikacji. Dlaczego mimo postępującej automatyzacji wciąż chce mieć po drugiej stronie żywego księgowego, co zmienił w polskich firmach KSeF oraz jakie są granice sztucznej inteligencji w księgowości — opowiada Włodek Markowicz, wiceprezes inFaktu.",
+    "published": "2026-07-24T06:00:00",
+    "fetched": "2026-07-24T06:44:09.442457",
+    "title_uk": "Цифровізація бухгалтерії спрощує ведення бізнесу в Польщі",
+    "summary_uk": "Підприємці можуть вести бухгалтерію через одну програму, підключивши банківський рахунок. Віце-президент inFaktu Влодек Маркович розповів про важливість живого бухгалтера та вплив KSeF на польський бізнес. Автоматизація не замінює людський фактор.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цифрові рішення можуть зменшити витрати на бухгалтерію. Розгляньте впровадження подібних технологій для підвищення ефективності.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Цифровізація бухгалтерії спрощує ведення бізнесу в Польщі",
+    "summary": "Підприємці можуть вести бухгалтерію через одну програму, підключивши банківський рахунок. Віце-президент inFaktu Влодек Маркович розповів про важливість живого бухгалтера та вплив KSeF на польський бізнес. Автоматизація не замінює людський фактор.",
+    "link": "https://businessinsider.com.pl/gospodarka/cyfryzacja-ksiegowosci-w-polsce-wlodek-markowicz-o-roli-czlowieka-i-ai/ky1llxt",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "29b140f0a0c2",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/tylko-w-300gospodarce/ksiazka-kosztuje-prawie-60-zl-a-autor-dostaje-niecale-3-zl-rynek-ma-problem",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Książka kosztuje prawie 60 zł, a autor dostaje niecałe 3 zł. Rynek ma problem",
+    "body_orig": "Ile zarabiają autorzy książek? Według raportu Polskiej Sieci Ekonomii z 2025 r. średnio za jeden sprzedany egzemplarz dostają 2,87 zł, mimo że średnia cena detaliczna oscyluje wokół 58,50 zł. Unia Literacka walczy o ustawowe minimum na poziomie 10 proc. ceny okładkowej.\nSpór o wynagrodzenia autorów wraca od lat, ale liczby pokazują, dlaczego środowisko tak mocno naciska na regulacje. Według raportu Katarzyny Boni dla Unii Literackiej z 2022 r. co trzeci uznany polski autor nie osiąga nawet postulowanego progu 10 proc. od ceny okładkowej.\nProblem tkwi też w konstrukcji umów. Tylko 16 proc. kontraktów wydawniczych opiera się na cenie okładkowej. Pozostałe bazują na cenie faktycznej, czyli tej po rabatach, promocjach i rozliczeniach dystrybucyjnych. Dla autora taka podstawa bywa trudna do samodzielnego sprawdzenia. Z tego powodu część autorów przerzuca się na self-publishing, czyli samodzielne wydanie książki. W tym modelu mogą zachować nawet 70 proc. przychodu z każdego egzemplarza.\nKsiążka za 60 zł, honorarium od niższej kwoty\nStandardowe honorarium autora w polskim wydawnictwie wynosi zwykle 8-12 proc. Taka stawka na papierze może wyglądać uczciwie, dopóki nie pojawi się pytanie: od jakiej kwoty jest liczona?\nKsiążka z ceną okładkową 60 zł często trafia do sprzedaży po rabatach za 35-40 zł. Jeśli umowa liczy wynagrodzenie od niższej ceny, autor dostaje procent nie od kwoty widocznej na okładce, lecz od ceny faktycznej. To znacząco zmniejsza jego zarobek z egzemplarza.\nDo tego dochodzi brak bieżącego wglądu w sprzedaż. Autor zwykle dostaje rozliczenie raz na pół roku albo raz w roku. Prawa do tytułu mogą być zablokowane na lata, nawet jeśli książka przestaje być aktywnie promowana albo znika z głównego obiegu sprzedażowego.\n– Polski rynek książki od lat działa na zasadach, które autorzy akceptują z konieczności, a środowisko czeka na regulację od blisko 30 lat. Dobrze, że Unia Literacka ten temat nagłaśnia, choć realizacja jej postulatów może zająć kolejną dekadę. Dlatego część autorów wchodzi w rolę przedsiębiorcy i wybiera drogę self-publishingu, wymagającą, ale też bardziej opłacalną – zauważa Krzysztof Bartnik, prezes i założyciel Imker, autor książki „Rok Twórcy – 102 porady, które zmienią Twój biznes online”.\nSelf-publishing pokazuje inną matematykę\nSelf-publishing oznacza, że autor wydaje książkę samodzielnie, bez tradycyjnego wydawnictwa. Sam odpowiada za proces, ale też przejmuje większą część pieniędzy ze sprzedaży. Nie dzieli marży z wydawcą i tradycyjną dystrybucją w takim samym układzie jak przy klasycznej umowie.\nNajgłośniejszym polskim przykładem tego modelu jest Michał Szafrański, autor „Finansowego Ninja”, jednej z najlepiej sprzedających się książek o finansach osobistych w Polsce. W maju 2026 r., podczas konferencji Influencers Live Wrocław, pokazał dane po niemal 10 latach sprzedaży: 130 tys. egzemplarzy, 11 mln zł przychodu brutto i 7,5 mln zł dochodu przed opodatkowaniem.\nTo daje marżę na poziomie 73 proc. Szafrański zestawił",
+    "published": "2026-07-23T21:55:48",
+    "fetched": "2026-07-24T06:44:11.449371",
+    "title_uk": "Автори книг в Польщі отримують лише 3 злотих з продажу",
+    "summary_uk": "Згідно з дослідженням, польські автори отримують в середньому лише 3 злотих з продажу книги за ціною 60 злотих. Літературна спілка вимагає встановлення мінімального гонорару на рівні 10% від ціни. Багато авторів переходять на самостійне видання, де можуть отримувати до 70% доходу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть переглянути умови співпраці з авторами, адже зростаючий інтерес до self-publishing може змінити ринок.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання популярності self-publishing. Це може вплинути на асортимент книг у магазинах та стратегії закупівель."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Автори книг в Польщі отримують лише 3 злотих з продажу",
+    "summary": "Згідно з дослідженням, польські автори отримують в середньому лише 3 злотих з продажу книги за ціною 60 злотих. Літературна спілка вимагає встановлення мінімального гонорару на рівні 10% від ціни. Багато авторів переходять на самостійне видання, де можуть отримувати до 70% доходу.",
+    "link": "https://300gospodarka.pl/tylko-w-300gospodarce/ksiazka-kosztuje-prawie-60-zl-a-autor-dostaje-niecale-3-zl-rynek-ma-problem",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1b050e749102",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/scieki-znikaja-z-systemu-co-roku-skala-dorownuje-jednej-trzeciej-sniardw",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ścieki znikają z systemu. Co roku skala dorównuje jednej trzeciej Śniardw",
+    "body_orig": "Nawet 200 mln m³ ścieków z szamb i przydomowych oczyszczalni może trafiać co roku do gleby, wód gruntowych, rzek i jezior, a następnie do Bałtyku. To objętość odpowiadająca niemal jednej trzeciej jeziora Śniardwy – wynika z raportu fundacji Race for the Baltic i Agencji Wspierania Ochrony Środowiska. Polska ma najniższy poziom zgodności z unijnymi wymogami dotyczącymi gospodarki ściekowej spośród państw regionu Morza Bałtyckiego.\nProblem dotyczy około 10 mln mieszkańców, którzy nie korzystają z sieci kanalizacyjnej. W kraju działa ponad 2,1 mln zarejestrowanych szamb, przeszło 200 tys. kolejnych może funkcjonować poza oficjalnym systemem, a liczba przydomowych oczyszczalni sięga 500 tys.\nSetki milionów metrów sześciennych znikają z systemu\nWedług danych GUS w 2024 r. firmy odebrały w Polsce 45 mln m³ nieczystości ciekłych. Z wyliczeń autorów raportu wynika jednak, że prawidłowo działający system powinien zebrać od 250 do 300 mln m³.\nRóżnica sugeruje, że od 80 do 90 proc. ścieków z instalacji indywidualnych nie trafia do oczyszczalni. Część może przedostawać się do środowiska przez nieszczelne zbiorniki, a część być odprowadzana nielegalnie.\n– Oznacza to, że 80-90 proc. ścieków nie trafia do oczyszczalni. To jest 200 mln m³, a dla porównania Śniardwy, największe jezioro w Polsce, mają 600 mln m³. Czyli co roku ścieki o objętości 1/3 jeziora Śniardwy trafiają do gruntów, wód gruntowych czy jezior. To olbrzymia skala – mówi Marcin Kotlarek, prezes fundacji Race for the Baltic.\nPolska ma około 72-proc. poziom podłączenia mieszkańców do sieci kanalizacyjnej. Autorzy raportu oceniają, że zgodność krajowego systemu z wymogami unijnej dyrektywy ściekowej wynosi 70-77 proc. W innych państwach nadbałtyckich sięga od 96 do 100 proc.\nBałtyk zatrzymuje zanieczyszczenia na dekady\nMorze Bałtyckie wymienia swoje wody bardzo wolno. Pełny proces trwa około 30 lat, dlatego substancje spływające z lądu mogą oddziaływać na morski ekosystem przez dekady.\n– Morze Bałtyckie to ekosystem, który wymienia wodę raz na 30 lat, więc to, co do niego trafia, pozostaje tam przez dekady i bardzo trudno podlega procesowi regeneracji – tłumaczy Marcin Kotlarek.\nOkoło 35 proc. fosforu trafiającego co roku do Bałtyku pochodzi ze ścieków. Nadmiar tego pierwiastka napędza eutrofizację, czyli przeżyźnienie wody. W takich warunkach szybko rozwijają się glony i sinice. Gdy obumierają, ich rozkład zużywa tlen rozpuszczony w wodzie. W efekcie powstają strefy, w których ryby i inne organizmy mają ograniczone warunki do życia.\nStan morza zależy więc od działań podejmowanych setki kilometrów od wybrzeża. Do Bałtyku trafiają zanieczyszczenia spływające z gospodarstw domowych, pól, zakładów przemysłowych, portów, rzek oraz lokalnych systemów odprowadzania ścieków.\nNa Podkarpaciu do środowiska może trafiać ponad 95 proc. ścieków\nSkala problemu różni się między regionami. Helena Goderska, dyrektorka Biura Realizacji Projektów w Agencji Wspierania Ochrony Środowiska, przytacza dane dotyczące wojewó",
+    "published": "2026-07-23T18:10:02",
+    "fetched": "2026-07-24T06:44:11.449413",
+    "title_uk": "Проблема з відведенням стічних вод у Польщі загострюється",
+    "summary_uk": "Щороку до навколишнього середовища потрапляє до 200 млн м³ стічних вод. Це відповідає приблизно третині обсягу найбільшого озера Польщі — Śniardwy. Лише 45 млн м³ стічних вод було зібрано у 2024 році, що вказує на серйозні проблеми з інфраструктурою. Польща має найнижчий рівень відповідності європейським стандартам у регіоні Балтійського моря.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні враховувати зростаючі екологічні вимоги, що можуть вплинути на логістику та постачання. Рекомендується переглянути стратегії управління відходами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Проблема з відведенням стічних вод у Польщі загострюється",
+    "summary": "Щороку до навколишнього середовища потрапляє до 200 млн м³ стічних вод. Це відповідає приблизно третині обсягу найбільшого озера Польщі — Śniardwy. Лише 45 млн м³ стічних вод було зібрано у 2024 році, що вказує на серйозні проблеми з інфраструктурою. Польща має найнижчий рівень відповідності європейським стандартам у регіоні Балтійського моря.",
+    "link": "https://300gospodarka.pl/news/scieki-znikaja-z-systemu-co-roku-skala-dorownuje-jednej-trzeciej-sniardw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05a6fc7d4486",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/nie-beda-musieli-oddawac-dotacji-rzad-szykuje-specjalna-ustawe-7310823180880256a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nie będą musieli oddawać dotacji? Rząd szykuje specjalną ustawę",
+    "body_orig": "W wakacje rząd ma przyjąć projekt ustawy pomocowej dla osób poszkodowanych w programie \"Czyste Powietrze\" - zapowiedział w rozmowie z PAP wiceminister klimatu Krzysztof Bolesta. Nowe prawo ma umożliwić dochodzenie wierzytelności od nieuczciwych firm, a nie od właścicieli domów.",
+    "published": "2026-07-24T05:18:44",
+    "fetched": "2026-07-24T06:44:13.228028",
+    "title_uk": "Польський уряд готує закон для захисту отримувачів дотацій",
+    "summary_uk": "Уряд Польщі планує ухвалити законопроект, що захистить власників будинків, які постраждали від програми 'Чисте повітря'. Згідно з новими правилами, відповідальність за повернення дотацій покладуть на недобросовісні компанії, а не на домогосподарства. Законопроект має бути прийнятий влітку 2026 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Законопроект може зменшити ризики для дистриб'юторів, які працюють з компаніями, що беруть участь у програмі. Рекомендується перевірити партнерів на добросовісність.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польський уряд готує закон для захисту отримувачів дотацій",
+    "summary": "Уряд Польщі планує ухвалити законопроект, що захистить власників будинків, які постраждали від програми 'Чисте повітря'. Згідно з новими правилами, відповідальність за повернення дотацій покладуть на недобросовісні компанії, а не на домогосподарства. Законопроект має бути прийнятий влітку 2026 року.",
+    "link": "https://www.money.pl/finanse/nie-beda-musieli-oddawac-dotacji-rzad-szykuje-specjalna-ustawe-7310823180880256a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1a6db3c7ce4",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/istanbul-airports-lead-europe-in-departure-punctuality-turkish-airlines-shares-top-spot-224738",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Istanbul airports lead Europe in departure punctuality, Turkish Airlines shares top spot",
+    "body_orig": "Istanbul’s two main airports ranked first and second in departure punctuality among Europe’s 20 busiest airports, while Turkish Airlines Group shared the top position among major carriers, according to EUROCONTROL data.",
+    "published": "2026-07-24T06:20:55",
+    "fetched": "2026-07-24T06:44:24.800784",
+    "title_uk": "Аеропорти Стамбула лідирують у пунктуальності в Європі",
+    "summary_uk": "Два головні аеропорти Стамбула зайняли перші два місця за пунктуальністю в Європі серед 20 найбільших аеропортів. Turkish Airlines Group поділила перше місце серед великих авіаперевізників, згідно з даними EUROCONTROL.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Пунктуальність аеропортів може покращити логістику для турецьких виробників, які постачають продукцію в Європу. Це може зменшити затримки у доставці.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Аеропорти Стамбула лідирують у пунктуальності в Європі",
+    "summary": "Два головні аеропорти Стамбула зайняли перші два місця за пунктуальністю в Європі серед 20 найбільших аеропортів. Turkish Airlines Group поділила перше місце серед великих авіаперевізників, згідно з даними EUROCONTROL.",
+    "link": "https://www.hurriyetdailynews.com/istanbul-airports-lead-europe-in-departure-punctuality-turkish-airlines-shares-top-spot-224738",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ed6d644a4012",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-jewelry-sector-targets-20-billion-in-exports-224737",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish jewelry sector targets $20 billion in exports",
+    "body_orig": "Türkiye’s jewelry industry has set a target of reaching $20 billion in exports, according to the Jewelry Exporters’ Association (MİB), as the sector seeks to reverse a sharp decline in overseas sales caused largely by restrictions on gold imports.",
+    "published": "2026-07-24T06:18:32",
+    "fetched": "2026-07-24T06:44:24.800793",
+    "title_uk": "Турецька ювелірна промисловість планує $20 млрд експорту",
+    "summary_uk": "Турецька ювелірна галузь ставить мету досягти $20 млрд експорту. Це рішення ухвалено Асоціацією експортерів ювелірних виробів (MİB) у відповідь на різке падіння продажів за кордоном через обмеження на імпорт золота.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії. Розширення експорту може стимулювати попит на нові колекції.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Турецька ювелірна промисловість планує $20 млрд експорту",
+    "summary": "Турецька ювелірна галузь ставить мету досягти $20 млрд експорту. Це рішення ухвалено Асоціацією експортерів ювелірних виробів (MİB) у відповідь на різке падіння продажів за кордоном через обмеження на імпорт золота.",
+    "link": "https://www.hurriyetdailynews.com/turkish-jewelry-sector-targets-20-billion-in-exports-224737",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "06ccddf64229",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/rent-growth-slows-to-lowest-level-in-58-months-224736",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Rent growth slows to lowest level in 58 months",
+    "body_orig": "The pace of rent increases in Türkiye slowed to its lowest level in 58 months in June, signaling a period of stabilization in the housing rental market after years of sharp growth, according to data from the Central Bank.",
+    "published": "2026-07-24T06:15:45",
+    "fetched": "2026-07-24T06:44:24.800801",
+    "title_uk": "Темпи зростання орендної плати в Туреччині сповільнилися до мінімуму",
+    "summary_uk": "У червні темпи зростання орендної плати в Туреччині досягли найнижчого рівня за 58 місяців. Це свідчить про стабілізацію ринку оренди житла після років різкого зростання. Дані надані Центральним банком Туреччини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Темпи зростання орендної плати в Туреччині сповільнилися до мінімуму",
+    "summary": "У червні темпи зростання орендної плати в Туреччині досягли найнижчого рівня за 58 місяців. Це свідчить про стабілізацію ринку оренди житла після років різкого зростання. Дані надані Центральним банком Туреччини.",
+    "link": "https://www.hurriyetdailynews.com/rent-growth-slows-to-lowest-level-in-58-months-224736",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "593fee61f3e9",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/world-bank-group-invests-in-turkiyes-power-grid-224735",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "World Bank Group invests in Türkiye’s power grid",
+    "body_orig": "The International Finance Corporation (IFC), the World Bank Group’s private-sector arm, is investing in Uludağ Enerji, a major electricity distribution and retail company serving northwestern Türkiye.",
+    "published": "2026-07-24T06:14:34",
+    "fetched": "2026-07-24T06:44:24.800809",
+    "title_uk": "Світовий банк інвестує в енергетичну інфраструктуру Туреччини",
+    "summary_uk": "Міжнародна фінансова корпорація (IFC) інвестує в Uludağ Enerji, провідну компанію з розподілу та роздрібної торгівлі електроенергією на північному заході Туреччини. Інвестиції сприятимуть модернізації енергетичної інфраструктури в регіоні. Конкретна сума інвестицій не розголошується.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Інвестиції IFC можуть покращити енергетичну інфраструктуру, що позитивно вплине на виробництво. Рекомендується слідкувати за змінами в енергетичному секторі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Світовий банк інвестує в енергетичну інфраструктуру Туреччини",
+    "summary": "Міжнародна фінансова корпорація (IFC) інвестує в Uludağ Enerji, провідну компанію з розподілу та роздрібної торгівлі електроенергією на північному заході Туреччини. Інвестиції сприятимуть модернізації енергетичної інфраструктури в регіоні. Конкретна сума інвестицій не розголошується.",
+    "link": "https://www.hurriyetdailynews.com/world-bank-group-invests-in-turkiyes-power-grid-224735",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb416bac10d2",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/new-us-tariffs-on-60-trade-partners-take-effect-over-forced-labor-violations/4007700",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "New US tariffs on 60 trade partners take effect over forced-labor violations",
+    "body_orig": "Duties of 10% to 12.5% replace expiring temporary global tariff",
+    "published": "2026-07-24T06:05:48",
+    "fetched": "2026-07-24T06:44:28.156239",
+    "title_uk": "Нові тарифи США на 60 торгових партнерів через порушення прав працівників",
+    "summary_uk": "США запроваджують нові мита на рівні 10-12,5% для 60 країн через порушення прав працівників. Ці тарифи замінюють тимчасове глобальне мито, яке закінчує свою дію. Очікується, що нові заходи вплинуть на міжнародну торгівлю.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Якщо ви експортуєте продукцію до США, будьте готові до підвищення витрат через нові мита. Це може зменшити вашу конкурентоспроможність на американському ринку.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "митниця",
+      "регуляція",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Нові тарифи США на 60 торгових партнерів через порушення прав працівників",
+    "summary": "США запроваджують нові мита на рівні 10-12,5% для 60 країн через порушення прав працівників. Ці тарифи замінюють тимчасове глобальне мито, яке закінчує свою дію. Очікується, що нові заходи вплинуть на міжнародну торгівлю.",
+    "link": "https://www.aa.com.tr/en/economy/new-us-tariffs-on-60-trade-partners-take-effect-over-forced-labor-violations/4007700",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c4a3ff048999",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/americas/us-targets-60-countries-with-tariffs-over-failure-to-curb-imports-of-goods-produced-with-forced-labor/4007624",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US targets 60 countries with tariffs over ‘failure’ to curb imports of goods produced with forced labor",
+    "body_orig": "Section 301 investigations result in 10% or 12.5% duties on partners accounting for 99.4% of US imports from investigated economies",
+    "published": "2026-07-23T22:18:48",
+    "fetched": "2026-07-24T06:44:28.156256",
+    "title_uk": "США запроваджують мита на 60 країн через примусову працю",
+    "summary_uk": "США розпочали розслідування, яке призвело до введення мит у 10% або 12.5% на товари з країн, що не обмежують імпорт продукції, виготовленої з використанням примусової праці. Ці країни становлять 99.4% імпорту США з розслідуваних економік. Нові тарифи можуть вплинути на міжнародну торгівлю.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Якщо плануєте постачання в США, враховуйте ризики, пов'язані з новими митами. Це може вплинути на вашу конкурентоспроможність.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "митниця",
+      "регуляція",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "США запроваджують мита на 60 країн через примусову працю",
+    "summary": "США розпочали розслідування, яке призвело до введення мит у 10% або 12.5% на товари з країн, що не обмежують імпорт продукції, виготовленої з використанням примусової праці. Ці країни становлять 99.4% імпорту США з розслідуваних економік. Нові тарифи можуть вплинути на міжнародну торгівлю.",
+    "link": "https://www.aa.com.tr/en/americas/us-targets-60-countries-with-tariffs-over-failure-to-curb-imports-of-goods-produced-with-forced-labor/4007624",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "70b34eb228f2",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/tranzactie-pe-piata-de-entertainment-grupul-baltic-plg-cumpara-platforma-de-ticketing-iabilet-resource-partners-iese-din-actionariat-dupa-doar-opt-luni-de-la-achizitia-pachetului-majoritar-23201993",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Tranzacţie pe piaţa de entertainment: Grupul baltic PLG cumpără platforma de ticketing iaBilet. Resource Partners iese din acţionariat după doar opt luni de la achiziţia pachetului majoritar",
+    "body_orig": "",
+    "published": "2026-07-24T06:08:41",
+    "fetched": "2026-07-24T06:44:31.972549",
+    "title_uk": "Baltic PLG купує платформу iaBilet, Resource Partners виходить з акціонерів",
+    "summary_uk": "Baltic Group PLG придбав платформу для продажу квитків iaBilet. Resource Partners, який володів контрольним пакетом акцій лише вісім місяців, виходить з акціонерів. Угода підтверджує зростаючий інтерес до ринку розваг у Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Baltic PLG купує платформу iaBilet, Resource Partners виходить з акціонерів",
+    "summary": "Baltic Group PLG придбав платформу для продажу квитків iaBilet. Resource Partners, який володів контрольним пакетом акцій лише вісім місяців, виходить з акціонерів. Угода підтверджує зростаючий інтерес до ринку розваг у Румунії.",
+    "link": "https://www.zf.ro/companii/tranzactie-pe-piata-de-entertainment-grupul-baltic-plg-cumpara-platforma-de-ticketing-iabilet-resource-partners-iese-din-actionariat-dupa-doar-opt-luni-de-la-achizitia-pachetului-majoritar-23201993",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05e494f0ad91",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/datoria-publica-a-crescut-cu-doar-2-mld-lei-in-aprilie-pana-la-60-2-din-pib-gratie-deficitului-bugetar-tinut-bine-in-frau-in-primele-patru-luni-din-an-datoria-publica-a-crescut-cu-34-mld-lei-23201597",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Datoria publică a crescut cu doar 2 mld. lei în aprilie, până la 60,2% din PIB, graţie deficitului bugetar ţinut bine în frâu. În primele patru luni din an, datoria publică a crescut cu 34 mld. lei",
+    "body_orig": "Datoria publică totală a s-a situat, în aprilie, la 60,2% din PIB, în creştere cu 0,1% din PIB faţă de martie, în condiţiile în care deficitul bugetar a fost, pe primele patru luni, de 1,17% din PIB (1,75% din PIB, la cinci luni).",
+    "published": "2026-07-24T06:00:00",
+    "fetched": "2026-07-24T06:44:31.972566",
+    "title_uk": "Державний борг Румунії зріс до 60,2% від ВВП у квітні",
+    "summary_uk": "У квітні державний борг Румунії становив 60,2% від ВВП, що на 0,1% більше, ніж у березні. За перші чотири місяці року борг зріс на 34 млрд леїв. Дефіцит бюджету за цей період склав 1,17% від ВВП.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Державний борг Румунії зріс до 60,2% від ВВП у квітні",
+    "summary": "У квітні державний борг Румунії становив 60,2% від ВВП, що на 0,1% більше, ніж у березні. За перші чотири місяці року борг зріс на 34 млрд леїв. Дефіцит бюджету за цей період склав 1,17% від ВВП.",
+    "link": "https://www.zf.ro/eveniment/datoria-publica-a-crescut-cu-doar-2-mld-lei-in-aprilie-pana-la-60-2-din-pib-gratie-deficitului-bugetar-tinut-bine-in-frau-in-primele-patru-luni-din-an-datoria-publica-a-crescut-cu-34-mld-lei-23201597",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "32b0543f30d5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-emisiunea-de-obligatiuni-de-5-mil-euro-listata-la-bursa-de-prefera-foods-a-fost-rambursata-integral-23201621",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Emisiunea de obligaţiuni de 5 mil. euro listată la bursă de Prefera Foods a fost rambursată integral",
+    "body_orig": "Prefera Foods, unul dintre cei mai mari jucători de pe piaţa conservelor din România, fondat de antreprenorul Raul Ciurtin, a efectuat pe 23 iulie plata principalului, în valoare brută de 500 de euro per instrument financiar, pre­cum şi a cuponului numărul 10 (în valoare brută de 18,5959 euro/titlu) aferent emisiunii de obligaţiuni corporative listate la Bursa de Valori Bucureşti.",
+    "published": "2026-07-24T06:00:00",
+    "fetched": "2026-07-24T06:44:31.972575",
+    "title_uk": "Prefera Foods повністю погасила облігації на €5 млн",
+    "summary_uk": "Prefera Foods, один з найбільших виробників консервації в Румунії, завершила виплату основної суми облігацій у розмірі €5 млн. Компанія 23 липня виплатила €500 за облігацію та купон у розмірі €18.60 за титул. Облігації були зареєстровані на Біржі в Бухаресті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Prefera Foods повністю погасила облігації на €5 млн",
+    "summary": "Prefera Foods, один з найбільших виробників консервації в Румунії, завершила виплату основної суми облігацій у розмірі €5 млн. Компанія 23 липня виплатила €500 за облігацію та купон у розмірі €18.60 за титул. Облігації були зареєстровані на Біржі в Бухаресті.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-emisiunea-de-obligatiuni-de-5-mil-euro-listata-la-bursa-de-prefera-foods-a-fost-rambursata-integral-23201621",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "797bc880ed85",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-liviu-gherghescu-cel-raspunde-analiza-tehnica-bcr-seed-starter-fondul-capital-risc-bancii-evaluarea-unui-start-up-ne-uitam-intai-oameni-apoi-cat-repede-creste-solutia-iti-sase-luni-23201544",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Liviu Gherghescu, cel care răspunde de analiza tehnică la BCR Seed Starter, fondul de capital de risc al băncii: La evaluarea unui start-up ne uităm întâi la oameni, apoi la cât de repede poate creşte soluţia - „dacă îţi trebuie şase luni ca să creşti, ai pierdut oportunitatea“",
+    "body_orig": "Înainte ca fondul de capital de risc al BCR să investească într-un start-up, fiecare companie trece printr-o ana­liză tehnică, iar aceasta nu pleacă de la tehnologie, ci de la oamenii din spatele ei. Abia apoi vin arhitectura soluţiei şi întrebarea care cântăreşte cel mai greu este cât de repede poate creşte produsul dacă mâine ar avea de zece ori mai mulţi clienţi.",
+    "published": "2026-07-24T05:00:00",
+    "fetched": "2026-07-24T06:44:31.972594",
+    "title_uk": "BCR Seed Starter оцінює стартапи за командою та швидкістю зростання",
+    "summary_uk": "BCR Seed Starter проводить технічний аналіз стартапів, акцентуючи увагу на команді, а не лише на технології. Основна увага приділяється швидкості зростання продукту в разі збільшення клієнтської бази. Якщо стартапу потрібно шість місяців для зростання, це вважається втратою можливості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BCR Seed Starter оцінює стартапи за командою та швидкістю зростання",
+    "summary": "BCR Seed Starter проводить технічний аналіз стартапів, акцентуючи увагу на команді, а не лише на технології. Основна увага приділяється швидкості зростання продукту в разі збільшення клієнтської бази. Якщо стартапу потрібно шість місяців для зростання, це вважається втратою можливості.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-liviu-gherghescu-cel-raspunde-analiza-tehnica-bcr-seed-starter-fondul-capital-risc-bancii-evaluarea-unui-start-up-ne-uitam-intai-oameni-apoi-cat-repede-creste-solutia-iti-sase-luni-23201544",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bed95cafd876",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/techday/zf-tech-day-ionut-gherle-cofondator-ceo-alpha-by-zendra-start-up-securitate-cibernetica-raport-test-securitate-facut-acum-11-luni-spune-nimic-stai-azi-situatia-ancpi-arata-securitatea-devenit-risc-23198885",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Tech Day. Ionuţ Gherle, cofondator şi CEO al Alpha by Zendra, start-up de securitate cibernetică: Un raport de test de securitate făcut acum 11 luni nu mai spune nimic despre cum stai azi. Situaţia de la ANCPI arată că securitatea a devenit un risc de business, care nu se mai poate lăsa doar în seama echipei IT",
+    "body_orig": "Modelul în care o companie îşi verifică securitatea o dată pe an şi consideră apoi că e protejată nu mai ţine pasul cu ritmul atacurilor, iar imaginea rezultată dintr-un test de penetrare expiră, în practică, în două săptămâni. „Dacă, poate, acum câţiva ani securitatea cibernetică era doar pentru com­paniile mari, enterprise (...), în momen­tul de faţă (...) nu mai putem să ne aşteptăm că ne verificăm o dată pe an sau de două ori pe an şi credem că suntem bine. Pentru că există o dinamică atât de mare în tot ceea ce înseamnă orizontul IT, adică infrastructură, web. (...) Toţi atacatorii, în momentul de faţă, utilizează AI“, a declarat Ionuţ Gherle, cofondator şi CEO al Alpha by Zendra, un start-up de securitate ciberne­tică din Cluj-Napoca, în cadrul emisiunii ZF Tech Day, realizată în parteneriat cu Orange Business.",
+    "published": "2026-07-23T21:07:00",
+    "fetched": "2026-07-24T06:44:31.972612",
+    "title_uk": "Секрети кібербезпеки: компанії повинні перевіряти захист частіше",
+    "summary_uk": "Ionuţ Gherle, CEO Alpha by Zendra, наголосив, що річна перевірка безпеки вже не є достатньою. Тестування безпеки втрачає актуальність через два тижні, оскільки зловмисники активно використовують штучний інтелект. Ситуація в ANCPI підкреслює, що кібербезпека стала бізнес-ризиком.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Компаніям варто переглянути частоту перевірок безпеки, щоб уникнути ризиків. Рекомендується впровадити регулярні тестування для захисту даних."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Секрети кібербезпеки: компанії повинні перевіряти захист частіше",
+    "summary": "Ionuţ Gherle, CEO Alpha by Zendra, наголосив, що річна перевірка безпеки вже не є достатньою. Тестування безпеки втрачає актуальність через два тижні, оскільки зловмисники активно використовують штучний інтелект. Ситуація в ANCPI підкреслює, що кібербезпека стала бізнес-ризиком.",
+    "link": "https://www.zf.ro/techday/zf-tech-day-ionut-gherle-cofondator-ceo-alpha-by-zendra-start-up-securitate-cibernetica-raport-test-securitate-facut-acum-11-luni-spune-nimic-stai-azi-situatia-ancpi-arata-securitatea-devenit-risc-23198885",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a5e215e0eef7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-mobility/zf-mobility-un-proiect-zf-si-autonom-bogdan-apahidean-fleet-management-consulting-flotele-se-uita-la-hibride-dar-pentru-ca-electricele-sa-prinda-teren-avem-nevoie-de-mai-multe-statii-de-incarcare-23200634",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Mobility, un proiect ZF şi Autonom. Bogdan Apahidean, Fleet Management Consulting: Flotele se uită la hibride, dar pentru ca electricele să prindă teren avem nevoie de mai multe staţii de încărcare",
+    "body_orig": "Companiile cu flote se uită tot mai atent la motorizările hibride, însă pentru ca maşi­nile electrice să prin­dă cu adevărat teren în par­curile auto ale firmelor este ne­voie în primul rând de infrastruc­tură de încărcare, iar comparaţia cu Ţările de Jos arată distanţa pe care România o are de recuperat, spune Bogdan Apahidean, managing partner al Fleet Management Consulting, unul dintre pionierii pieţei locale de leasing opera­ţional, în cadrul emisiunii ZF Mobility, realizată de Ziarul Financiar în parteneriat cu Autonom.",
+    "published": "2026-07-23T21:07:00",
+    "fetched": "2026-07-24T06:44:31.972621",
+    "title_uk": "Компанії з флотами переходять на гібридні авто через брак інфраструктури",
+    "summary_uk": "Фірми все більше цікавляться гібридними автомобілями, але для успішного впровадження електромобілів потрібна розвинута інфраструктура зарядних станцій. За словами Богдана Апахідена, для порівняння, Румунія відстає від Нідерландів у цій сфері. Це питання обговорювалося в програмі ZF Mobility.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Компанії з флотами переходять на гібридні авто через брак інфраструктури",
+    "summary": "Фірми все більше цікавляться гібридними автомобілями, але для успішного впровадження електромобілів потрібна розвинута інфраструктура зарядних станцій. За словами Богдана Апахідена, для порівняння, Румунія відстає від Нідерландів у цій сфері. Це питання обговорювалося в програмі ZF Mobility.",
+    "link": "https://www.zf.ro/zf-mobility/zf-mobility-un-proiect-zf-si-autonom-bogdan-apahidean-fleet-management-consulting-flotele-se-uita-la-hibride-dar-pentru-ca-electricele-sa-prinda-teren-avem-nevoie-de-mai-multe-statii-de-incarcare-23200634",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f5719797b337",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/iabilet-s-a-vandit-din-nou-noul-proprietar-este-grupul-plg_962077.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "iaBilet s-a vândut din nou. Grupul PLG este noul proprietar",
+    "body_orig": "Grupul PLG, unul dintre grupurile de ticketing din regiunea Baltică și Europa Centrală, a semnat un acord pentru achiziția iaBilet, o platformă de ticketing consacrată din România, de la Resource Partners, unul dintre cele mai mari fonduri de private equity din Europa Centrală și de Est, alături de fondatorii companiei, care vor rămâne implicați în business și sunt așteptați să contribuie în continuare la dezvoltarea acestuia, inclusiv la nivel de board, arată un comunicat de presă.",
+    "published": "2026-07-24T05:49:03",
+    "fetched": "2026-07-24T06:44:36.160446",
+    "title_uk": "Grup PLG придбав платформу iaBilet в Румунії",
+    "summary_uk": "Grup PLG підписав угоду про купівлю iaBilet, румунської платформи для продажу квитків, у Resource Partners. Засновники компанії залишаться залученими до бізнесу. Угода посилює позиції PLG на ринку квитків в Центральній та Східній Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Grup PLG придбав платформу iaBilet в Румунії",
+    "summary": "Grup PLG підписав угоду про купівлю iaBilet, румунської платформи для продажу квитків, у Resource Partners. Засновники компанії залишаться залученими до бізнесу. Угода посилює позиції PLG на ринку квитків в Центральній та Східній Європі.",
+    "link": "https://www.economica.net/iabilet-s-a-vandit-din-nou-noul-proprietar-este-grupul-plg_962077.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7f7df87b1046",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noua-scumpire-a-carburantilor-azi-dimineata-benzina-a-sarit-pragul-de-9-lei-pe-litrru-motorina-sa-apropie-rapid-de-10-lei_962064.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Nouă scumpire a carburanților azi dimineață. Benzina a sărit pragul de 9 lei pe litru, motorina se apropie rapid de 10 lei",
+    "body_orig": "OMV Petrom, liderul pieței de distribuție a carburanților, a majorat azi semnificativ prețurile în benzinării, astfel că benzina a sărit de 9 lei pe litru, iar motorina se apropie tot mai mult de pragul de 10 lei pe litru.",
+    "published": "2026-07-24T05:07:03",
+    "fetched": "2026-07-24T06:44:36.160477",
+    "title_uk": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary_uk": "OMV Petrom підвищив ціни на паливо, бензин перевищив 9 грн за літр, а дизель наближається до 10 грн. Це значне підвищення вплине на витрати споживачів та бізнесу в країні.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в Румунії може вплинути на вартість логістики для українських імпортерів, які працюють з румунськими постачальниками.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на паливо може призвести до підвищення витрат на доставку товарів, що варто врахувати при плануванні цінової політики."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary": "OMV Petrom підвищив ціни на паливо, бензин перевищив 9 грн за літр, а дизель наближається до 10 грн. Це значне підвищення вплине на витрати споживачів та бізнесу в країні.",
+    "link": "https://www.economica.net/noua-scumpire-a-carburantilor-azi-dimineata-benzina-a-sarit-pragul-de-9-lei-pe-litrru-motorina-sa-apropie-rapid-de-10-lei_962064.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "482d48c195e8",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/media-marketing/plg-group-signs-agreement-to-acquire-romanian-ticketing-platform-iabilet-298789",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "PLG Group signs agreement to acquire Romanian ticketing platform iaBilet",
+    "body_orig": "PLG Group has signed an agreement to acquire Romanian ticketing platform iaBilet from private equity firm Resource Partners and the company’s founders. The transaction was signed on May 20 and remains subject to customary closing conditions and regulatory approvals. iaBilet’s founders will remain involved in the business and are expected to continue contributing to its [&#8230;]\nThe post PLG Group signs agreement to acquire Romanian ticketing platform iaBilet appeared first on Business Review.",
+    "published": "2026-07-24T06:07:11",
+    "fetched": "2026-07-24T06:44:39.310184",
+    "title_uk": "PLG Group купує румунську платформу iaBilet",
+    "summary_uk": "PLG Group підписала угоду на придбання румунської платформи iaBilet у Resource Partners та засновників компанії. Угода була підписана 20 травня і потребує звичних умов закриття та регуляторних схвалень. Засновники iaBilet залишаться залученими в бізнес.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "PLG Group купує румунську платформу iaBilet",
+    "summary": "PLG Group підписала угоду на придбання румунської платформи iaBilet у Resource Partners та засновників компанії. Угода була підписана 20 травня і потребує звичних умов закриття та регуляторних схвалень. Засновники iaBilet залишаться залученими в бізнес.",
+    "link": "https://business-review.eu/business/media-marketing/plg-group-signs-agreement-to-acquire-romanian-ticketing-platform-iabilet-298789",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c3022e85bb28",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant weeds",
+    "body_orig": "Moa Technology (Moa), an Oxford-based agricultural BioTech company tackling weed resistance to herbicides, has raised a €25.9 million (£22.2 million) Series C financing round.  The round was co-led by Oxford Science Enterprises and Supernova Invest. New investors in Moa are Agri Investment Fund; GrainInnovate, a fund investing on behalf of the Grain Research Development Corporation [&#8230;]\nThe post Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant weeds appeared first on EU-Startups.",
+    "published": "2026-07-24T06:28:23",
+    "fetched": "2026-07-24T06:44:06.108294",
+    "title_uk": "Moa Technology залучила €26 млн для боротьби з гербіцидостійкими бур'янами",
+    "summary_uk": "Британська компанія Moa Technology залучила €25.9 млн у раунді фінансування Series C. Інвестиції очолили Oxford Science Enterprises та Supernova Invest. Нові інвестори включають Agri Investment Fund та GrainInnovate.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Moa Technology залучила €26 млн для боротьби з гербіцидостійкими бур'янами",
+    "summary": "Британська компанія Moa Technology залучила €25.9 млн у раунді фінансування Series C. Інвестиції очолили Oxford Science Enterprises та Supernova Invest. Нові інвестори включають Agri Investment Fund та GrainInnovate.",
+    "link": "https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d2be6fd3d719",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/zakrivajetsya-odna-z-naividomisix-kriptobirz-u-sviti-shho-stalosya-vr1n5n",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Закривається одна з найвідоміших криптобірж у світі: що сталося",
+    "body_orig": "Криптовалютна біржа BitMEX оголосила про повне припинення роботи. Компанія закриє платформу 23 вересня 2026 року після стратегічного перегляду свого бізнесу.",
+    "published": "2026-07-24T06:15:03",
+    "fetched": "2026-07-24T06:44:18.729142",
+    "title_uk": "Криптобіржа BitMEX закривається у 2026 році",
+    "summary_uk": "BitMEX оголосила про закриття своєї платформи 23 вересня 2026 року. Це рішення стало результатом стратегічного перегляду бізнесу компанії. BitMEX була однією з найбільших криптобірж у світі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Криптобіржа BitMEX закривається у 2026 році",
+    "summary": "BitMEX оголосила про закриття своєї платформи 23 вересня 2026 року. Це рішення стало результатом стратегічного перегляду бізнесу компанії. BitMEX була однією з найбільших криптобірж у світі.",
+    "link": "https://speka.ua/news/zakrivajetsya-odna-z-naividomisix-kriptobirz-u-sviti-shho-stalosya-vr1n5n",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eb148f6633cb",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/novyny-magazyniv-tekhniky-novi-lokatciyi-fokstrot-ta-allo-tcytrus-povernuv-sobi-domen-vidnovlennia-moyo-ta-inshe/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Новини магазинів техніки: Фокстрот, Алло, Цитрус, Samsung, Dreame та інші",
+    "body_orig": "Фокстрот і Алло запрацювали у ТРЦ Ареал Плаза, Breezy запускає першу в Україні аукціонну платформу, Цитрус повернув собі домен citrus.ua та планує вийти у новий сегмент, а Samsung і Dreame розширили мережі фірмових магазинів у Луцьку та Києві та інші новини в сегменті техніки та електроніки.\nВідкрит…",
+    "published": "2026-07-24T02:55:17",
+    "fetched": "2026-07-24T06:44:41.478706",
+    "title_uk": "Фокстрот і Алло відкрили нові магазини в ТРЦ Ареал Плаза",
+    "summary_uk": "Фокстрот і Алло запустили свої магазини в ТРЦ Ареал Плаза. Breezy представила першу аукціонну платформу в Україні. Цитрус повернув домен citrus.ua і планує вихід у новий сегмент. Samsung і Dreame розширили мережі магазинів у Луцьку та Києві.",
+    "what_it_means": {
+      "ua_importer": "Відкриття нових магазинів може збільшити попит на техніку, тому імпортерам варто переглянути свої запаси та плани поставок.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розширення мережі магазинів може вплинути на конкуренцію в категорії техніки. Рекомендується переглянути асортимент і стратегії промоцій."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Фокстрот і Алло відкрили нові магазини в ТРЦ Ареал Плаза",
+    "summary": "Фокстрот і Алло запустили свої магазини в ТРЦ Ареал Плаза. Breezy представила першу аукціонну платформу в Україні. Цитрус повернув домен citrus.ua і планує вихід у новий сегмент. Samsung і Dreame розширили мережі магазинів у Луцьку та Києві.",
+    "link": "https://rau.ua/news/novyny-magazyniv-tekhniky-novi-lokatciyi-fokstrot-ta-allo-tcytrus-povernuv-sobi-domen-vidnovlennia-moyo-ta-inshe/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
