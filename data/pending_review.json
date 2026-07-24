@@ -147876,5 +147876,1881 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "e39950da50fc",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/eu-trade-truce-holds-despite-new-us-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU signals relief over new US tariffs as Trump respects transatlantic truce",
+    "body_orig": "A 10 percent duty will be applied on goods from the EU, respecting a threshold set under the EU-U.S. trade deal last year.",
+    "published": "2026-07-24T09:27:51",
+    "fetched": "2026-07-24T17:37:21.473228",
+    "title_uk": "ЄС вітає нові мита США на товари з ЄС",
+    "summary_uk": "США запроваджують 10% мито на товари з ЄС, дотримуючись угоди про торгівлю, укладеної минулого року. Це рішення може вплинути на обсяги експорту з ЄС до США. Європейські країни сподіваються на стабільність у торгових відносинах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС вітає нові мита США на товари з ЄС",
+    "summary": "США запроваджують 10% мито на товари з ЄС, дотримуючись угоди про торгівлю, укладеної минулого року. Це рішення може вплинути на обсяги експорту з ЄС до США. Європейські країни сподіваються на стабільність у торгових відносинах.",
+    "link": "https://www.politico.eu/article/eu-trade-truce-holds-despite-new-us-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "371d7bb205e4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wysokie-ceny-blekitnego-paliwa-i-problemy-z-jego-dostepnoscia-moga-zaburzyc-rynek-ciepla-zima-9172444.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Problemy z zatłaczaniem gazu do magazynów mogą wpłynąć na rynek ciepła zimą",
+    "body_orig": "Europejskie magazyny gazu mogą nie być zapełnione przed zimą nawet w 80 proc. - ostrzega dr Andrzej Sikora, prezes Instytutu Studiów Energetycznych, wskazując, że Norwegowie już dziś sygnalizują, że nie są w stanie zwiększyć wydobycia i dostarczyć na kontynent więcej surowca.",
+    "published": "2026-07-24T13:00:00",
+    "fetched": "2026-07-24T17:37:25.431507",
+    "title_uk": "Проблеми з заповненням газових сховищ можуть вплинути на ринок тепла",
+    "summary_uk": "Європейські газові сховища можуть бути заповнені лише на 80% до зими. Це пов'язано з тим, що Норвегія не може збільшити видобуток газу. Експерти попереджають про можливі проблеми з постачанням енергії в холодні місяці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження обсягів газу може призвести до підвищення цін на тепло в Польщі, що вплине на витрати дистриб'юторів у секторі HoReCa.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Проблеми з постачанням газу можуть призвести до підвищення цін на енергію, що вплине на витрати в категоріях, пов'язаних з опаленням."
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Проблеми з заповненням газових сховищ можуть вплинути на ринок тепла",
+    "summary": "Європейські газові сховища можуть бути заповнені лише на 80% до зими. Це пов'язано з тим, що Норвегія не може збільшити видобуток газу. Експерти попереджають про можливі проблеми з постачанням енергії в холодні місяці.",
+    "link": "https://www.bankier.pl/wiadomosc/Wysokie-ceny-blekitnego-paliwa-i-problemy-z-jego-dostepnoscia-moga-zaburzyc-rynek-ciepla-zima-9172444.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f81945393bf8",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/port-gdynia-przyjal-rekordowy-kontenerowiec-msc-venice-robi-wrazenie/frvqdbb",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Takiego kontenerowca w porcie w Gdyni jeszcze nie było. Gigant dalej popłynie do Azji",
+    "body_orig": "MSC Venice na kilka dni przypłynął do Gdyni. Ma 399 m długości i 54 m szerokości. \"Rozwój polskich portów ma bezpośrednie znaczenie dla konkurencyjności gospodarki i bezpieczeństwa łańcuchów dostaw\" — skomentował Arkadiusz Marchewska, sekretarz stanu w Ministerstwie Infrastruktury.",
+    "published": "2026-07-24T17:13:18",
+    "fetched": "2026-07-24T17:37:26.694873",
+    "title_uk": "У Гдині пришвартувався найбільший контейнеровоз MSC Venice",
+    "summary_uk": "Контейнеровоз MSC Venice, довжиною 399 м і шириною 54 м, прибув до порту Гдині. Це підкреслює розвиток польських портів, що вплине на конкурентоспроможність економіки та безпеку ланцюгів постачання. Міністр інфраструктури Польщі Аркадіуш Марчевський зазначив важливість цього розвитку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Збільшення обсягу контейнерних перевезень може знизити витрати на логістику для дистриб'юторів у Польщі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "У Гдині пришвартувався найбільший контейнеровоз MSC Venice",
+    "summary": "Контейнеровоз MSC Venice, довжиною 399 м і шириною 54 м, прибув до порту Гдині. Це підкреслює розвиток польських портів, що вплине на конкурентоспроможність економіки та безпеку ланцюгів постачання. Міністр інфраструктури Польщі Аркадіуш Марчевський зазначив важливість цього розвитку.",
+    "link": "https://businessinsider.com.pl/gospodarka/port-gdynia-przyjal-rekordowy-kontenerowiec-msc-venice-robi-wrazenie/frvqdbb",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "83f67b07bae0",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/vigo-photonics-na-czarnej-liscie-chin-spolka-komentuje-i-uspokaja/8cf790d",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska spółka znalazła się na \"czarnej liście\" Chin. Wskazała konsekwencje",
+    "body_orig": "\"Decyzja Ministerstwa Handlu Chin nie będzie miała krytycznego znaczenia\" — zapewnia zarząd Vigo Photonics. Przyznaje jednak, że może mieć wpływ na działalność firmy w segmencie materiałów półprzewodnikowych.",
+    "published": "2026-07-24T15:28:52",
+    "fetched": "2026-07-24T17:37:26.694911",
+    "title_uk": "Польська компанія Vigo Photonics на ",
+    "summary_uk": "Китайське Міністерство торгівлі внесло Vigo Photonics до ",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польська компанія Vigo Photonics на ",
+    "summary": "Китайське Міністерство торгівлі внесло Vigo Photonics до ",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/vigo-photonics-na-czarnej-liscie-chin-spolka-komentuje-i-uspokaja/8cf790d",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a689a72933e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/nawrocki-kieruje-ustawe-do-trybunalu-inwestorzy-orlenu-reaguja/ss2qhtb",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zaskakująca reakcja giełdy na decyzję prezydenta. Zmiany notowań Orlenu i Unimotu",
+    "body_orig": "Prezydent Karol Nawrocki nie podpisał ustawy o nadzwyczajnych zyskach firm paliwowych, skierował ją do Trybunału Konstytucyjnego. To teoretycznie dobra wiadomość dla firm takich jak Orlen czy Unimot. Okazało się jednak, że ich akcje wcale nie poszły w górę.",
+    "published": "2026-07-24T14:55:19",
+    "fetched": "2026-07-24T17:37:26.694921",
+    "title_uk": "Реакція ринку на рішення президента Польщі щодо Orlen і Unimot",
+    "summary_uk": "Президент Польщі не підписав закон про надзвичайні прибутки для компаній у паливному секторі, направивши його до Конституційного суду. Це могло б позитивно вплинути на акції Orlen та Unimot, але їхні котирування не зросли. Інвестори очікували кращих новин.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно стежити за змінами в законодавстві, оскільки це може вплинути на ринок пального та ціни на паливні продукти.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Реакція ринку на рішення президента Польщі щодо Orlen і Unimot",
+    "summary": "Президент Польщі не підписав закон про надзвичайні прибутки для компаній у паливному секторі, направивши його до Конституційного суду. Це могло б позитивно вплинути на акції Orlen та Unimot, але їхні котирування не зросли. Інвестори очікували кращих новин.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/nawrocki-kieruje-ustawe-do-trybunalu-inwestorzy-orlenu-reaguja/ss2qhtb",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b5482bcfd5de",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/polskie-firmy-na-granicy-mozliwosci-branza-farmaceutyczna-z-rekordem-historycznym/tce8vef",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Padły wieloletnie, a nawet historyczne rekordy. Potencjał polskich firm coraz lepiej wykorzystywany",
+    "body_orig": "Przeciętne wykorzystanie mocy produkcyjnych w polskim przemyśle wyniosło w lipcu 78,7 proc., a w budownictwie aż 83,9 proc. To wieloletnie rekordy — wynika z badania przeprowadzonego przez GUS. W jednej z branż padł nawet rekord historyczny.",
+    "published": "2026-07-24T13:46:14",
+    "fetched": "2026-07-24T17:37:26.694949",
+    "title_uk": "Польські підприємства досягають рекордного використання потужностей",
+    "summary_uk": "У липні середнє використання виробничих потужностей у польській промисловості становило 79%, а в будівництві — 84%. Це найвищі показники за багато років, згідно з даними Головного статистичного управління Польщі. В одній з галузей зафіксовано історичний рекорд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання використання потужностей може свідчити про підвищений попит на продукцію. Дистриб'ютори повинні бути готові до збільшення замовлень.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання виробництв може означати більшу конкуренцію за полиці. Рекомендується переглянути асортимент і стратегії закупівель для адаптації до змін на ринку."
+    },
+    "tags": [
+      "виробництво",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські підприємства досягають рекордного використання потужностей",
+    "summary": "У липні середнє використання виробничих потужностей у польській промисловості становило 79%, а в будівництві — 84%. Це найвищі показники за багато років, згідно з даними Головного статистичного управління Польщі. В одній з галузей зафіксовано історичний рекорд.",
+    "link": "https://businessinsider.com.pl/gospodarka/polskie-firmy-na-granicy-mozliwosci-branza-farmaceutyczna-z-rekordem-historycznym/tce8vef",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6646ba981478",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/noblista-swiat-placi-dzis-za-rope-jak-przy-140-dol-za-barylke-7310963203856736a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Noblista: świat płaci dziś za ropę jak przy 140 dol. za baryłkę",
+    "body_orig": "Realny koszt paliwa na globalnym rynku odpowiada dziś cenie ropy na poziomie ok. 140 dol. za baryłkę – ocenia prof. Paul Krugman, laureat ekonomicznego Nobla. Ekonomista wiąże to z eskalacją wojny USA z Iranem oraz ograniczeniami w rafinacji, które podbijają ceny produktów naftowych.",
+    "published": "2026-07-24T14:44:31",
+    "fetched": "2026-07-24T17:37:29.390092",
+    "title_uk": "Костюми нафти: ціна на паливо відповідає $140 за барель",
+    "summary_uk": "Професор Пол Кругман оцінює, що реальна вартість пального на глобальному ринку відповідає ціні нафти близько $140 за барель. Це пов'язано з ескалацією конфлікту США з Іраном та обмеженнями в рафінуванні, що підвищує ціни на нафтові продукти.",
+    "what_it_means": {
+      "ua_importer": "Це може призвести до підвищення цін на імпортовані нафтопродукти в Україні. Імпортерам слід переглянути свої ціни та контракти.",
+      "pl_distributor": "Польські дистриб'ютори можуть очікувати зростання цін на нафтопродукти, що вплине на витрати в HoReCa та FMCG.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на нафтопродукти може вплинути на собівартість товарів у категоріях, пов'язаних з енергетичними витратами. Рекомендується переглянути плани на Q4."
+    },
+    "tags": [
+      "ціни-сировина",
+      "імпорт",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Костюми нафти: ціна на паливо відповідає $140 за барель",
+    "summary": "Професор Пол Кругман оцінює, що реальна вартість пального на глобальному ринку відповідає ціні нафти близько $140 за барель. Це пов'язано з ескалацією конфлікту США з Іраном та обмеженнями в рафінуванні, що підвищує ціни на нафтові продукти.",
+    "link": "https://www.money.pl/gospodarka/noblista-swiat-placi-dzis-za-rope-jak-przy-140-dol-za-barylke-7310963203856736a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4153937f12aa",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/chiny-ruszyly-po-zloto-takiej-sytuacji-nie-bylo-od-dwoch-lat-7310838278293888a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Chiny ruszyły po złoto. Takiej sytuacji nie było od dwóch lat",
+    "body_orig": "Spadek ceny złota o ponad 10 proc. zachęcił Chiny do największych zakupów od dwóch lat. W czerwcu do kraju sprowadzono 173 tony kruszcu. Import rósł trzeci miesiąc z rzędu, a popyt napędzały banki, inwestorzy detaliczni i fundusze ETF. Pomogło też umocnienie juana - informuje \"Puls Biznesu\".",
+    "published": "2026-07-24T06:54:12",
+    "fetched": "2026-07-24T17:37:29.390122",
+    "title_uk": "Китай збільшує імпорт золота на фоні падіння цін",
+    "summary_uk": "Китай імпортував 173 тонни золота в червні, що є найбільшим показником за два роки. Зростання імпорту триває третій місяць поспіль, підживлюючи попит з боку банків, роздрібних інвесторів та фондів ETF. Зміцнення юаня також сприяло цьому процесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "імпорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Китай збільшує імпорт золота на фоні падіння цін",
+    "summary": "Китай імпортував 173 тонни золота в червні, що є найбільшим показником за два роки. Зростання імпорту триває третій місяць поспіль, підживлюючи попит з боку банків, роздрібних інвесторів та фондів ETF. Зміцнення юаня також сприяло цьому процесу.",
+    "link": "https://www.money.pl/gospodarka/chiny-ruszyly-po-zloto-takiej-sytuacji-nie-bylo-od-dwoch-lat-7310838278293888a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d35cc644a5a4",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/rosatom-says-akkuyu-plant-enters-final-pre-start-phase-224762",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Rosatom says Akkuyu plant enters final pre-start phase",
+    "body_orig": "Russia’s state nuclear energy corporation Rosatom said on July 24 that commissioning work at Türkiye’s first nuclear power plant is only months away, signaling that the long-delayed project is entering its final phase before the first reactor begins commercial operations.",
+    "published": "2026-07-24T12:08:11",
+    "fetched": "2026-07-24T17:38:16.003003",
+    "title_uk": "Росатом повідомляє про завершення підготовки до запуску АЕС в Туреччині",
+    "summary_uk": "Російська корпорація Росатом оголосила, що запуск першої атомної електростанції в Туреччині наближається. Завершення підготовчих робіт очікується вже через кілька місяців. Проект, який затримувався, переходить до фінальної стадії перед комерційною експлуатацією першого реактора.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Проект може створити нові можливості для турецьких виробників енергетичного обладнання, які можуть шукати партнерів в Україні, Польщі чи Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Росатом повідомляє про завершення підготовки до запуску АЕС в Туреччині",
+    "summary": "Російська корпорація Росатом оголосила, що запуск першої атомної електростанції в Туреччині наближається. Завершення підготовчих робіт очікується вже через кілька місяців. Проект, який затримувався, переходить до фінальної стадії перед комерційною експлуатацією першого реактора.",
+    "link": "https://www.hurriyetdailynews.com/rosatom-says-akkuyu-plant-enters-final-pre-start-phase-224762",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5cd0efa86a8",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-solar-power-generation-hits-all-time-high-in-june-224750",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s solar power generation hits all-time high in June",
+    "body_orig": "Türkiye’s electricity generation from solar power reached an all-time high of 4.99 billion kilowatt-hours (kWh) in June, the Energy and Natural Resources Ministry said on July 24, as longer sunshine hours boosted renewable power output.",
+    "published": "2026-07-24T08:37:23",
+    "fetched": "2026-07-24T17:38:16.003016",
+    "title_uk": "Туреччина досягла рекорду в генерації сонячної енергії в червні",
+    "summary_uk": "У червні Туреччина виробила 4.99 млрд кВт·год електроенергії з сонця, що є рекордом. Міністерство енергетики зазначило, що тривалі години сонячного світла сприяли зростанню виробництва відновлювальної енергії. Це свідчить про зростаючу роль сонячної енергії в енергетичному балансі країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, адже зростання виробництва сонячної енергії може знизити витрати на електрику.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина досягла рекорду в генерації сонячної енергії в червні",
+    "summary": "У червні Туреччина виробила 4.99 млрд кВт·год електроенергії з сонця, що є рекордом. Міністерство енергетики зазначило, що тривалі години сонячного світла сприяли зростанню виробництва відновлювальної енергії. Це свідчить про зростаючу роль сонячної енергії в енергетичному балансі країни.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-solar-power-generation-hits-all-time-high-in-june-224750",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fb8c62b3bb49",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/households-inflation-expectations-improve-in-july-224749",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Households’ inflation expectations improve in July",
+    "body_orig": "The 12-month-ahead annual inflation expectations of households decreased by 1.19 percentage points to 44.94 percent in July compared to the previous month, a Central Bank survey showed on July 24.",
+    "published": "2026-07-24T08:35:00",
+    "fetched": "2026-07-24T17:38:16.003026",
+    "title_uk": "Очікування інфляції домогосподарств у Туреччині покращились у липні",
+    "summary_uk": "За даними опитування Центрального банку, очікування річної інфляції домогосподарств знизились на 1.19 п.п. до 44.94% у липні. Це свідчить про покращення споживчих настроїв. Зниження відбулось у порівнянні з попереднім місяцем.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Покращення очікувань інфляції може свідчити про стабілізацію економіки. Це може полегшити вихід на нові ринки в Україні, Польщі чи Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Очікування інфляції домогосподарств у Туреччині покращились у липні",
+    "summary": "За даними опитування Центрального банку, очікування річної інфляції домогосподарств знизились на 1.19 п.п. до 44.94% у липні. Це свідчить про покращення споживчих настроїв. Зниження відбулось у порівнянні з попереднім місяцем.",
+    "link": "https://www.hurriyetdailynews.com/households-inflation-expectations-improve-in-july-224749",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "879cdf246cfb",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/eurozone-business-activity-returns-to-growth-in-july-224746",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Eurozone business activity returns to growth in July",
+    "body_orig": "Business activity in the eurozone returned to growth in July, a key survey showed Friday, rising for the first time in four months.",
+    "published": "2026-07-24T08:13:52",
+    "fetched": "2026-07-24T17:38:16.003036",
+    "title_uk": "Ділова активність в єврозоні зросла в липні вперше за 4 місяці",
+    "summary_uk": "Дослідження показало, що ділова активність в єврозоні зросла в липні, вперше за останні чотири місяці. Це свідчить про відновлення економічної активності в регіоні. Зростання може позитивно вплинути на бізнес-середовище.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання ділової активності в єврозоні може відкрити нові можливості для турецьких виробників на європейських ринках. Рекомендується моніторити попит на продукцію.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ділова активність в єврозоні зросла в липні вперше за 4 місяці",
+    "summary": "Дослідження показало, що ділова активність в єврозоні зросла в липні, вперше за останні чотири місяці. Це свідчить про відновлення економічної активності в регіоні. Зростання може позитивно вплинути на бізнес-середовище.",
+    "link": "https://www.hurriyetdailynews.com/eurozone-business-activity-returns-to-growth-in-july-224746",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "84ce6fdaec03",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/us-unveils-new-tariffs-on-60-partners-224742",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US unveils new tariffs on 60 partners",
+    "body_orig": "The United States said that it would impose new tariffs on 60 trading partners over forced labor concerns, replacing an expiring global duty rolled out by President Donald Trump earlier this year.",
+    "published": "2026-07-24T06:44:00",
+    "fetched": "2026-07-24T17:38:16.003065",
+    "title_uk": "США вводять нові тарифи на 60 торгових партнерів через примусову працю",
+    "summary_uk": "Сполучені Штати оголосили про введення нових тарифів на 60 торгових партнерів через занепокоєння щодо примусової праці. Ці тарифи замінять глобальний обов'язок, запроваджений президентом Дональдом Трампом раніше цього року. Конкретні ставки тарифів не були оголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може ускладнити експорт до США для турецьких виробників, які використовують дешеву робочу силу. Рекомендується переглянути ланцюги постачання.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "США вводять нові тарифи на 60 торгових партнерів через примусову працю",
+    "summary": "Сполучені Штати оголосили про введення нових тарифів на 60 торгових партнерів через занепокоєння щодо примусової праці. Ці тарифи замінять глобальний обов'язок, запроваджений президентом Дональдом Трампом раніше цього року. Конкретні ставки тарифів не були оголошені.",
+    "link": "https://www.hurriyetdailynews.com/us-unveils-new-tariffs-on-60-partners-224742",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b90cbfe326f8",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/middle-east/hormuz-traffic-falls-as-bab-el-mandeb-activity-rises/4008464",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Hormuz traffic falls as Bab el-Mandeb activity rises",
+    "body_orig": "MarineTraffic data shows traffic through Strait of Hormuz fell to just 6 confirmed crossings, down 60% day-on-day",
+    "published": "2026-07-24T16:12:13",
+    "fetched": "2026-07-24T17:38:18.850406",
+    "title_uk": "Трафік через Ормуз знизився на 60% за день",
+    "summary_uk": "Дані MarineTraffic показують, що трафік через протоку Ормуз впав до 6 підтверджених перетинів, що на 60% менше в порівнянні з попереднім днем. Це свідчить про зменшення активності в регіоні. Водночас активність у Баб-ель-Мандеб зросла.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження трафіку може свідчити про зміни в логістиці та постачаннях. Турецьким виробникам варто переглянути свої маршрути доставки до регіонів, які залежать від Ормузу.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Трафік через Ормуз знизився на 60% за день",
+    "summary": "Дані MarineTraffic показують, що трафік через протоку Ормуз впав до 6 підтверджених перетинів, що на 60% менше в порівнянні з попереднім днем. Це свідчить про зменшення активності в регіоні. Водночас активність у Баб-ель-Мандеб зросла.",
+    "link": "https://www.aa.com.tr/en/middle-east/hormuz-traffic-falls-as-bab-el-mandeb-activity-rises/4008464",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "01f091cb5b8c",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/global-markets-slide-amid-us-forced-labor-tariffs-middle-east-clashes/4008027",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Global markets slide amid US’ forced labor tariffs, Middle East clashes",
+    "body_orig": "US-Iran military tensions boil over and threaten Red Sea energy corridors, sending Brent crude to nearly $95 per barrel, while Washington implements 10-12.5% tariffs on 60 trading partners",
+    "published": "2026-07-24T10:14:31",
+    "fetched": "2026-07-24T17:38:18.850436",
+    "title_uk": "Глобальні ринки падають через тарифи США та конфлікти на Близькому Сході",
+    "summary_uk": "Напруженість між США та Іраном загострюється, що загрожує енергетичним коридорам Червоного моря. Ціна на нафту Brent зросла до майже $95 за барель. США вводять мита на 10-12.5% для 60 торгових партнерів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "митниця"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Глобальні ринки падають через тарифи США та конфлікти на Близькому Сході",
+    "summary": "Напруженість між США та Іраном загострюється, що загрожує енергетичним коридорам Червоного моря. Ціна на нафту Brent зросла до майже $95 за барель. США вводять мита на 10-12.5% для 60 торгових партнерів.",
+    "link": "https://www.aa.com.tr/en/economy/global-markets-slide-amid-us-forced-labor-tariffs-middle-east-clashes/4008027",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "65b06a93d6a2",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/volkswagen-profit-slides-nearly-10-in-q2-as-automaker-warns-of-2026-revenue-decline/4007946",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Volkswagen profit slides nearly 10% in Q2 as automaker warns of 2026 revenue decline",
+    "body_orig": "German carmaker expects 2026 revenue to decline by up to 3% as tariffs, intense competition and restructuring costs weigh on performance",
+    "published": "2026-07-24T08:58:47",
+    "fetched": "2026-07-24T17:38:18.850445",
+    "title_uk": "Volkswagen прогнозує зниження доходів до 3% у 2026 році",
+    "summary_uk": "Volkswagen повідомив про зниження прибутку на 10% у другому кварталі 2026 року. Компанія очікує, що доходи у 2026 році зменшаться до 3% через тарифи, конкуренцію та витрати на реструктуризацію. Це може вплинути на загальну фінансову стабільність компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Volkswagen прогнозує зниження доходів до 3% у 2026 році",
+    "summary": "Volkswagen повідомив про зниження прибутку на 10% у другому кварталі 2026 року. Компанія очікує, що доходи у 2026 році зменшаться до 3% через тарифи, конкуренцію та витрати на реструктуризацію. Це може вплинути на загальну фінансову стабільність компанії.",
+    "link": "https://www.aa.com.tr/en/economy/volkswagen-profit-slides-nearly-10-in-q2-as-automaker-warns-of-2026-revenue-decline/4007946",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d2135ed15b08",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yalova-armutlu-yolu-ile-seyahat-suresini-1-saatten-yaklasik-30-dakikaya-dusurduk/4008071",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Uraloğlu: Yalova-Armutlu Yolu ile seyahat süresini 1 saatten yaklaşık 30 dakikaya düşürdük",
+    "body_orig": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"(Yalova-Armutlu Yolu) Projemiz sayesinde seyahat süresini 1 saatten yaklaşık 30 dakikaya düşürdük. Böylece zamandan ve akaryakıttan yıllık toplam 260 milyon lira tasarruf elde ettik.\" dedi.",
+    "published": "2026-07-24T10:52:45",
+    "fetched": "2026-07-24T17:38:20.388131",
+    "title_uk": "Туреччина зменшила час подорожі між Яловою та Армутлу",
+    "summary_uk": "Міністр транспорту Туреччини оголосив про зменшення часу подорожі між Яловою та Армутлу з 1 години до 30 хвилин завдяки новому проекту. Це дозволить зекономити щорічно близько €10 млн на паливі та витратах часу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зменшення часу транспортування може покращити логістику для виробників, які постачають товари в регіон. Рекомендується переглянути маршрути доставки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина зменшила час подорожі між Яловою та Армутлу",
+    "summary": "Міністр транспорту Туреччини оголосив про зменшення часу подорожі між Яловою та Армутлу з 1 години до 30 хвилин завдяки новому проекту. Це дозволить зекономити щорічно близько €10 млн на паливі та витратах часу.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-yalova-armutlu-yolu-ile-seyahat-suresini-1-saatten-yaklasik-30-dakikaya-dusurduk/4008071",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ddd4d0b429fb",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kocaeli-uluslararasi-deniz-yolu-arac-tasimaciliginin-merkezi-olmayi-surdurdu/4007934",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Kocaeli, uluslararası deniz yolu araç taşımacılığının merkezi olmayı sürdürdü",
+    "body_orig": "Türkiye'nin otomotiv üretim ve ihracatında önemli konuma sahip Kocaeli, 2026 yılının ilk yarısında uluslararası deniz yolu araç taşımacılığındaki liderliğini sürdürdü.",
+    "published": "2026-07-24T08:48:01",
+    "fetched": "2026-07-24T17:38:20.388151",
+    "title_uk": "Кокаелі залишається лідером у міжнародних морських перевезеннях",
+    "summary_uk": "Кокаелі, важливий центр автомобільного виробництва в Туреччині, зберігає лідерство у міжнародних морських перевезеннях автомобілів. У першій половині 2026 року місто продовжує відігравати ключову роль у цій галузі. Це свідчить про стабільний попит на автомобільну продукцію Туреччини.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це підтверджує стабільність логістичних маршрутів для експорту автомобілів. Виробники можуть розраховувати на надійні перевезення до європейських ринків.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кокаелі залишається лідером у міжнародних морських перевезеннях",
+    "summary": "Кокаелі, важливий центр автомобільного виробництва в Туреччині, зберігає лідерство у міжнародних морських перевезеннях автомобілів. У першій половині 2026 року місто продовжує відігравати ключову роль у цій галузі. Це свідчить про стабільний попит на автомобільну продукцію Туреччини.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kocaeli-uluslararasi-deniz-yolu-arac-tasimaciliginin-merkezi-olmayi-surdurdu/4007934",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b12cb9f40ef7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/centrul-de-inginerie-auto-beespeed-din-timisoara-parte-a-grupului-german-zf-a-trecut-pe-pierdere-in-2025-cu-un-minus-de-9-2-mil-lei-desi-afacerile-au-atins-un-record-de-205-mil-lei-23201574",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Centrul de inginerie auto BeeSpeed din Timişoara, parte a grupului german ZF, a trecut pe pierdere în 2025, cu un minus de 9,2 mil. lei, deşi afacerile au atins un record de 205 mil. lei",
+    "body_orig": "BeeSpeed Technical Engineering Center, centrul de dezvoltare din Timişoara al grupului german ZF Friedrichshafen, a raportat pentru 2025 o pierdere netă de 9,2 mil. lei (1,8 mil. euro), după mai mulţi ani de profit, potrivit datelor de la Ministerul Finanţelor.",
+    "published": "2026-07-24T16:15:00",
+    "fetched": "2026-07-24T17:38:22.543685",
+    "title_uk": "BeeSpeed з групи ZF зазнав збитків у 2025 році",
+    "summary_uk": "BeeSpeed Technical Engineering Center у Тімішоарі повідомив про чисті збитки в розмірі 9 млн лей (€1.8 млн) у 2025 році, незважаючи на рекордний обсяг бізнесу в 205 млн лей. Це перший випадок збитків для компанії після кількох років прибутковості. Дані надані Міністерством фінансів Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BeeSpeed з групи ZF зазнав збитків у 2025 році",
+    "summary": "BeeSpeed Technical Engineering Center у Тімішоарі повідомив про чисті збитки в розмірі 9 млн лей (€1.8 млн) у 2025 році, незважаючи на рекордний обсяг бізнесу в 205 млн лей. Це перший випадок збитків для компанії після кількох років прибутковості. Дані надані Міністерством фінансів Румунії.",
+    "link": "https://www.zf.ro/business-hi-tech/centrul-de-inginerie-auto-beespeed-din-timisoara-parte-a-grupului-german-zf-a-trecut-pe-pierdere-in-2025-cu-un-minus-de-9-2-mil-lei-desi-afacerile-au-atins-un-record-de-205-mil-lei-23201574",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ce573035149f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/retailerul-de-echipamente-it-refurbished-expert-company-group-din-mures-a-ajuns-la-afaceri-de-204-mil-lei-in-2025-un-maxim-istoric-23201581",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Retailerul de echipamente IT refurbished Expert Company Group din Mureş a ajuns la afaceri de 204 mil. lei în 2025, un maxim istoric",
+    "body_orig": "Expert Company Group, comerciant specializat în echipamente IT recondiţionate, a raportat pentru 2025 afaceri de 204,5 mil. lei (40,6 mil. euro), în creştere cu 25% faţă de 2024 şi cel mai ridicat nivel din istoria companiei, potrivit datelor de la Ministerul Finanţelor.",
+    "published": "2026-07-24T15:45:00",
+    "fetched": "2026-07-24T17:38:22.543707",
+    "title_uk": "Expert Company Group досягла рекорду в 204 млн. леїв у 2025 році",
+    "summary_uk": "Expert Company Group, спеціалізований рітейлер IT-обладнання, звітує про рекордні продажі в 204,5 млн. леїв (приблизно €40,6 млн) у 2025 році. Це на 25% більше, ніж у 2024 році. Компанія досягла найвищого рівня доходів в історії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Expert Company Group досягла рекорду в 204 млн. леїв у 2025 році",
+    "summary": "Expert Company Group, спеціалізований рітейлер IT-обладнання, звітує про рекордні продажі в 204,5 млн. леїв (приблизно €40,6 млн) у 2025 році. Це на 25% більше, ніж у 2024 році. Компанія досягла найвищого рівня доходів в історії.",
+    "link": "https://www.zf.ro/business-hi-tech/retailerul-de-echipamente-it-refurbished-expert-company-group-din-mures-a-ajuns-la-afaceri-de-204-mil-lei-in-2025-un-maxim-istoric-23201581",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6f2c858b6787",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-valori-scade-vineri-dar-incheie-saptamana-cu-un-plus-de-3-tranzactie-speciala-cu-actiunile-bancii-transilvania-in-valoare-de-74-mil-lei-23202258",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de Valori scade vineri, dar încheie săptămâna cu un plus de 3%. Tranzacţie specială cu acţiunile Băncii Transilvania în valoare de 74 mil. lei",
+    "body_orig": "",
+    "published": "2026-07-24T15:18:14",
+    "fetched": "2026-07-24T17:38:22.543726",
+    "title_uk": "Ринок акцій Румунії зростає на 3% за тиждень",
+    "summary_uk": "Румунська фондова біржа зафіксувала зростання на 3% за тиждень, незважаючи на падіння в п'ятницю. Спеціальна угода з акціями Банк Transilvania склала €15 млн. Це свідчить про активність інвесторів на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ринок акцій Румунії зростає на 3% за тиждень",
+    "summary": "Румунська фондова біржа зафіксувала зростання на 3% за тиждень, незважаючи на падіння в п'ятницю. Спеціальна угода з акціями Банк Transilvania склала €15 млн. Це свідчить про активність інвесторів на ринку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-valori-scade-vineri-dar-incheie-saptamana-cu-un-plus-de-3-tranzactie-speciala-cu-actiunile-bancii-transilvania-in-valoare-de-74-mil-lei-23202258",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4d7d1b1ee731",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-live/video-zf-live-adriana-record-camera-comert-romano-franceza-romania-ramane-pariu-strategic-investitorii-francezi-peste-4-200-companii-franceze-prezente-romania-peste-13-mld-euro-investiti-momentul-23201600",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Video ZF Live. Adriana Record, Camera de Comerţ Româno-Franceză: România rămâne un pariu strategic pentru investitorii francezi. Sunt peste 4.200 de companii franceze prezente în România, cu peste 13 mld. euro investiţi în momentul de faţă",
+    "body_orig": "România continuă să fie o destinaţie atractivă pentru investitorii francezi, astfel că peste 4.200 de companii franceze sunt prezente în România, cu investiţii cumulate care depăşesc 13 mld. euro, arată datele prezentate de Adriana Record, director executiv al Camerei de Comerţ Româno-Franceze (CCIFER).",
+    "published": "2026-07-24T15:15:00",
+    "fetched": "2026-07-24T17:38:22.543737",
+    "title_uk": "Французькі інвестиції в Румунії перевищили €13 млрд",
+    "summary_uk": "Румунія залишається привабливою для французьких інвесторів. Понад 4.200 французьких компаній працюють у країні з інвестиціями понад €13 млрд. Ці дані були озвучені директором Камери торгівлі Румунії та Франції, Адріаною Рекорд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Французькі інвестиції в Румунії перевищили €13 млрд",
+    "summary": "Румунія залишається привабливою для французьких інвесторів. Понад 4.200 французьких компаній працюють у країні з інвестиціями понад €13 млрд. Ці дані були озвучені директором Камери торгівлі Румунії та Франції, Адріаною Рекорд.",
+    "link": "https://www.zf.ro/zf-live/video-zf-live-adriana-record-camera-comert-romano-franceza-romania-ramane-pariu-strategic-investitorii-francezi-peste-4-200-companii-franceze-prezente-romania-peste-13-mld-euro-investiti-momentul-23201600",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f0090b74e1e0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/china-a-importat-mai-mult-aur-in-iunie-cele-mai-importante-achizitii-din-ultimii-doi-ani-in-contextul-ieftinirii-metalului-pretios_962308.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "China a importat mai mult aur în iunie, cele mai importante achiziții din ultimii doi ani, în contextul ieftinirii metalului prețios",
+    "body_orig": "Importurile de aur ale Chinei au ajuns în iunie la cel mai ridicat nivel din ultimii doi ani, subliniind cererea rezilientă pe cea mai mare piaţă globală a metalelor preţioase, după declinul recent al cotaţiilor, transmite Bloomberg, relatează Agerpres.",
+    "published": "2026-07-24T16:35:20",
+    "fetched": "2026-07-24T17:38:26.087529",
+    "title_uk": "Китай збільшив імпорт золота до рекордного рівня",
+    "summary_uk": "У червні імпорт золота Китаю досяг найвищого рівня за два роки, що свідчить про стійкий попит на метали. Зниження цін на золото сприяло цьому зростанню. За даними Bloomberg, ринок золота залишається активним у Китаї.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "імпорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китай збільшив імпорт золота до рекордного рівня",
+    "summary": "У червні імпорт золота Китаю досяг найвищого рівня за два роки, що свідчить про стійкий попит на метали. Зниження цін на золото сприяло цьому зростанню. За даними Bloomberg, ринок золота залишається активним у Китаї.",
+    "link": "https://www.economica.net/china-a-importat-mai-mult-aur-in-iunie-cele-mai-importante-achizitii-din-ultimii-doi-ani-in-contextul-ieftinirii-metalului-pretios_962308.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5e3bddc7f2f1",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fabricantul-german-de-baterii-varta-confirma-ca-si-a-cerut-insolventa_962291.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Celebrul producător german de baterii VARTA și-a cerut insolvența",
+    "body_orig": "Producătorul german de baterii VARTA a confirmat vineri că a depus cerere de insolvenţă preliminară în regim de autoadministrare, în încercarea d a-şi asigura viitorul economic şi continuarea operaţiunilor, transmite DPA, relatează Agerpres.",
+    "published": "2026-07-24T15:37:22",
+    "fetched": "2026-07-24T17:38:26.087574",
+    "title_uk": "Німецький виробник батарей VARTA подав заяву на банкрутство",
+    "summary_uk": "Компанія VARTA подала попередню заяву про банкрутство в режимі самоврядування. Це рішення має на меті забезпечити економічне майбутнє та продовження операцій. Інформацію підтвердила преса DPA.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Німецький виробник батарей VARTA подав заяву на банкрутство",
+    "summary": "Компанія VARTA подала попередню заяву про банкрутство в режимі самоврядування. Це рішення має на меті забезпечити економічне майбутнє та продовження операцій. Інформацію підтвердила преса DPA.",
+    "link": "https://www.economica.net/fabricantul-german-de-baterii-varta-confirma-ca-si-a-cerut-insolventa_962291.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c04c6255d36d",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/defence/deliveries-begin-for-the-first-cobra-ii-vehicles-manufactured-entirely-in-romania-298839",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Deliveries begin for the first Cobra II vehicles manufactured entirely in Romania",
+    "body_orig": "The first Cobra II tactical armoured vehicles built entirely in Mediaș left the factory gates yesterday, bound for the Romanian Armed Forces. With serial production on schedule and deliveries under way, Otokar’s Automecanica Mediaș becomes the company’s production plant in Europe and its first manufacturing site in the European Union, giving Romania the capability to [&#8230;]\nThe post Deliveries begin for the first Cobra II vehicles manufactured entirely in Romania appeared first on Business Review.",
+    "published": "2026-07-24T11:29:25",
+    "fetched": "2026-07-24T17:38:29.401264",
+    "title_uk": "Румунія почала виробництво броньованих автомобілів Cobra II",
+    "summary_uk": "Перші броньовані автомобілі Cobra II, виготовлені в Румунії, відправлені до збройних сил країни. Виробництво відбувається на заводі Otokar в Mediaș, який став першим виробничим майданчиком компанії в ЄС. Серійне виробництво йде за графіком.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Румунії. Важливо стежити за попитом на військову техніку.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Румунія почала виробництво броньованих автомобілів Cobra II",
+    "summary": "Перші броньовані автомобілі Cobra II, виготовлені в Румунії, відправлені до збройних сил країни. Виробництво відбувається на заводі Otokar в Mediaș, який став першим виробничим майданчиком компанії в ЄС. Серійне виробництво йде за графіком.",
+    "link": "https://business-review.eu/business/defence/deliveries-begin-for-the-first-cobra-ii-vehicles-manufactured-entirely-in-romania-298839",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "210085c9c35a",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/tech/telecom/orange-cybersecure-new-cybersecurity-solution-for-families-and-businesses-298830",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Orange Cybersecure – New cybersecurity solution for families and businesses",
+    "body_orig": "Orange Romania has launched the first complete cybersecurity solution for home users and small businesses, that combines both device and network-level protection. With Orange Cybersecure, customers can browse the internet worry-free, make online transactions and purchases without risk, and keep their identity and personal data safe. The option provides protection at the subscription level. At [&#8230;]\nThe post Orange Cybersecure – New cybersecurity solution for families and businesses appeared first on Business Review.",
+    "published": "2026-07-24T10:32:07",
+    "fetched": "2026-07-24T17:38:29.401292",
+    "title_uk": "Orange Romania запустила рішення для кібербезпеки для домогосподарств та бізнесу",
+    "summary_uk": "Orange Romania представила перше комплексне рішення для кібербезпеки, яке забезпечує захист на рівні пристроїв та мережі. Orange Cybersecure дозволяє користувачам безпечно здійснювати онлайн-транзакції та захищає особисті дані. Послуга доступна за підпискою.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Orange Romania запустила рішення для кібербезпеки для домогосподарств та бізнесу",
+    "summary": "Orange Romania представила перше комплексне рішення для кібербезпеки, яке забезпечує захист на рівні пристроїв та мережі. Orange Cybersecure дозволяє користувачам безпечно здійснювати онлайн-транзакції та захищає особисті дані. Послуга доступна за підпискою.",
+    "link": "https://business-review.eu/tech/telecom/orange-cybersecure-new-cybersecurity-solution-for-families-and-businesses-298830",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c4ceafd27812",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/real-estate-guide/gabriel-voicu-cosmopolis-residential-projects-need-clear-positioning-before-they-reach-the-market-298821",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Gabriel Voicu, Cosmopolis: Residential projects need clear positioning before they reach the market",
+    "body_orig": "Bucharest’s residential market is entering 2026 with a significantly larger delivery pipeline, even as developers continue to face permitting delays, legislative uncertainty and uneven purchasing power. Business Review spoke with Gabriel Voicu, Chief Commercial Officer at Cosmopolis, about how the market can absorb more than 20,500 projected new homes, why many projects still require better [&#8230;]\nThe post Gabriel Voicu, Cosmopolis: Residential projects need clear positioning before they reach the market appeared first on Business Review.",
+    "published": "2026-07-24T10:12:11",
+    "fetched": "2026-07-24T17:38:29.401316",
+    "title_uk": "Ринок житла в Бухаресті зростає, потребує чіткої позиції проектів",
+    "summary_uk": "Бухарестський ринок житла має значний обсяг нових проектів — понад 20,500 нових будинків заплановано до 2026 року. Проте розробники стикаються з затримками в отриманні дозволів та невизначеністю в законодавстві. Габріель Войку з Cosmopolis зазначає, що чітке позиціонування проектів є критично важливим.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ринок житла в Румунії може вплинути на попит на будівельні матеріали. Якщо ваша продукція пов'язана з будівництвом, варто розглянути можливості виходу на цей ринок."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ринок житла в Бухаресті зростає, потребує чіткої позиції проектів",
+    "summary": "Бухарестський ринок житла має значний обсяг нових проектів — понад 20,500 нових будинків заплановано до 2026 року. Проте розробники стикаються з затримками в отриманні дозволів та невизначеністю в законодавстві. Габріель Войку з Cosmopolis зазначає, що чітке позиціонування проектів є критично важливим.",
+    "link": "https://business-review.eu/real-estate-guide/gabriel-voicu-cosmopolis-residential-projects-need-clear-positioning-before-they-reach-the-market-298821",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "265c6f3d62e6",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/real-estate-guide/romanias-industrial-investment-boosted-by-infrastructure-development-resilient-demand-298816",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Romania’s industrial investment boosted by infrastructure development, resilient demand",
+    "body_orig": "Romania’s modern industrial and logistics real estate sector achieved a major landmark in the first quarter of 2026, with the nationwide stock officially crossing the 8 million sqm threshold. Driven by robust transactional momentum, strategic infrastructure expansions, and a structural shift towards light manufacturing, the market remains firmly on track to exceed 8.5 million sqm [&#8230;]\nThe post Romania’s industrial investment boosted by infrastructure development, resilient demand appeared first on Business Review.",
+    "published": "2026-07-24T10:03:42",
+    "fetched": "2026-07-24T17:38:29.401328",
+    "title_uk": "Румунія досягла 8 млн кв. м у промислових інвестиціях",
+    "summary_uk": "У першому кварталі 2026 року ринок промислової та логістичної нерухомості Румунії перевищив 8 млн кв. м. Зростання зумовлене активними угодами, розширенням інфраструктури та переходом до легкого виробництва. Очікується, що площа перевищить 8.5 млн кв. м.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може бути можливістю для турецьких виробників, які шукають нові ринки в Румунії, оскільки зростання інвестицій у промисловість може призвести до збільшення попиту на продукцію.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Румунія досягла 8 млн кв. м у промислових інвестиціях",
+    "summary": "У першому кварталі 2026 року ринок промислової та логістичної нерухомості Румунії перевищив 8 млн кв. м. Зростання зумовлене активними угодами, розширенням інфраструктури та переходом до легкого виробництва. Очікується, що площа перевищить 8.5 млн кв. м.",
+    "link": "https://business-review.eu/real-estate-guide/romanias-industrial-investment-boosted-by-infrastructure-development-resilient-demand-298816",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "726dc329b4dd",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/ispace-europe-lands-e65-million-esa-contract-to-deliver-and-operate-magpie-europes-first-lunar-polar-ice-exploration-rover/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "ispace-EUROPE lands €65 million ESA contract to deliver and operate MAGPIE, Europe’s first lunar polar ice exploration rover",
+    "body_orig": "ispace-EUROPE, a Luxembourg-based lunar exploration company focusing on the development of lunar rovers, has been awarded Phase 2 of the MAGPIE contract, the Mission for Advanced Geophysics and Polar Ice Exploration by the European Space Agency (ESA). The agreement represents ESA&#8217;s commitment to funding MAGPIE, Europe&#8217;s first lunar polar ice exploration rover and its flight. [&#8230;]\nThe post ispace-EUROPE lands €65 million ESA contract to deliver and operate MAGPIE, Europe’s first lunar polar ice exploration rover appeared first on EU-Startups.",
+    "published": "2026-07-24T13:08:18",
+    "fetched": "2026-07-24T17:37:24.070988",
+    "title_uk": "ispace-EUROPE отримала контракт ESA на €65 млн для місячного ровера",
+    "summary_uk": "Компанія ispace-EUROPE отримала контракт від Європейського космічного агентства на суму €65 млн для розробки та експлуатації ровера MAGPIE, першого в Європі ровера для дослідження полярного льоду на Місяці. Це другий етап контракту, що підтверджує зобов'язання ESA фінансувати місію. Ровер має на меті дослідження геофізики та льоду на Місяці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ispace-EUROPE отримала контракт ESA на €65 млн для місячного ровера",
+    "summary": "Компанія ispace-EUROPE отримала контракт від Європейського космічного агентства на суму €65 млн для розробки та експлуатації ровера MAGPIE, першого в Європі ровера для дослідження полярного льоду на Місяці. Це другий етап контракту, що підтверджує зобов'язання ESA фінансувати місію. Ровер має на меті дослідження геофізики та льоду на Місяці.",
+    "link": "https://www.eu-startups.com/2026/07/ispace-europe-lands-e65-million-esa-contract-to-deliver-and-operate-magpie-europes-first-lunar-polar-ice-exploration-rover/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6942e7865037",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/manchester-based-proptech-startup-street-group-secures-hg-investment-at-a-valuation-of-over-e233-8-million/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Manchester-based PropTech startup Street Group secures Hg investment at a valuation of over €233.8 million",
+    "body_orig": "Street Group (formerly Agent Software), a Manchester-based provider of vertical software and AI for the UK residential property sector, has secured a strategic growth investment from Hg, an investor in European and transatlantic software and services businesses.  This values the company at over €233.8 million (£200 million). Street Group was previously backed by Manchester-based PXN [&#8230;]\nThe post Manchester-based PropTech startup Street Group secures Hg investment at a valuation of over €233.8 million appeared first on EU-Startups.",
+    "published": "2026-07-24T10:12:12",
+    "fetched": "2026-07-24T17:37:24.071015",
+    "title_uk": "Британський стартап Street Group залучив інвестиції від Hg на €234 млн",
+    "summary_uk": "Street Group, постачальник програмного забезпечення для ринку житлової нерухомості у Великій Британії, отримав стратегічні інвестиції від Hg. Оцінка компанії перевищила €234 млн (£200 млн). Раніше стартап підтримувався компанією PXN з Манчестера.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Британський стартап Street Group залучив інвестиції від Hg на €234 млн",
+    "summary": "Street Group, постачальник програмного забезпечення для ринку житлової нерухомості у Великій Британії, отримав стратегічні інвестиції від Hg. Оцінка компанії перевищила €234 млн (£200 млн). Раніше стартап підтримувався компанією PXN з Манчестера.",
+    "link": "https://www.eu-startups.com/2026/07/manchester-based-proptech-startup-street-group-secures-hg-investment-at-a-valuation-of-over-e233-8-million/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7dc25ae620b4",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/how-the-eu-startups-summit-resulted-in-investments-a-new-ceo-and-even-a-padel-partner/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "How the EU-Startups Summit resulted in investments, a new CEO and even a padel partner!",
+    "body_orig": "A potential angel investment, a newly appointed CEO, fresh customers and international partnerships were among the real-world outcomes born from the EU-Startups Summit. For many attendees, the conversations that began in Malta did not end when the venue closed its doors. They developed into contracts, hires, collaborations and business relationships that continued across Europe and [&#8230;]\nThe post How the EU-Startups Summit resulted in investments, a new CEO and even a padel partner! appeared first on EU-Startups.",
+    "published": "2026-07-24T09:47:26",
+    "fetched": "2026-07-24T17:37:24.071027",
+    "title_uk": "Результати EU-Startups Summit: інвестиції та новий CEO",
+    "summary_uk": "На EU-Startups Summit у Мальті учасники уклали угоди, отримали нових клієнтів та призначили нового CEO. Серед результатів — потенційні ангельські інвестиції та міжнародні партнерства. Багато з розмов продовжилися після завершення заходу, що призвело до нових бізнес-відносин.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Результати EU-Startups Summit: інвестиції та новий CEO",
+    "summary": "На EU-Startups Summit у Мальті учасники уклали угоди, отримали нових клієнтів та призначили нового CEO. Серед результатів — потенційні ангельські інвестиції та міжнародні партнерства. Багато з розмов продовжилися після завершення заходу, що призвело до нових бізнес-відносин.",
+    "link": "https://www.eu-startups.com/2026/07/how-the-eu-startups-summit-resulted-in-investments-a-new-ceo-and-even-a-padel-partner/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2c41aa7c46c7",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/cambridge-based-tidalsense-raises-e16-6-million-to-take-its-ai-respiratory-diagnostic-technology-global/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Cambridge’s TidalSense raises €16.6 million to turn the tide on respiratory diagnostics with patented AI tech",
+    "body_orig": "TidalSense (formerly Cambridge Respiratory Innovations), a Cambridge-based AI-powered respiratory diagnostic, today announced a €16.6 million ($19 million) funding round to accelerate commercialisation in the UK and support globalisation of the technology, including to the USA. The round included investment from new investor Cross-Border Impact Ventures, and returning investors BGF, Airstream Capital, and Foresight Group. This [&#8230;]\nThe post Cambridge&#8217;s TidalSense raises €16.6 million to turn the tide on respiratory diagnostics with patented AI tech appeared first on EU-Startups.",
+    "published": "2026-07-24T08:36:39",
+    "fetched": "2026-07-24T17:37:24.071041",
+    "title_uk": "TidalSense залучила €16.6 млн для розвитку діагностики дихальних шляхів",
+    "summary_uk": "TidalSense, компанія з Кембриджа, отримала €16.6 млн інвестицій для прискорення комерціалізації своїх рішень у сфері діагностики дихальних шляхів. Інвестиції надійшли від Cross-Border Impact Ventures, BGF, Airstream Capital та Foresight Group. Кошти будуть використані для виходу на ринок США та інших країн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "TidalSense залучила €16.6 млн для розвитку діагностики дихальних шляхів",
+    "summary": "TidalSense, компанія з Кембриджа, отримала €16.6 млн інвестицій для прискорення комерціалізації своїх рішень у сфері діагностики дихальних шляхів. Інвестиції надійшли від Cross-Border Impact Ventures, BGF, Airstream Capital та Foresight Group. Кошти будуть використані для виходу на ринок США та інших країн.",
+    "link": "https://www.eu-startups.com/2026/07/cambridge-based-tidalsense-raises-e16-6-million-to-take-its-ai-respiratory-diagnostic-technology-global/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "242a97c7eded",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/24/defence-city-piv-roku-skilki-rezidentiv-ta-iak-ukrayinskii-deftech-ociniuje-cei-specrezim/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Defence City — пів року. Які підсумки роботи, скільки резидентів та як український DefTech оцінює цей спецрежим",
+    "body_orig": "Перші результати пільгового режиму Defence City для оборонно-промислового комплексу, кількість учасників та реальний фідбек від українського DefTech-бізнесу.",
+    "published": "2026-07-24T15:30:13",
+    "fetched": "2026-07-24T17:37:33.546705",
+    "title_uk": "Підсумки роботи Defence City за пів року: кількість резидентів та фідбек",
+    "summary_uk": "Defence City відзначає півріччя з моменту впровадження пільгового режиму для оборонно-промислового комплексу. На сьогодні в проекті беруть участь 50 компаній, які отримали позитивний фідбек щодо умов роботи. Цей спецрежим сприяє розвитку українського DefTech-сектору.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Підсумки роботи Defence City за пів року: кількість резидентів та фідбек",
+    "summary": "Defence City відзначає півріччя з моменту впровадження пільгового режиму для оборонно-промислового комплексу. На сьогодні в проекті беруть участь 50 компаній, які отримали позитивний фідбек щодо умов роботи. Цей спецрежим сприяє розвитку українського DefTech-сектору.",
+    "link": "https://ain.ua/2026/07/24/defence-city-piv-roku-skilki-rezidentiv-ta-iak-ukrayinskii-deftech-ociniuje-cei-specrezim/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "400f7e60f203",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/24/farsight-vision-otrimav-finansuvannia-vid-jevropeiskoyi-innovaciinoyi-radi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українсько-естонський стартап Farsight Vision отримав фінансування від Європейської інноваційної ради",
+    "body_orig": "За словами компанії, залучені кошти допоможуть прискорити розробку їхніх продуктів.",
+    "published": "2026-07-24T12:55:00",
+    "fetched": "2026-07-24T17:37:33.546727",
+    "title_uk": "Стартап Farsight Vision отримав фінансування від Європейської ради",
+    "summary_uk": "Українсько-естонський стартап Farsight Vision залучив фінансування від Європейської інноваційної ради. Кошти підуть на прискорення розробки продуктів компанії. Деталі суми фінансування не розкриваються.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стартап Farsight Vision отримав фінансування від Європейської ради",
+    "summary": "Українсько-естонський стартап Farsight Vision залучив фінансування від Європейської інноваційної ради. Кошти підуть на прискорення розробки продуктів компанії. Деталі суми фінансування не розкриваються.",
+    "link": "https://ain.ua/2026/07/24/farsight-vision-otrimav-finansuvannia-vid-jevropeiskoyi-innovaciinoyi-radi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6e3921486277",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/24/erc-solutions-day-2026-kyiv-it-conference/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "У Києві відбулася IT-конференція ERC Solutions Day 2026",
+    "body_orig": "У ній взяли участь понад 450 представників ІТ-галузі, бізнесу та міжнародних технологічних компаній.",
+    "published": "2026-07-24T09:00:00",
+    "fetched": "2026-07-24T17:37:33.546757",
+    "title_uk": "У Києві пройшла IT-конференція ERC Solutions Day 2026",
+    "summary_uk": "Конференція ERC Solutions Day 2026 зібрала понад 450 учасників з ІТ-індустрії, бізнесу та міжнародних технологічних компаній. Подія стала платформою для обміну досвідом та ідеями у сфері технологій. Учасники обговорили нові тренди та інновації в ІТ.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Києві пройшла IT-конференція ERC Solutions Day 2026",
+    "summary": "Конференція ERC Solutions Day 2026 зібрала понад 450 учасників з ІТ-індустрії, бізнесу та міжнародних технологічних компаній. Подія стала платформою для обміну досвідом та ідеями у сфері технологій. Учасники обговорили нові тренди та інновації в ІТ.",
+    "link": "https://ain.ua/2026/07/24/erc-solutions-day-2026-kyiv-it-conference/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "675a5e1eb704",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ci-mozna-oficiino-pracevlastuvati-colovikiv-bez-rezerv-v71w67",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Чи можна офіційно працевлаштувати чоловіків без «Резерв+»",
+    "body_orig": "Відсутність застосунку «Резерв+» сама по собі не є перешкодою для офіційного працевлаштування. Але роботодавець має виконати вимоги щодо перевірки військово-облікових документів кандидата, пише Kadroland.",
+    "published": "2026-07-24T15:45:03",
+    "fetched": "2026-07-24T17:37:43.511124",
+    "title_uk": "Офіційне працевлаштування чоловіків без «Резерв+» можливе",
+    "summary_uk": "Роботодавці можуть офіційно працевлаштовувати чоловіків без застосунку «Резерв+», якщо виконують вимоги щодо перевірки військово-облікових документів. Це спростить процес працевлаштування для багатьох кандидатів. Інформація надана Kadroland.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Офіційне працевлаштування чоловіків без «Резерв+» можливе",
+    "summary": "Роботодавці можуть офіційно працевлаштовувати чоловіків без застосунку «Резерв+», якщо виконують вимоги щодо перевірки військово-облікових документів. Це спростить процес працевлаштування для багатьох кандидатів. Інформація надана Kadroland.",
+    "link": "https://speka.ua/news/ci-mozna-oficiino-pracevlastuvati-colovikiv-bez-rezerv-v71w67",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "698e4e75943d",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/5g-u-kijevi-yak-pidklyuciti-novu-merezu-ta-ci-potribno-za-neyi-platiti-p1572z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "5G в Україні: як підключити нову мережу та чи потрібно за неї платити",
+    "body_orig": "Після запуску відкритого тестування мережі 5G у Києві українські мобільні оператори у відповідь на запит Speka пояснили, як абоненти можуть скористатися новим стандартом зв'язку, чи потрібно за нього доплачувати та що буде зі старими мережами 2G і 3G.",
+    "published": "2026-07-24T14:49:10",
+    "fetched": "2026-07-24T17:37:43.511136",
+    "title_uk": "5G в Україні: як підключити нову мережу та чи потрібно за неї платити",
+    "summary_uk": "В Україні розпочато тестування мережі 5G у Києві. Мобільні оператори пояснили, як абоненти можуть підключитися до нової мережі та чи потрібно за це доплачувати. Старі мережі 2G і 3G продовжать працювати.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "5G в Україні: як підключити нову мережу та чи потрібно за неї платити",
+    "summary": "В Україні розпочато тестування мережі 5G у Києві. Мобільні оператори пояснили, як абоненти можуть підключитися до нової мережі та чи потрібно за це доплачувати. Старі мережі 2G і 3G продовжать працювати.",
+    "link": "https://speka.ua/news/5g-u-kijevi-yak-pidklyuciti-novu-merezu-ta-ci-potribno-za-neyi-platiti-p1572z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7aed4eb5465a",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/videos-and-podcasts/buxgalteriya-stala-odnijeyu-z-golovnix-cilei-kiberatak-py1myg",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Бухгалтерія стала однією з головних цілей кібератак",
+    "body_orig": "Коли йдеться про кібербезпеку, увага керівників зазвичай зосереджена на серверах, хмарних сховищах та роботі ІТ-відділу. Водночас одна з найбільш вразливих точок бізнесу часто розташована зовсім поруч, у бухгалтерії.",
+    "published": "2026-07-24T14:43:52",
+    "fetched": "2026-07-24T17:37:43.511146",
+    "title_uk": "Бухгалтерія стала мішенню для кібератак",
+    "summary_uk": "Бухгалтерія виявилася однією з найбільш вразливих точок бізнесу для кібератак. Керівники часто зосереджуються на ІТ-інфраструктурі, забуваючи про ризики в бухгалтерії. Це може призвести до серйозних фінансових втрат.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Бухгалтерія стала мішенню для кібератак",
+    "summary": "Бухгалтерія виявилася однією з найбільш вразливих точок бізнесу для кібератак. Керівники часто зосереджуються на ІТ-інфраструктурі, забуваючи про ризики в бухгалтерії. Це може призвести до серйозних фінансових втрат.",
+    "link": "https://speka.ua/videos-and-podcasts/buxgalteriya-stala-odnijeyu-z-golovnix-cilei-kiberatak-py1myg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a905f1c391ae",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/igri-za-11-dniv-telefoni-za-20-shho-svidse-prodajetsya-z-texniki-na-elektronnix-marketpleisax-i-na-shho-je-popit-v4ylmw",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Ігри за 11 днів, телефони за 20: що швидше продається з техніки на електронних маркетплейсах і на що є попит",
+    "body_orig": "Найшвидше на OLX продаються ігри та ігрові приставки — у середньому за 11 днів після публікації оголошення.&nbsp;Аналітики OLX дійшли висновку, що успішність продажів залежить не лише від попиту, а й від рівня конкуренції в категорії.",
+    "published": "2026-07-24T14:16:49",
+    "fetched": "2026-07-24T17:37:43.511172",
+    "title_uk": "Ігри та приставки швидше за все продаються на OLX",
+    "summary_uk": "На платформі OLX ігри та ігрові приставки реалізуються в середньому за 11 днів. Аналітики зазначають, що успішність продажів залежить від попиту та конкуренції в категорії. Це свідчить про активний ринок ігрової техніки в Україні.",
+    "what_it_means": {
+      "ua_importer": "Попит на ігрову техніку в Україні зростає, що може бути вигідним для імпортерів, які працюють у цій категорії.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо враховувати швидкість продажів у категорії ігор при плануванні асортименту та промоакцій. Це може вплинути на KPI продажів."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ігри та приставки швидше за все продаються на OLX",
+    "summary": "На платформі OLX ігри та ігрові приставки реалізуються в середньому за 11 днів. Аналітики зазначають, що успішність продажів залежить від попиту та конкуренції в категорії. Це свідчить про активний ринок ігрової техніки в Україні.",
+    "link": "https://speka.ua/news/igri-za-11-dniv-telefoni-za-20-shho-svidse-prodajetsya-z-texniki-na-elektronnix-marketpleisax-i-na-shho-je-popit-v4ylmw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af7268211fa3",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/top-7-pomylok-tcinovogo-monitoryngu-konkurentiv-v-e-commerce/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "ТОП-7 помилок цінового моніторингу конкурентів в e-commerce",
+    "body_orig": "Ціновий моніторинг конкурентів онлайн — складний технічний процес, у якому на якість кінцевих даних впливає безліч нюансів. У цьому матеріалі розбираємо типові помилки, яких припускаються бізнеси, що тільки відкривають для себе автоматизацію збору цін. Результат таких помилок — погана якість даних і…",
+    "published": "2026-07-24T07:50:45",
+    "fetched": "2026-07-24T17:38:31.594396",
+    "title_uk": "ТОП-7 помилок цінового моніторингу конкурентів в e-commerce",
+    "summary_uk": "Бізнеси, які впроваджують автоматизацію збору цін, часто допускають помилки, що призводять до поганої якості даних. Серед типових помилок — недостатня увага до технічних нюансів процесу. Це може негативно вплинути на конкурентоспроможність у ринку e-commerce.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо уникати помилок у ціновому моніторингу, щоб забезпечити точність даних для прийняття рішень. Це може вплинути на стратегію цін і переговори з постачальниками."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ТОП-7 помилок цінового моніторингу конкурентів в e-commerce",
+    "summary": "Бізнеси, які впроваджують автоматизацію збору цін, часто допускають помилки, що призводять до поганої якості даних. Серед типових помилок — недостатня увага до технічних нюансів процесу. Це може негативно вплинути на конкурентоспроможність у ринку e-commerce.",
+    "link": "https://rau.ua/news/top-7-pomylok-tcinovogo-monitoryngu-konkurentiv-v-e-commerce/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "874e6da7f19e",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/maye-tysiachi-punktiv-vydachi-ta-poshtomativ-nova-post-pochynaye-spivpratciu-z-polskoiu-kompaniyeiu-orlen-paczka/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Nova Post починає співпрацю з Orlen Paczka: клієнтам стали доступні 15 000 нових точок видачі та поштоматів у Польщі",
+    "body_orig": "Nova Post домовилася про співпрацю з польською компанією Orlen Paczka, яка володіє великою мережею пунктів видачі та поштоматів по всій Польщі. Про це польське представництво української компанії повідомило у себе на LinkedIn.\nТепер клієнти Nova Post зможуть відправляти й отримувати посилки не лише…",
+    "published": "2026-07-24T06:50:55",
+    "fetched": "2026-07-24T17:38:31.594407",
+    "title_uk": "Nova Post співпрацює з Orlen Paczka: 15 000 нових точок у Польщі",
+    "summary_uk": "Nova Post уклала угоду з Orlen Paczka, що відкриває доступ до 15 000 нових пунктів видачі та поштоматів у Польщі. Клієнти зможуть зручніше відправляти та отримувати посилки. Це розширення мережі покращить логістику для українських користувачів.",
+    "what_it_means": {
+      "ua_importer": "Співпраця Nova Post з Orlen Paczka може спростити логістику для українських імпортерів, які працюють з Польщею, завдяки розширенню мережі доставки.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Nova Post співпрацює з Orlen Paczka: 15 000 нових точок у Польщі",
+    "summary": "Nova Post уклала угоду з Orlen Paczka, що відкриває доступ до 15 000 нових пунктів видачі та поштоматів у Польщі. Клієнти зможуть зручніше відправляти та отримувати посилки. Це розширення мережі покращить логістику для українських користувачів.",
+    "link": "https://rau.ua/news/maye-tysiachi-punktiv-vydachi-ta-poshtomativ-nova-post-pochynaye-spivpratciu-z-polskoiu-kompaniyeiu-orlen-paczka/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eed0c238ad7a",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/vybir-onlayin-a-pokupka-u-magazyni-comfy-doslidyla-novu-povedinku-ukrayinskykh-spozhyvachiv/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Вибір онлайн, а покупка у магазині: Comfy дослідила нову поведінку українських споживачів",
+    "body_orig": "Попри те, що частка онлайн-продажів на ринку побутової техніки та електроніки сьогодні оцінюється приблизно у 30–40%, реальний вплив цифрових каналів на продажі значно більший. Щоб зрозуміти, наскільки онлайн впливає на покупки у фізичних магазинах, Comfy провела власне дослідження клієнтської повед…",
+    "published": "2026-07-24T05:50:11",
+    "fetched": "2026-07-24T17:38:31.594418",
+    "title_uk": "Comfy дослідила вплив онлайн-продажів на покупки в магазинах",
+    "summary_uk": "Дослідження Comfy показало, що частка онлайн-продажів у ринку побутової техніки та електроніки становить 30–40%. Однак реальний вплив цифрових каналів на фізичні покупки значно більший. Це свідчить про зміну поведінки споживачів, які все частіше обирають онлайн для вибору товарів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Важливо враховувати, що споживачі використовують онлайн для вибору, тому варто адаптувати стратегії промоцій та асортименту в магазинах."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Comfy дослідила вплив онлайн-продажів на покупки в магазинах",
+    "summary": "Дослідження Comfy показало, що частка онлайн-продажів у ринку побутової техніки та електроніки становить 30–40%. Однак реальний вплив цифрових каналів на фізичні покупки значно більший. Це свідчить про зміну поведінки споживачів, які все частіше обирають онлайн для вибору товарів.",
+    "link": "https://rau.ua/news/vybir-onlayin-a-pokupka-u-magazyni-comfy-doslidyla-novu-povedinku-ukrayinskykh-spozhyvachiv/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "acd3b6b0d506",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/yevgeniia-royik-oleyina-iak-stvoriuvavsia-novyyi-logotyp-i-chomu-tcia-istoriia-naspravdi-ne-pro-dyzayin/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Євгенія Роїк, «Олейна»: як створювався новий логотип і чому ця  історія насправді не про дизайн",
+    "body_orig": "Євгенія Роїк, маркетинг-менеджерка Bunge, виробника ТМ «Олейна» в Україні, розповідає, чому оновлення логотипа — це значно більше, ніж зміна дизайну. На прикладі «Олейна» — про еволюцію бренду, спираючись на споживчі дослідження, повагу до накопиченого капіталу бренду та потребу бути сучасним для св…",
+    "published": "2026-07-24T03:55:44",
+    "fetched": "2026-07-24T17:38:31.594440",
+    "title_uk": "Євгенія Роїк про еволюцію бренду «Олейна» та новий логотип",
+    "summary_uk": "Євгенія Роїк, маркетинг-менеджерка Bunge, розповіла про зміну логотипу ТМ «Олейна». Оновлення базується на споживчих дослідженнях та потребі відповідати сучасним трендам. Бренд зберігає повагу до свого капіталу, що важливо для споживачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Оновлення бренду може вплинути на споживчий інтерес до продукції «Олейна». Рекомендується стежити за змінами в позиціонуванні на полицях."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Євгенія Роїк про еволюцію бренду «Олейна» та новий логотип",
+    "summary": "Євгенія Роїк, маркетинг-менеджерка Bunge, розповіла про зміну логотипу ТМ «Олейна». Оновлення базується на споживчих дослідженнях та потребі відповідати сучасним трендам. Бренд зберігає повагу до свого капіталу, що важливо для споживачів.",
+    "link": "https://rau.ua/news/yevgeniia-royik-oleyina-iak-stvoriuvavsia-novyyi-logotyp-i-chomu-tcia-istoriia-naspravdi-ne-pro-dyzayin/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "167453e1f9e9",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Is Hoka slowing down?",
+    "body_orig": "Deckers Brands, which also runs Ugg, beat expectations for Q1, but some analysts wonder whether demand for its sneaker brand could wane.",
+    "published": "2026-07-24T16:25:00",
+    "fetched": "2026-07-24T17:38:37.971773",
+    "title_uk": "Hoka може знизити попит на кросівки",
+    "summary_uk": "Deckers Brands, материнська компанія Hoka та Ugg, перевищила прогнози за Q1. Проте аналітики висловлюють занепокоєння щодо можливого зниження попиту на кросівки Hoka. Це може вплинути на стратегії продажів компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зміни в попиті на спортивне взуття. Можливо, варто переглянути асортимент та акції для підтримки продажів."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Hoka може знизити попит на кросівки",
+    "summary": "Deckers Brands, материнська компанія Hoka та Ugg, перевищила прогнози за Q1. Проте аналітики висловлюють занепокоєння щодо можливого зниження попиту на кросівки Hoka. Це може вплинути на стратегії продажів компанії.",
+    "link": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d9aab4ad3374",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/adidas-concept-store-mall-of-america/826110/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Adidas to open concept store in Mall of America",
+    "body_orig": "The Minnesota-based location will offer localized merchandise, including a shop dedicated to Timberwolves NBA player Anthony Edwards.",
+    "published": "2026-07-24T15:52:00",
+    "fetched": "2026-07-24T17:38:37.971802",
+    "title_uk": "Adidas відкриє концептуальний магазин у Mall of America",
+    "summary_uk": "Adidas планує відкрити новий концептуальний магазин у Mall of America в Міннесоті. Магазин пропонуватиме локалізовані товари, зокрема, спеціальний стенд, присвячений гравцеві НБА Ентоні Едвардсу. Відкриття заплановане на 2026 рік.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Adidas відкриє концептуальний магазин у Mall of America",
+    "summary": "Adidas планує відкрити новий концептуальний магазин у Mall of America в Міннесоті. Магазин пропонуватиме локалізовані товари, зокрема, спеціальний стенд, присвячений гравцеві НБА Ентоні Едвардсу. Відкриття заплановане на 2026 рік.",
+    "link": "https://www.retaildive.com/news/adidas-concept-store-mall-of-america/826110/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7bc7d7deb344",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/the-weekly-closeout-digital-brands-group-enacts-reverse-stock-split-oil-p/826091/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "The Weekly Closeout: Digital Brands Group enacts reverse stock split, gas prices up again",
+    "body_orig": "The company will implement a 1-for-40 split to comply with Nasdaq rules, and this week's $100-per-barrel price on oil poses a risk to household budgets.",
+    "published": "2026-07-24T15:38:00",
+    "fetched": "2026-07-24T17:38:37.971811",
+    "title_uk": "Digital Brands Group проводить зворотний спліт акцій 1 до 40",
+    "summary_uk": "Компанія Digital Brands Group оголосила про зворотний спліт акцій у співвідношенні 1 до 40, щоб відповідати вимогам Nasdaq. Ціна на нафту цього тижня досягла $100 за барель, що може вплинути на бюджети домогосподарств.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Digital Brands Group проводить зворотний спліт акцій 1 до 40",
+    "summary": "Компанія Digital Brands Group оголосила про зворотний спліт акцій у співвідношенні 1 до 40, щоб відповідати вимогам Nasdaq. Ціна на нафту цього тижня досягла $100 за барель, що може вплинути на бюджети домогосподарств.",
+    "link": "https://www.retaildive.com/news/the-weekly-closeout-digital-brands-group-enacts-reverse-stock-split-oil-p/826091/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "82539d91b1d6",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
+    "body_orig": "The discount retailer is on track to open around 110 stores this year.",
+    "published": "2026-07-24T15:30:00",
+    "fetched": "2026-07-24T17:38:37.971821",
+    "title_uk": "Ross відкриває близько 110 нових магазинів у 2026 році",
+    "summary_uk": "Роздрібний дисконтний рітейлер Ross планує відкрити близько 110 нових магазинів цього року. Це частина стратегії розширення фізичної присутності компанії. Відкриття нових локацій відбудеться у різних регіонах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ross відкриває близько 110 нових магазинів у 2026 році",
+    "summary": "Роздрібний дисконтний рітейлер Ross планує відкрити близько 110 нових магазинів цього року. Це частина стратегії розширення фізичної присутності компанії. Відкриття нових локацій відбудеться у різних регіонах.",
+    "link": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
