@@ -149752,5 +149752,804 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "332e2a76edec",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wraca-strach-Ropa-po-120-dolarow-i-koniec-Wspanialej-Siodemki-9173139.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Na Wall Street wraca strach. Ropa po 120 dolarów i koniec Wspaniałej Siódemki?",
+    "body_orig": "Na rynki finansowe powrócił strach przed jednym z głównych zagrożeń gospodarczych – inflacją. Inwestorzy z obawą obserwują marsz cen ropy w kierunku 100 USD za baryłkę. Dodatkowych napięć dostarczają spółki technologiczne, z których w pośpiechu wycofują kapitał najwięksi gracze na amerykańskiej giełdzie.",
+    "published": "2026-07-25T05:00:00",
+    "fetched": "2026-07-25T06:34:38.020009",
+    "title_uk": "Інвестори стурбовані зростанням цін на нафту до 100 доларів",
+    "summary_uk": "На фінансових ринках знову з'явилися побоювання щодо інфляції. Ціни на нафту наближаються до 100 доларів за барель, що викликає занепокоєння серед інвесторів. Технологічні компанії також зазнають відтоку капіталу, оскільки великі інвестори виходять з ринку.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення витрат на імпорт товарів, що містять нафтові продукти. Імпортерам варто переглянути свої ціни.",
+      "pl_distributor": "Польські дистриб'ютори FMCG можуть зіткнутися з підвищенням вартості товарів через зростання цін на нафту. Рекомендується переглянути стратегії закупівель.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на нафту може вплинути на витрати в категоріях, пов'язаних з енергетикою. Рекомендується переглянути плани на Q4 2026."
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Інвестори стурбовані зростанням цін на нафту до 100 доларів",
+    "summary": "На фінансових ринках знову з'явилися побоювання щодо інфляції. Ціни на нафту наближаються до 100 доларів за барель, що викликає занепокоєння серед інвесторів. Технологічні компанії також зазнають відтоку капіталу, оскільки великі інвестори виходять з ринку.",
+    "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wraca-strach-Ropa-po-120-dolarow-i-koniec-Wspanialej-Siodemki-9173139.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "47a4581506eb",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/wlasciciel-7-eleven-jednak-nie-kupi-udzialow-zabki-szczegoly-fiaska-negocjacji/h7vfw45",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gigant z Azji rezygnuje z kupna udziałów Żabki. Negocjacje zakończyły się fiaskiem",
+    "body_orig": "Japoński gigant handlowy Seven &amp; i Holdings wycofał się z planów kapitałowego wejścia w Grupę Żabka. Koncern nie porozumiał się ze stroną sprzedającą co do warunków transakcji, choć wciąż deklaruje zainteresowanie ekspansją na Starym Kontynencie.",
+    "published": "2026-07-25T05:41:14",
+    "fetched": "2026-07-25T06:34:39.137564",
+    "title_uk": "Seven & i Holdings відмовився від купівлі частки в Żabka",
+    "summary_uk": "Японська компанія Seven & i Holdings скасувала плани щодо інвестицій у Grupę Żabka. Переговори про умови угоди не увінчалися успіхом, хоча компанія залишається зацікавленою в розширенні на європейському ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Відмова Seven & i Holdings може вплинути на конкурентне середовище в Польщі. Дистриб'ютори повинні переглянути свої стратегії, враховуючи можливу нестачу інвестицій у ринок.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Seven & i Holdings відмовився від купівлі частки в Żabka",
+    "summary": "Японська компанія Seven & i Holdings скасувала плани щодо інвестицій у Grupę Żabka. Переговори про умови угоди не увінчалися успіхом, хоча компанія залишається зацікавленою в розширенні на європейському ринку.",
+    "link": "https://businessinsider.com.pl/biznes/wlasciciel-7-eleven-jednak-nie-kupi-udzialow-zabki-szczegoly-fiaska-negocjacji/h7vfw45",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "00b121c4c13a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/dr-irena-eris-od-pozyczki-od-mamy-do-imperium-kosmetycznego-i-majatku-wartego-setki/78f59e1",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Pożyczyła pieniądze od mamy i mieszała kremy wiertarką. Tak zbudowała kosmetyczne imperium",
+    "body_orig": "Zaczynała w wynajętym pomieszczeniu po piekarni, z pożyczką od mamy i jednym kremem. Dziś marka Dr Irena Eris jest rozpoznawalna na całym świecie, a jej założycielka znalazła się w gronie najbogatszych Polek. To historia biznesu, który wyrósł z odwagi, wiedzy i rodzinnego wsparcia.",
+    "published": "2026-07-25T04:00:00",
+    "fetched": "2026-07-25T06:34:39.137601",
+    "title_uk": "Історія успіху Dr Irena Eris: від крему до світового бренду",
+    "summary_uk": "Dr Irena Eris почала з одного крему та позики від матері, а тепер є відомим брендом у всьому світі. Засновниця потрапила до списку найзаможніших жінок Польщі. Її успіх став можливим завдяки сміливості та підтримці родини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Історія Dr Irena Eris може надихнути польських дистриб'юторів на співпрацю з новими брендами, які мають потенціал для зростання.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Історія успіху Dr Irena Eris: від крему до світового бренду",
+    "summary": "Dr Irena Eris почала з одного крему та позики від матері, а тепер є відомим брендом у всьому світі. Засновниця потрапила до списку найзаможніших жінок Польщі. Її успіх став можливим завдяки сміливості та підтримці родини.",
+    "link": "https://businessinsider.com.pl/wiadomosci/dr-irena-eris-od-pozyczki-od-mamy-do-imperium-kosmetycznego-i-majatku-wartego-setki/78f59e1",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9268b700b757",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/polska-zywnosc-podbija-swiat-eksport-i-import-w-liczbach/5mjcv5y",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Świat zajada się polskimi produktami. Kraj w tym roku opuściła żywność za wielką sumę",
+    "body_orig": "Wartość eksportu artykułów rolno-spożywczych z Polski przekroczyła już 100 mld zł. Tylko w ciągu pierwszych pięciu miesięcy 2026 r. Największa część jedzenia wyprodukowanego w naszym kraju trafiła do Niemiec. Wiadomo, jak to wygląda w przypadku innych krajów.",
+    "published": "2026-07-24T18:25:47",
+    "fetched": "2026-07-25T06:34:39.137639",
+    "title_uk": "Польща експортує понад €22 млрд продуктів харчування",
+    "summary_uk": "Експорт агропродовольчих товарів з Польщі перевищив €22 млрд. Найбільше продукції постачають до Німеччини. Протягом перших п'яти місяців 2026 року Польща продовжує нарощувати обсяги експорту.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання експорту може створити конкуренцію на внутрішньому ринку. Дистриб'юторам слід переглянути асортимент і ціни.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання експорту польських продуктів може вплинути на ціни та асортимент у ритейлі. Рекомендується моніторити зміни на полицях."
+    },
+    "tags": [
+      "експорт",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща експортує понад €22 млрд продуктів харчування",
+    "summary": "Експорт агропродовольчих товарів з Польщі перевищив €22 млрд. Найбільше продукції постачають до Німеччини. Протягом перших п'яти місяців 2026 року Польща продовжує нарощувати обсяги експорту.",
+    "link": "https://businessinsider.com.pl/gospodarka/polska-zywnosc-podbija-swiat-eksport-i-import-w-liczbach/5mjcv5y",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2c12e0332f04",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/ceny-noclegow-w-europie-mocno-w-gore-chorwacja-w-czolowce",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "„Ostatni wolny pokój” skłania do przepłacania. Eksperci radzą, jak tego uniknąć",
+    "body_orig": "Ceny noclegów w Unii Europejskiej wzrosły od maja 2021 r. do maja 2026 r. średnio o 46,5 proc. Jeszcze mocniej podrożały hotele i apartamenty w popularnych kierunkach wakacyjnych: w Chorwacji stawki poszły w górę o 92,2 proc., w Hiszpanii o 76,1 proc., a w Grecji o 68,3 proc. Letni wyjazd pochłania coraz większą część domowego budżetu, ale kilka decyzji podjętych przed rezerwacją może ograniczyć końcowy rachunek.\nChoć ogólna inflacja w Europie wyhamowała, branża noclegowa nie wróciła do dawnych cen. Turyści płacą więcej za pokój hotelowy, apartament lub studio, a w szczycie sezonu różnice między terminami i obiektami potrafią być bardzo duże. Największy skok zanotowała Chorwacja, od lat popularna wśród polskich turystów – w ciągu pięciu lat ceny zakwaterowania niemal się tam podwoiły.\nCena za dobę to dopiero początek rachunku\nNocleg jest dziś jedną z największych pozycji w wakacyjnym budżecie. Samo porównanie stawek wyświetlanych na liście ofert może jednak prowadzić do błędnych wniosków. Ten sam pokój bywa dostępny w różnych cenach na kilku portalach rezerwacyjnych. Inna stawka może obowiązywać bezpośrednio na stronie hotelu, a jeszcze inną można uzyskać podczas kontaktu telefonicznego z obiektem.\n– Szukając zakwaterowania, warto trzymać się kilku podstawowych zasad. Przede wszystkim nie należy ograniczać się do jednego serwisu rezerwacyjnego. To samo miejsce warto sprawdzić na kilku platformach, a także bezpośrednio na stronie internetowej obiektu lub kontaktując się z nim telefonicznie – mówi Linda Gáliková, szefowa PR w Finax.\nCzęść serwisów oferuje programy lojalnościowe, które obniżają cenę po kilku rezerwacjach lub zapewniają dodatkowe udogodnienia. Korzyść zależy jednak od warunków konkretnej oferty, dlatego nie każda promocyjna etykieta przekłada się na najniższy koszt.\nTani apartament może podrożeć przy płatności\nCo ważne, stawka za dobę nie zawsze obejmuje wszystkie obowiązkowe opłaty. Do rachunku mogą dojść koszty sprzątania końcowego, pościeli, parkingu, podatku lokalnego albo opłata związana z pozostawieniem apartamentu w odpowiednim stanie.\nW przypadku krótkiego pobytu jednorazowa opłata za sprzątanie mocno podnosi średni koszt jednej nocy. Różnica staje się szczególnie widoczna, gdy turysta porównuje obiekt z pozornie wyższą ceną, ale bez dodatkowych dopłat.\nKońcowy rachunek może wzrosnąć o kilkadziesiąt, a nawet kilkaset euro. Najtańsza oferta na pierwszym ekranie wyszukiwarki nie musi więc wygrać po doliczeniu wszystkich pozycji.\nPrzed zatwierdzeniem rezerwacji trzeba sprawdzić podsumowanie kosztów i zasady anulowania. Pozwala to uniknąć sytuacji, w której dopłaty pojawiają się dopiero na ostatnim etapie płatności lub po przyjeździe.\nJeden dzień różnicy może obniżyć cenę\nCeny noclegów w hotelach i apartamentach zmieniają się w zależności od popytu. Stawki rosną w weekendy, święta i w dniach, gdy obłożenie jest największe. Dlatego przesunięcie przyjazdu o jeden albo dwa dni może wyraźnie zmienić koszt całego pobytu. W części miej",
+    "published": "2026-07-24T18:42:24",
+    "fetched": "2026-07-25T06:34:39.909984",
+    "title_uk": "Ціни на проживання в ЄС зросли на 46,5% з 2021 року",
+    "summary_uk": "Ціни на ночівлю в Європі зросли на 46,5% з травня 2021 до травня 2026. Найбільше подорожчали готелі в Хорватії (+92%), Іспанії (+76%) та Греції (+68%). Експерти радять перевіряти ціни на кількох платформах, оскільки різниця може бути значною.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні враховувати підвищення витрат на подорожі для клієнтів, що може вплинути на попит на продукцію в сегменті HoReCa.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Категорійні менеджери повинні враховувати зростання витрат на проживання, що може вплинути на споживчі звички та попит на певні категорії товарів."
+    },
+    "tags": [
+      "ціни-сировина",
+      "HoReCa",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на проживання в ЄС зросли на 46,5% з 2021 року",
+    "summary": "Ціни на ночівлю в Європі зросли на 46,5% з травня 2021 до травня 2026. Найбільше подорожчали готелі в Хорватії (+92%), Іспанії (+76%) та Греції (+68%). Експерти радять перевіряти ціни на кількох платформах, оскільки різниця може бути значною.",
+    "link": "https://300gospodarka.pl/news/ceny-noclegow-w-europie-mocno-w-gore-chorwacja-w-czolowce",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "60fb27a5c788",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/nielegalne-kasyna-online-kusza-polakow-a-budzet-traci-miliardy-wei-chce-konca-monopolu",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nielegalne kasyna online kuszą Polaków, a budżet traci miliardy. WEI chce końca monopolu",
+    "body_orig": "Ponad 3 mln Polaków korzysta z nielegalnych serwisów hazardowych online, a w samym segmencie kasyn internetowych szara strefa ma ok. 40 proc. rynku – wynika z najnowszego raportu Warsaw Enterprise Institute (WEI). Według autorów analizy państwowy monopol, który miał ograniczyć nielegalny hazard, nie daje dziś pełnej kontroli nad rynkiem. W latach 2026–2030 budżet państwa może stracić przez szarą strefę ok. 9,4 mld zł z samego podatku od gier.\nRaport WEI „Szara strefa w Polsce. Kasyna internetowe” uderza w obecny model regulacji rynku. W Polsce jedynym legalnym operatorem kasyn online jest Total Casino, marka należąca do Totalizatora Sportowego. Taki system działa od 2017 r., gdy nowelizacja ustawy o grach hazardowych objęła gry hazardowe w internecie monopolem państwa, z wyjątkiem zakładów wzajemnych i loterii promocyjnych.\nMonopol miał uporządkować rynek i wypchnąć z niego nielegalnych operatorów. Według WEI efekt jest jednak znacznie słabszy, niż zakładano. Legalny udział w całym polskim rynku gier online wynosi 70 proc., ale w segmencie kasyn online spada do 60 proc. Resztę przejmują podmioty działające poza polskim prawem.\nCo trzeci złoty trafia poza legalny rynek\nWEI powołuje się na dane H2 Gambling Capital, według których w 2025 r. nielegalny rynek gier online wygenerował 2,98 mld zł przychodów netto operatorów. Z tej kwoty 1,75 mld zł przypadło na nielegalne kasyna internetowe, a 1,24 mld zł na nielegalne zakłady. Przychód netto operatora, określany skrótem GGR, to kwota, która zostaje firmie po odjęciu wypłat dla graczy od stawek postawionych przez użytkowników. To ważna miara, bo pokazuje, ile faktycznie zarabia operator na grze.\nObrót szarej strefy w grach online sięgnął w 2025 r. ok. 73,7 mld zł. Depozyty, czyli pieniądze wpłacone przez graczy do nielegalnych operatorów, wyniosły ok. 15 mld zł.\nAutorzy raportu opisują to mocnym skrótem: co trzecia złotówka przegrana online trafia do szarej strefy. Dla państwa oznacza to brak dochodów z podatków. Dla gracza – brak ochrony, którą powinien mieć w legalnym systemie.\nMonopol w internecie, konkurencja w świecie stacjonarnym\nPolski model ma w sobie paradoks. Kasyna stacjonarne działają w systemie koncesji, czyli mogą funkcjonować różni operatorzy, jeśli spełnią wymagania państwa. Zakłady wzajemne online również działają w modelu zezwoleń. Natomiast kasyna internetowe zostały oddane pod monopol państwa.\nWedług WEI ta różnica ma znaczenie. W zakładach online udział szarej strefy wynosi 22 proc. W kasynach internetowych, gdzie działa monopol, nielegalni operatorzy mają aż około 40 proc. rynku. Raport WEI przekonuje, że jeden legalny operator nie jest w stanie odpowiedzieć na cały popyt. Total Casino ponosi koszty regulacyjne, podatkowe i działa pod zakazem reklamy. Tymczasem zagraniczne serwisy offshore mogą obchodzić polskie przepisy, reklamować się w internecie i przyciągać graczy szerszą ofertą.\nOffshore oznacza w tym kontekście operatorów działających z zagranicy, często bez polskiej licencj",
+    "published": "2026-07-24T17:52:22",
+    "fetched": "2026-07-25T06:34:39.910070",
+    "title_uk": "Польща втрачає мільярди через неlegalні онлайн-казино",
+    "summary_uk": "Більше 3 млн поляків користуються неlegalними азартними сайтами. За прогнозами, бюджет може втратити до €2.1 млрд через податки на азартні ігри в період 2026-2030. Монополія Total Casino не забезпечує контролю над ринком, де частка нелегальних казино складає 40%. Виручка нелегального ринку в 2025 році сягне €0.6 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання нелегального ринку може вплинути на легальних операторів. Дистриб'ютори повинні враховувати ризики та можливі зміни у попиті.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання нелегальних казино, що може вплинути на категорії азартних ігор. Перегляньте асортимент і стратегії просування, щоб залишатися конкурентоспроможними."
+    },
+    "tags": [
+      "регуляція",
+      "податки",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща втрачає мільярди через неlegalні онлайн-казино",
+    "summary": "Більше 3 млн поляків користуються неlegalними азартними сайтами. За прогнозами, бюджет може втратити до €2.1 млрд через податки на азартні ігри в період 2026-2030. Монополія Total Casino не забезпечує контролю над ринком, де частка нелегальних казино складає 40%. Виручка нелегального ринку в 2025 році сягне €0.6 млрд.",
+    "link": "https://300gospodarka.pl/news/nielegalne-kasyna-online-kusza-polakow-a-budzet-traci-miliardy-wei-chce-konca-monopolu",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c486f986414",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/bodrums-new-culinary-powerhouses-224779",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bodrum’s new culinary powerhouses",
+    "body_orig": "Few restaurants in Türkiye enjoy the reputation of 7 Mehmet. For many people, it is reason enough to travel to Antalya for a meal. Despite its popularity, the restaurant has always avoided expansion. It never considered opening a second location, even in Antalya. That reflected owner Mehmet Akdağ’s perfectionist approach. This summer, he changed his mind with the opening of “Daha” at The Bodrum EDITION. Even the name, meaning “more,” reflects the ambition behind the project.",
+    "published": "2026-07-25T06:10:17",
+    "fetched": "2026-07-25T06:34:47.241790",
+    "title_uk": "Відкриття нового ресторану Daha в Бодрумі",
+    "summary_uk": "Власник ресторану 7 Mehmet, Мехмет Акдаг, відкрив новий заклад Daha в The Bodrum EDITION. Це рішення стало несподіваним, адже раніше він уникнув розширення. Назва ресторану означає 'більше', що відображає амбіції проекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Відкриття нового ресторану може створити попит на продукти харчування та напої, що відкриває можливості для постачальників. Рекомендується дослідити можливості співпраці.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "HoReCa",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Відкриття нового ресторану Daha в Бодрумі",
+    "summary": "Власник ресторану 7 Mehmet, Мехмет Акдаг, відкрив новий заклад Daha в The Bodrum EDITION. Це рішення стало несподіваним, адже раніше він уникнув розширення. Назва ресторану означає 'більше', що відображає амбіції проекту.",
+    "link": "https://www.hurriyetdailynews.com/bodrums-new-culinary-powerhouses-224779",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "abdbc2cadc4d",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/fresh-produce-exports-hit-first-half-record-224774",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Fresh produce exports hit first-half record",
+    "body_orig": "Türkiye’s fresh fruit and vegetable export revenue climbed 39 percent year-on-year to a record $2.35 billion in the first half of 2026, exceeding $2 billion for the first time in a January-June period.",
+    "published": "2026-07-25T05:50:28",
+    "fetched": "2026-07-25T06:34:47.241806",
+    "title_uk": "Експорт свіжих овочів і фруктів з Туреччини досяг рекорду",
+    "summary_uk": "Експорт свіжих фруктів і овочів з Туреччини зріс на 39% до $2.35 млрд у першій половині 2026 року. Це перший випадок, коли дохід перевищив $2 млрд за період січень-червень. Зростання свідчить про успішність турецьких агровиробників на міжнародних ринках.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про зростаючий попит на турецькі продукти. Виробники можуть розглядати нові ринки для експорту.",
+      "category_manager": "Зростання експорту може вплинути на ціни на свіжі овочі та фрукти в регіоні. Рекомендується переглянути асортимент та ціни на ці категорії."
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Експорт свіжих овочів і фруктів з Туреччини досяг рекорду",
+    "summary": "Експорт свіжих фруктів і овочів з Туреччини зріс на 39% до $2.35 млрд у першій половині 2026 року. Це перший випадок, коли дохід перевищив $2 млрд за період січень-червень. Зростання свідчить про успішність турецьких агровиробників на міжнародних ринках.",
+    "link": "https://www.hurriyetdailynews.com/fresh-produce-exports-hit-first-half-record-224774",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "223b523f48ff",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/americas/us-stocks-close-week-mixed/4008742",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks close week mixed",
+    "body_orig": "Dow Jones up 0.46%, S&amp;P 500 flat and Nasdaq down 0.64% while European indexes close week with increases",
+    "published": "2026-07-24T21:29:54",
+    "fetched": "2026-07-25T06:34:52.202642",
+    "title_uk": "Американські акції закрили тиждень змішано",
+    "summary_uk": "Індекс Dow Jones зріс на 0.5%, S&P 500 залишився без змін, а Nasdaq впав на 0.6%. Європейські індекси завершили тиждень зростанням. Загалом, ринок демонструє змішану динаміку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські акції закрили тиждень змішано",
+    "summary": "Індекс Dow Jones зріс на 0.5%, S&P 500 залишився без змін, а Nasdaq впав на 0.6%. Європейські індекси завершили тиждень зростанням. Загалом, ринок демонструє змішану динаміку.",
+    "link": "https://www.aa.com.tr/en/americas/us-stocks-close-week-mixed/4008742",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9dea5a48e18",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/grupul-city-grill-ar-putea-depasi-pentru-prima-data-de-pragul-de-500-mil-lei-afaceri-in-timp-ce-piata-horeca-scade-noi-am-reusit-un-mic-plus-dar-suntem-departe-de-ce-ne-am-bugetat-23201628",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul City Grill ar putea depăşi pentru prima dată de pragul de 500 mil. lei afaceri. „În timp ce piaţa HoReCa scade, noi am reuşit un mic plus, dar suntem departe de ce ne-am bugetat“",
+    "body_orig": "Grupul de restaurante City Grill, unul dintre cei mai importanţi actori din piaţa de ospitalitate din România, şi-a bugetat pentru acest an investiţii de 6,5 mil. euro (35 mil. lei), mai mult decât duble versus 2025. Banii vor merge către dezvoltarea reţelei, deja fiind deschisă o unitate în cadrul Cazinoului din Constanţa şi urmând şi altele. Spre exemplu, până la finalul lui 2026 ar urma să fie inaugurat şi restaurantul istoric Cerbul Carpatin din Braşov, însă Dragoş Petrescu, fondatorul City Grill, spune că termenul se mai poate schimba, momentan fiind vorba de octombrie-noiembrie.",
+    "published": "2026-07-24T21:06:00",
+    "fetched": "2026-07-25T06:34:55.095024",
+    "title_uk": "City Grill може вперше перевищити 500 млн леїв доходу",
+    "summary_uk": "Grupul City Grill, один з провідних ресторанних операторів у Румунії, планує інвестиції в €6.5 млн цього року, що більше ніж у 2025. Кошти підуть на розширення мережі, зокрема відкриття нового ресторану в Криму. До 2026 року також заплановано відкриття історичного ресторану в Брашові.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "HoReCa"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "City Grill може вперше перевищити 500 млн леїв доходу",
+    "summary": "Grupul City Grill, один з провідних ресторанних операторів у Румунії, планує інвестиції в €6.5 млн цього року, що більше ніж у 2025. Кошти підуть на розширення мережі, зокрема відкриття нового ресторану в Криму. До 2026 року також заплановано відкриття історичного ресторану в Брашові.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/grupul-city-grill-ar-putea-depasi-pentru-prima-data-de-pragul-de-500-mil-lei-afaceri-in-timp-ce-piata-horeca-scade-noi-am-reusit-un-mic-plus-dar-suntem-departe-de-ce-ne-am-bugetat-23201628",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "95944b990830",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/lupta-clienti-tradeville-unul-dintre-cei-mari-brokeri-bursa-valori-reduce-comisioanele-reactie-imediata-intrarea-piata-romaneasca-platformei-globale-tranzactionare-interactive-brokers-23202336",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Lupta pentru clienţi: Tradeville, unul dintre cei mai mari brokeri de la Bursa de Valori, reduce comisioanele ca reacţie imediată la intrarea pe piaţa românească a platformei globale de tranzacţionare Interactive Brokers",
+    "body_orig": "",
+    "published": "2026-07-24T18:32:45",
+    "fetched": "2026-07-25T06:34:55.095036",
+    "title_uk": "Tradeville знижує комісії через конкуренцію з Interactive Brokers",
+    "summary_uk": "Tradeville, один з найбільших брокерів Румунії, зменшує комісії на торгівлю. Це рішення стало відповіддю на вихід на ринок румунської платформи Interactive Brokers. Зниження комісій має на меті залучення нових клієнтів у конкурентному середовищі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Tradeville знижує комісії через конкуренцію з Interactive Brokers",
+    "summary": "Tradeville, один з найбільших брокерів Румунії, зменшує комісії на торгівлю. Це рішення стало відповіддю на вихід на ринок румунської платформи Interactive Brokers. Зниження комісій має на меті залучення нових клієнтів у конкурентному середовищі.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/lupta-clienti-tradeville-unul-dintre-cei-mari-brokeri-bursa-valori-reduce-comisioanele-reactie-imediata-intrarea-piata-romaneasca-platformei-globale-tranzactionare-interactive-brokers-23202336",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "172c6afdfe26",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bce-vrea-sa-profite-de-momentul-global-al-euro-si-face-disponibla-incepand-din-trimestrul-iv-o-noua-linie-de-lichiditate-pentru-bancile-din-afara-zonei-euro_962405.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "BCE vrea să profite de „momentul global al euro” și face disponiblă începând din trimestrul IV o nouă linie de lichiditate pentru băncile din afara zonei euro",
+    "body_orig": "Banca Centrală Europeană intenţionează din trimestrul patru să facă disponibilă linia de lichiditate în euro a băncilor centrale din afara zonei euro şi a început familiarizarea instituţiilor interesate de facilitate, a anunţat vineri BCE, transmite Reuters, relatează Agerpres.",
+    "published": "2026-07-25T06:31:20",
+    "fetched": "2026-07-25T06:34:57.247592",
+    "title_uk": "ЄЦБ запускає нову лінію ліквідності для банків поза зоною євро",
+    "summary_uk": "Європейський центральний банк оголосив про запуск нової лінії ліквідності в євро для банків, які не входять до зони євро, починаючи з четвертого кварталу. Це рішення має на меті підтримати фінансову стабільність в умовах глобальних змін. Банк вже розпочав ознайомлення зацікавлених установ з новою можливістю.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄЦБ запускає нову лінію ліквідності для банків поза зоною євро",
+    "summary": "Європейський центральний банк оголосив про запуск нової лінії ліквідності в євро для банків, які не входять до зони євро, починаючи з четвертого кварталу. Це рішення має на меті підтримати фінансову стабільність в умовах глобальних змін. Банк вже розпочав ознайомлення зацікавлених установ з новою можливістю.",
+    "link": "https://www.economica.net/bce-vrea-sa-profite-de-momentul-global-al-euro-si-face-disponibla-incepand-din-trimestrul-iv-o-noua-linie-de-lichiditate-pentru-bancile-din-afara-zonei-euro_962405.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e4ccb08ec117",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ucraina-si-a-creat-propriul-amazon-pentru-arme_962399.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ucraina și-a creat propriul „Amazon pentru arme”",
+    "body_orig": "Ucraina a schimbat modul în care își aprovizionează armata, renunțând parțial la sistemul clasic de achiziții centralizate. Potrivit publicației italiene Il Post, militarii pot comanda acum online drone și alte echipamente de care au nevoie, printr-o platformă digitală comparată de presa internațională cu „Amazon pentru arme”., scrie Mediafax.",
+    "published": "2026-07-25T05:48:30",
+    "fetched": "2026-07-25T06:34:57.247608",
+    "title_uk": "Україна запустила платформу для онлайн-замовлення військової техніки",
+    "summary_uk": "Україна змінила підхід до постачання армії, впровадивши онлайн-платформу для замовлення дронів та іншого обладнання. Цей новий метод дозволяє військовим швидше отримувати необхідні ресурси, зменшуючи залежність від традиційних централізованих закупівель.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Україна запустила платформу для онлайн-замовлення військової техніки",
+    "summary": "Україна змінила підхід до постачання армії, впровадивши онлайн-платформу для замовлення дронів та іншого обладнання. Цей новий метод дозволяє військовим швидше отримувати необхідні ресурси, зменшуючи залежність від традиційних централізованих закупівель.",
+    "link": "https://www.economica.net/ucraina-si-a-creat-propriul-amazon-pentru-arme_962399.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d068f5eb174d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/rheinmetall-isi-dubleaza-productia-de-pulbere-exploziva-pentru-munitie-in-contextul-reinarmarii-europei_962393.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Rheinmetall îşi dublează producţia de pulbere explozivă pentru muniţie, în contextul reînarmării Europei",
+    "body_orig": "Producătorul german de armament Rheinmetall îşi extinde fabrica din apropierea oraşului Munchen, urmărind să îşi dubleze producţia de pulbere explozivă pentru muniţie, în încercarea de a răspunde cererii tot mai mari generate de programul de reînarmare al Europei, transmite Reuters, citată de News.ro",
+    "published": "2026-07-25T05:40:27",
+    "fetched": "2026-07-25T06:34:57.247619",
+    "title_uk": "Rheinmetall подвоює виробництво вибухових речовин для боєприпасів",
+    "summary_uk": "Німецька компанія Rheinmetall розширює завод біля Мюнхена, щоб подвоїти виробництво вибухових речовин. Це рішення викликане зростаючим попитом через програму переозброєння в Європі. Виробництво планують збільшити в умовах підвищеної військової активності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Rheinmetall подвоює виробництво вибухових речовин для боєприпасів",
+    "summary": "Німецька компанія Rheinmetall розширює завод біля Мюнхена, щоб подвоїти виробництво вибухових речовин. Це рішення викликане зростаючим попитом через програму переозброєння в Європі. Виробництво планують збільшити в умовах підвищеної військової активності.",
+    "link": "https://www.economica.net/rheinmetall-isi-dubleaza-productia-de-pulbere-exploziva-pentru-munitie-in-contextul-reinarmarii-europei_962393.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d5fb5906aca3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ziua-si-scumpirea-la-pompa-motorina-s-a-scumpit-din-nou-azi-mai-sunt-cativa-bani-pana-la-pragul-de-10-lei-litrul_962386.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ziua și scumpirea la pompă: Motorina s-a scumpit din nou azi, mai sunt câțiva bani până la pragul de 10 lei litrul",
+    "body_orig": "Prețul motorinei a crescut și azi în stațiile de distribuție ale marilor lanțuri de alimentare cu carburanți, creșterea fiind ceva mai mică decât cle din zilele trecute, și mai sunt câțiva bani până ce pragul de 10 lei pe litru va fi spart.",
+    "published": "2026-07-25T04:59:00",
+    "fetched": "2026-07-25T06:34:57.247638",
+    "title_uk": "Ціна на дизель знову зросла в Румунії, наближаючись до 10 леїв",
+    "summary_uk": "Сьогодні в румунських автозаправках знову підвищилась ціна на дизель. Зростання було меншим, ніж у попередні дні, але до позначки 10 леїв за літр залишилось кілька грошей. Це свідчить про продовження тенденції зростання цін на паливо.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціна на дизель знову зросла в Румунії, наближаючись до 10 леїв",
+    "summary": "Сьогодні в румунських автозаправках знову підвищилась ціна на дизель. Зростання було меншим, ніж у попередні дні, але до позначки 10 леїв за літр залишилось кілька грошей. Це свідчить про продовження тенденції зростання цін на паливо.",
+    "link": "https://www.economica.net/ziua-si-scumpirea-la-pompa-motorina-s-a-scumpit-din-nou-azi-mai-sunt-cativa-bani-pana-la-pragul-de-10-lei-litrul_962386.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d0ff3c3da549",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/tradeville-cel-mai-mare-broker-de-retail-dn-romania-reduce-comisioanele-de-tranzactionare_962383.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Tradeville, cel mai mare broker de retail dn România, reduce comisioanele de tranzacționare",
+    "body_orig": "“Începând cu 1 august 2026, reducem cu 10% comisioanele procentuale de tranzacționare, pe toate piețele disponibile prin TradeVille: Bursa de Valori București, piețele europene și piața din Canada. De asemenea, reducem cu 10% comisioanele per acțiune pe piața din SUA”. Așa începe mesajul transmis de Tradeville clienților săi.",
+    "published": "2026-07-24T20:26:28",
+    "fetched": "2026-07-25T06:34:57.247647",
+    "title_uk": "Tradeville знижує комісії за торгівлю на 10%",
+    "summary_uk": "Tradeville оголосив про зниження комісій на 10% з 1 серпня 2026 року. Це стосується всіх ринків, включаючи Бухарестську фондову біржу, європейські та канадські ринки, а також ринок США. Зниження комісій може вплинути на активність трейдерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Tradeville знижує комісії за торгівлю на 10%",
+    "summary": "Tradeville оголосив про зниження комісій на 10% з 1 серпня 2026 року. Це стосується всіх ринків, включаючи Бухарестську фондову біржу, європейські та канадські ринки, а також ринок США. Зниження комісій може вплинути на активність трейдерів.",
+    "link": "https://www.economica.net/tradeville-cel-mai-mare-broker-de-retail-dn-romania-reduce-comisioanele-de-tranzactionare_962383.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0a57031d244b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fabrica-noua-in-romania-a-unui-gigant-chinez-sany-deja-prezenta-la-noi-in-tara-vrea-sa-produca-macarale-uriase-la-brasov-si-a-inceput-discutiile_962375.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fabrică nouă în România a unui gigant chinez. SANY, deja prezentă la noi în țară, vrea să producă macarale uriașe la Brașov și a început discuțiile",
+    "body_orig": "O companie din China care produce utilaje grele pentru construcţii are în plan să intre pe piaţa europeană, iar în acest sens a început demersurile pentru deschiderea unei unităţi de producţie în oraşul Ghimbav, judeţul Braşov, scrie Buna Ziua Brașov.",
+    "published": "2026-07-24T20:09:02",
+    "fetched": "2026-07-25T06:34:57.247666",
+    "title_uk": "Китайська компанія SANY планує новий завод у Румунії",
+    "summary_uk": "Китайська компанія SANY, що спеціалізується на виробництві важкої техніки, розпочала підготовку до відкриття виробництва в Гімбаві, Румунія. Завод виготовлятиме великі крани для європейського ринку. Це може стати важливим кроком для компанії у виході на нові ринки.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайська компанія SANY планує новий завод у Румунії",
+    "summary": "Китайська компанія SANY, що спеціалізується на виробництві важкої техніки, розпочала підготовку до відкриття виробництва в Гімбаві, Румунія. Завод виготовлятиме великі крани для європейського ринку. Це може стати важливим кроком для компанії у виході на нові ринки.",
+    "link": "https://www.economica.net/fabrica-noua-in-romania-a-unui-gigant-chinez-sany-deja-prezenta-la-noi-in-tara-vrea-sa-produca-macarale-uriase-la-brasov-si-a-inceput-discutiile_962375.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "37a333304ab8",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ukrayina-gotuje-bezpilotniki-z-dalnistyu-do-10-000-km-zelenskii-por52y",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Україна готує безпілотники з дальністю до 10 000 км — Зеленський",
+    "body_orig": "Володимир Зеленський заявив, що вже цього року українські Сили оборони отримають безпілотники з дальністю польоту до 4 000 км, а у 2027 році — нові моделі, здатні долати від 5 000 до 10 000 км.",
+    "published": "2026-07-24T20:41:01",
+    "fetched": "2026-07-25T06:34:44.119337",
+    "title_uk": "Україна отримає безпілотники з дальністю до 10 000 км",
+    "summary_uk": "Володимир Зеленський анонсував, що українські Сили оборони отримають безпілотники з дальністю до 4 000 км вже цього року. Нові моделі, здатні долати від 5 000 до 10 000 км, з'являться у 2027 році. Це підвищить можливості оборони країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Україна отримає безпілотники з дальністю до 10 000 км",
+    "summary": "Володимир Зеленський анонсував, що українські Сили оборони отримають безпілотники з дальністю до 4 000 км вже цього року. Нові моделі, здатні долати від 5 000 до 10 000 км, з'являться у 2027 році. Це підвищить можливості оборони країни.",
+    "link": "https://speka.ua/news/ukrayina-gotuje-bezpilotniki-z-dalnistyu-do-10-000-km-zelenskii-por52y",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ba4c6d1a54e0",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/defence-city-rozsirivsya-do-45-rezidentiv-skilki-virobnikiv-zbroyi-otrimali-derzpidtrimku-p085mg",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Defence City розширився до 45 резидентів: скільки виробників зброї отримали держпідтримку",
+    "body_orig": "Кількість резидентів спеціального правового режиму Defence City, створеного для підтримки українського оборонно-промислового комплексу, зросла до 45 підприємств, повідомляє Міноборони.&nbsp;",
+    "published": "2026-07-24T19:12:05",
+    "fetched": "2026-07-25T06:34:44.119379",
+    "title_uk": "Defence City має 45 резидентів, підтримка для виробників зброї",
+    "summary_uk": "Кількість резидентів Defence City зросла до 45 підприємств, що отримали державну підтримку. Цей спеціальний правовий режим створений для розвитку українського оборонно-промислового комплексу. Міністерство оборони підтвердило цю інформацію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Defence City має 45 резидентів, підтримка для виробників зброї",
+    "summary": "Кількість резидентів Defence City зросла до 45 підприємств, що отримали державну підтримку. Цей спеціальний правовий режим створений для розвитку українського оборонно-промислового комплексу. Міністерство оборони підтвердило цю інформацію.",
+    "link": "https://speka.ua/news/defence-city-rozsirivsya-do-45-rezidentiv-skilki-virobnikiv-zbroyi-otrimali-derzpidtrimku-p085mg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "352933c85d85",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/momenty-iaki-ne-maiut-viku-kolaboratciia-honey-x-budynok-igrashok/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Нова лінійка морозива: колаборація Honey x Будинок Іграшок",
+    "body_orig": "Honey та Будинок Іграшок розробили спільну лінійку морозива. Нові ласощі вже можна придбати в окермих магазинах мережі Будинок Іграшок, а також у всіх кондитерських Honey.\n«Колаборація народилася навколо ідеї моментів, які не мають віку та дозволяють ненадовго пірнути у безтурботність. Стрибати по к…",
+    "published": "2026-07-25T02:30:29",
+    "fetched": "2026-07-25T06:34:59.975154",
+    "title_uk": "Honey та Будинок Іграшок запустили нову лінійку морозива",
+    "summary_uk": "Honey та Будинок Іграшок представили спільну лінійку морозива, доступну в магазинах Будинок Іграшок та кондитерських Honey. Колаборація спрямована на створення моментів безтурботності для споживачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Honey та Будинок Іграшок запустили нову лінійку морозива",
+    "summary": "Honey та Будинок Іграшок представили спільну лінійку морозива, доступну в магазинах Будинок Іграшок та кондитерських Honey. Колаборація спрямована на створення моментів безтурботності для споживачів.",
+    "link": "https://rau.ua/news/momenty-iaki-ne-maiut-viku-kolaboratciia-honey-x-budynok-igrashok/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
