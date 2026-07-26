@@ -151307,5 +151307,246 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "93dd3ee0b004",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wojna-gigantow-o-rynek-lekow-na-odchudzanie-Inwestorzy-reaguja-na-ruch-Novo-Nordisk-9172919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wojna gigantów o rynek leków na odchudzanie. Inwestorzy reagują na ruch Novo Nordisk",
+    "body_orig": "Konflikt dwóch medycznych gigantów rozgrywa się na oczach całego świata. Novo Nordisk podjął decyzję o pozwie przeciwko swojemu największemu amerykańskiemu rywalowi – Eli Lilly.",
+    "published": "2026-07-26T05:00:00",
+    "fetched": "2026-07-26T07:08:22.998288",
+    "title_uk": "Конфлікт між Novo Nordisk та Eli Lilly за ринок препаратів для схуднення",
+    "summary_uk": "Novo Nordisk подала позов проти Eli Lilly, свого найбільшого конкурента в США. Це відбувається на фоні зростаючого попиту на препарати для схуднення. Інвестори уважно стежать за розвитком подій у цій галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Конфлікт між Novo Nordisk та Eli Lilly за ринок препаратів для схуднення",
+    "summary": "Novo Nordisk подала позов проти Eli Lilly, свого найбільшого конкурента в США. Це відбувається на фоні зростаючого попиту на препарати для схуднення. Інвестори уважно стежать за розвитком подій у цій галузі.",
+    "link": "https://www.bankier.pl/wiadomosc/Wojna-gigantow-o-rynek-lekow-na-odchudzanie-Inwestorzy-reaguja-na-ruch-Novo-Nordisk-9172919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0acedfc04fc8",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Branza-hotelarska-i-gastronomiczna-hamuje-inwestycje-mimo-sezonu-9171035.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Branża hotelarska i gastronomiczna hamuje inwestycje mimo sezonu",
+    "body_orig": "Przedsiębiorcy prowadzący działalność hotelarską, gastronomiczną i cateringową koncentrują się obecnie na utrzymaniu bieżącej działalności, kontroli kosztów i zachowaniu płynności finansowej – wskazuje badanie Europejskiego Funduszu Leasingowego. Nastroje w branży spadły poniżej progu rozwoju.",
+    "published": "2026-07-26T05:00:00",
+    "fetched": "2026-07-26T07:08:22.998298",
+    "title_uk": "Готельний та гастрономічний бізнес у Польщі знижує інвестиції",
+    "summary_uk": "Представники готельної, ресторанної та кейтерингової галузі Польщі зосереджуються на підтримці поточної діяльності та контролі витрат. За даними Європейського фонду лізингу, настрої в секторі впали нижче рівня розвитку. Це свідчить про зменшення інвестицій у галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження інвестицій у HoReCa може призвести до зменшення попиту на продукти. Розгляньте можливість адаптації асортименту до нових умов.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження інвестицій у секторі може вплинути на обсяги продажів у категоріях HoReCa. Рекомендується переглянути стратегії просування та запаси."
+    },
+    "tags": [
+      "інвестиції",
+      "HoReCa",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Готельний та гастрономічний бізнес у Польщі знижує інвестиції",
+    "summary": "Представники готельної, ресторанної та кейтерингової галузі Польщі зосереджуються на підтримці поточної діяльності та контролі витрат. За даними Європейського фонду лізингу, настрої в секторі впали нижче рівня розвитку. Це свідчить про зменшення інвестицій у галузі.",
+    "link": "https://www.bankier.pl/wiadomosc/Branza-hotelarska-i-gastronomiczna-hamuje-inwestycje-mimo-sezonu-9171035.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1fd5ea5c835e",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/praca/polacy-pracuja-za-krotko-nie-obedzie-sie-bez-kontrowersyjnej-reformy-analiza-7310976712059264a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy pracują za krótko. Nie obędzie się bez kontrowersyjnej reformy [ANALIZA]",
+    "body_orig": "Okres aktywności zawodowej mieszkańców Polski systematycznie się wydłuża, ale pozostaje niski na tle unijnej średniej. Bez podwyżek minimalnego wieku emerytalnego, zwłaszcza dla kobiet, o dalszy wzrost przeciętnego stażu pracy będzie coraz trudniej. Konsekwencją będą niskie emerytury pokoleń, które dzisiaj wchodzą na rynek pracy.",
+    "published": "2026-07-26T06:43:49",
+    "fetched": "2026-07-26T07:08:28.253555",
+    "title_uk": "Польща потребує підвищення віку виходу на пенсію для жінок",
+    "summary_uk": "Тривалість професійної активності в Польщі зростає, але залишається нижчою за середню в ЄС. Без підвищення мінімального віку виходу на пенсію, особливо для жінок, зростання середнього стажу роботи буде ускладнене. Це призведе до низьких пенсій для нових поколінь на ринку праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща потребує підвищення віку виходу на пенсію для жінок",
+    "summary": "Тривалість професійної активності в Польщі зростає, але залишається нижчою за середню в ЄС. Без підвищення мінімального віку виходу на пенсію, особливо для жінок, зростання середнього стажу роботи буде ускладнене. Це призведе до низьких пенсій для нових поколінь на ринку праці.",
+    "link": "https://www.money.pl/praca/polacy-pracuja-za-krotko-nie-obedzie-sie-bez-kontrowersyjnej-reformy-analiza-7310976712059264a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19363efb2bf7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/competitivitatea-dacia-costuri-rtr-mioveni-euro-7_962513.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Director de vânzări Dacia: Va exista o creștere a costurilor odată cu Euro 7. Prețurile vor fi stabilite astfel încât să rămânem competitivi",
+    "body_orig": "Odată cu prezentarea rezultatelor comerciale ale mărcii Dacia pentru prima jumătate a lui 2026, Frank Marotte, directorul global de marketing, vânzări și operațiuni, a explicat ce se va întâmpla cu prețurile mașinilor odată cu intrarea în vigoare a normelor de depoluare Euro 7.",
+    "published": "2026-07-26T06:18:53",
+    "fetched": "2026-07-26T07:08:52.530008",
+    "title_uk": "Dacia очікує зростання цін через нові екологічні норми Euro 7",
+    "summary_uk": "Dacia прогнозує підвищення вартості автомобілів у зв'язку з впровадженням норм Euro 7. Директор з продажів Frank Marotte зазначив, що ціни будуть встановлені так, щоб зберегти конкурентоспроможність на ринку. Це відбудеться на фоні звітності про результати продажів за першу половину 2026 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Dacia очікує зростання цін через нові екологічні норми Euro 7",
+    "summary": "Dacia прогнозує підвищення вартості автомобілів у зв'язку з впровадженням норм Euro 7. Директор з продажів Frank Marotte зазначив, що ціни будуть встановлені так, щоб зберегти конкурентоспроможність на ринку. Це відбудеться на фоні звітності про результати продажів за першу половину 2026 року.",
+    "link": "https://www.economica.net/competitivitatea-dacia-costuri-rtr-mioveni-euro-7_962513.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f30a4f2cabb1",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ziua-si-cresterea-de-pret-la-pompa-benzina-si-motorina-s-au-scumpit-si-azi-care-sunt-noile-preturi_962500.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ziua și creșterea de preț la pompă. Benzina și motorina s-au scumpit și azi, care sunt noile prețuri",
+    "body_orig": "OMV Petrom, liderul pieței de distribuție a carburanților, a scumpit azi și benzina și motorina, mișcare mai puțin obișnuită pentru o zi de duminică. Doi bani ne mai despart de pragul de 10 pe litrul de motorină.",
+    "published": "2026-07-26T05:03:59",
+    "fetched": "2026-07-26T07:08:52.530042",
+    "title_uk": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary_uk": "OMV Petrom підвищив ціни на бензин і дизель, що стало несподіваним кроком для неділі. Ціна на дизель наближається до €10 за літр, зростаючи на 2 бани. Це може вплинути на ринок пального в країні.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в Румунії може вплинути на вартість імпорту товарів, що потребують транспортування. Розгляньте можливість коригування цін на продукцію.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на паливо може призвести до підвищення витрат на логістику. Рекомендується переглянути стратегії управління витратами на транспортування."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary": "OMV Petrom підвищив ціни на бензин і дизель, що стало несподіваним кроком для неділі. Ціна на дизель наближається до €10 за літр, зростаючи на 2 бани. Це може вплинути на ринок пального в країні.",
+    "link": "https://www.economica.net/ziua-si-cresterea-de-pret-la-pompa-benzina-si-motorina-s-au-scumpit-si-azi-care-sunt-noile-preturi_962500.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0f09e200d035",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/keyisy-vizualnogo-merchendayizyngu-v-ukrayinskykh-magazynakh-shcho-i-chomu-pratciuye/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Кейси візуального мерчендайзингу в українських магазинах: що і чому працює",
+    "body_orig": "Що відрізняє магазин, у якому хочеться затриматися, від торгової точки, де покупець лише швидко бере потрібний товар? Часто справа не в асортименті чи цінах, а у візуальному мерчендайзингу — грамотній організації простору, яка непомітно впливає на поведінку клієнтів. На прикладах українських ритейле…",
+    "published": "2026-07-26T02:30:07",
+    "fetched": "2026-07-26T07:08:57.592624",
+    "title_uk": "Візуальний мерчендайзинг в українських магазинах: ефективні практики",
+    "summary_uk": "Візуальний мерчендайзинг впливає на поведінку покупців, формуючи привабливість магазинів. Приклади українських ритейлерів демонструють, як організація простору може підвищити затримку клієнтів у торгових точках. Це важливий аспект, що не завжди пов'язаний із цінами чи асортиментом.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Важливо враховувати візуальний мерчендайзинг у стратегіях розміщення товарів. Це може підвищити продажі через покращення сприйняття брендів на полицях."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Візуальний мерчендайзинг в українських магазинах: ефективні практики",
+    "summary": "Візуальний мерчендайзинг впливає на поведінку покупців, формуючи привабливість магазинів. Приклади українських ритейлерів демонструють, як організація простору може підвищити затримку клієнтів у торгових точках. Це важливий аспект, що не завжди пов'язаний із цінами чи асортиментом.",
+    "link": "https://rau.ua/news/keyisy-vizualnogo-merchendayizyngu-v-ukrayinskykh-magazynakh-shcho-i-chomu-pratciuye/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
