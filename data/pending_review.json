@@ -159342,5 +159342,1524 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "169d5904d456",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Koszty-budowy-domu-zrywaja-sie-do-lotu-Takich-wzrostow-cen-nie-bylo-od-czterech-lat-9174350.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koszty budowy domu zrywają się do lotu. Takich wzrostów cen nie było od czterech lat",
+    "body_orig": "Po blisko trzech latach ze stabilnymi kosztami budowy domu, ostatnie miesiące stały pod znakiem wzrostów cen. Co więcej, w czerwcu wzrost wyraźnie przyspieszył, osiągając największą dynamikę od października 2022 r. – wynika z danych serwisu wielkiebudowanie.pl. Budowa własnego domu drożeje przez ceny robocizny, które powoli przechodzą w galop.",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:10:52.137040",
+    "title_uk": "Вартість будівництва будинків у Польщі зростає",
+    "summary_uk": "Після трьох років стабільності, витрати на будівництво будинків у Польщі почали зростати. У червні 2026 року темпи зростання досягли найвищого рівня з жовтня 2022 року. Основними причинами є підвищення цін на робочу силу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на будівництво може призвести до підвищення цін на будівельні матеріали, що вплине на дистриб'юторів. Рекомендується переглянути ціни на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання витрат на будівництво може вплинути на категорії товарів, пов'язаних з будівництвом. Рекомендується переглянути асортимент і ціни на відповідні товари."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Вартість будівництва будинків у Польщі зростає",
+    "summary": "Після трьох років стабільності, витрати на будівництво будинків у Польщі почали зростати. У червні 2026 року темпи зростання досягли найвищого рівня з жовтня 2022 року. Основними причинами є підвищення цін на робочу силу.",
+    "link": "https://www.bankier.pl/wiadomosc/Koszty-budowy-domu-zrywaja-sie-do-lotu-Takich-wzrostow-cen-nie-bylo-od-czterech-lat-9174350.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e2d03f25b91",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Po-pol-roku-dzialania-KSeF-idzie-do-poprawki-Na-jakie-problemy-najczesciej-narzekaja-firmy-9174422.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Po pół roku działania KSeF idzie do poprawki. Z czym firmy wciąż mają problemy?",
+    "body_orig": "Już za kilka dni minie półrocze działania w Polsce Krajowego Systemu e-Faktur. Pierwsza grupa firm rozpoczęła obowiązkowe fakturowanie w nowym mechanizmie 1 lutego 2026 r. Mimo, że od startu KSeF minęło tyle miesięcy, przedsiębiorcy wciąż muszą mierzyć się z wieloma trudnościami, m.in. natury technologicznej. Co wciąż najbardziej im doskwiera?",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:10:52.137063",
+    "title_uk": "Проблеми з Krajowy System e-Faktur у Польщі тривають",
+    "summary_uk": "Після півроку роботи Krajowy System e-Faktur у Польщі, підприємці стикаються з технологічними труднощами. Перша група компаній почала обов'язкове електронне фактурування з 1 лютого 2026 року. Проблеми залишаються, і підприємці шукають рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори повинні бути готові до змін у процесах фактурування. Рекомендується перевірити системи на відповідність новим вимогам.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Проблеми з Krajowy System e-Faktur у Польщі тривають",
+    "summary": "Після півроку роботи Krajowy System e-Faktur у Польщі, підприємці стикаються з технологічними труднощами. Перша група компаній почала обов'язкове електронне фактурування з 1 лютого 2026 року. Проблеми залишаються, і підприємці шукають рішення.",
+    "link": "https://www.bankier.pl/wiadomosc/Po-pol-roku-dzialania-KSeF-idzie-do-poprawki-Na-jakie-problemy-najczesciej-narzekaja-firmy-9174422.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bca90570b613",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-pracy-zdalnej-Jednak-nie-takiej-jakiej-chca-kandydaci-9174264.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "O ponad 40 proc. więcej ofert pracy zdalnej. Jest jednak jeden haczyk",
+    "body_orig": "Liczba ofert pracy zdalnej wzrosła w ciągu ostatniego półrocza o 42,5 proc., jednak nie oznacza to, że znalezienie zatrudnienia stało się łatwiejsze. Najwięcej propozycji jest dla ekspertów IT o wysokich kompetencjach, podczas gdy kandydaci najczęściej poszukują pracy niewymagającej doświadczenia – wynika z danych Jooble. Jednocześnie najnowszy „Barometr Polskiego Rynku Pracy” Personnel Service wskazuje, że dla pracowników sama możliwość pracy z domu przestaje być najważniejsza.",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:10:52.137074",
+    "title_uk": "Пропозицій роботи з дому стало на 42% більше, але з нюансами",
+    "summary_uk": "За останні шість місяців кількість вакансій для дистанційної роботи зросла на 43%. Найбільше пропозицій для IT-фахівців з високими навичками, тоді як більшість кандидатів шукають роботу без досвіду. Згідно з даними Personnel Service, можливість працювати з дому вже не є головним пріоритетом для працівників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Пропозицій роботи з дому стало на 42% більше, але з нюансами",
+    "summary": "За останні шість місяців кількість вакансій для дистанційної роботи зросла на 43%. Найбільше пропозицій для IT-фахівців з високими навичками, тоді як більшість кандидатів шукають роботу без досвіду. Згідно з даними Personnel Service, можливість працювати з дому вже не є головним пріоритетом для працівників.",
+    "link": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-pracy-zdalnej-Jednak-nie-takiej-jakiej-chca-kandydaci-9174264.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "74490103ba8f",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowe-rekordy-upadlosci-konsumenckiej-bankructwa-mocno-w-gore-9174230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowe rekordy upadłości konsumenckiej, bankructwa mocno w górę",
+    "body_orig": "25 proc. wzrostu rok do roku – takim wynikiem skończył się kwartał w upadłościach konsumenckich. Przebity został kwartalny i półroczny rekord liczby bankructw osób fizycznych. Jest bardzo prawdopodobne, że cały rok też okaże się rekordowy.",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:10:52.137085",
+    "title_uk": "Рекордна кількість банкрутств у Польщі за рік",
+    "summary_uk": "У Польщі зафіксовано 25% зростання банкрутств фізичних осіб у порівнянні з минулим роком. Кількість банкрутств досягла рекордних показників за квартал і півріччя. Прогнозується, що 2026 рік також стане рекордним за цим показником.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання банкрутств може призвести до зменшення споживчого попиту, що вплине на обсяги продажів. Дистриб'ютори повинні переглянути свої стратегії для адаптації до нових умов ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання банкрутств може змінити попит на певні категорії товарів. Рекомендується переглянути асортимент і адаптувати стратегії просування відповідно до нових споживчих трендів."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Рекордна кількість банкрутств у Польщі за рік",
+    "summary": "У Польщі зафіксовано 25% зростання банкрутств фізичних осіб у порівнянні з минулим роком. Кількість банкрутств досягла рекордних показників за квартал і півріччя. Прогнозується, що 2026 рік також стане рекордним за цим показником.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowe-rekordy-upadlosci-konsumenckiej-bankructwa-mocno-w-gore-9174230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "44b454042083",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Strategia-core-satellite-zdobywa-serca-inwestorow-Zadaja-sobie-pytanie-jak-ulozyc-proporcje-w-portfelu-9174135.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Strategia core-satellite zdobywa serca inwestorów. Zadają sobie pytanie, jak ułożyć proporcje w portfelu",
+    "body_orig": "Core-satellite polega na podziale aktywów inwestycyjnych na te, które mają w długim horyzoncie pracować pasywnie i na te, którymi w zależności od otoczenia rynkowego inwestor będzie żonglował pomiędzy instrumentami finansowymi. Cała rzecz rozbija się o proporcje w projektowanym portfelu.",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:10:52.137106",
+    "title_uk": "Стратегія core-satellite стає популярною серед інвесторів",
+    "summary_uk": "Стратегія core-satellite передбачає розподіл активів на пасивні та активні. Інвестори визначають пропорції в портфелі залежно від ринкових умов. Це дозволяє оптимізувати інвестиційні рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стратегія core-satellite стає популярною серед інвесторів",
+    "summary": "Стратегія core-satellite передбачає розподіл активів на пасивні та активні. Інвестори визначають пропорції в портфелі залежно від ринкових умов. Це дозволяє оптимізувати інвестиційні рішення.",
+    "link": "https://www.bankier.pl/wiadomosc/Strategia-core-satellite-zdobywa-serca-inwestorow-Zadaja-sobie-pytanie-jak-ulozyc-proporcje-w-portfelu-9174135.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "48f40c39df8e",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/przemysl-ma-205-tys-wakatow-poszukiwani-robotnicy-i-operatorzy-maszyn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Przemysł ma 20,5 tys. wakatów. Poszukiwani robotnicy i operatorzy maszyn",
+    "body_orig": "Dostęp do wykwalifikowanych pracowników wspiera rozwój 46 proc. firm – wynika z lipcowego Miesięcznego Indeksu Koniunktury (MIK) Polskiego Instytutu Ekonomicznego (PIE). Taką zależność częściej zauważają duże biznesy (80 proc.) niż mikrofirmy (38 proc.). Jednak niedobór kadr uderza w firmy niezależnie od skali działalności.\nNa przeciwnym biegunie znajduje się 12 proc. dużych firm i 31 proc. najmniejszych przedsiębiorstw, które mają zupełnie odwrotną tezę. Pośrodku skali znajduje się 28 proc. badanych średnich firm, sądzących, że dostęp do wykwalifikowanej kadry ani nie sprzyja, ani nie utrudnia rozwoju biznesu.\nDuże firmy korzystają z kompetencji, mikrofirmy napotykają bariery\nTe wyniki, jak zwraca uwagę PIE w swoim Tygodniku Gospodarczym, obrazują wyraźne zróżnicowanie ocen ze względu na wielkość firmy. Nie pozwalają jednak na jednoznaczne rozstrzygnięcie, czy to efekt braku zapotrzebowania na wykwalifikowanych pracowników, czy z braku możliwości ich pozyskania. A to najmniejsi pracodawcy częściej napotykają bariery związane z rozwojem kadr, m.in. brak czasu i wysokie koszty – wynika z najnowszej edycji Bilansu Kapitału Ludzkiego. Źródeł tego należy upatrywać m.in. w ograniczonych zasobach.\nFirmy produkcyjne najczęściej uważają, że wykwalifikowani pracownicy i ich dostępność jest czynnikiem sprzyjającym ich rozwojowi – 50 proc. wskazań. W handlu odsetek ten wynosi 40 proc. Blisko co trzecia badana firma budowlana ocenia ten wpływ negatywnie.\nNa koniec I kwartału 2026 r. najwięcej wakatów odnotowano w przetwórstwie przemysłowym. Według danych GUS było ich 20,5 tys. Firmy z tego sektora chciały zatrudnić przede wszystkim robotników przemysłowych, rzemieślników oraz operatorów i monterów maszyn. Również budownictwo miało dużo wolnych miejsc pracy dla tych grup zawodowych. Zdaniem PIE to wskazuje na duże zapotrzebowanie obu tych branż na pracowników technicznych.\nNa braku pracowników cierpią także inwestycje\nPrzedsiębiorstwa, które uznają, że dostępność wykwalifikowanych pracowników sprzyja ich rozwojowi, wskazuje też na pozytywne znaczenie dostępu do technologii, wiedzy i innowacji (58 proc.). Wśród badanych, którzy oceniają dostęp do wykwalifikowanej kadry za czynnik niesprzyjający rozwojowi, pozytywny wpływ dostrzega 36 proc. z nich, a negatywny 29 proc.\nMoże to oznaczać, że przedsiębiorstwa korzystające z kadr o odpowiednich kwalifikacjach mają większe możliwości wdrażania technologii i wykorzystywania wiedzy. Ponad połowa uznających (59 proc.) oraz nieuznających (54 proc.) dostępność wykwalifikowanej kadry za czynnik rozwoju wskazuje, że niedostępność pracowników stanowi dla nich barierę prowadzenia działalności o dużym lub bardzo dużym znaczeniu.\nNiewielka różnica między tymi grupami wskazuje, że problem niedostępności pracowników jest odczuwany w podobnym stopniu. Jednocześnie należy zauważyć, że dostępność wykwalifikowanej kadry stanowi przeszkodę inwestycyjną dla 81 proc. polskich przedsiębiorstw – wynika z danych EIB.\nWykwalifikowani praco",
+    "published": "2026-07-28T21:02:48",
+    "fetched": "2026-07-29T07:10:54.296765",
+    "title_uk": "У Польщі 20,5 тис. вакансій у промисловості",
+    "summary_uk": "У липні 2026 року в Польщі було 20,5 тис. вакансій у промисловості, зокрема для робітників та операторів машин. 46% компаній вважають, що доступ до кваліфікованих працівників підтримує їх розвиток. Найбільше вакансій спостерігається у переробній промисловості та будівництві.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Вакансії у промисловості можуть вплинути на постачання товарів, якщо компанії не зможуть знайти необхідних працівників.",
+      "tr_manufacturer": "Якщо ви плануєте вихід на польський ринок, враховуйте конкуренцію за кваліфіковані кадри, що може ускладнити найм.",
+      "category_manager": "Високий попит на робітників у промисловості може вплинути на постачання товарів. Рекомендується переглянути плани закупівель та запаси."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У Польщі 20,5 тис. вакансій у промисловості",
+    "summary": "У липні 2026 року в Польщі було 20,5 тис. вакансій у промисловості, зокрема для робітників та операторів машин. 46% компаній вважають, що доступ до кваліфікованих працівників підтримує їх розвиток. Найбільше вакансій спостерігається у переробній промисловості та будівництві.",
+    "link": "https://300gospodarka.pl/news/przemysl-ma-205-tys-wakatow-poszukiwani-robotnicy-i-operatorzy-maszyn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4c4ee10892cf",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/300klimat/ile-kosztuja-nas-zmiany-klimatu-zalezy-od-metodologii",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zmiany klimatu uderzą w PKB. Problem w tym, że modele pokazują zupełnie różne rachunki",
+    "body_orig": "Zmiany klimatu najpewniej obniżą poziom aktywności gospodarczej, ale ekonomiści spierają się, czy trwale osłabią również tempo wzrostu PKB. Trudno precyzyjnie określić, jak duże będą straty. Według analizy mBanku rozbieżności są ogromne: przy ociepleniu o 3°C jedne metaanalizy wskazują ok. 2 proc. spadku globalnego PKB, inne nawet 7-13 proc. Różnice te mają kluczowe znaczenie dla polityki klimatycznej, podatków od emisji i systemów takich jak EU ETS.\nNajmniej kontrowersyjny wniosek brzmi: globalne ocieplenie szkodzi gospodarce. Największy spór zaczyna się przy kolejnym pytaniu: o ile? Różnice w szacunkach wynikają nie z jednego błędu, ale z całego zestawu decyzji metodologicznych, które zmieniają końcowy wynik o rząd wielkości – zwracają uwagę ekonomiści mBanku.\nDlaczego nie da się tego policzyć dokładnie?\nProblem polega na tym, że nie można przeprowadzić eksperymentu na Ziemi. Analitycy muszą budować modele alternatywnej rzeczywistości – świata bez zmiany klimatu lub z wolniejszym przebiegiem ocieplenia. To oznacza konieczność przyjęcia wielu założeń: co liczyć jako koszt, jak traktować katastrofy, czy klimat wpływa na poziom PKB czy na tempo wzrostu oraz jak wycenić skutki odległe o dekady.\nEkonomiści próbują policzyć coś, czego nie da się sprawdzić w laboratorium. Nie możemy stworzyć drugiej planety i porównać jej z Ziemią, dlatego każdy model jest w pewnym sensie konstrukcją hipotetyczną. To sprawia, że wyniki są wrażliwe na założenia bardziej, niż w większości innych dziedzin ekonomii.\nSkąd biorą się tak różne wyniki?\nMetaanalizy pokazują ogromny rozrzut wyników. Profesor ekonomii na Uniwersytecie Sussex Richard S. J. Tol (2024) szacuje straty na ok. 2 proc. PKB przy 3°C ocieplenia, podczas gdy Peter H. Howard i Thomas Sterner (2025) wskazują 7-13 proc. Różnice wynikają nie tylko z danych, ale też z tego, jakie badania są uwzględniane, jak są ważone i przede wszystkim, jaką zastosowano metodologię.\nEkonomiści dzielą modele na kilka grup:\n\nmodele sektorowe (sumujące straty w rolnictwie, zdrowiu czy energii),\nmodele ekonometryczne (oparte na danych historycznych),\nankiety eksperckie\noraz modele CGE (opisujące całą gospodarkę jako system równań).\n\nKażde podejście ma ograniczenia. Modele historyczne nie obejmują przyszłych ekstremów klimatycznych, a modele sektorowe pomijają część trudnych do wyceny skutków, takich jak migracje czy konflikty.\nJak zauważa Dawid Sułkowski, ekonomista mBanku, spór nie dotyczy wyłącznie tego, ile wynoszą szkody klimatyczne. Równie ważne jest to, które metody uznajemy za bardziej wiarygodne. W zależności od wyboru narzędzia można uzyskać zarówno relatywnie niskie, jak i bardzo wysokie szacunki.\nKluczowe pytanie: poziom PKB czy tempo wzrostu\nJedna z najważniejszych różnic w literaturze dotyczy mechanizmu wpływu klimatu na gospodarkę. Część modeli zakłada, że wyższa temperatura obniża tempo wzrostu PKB. Inne przyjmują, że gospodarka jednorazowo spada na niższy poziom, ale później rośnie w podobnym tempie jak wcześniej.",
+    "published": "2026-07-28T20:45:23",
+    "fetched": "2026-07-29T07:10:54.296809",
+    "title_uk": "Кліматичні зміни можуть знизити глобальне ПВП на 2-13%",
+    "summary_uk": "Зміни клімату можуть знизити глобальне ПВП на 2-13% залежно від методології оцінки. Дослідження мBank показує, що різні моделі дають різні результати через методологічні відмінності. Найбільші спори виникають щодо механізму впливу клімату на економіку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Моделі оцінки впливу кліматичних змін можуть бути корисними для прогнозування ризиків у категоріях, чутливих до змін клімату. Рекомендується враховувати ці фактори при плануванні стратегій."
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кліматичні зміни можуть знизити глобальне ПВП на 2-13%",
+    "summary": "Зміни клімату можуть знизити глобальне ПВП на 2-13% залежно від методології оцінки. Дослідження мBank показує, що різні моделі дають різні результати через методологічні відмінності. Найбільші спори виникають щодо механізму впливу клімату на економіку.",
+    "link": "https://300gospodarka.pl/300klimat/ile-kosztuja-nas-zmiany-klimatu-zalezy-od-metodologii",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cd5d0641260a",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/kredyt-na-wesele-polacy-sa-w-wiekszosci-na-nie",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kredyt na sfinansowanie jednego dnia? Polacy wolą przełożyć wesele",
+    "body_orig": "Ponad połowa Polaków mówi „nie” organizowaniu przyjęcia weselnego za pożyczone pieniądze. 28 proc. ankietowanych przez Rankomat.pl przy ograniczonym budżecie wybrałoby mniejsze przyjęcie, a 26 proc. przełożyłoby uroczystość do czasu zgromadzenia oszczędności. Kredyt lub pożyczkę na wesele akceptuje zaledwie 7 proc. respondentów, choć wesele dla około 100 osób może dziś kosztować ponad 100 tys. zł.\nUroczystość „zwróci się” dzięki kopertom? To popularne założenie, ale na ziszczenie się takiego scenariusza liczy jedynie 2 proc. ankietowanych. Goście deklarują wprawdzie hojne prezenty, lecz ich kwoty zależą głównie od relacji z nowożeńcami i własnych możliwości finansowych.\nPonad połowa badanych wybiera ostrożność\nOrganizacja przyjęcia ślubnego jest jednym z największych jednorazowych wydatków, z jakimi mierzą się młode pary. Przy kosztach liczonych w dziesiątkach tysięcy złotych wybór sprowadza się często do trzech możliwości: ograniczyć liczbę gości i atrakcji, dłużej oszczędzać albo sięgnąć po zewnętrzne finansowanie.\nNajwiększa grupa respondentów, 28 proc., uważa, że brak wystarczających pieniędzy powinien skłonić parę do zmniejszenia skali uroczystości. Kolejne 26 proc. wolałoby odłożyć wesele do czasu zebrania potrzebnej kwoty.\nŁącznie 54 proc. ankietowanych na miejscu nowożeńców wybiera więc rozwiązanie, które pozwala uniknąć zadłużenia. Co piąta osoba dopuszcza natomiast finansową pomoc rodziców, oczywiście dostosowaną do ich możliwości.\nPo kredyt lub pożyczkę na wesele sięgnęłoby 7 proc. respondentów, pod warunkiem że przyszli małżonkowie mają stabilne dochody. 17 proc. badanych nie potrafiło określić, który sposób finansowania jest im najbliższy.\n– Jednodniowa uroczystość finansowana kredytem może obciążać budżet pary jeszcze długo po weselu. Koperty nie powinny być traktowane jako pewne źródło spłaty zobowiązania, ponieważ ich łączna wartość zależy od liczby gości, relacji z nowożeńcami oraz możliwości finansowych zaproszonych osób. Bezpieczniej jest ustalić budżet, który para będzie w stanie pokryć bez zakładania zwrotu kosztów po uroczystości – mówi Izabela Stachura-Adamczyk, ekspertka Rankomat.pl.\nSto osób może kosztować ponad 100 tys. zł\nNa jaki wydatek muszą być gotowi państwo młodzi? Obecnie wesele dla około 100 gości kosztuje od 50 tys. do ponad 100 tys. zł. Ostateczna cena zależy od standardu sali, menu, lokalizacji i liczby dodatkowych atrakcji. Sam „talerzyk”, czyli koszt menu i obsługi przypadający na jednego uczestnika, zwykle wynosi od 300 do ponad 600 zł. Przy setce zaproszonych osób daje to od 30 tys. do przeszło 60 tys. zł, jeszcze przed doliczeniem muzyki, fotografii, dekoracji, strojów czy transportu.\nIm więcej elementów para finansuje z kredytu, tym dłużej jednodniowe wydarzenie wpływa na domowy budżet. Koszt zobowiązania obejmuje przecież także odsetki i prowizje, więc ostateczna suma może być wyższa niż kwota widoczna na fakturach od usługodawców.\nBadanie Rankomat.pl sugeruje, że Polacy ostrożniej patrzą na finansowani",
+    "published": "2026-07-28T17:30:53",
+    "fetched": "2026-07-29T07:10:54.296841",
+    "title_uk": "Польські молодята обирають менше весілля або відтермінування",
+    "summary_uk": "Більше половини поляків відмовляються від весіль за кредит. 28% готові зменшити масштаб, 26% — відкласти до накопичення коштів. Вартість весіль для 100 осіб може перевищувати 100 тис. злотих. Лише 7% готові взяти кредит на цю подію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення попиту на весільні послуги може вплинути на закупівлі для HoReCa. Розгляньте адаптацію асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження попиту на весільні послуги може вплинути на категорії, пов'язані з подіями. Розгляньте коригування промо-акцій."
+    },
+    "tags": [
+      "FMCG",
+      "HoReCa",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські молодята обирають менше весілля або відтермінування",
+    "summary": "Більше половини поляків відмовляються від весіль за кредит. 28% готові зменшити масштаб, 26% — відкласти до накопичення коштів. Вартість весіль для 100 осіб може перевищувати 100 тис. злотих. Лише 7% готові взяти кредит на цю подію.",
+    "link": "https://300gospodarka.pl/news/kredyt-na-wesele-polacy-sa-w-wiekszosci-na-nie",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d68602fdbf57",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/firma/dolar-rosnie-w-sile-odliczanie-do-decyzji-usa-trwa-7312622225521024a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dolar rośnie w siłę. Odliczanie do decyzji USA trwa",
+    "body_orig": "Amerykańska waluta zyskuje na wartości, a rynki z uwagą patrzą na Rezerwę Federalną. Jak informuje Business Insider, inwestorzy coraz częściej zakładają podwyżkę stóp procentowych w USA. Taki scenariusz jeszcze niedawno wydawał się mało prawdopodobny.",
+    "published": "2026-07-29T06:59:31",
+    "fetched": "2026-07-29T07:10:55.391172",
+    "title_uk": "Долар зміцнюється на фоні очікувань підвищення ставок у США",
+    "summary_uk": "Долар США підвищив свою вартість, оскільки інвестори прогнозують підвищення процентних ставок. Раніше цей сценарій вважався малоймовірним, але ситуація змінилася. Ринки уважно стежать за рішеннями Федеральної резервної системи.",
+    "what_it_means": {
+      "ua_importer": "Зміцнення долара може вплинути на імпорт товарів з США, підвищуючи їхню вартість. Імпортерам варто переглянути ціни на контракти.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "валюта"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Долар зміцнюється на фоні очікувань підвищення ставок у США",
+    "summary": "Долар США підвищив свою вартість, оскільки інвестори прогнозують підвищення процентних ставок. Раніше цей сценарій вважався малоймовірним, але ситуація змінилася. Ринки уважно стежать за рішеннями Федеральної резервної системи.",
+    "link": "https://www.money.pl/firma/dolar-rosnie-w-sile-odliczanie-do-decyzji-usa-trwa-7312622225521024a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "213bafd99223",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/banki/rzad-ma-nowy-pomysl-na-tansze-mieszkania-chodzi-o-nowy-kredyt-7312586177644928a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd ma pomysł na tańsze mieszkania. Chodzi o nowy kredyt",
+    "body_orig": "Jak podaje \"Rzeczpospolita\", rząd przygotował projekt, który ma ułatwić sfinansowanie partycypacji w TBS i SIM oraz wkładu do spółdzielczego mieszkania lokatorskiego. Nowy kredyt konsumencki ma mieć gwarancję Banku Gospodarstwa Krajowego i oprocentowanie jak hipoteczny.",
+    "published": "2026-07-29T04:55:21",
+    "fetched": "2026-07-29T07:10:55.391233",
+    "title_uk": "Польський уряд пропонує новий кредит для доступного житла",
+    "summary_uk": "Уряд Польщі розробив проект, що спростить фінансування участі в ТБС і СІМ, а також внесків на спільне житло. Новий споживчий кредит отримає гарантію від Bank Gospodarstwa Krajowego та матиме процентну ставку, подібну до іпотечних кредитів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження бар'єрів для придбання житла може збільшити попит на товари для ремонту та облаштування, що вигідно для дистриб'юторів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польський уряд пропонує новий кредит для доступного житла",
+    "summary": "Уряд Польщі розробив проект, що спростить фінансування участі в ТБС і СІМ, а також внесків на спільне житло. Новий споживчий кредит отримає гарантію від Bank Gospodarstwa Krajowego та матиме процентну ставку, подібну до іпотечних кредитів.",
+    "link": "https://www.money.pl/banki/rzad-ma-nowy-pomysl-na-tansze-mieszkania-chodzi-o-nowy-kredyt-7312586177644928a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1c152bcfe1e8",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/us-imposes-additional-12-5-percent-tariff-on-turkish-apparel-224951",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US imposes additional 12.5 percent tariff on Turkish apparel",
+    "body_orig": "The Office of the United States Trade Representative (USTR) has announced additional customs duties of 10 percent or 12.5 percent on imports from 60 trading partners following investigations conducted under Section 301 of the Trade Act of 1974 concerning the prohibition and enforcement of restrictions on goods produced through forced labour.",
+    "published": "2026-07-29T05:52:46",
+    "fetched": "2026-07-29T07:11:15.393667",
+    "title_uk": "США вводять додатковий тариф 12.5% на турецький одяг",
+    "summary_uk": "Офіс торгового представника США оголосив про нові митні збори на імпорт з 60 країн. Тариф на турецький одяг становитиме 12.5%. Це рішення стало наслідком розслідувань щодо товарів, виготовлених за допомогою примусової праці.",
+    "what_it_means": {
+      "ua_importer": "Якщо імпортуєте одяг з Туреччини, враховуйте підвищення витрат на 12.5%. Це може вплинути на ціни для кінцевого споживача.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може зменшити конкурентоспроможність турецького одягу на ринку США. Розгляньте альтернативні ринки для експорту.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "митниця",
+      "імпорт",
+      "регуляція"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "США вводять додатковий тариф 12.5% на турецький одяг",
+    "summary": "Офіс торгового представника США оголосив про нові митні збори на імпорт з 60 країн. Тариф на турецький одяг становитиме 12.5%. Це рішення стало наслідком розслідувань щодо товарів, виготовлених за допомогою примусової праці.",
+    "link": "https://www.hurriyetdailynews.com/us-imposes-additional-12-5-percent-tariff-on-turkish-apparel-224951",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9806282c8a5f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/wto-sides-with-china-over-turkiye-in-electric-car-trade-case-224950",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "WTO sides with China over Türkiye in electric car trade case",
+    "body_orig": "The World Trade Organization (WTO) has ruled against Türkiye in a dispute involving duties on imported Chinese electric cars, a report said on July 28.",
+    "published": "2026-07-29T05:47:00",
+    "fetched": "2026-07-29T07:11:15.393684",
+    "title_uk": "Суд ВТО підтримав Китай у справі про електромобілі проти Туреччини",
+    "summary_uk": "Всесвітня торгова організація (ВТО) ухвалила рішення на користь Китаю у справі про мита на імпорт електромобілів з Китаю до Туреччини. Це рішення може вплинути на торгові відносини між країнами. Туреччина тепер повинна переглянути свої митні ставки на китайські електромобілі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це рішення може ускладнити експорт турецьких електромобілів до Китаю. Виробникам слід переглянути стратегії виходу на ринки з високими митами.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Суд ВТО підтримав Китай у справі про електромобілі проти Туреччини",
+    "summary": "Всесвітня торгова організація (ВТО) ухвалила рішення на користь Китаю у справі про мита на імпорт електромобілів з Китаю до Туреччини. Це рішення може вплинути на торгові відносини між країнами. Туреччина тепер повинна переглянути свої митні ставки на китайські електромобілі.",
+    "link": "https://www.hurriyetdailynews.com/wto-sides-with-china-over-turkiye-in-electric-car-trade-case-224950",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9a87b7d8117",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/ubs-says-second-quarter-net-profit-up-17-pct-to-2-8-billion-224949",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "UBS says second-quarter net profit up 17 pct to $2.8 billion",
+    "body_orig": "Swiss banking giant UBS reported Wednesday that net profit rose 17 percent to $2.8 billion in the second quarter, driven by its investment banking arm.",
+    "published": "2026-07-29T05:44:21",
+    "fetched": "2026-07-29T07:11:15.393695",
+    "title_uk": "UBS збільшив чистий прибуток на 17% до $2.8 млрд у II кварталі",
+    "summary_uk": "Швейцарський банк UBS повідомив про зростання чистого прибутку на 17% до $2.8 млрд у другому кварталі. Основним фактором зростання став прибуток від інвестиційного банкінгу. Це свідчить про позитивні тенденції в банківському секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "UBS збільшив чистий прибуток на 17% до $2.8 млрд у II кварталі",
+    "summary": "Швейцарський банк UBS повідомив про зростання чистого прибутку на 17% до $2.8 млрд у другому кварталі. Основним фактором зростання став прибуток від інвестиційного банкінгу. Це свідчить про позитивні тенденції в банківському секторі.",
+    "link": "https://www.hurriyetdailynews.com/ubs-says-second-quarter-net-profit-up-17-pct-to-2-8-billion-224949",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6e89f454bf93",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/sk-hynix-posts-1-200-pct-net-profit-boost-on-ai-chip-boom-224946",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "SK hynix posts 1,200 pct net profit boost on AI chip boom",
+    "body_orig": "South Korea's SK hynix said July 29 second-quarter net profit soared a whopping 1,242 percent year-on-year, driven by the artificial intelligence industry's explosive demand for its advanced memory chips.",
+    "published": "2026-07-29T05:36:08",
+    "fetched": "2026-07-29T07:11:15.393723",
+    "title_uk": "SK hynix збільшує прибуток на 1242% завдяки попиту на чіпи AI",
+    "summary_uk": "Південнокорейська компанія SK hynix повідомила про зростання чистого прибутку на 1242% у другому кварталі в порівнянні з минулим роком. Це зростання стало можливим завдяки високому попиту на її передові пам'яті чіпи в індустрії штучного інтелекту. Компанія продовжує розвивати свої технології для задоволення потреб ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "SK hynix збільшує прибуток на 1242% завдяки попиту на чіпи AI",
+    "summary": "Південнокорейська компанія SK hynix повідомила про зростання чистого прибутку на 1242% у другому кварталі в порівнянні з минулим роком. Це зростання стало можливим завдяки високому попиту на її передові пам'яті чіпи в індустрії штучного інтелекту. Компанія продовжує розвивати свої технології для задоволення потреб ринку.",
+    "link": "https://www.hurriyetdailynews.com/sk-hynix-posts-1-200-pct-net-profit-boost-on-ai-chip-boom-224946",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "854c719cdfb0",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/toki-housing-output-reaches-1-76-million-units-224941",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "TOKİ housing output reaches 1.76 million units",
+    "body_orig": "Türkiye’s state housing agency has built more than 1.75 million homes nationwide, 91 percent of which were classified as social housing, according to a government report.",
+    "published": "2026-07-29T05:09:51",
+    "fetched": "2026-07-29T07:11:15.393732",
+    "title_uk": "Державна агенція Туреччини збудувала 1.75 млн житлових одиниць",
+    "summary_uk": "Державна агенція Туреччини з будівництва житла (TOKİ) звітує про завершення будівництва понад 1.75 млн житлових одиниць. 91% з них відносяться до соціального житла. Це свідчить про активну політику уряду у забезпеченні доступного житла для населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити можливості для турецьких виробників, які постачають будівельні матеріали, оскільки зростання будівництва житла може збільшити попит на їх продукцію.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Державна агенція Туреччини збудувала 1.75 млн житлових одиниць",
+    "summary": "Державна агенція Туреччини з будівництва житла (TOKİ) звітує про завершення будівництва понад 1.75 млн житлових одиниць. 91% з них відносяться до соціального житла. Це свідчить про активну політику уряду у забезпеченні доступного житла для населення.",
+    "link": "https://www.hurriyetdailynews.com/toki-housing-output-reaches-1-76-million-units-224941",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b934ffdf88fa",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-petroleum-to-acquire-15-pct-stake-in-bps-kirkuk-unit-224940",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish Petroleum to acquire 15 pct stake in BP’s Kirkuk unit",
+    "body_orig": "Türkiye’s state-owned Turkish Petroleum Corporation (TPAO) has agreed to acquire a 15 percent stake in BP Energy Company of Kirkuk Limited, joining BP and ConocoPhillips in the redevelopment of several major oil and gas fields in northern Iraq.",
+    "published": "2026-07-29T04:40:22",
+    "fetched": "2026-07-29T07:11:15.393742",
+    "title_uk": "Turkish Petroleum купує 15% акцій BP в Іраку",
+    "summary_uk": "Державна компанія Turkish Petroleum Corporation (TPAO) домовилася про купівлю 15% акцій BP Energy Company of Kirkuk Limited. Це дозволить TPAO приєднатися до BP і ConocoPhillips у розробці великих нафтових і газових родовищ на півночі Іраку. Угода підкреслює зростаючий інтерес Туреччини до іракських енергетичних ресурсів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може відкрити нові можливості для турецьких виробників, які шукають партнерів у сфері енергетики. Рекомендується стежити за розвитком ситуації.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Turkish Petroleum купує 15% акцій BP в Іраку",
+    "summary": "Державна компанія Turkish Petroleum Corporation (TPAO) домовилася про купівлю 15% акцій BP Energy Company of Kirkuk Limited. Це дозволить TPAO приєднатися до BP і ConocoPhillips у розробці великих нафтових і газових родовищ на півночі Іраку. Угода підкреслює зростаючий інтерес Туреччини до іракських енергетичних ресурсів.",
+    "link": "https://www.hurriyetdailynews.com/turkish-petroleum-to-acquire-15-pct-stake-in-bps-kirkuk-unit-224940",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d3500f9eaafe",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/ford-raises-2026-outlook-after-stronger-than-expected-quarterly-earnings/4012012",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Ford raises 2026 outlook after stronger-than-expected quarterly earnings",
+    "body_orig": "Automaker expects operating profit of $10B - $11B as F-Series production recovers",
+    "published": "2026-07-28T21:16:33",
+    "fetched": "2026-07-29T07:11:18.166899",
+    "title_uk": "Ford підвищує прогноз на 2026 рік після сильних квартальних результатів",
+    "summary_uk": "Ford очікує операційний прибуток у розмірі $10-11 млрд у 2026 році. Це пов'язано з відновленням виробництва моделей F-Series, що перевищило очікування аналітиків. Компанія продовжує покращувати фінансові показники на фоні зростання попиту.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ford підвищує прогноз на 2026 рік після сильних квартальних результатів",
+    "summary": "Ford очікує операційний прибуток у розмірі $10-11 млрд у 2026 році. Це пов'язано з відновленням виробництва моделей F-Series, що перевищило очікування аналітиків. Компанія продовжує покращувати фінансові показники на фоні зростання попиту.",
+    "link": "https://www.aa.com.tr/en/economy/ford-raises-2026-outlook-after-stronger-than-expected-quarterly-earnings/4012012",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "362903c36b8b",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-stocks-end-mixed-as-oil-prices-fall-chip-shares-tumble/4012009",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks end mixed as oil prices fall, chip shares tumble",
+    "body_orig": "Falling oil prices, strong corporate earnings lift the Dow, while losses in semiconductor stocks weigh on Nasdaq",
+    "published": "2026-07-28T21:09:06",
+    "fetched": "2026-07-29T07:11:18.166914",
+    "title_uk": "Американські акції закрилися змішано, ціни на нафту впали",
+    "summary_uk": "Ціни на нафту знизилися, що позитивно вплинуло на індекс Dow, який зріс. Водночас акції напівпровідників впали, що негативно вплинуло на Nasdaq. Загалом ринок продемонстрував змішану динаміку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські акції закрилися змішано, ціни на нафту впали",
+    "summary": "Ціни на нафту знизилися, що позитивно вплинуло на індекс Dow, який зріс. Водночас акції напівпровідників впали, що негативно вплинуло на Nasdaq. Загалом ринок продемонстрував змішану динаміку.",
+    "link": "https://www.aa.com.tr/en/economy/us-stocks-end-mixed-as-oil-prices-fall-chip-shares-tumble/4012009",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "729b92a9e37a",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkiye-expands-overseas-energy-footprint-with-kirkuk-oil-project/4011936",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye expands overseas energy footprint with Kirkuk oil project",
+    "body_orig": "Project covers some of Iraq's largest oil fields and contains more than 3 billion barrels of oil equivalent resources",
+    "published": "2026-07-28T18:34:42",
+    "fetched": "2026-07-29T07:11:18.166924",
+    "title_uk": "Туреччина розширює енергетичний вплив з проектом нафти в Киркуку",
+    "summary_uk": "Туреччина запускає проект, що охоплює великі нафтові родовища Іраку. Запаси перевищують 3 млрд барелів нафти еквіваленту. Це розширення підвищить енергетичну безпеку Туреччини та її позиції на міжнародному ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Проект може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі або Румунії, але без конкретних деталей неясно, як це вплине на їх стратегії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина розширює енергетичний вплив з проектом нафти в Киркуку",
+    "summary": "Туреччина запускає проект, що охоплює великі нафтові родовища Іраку. Запаси перевищують 3 млрд барелів нафти еквіваленту. Це розширення підвищить енергетичну безпеку Туреччини та її позиції на міжнародному ринку.",
+    "link": "https://www.aa.com.tr/en/economy/turkiye-expands-overseas-energy-footprint-with-kirkuk-oil-project/4011936",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c650ab484165",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ekmeklik-bugday-ihracati-serbest-birakildi/4011998",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ekmeklik buğday ihracatı serbest bırakıldı",
+    "body_orig": "Toprak Mahsulleri Ofisi (TMO), ekmeklik buğday ihracatının serbest bırakıldığını duyurdu.",
+    "published": "2026-07-28T20:39:11",
+    "fetched": "2026-07-29T07:11:19.586205",
+    "title_uk": "Туреччина скасувала обмеження на експорт пшеничного борошна",
+    "summary_uk": "Toprak Mahsulleri Ofisi оголосила про скасування обмежень на експорт пшеничного борошна. Це рішення може вплинути на зовнішню торгівлю Туреччини, оскільки країна є одним з найбільших виробників пшениці. Відкриття ринку може збільшити обсяги експорту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Скасування обмежень відкриває нові можливості для експорту пшеничного борошна. Виробники можуть розширити ринки збуту, зокрема в країни ЄС.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина скасувала обмеження на експорт пшеничного борошна",
+    "summary": "Toprak Mahsulleri Ofisi оголосила про скасування обмежень на експорт пшеничного борошна. Це рішення може вплинути на зовнішню торгівлю Туреччини, оскільки країна є одним з найбільших виробників пшениці. Відкриття ринку може збільшити обсяги експорту.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ekmeklik-bugday-ihracati-serbest-birakildi/4011998",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05c3f75fe42a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/visa-is-gucunun-yuzde-7sini-azaltacak/4011911",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Visa iş gücünün yüzde 7'sini azaltacak",
+    "body_orig": "ABD'li finansal hizmetler şirketi Visa, verimliliği artırmak amacıyla toplam iş gücünün yaklaşık yüzde 7'sine karşılık gelen yaklaşık 2 bin 600 pozisyonu kaldıracak.",
+    "published": "2026-07-28T17:48:58",
+    "fetched": "2026-07-29T07:11:19.586213",
+    "title_uk": "Visa скоротить 2600 робочих місць для підвищення ефективності",
+    "summary_uk": "Компанія Visa оголосила про скорочення приблизно 2600 робочих місць, що становить 7% від загальної кількості співробітників. Це рішення прийнято з метою підвищення ефективності компанії. Зміни торкнуться різних підрозділів компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Visa скоротить 2600 робочих місць для підвищення ефективності",
+    "summary": "Компанія Visa оголосила про скорочення приблизно 2600 робочих місць, що становить 7% від загальної кількості співробітників. Це рішення прийнято з метою підвищення ефективності компанії. Зміни торкнуться різних підрозділів компанії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/visa-is-gucunun-yuzde-7sini-azaltacak/4011911",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "118f20986999",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tav-havalimanlari-2026nin-ilk-yarisinda-867-3-milyon-avro-konsolide-ciro-elde-etti/4011905",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TAV Havalimanları 2026'nın ilk yarısında 867,3 milyon avro konsolide ciro elde etti",
+    "body_orig": "TAV Havalimanları'nın 2026'nın ilk yarısında konsolide cirosu geçen yılın aynı dönemine göre yüzde 5 artarak 867,3 milyon avro oldu.",
+    "published": "2026-07-28T17:46:33",
+    "fetched": "2026-07-29T07:11:19.586223",
+    "title_uk": "TAV Havalimanları збільшила виручку на 5% у першій половині 2026 року",
+    "summary_uk": "TAV Havalimanları зафіксувала консолідовану виручку €867 млн у першій половині 2026 року. Це на 5% більше, ніж за аналогічний період минулого року. Компанія продовжує демонструвати зростання в умовах відновлення ринку авіаперевезень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання TAV Havalimanları може свідчити про відновлення попиту на авіаперевезення, що може відкрити нові можливості для турецьких виробників, які планують вихід на міжнародні ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "TAV Havalimanları збільшила виручку на 5% у першій половині 2026 року",
+    "summary": "TAV Havalimanları зафіксувала консолідовану виручку €867 млн у першій половині 2026 року. Це на 5% більше, ніж за аналогічний період минулого року. Компанія продовжує демонструвати зростання в умовах відновлення ринку авіаперевезень.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tav-havalimanlari-2026nin-ilk-yarisinda-867-3-milyon-avro-konsolide-ciro-elde-etti/4011905",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eb9168d01d0c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tpao-bpnin-kerkuk-merkezli-sirketinin-yuzde-15-hissesini-aldi/4011896",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TPAO, BP'nin Kerkük merkezli şirketinin yüzde 15 hissesini aldı",
+    "body_orig": "Türkiye Petrolleri Anonim Ortaklığı (TPAO), BP Energy Company of Kirkuk Limitedin (BP ECKL) yüzde 15 hissesini satın aldı.",
+    "published": "2026-07-28T17:42:47",
+    "fetched": "2026-07-29T07:11:19.586233",
+    "title_uk": "TPAO придбала 15% акцій BP Energy Company of Kirkuk",
+    "summary_uk": "Türkiye Petrolleri Anonim Ortaklığı (TPAO) купила 15% акцій BP Energy Company of Kirkuk Limited. Це стратегічний крок для TPAO, що дозволить зміцнити позиції на ринку енергетики. Угода підкреслює зростаючий інтерес до іракських ресурсів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може відкрити нові можливості для турецьких виробників у співпраці з BP. Рекомендується стежити за розвитком подій.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "TPAO придбала 15% акцій BP Energy Company of Kirkuk",
+    "summary": "Türkiye Petrolleri Anonim Ortaklığı (TPAO) купила 15% акцій BP Energy Company of Kirkuk Limited. Це стратегічний крок для TPAO, що дозволить зміцнити позиції на ринку енергетики. Угода підкреслює зростаючий інтерес до іракських ресурсів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tpao-bpnin-kerkuk-merkezli-sirketinin-yuzde-15-hissesini-aldi/4011896",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4f4b3dfc5700",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-actiunile-romgaz-maxime-istorice-iar-interesul-investitorilor-n-niciodata-mare-ar-putea-statul-compania-transforme-acest-moment-finantare-ieftina-investitiile-energie-spun-lucian-isac-23204778",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Acţiunile Romgaz sunt la maxime istorice, iar interesul investitorilor n-a fost niciodată mai mare. Cum ar putea statul şi compania să transforme acest moment în finanţare ieftină pentru investiţiile din energie? Ce spun Lucian Isac, Estinvest, Adrian Codirlaşu, CFA România şi Alexandru Dobre, TradeVille",
+    "body_orig": "La aceste cotaţii, capitalizarea producătorului de gaze de la Mediaş este 71 mld. lei, adică 14 mld. euro, ceea ce face din Romgaz una dintre cele mai valoroase companii listate la Bursa de Valori Bucureşti.",
+    "published": "2026-07-29T07:10:00",
+    "fetched": "2026-07-29T07:11:21.310930",
+    "title_uk": "Акції Romgaz досягли історичного максимуму на ринку",
+    "summary_uk": "Акції Romgaz на Бухарестській біржі досягли рекордної капіталізації в €14 млрд. Інвестори проявляють високий інтерес до компанії, яка є одним з найбільших виробників газу в Румунії. Експерти обговорюють можливості залучення дешевих фінансів для інвестицій в енергетику.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Акції Romgaz досягли історичного максимуму на ринку",
+    "summary": "Акції Romgaz на Бухарестській біржі досягли рекордної капіталізації в €14 млрд. Інвестори проявляють високий інтерес до компанії, яка є одним з найбільших виробників газу в Румунії. Експерти обговорюють можливості залучення дешевих фінансів для інвестицій в енергетику.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-actiunile-romgaz-maxime-istorice-iar-interesul-investitorilor-n-niciodata-mare-ar-putea-statul-compania-transforme-acest-moment-finantare-ieftina-investitiile-energie-spun-lucian-isac-23204778",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "85b7dce72102",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/ce-arata-executia-bugetara-la-jumatatea-anului-iunie-a-fost-o-luna-buna-pentru-veniturile-statului-plus-16-fata-de-iunie-2025-mult-peste-inflatie-atentie-ca-si-cheltuielile-incep-sa-creasca-mai-mult-23204860",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce arată execuţia bugetară la jumătatea anului: Iunie a fost o lună bună pentru veniturile statului, plus 16% faţă de iunie 2025, mult peste inflaţie. Atenţie că şi cheltuielile încep să crească mai mult!",
+    "body_orig": "Pentru buget este importantă structura veniturilor şi este bine că veniturile fiscale au crescut solid, cu 20% în iunie faţă de iunie 2025. Veniturile nefiscale au scăzut cu 7,8%, iunie/iunie. Acestă scădere a intervenit, cu precădere, ca urmare a unui efect de bază: în iunie, ca şi în mai, de altfel, în bugetul pe acest an nu s-au mai regăsit unele sume extraordinare din 2025, care veniseră din ajutoare de stat recuperate după pandemie.",
+    "published": "2026-07-29T07:00:00",
+    "fetched": "2026-07-29T07:11:21.310969",
+    "title_uk": "В Україні зросли бюджетні доходи на 20% у червні",
+    "summary_uk": "У червні 2026 року бюджетні доходи зросли на 20% порівняно з червнем 2025 року. Основним джерелом зростання стали податкові надходження, тоді як ненадходження зменшились на 8%. Це пов'язано з відсутністю надзвичайних сум з попереднього року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Україні зросли бюджетні доходи на 20% у червні",
+    "summary": "У червні 2026 року бюджетні доходи зросли на 20% порівняно з червнем 2025 року. Основним джерелом зростання стали податкові надходження, тоді як ненадходження зменшились на 8%. Це пов'язано з відсутністю надзвичайних сум з попереднього року.",
+    "link": "https://www.zf.ro/banci-si-asigurari/ce-arata-executia-bugetara-la-jumatatea-anului-iunie-a-fost-o-luna-buna-pentru-veniturile-statului-plus-16-fata-de-iunie-2025-mult-peste-inflatie-atentie-ca-si-cheltuielile-incep-sa-creasca-mai-mult-23204860",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cc84d6253a4c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/criza-cadastru-tine-loc-alocarea-fondurilor-europene-agricultura-tinerii-fermieri-fermele-mici-pot-depune-proiecte-investitii-extrase-carte-funciara-noile-sesiuni-finantare-amanate-pana-septembrie-23205154",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Criza de la cadastru ţine pe loc alocarea fondurilor europene pentru agricultură: tinerii fermieri şi fermele mici nu pot depune proiecte de investiţii fără extrase de carte funciară şi noile sesiuni de finanţare sunt amânate până în septembrie",
+    "body_orig": "",
+    "published": "2026-07-29T06:17:45",
+    "fetched": "2026-07-29T07:11:21.310979",
+    "title_uk": "Кризу з кадастром відтерміновано фінансування для аграріїв у Румунії",
+    "summary_uk": "Молоді фермери та малі господарства в Румунії не можуть подавати інвестиційні проекти через відсутність витягів з кадастру. Нові сесії фінансування відкладені до вересня 2026 року. Це затримує доступ до європейських фондів для аграріїв.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кризу з кадастром відтерміновано фінансування для аграріїв у Румунії",
+    "summary": "Молоді фермери та малі господарства в Румунії не можуть подавати інвестиційні проекти через відсутність витягів з кадастру. Нові сесії фінансування відкладені до вересня 2026 року. Це затримує доступ до європейських фондів для аграріїв.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/criza-cadastru-tine-loc-alocarea-fondurilor-europene-agricultura-tinerii-fermieri-fermele-mici-pot-depune-proiecte-investitii-extrase-carte-funciara-noile-sesiuni-finantare-amanate-pana-septembrie-23205154",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa04c05cddfe",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/profesii/proiectul-noii-legi-salarizarii-scoate-bugetarii-strada-miza-unei-reforme-vrea-redeseneze-ierarhia-salariilor-stat-castigatorii-perdantii-calculeaza-noile-salarii-conform-proiectului-lege-23204858",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Proiectul noii legi a salarizării scoate bugetarii în stradă. Care este miza unei reforme care vrea să redeseneze ierarhia salariilor la stat, cine sunt câştigătorii şi perdanţii? Cum se calculează noile salarii, conform proiectului de lege?",
+    "body_orig": "Legea salarizării unitare, unul dintre cele mai importante jaloane din PNRR, ar trebui să aducă mai multă echitate între cei peste 1,2 milioane de angajaţi din sectorul public şi să deblocheze 770 de milioane de euro din fondurile europene din PNRR. În schimb, proiectul a declanşat proteste şi ameninţări cu blocarea legii, după ce sindicatele acuză reduceri de venituri pentru zeci de mii de angajaţi, în special din sănătate.",
+    "published": "2026-07-29T06:00:00",
+    "fetched": "2026-07-29T07:11:21.310990",
+    "title_uk": "Протести через нову законодавчу ініціативу в Румунії",
+    "summary_uk": "У Румунії стартували протести через проект закону про зарплати в державному секторі. Закон має на меті підвищити справедливість для 1,2 млн працівників, але може призвести до зниження доходів для тисяч співробітників, зокрема у сфері охорони здоров'я. Проект також відкриває доступ до €770 млн європейських фондів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Протести через нову законодавчу ініціативу в Румунії",
+    "summary": "У Румунії стартували протести через проект закону про зарплати в державному секторі. Закон має на меті підвищити справедливість для 1,2 млн працівників, але може призвести до зниження доходів для тисяч співробітників, зокрема у сфері охорони здоров'я. Проект також відкриває доступ до €770 млн європейських фондів.",
+    "link": "https://www.zf.ro/profesii/proiectul-noii-legi-salarizarii-scoate-bugetarii-strada-miza-unei-reforme-vrea-redeseneze-ierarhia-salariilor-stat-castigatorii-perdantii-calculeaza-noile-salarii-conform-proiectului-lege-23204858",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fccc7891f5b8",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-start-up-pitch-alexandru-tudoroiu-catalin-mihaila-fondatorii-drumio-aplicatie-deducerea-cheltuielilor-auto-investit-circa-200-000-euro-surse-proprii-pana-acum-prima-luna-lansare-s-23204748",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Start-up Pitch. Alexandru Tudoroiu şi Cătălin Mihăilă, fondatorii Drumio – aplicaţie cu AI pentru deducerea cheltuielilor auto: Am investit circa 200.000 de euro din surse proprii până acum. În prima lună de la lansare s-au scanat deja peste 18.000 de bonuri de combustibil şi am urcat până pe locul 8 în App Store",
+    "body_orig": "Start-up-ul Drumio, fondat de antreprenorii locali Alexandru Tudoroiu şi Cătălin Mihăilă, a investit circa 200.000 de euro în dezvoltarea unei aplicaţii care digitalizează, cu ajutorul inteligenţei artificiale, procesul de deducere fiscală a cheltuielilor auto, iar în prima lună de la lansare prin platformă s-au procesat deja peste 18.000 de bonuri de combustibil scanate de utilizatori.",
+    "published": "2026-07-29T05:00:00",
+    "fetched": "2026-07-29T07:11:21.311000",
+    "title_uk": "Стартап Drumio залучив €200 тис. для AI-додатку з обробки витрат",
+    "summary_uk": "Стартап Drumio, заснований Александру Тудорою та Каталіном Міхайлою, інвестував €200 тис. у розробку додатку для автоматизації податкових витрат на авто. За перший місяць роботи платформи було оброблено понад 18 тис. чеків на пальне, а додаток зайняв 8 місце в App Store.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стартап Drumio залучив €200 тис. для AI-додатку з обробки витрат",
+    "summary": "Стартап Drumio, заснований Александру Тудорою та Каталіном Міхайлою, інвестував €200 тис. у розробку додатку для автоматизації податкових витрат на авто. За перший місяць роботи платформи було оброблено понад 18 тис. чеків на пальне, а додаток зайняв 8 місце в App Store.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-start-up-pitch-alexandru-tudoroiu-catalin-mihaila-fondatorii-drumio-aplicatie-deducerea-cheltuielilor-auto-investit-circa-200-000-euro-surse-proprii-pana-acum-prima-luna-lansare-s-23204748",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1c1cf2a47895",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/toyota-si-honda-au-oprit-productia-pana-vineri-ca-urmare-a-cutremurului-de-71-produs-marti_963278.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Toyota şi Honda au oprit producția până vineri, ca urmare a cutremurului de 7,1 produs marți",
+    "body_orig": "Toyota a anunţat, miercuri, că va opri până vineri activitatea la trei fabrici din sudul Japoniei, pentru a evalua impactul cutremurului asupra furnizorilor şi lanţului logistic, la câteva ore după ce a reluat producţia stopată în ziua precedentă, transmite Reuters.",
+    "published": "2026-07-29T06:55:27",
+    "fetched": "2026-07-29T07:11:26.123607",
+    "title_uk": "Toyota та Honda зупинили виробництво через землетрус у Японії",
+    "summary_uk": "Toyota призупинила роботу трьох заводів у Японії до п’ятниці через землетрус магнітудою 7,1. Це рішення ухвалене для оцінки впливу на постачальників та логістику. Виробництво було відновлено лише за кілька годин до зупинки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Toyota та Honda зупинили виробництво через землетрус у Японії",
+    "summary": "Toyota призупинила роботу трьох заводів у Японії до п’ятниці через землетрус магнітудою 7,1. Це рішення ухвалене для оцінки впливу на постачальників та логістику. Виробництво було відновлено лише за кілька годин до зупинки.",
+    "link": "https://www.economica.net/toyota-si-honda-au-oprit-productia-pana-vineri-ca-urmare-a-cutremurului-de-71-produs-marti_963278.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "38a0106cf618",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ford-imbunatateste-previziunile-privind-profitul-anual-dupa-majorarea-vanzarilor-de-suv-uri_963272.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ford îmbunătăţeşte previziunile privind profitul anual, după majorarea vânzărilor de SUV-uri",
+    "body_orig": "Ford a revizuit în creştere previziunile privind profitul anual, după ce vânzările solide de SUV-uri costisitoare din SUA au ajutat la compensarea veniturilor mai reduse şi a perturbărilor din lanţurile de aprovizionare care au afectat popularele sale camionete, transmit DPA şi Reuters.",
+    "published": "2026-07-29T06:39:42",
+    "fetched": "2026-07-29T07:11:26.123618",
+    "title_uk": "Ford підвищує прогнози прибутку завдяки зростанню продажів SUV",
+    "summary_uk": "Ford переглянув прогнози прибутку на рік вгору через сильні продажі SUV у США. Це допомогло компенсувати зниження доходів від популярних вантажівок, які постраждали від перебоїв у постачанні. Компанія очікує покращення фінансових показників.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ford підвищує прогнози прибутку завдяки зростанню продажів SUV",
+    "summary": "Ford переглянув прогнози прибутку на рік вгору через сильні продажі SUV у США. Це допомогло компенсувати зниження доходів від популярних вантажівок, які постраждали від перебоїв у постачанні. Компанія очікує покращення фінансових показників.",
+    "link": "https://www.economica.net/ford-imbunatateste-previziunile-privind-profitul-anual-dupa-majorarea-vanzarilor-de-suv-uri_963272.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9bdad33cf8af",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/anaf-identifica-o-noua-frauda-fiscala-de-peste-21-mil-de-lei-transferuri-uriase-intre-firme-si-taxe-neachitate_963263.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ANAF identifică o nouă fraudă fiscală de peste 2,1 mil. de lei. Transferuri uriașe între firme și taxe neachitate",
+    "body_orig": "ANAF extinde investigațiile într-un mecanism complex de fraudă fiscală: deducerea nelegală a TVA și diminuarea artificială a impozitului pe profit au generat un prejudiciu de peste 2,1 milioane de lei, în timp ce transferurile între societăți depășesc 32 de milioane de lei, iar obligațiile fiscale cu reținere la sursă neachitate depășesc 13 milioane de lei, arată un comunicat de presă.",
+    "published": "2026-07-29T06:02:12",
+    "fetched": "2026-07-29T07:11:26.123666",
+    "title_uk": "ANAF виявила нову податкову аферу на понад 2,1 млн леїв",
+    "summary_uk": "Румунська податкова служба ANAF розпочала розслідування щодо механізму податкової афери. Нелегальна deducerea TVA та зменшення податку на прибуток призвели до збитків понад 2,1 млн леїв. Загальні трансакції між компаніями перевищують 32 млн леїв, а невиплачені податки складають понад 13 млн леїв.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ANAF виявила нову податкову аферу на понад 2,1 млн леїв",
+    "summary": "Румунська податкова служба ANAF розпочала розслідування щодо механізму податкової афери. Нелегальна deducerea TVA та зменшення податку на прибуток призвели до збитків понад 2,1 млн леїв. Загальні трансакції між компаніями перевищують 32 млн леїв, а невиплачені податки складають понад 13 млн леїв.",
+    "link": "https://www.economica.net/anaf-identifica-o-noua-frauda-fiscala-de-peste-21-mil-de-lei-transferuri-uriase-intre-firme-si-taxe-neachitate_963263.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c3ca7a954f53",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noua-scumpire-a-carburantilor-la-cateva-ore-de-la-precedenta-cat-costa-acum-benzina-si-motorina_963261.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Nouă scumpire a carburanților, la câteva ore de la precedenta. Cât costă acum benzina și motorina",
+    "body_orig": "Prețul benzinei și al motorinei a crescut din nou în această dimineață, la nici o zi de la scumpirea perecedentă. Noua referință pentru motorină este 10,2 lei pe litru, iar pentru benzină 9,2 lei pe litru.",
+    "published": "2026-07-29T05:51:38",
+    "fetched": "2026-07-29T07:11:26.123677",
+    "title_uk": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary_uk": "Сьогодні вранці в Румунії знову підвищились ціни на бензин і дизель. Тепер літр дизельного пального коштує 10,2 грн, а бензину — 9,2 грн. Це сталося всього через день після попереднього підвищення цін.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в Румунії може вплинути на вартість логістики для українських імпортерів, які працюють з румунськими постачальниками.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин і дизель в Румунії знову зросли",
+    "summary": "Сьогодні вранці в Румунії знову підвищились ціни на бензин і дизель. Тепер літр дизельного пального коштує 10,2 грн, а бензину — 9,2 грн. Це сталося всього через день після попереднього підвищення цін.",
+    "link": "https://www.economica.net/noua-scumpire-a-carburantilor-la-cateva-ore-de-la-precedenta-cat-costa-acum-benzina-si-motorina_963261.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "44cad5f6491b",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/pliant-100m-arr/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Pliant hits $100m ARR following US expansion",
+    "body_orig": "",
+    "published": "2026-07-29T05:00:35",
+    "fetched": "2026-07-29T07:10:49.820204",
+    "title_uk": "Pliant досягає $100 млн ARR після розширення в США",
+    "summary_uk": "Pliant оголосила про досягнення річного повторюваного доходу в $100 млн після розширення на ринок США. Компанія спеціалізується на автоматизації фінансових процесів для бізнесу. Це свідчить про успішну стратегію виходу на нові ринки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Pliant досягає $100 млн ARR після розширення в США",
+    "summary": "Pliant оголосила про досягнення річного повторюваного доходу в $100 млн після розширення на ринок США. Компанія спеціалізується на автоматизації фінансових процесів для бізнесу. Це свідчить про успішну стратегію виходу на нові ринки.",
+    "link": "https://sifted.eu/articles/pliant-100m-arr/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e61b796caed8",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding wheat business",
+    "body_orig": "Wild Bioscience (Wild Bio), an Oxford University AgTech spinout that designs improved crops for resilient agriculture, has acquired F1 Seed, a Suffolk-based independent wheat breeding business.  With this acquisition, Wild Bio becomes a fully integrated, end-to-end UK seed company. The financial details were undisclosed. The deal follows Wild Bio’s €51 million Series A investment, which [&#8230;]\nThe post Wild Bio acquires F1 Seed to create Britain’s first independent precision-breeding wheat business appeared first on EU-Startups.",
+    "published": "2026-07-29T07:07:55",
+    "fetched": "2026-07-29T07:10:51.107971",
+    "title_uk": "Wild Bio купує F1 Seed для створення незалежного бізнесу з вирощування пшениці",
+    "summary_uk": "Wild Bioscience, спін-оф Оксфордського університету, придбала F1 Seed, незалежну компанію з розведення пшениці у Суффолку. Ця угода робить Wild Bio повністю інтегрованою компанією з виробництва насіння у Великій Британії. Фінансові деталі угоди не розголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Wild Bio купує F1 Seed для створення незалежного бізнесу з вирощування пшениці",
+    "summary": "Wild Bioscience, спін-оф Оксфордського університету, придбала F1 Seed, незалежну компанію з розведення пшениці у Суффолку. Ця угода робить Wild Bio повністю інтегрованою компанією з виробництва насіння у Великій Британії. Фінансові деталі угоди не розголошені.",
+    "link": "https://www.eu-startups.com/2026/07/wild-bio-acquires-f1-seed-to-create-britains-first-independent-precision-breeding-wheat-business/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5e411e9106a",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "London-based responsible lending FinTech Plend secures funding facility of up to €58.3 million",
+    "body_orig": "Plend, a London-based responsible lender dedicated to tackling financial exclusion across the UK, has secured a funding facility of up to €58.3 million (£50 million) from Triple Point, a London-based specialist investment manager.  The investment firm has originated a €23.2 million (£20 million) senior revolving credit facility, with the potential to increase to £50 million, [&#8230;]\nThe post London-based responsible lending FinTech Plend secures funding facility of up to €58.3 million appeared first on EU-Startups.",
+    "published": "2026-07-29T05:13:35",
+    "fetched": "2026-07-29T07:10:51.107990",
+    "title_uk": "Лондонський стартап Plend отримав фінансування до €58.3 млн",
+    "summary_uk": "Plend, лондонський фінансовий стартап, що бореться з фінансовою виключеністю у Великій Британії, отримав фінансування до €58.3 млн (£50 млн) від Triple Point. Інвестиційна компанія надала кредитну лінію в €23.2 млн (£20 млн) з можливістю збільшення до £50 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Лондонський стартап Plend отримав фінансування до €58.3 млн",
+    "summary": "Plend, лондонський фінансовий стартап, що бореться з фінансовою виключеністю у Великій Британії, отримав фінансування до €58.3 млн (£50 млн) від Triple Point. Інвестиційна компанія надала кредитну лінію в €23.2 млн (£20 млн) з можливістю збільшення до £50 млн.",
+    "link": "https://www.eu-startups.com/2026/07/london-based-responsible-lending-fintech-plend-secures-funding-facility-of-up-to-e58-3-million/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "79f1e7c71d93",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/elektricnii-bmw-otrimav-visokii-zapas-xodu-skilki-moze-proyixati-9w7nrq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Електричний BMW отримав високий запас ходу: скільки може проїхати",
+    "body_orig": "BMW офіційно представила новий електричний кросовер iX3 Long-Wheelbase, який став однією з перших моделей бренду на платформі Neue Klasse, повідомляє УкрАвтопром.&nbsp;",
+    "published": "2026-07-28T21:02:16",
+    "fetched": "2026-07-29T07:11:09.244630",
+    "title_uk": "BMW представила електричний кросовер iX3 Long-Wheelbase",
+    "summary_uk": "BMW анонсувала новий електричний кросовер iX3 Long-Wheelbase, який є частиною платформи Neue Klasse. Модель має значний запас ходу, що підвищує її конкурентоспроможність на ринку електромобілів. Це перший крок компанії до розширення асортименту електричних автомобілів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BMW представила електричний кросовер iX3 Long-Wheelbase",
+    "summary": "BMW анонсувала новий електричний кросовер iX3 Long-Wheelbase, який є частиною платформи Neue Klasse. Модель має значний запас ходу, що підвищує її конкурентоспроможність на ринку електромобілів. Це перший крок компанії до розширення асортименту електричних автомобілів.",
+    "link": "https://speka.ua/news/elektricnii-bmw-otrimav-visokii-zapas-xodu-skilki-moze-proyixati-9w7nrq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1d5b45b5add",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/sergiyi-potomkin-kibernetyky-oflayin-zalyshytsia-mistcem-de-pokupetc-otrymuvatyme-zhyvyyi-servis-emotciyi-ta-doviru/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Сергій Потьомкін, Кібернетики: Офлайн залишиться місцем, де покупець отримуватиме живий сервіс, емоції та довіру",
+    "body_orig": "Співзасновник мережі магазинів електроніки Кібернетики оцінює частку продажів через фізичні магазини побутової техніки та електроніки в 60%. На його думку подальший розвиток онлайн-торгівлі, зокрема через ШІ-агентів, лише доповнюватиме традиційний канал продажів.\nВ своїй колонці на сайті Retailers с…",
+    "published": "2026-07-29T03:50:43",
+    "fetched": "2026-07-29T07:11:30.263803",
+    "title_uk": "Кібернетики: офлайн-магазини залишаться важливими для покупців",
+    "summary_uk": "Співзасновник Кібернетики Сергій Потьомкін зазначив, що 60% продажів побутової техніки відбувається через фізичні магазини. Він вважає, що онлайн-торгівля, зокрема з використанням ШІ-агентів, доповнить традиційний канал продажів, а не замінить його.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця інформація підкреслює важливість фізичних магазинів у стратегіях продажів. Розгляньте можливість інтеграції онлайн-інструментів для підвищення залученості покупців у магазинах."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Кібернетики: офлайн-магазини залишаться важливими для покупців",
+    "summary": "Співзасновник Кібернетики Сергій Потьомкін зазначив, що 60% продажів побутової техніки відбувається через фізичні магазини. Він вважає, що онлайн-торгівля, зокрема з використанням ШІ-агентів, доповнить традиційний канал продажів, а не замінить його.",
+    "link": "https://rau.ua/news/sergiyi-potomkin-kibernetyky-oflayin-zalyshytsia-mistcem-de-pokupetc-otrymuvatyme-zhyvyyi-servis-emotciyi-ta-doviru/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "63058d2b2790",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/novyny-sport-outdoor-new-balance-guide-adidas-apollo-next-ta-inshi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Новини sport & outdoor: New Balance, guide, adidas, Apollo Next та інші",
+    "body_orig": "Відкриття оновленого New Balance у ТРЦ Gulliver, запуск дистрибуції ексклюзивних брендів Sport City, повернення adidas у Харків, риболовні ретрити для жінок від Flagman, а також інші новини ритейлу для спорту та активного відпочинку.\nNew Balance оновив магазин у ТРЦ Gulliver\nУ столичному ТРЦ Gullive…",
+    "published": "2026-07-29T02:50:32",
+    "fetched": "2026-07-29T07:11:30.263818",
+    "title_uk": "Оновлення New Balance у ТРЦ Gulliver та повернення adidas у Харків",
+    "summary_uk": "New Balance відкрив оновлений магазин у ТРЦ Gulliver у Києві. Sport City запустив дистрибуцію ексклюзивних брендів. Adidas повертається у Харків, що свідчить про відновлення ринку. Flagman організовує риболовні ретрити для жінок.",
+    "what_it_means": {
+      "ua_importer": "Відновлення adidas у Харкові може відкрити нові можливості для імпортерів спортивного одягу. Рекомендується переглянути асортимент у зв'язку з поверненням бренду.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Оновлення магазину New Balance може вплинути на конкуренцію в категорії спортивного одягу. Рекомендується переглянути стратегії розміщення товарів у відповідь на нові пропозиції."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Оновлення New Balance у ТРЦ Gulliver та повернення adidas у Харків",
+    "summary": "New Balance відкрив оновлений магазин у ТРЦ Gulliver у Києві. Sport City запустив дистрибуцію ексклюзивних брендів. Adidas повертається у Харків, що свідчить про відновлення ринку. Flagman організовує риболовні ретрити для жінок.",
+    "link": "https://rau.ua/news/novyny-sport-outdoor-new-balance-guide-adidas-apollo-next-ta-inshi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
