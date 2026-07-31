@@ -168043,5 +168043,2115 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "552c9a10f1bf",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kapitalny-miesiac-polskiej-gieldy-WIG20-o-krok-od-rekordu-Zabka-przejeta-9176428.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kapitalny miesiąc polskiej giełdy. WIG20 o krok od rekordu, Żabka przejęta",
+    "body_orig": "Lipiec na GPW zakończył się w znakomitym stylu. WIG20 zyskał w minionym miesiącu ponad 9%, a podczas piątkowych notowań niemal otarł się o historyczny szczyt z 2007 roku. Ostatnia sesja miesiąca przyniosła jednak spokojniejszy handel, a wydarzeniem dnia była informacja o przejęciu Żabki przez właściciela sieci Circle K.",
+    "published": "2026-07-31T16:37:00",
+    "fetched": "2026-07-31T17:28:28.252806",
+    "title_uk": "Польська біржа показала зростання, Żabka змінила власника",
+    "summary_uk": "У липні WIG20 зріс на понад 9%, наблизившись до рекорду 2007 року. Остання сесія місяця відзначилася спокійнішими торгами. Важливою подією стало придбання мережі Żabka власником Circle K.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання WIG20 може свідчити про покращення економічної ситуації в Польщі, що позитивно вплине на попит у дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна власника Żabka може вплинути на стратегії закупівель та асортимент, що варто врахувати при плануванні товарних груп."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська біржа показала зростання, Żabka змінила власника",
+    "summary": "У липні WIG20 зріс на понад 9%, наблизившись до рекорду 2007 року. Остання сесія місяця відзначилася спокійнішими торгами. Важливою подією стало придбання мережі Żabka власником Circle K.",
+    "link": "https://www.bankier.pl/wiadomosc/Kapitalny-miesiac-polskiej-gieldy-WIG20-o-krok-od-rekordu-Zabka-przejeta-9176428.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "71b748064bc2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Milion-odzyskanych-wizyt-lekarskich-dzieki-e-rejestracji-Najwiecej-do-kardiologa-9176386.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Milion odzyskanych wizyt lekarskich dzięki e-rejestracji. Najwięcej do kardiologa",
+    "body_orig": "W centralnej e-rejestracji zrealizowano dotąd 3,6 mln wizyt, kolejnych 2,1 mln jest zaplanowanych. Odzyskano milion wizyt, w tym pół miliona do kardiologa - powiedział w piątek w Sejmie wiceminister zdrowia Tomasz Maciejewski, odpowiadając na pytania poselskie.",
+    "published": "2026-07-31T14:04:00",
+    "fetched": "2026-07-31T17:28:28.252868",
+    "title_uk": "Мільйон відновлених медичних візитів завдяки е-регістрації",
+    "summary_uk": "В Польщі через центральну е-регістрацію проведено 3.6 млн візитів, ще 2.1 млн заплановано. Відновлено мільйон візитів, з яких 500 тисяч до кардіолога. Про це повідомив заступник міністра охорони здоров'я Томаш Мацієвський.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Мільйон відновлених медичних візитів завдяки е-регістрації",
+    "summary": "В Польщі через центральну е-регістрацію проведено 3.6 млн візитів, ще 2.1 млн заплановано. Відновлено мільйон візитів, з яких 500 тисяч до кардіолога. Про це повідомив заступник міністра охорони здоров'я Томаш Мацієвський.",
+    "link": "https://www.bankier.pl/wiadomosc/Milion-odzyskanych-wizyt-lekarskich-dzieki-e-rejestracji-Najwiecej-do-kardiologa-9176386.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f8996c8d9d8c",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/wig20-z-nowym-rekordem-na-gpw-indeks-blue-chipow-przebil-poziom-sprzed-19-lat/7tt5xpc",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Na warszawskiej giełdzie padł rekord. Historyczne zamknięcie",
+    "body_orig": "Na GPW padł nowy rekord zamknięcia — indeks WIG20, skupiający największe spółki, wyniósł 3920,26 pkt, przekraczając poziom sprzed 19 lat.",
+    "published": "2026-07-31T16:47:27",
+    "fetched": "2026-07-31T17:28:29.895889",
+    "title_uk": "Індекс WIG20 на Варшавській біржі досяг рекорду",
+    "summary_uk": "На Варшавській фондовій біржі індекс WIG20 закрився на рівні 3920 пунктів, що є найвищим показником за останні 19 років. Це свідчить про зростання вартості акцій найбільших польських компаній. Ринок демонструє позитивну динаміку, що може вплинути на інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання індексу WIG20 може позитивно вплинути на інтерес до інвестицій у польські FMCG-бренди. Розгляньте можливість розширення асортименту в популярних категоріях.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання індексу може свідчити про підвищення купівельної спроможності споживачів. Рекомендується переглянути плани на Q4 2026, зокрема акцент на популярні категорії."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Індекс WIG20 на Варшавській біржі досяг рекорду",
+    "summary": "На Варшавській фондовій біржі індекс WIG20 закрився на рівні 3920 пунктів, що є найвищим показником за останні 19 років. Це свідчить про зростання вартості акцій найбільших польських компаній. Ринок демонструє позитивну динаміку, що може вплинути на інвесторів.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/wig20-z-nowym-rekordem-na-gpw-indeks-blue-chipow-przebil-poziom-sprzed-19-lat/7tt5xpc",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a9886d26d43",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/dlaczego-marki-luksusowe-traca-klientow-momcle-wskazuje-luki-na-rynku-premium/4nq2wgb",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dlaczego marki luksusowe tracą klientów? \nMOMCLE wskazuje luki na rynku premium",
+    "body_orig": "O tym, czy klient zdecyduje się ponownie wybrać markę premium lub luksusową, coraz częściej nie przesądza sam produkt, cena ani działania konkurencji, lecz jakość całego doświadczenia oraz sposób, w jaki marka buduje relację z klientem. Najnowszy raport MOMCLE „doświadczenia klienta i wzorce konsumpcji w segmencie marek premium i luksusowych w polsce. Edycja II” pokazuje, że customer experience staje się jednym z najważniejszych czynników biznesowych w całym sektorze.",
+    "published": "2026-07-31T15:14:41",
+    "fetched": "2026-07-31T17:28:29.895900",
+    "title_uk": "Чому бренди розкоші втрачають клієнтів",
+    "summary_uk": "Згідно з новим звітом MOMCLE, якість клієнтського досвіду стає ключовим фактором для брендів преміум-сегмента в Польщі. Взаємини з клієнтами, а не лише продукт чи ціна, впливають на повторні покупки. Звіт підкреслює важливість customer experience для бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні зосередитися на покращенні клієнтського досвіду, щоб зберегти конкурентоспроможність брендів преміум-сегмента.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зосередьтеся на покращенні взаємодії з клієнтами в категоріях преміум-продуктів, щоб підвищити лояльність та повторні покупки."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Чому бренди розкоші втрачають клієнтів",
+    "summary": "Згідно з новим звітом MOMCLE, якість клієнтського досвіду стає ключовим фактором для брендів преміум-сегмента в Польщі. Взаємини з клієнтами, а не лише продукт чи ціна, впливають на повторні покупки. Звіт підкреслює важливість customer experience для бізнесу.",
+    "link": "https://businessinsider.com.pl/biznes/dlaczego-marki-luksusowe-traca-klientow-momcle-wskazuje-luki-na-rynku-premium/4nq2wgb",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "29652ac1ee2e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/podatek-cyfrowy-uderzy-w-big-techy-polska-idzie-sladem-francji-i-wielkiej-brytanii/vbb9k97",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Znamy wszystkie szczegóły. Tak ma wyglądać podatek cyfrowy dla big techów",
+    "body_orig": "Mamy długo oczekiwany projekt podatku cyfrowego. Mają go zapłacić big techy uzyskujące w Polsce przychody z reklamy internetowej. Podatek będą mogły wyzerować, jeśli zainwestują w Polsce. Jeśli nie zapłacą, grożą im surowe sankcje.",
+    "published": "2026-07-31T15:06:09",
+    "fetched": "2026-07-31T17:28:29.895928",
+    "title_uk": "Польща запроваджує цифровий податок для великих технологічних компаній",
+    "summary_uk": "У Польщі представлено проект цифрового податку для великих технологічних компаній, які отримують доходи від інтернет-реклами. Податок можна буде скасувати за умови інвестицій в країні. У разі несплати передбачені серйозні санкції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Якщо ви працюєте з великими технологічними компаніями, враховуйте можливі зміни в умовах співпраці через новий податок.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща запроваджує цифровий податок для великих технологічних компаній",
+    "summary": "У Польщі представлено проект цифрового податку для великих технологічних компаній, які отримують доходи від інтернет-реклами. Податок можна буде скасувати за умови інвестицій в країні. У разі несплати передбачені серйозні санкції.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/podatek-cyfrowy-uderzy-w-big-techy-polska-idzie-sladem-francji-i-wielkiej-brytanii/vbb9k97",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "87c619ede000",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/inflacja-lipiec-2026-wstepne-dane-gus",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Lipcowa inflacja bez dużego zaskoczenia. Problem tkwi w paliwach i ryzykach surowcowych",
+    "body_orig": "Inflacja CPI w lipcu wzrosła do 3,0 proc. rok do roku z 2,5 proc. w czerwcu – wynika z szybkiego szacunku GUS. Odczyt był bliski oczekiwaniom rynku, ale szczegóły są mniej spokojne niż sam główny wskaźnik. Ceny paliw wyraźnie podbiły inflację, a ekonomiści ostrzegają, że napięcia na Bliskim Wschodzie mogą utrudnić powrót do dyskusji o obniżkach stóp procentowych.\nNa pierwszy rzut oka lipcowe dane nie wyglądają jak szok. Inflacja wróciła do poziomu 3 proc. Nadal mieści się w dopuszczalnym przedziale wahań wokół celu NBP. Cel inflacyjny banku centralnego wynosi 2,5 proc., a dopuszczalne odchylenie to 1 pkt proc. w górę lub w dół.\nPod spodem widać jednak kilka napięć. Najmocniej rzuca się w oczy paliwowy impuls, który przyszedł po wygaśnięciu programu CPN, czyli rządowej tarczy obniżającej ceny paliw. Do tego doszły droższe surowce energetyczne, związane z eskalacją konfliktu na Bliskim Wschodzie.\nPaliwa wróciły na pierwszy plan\nBank Millennium podaje, że w ujęciu miesięcznym inflacja CPI wyniosła 0,8 proc. Głównym źródłem wzrostu były paliwa, których ceny zwiększyły się o 13,9 proc. miesiąc do miesiąca. Jednocześnie żywność taniała trzeci miesiąc z rzędu, co częściowo ograniczyło skalę wzrostu całego wskaźnika.\nEkonomiści banku zwracają też uwagę na inflację bazową, czyli wskaźnik liczony bez cen żywności i energii. To ważna miara, bo pokazuje bardziej trwałą presję cenową w gospodarce. Według szacunków Millennium inflacja bazowa wzrosła w lipcu do ok. 3,2 proc. rok do roku z 3,0 proc. miesiąc wcześniej.\nW kolejnych miesiącach inflacja CPI ma utrzymać się powyżej 3 proc. rok do roku, choć przy cenach ropy poniżej 100 dolarów za baryłkę powinna pozostać w paśmie celu NBP. Bank Millennium uznaje stabilizację stóp procentowych za najbardziej prawdopodobny scenariusz.\n„W takich uwarunkowaniach Rada Polityki Pieniężnej nie powinna spieszyć się z luzowaniem polityki pieniężnej” – ocenia Biuro Analiz Makroekonomicznych Banku Millennium. – „W naszej ocenie przestrzeń do nieznacznego poluzowania polityki pieniężnej pojawi się w 2027 r.”.\nPZU: niespodzianka była w strukturze danych\nPZU dodaje, że sam odczyt był zgodny z prognozami, ale ciekawsze okazały się jego składniki. Monika Siergiejuk, ekonomistka Biura Analiz Makroekonomicznych PZU, zwraca uwagę na paliwa i żywność. To dwie kategorie mocno widoczne w domowych budżetach.\n– Wstępny szacunek inflacji CPI za lipiec był zgodny z oczekiwaniami rynku i naszymi prognozami, choć pewnym zaskoczeniem okazała się struktura odczytu – mówi Monika Siergiejuk.\nEkonomistka PZU mówi, że ceny paliw rosły z powodu napięć geopolitycznych i wyższych cen ropy, ale ich wzrost był nieco niższy, niż sugerowały monitorowane przez PZU dane. Z kolei żywność spadła mocniej, niż zakładała instytucja.\n– To pokazuje, że presja cenowa w wybranych kategoriach pozostaje ograniczona – dodaje ekspertka.\nDla gospodarstw domowych ta mieszanka jest niejednoznaczna. Tankowanie mogło mocniej zaboleć, ale część zakupów spożywczych działała w pr",
+    "published": "2026-07-31T15:50:59",
+    "fetched": "2026-07-31T17:28:30.669212",
+    "title_uk": "Інфляція в Польщі в липні зросла до 3%",
+    "summary_uk": "Інфляція CPI в Польщі в липні досягла 3% рік до року, підвищившись з 2,5% у червні. Основним чинником зростання стали ціни на паливо, які зросли на 14% за місяць. Економісти прогнозують, що інфляція залишиться вище 3% у найближчі місяці, але в межах цільового діапазону НБП.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання цін на паливо може вплинути на витрати дистриб'юторів. Рекомендується переглянути стратегії закупівель та ціноутворення.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на паливо може вплинути на витрати в категоріях, де паливо є важливим компонентом. Рекомендується переглянути плани промо та ціноутворення."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Інфляція в Польщі в липні зросла до 3%",
+    "summary": "Інфляція CPI в Польщі в липні досягла 3% рік до року, підвищившись з 2,5% у червні. Основним чинником зростання стали ціни на паливо, які зросли на 14% за місяць. Економісти прогнозують, що інфляція залишиться вище 3% у найближчі місяці, але в межах цільового діапазону НБП.",
+    "link": "https://300gospodarka.pl/news/inflacja-lipiec-2026-wstepne-dane-gus",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4dd78fc953c1",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/rakiety-pociski-i-samoloty-pod-jednym-dachem-polska-uruchomila-wyjatkowe-laboratorium",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rakiety, pociski i samoloty pod jednym dachem. Polska uruchomiła wyjątkowe laboratorium",
+    "body_orig": "Na warszawskim Okęciu uruchomiono zmodernizowany tunel aerodynamiczny T-3 Sieci Badawczej Łukasiewicz. Inwestycja kosztowała 105 mln zł i została sfinansowana ze środków Krajowego Planu Odbudowy. To jeden z największych tego typu obiektów w Polsce i Europie Środkowo-Wschodniej, który ma przyspieszyć badania dla lotnictwa, przemysłu kosmicznego, obronności, energetyki i transportu.\nZ infrastruktury skorzystają naukowcy, polskie przedsiębiorstwa i zagraniczne koncerny. Instytut Lotnictwa ma już zakontraktowane projekty, a kolejka oczekujących na badania sięga około półtora roku.\nModernizacja objęła niemal cały obiekt. Ze starego tunelu, który powstał w latach 50. XX wieku, zachowała się głównie bryła budynku. Instytut wymienił najważniejsze urządzenia i systemy pomiarowe.\nTunel za 105 mln zł niemal zbudowano od nowa\nTunel T-3 należy do Łukasiewicz – Instytutu Lotnictwa i jest częścią Centrum Badawczo-Rozwojowego Innowacyjnych Napędów i Struktur Lotniczych. Obiekt zaprezentowano 29 lipca 2026 r.\n– Mówimy o modernizacji tunelu aerodynamicznego, ale w zasadzie możemy mówić o nowym obiekcie, ponieważ pozostała tylko bryła, a wszelkie kluczowe elementy zostały wymienione – mówi dr Hubert Cichocki, prezes Centrum Łukasiewicz.\nPrzez dziesięciolecia T-3 służył do prac nad polskimi konstrukcjami lotniczymi. Badano w nim między innymi samoloty Iskra, Iryda, Wilga i Dromader oraz śmigłowiec W-3 Sokół.\nPo modernizacji możliwości pomiarowe obiektu mają być znacznie większe. Konstruktorzy otrzymają dokładniejsze informacje o przepływie powietrza wokół badanego przedmiotu, jego oporze, zachowaniu i źródłach hałasu.\nSamoloty, rakiety, samochody i całe osiedla\nJak działa tunel aerodynamiczny? Przestrzeń pomiarowa tunelu ma 5 m średnicy. Można w niej umieszczać różne obiekty, które poruszają się w powietrzu albo są wystawione na jego działanie. Lista zastosowań wykracza daleko poza samoloty. W T-3 można badać śmigłowce, rakiety, pociski, samochody, fragmenty łopat turbin wiatrowych, pojedyncze budynki, a nawet całe osiedla.\nTunel może też służyć sportowcom. Jednym z możliwych zastosowań są testy pozycji skoczka narciarskiego, który chce zmniejszyć opór i uzyskać jak najdłuższy lot.\nBadania pozwalają sprawdzić, jak ograniczyć zużycie paliwa i energii, poprawić osiągi konstrukcji albo zmniejszyć hałas. Wyniki mogą więc znaleźć zastosowanie w lotnictwie, motoryzacji, energetyce i budownictwie.\nPierwszy projekt dotyczy nowego skrzydła\nPierwszą kampanią badawczą będą testy aeroelastycznego skrzydła w unijnym projekcie EXAELIA. Aeroelastyczność opisuje sposób, w jaki konstrukcja odkształca się pod wpływem sił aerodynamicznych i jak te zmiany wpływają na jej zachowanie.\nProjekt wykorzysta nową aparaturę Łukasiewicz – ILOT, w tym systemy pomiaru odkształceń oraz optycznego śledzenia przepływu cząsteczek 3D PIV. Technologia pozwala obserwować ruch powietrza w trzech wymiarach i dokładniej analizować zjawiska zachodzące wokół modelu.\nW planach są także badania nowych typów sk",
+    "published": "2026-07-31T12:43:55",
+    "fetched": "2026-07-31T17:28:30.669252",
+    "title_uk": "У Польщі відкрили новий аеродинамічний тунель за €22 млн",
+    "summary_uk": "У Варшаві запустили модернізований аеродинамічний тунель T-3. Інвестиція склала €22 млн, фінансування — з Крайового плану відновлення. Об'єкт обслуговуватиме науковців та компанії, черга на дослідження сягає 1,5 року. Модернізація включала заміну ключових систем та обладнання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно враховувати нові можливості для тестування продукції, що може вплинути на інновації у дистрибуції.",
+      "tr_manufacturer": "Необхідно слідкувати за новими технологіями, які можуть бути впроваджені в аерокосмічній сфері.",
+      "category_manager": "Можливість тестування нових продуктів у тунелі може вплинути на розробку нових рішень для категорій, пов'язаних з аеродинамікою."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "У Польщі відкрили новий аеродинамічний тунель за €22 млн",
+    "summary": "У Варшаві запустили модернізований аеродинамічний тунель T-3. Інвестиція склала €22 млн, фінансування — з Крайового плану відновлення. Об'єкт обслуговуватиме науковців та компанії, черга на дослідження сягає 1,5 року. Модернізація включала заміну ключових систем та обладнання.",
+    "link": "https://300gospodarka.pl/news/rakiety-pociski-i-samoloty-pod-jednym-dachem-polska-uruchomila-wyjatkowe-laboratorium",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4dcd2296ba34",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/usa-podniosly-cla-pie-polska-moze-na-tym-zyskac-wzgledem-konkurentow",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "USA podniosły cła, ale Polska może na tym zyskać względem konkurentów",
+    "body_orig": "Nowy reżim celny Stanów Zjednoczonych różnicuje stawki wobec partnerów handlowych i daje Polsce relatywną przewagę nad częścią konkurentów. Eksperci PIE zwracają jednak uwagę, że sprawa nadal może wrócić do sądów, a skutki ceł mocniej odczuwają duże firmy eksportujące na rynek amerykański.\nAdministracja w USA toczy wewnętrzną batalię prawną o cła. W lutym 2026 r. Sąd Najwyższy USA orzekł o nielegalności amerykańskich ceł „wzajemnych”, ustanowionych przez Trumpa w kwietniu 2025 r. Uznał, że władza wykonawcza nie miała prawa na podstawie przepisów IEEPA nakładać ceł w celach dochodowych.  International Emergency Economic Powers Act (IEEPA) – ustawa dająca prezydentowi USA możliwości działania w sytuacjach kryzysów międzynarodowych.\nWobec tego w lutym 2026 r. administracja ustanowiła tymczasowe – maksymalnie do 150 dni – cła na podstawie sekcji 122 ustawy o handlu z 1974 r. W związku z upływem tego okresu, od 24 lipca USA ustanowiły cła w dwóch stawkach. Dla Unii Europejskiej i osiemnastu innych gospodarek wynoszą 10 proc. Państwa takie jak Chiny, Brazylia czy Wietnam muszą jednak płacić 12,5 proc.\nCła ustanowiono na podstawie sekcji 301 ustawy o handlu – pod zarzutem korzystania lub braku przeciwdziałania pracy przymusowej. Złożono już pozwy kwestionujące zasadność tej podstawy prawnej, co może oznaczać unieważnienie także tych ceł w przyszłym roku.\nPolska zyskuje przewagę celną nad konkurentami\nPolska, po Kanadzie i Meksyku, odnotowuje najwyższą przewagę celną w stosunku do innych największych dostawców. Polski Instytut Ekonomiczny wyliczył, że różnica w stawce celnej ważonej importem USA z Polski wobec średniej stawki nakładanej na wszystkich konkurentów wynosi 3,26 pkt proc. (na podstawie danych handlowych za 2024 r.). Ta korzystna relatywna różnica wobec konkurentów wzrosła niemal o 1 pkt proc. w porównaniu z okresem sprzed 24 lipca.\nWśród największych dostawców tylko Włochy, Belgia i Hiszpania skorzystały na nowym reżimie celnym bardziej niż Polska. To relatywne obniżenie stawek celnych wynika z faktu, że UE i Tajwan zostały potraktowane najłagodniej. Cła dla tych gospodarek nie będą zwiększane o 10 proc. jak dla Indii czy Wielkiej Brytanii, lecz wraz z uwzględnieniem stawek bazowych Klauzuli Najwyższego Uprzywilejowania (KNU) mają nie przekraczać 10 proc.\nKNU to klauzula w ramach umów Światowej Organizacji Handlu. Zakazuje dyskryminacji celnej między państwami członkowskimi. Obliguje też do stosowania wobec państw członkowskich stawek celnych nie mniej korzystnych niż wobec jakiegokolwiek innego państwa. Wraz z wyłączeniami z tych ceł np. sektora lotniczego czy farmaceutycznego przyniesie to relatywne przewagi dla poszczególnych eksporterów.\nImport z Polski odbił po słabym początku roku\nWartości importu z Polski do USA w pierwszych pięciu miesiącach 2026 r. zostały na niezmienionym poziomie w porównaniu do analogicznego okresu 2025 r. Jednak w pierwszych trzech miesiącach br. wyniki były poniżej zeszłorocznych.\nEksperci Polskiego Instytutu Ek",
+    "published": "2026-07-31T12:05:29",
+    "fetched": "2026-07-31T17:28:30.669277",
+    "title_uk": "Польща отримує митну перевагу в торгівлі з США",
+    "summary_uk": "США запровадили нові мита, які надають Польщі перевагу над частиною конкурентів. Для ЄС ставка становить 10%, для країн, як Китай та В'єтнам — 12,5%. Польща має митну перевагу в 3,26 п.п. у порівнянні з іншими постачальниками, що зросло на 1 п.п. з 24 липня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть скористатися зниженими ставками мит для збільшення конкурентоспроможності на ринку США.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на переговори з постачальниками, оскільки зниження мит може зменшити витрати на імпорт товарів з Польщі."
+    },
+    "tags": [
+      "митниця",
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща отримує митну перевагу в торгівлі з США",
+    "summary": "США запровадили нові мита, які надають Польщі перевагу над частиною конкурентів. Для ЄС ставка становить 10%, для країн, як Китай та В'єтнам — 12,5%. Польща має митну перевагу в 3,26 п.п. у порівнянні з іншими постачальниками, що зросло на 1 п.п. з 24 липня.",
+    "link": "https://300gospodarka.pl/news/usa-podniosly-cla-pie-polska-moze-na-tym-zyskac-wzgledem-konkurentow",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a69aaf4eedef",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/premia-za-wyksztalcenie-i-doswiadczenie-zawodowe-spada",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wykształcenie wyższe i doświadczenie zawodowe nadal pomaga na rynku pracy, ale ich finansowa siła słabnie",
+    "body_orig": "Rosnąca liczba absolwentów, standaryzacja zadań oraz wzrost płacy minimalnej osłabiły premię za wykształcenie i doświadczenie zawodowe. Analiza badaczek z Uniwersytetu Łódzkiego pokazuje, że tradycyjne atuty na rynku pracy – dyplom szkoły wyższej i długi staż zawodowy – przynoszą dziś mniejsze korzyści finansowe niż dwie dekady temu.\nŚrednia stopa zwrotu z wykształcenia spadła z 17,2 proc. w 2004 r. do 15,5 proc. w 2024 r. Stopa zwrotu z edukacji to w dużym uproszczeniu premia płacowa za wyższy poziom wykształcenia. Jeśli spada, oznacza to, że dyplom nadal pomaga, ale daje mniejszą przewagę nad osobami z niższym wykształceniem niż dwie dekady temu. Jednocześnie relatywnie wyższe nadal są zwroty z edukacji zawodowej w porównaniu z ogólną na poziomie średnim.\nZmniejszyła się też premia za doświadczenie zawodowe – z 16,1 proc. do 11,2 proc.\nDlaczego tak się dzieje?\nW ciągu 20 lat na rynek pracy weszło wielu absolwentów uczelni, szczególnie kobiet. Im więcej osób ma podobny poziom wykształcenia, tym mniejsza staje się unikalność dyplomu. Dodatkowo automatyzacja i standaryzacja zadań zmniejszyły różnice między pracownikami o różnym stażu.\nKobiety odczuły większy spadek premii za wykształcenie niż mężczyźni – po 2018 r. ich zwroty z edukacji stały się niższe.\n– Wyniki pokazują, że wzajemna zastępowalność kobiet na rynku pracy jest zdecydowanie wyższa niż mężczyzn. To może być po części tłumaczone tym, że mężczyźni mają różny profil kwalifikacji, częściej wybierają kierunki techniczne, a ich kwalifikacje zawodowe są trudniejsze do zastąpienia przez inną osobę. Kobiety, które kończą kierunki ekonomiczne, również kierunki „miękkie”, mają podobny profil i tym samym z punktu widzenia rynku pracy są bardziej do siebie podobne i możliwe do zastąpienia – mówi dr hab. Aleksandra Majchrowska, prof. UŁ, adiunkt w Katedrze Makroekonomii Uniwersytetu Łódzkiego.\nPodobnie jest z doświadczeniem zawodowym. Ekspertka z UŁ tłumaczy, że młoda osoba może być dziś niemal doskonałym substytutem pracownika z pięcio-, dziesięcio- czy dwudziestoletnim doświadczeniem. Brzmi ostro, ale dobrze pokazuje kierunek zmian: część wiedzy, którą kiedyś zdobywało się latami, teraz da się szybciej odtworzyć dzięki narzędziom, procedurom i technologii.\nWinna jest też pensja minimalna\nDo tego dochodzi jeszcze szybki wzrost najniższego wynagrodzenia (z 824 zł w 2004 r. do ponad 4,8 tys. zł obecnie), który spłaszczył strukturę płac. Dziś 70 proc. pracowników zarabia nie więcej niż dwukrotność płacy minimalnej – podczas gdy dawniej osoby z wyższym wykształceniem otrzymywały trzy- lub czterokrotność tej kwoty. Dziś jest to raczej dwu- lub dwuipółkrotność.\n– Płaca minimalna ma ogromne znaczenie. Płace osób z wykształceniem średnim i wyższym nie nadążały, nie rosły w tym samym tempie. To spowodowało bardzo silne spłaszczenie rozkładu wynagrodzeń w Polsce – tłumaczy ekspertka.\nRynek pracy premiuje inne rzeczy niż dawniej\nTradycyjne miary kapitału ludzkiego, jak edukacja czy staż, choć nadal są istot",
+    "published": "2026-07-31T09:35:29",
+    "fetched": "2026-07-31T17:28:30.669302",
+    "title_uk": "Зниження премії за вищу освіту та досвід на польському ринку праці",
+    "summary_uk": "Згідно з дослідженням, премія за вищу освіту знизилася з 17% у 2004 році до 15% у 2024 році. Премія за досвід зменшилася з 16% до 11%. Зростання кількості випускників та автоматизація зменшують унікальність диплома та досвіду. Зростання мінімальної зарплати також вплинуло на структуру доходів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження премії за освіту та досвід може вплинути на стратегії найму. Розгляньте адаптацію пропозицій для молодих спеціалістів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни на ринку праці можуть вплинути на плани з підбору персоналу. Розгляньте нові стратегії для залучення та утримання працівників."
+    },
+    "tags": [
+      "робота-з-байєрами",
+      "KPI-команди",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Зниження премії за вищу освіту та досвід на польському ринку праці",
+    "summary": "Згідно з дослідженням, премія за вищу освіту знизилася з 17% у 2004 році до 15% у 2024 році. Премія за досвід зменшилася з 16% до 11%. Зростання кількості випускників та автоматизація зменшують унікальність диплома та досвіду. Зростання мінімальної зарплати також вплинуло на структуру доходів.",
+    "link": "https://300gospodarka.pl/news/premia-za-wyksztalcenie-i-doswiadczenie-zawodowe-spada",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af9c85e6add0",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/mobility/wegierski-mol-chce-ograniczyc-zaleznosc-od-rosyjskiej-ropy-7313436579088448a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Węgierski MOL chce \"ograniczyć zależność\" od rosyjskiej ropy",
+    "body_orig": "Węgierski koncern naftowo-gazowy MOL przygotowuje się do ograniczenia zależności od rosyjskiej ropy w związku ze zmianami legislacyjnymi, które mają wejść w życie w przyszłym roku. O planach spółki mówił w piątek prezes MOL Zsolt Hernadi podczas konferencji z premierem Peterem Magyarem - wg PAP.",
+    "published": "2026-07-31T14:21:19",
+    "fetched": "2026-07-31T17:28:31.709919",
+    "title_uk": "MOL планує зменшити залежність від російської нафти",
+    "summary_uk": "Угорська компанія MOL готується до зменшення залежності від російської нафти через нові законодавчі зміни, які набудуть чинності наступного року. Про це заявив президент компанії Золт Хернді під час конференції з прем'єр-міністром Угорщини. Це рішення може вплинути на ринок нафти в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення залежності MOL від російської нафти може призвести до зміни цін на нафту в Польщі. Дистриб'юторам варто стежити за коливаннями цін.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "MOL планує зменшити залежність від російської нафти",
+    "summary": "Угорська компанія MOL готується до зменшення залежності від російської нафти через нові законодавчі зміни, які набудуть чинності наступного року. Про це заявив президент компанії Золт Хернді під час конференції з прем'єр-міністром Угорщини. Це рішення може вплинути на ринок нафти в регіоні.",
+    "link": "https://www.money.pl/mobility/wegierski-mol-chce-ograniczyc-zaleznosc-od-rosyjskiej-ropy-7313436579088448a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0a6d1bd0918f",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/oddali-mieszkania-w-zamian-dostaja-specjalna-rente-tyle-otrzymuja-7313393000581184a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Oddali mieszkania w zamian za rentę. Tyle otrzymują",
+    "body_orig": "Fundusze hipoteczne miały pod koniec 2025 r. 402 aktywne umowy odwróconej hipoteki w modelu sprzedażowym. Średnia miesięczna renta wyniosła 1176 zł, a łączne wypłaty dla klientów sięgnęły w ubiegłym roku 7,3 mln zł.",
+    "published": "2026-07-31T11:35:43",
+    "fetched": "2026-07-31T17:28:31.709935",
+    "title_uk": "Польські фонди пропонують ренту в обмін на житло",
+    "summary_uk": "На кінець 2025 року в Польщі діяло 402 угоди з відворотною іпотекою. Середня рента становила €250, а загальні виплати для клієнтів досягли €1.6 млн у 2025 році. Цей механізм дозволяє власникам нерухомості отримувати регулярні виплати в обмін на житло.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польські фонди пропонують ренту в обмін на житло",
+    "summary": "На кінець 2025 року в Польщі діяло 402 угоди з відворотною іпотекою. Середня рента становила €250, а загальні виплати для клієнтів досягли €1.6 млн у 2025 році. Цей механізм дозволяє власникам нерухомості отримувати регулярні виплати в обмін на житло.",
+    "link": "https://www.money.pl/finanse/oddali-mieszkania-w-zamian-dostaja-specjalna-rente-tyle-otrzymuja-7313393000581184a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dd1eeafbc17c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-joins-black-sea-oil-gas-exploration-in-bulgaria-225064",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye joins Black Sea oil, gas exploration in Bulgaria",
+    "body_orig": "Türkiye’s state-owned Turkish Petroleum Corporation (TPAO) has acquired a 33 percent stake in the oil and natural gas exploration license for the Khan Tervel Block in Bulgaria’s Black Sea waters, the Turkish Energy and Natural Resources Ministry announced on July 31.",
+    "published": "2026-07-31T11:35:15",
+    "fetched": "2026-07-31T17:28:40.858358",
+    "title_uk": "Туреччина приєднується до розвідки нафти та газу в Болгарії",
+    "summary_uk": "Державна компанія Туреччини Turkish Petroleum Corporation (TPAO) отримала 33% у ліцензії на розвідку нафти та газу в блоці Khan Tervel у Чорному морі Болгарії. Це рішення оголосило Міністерство енергетики та природних ресурсів Туреччини 31 липня. Угода розширює присутність Туреччини в енергетичному секторі регіону.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають партнерів у сфері енергетики в регіоні. Рекомендується стежити за розвитком проекту.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина приєднується до розвідки нафти та газу в Болгарії",
+    "summary": "Державна компанія Туреччини Turkish Petroleum Corporation (TPAO) отримала 33% у ліцензії на розвідку нафти та газу в блоці Khan Tervel у Чорному морі Болгарії. Це рішення оголосило Міністерство енергетики та природних ресурсів Туреччини 31 липня. Угода розширює присутність Туреччини в енергетичному секторі регіону.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-joins-black-sea-oil-gas-exploration-in-bulgaria-225064",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d097bce6623f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/british-oil-giant-bp-aims-to-sell-north-sea-business-225055",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "British oil giant BP aims to sell North Sea business",
+    "body_orig": "BP has launched moves to sell its North Sea business, the British oil and gas giant announced on July 31, as new Prime Minister Andy Burnham faces pressure to ease drilling restrictions in the area.",
+    "published": "2026-07-31T09:23:50",
+    "fetched": "2026-07-31T17:28:40.858405",
+    "title_uk": "BP планує продати бізнес у Північному морі",
+    "summary_uk": "BP оголосила про намір продати свій бізнес у Північному морі. Це рішення прийнято на фоні тиску на нового прем'єр-міністра Енді Бернхема, який стикається з вимогами послабити обмеження на буріння в регіоні. Деталі угоди поки не розголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BP планує продати бізнес у Північному морі",
+    "summary": "BP оголосила про намір продати свій бізнес у Північному морі. Це рішення прийнято на фоні тиску на нового прем'єр-міністра Енді Бернхема, який стикається з вимогами послабити обмеження на буріння в регіоні. Деталі угоди поки не розголошені.",
+    "link": "https://www.hurriyetdailynews.com/british-oil-giant-bp-aims-to-sell-north-sea-business-225055",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0eebb3fe7ced",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-energy-import-bill-rises-28-8-percent-in-june-225053",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s energy import bill rises 28.8 percent in June",
+    "body_orig": "Türkiye’s energy import bill increased by 28.8 percent in June compared with the same month last year, reaching $5.92 billion.",
+    "published": "2026-07-31T08:46:24",
+    "fetched": "2026-07-31T17:28:40.858418",
+    "title_uk": "Туреччина збільшила рахунок за імпорт енергії на 29% у червні",
+    "summary_uk": "У червні Туреччина витратила на імпорт енергії $5.92 млрд, що на 29% більше, ніж у червні минулого року. Зростання витрат пов'язане з підвищенням цін на енергоресурси на світовому ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "імпорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина збільшила рахунок за імпорт енергії на 29% у червні",
+    "summary": "У червні Туреччина витратила на імпорт енергії $5.92 млрд, що на 29% більше, ніж у червні минулого року. Зростання витрат пов'язане з підвищенням цін на енергоресурси на світовому ринку.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-energy-import-bill-rises-28-8-percent-in-june-225053",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5f47317dd93",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-exports-climb-over-21-percent-year-on-year-in-june-225052",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s exports climb over 21 percent year-on-year in June",
+    "body_orig": "Türkiye’s exports rose 21.7 percent year-on-year to $24.92 billion in June, according to official data released on July 31.",
+    "published": "2026-07-31T08:37:21",
+    "fetched": "2026-07-31T17:28:40.858428",
+    "title_uk": "Експорт Туреччини зріс на 22% у червні",
+    "summary_uk": "Експорт Туреччини у червні досяг $24.92 млрд, що на 22% більше, ніж рік тому. Офіційні дані оприлюднені 31 липня. Цей ріст свідчить про відновлення економіки країни.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту відкриває нові можливості для турецьких виробників, які можуть розширити свої ринки в Україні та Польщі.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Експорт Туреччини зріс на 22% у червні",
+    "summary": "Експорт Туреччини у червні досяг $24.92 млрд, що на 22% більше, ніж рік тому. Офіційні дані оприлюднені 31 липня. Цей ріст свідчить про відновлення економіки країни.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-exports-climb-over-21-percent-year-on-year-in-june-225052",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2a316d331d25",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-tourism-income-totals-25-75-billion-in-first-half-225051",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s tourism income totals $25.75 billion in first half",
+    "body_orig": "Türkiye’s tourism income edged down 0.1 percent year on year to $25.75 billion in the first half of 2026, according to official data released on July 31.",
+    "published": "2026-07-31T08:36:00",
+    "fetched": "2026-07-31T17:28:40.858437",
+    "title_uk": "Доходи від туризму Туреччини за перше півріччя становлять $25.75 млрд",
+    "summary_uk": "Туреччина отримала $25.75 млрд від туризму в першій половині 2026 року, що на 0.1% менше, ніж за аналогічний період минулого року. Офіційні дані були опубліковані 31 липня. Зниження доходів може вплинути на економіку країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження доходів від туризму може зменшити попит на продукцію в Україні, Польщі та Румунії. Рекомендується переглянути стратегії виходу на ці ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Доходи від туризму Туреччини за перше півріччя становлять $25.75 млрд",
+    "summary": "Туреччина отримала $25.75 млрд від туризму в першій половині 2026 року, що на 0.1% менше, ніж за аналогічний період минулого року. Офіційні дані були опубліковані 31 липня. Зниження доходів може вплинути на економіку країни.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-tourism-income-totals-25-75-billion-in-first-half-225051",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "53991c9f93ae",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/exxonmobil-chevron-profits-soar-amid-middle-east-energy-disruption/4015108",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "ExxonMobil, Chevron profits soar amid Middle East energy disruption",
+    "body_orig": "ExxonMobil’s quarterly earnings more than double to $14.5B, while Chevron posts nearly fivefold increase to record $12.1B",
+    "published": "2026-07-31T13:47:44",
+    "fetched": "2026-07-31T17:28:43.620809",
+    "title_uk": "ExxonMobil і Chevron значно збільшили прибутки через енергетичні проблеми на Близькому Сході",
+    "summary_uk": "ExxonMobil збільшив квартальний прибуток до $14.5 млрд, а Chevron — до рекордних $12.1 млрд, що в п'ять разів більше. Зростання прибутків стало наслідком енергетичних збоїв у регіоні. Обидві компанії демонструють сильні фінансові результати на фоні глобальних викликів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ExxonMobil і Chevron значно збільшили прибутки через енергетичні проблеми на Близькому Сході",
+    "summary": "ExxonMobil збільшив квартальний прибуток до $14.5 млрд, а Chevron — до рекордних $12.1 млрд, що в п'ять разів більше. Зростання прибутків стало наслідком енергетичних збоїв у регіоні. Обидві компанії демонструють сильні фінансові результати на фоні глобальних викликів.",
+    "link": "https://www.aa.com.tr/en/economy/exxonmobil-chevron-profits-soar-amid-middle-east-energy-disruption/4015108",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7ea8abec003c",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/european-commission-accuses-temu-of-obstructing-foreign-subsidies-inspection/4014977",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "European Commission accuses Temu of obstructing foreign subsidies inspection",
+    "body_orig": "E-commerce platform could face fine of up to 1% of annual global turnover if preliminary findings are confirmed",
+    "published": "2026-07-31T12:17:17",
+    "fetched": "2026-07-31T17:28:43.620843",
+    "title_uk": "Єврокомісія звинувачує Temu в перешкоджанні перевірці субсидій",
+    "summary_uk": "Єврокомісія розпочала розслідування щодо платформи електронної комерції Temu. Якщо попередні висновки підтвердяться, компанія може отримати штраф до 1% від річного глобального обороту. Це може вплинути на її діяльність в ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Єврокомісія звинувачує Temu в перешкоджанні перевірці субсидій",
+    "summary": "Єврокомісія розпочала розслідування щодо платформи електронної комерції Temu. Якщо попередні висновки підтвердяться, компанія може отримати штраф до 1% від річного глобального обороту. Це може вплинути на її діяльність в ЄС.",
+    "link": "https://www.aa.com.tr/en/economy/european-commission-accuses-temu-of-obstructing-foreign-subsidies-inspection/4014977",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "adfefb8c7e3c",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/japan-intervenes-to-stem-yen-s-slide-against-dollar-report/4014783",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Japan intervenes to stem yen’s slide against dollar: Report",
+    "body_orig": "Yen strengthens from 163.86 to 158.70 against greenback in 3 days amid suspected official action, according to Kyodo News",
+    "published": "2026-07-31T09:40:44",
+    "fetched": "2026-07-31T17:28:43.620872",
+    "title_uk": "Японія втручається, щоб зупинити падіння єни до долара",
+    "summary_uk": "Єна зміцнилася з 163,86 до 158,70 за долар за три дні, що свідчить про можливі дії уряду Японії. Це сталося на фоні підозр щодо офіційного втручання, про що повідомляє Kyodo News.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Японія втручається, щоб зупинити падіння єни до долара",
+    "summary": "Єна зміцнилася з 163,86 до 158,70 за долар за три дні, що свідчить про можливі дії уряду Японії. Це сталося на фоні підозр щодо офіційного втручання, про що повідомляє Kyodo News.",
+    "link": "https://www.aa.com.tr/en/economy/japan-intervenes-to-stem-yen-s-slide-against-dollar-report/4014783",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "43053ebd00b1",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/eurozone-inflation-rises-to-29-in-july-on-higher-energy-costs/4014739",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Eurozone inflation rises to 2.9% in July on higher energy costs",
+    "body_orig": "Energy prices climb 10% year-on-year, while services inflation accelerates to 3.3%",
+    "published": "2026-07-31T09:09:19",
+    "fetched": "2026-07-31T17:28:43.620886",
+    "title_uk": "Інфляція в єврозоні зросла до 2.9% у липні через дорожчання енергії",
+    "summary_uk": "Інфляція в єврозоні досягла 2.9% у липні 2026 року. Ціни на енергію зросли на 10% у річному вимірі, а інфляція послуг прискорилася до 3.3%. Ці дані свідчать про продовження тиску на споживчі ціни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Інфляція в єврозоні зросла до 2.9% у липні через дорожчання енергії",
+    "summary": "Інфляція в єврозоні досягла 2.9% у липні 2026 року. Ціни на енергію зросли на 10% у річному вимірі, а інфляція послуг прискорилася до 3.3%. Ці дані свідчать про продовження тиску на споживчі ціни.",
+    "link": "https://www.aa.com.tr/en/economy/eurozone-inflation-rises-to-29-in-july-on-higher-energy-costs/4014739",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "143e68fe98c4",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/global-markets-trade-positive-as-tech-rally-eases-artificial-intelligence-selloff-concerns/4014714",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Global markets trade positive as tech rally eases artificial intelligence selloff concerns",
+    "body_orig": "Tech and chip stocks rebound with strong earnings from tech giants, reassuring investors AI boom remains sustainable, while cooling US economy and stabilizing inflation fuel Fed’s potential to maintain rates for longer",
+    "published": "2026-07-31T08:49:14",
+    "fetched": "2026-07-31T17:28:43.620900",
+    "title_uk": "Глобальні ринки позитивно реагують на відновлення технологічних акцій",
+    "summary_uk": "Технологічні та чіпові акції відновилися завдяки сильним звітам від провідних компаній. Інвестори впевнені, що бум штучного інтелекту залишиться стійким. Охолодження економіки США та стабілізація інфляції підвищують шанси Федрезерву зберегти ставки на довший термін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Глобальні ринки позитивно реагують на відновлення технологічних акцій",
+    "summary": "Технологічні та чіпові акції відновилися завдяки сильним звітам від провідних компаній. Інвестори впевнені, що бум штучного інтелекту залишиться стійким. Охолодження економіки США та стабілізація інфляції підвищують шанси Федрезерву зберегти ставки на довший термін.",
+    "link": "https://www.aa.com.tr/en/economy/global-markets-trade-positive-as-tech-rally-eases-artificial-intelligence-selloff-concerns/4014714",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c99b718fa7ab",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/toyota-retains-global-auto-sales-crown-despite-china-slump/4014688",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Toyota retains global auto sales crown despite China slump",
+    "body_orig": "Japanese carmaker sells 5.39M vehicles worldwide in 1st half, maintaining top position for 7th consecutive year",
+    "published": "2026-07-31T08:26:47",
+    "fetched": "2026-07-31T17:28:43.620913",
+    "title_uk": "Toyota зберігає лідерство у світових продажах авто попри падіння в Китаї",
+    "summary_uk": "Toyota продала 5.39 млн автомобілів у першій половині року, зберігши перше місце на ринку. Це вже сьомий рік поспіль, коли компанія очолює світові продажі. Попри зниження попиту в Китаї, японський виробник продовжує демонструвати стабільні результати.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Toyota зберігає лідерство у світових продажах авто попри падіння в Китаї",
+    "summary": "Toyota продала 5.39 млн автомобілів у першій половині року, зберігши перше місце на ринку. Це вже сьомий рік поспіль, коли компанія очолює світові продажі. Попри зниження попиту в Китаї, японський виробник продовжує демонструвати стабільні результати.",
+    "link": "https://www.aa.com.tr/en/economy/toyota-retains-global-auto-sales-crown-despite-china-slump/4014688",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8b5b9e57badc",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4015265",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bu hafta yatırım araçlarının performansı",
+    "body_orig": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 3,48, altının gram fiyatı yüzde 0,50 değer kaybederken dolar/TL yüzde 0,38 ve avro/TL yüzde 1,22 değer kazandı.",
+    "published": "2026-07-31T16:51:13",
+    "fetched": "2026-07-31T17:28:44.920952",
+    "title_uk": "Вартість акцій на біржі Туреччини знизилась, валюта зміцнилась",
+    "summary_uk": "На біржі Стамбула акції втратили в ціні в середньому 3%. Ціна золота знизилась на 0.5%. Долар і євро зміцніли на 0.4% та 1.2% відповідно. Ринок демонструє змішану динаміку.",
+    "what_it_means": {
+      "ua_importer": "Зміцнення євро може знизити витрати на імпорт товарів з Європи. Слід переглянути ціни на імпортовану продукцію.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зміцнення валюти може позитивно вплинути на експорт, знижуючи витрати на імпорт сировини.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "валюта",
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Вартість акцій на біржі Туреччини знизилась, валюта зміцнилась",
+    "summary": "На біржі Стамбула акції втратили в ціні в середньому 3%. Ціна золота знизилась на 0.5%. Долар і євро зміцніли на 0.4% та 1.2% відповідно. Ринок демонструє змішану динаміку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4015265",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3bd3845d8307",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4015197",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa günü yükselişle tamamladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 13.458,10 puandan tamamladı.",
+    "published": "2026-07-31T15:35:28",
+    "fetched": "2026-07-31T17:28:44.920973",
+    "title_uk": "BIST 100 зріс на 1,2% на біржі Стамбула",
+    "summary_uk": "Індекс BIST 100 на біржі Стамбула зріс на 1,2% і закрився на рівні 13.458. Інвестори продовжують стежити за економічними показниками та політичною ситуацією в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання індексу може свідчити про покращення інвестиційного клімату в Туреччині. Це може бути позитивним сигналом для виробників, які шукають нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "BIST 100 зріс на 1,2% на біржі Стамбула",
+    "summary": "Індекс BIST 100 на біржі Стамбула зріс на 1,2% і закрився на рівні 13.458. Інвестори продовжують стежити за економічними показниками та політичною ситуацією в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4015197",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ef70104df47f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-301-milyon-345-bin-lira-tarimsal-destek-odemesinin-bugun-yapilacagini-bildirdi/4015185",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Yumaklı 301 milyon 345 bin lira tarımsal destek ödemesinin bugün yapılacağını bildirdi",
+    "body_orig": "Tarım ve Orman Bakanı İbrahim Yumaklı, 301 milyon 345 bin liralık tarımsal destek ödemelerinin bugün yapılacağını bildirdi.",
+    "published": "2026-07-31T15:19:06",
+    "fetched": "2026-07-31T17:28:44.920983",
+    "title_uk": "Туреччина виплатить €301 млн аграрної підтримки",
+    "summary_uk": "Міністр сільського господарства Туреччини Ібрагім Юмакли оголосив про виплату аграрної підтримки на суму €301 млн. Ці кошти будуть перераховані сьогодні. Підтримка спрямована на розвиток аграрного сектору країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може позитивно вплинути на виробників, які постачають продукцію в аграрний сектор Туреччини, оскільки зростання підтримки може стимулювати попит.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина виплатить €301 млн аграрної підтримки",
+    "summary": "Міністр сільського господарства Туреччини Ібрагім Юмакли оголосив про виплату аграрної підтримки на суму €301 млн. Ці кошти будуть перераховані сьогодні. Підтримка спрямована на розвиток аграрного сектору країни.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-301-milyon-345-bin-lira-tarimsal-destek-odemesinin-bugun-yapilacagini-bildirdi/4015185",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e1cce08f8fb7",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-esnaf-kefalet-kooperatifleri-araciligiyla-artvin-esnaflarimiz-icin-100-milyon-lira-gonderecegiz/4014846",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ticaret Bakanı Bolat: Esnaf kefalet kooperatifleri aracılığıyla Artvin esnaflarımız için 100 milyon lira göndereceğiz",
+    "body_orig": "Ticaret Bakanı Ömer Bolat, \"İnşallah pazartesi sabahı Halk Bankasından TESKOMB kefaletiyle, esnaf kefalet kooperatifleri aracılığıyla Artvin esnaflarımız için 100 milyon lira göndereceğiz.\" dedi.",
+    "published": "2026-07-31T10:29:05",
+    "fetched": "2026-07-31T17:28:44.921011",
+    "title_uk": "Туреччина направить 100 млн лір для підтримки підприємців в Артвині",
+    "summary_uk": "Міністр торгівлі Туреччини Омер Болат оголосив про виділення 100 млн лір для підтримки підприємців в Артвині через кооперативи. Кошти будуть надані через Halk Bank за гарантією TESKOMB. Це рішення має на меті покращити фінансову ситуацію місцевих бізнесменів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які постачають товари в Артвин. Важливо стежити за змінами в попиті на продукцію в регіоні.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина направить 100 млн лір для підтримки підприємців в Артвині",
+    "summary": "Міністр торгівлі Туреччини Омер Болат оголосив про виділення 100 млн лір для підтримки підприємців в Артвині через кооперативи. Кошти будуть надані через Halk Bank за гарантією TESKOMB. Це рішення має на меті покращити фінансову ситуацію місцевих бізнесменів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-esnaf-kefalet-kooperatifleri-araciligiyla-artvin-esnaflarimiz-icin-100-milyon-lira-gonderecegiz/4014846",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "871392af766d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-la-bucuresti-a-urcat-cu-11-3-in-iulie-cea-mai-buna-luna-din-ianuarie-2012-incoace-iar-rulajul-pe-piata-de-actiuni-a-atins-un-record-de-aproape-3-mld-lei-23207023",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la Bucureşti a urcat cu 11,3% în iulie, cea mai bună lună din ianuarie 2012 încoace, iar rulajul pe piaţa de acţiuni a atins un record de aproape 3 mld. lei",
+    "body_orig": "",
+    "published": "2026-07-31T15:45:44",
+    "fetched": "2026-07-31T17:28:46.682935",
+    "title_uk": "Бухарестська біржа зросла на 11% у липні, рекордний обсяг торгів",
+    "summary_uk": "Біржа в Бухаресті показала зростання на 11% у липні, що стало найкращим результатом з січня 2012 року. Обсяг торгів на ринку акцій досяг рекордних €3 млрд. Це свідчить про зростаючий інтерес інвесторів до ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа зросла на 11% у липні, рекордний обсяг торгів",
+    "summary": "Біржа в Бухаресті показала зростання на 11% у липні, що стало найкращим результатом з січня 2012 року. Обсяг торгів на ринку акцій досяг рекордних €3 млрд. Це свідчить про зростаючий інтерес інвесторів до ринку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-de-la-bucuresti-a-urcat-cu-11-3-in-iulie-cea-mai-buna-luna-din-ianuarie-2012-incoace-iar-rulajul-pe-piata-de-actiuni-a-atins-un-record-de-aproape-3-mld-lei-23207023",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4a5dc6f5242d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/transilvania-investments-cere-convocarea-agea-la-thr-marea-neagra-pentru-un-program-de-rascumparare-de-pana-la-107-milioane-de-lei-cu-reducerea-capitalului-23207021",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Transilvania Investments cere convocarea AGEA la THR Marea Neagră pentru un program de răscumpărare de până la 107 milioane de lei, cu reducerea capitalului",
+    "body_orig": "",
+    "published": "2026-07-31T15:44:40",
+    "fetched": "2026-07-31T17:28:46.682945",
+    "title_uk": "Transilvania Investments пропонує викуп акцій THR Marea Neagră",
+    "summary_uk": "Transilvania Investments ініціює збори акціонерів THR Marea Neagră для програми викупу акцій на суму до 107 млн леїв. Це передбачає зменшення капіталу компанії. Дата зборів ще не оголошена.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Transilvania Investments пропонує викуп акцій THR Marea Neagră",
+    "summary": "Transilvania Investments ініціює збори акціонерів THR Marea Neagră для програми викупу акцій на суму до 107 млн леїв. Це передбачає зменшення капіталу компанії. Дата зборів ще не оголошена.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/transilvania-investments-cere-convocarea-agea-la-thr-marea-neagra-pentru-un-program-de-rascumparare-de-pana-la-107-milioane-de-lei-cu-reducerea-capitalului-23207021",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b74077ec87f6",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/lion-capital-vrea-dividende-de-0-046-lei-de-la-fondul-proprietatea-randament-de-7-7-23207019",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Lion Capital vrea dividende de 0,046 lei de la Fondul Proprietatea: randament de 7,7%",
+    "body_orig": "",
+    "published": "2026-07-31T15:42:36",
+    "fetched": "2026-07-31T17:28:46.682954",
+    "title_uk": "Lion Capital пропонує дивіденди від Fondul Proprietatea",
+    "summary_uk": "Lion Capital планує отримати дивіденди у розмірі 0.046 леїв на акцію від Fondul Proprietatea. Це забезпечить дохідність 7.7% для інвесторів. Пропозиція відображає зростаючий інтерес до інвестицій у румунські активи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Lion Capital пропонує дивіденди від Fondul Proprietatea",
+    "summary": "Lion Capital планує отримати дивіденди у розмірі 0.046 леїв на акцію від Fondul Proprietatea. Це забезпечить дохідність 7.7% для інвесторів. Пропозиція відображає зростаючий інтерес до інвестицій у румунські активи.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/lion-capital-vrea-dividende-de-0-046-lei-de-la-fondul-proprietatea-randament-de-7-7-23207019",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "12717477909f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/stare-alerta-romania-premierul-ilie-bolojan-anunta-scaderea-productiei-energie-electrica-determinat-guvernul-ia-aceasta-decizie-transelectrica-nuclearelectrica-vor-purta-discutii-aceste-zile-ajutor-23207015",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Stare de alertă în România: Premierul Ilie Bolojan anunţă că scăderea producţiei de energie electrică a determinat Guvernul să ia această decizie. „Transelectrica şi Nuclearelectrica vor purta discuţii în aceste zile pentru un ajutor de urgenţă din partea Ucrainei în orele de seară”",
+    "body_orig": "",
+    "published": "2026-07-31T15:16:48",
+    "fetched": "2026-07-31T17:28:46.682971",
+    "title_uk": "Румунія оголосила надзвичайний стан через зниження виробництва електроенергії",
+    "summary_uk": "Прем'єр Румунії Іліє Болоян повідомив про зниження виробництва електроенергії, що спонукало уряд оголосити надзвичайний стан. Компанії Transelectrica та Nuclearelectrica ведуть переговори про термінову допомогу з України. Це рішення прийнято для забезпечення електропостачання в вечірні години.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія оголосила надзвичайний стан через зниження виробництва електроенергії",
+    "summary": "Прем'єр Румунії Іліє Болоян повідомив про зниження виробництва електроенергії, що спонукало уряд оголосити надзвичайний стан. Компанії Transelectrica та Nuclearelectrica ведуть переговори про термінову допомогу з України. Це рішення прийнято для забезпечення електропостачання в вечірні години.",
+    "link": "https://www.zf.ro/eveniment/stare-alerta-romania-premierul-ilie-bolojan-anunta-scaderea-productiei-energie-electrica-determinat-guvernul-ia-aceasta-decizie-transelectrica-nuclearelectrica-vor-purta-discutii-aceste-zile-ajutor-23207015",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ff389cd3fbf2",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/xiaomi-skynomad-gama-de-suv-uri-cu-care-compania-din-china-tinteste-familiile_964450.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Xiaomi SkyNomad, gamă de SUV-uri cu care compania din China țintește familiile",
+    "body_orig": "Divizia de vehicule electrice a gigantului chinez Xiaomi, a lansat noua sa serie de vehicule SkyNomad, asamblate pe platforma Kunlun.",
+    "published": "2026-07-31T17:26:14",
+    "fetched": "2026-07-31T17:28:49.243417",
+    "title_uk": "Xiaomi представила нову серію SUV SkyNomad для сімей",
+    "summary_uk": "Xiaomi запустила серію електричних автомобілів SkyNomad, виготовлених на платформі Kunlun. Ця лінійка орієнтована на сімейних споживачів. Компанія прагне зайняти свою частку на ринку електромобілів у Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Xiaomi представила нову серію SUV SkyNomad для сімей",
+    "summary": "Xiaomi запустила серію електричних автомобілів SkyNomad, виготовлених на платформі Kunlun. Ця лінійка орієнтована на сімейних споживачів. Компанія прагне зайняти свою частку на ринку електромобілів у Румунії.",
+    "link": "https://www.economica.net/xiaomi-skynomad-gama-de-suv-uri-cu-care-compania-din-china-tinteste-familiile_964450.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "674a3d3d1116",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/life-is-hard-anunta-ca-este-aproape-sa-intre-pe-piata-distribuirii-de-asigurari-cu-platforma-sa-boost24_964395.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "LIFE IS HARD anunță că este aproape să intre pe piața distribuirii de asigurări, cu platforma sa BOOST24",
+    "body_orig": "LIFE IS HARD (LIH), companie tech listată pe piața AeRO a BVB, anunță că înregistrează progrese importante  în implementarea BOOST24, platformă destinată digitalizării distribuției în asigurări lansată la final de martie 2026. Compania susține că  Soluția tehnologică inovatoare, concepută pentru a transforma radical relația dintre brokeri, agenți și clienți, confirmă un interes ridicat din partea liderilor din industrie, fiind deja în faza de implementare cu parteneri cheie din piață.",
+    "published": "2026-07-31T16:07:10",
+    "fetched": "2026-07-31T17:28:49.243459",
+    "title_uk": "LIFE IS HARD запускає платформу BOOST24 для дистрибуції страхування",
+    "summary_uk": "Компанія LIFE IS HARD анонсувала прогрес у впровадженні BOOST24, платформи для цифровізації дистрибуції страхування. Запуск відбувся в березні 2026 року, і вже є інтерес від ключових гравців ринку. Платформа має на меті змінити взаємодію між брокерами, агентами та клієнтами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "LIFE IS HARD запускає платформу BOOST24 для дистрибуції страхування",
+    "summary": "Компанія LIFE IS HARD анонсувала прогрес у впровадженні BOOST24, платформи для цифровізації дистрибуції страхування. Запуск відбувся в березні 2026 року, і вже є інтерес від ключових гравців ринку. Платформа має на меті змінити взаємодію між брокерами, агентами та клієнтами.",
+    "link": "https://www.economica.net/life-is-hard-anunta-ca-este-aproape-sa-intre-pe-piata-distribuirii-de-asigurari-cu-platforma-sa-boost24_964395.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "18df22623f7d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/camera-deputatilor-a-votat-masuri-noi-pentru-combaterea-ppa-printre-care-extragerea-integrala-a-mistretilor-din-zonele-contaminate-si-controale-dure-la-frontiera-crescatorii-de-porci-saluta-decizia_964387.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Camera Deputaților a votat măsuri noi pentru combaterea PPA, printre care extragerea integrală a mistreților din zonele contaminate și controale dure la frontieră. Crescătorii de porci salută decizia",
+    "body_orig": "Votul dat vineri în cadrul sesiunii extraordinare a Plenului Camerei Deputaţilor pentru adoptarea modificărilor legislative privind combaterea pestei porcine africane (PPA) reprezintă un pas important în consolidarea biosecurităţii şi în protejarea fermelor comerciale de creştere a porcinelor, consideră Asociaţia Producătorilor de Carne de Porc din România (APCPR), transmite Agerpres.",
+    "published": "2026-07-31T15:49:45",
+    "fetched": "2026-07-31T17:28:49.243469",
+    "title_uk": "Румунія посилює заходи проти африканської чуми свиней",
+    "summary_uk": "Парламент Румунії ухвалив нові заходи для боротьби з африканською чумою свиней. Серед них — повне вилучення диких свиней з заражених зон та посилення контролю на кордоні. Ассоціація виробників свинини вважає це важливим кроком для захисту свинарських ферм.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо стежити за змінами в регуляціях, які можуть вплинути на імпорт свинини з Румунії. Зміни можуть вплинути на ціни та доступність продуктів."
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Румунія посилює заходи проти африканської чуми свиней",
+    "summary": "Парламент Румунії ухвалив нові заходи для боротьби з африканською чумою свиней. Серед них — повне вилучення диких свиней з заражених зон та посилення контролю на кордоні. Ассоціація виробників свинини вважає це важливим кроком для захисту свинарських ферм.",
+    "link": "https://www.economica.net/camera-deputatilor-a-votat-masuri-noi-pentru-combaterea-ppa-printre-care-extragerea-integrala-a-mistretilor-din-zonele-contaminate-si-controale-dure-la-frontiera-crescatorii-de-porci-saluta-decizia_964387.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "24ba8119aaa9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/romania-in-stare-de-alerta-energetica-pentru-luna-august-dupa-reducerea-debitului-dunarii_964380.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "România, în stare de alertă energetică pentru luna august, după reducerea debitului Dunării. Ucraina ne va furniza curent în orele de seară",
+    "body_orig": "Premierul interimar Ilie Bolojan a declarat stare de alertă energetică la nivel național pentru întreaga lună august pe fondul reducerii producției de energie ca urmare a reducerii debitului Dunării. Unitatea 2 a centralei de la Cernavodă ar putea fi oprită și ea, moment în care România pierde 20% din producția de energie.",
+    "published": "2026-07-31T15:43:47",
+    "fetched": "2026-07-31T17:28:49.243479",
+    "title_uk": "Румунія в стані енергетичної тривоги через зменшення виробництва",
+    "summary_uk": "Румунія оголосила енергетичну тривогу на серпень через зменшення дебіту Дунаю. Відключення другого блоку АЕС у Кернаводі призведе до втрати 20% виробництва електроенергії. Уряд планує отримувати електрику з України в вечірні години.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Румунія в стані енергетичної тривоги через зменшення виробництва",
+    "summary": "Румунія оголосила енергетичну тривогу на серпень через зменшення дебіту Дунаю. Відключення другого блоку АЕС у Кернаводі призведе до втрати 20% виробництва електроенергії. Уряд планує отримувати електрику з України в вечірні години.",
+    "link": "https://www.economica.net/romania-in-stare-de-alerta-energetica-pentru-luna-august-dupa-reducerea-debitului-dunarii_964380.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b82ed0cdb479",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/mai-este-agricultura-romaneasca-profitabila-in-2026-25-de-kilograme-de-grau-costa-cat-o-cafea-in-oras_964378.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Mai este agricultura românească profitabilă în 2026? 25 de kilograme de grâu costă cât o cafea în oraș",
+    "body_orig": "Agricultura românească are perspective bune privind producția, însă profitabilitatea fermelor rămâne sub presiune. Costurile tot mai mari pentru motorină, îngrășăminte, energie și finanțare reduc marjele producătorilor, iar o recoltă bună nu mai garantează automat câștiguri la fel de bune.",
+    "published": "2026-07-31T15:37:54",
+    "fetched": "2026-07-31T17:28:49.243490",
+    "title_uk": "Прибутковість румунської аграрної сфери під тиском",
+    "summary_uk": "Румунська аграрна галузь має потенціал для зростання, але прибутковість ферм знижується через зростання витрат на паливо, добрива та енергію. Висока врожайність вже не є гарантією добрих прибутків. Виробники стикаються з новими викликами на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прибутковість румунської аграрної сфери під тиском",
+    "summary": "Румунська аграрна галузь має потенціал для зростання, але прибутковість ферм знижується через зростання витрат на паливо, добрива та енергію. Висока врожайність вже не є гарантією добрих прибутків. Виробники стикаються з новими викликами на ринку.",
+    "link": "https://www.economica.net/mai-este-agricultura-romaneasca-profitabila-in-2026-25-de-kilograme-de-grau-costa-cat-o-cafea-in-oras_964378.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b1803b2dfa78",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/norvegienii-de-lascatec-cumpara-proiectul-urleasca-de-168-milioane-de-euro-de-la-ox2-si-intra-pe-intra-si-pe-piata-eoliana-terestra-din-europa_964363.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Norvegienii de la Scatec cumpără proiectul eolian Urleasca de 168 milioane de euro de la OX2",
+    "body_orig": "Scatec ASA, furnizor norvegian de soluții de energie regenerabilă, a semnat un acord pentru achiziționarea proiectului eolian terestru Urleasca din România de la OX2. Costul total al proiectului este estimat la 168 de milioane de euro (fără TVA).",
+    "published": "2026-07-31T15:34:19",
+    "fetched": "2026-07-31T17:28:49.243499",
+    "title_uk": "Norvegienii de la Scatec купують проект вітрової енергії в Румунії",
+    "summary_uk": "Scatec ASA підписала угоду про купівлю проекту вітрової електростанції Urleasca в Румунії у OX2. Загальна вартість проекту становить €168 млн без ПДВ. Угода підтверджує зростаючий інтерес до відновлювальних джерел енергії в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Norvegienii de la Scatec купують проект вітрової енергії в Румунії",
+    "summary": "Scatec ASA підписала угоду про купівлю проекту вітрової електростанції Urleasca в Румунії у OX2. Загальна вартість проекту становить €168 млн без ПДВ. Угода підтверджує зростаючий інтерес до відновлювальних джерел енергії в регіоні.",
+    "link": "https://www.economica.net/norvegienii-de-lascatec-cumpara-proiectul-urleasca-de-168-milioane-de-euro-de-la-ox2-si-intra-pe-intra-si-pe-piata-eoliana-terestra-din-europa_964363.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5e925cb15bd2",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Paris-based Apolownia raises €1 million to scale coastal restoration and blue carbon projects",
+    "body_orig": "Apolownia, a Paris-based company developing high-integrity coastal ecosystem restoration projects, has announced the closing of its first Seed round, totalling €1 million.  The round was completed with the support of LITA, Bpifrance and a group of business angels and individual investors.  “At a time when everyone is chasing efficiency and technology has never been more [&#8230;]\nThe post Paris-based Apolownia raises €1 million to scale coastal restoration and blue carbon projects appeared first on EU-Startups.",
+    "published": "2026-07-31T12:02:03",
+    "fetched": "2026-07-31T17:28:27.679821",
+    "title_uk": "Apolownia залучила €1 млн для проектів з відновлення прибережних екосистем",
+    "summary_uk": "Фірма Apolownia з Парижа завершила перший раунд Seed, залучивши €1 млн. Інвестиції отримані за підтримки LITA, Bpifrance та групи бізнес-ангелів. Кошти підуть на масштабування проектів з відновлення прибережних екосистем та синього вуглецю.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Apolownia залучила €1 млн для проектів з відновлення прибережних екосистем",
+    "summary": "Фірма Apolownia з Парижа завершила перший раунд Seed, залучивши €1 млн. Інвестиції отримані за підтримки LITA, Bpifrance та групи бізнес-ангелів. Кошти підуть на масштабування проектів з відновлення прибережних екосистем та синього вуглецю.",
+    "link": "https://www.eu-startups.com/2026/07/paris-based-apolownia-raises-e1-million-to-scale-coastal-restoration-and-blue-carbon-projects/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "09f947df1745",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Eindhoven’s Keiron raises €20.7 million to tackle one of electronics manufacturing’s most expensive problems",
+    "body_orig": "Keiron Printing Technologies (Keiron), an Eindhoven-based DeepTech company specialising in Laser-Induced Forward Transfer (LiFT) precision solder paste printing, has closed a €20.7 million Series A round.  The round was co-led by Invest-NL, DeepTechXL and Waves Capital, alongside existing and new investors, Ramphastos Investments, ATUM Ventures, Cottonwood Technology Fund and TNO Ventures.  “Solder paste printing has [&#8230;]\nThe post Eindhoven&#8217;s Keiron raises €20.7 million to tackle one of electronics manufacturing’s most expensive problems appeared first on EU-Startups.",
+    "published": "2026-07-31T09:14:57",
+    "fetched": "2026-07-31T17:28:27.679846",
+    "title_uk": "Keiron з Нідерландів залучила €21 млн для вирішення проблеми в електроніці",
+    "summary_uk": "Компанія Keiron Printing Technologies з Ейндговена завершила раунд фінансування Series A на €21 млн. Інвесторами стали Invest-NL, DeepTechXL, Waves Capital та інші. Кошти підуть на розвиток технології друку пасти для пайки, що є важливою для виробництва електроніки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Keiron з Нідерландів залучила €21 млн для вирішення проблеми в електроніці",
+    "summary": "Компанія Keiron Printing Technologies з Ейндговена завершила раунд фінансування Series A на €21 млн. Інвесторами стали Invest-NL, DeepTechXL, Waves Capital та інші. Кошти підуть на розвиток технології друку пасти для пайки, що є важливою для виробництва електроніки.",
+    "link": "https://www.eu-startups.com/2026/07/eindhoven-based-keiron-raises-e20-7-million-to-tackle-one-of-electronics-manufacturings-most-expensive-problems/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "df9c7a8cff41",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Málaga-based Atomic One raises €5.6 million to automate e-commerce operations with AI agents",
+    "body_orig": "Atomic One, a Málaga-based technology company behind an AI operating system for e-commerce brands, has completed a two-tranche financing round totalling €5.6 million. As part of this closing, Arcano Partners, through the Impacto Andalucía Innovación y Desarrollo SICC, S.A.U. fund, invested an additional €660k, bringing the fund&#8217;s total investment in the company to €2.5 million. [&#8230;]\nThe post Málaga-based Atomic One raises €5.6 million to automate e-commerce operations with AI agents appeared first on EU-Startups.",
+    "published": "2026-07-31T07:35:44",
+    "fetched": "2026-07-31T17:28:27.679858",
+    "title_uk": "Atomic One залучила €5.6 млн для автоматизації e-commerce",
+    "summary_uk": "Технологічна компанія Atomic One з Малаги завершила раунд фінансування на €5.6 млн для розробки AI-системи для e-commerce. Інвестиції включають €660 тис. від Arcano Partners, що підвищує загальну суму їхнього фінансування до €2.5 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Atomic One залучила €5.6 млн для автоматизації e-commerce",
+    "summary": "Технологічна компанія Atomic One з Малаги завершила раунд фінансування на €5.6 млн для розробки AI-системи для e-commerce. Інвестиції включають €660 тис. від Arcano Partners, що підвищує загальну суму їхнього фінансування до €2.5 млн.",
+    "link": "https://www.eu-startups.com/2026/07/malaga-based-atomic-one-raises-e5-6-million-to-automate-e-commerce-operations-with-ai-agents/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cb7c9870c824",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/grantova-programa-z-nato-mozlivosti-tiznia/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Підприємництво для молоді, новий курс Molfar і грантова програма з НАТО — можливості тижня",
+    "body_orig": "Як отримати грант і масштабувати свій бізнес? AIN зібрав можливості тижня для українських підприємців у серпні 2026 року.",
+    "published": "2026-07-31T16:40:00",
+    "fetched": "2026-07-31T17:28:34.052926",
+    "title_uk": "Новий курс Molfar та грантова програма з НАТО для молодих підприємців",
+    "summary_uk": "Molfar запустив курс для молодих підприємців, що охоплює основи бізнесу та можливості отримання грантів. Грантова програма від НАТО пропонує фінансування для масштабування бізнесу. Це шанс для молоді отримати знання та підтримку для розвитку власних проектів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "opportunity",
+    "title": "Новий курс Molfar та грантова програма з НАТО для молодих підприємців",
+    "summary": "Molfar запустив курс для молодих підприємців, що охоплює основи бізнесу та можливості отримання грантів. Грантова програма від НАТО пропонує фінансування для масштабування бізнесу. Це шанс для молоді отримати знання та підтримку для розвитку власних проектів.",
+    "link": "https://ain.ua/2026/07/31/grantova-programa-z-nato-mozlivosti-tiznia/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "93345f341c35",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/ukrposta-otrimala-maize-297-mln-grn-pributku-u-drugomu-kvartali/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Укрпошта» отримала майже 297 млн грн прибутку у другому кварталі та збільшила виторг на понад 8%",
+    "body_orig": "Компанія завершила квартал із прибутком після збитку торік, а також наростила дохід і EBITDA.",
+    "published": "2026-07-31T14:49:00",
+    "fetched": "2026-07-31T17:28:34.052944",
+    "title_uk": "Укрпошта отримала прибуток у другому кварталі 2026 року",
+    "summary_uk": "Укрпошта завершила другий квартал з прибутком майже 297 млн грн, відновившись після збитків минулого року. Компанія також збільшила виторг на понад 8% та покращила показники EBITDA. Це свідчить про позитивні зміни в діяльності компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Укрпошта отримала прибуток у другому кварталі 2026 року",
+    "summary": "Укрпошта завершила другий квартал з прибутком майже 297 млн грн, відновившись після збитків минулого року. Компанія також збільшила виторг на понад 8% та покращила показники EBITDA. Це свідчить про позитивні зміни в діяльності компанії.",
+    "link": "https://ain.ua/2026/07/31/ukrposta-otrimala-maize-297-mln-grn-pributku-u-drugomu-kvartali/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "234215152a98",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/f-drones-ua-postaviv-2000-droniv-f10-dlia-amerikanskix-viiskovix/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Україна вперше офіційно експортувала бойові дрони: F-Drones поставила 2000 БПЛА для армії США",
+    "body_orig": "Наразі всю партію вже доставили американській стороні, вона проходить офіційну процедуру приймання.",
+    "published": "2026-07-31T12:50:00",
+    "fetched": "2026-07-31T17:28:34.052955",
+    "title_uk": "Україна експортує 2000 бойових дронів для армії США",
+    "summary_uk": "Компанія F-Drones завершила постачання 2000 безпілотників для армії США. Вся партія вже доставлена і проходить процедуру приймання. Це перший офіційний експорт бойових дронів з України.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Україна експортує 2000 бойових дронів для армії США",
+    "summary": "Компанія F-Drones завершила постачання 2000 безпілотників для армії США. Вся партія вже доставлена і проходить процедуру приймання. Це перший офіційний експорт бойових дронів з України.",
+    "link": "https://ain.ua/2026/07/31/f-drones-ua-postaviv-2000-droniv-f10-dlia-amerikanskix-viiskovix/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f2114345626c",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/andrii-fedoriv-i-otoy-zapustili-kompaniiu-hist-tech/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Андрій Федорів і OTOY запустили компанію HIST Tech. Що про неї відомо?",
+    "body_orig": "HIST Tech стала четвертою спеціалізованою компанією у складі Fedoriv Group і першою, що працюватиме у технологічному напрямі.",
+    "published": "2026-07-31T11:50:00",
+    "fetched": "2026-07-31T17:28:34.052964",
+    "title_uk": "Андрій Федорів та OTOY заснували HIST Tech",
+    "summary_uk": "HIST Tech стала четвертою компанією в Fedoriv Group, зосередженою на технологіях. Це перший технологічний проект групи, що може вплинути на ринок стартапів в Україні. Засновники — Андрій Федорів та OTOY.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Андрій Федорів та OTOY заснували HIST Tech",
+    "summary": "HIST Tech стала четвертою компанією в Fedoriv Group, зосередженою на технологіях. Це перший технологічний проект групи, що може вплинути на ринок стартапів в Україні. Засновники — Андрій Федорів та OTOY.",
+    "link": "https://ain.ua/2026/07/31/andrii-fedoriv-i-otoy-zapustili-kompaniiu-hist-tech/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fb1a3259911b",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/openai-znizuje-cini-na-si-modeli-dlia-biznesu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "OpenAI знижує ціни на ШІ-моделі для бізнесу. Яка причина?",
+    "body_orig": "Компанія здешевила використання моделей GPT-5.6 Luna і Terra на тлі зростання витрат бізнесу на штучний інтелект.",
+    "published": "2026-07-31T10:20:00",
+    "fetched": "2026-07-31T17:28:34.052994",
+    "title_uk": "OpenAI знижує ціни на ШІ-моделі для бізнесу",
+    "summary_uk": "OpenAI знизила ціни на моделі GPT-5.6 Luna і Terra через зростання витрат на штучний інтелект. Це рішення має на меті зробити технології доступнішими для бізнесу. Зниження цін може вплинути на конкурентоспроможність компаній, які використовують ці моделі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на ШІ-моделі може спростити доступ до аналітики та автоматизації процесів, що позитивно вплине на управління категоріями."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "OpenAI знижує ціни на ШІ-моделі для бізнесу",
+    "summary": "OpenAI знизила ціни на моделі GPT-5.6 Luna і Terra через зростання витрат на штучний інтелект. Це рішення має на меті зробити технології доступнішими для бізнесу. Зниження цін може вплинути на конкурентоспроможність компаній, які використовують ці моделі.",
+    "link": "https://ain.ua/2026/07/31/openai-znizuje-cini-na-si-modeli-dlia-biznesu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a264eeaadc1a",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/oshchadbank-ta-ukreksimbank-vystavliat-na-prodazh-trtc-gulliver-za-207-mln/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Ощадбанк та Укрексімбанк виставлять на продаж БФК Gulliver за $207 млн",
+    "body_orig": "Державні Ощадбанк та Укрексімбанк оголосили про продаж багатофункціонального комплексу Gulliver у Києві, який перейшов у їхню власність після стягнення заставного майна за кредитом ТОВ «Три О», пов'язаного з бізнесменом Віктором Поліщуком. Про це повідомила пресслужба Ощадбанку - пише Forbes Ukraine…",
+    "published": "2026-07-31T12:31:00",
+    "fetched": "2026-07-31T17:28:53.999404",
+    "title_uk": "Ощадбанк та Укрексімбанк продають БФК Gulliver за $207 млн",
+    "summary_uk": "Ощадбанк та Укрексімбанк виставили на продаж багатофункціональний комплекс Gulliver у Києві. Комплекс перейшов у їхню власність після стягнення застави за кредитом ТОВ «Три О». Ціна продажу складає $207 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Ощадбанк та Укрексімбанк продають БФК Gulliver за $207 млн",
+    "summary": "Ощадбанк та Укрексімбанк виставили на продаж багатофункціональний комплекс Gulliver у Києві. Комплекс перейшов у їхню власність після стягнення застави за кредитом ТОВ «Три О». Ціна продажу складає $207 млн.",
+    "link": "https://rau.ua/news/oshchadbank-ta-ukreksimbank-vystavliat-na-prodazh-trtc-gulliver-za-207-mln/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7f23ac1c719",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/ukrzaliznytcia-vpershe-za-4-roky-peregliane-vantazhni-taryfy-vartist-zroste-na-30/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Укрзалізниця вперше за 4 роки перегляне вантажні тарифи: вартість зросте на 30%",
+    "body_orig": "В Україні змінюються тарифи на вантажні залізничні перевезення — відповідний наказ Міністерства з відновлення, інфраструктури та транспорту вже пройшов усі погодження та зареєстрований Мін'юстом. Його мають опублікувати вже сьогодні, повідомили у пресслужбі Укрзалізниці.\nЗгідно з документом, тарифи…",
+    "published": "2026-07-31T08:40:11",
+    "fetched": "2026-07-31T17:28:53.999425",
+    "title_uk": "Укрзалізниця підвищує вантажні тарифи на 30%",
+    "summary_uk": "В Україні затверджено нові тарифи на вантажні залізничні перевезення, які зростуть на 30%. Наказ Міністерства з відновлення, інфраструктури та транспорту вже зареєстровано. Очікується, що нові тарифи вплинуть на вартість перевезень у різних секторах економіки.",
+    "what_it_means": {
+      "ua_importer": "Зростання тарифів на вантажні перевезення може призвести до підвищення витрат на імпорт товарів. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Підвищення тарифів може вплинути на собівартість товарів у ритейлі. Необхідно переглянути ціни на продукцію та стратегії закупівель."
+    },
+    "tags": [
+      "логістика",
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Укрзалізниця підвищує вантажні тарифи на 30%",
+    "summary": "В Україні затверджено нові тарифи на вантажні залізничні перевезення, які зростуть на 30%. Наказ Міністерства з відновлення, інфраструктури та транспорту вже зареєстровано. Очікується, що нові тарифи вплинуть на вартість перевезень у різних секторах економіки.",
+    "link": "https://rau.ua/news/ukrzaliznytcia-vpershe-za-4-roky-peregliane-vantazhni-taryfy-vartist-zroste-na-30/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3cfe5438c7cb",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/auk-dnipro-campus-ta-asotciatciia-ryteyileriv-ukrayiny-partnerstvo-dlia-rozvytku-upravlintciv/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "AUK Dnipro Campus та Асоціація ритейлерів України: партнерство для розвитку управлінців у сфері комерції та ритейлу",
+    "body_orig": "AUK Dnipro Campus та Асоціація ритейлерів України (RAU) є партнерами, яких об'єднує спільна мета — розвиток професійної освіти, що відповідає сучасним викликам бізнесу та потребам ринку.\nAUK Dnipro Campus — кампус American University Kyiv, де американські стандарти освіти поєднуються з практичним до…",
+    "published": "2026-07-31T07:31:52",
+    "fetched": "2026-07-31T17:28:53.999437",
+    "title_uk": "AUK Dnipro Campus та RAU об'єднують зусилля для освіти в ритейлі",
+    "summary_uk": "AUK Dnipro Campus та Асоціація ритейлерів України уклали партнерство для розвитку професійної освіти в ритейлі. Мета — адаптація навчальних програм до потреб ринку. Це дозволить підготувати управлінців, здатних відповідати сучасним викликам бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "AUK Dnipro Campus та RAU об'єднують зусилля для освіти в ритейлі",
+    "summary": "AUK Dnipro Campus та Асоціація ритейлерів України уклали партнерство для розвитку професійної освіти в ритейлі. Мета — адаптація навчальних програм до потреб ринку. Це дозволить підготувати управлінців, здатних відповідати сучасним викликам бізнесу.",
+    "link": "https://rau.ua/news/auk-dnipro-campus-ta-asotciatciia-ryteyileriv-ukrayiny-partnerstvo-dlia-rozvytku-upravlintciv/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05a310dadf47",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/shoping-v-chati-glovo-pershym-v-ukrayini-integruye-chatgpt-ta-claude-dlia-pokupok/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Шопінг в чаті: Glovo першим в Україні інтегрує ChatGPT та Claude для покупок",
+    "body_orig": "Компанія Glovo запускає ШІ-асистента, інтегруючись в екосистему штучного інтелекту для ChatGPT та Claude. Відтепер користувачі можуть знаходити товари та позиції, доступні як у магазинах, так і в ресторанах, порівнювати ціни та робити замовлення просто під час спілкування з системами ШІ.\nЗамість зви…",
+    "published": "2026-07-31T06:30:39",
+    "fetched": "2026-07-31T17:28:53.999448",
+    "title_uk": "Glovo інтегрує ChatGPT та Claude для покупок в Україні",
+    "summary_uk": "Glovo запускає ШІ-асистента, який дозволяє користувачам знаходити товари в магазинах та ресторанах, порівнювати ціни і робити замовлення через ChatGPT та Claude. Це перша така інтеграція в Україні, що спростить процес шопінгу. Користувачі можуть взаємодіяти з системами ШІ під час покупок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця інтеграція може змінити підходи до онлайн-продажів. Розгляньте можливість адаптації асортименту для оптимізації під час роботи з новими технологіями."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Glovo інтегрує ChatGPT та Claude для покупок в Україні",
+    "summary": "Glovo запускає ШІ-асистента, який дозволяє користувачам знаходити товари в магазинах та ресторанах, порівнювати ціни і робити замовлення через ChatGPT та Claude. Це перша така інтеграція в Україні, що спростить процес шопінгу. Користувачі можуть взаємодіяти з системами ШІ під час покупок.",
+    "link": "https://rau.ua/news/shoping-v-chati-glovo-pershym-v-ukrayini-integruye-chatgpt-ta-claude-dlia-pokupok/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4155e8259f3",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/pershi-tochky-yevropeyiskogo-dyskauntera-pepco-vidkryiutsia-u-stolychnykh-trtc-respublika-park-ta-retroville/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Перші точки європейського дискаунтера Pepco відкриються у столичних ТРЦ Respublika Park та Retroville",
+    "body_orig": "Pepco, один із провідних європейських дискаунтерів широкого профілю, офіційно підтвердив, що Respublika Park та Retroville стануть першими торговельно-розважальними центрами в Києві, де відкриються магазини мережі в межах запланованого виходу на ринок України.\nЛокації було обрано через їхню популярн…",
+    "published": "2026-07-31T06:00:55",
+    "fetched": "2026-07-31T17:28:53.999459",
+    "title_uk": "Pepco відкриває магазини в Києві",
+    "summary_uk": "Дискаунтер Pepco підтвердив відкриття перших магазинів у Києві в ТРЦ Respublika Park та Retroville. Це частина стратегії виходу на український ринок. Локації обрані через їхню популярність серед споживачів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Pepco відкриває магазини в Києві",
+    "summary": "Дискаунтер Pepco підтвердив відкриття перших магазинів у Києві в ТРЦ Respublika Park та Retroville. Це частина стратегії виходу на український ринок. Локації обрані через їхню популярність серед споживачів.",
+    "link": "https://rau.ua/news/pershi-tochky-yevropeyiskogo-dyskauntera-pepco-vidkryiutsia-u-stolychnykh-trtc-respublika-park-ta-retroville/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c31f63b988fd",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/u-kvitni-chervni-2026-roku-z-8080-novostvorenykh-kompaniyi-1431-buly-zi-sfery-torgivli-dani-yc.market/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "У квітні-червні 2026 року з 8080 новостворених компаній 1431 були зі сфери торгівлі – дані YC.Market",
+    "body_orig": "Команда аналітичної платформи YC.Market дослідила, що у ІІ кварталі 2026 року в Україні було зареєстровано в 11 разів більше компаній, ніж припинено. В лідерах – оптова торгівля, а роздрібна входить в десятку сфер з найбільшою кількістю нових бізнесів.\nУ дослідженні YC.Market проаналізовано регіонал…",
+    "published": "2026-07-31T05:40:56",
+    "fetched": "2026-07-31T17:28:53.999470",
+    "title_uk": "У ІІ кварталі 2026 року в Україні зареєстровано 1431 нову компанію в торгівлі",
+    "summary_uk": "У квітні-червні 2026 року в Україні створено 8080 нових компаній, з яких 1431 — у сфері торгівлі. Кількість нових реєстрацій у 11 разів перевищує кількість ліквідованих. Лідером за кількістю нових бізнесів стала оптова торгівля, а роздрібна потрапила до десятки найбільших секторів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання кількості нових компаній у торгівлі свідчить про потенційне збільшення конкуренції. Рекомендується переглянути стратегії роботи з постачальниками та адаптувати асортимент до нових умов."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У ІІ кварталі 2026 року в Україні зареєстровано 1431 нову компанію в торгівлі",
+    "summary": "У квітні-червні 2026 року в Україні створено 8080 нових компаній, з яких 1431 — у сфері торгівлі. Кількість нових реєстрацій у 11 разів перевищує кількість ліквідованих. Лідером за кількістю нових бізнесів стала оптова торгівля, а роздрібна потрапила до десятки найбільших секторів.",
+    "link": "https://rau.ua/news/u-kvitni-chervni-2026-roku-z-8080-novostvorenykh-kompaniyi-1431-buly-zi-sfery-torgivli-dani-yc.market/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d04fd3805d1",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/top-10-ukrayinskykh-produktovykh-merezh-za-kilkistiu-magazyniv-i-tempamy-vidkryttiv-u-i-pivrichchi-2026-roku/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Топ-10 українських продуктових мереж за кількістю магазинів і темпами відкриттів у I півріччі 2026 року",
+    "body_orig": "Асоціація ритейлерів України підготувала чергове аналітичне дослідження RAU Analytics та визначила, хто з основних гравців на ринку продовольчого ритейлу України відкривав у січні-червні 2026 року найбільше магазинів та які регіони стали пріоритетними для FMCG-операторів.\nУ дослідженні систематизова…",
+    "published": "2026-07-31T04:51:37",
+    "fetched": "2026-07-31T17:28:53.999481",
+    "title_uk": "Топ-10 українських продуктових мереж за кількістю магазинів у I півріччі 2026",
+    "summary_uk": "Асоціація ритейлерів України опублікувала дослідження, яке показує, які мережі відкривали найбільше магазинів у першій половині 2026 року. Дослідження охоплює дані про темпи відкриттів та пріоритетні регіони для FMCG-операторів. Конкретні цифри та учасники не надані.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Топ-10 українських продуктових мереж за кількістю магазинів у I півріччі 2026",
+    "summary": "Асоціація ритейлерів України опублікувала дослідження, яке показує, які мережі відкривали найбільше магазинів у першій половині 2026 року. Дослідження охоплює дані про темпи відкриттів та пріоритетні регіони для FMCG-операторів. Конкретні цифри та учасники не надані.",
+    "link": "https://rau.ua/news/top-10-ukrayinskykh-produktovykh-merezh-za-kilkistiu-magazyniv-i-tempamy-vidkryttiv-u-i-pivrichchi-2026-roku/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5884bed8ab7c",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "NRF finds shoplifting stabilizing as online fraud grows",
+    "body_orig": "Phone and gift card scams, plus supply chain vulnerabilities like cargo theft, are top concerns for loss prevention specialists at over 60 major retailers, according to a report Thursday.",
+    "published": "2026-07-31T16:01:00",
+    "fetched": "2026-07-31T17:29:00.051820",
+    "title_uk": "Витрати на крадіжки стабілізуються, зростає онлайн-шахрайство",
+    "summary_uk": "Згідно з доповіддю NRF, крадіжки в магазинах стабілізуються, але онлайн-шахрайство зростає. Основні проблеми для спеціалістів з профілактики втрат — шахрайства з телефонами та подарунковими картками, а також крадіжки вантажів. У дослідженні взяли участь понад 60 великих ритейлерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання онлайн-шахрайства може вплинути на стратегії безпеки та управління ризиками в ритейлі. Рекомендується переглянути заходи безпеки для онлайн-продажів."
+    },
+    "tags": [
+      "ритейл",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Витрати на крадіжки стабілізуються, зростає онлайн-шахрайство",
+    "summary": "Згідно з доповіддю NRF, крадіжки в магазинах стабілізуються, але онлайн-шахрайство зростає. Основні проблеми для спеціалістів з профілактики втрат — шахрайства з телефонами та подарунковими картками, а також крадіжки вантажів. У дослідженні взяли участь понад 60 великих ритейлерів.",
+    "link": "https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "177dd5e0babe",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Amazon Prime Day details elusive as AWS takes centerstage",
+    "body_orig": "The company&rsquo;s Q2 online store net sales grew 15%, but Amazon&nbsp;has pared back the public release of details on how the major sales event fared.&nbsp;",
+    "published": "2026-07-31T15:20:00",
+    "fetched": "2026-07-31T17:29:00.051836",
+    "title_uk": "Amazon не розкриває деталі про результати Prime Day",
+    "summary_uk": "У другому кварталі 2026 року онлайн-продажі Amazon зросли на 15%. Однак компанія зменшила обсяг інформації про результати великої розпродажу Prime Day. Це викликало занепокоєння серед аналітиків щодо ефективності заходу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Amazon не розкриває деталі про результати Prime Day",
+    "summary": "У другому кварталі 2026 року онлайн-продажі Amazon зросли на 15%. Однак компанія зменшила обсяг інформації про результати великої розпродажу Prime Day. Це викликало занепокоєння серед аналітиків щодо ефективності заходу.",
+    "link": "https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
