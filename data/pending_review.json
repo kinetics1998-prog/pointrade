@@ -170153,5 +170153,479 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "aaf0dbfb7d16",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Koniec-z-jednorazowym-sprzetem-Nowe-prawo-mocno-uderzy-w-importerow-z-Chin-9174665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koniec z jednorazowym sprzętem. Nowe prawo mocno uderzy w importerów z Chin",
+    "body_orig": "Unijna dyrektywa „Right to Repair” ma wydłużyć życie sprzętu elektronicznego i AGD oraz ograniczyć ilość odpadów. Wprowadza nowe obowiązki dla producentów i importerów, m.in. dotyczące zapewnienia części zamiennych, napraw także po upływie gwarancji oraz wydłużenia ochrony konsumenta po naprawie. Zdaniem prawników nowe regulacje mogą się okazać największym wyzwaniem dla niewielkich firm e-commerce sprowadzających elektronikę spoza Unii Europejskiej.",
+    "published": "2026-08-01T07:00:00",
+    "fetched": "2026-08-01T06:44:34.758726",
+    "title_uk": "Новий закон в ЄС ускладнить імпорт електроніки з Китаю",
+    "summary_uk": "Європейська директива 'Право на ремонт' зобов'язує виробників та імпортерів надавати запчастини та послуги ремонту навіть після закінчення гарантії. Це може стати серйозним викликом для малих компаній, які імпортують електроніку з-за меж ЄС. Очікується, що нові правила зменшать кількість відходів та продовжать термін служби техніки.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів, які працюють з Польщею, це означає необхідність адаптації до нових вимог щодо сервісу та запчастин, що може підвищити витрати.",
+      "pl_distributor": "Польським дистриб'юторам слід переглянути умови контрактів з постачальниками, щоб врахувати нові вимоги до ремонту та запчастин.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "імпорт",
+      "дистрибуція"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Новий закон в ЄС ускладнить імпорт електроніки з Китаю",
+    "summary": "Європейська директива 'Право на ремонт' зобов'язує виробників та імпортерів надавати запчастини та послуги ремонту навіть після закінчення гарантії. Це може стати серйозним викликом для малих компаній, які імпортують електроніку з-за меж ЄС. Очікується, що нові правила зменшать кількість відходів та продовжать термін служби техніки.",
+    "link": "https://www.bankier.pl/wiadomosc/Koniec-z-jednorazowym-sprzetem-Nowe-prawo-mocno-uderzy-w-importerow-z-Chin-9174665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1abcfd2216a",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Erste-Bank-z-promocyjna-ofensywa-Zobacz-jak-zgarnac-nawet-900-zl-premii-9176160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Erste Bank z promocyjną ofensywą. Zobacz, jak zgarnąć nawet 900 zł premii",
+    "body_orig": "W sierpniu Erste Bank ruszył z nową promocyjną ofensywą. W ramach dwóch równoległych ofert nowi klienci mogą zgarnąć łącznie aż 900 zł premii. Z tego do 600 zł przypada na nagrodę za aktywność na nowo otwartym koncie osobistym, a kolejne 300 zł za przetestowanie bankowego kantoru. Jakie dokładnie warunki trzeba spełnić? Wzięliśmy regulaminy pod lupę.",
+    "published": "2026-08-01T05:00:00",
+    "fetched": "2026-08-01T06:44:34.758747",
+    "title_uk": "Erste Bank пропонує до €900 премії новим клієнтам",
+    "summary_uk": "Erste Bank запустила акцію для нових клієнтів, де можна отримати до €900 премії. Зокрема, €600 за активність на новому рахунку та €300 за використання банківського обміну валют. Умови акції детально описані в регламентах банку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця акція може підвищити конкуренцію серед банківських послуг, що вплине на фінансові рішення дистриб'юторів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "промо-акції",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Erste Bank пропонує до €900 премії новим клієнтам",
+    "summary": "Erste Bank запустила акцію для нових клієнтів, де можна отримати до €900 премії. Зокрема, €600 за активність на новому рахунку та €300 за використання банківського обміну валют. Умови акції детально описані в регламентах банку.",
+    "link": "https://www.bankier.pl/wiadomosc/Erste-Bank-z-promocyjna-ofensywa-Zobacz-jak-zgarnac-nawet-900-zl-premii-9176160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b2f872a01b4c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/a101-operator-takes-control-of-carrefoursa-225095",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "A101 operator takes control of CarrefourSA",
+    "body_orig": "Yeni Mağazacılık, the Aydın Group company that operates discount retailer A101, has completed its acquisition of an 89.28 percent controlling stake in CarrefourSA.",
+    "published": "2026-08-01T06:25:07",
+    "fetched": "2026-08-01T06:44:49.858038",
+    "title_uk": "A101 завершив придбання контрольного пакету CarrefourSA",
+    "summary_uk": "Компанія Yeni Mağazacılık, що належить групі Aydın, завершила придбання 89% акцій CarrefourSA. Це зміцнить позиції A101 на ринку дискаунтерів у Туреччині. Очікується, що угода вплине на конкурентоспроможність обох брендів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може призвести до зміни цінової політики в CarrefourSA, що вплине на закупівлі. Виробникам варто стежити за змінами в асортименті.",
+      "category_manager": "Зміна власника може вплинути на стратегію розміщення товарів у CarrefourSA. Рекомендується переглянути плани співпраці з мережею."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "deal",
+    "title": "A101 завершив придбання контрольного пакету CarrefourSA",
+    "summary": "Компанія Yeni Mağazacılık, що належить групі Aydın, завершила придбання 89% акцій CarrefourSA. Це зміцнить позиції A101 на ринку дискаунтерів у Туреччині. Очікується, що угода вплине на конкурентоспроможність обох брендів.",
+    "link": "https://www.hurriyetdailynews.com/a101-operator-takes-control-of-carrefoursa-225095",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "516423555723",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-stocks-close-week-on-high-note/4015435",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks close week on high note",
+    "body_orig": "Dow Jones up 0.53%, S&amp;P 500 0.7% and Nasdaq 1% while European indexes close with mixed figures",
+    "published": "2026-07-31T21:47:33",
+    "fetched": "2026-08-01T06:44:53.493369",
+    "title_uk": "Американські акції завершили тиждень зростанням",
+    "summary_uk": "Індекси Dow Jones, S&P 500 та Nasdaq піднялися на 0.53%, 0.7% та 1% відповідно. Європейські індекси закрилися з різними результатами. Загалом, ринок демонструє позитивні настрої.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські акції завершили тиждень зростанням",
+    "summary": "Індекси Dow Jones, S&P 500 та Nasdaq піднялися на 0.53%, 0.7% та 1% відповідно. Європейські індекси закрилися з різними результатами. Загалом, ринок демонструє позитивні настрої.",
+    "link": "https://www.aa.com.tr/en/economy/us-stocks-close-week-on-high-note/4015435",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "97a9efcff991",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/ii-costa-gazul-14-euro-mwh-si-il-vand-cu-63-euro-mwh-calculele-din-adancurile-neptun-deep-cat-costa-sa-scoti-gazul-din-marea-neagra-si-la-cat-il-pretuieste-piata-23203242",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Îi costă gazul 14 euro/MWh şi îl vând cu 63 euro/MWh. Calculele din adâncurile Neptun Deep. Cât costă să scoţi gazul din Marea Neagră şi la cât îl preţuieşte piaţa",
+    "body_orig": "Pe măsură ce lucrările la Neptun Deep, proiectul de 4 mld. euro pe care OMV Petrom şi Romgaz îl derulează în Marea Neagră, avansează, întrebările se adună. Cine va beneficia de acel gaz, care va fi impactul pentru economia locală, câţi bani vor face cele două companii implicate?",
+    "published": "2026-08-01T02:36:00",
+    "fetched": "2026-08-01T06:44:57.960389",
+    "title_uk": "Вартість видобутку газу з Neptun Deep та його ринкова ціна",
+    "summary_uk": "Проект Neptun Deep, вартістю €4 млрд, реалізується OMV Petrom та Romgaz у Чорному морі. Вартість видобутку газу становить €14 за МВт·год, тоді як ринкова ціна — €63 за МВт·год. Питання про вигоду для компаній та економіки регіону залишаються відкритими.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Вартість видобутку газу з Neptun Deep та його ринкова ціна",
+    "summary": "Проект Neptun Deep, вартістю €4 млрд, реалізується OMV Petrom та Romgaz у Чорному морі. Вартість видобутку газу становить €14 за МВт·год, тоді як ринкова ціна — €63 за МВт·год. Питання про вигоду для компаній та економіки регіону залишаються відкритими.",
+    "link": "https://www.zf.ro/companii/energie/ii-costa-gazul-14-euro-mwh-si-il-vand-cu-63-euro-mwh-calculele-din-adancurile-neptun-deep-cat-costa-sa-scoti-gazul-din-marea-neagra-si-la-cat-il-pretuieste-piata-23203242",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2eaefd93a7e9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/alexandru-nazare-romania-ramane-in-categoria-investitiilor-un-nou-test-trecut-la-limita-romania-ramane-atent-monitorizata-de-agentiile-de-rating_964510.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Alexandru Nazare: România rămâne în categoria investițiilor, un nou test trecut la limită. România rămâne atent monitorizată de agenţiile de rating",
+    "body_orig": "România rămâne în categoria recomandată investiţiilor, iar în spatele acestui rezultat a stat un efort instituţional excepţional, dus până în ultimul moment, de echipa Ministerului Finanţelor, în coordonare cu Banca Naţională a României, care au documentat şi susţinut cu date solide fiecare argument pentru menţinerea calificativului de investiţii, a anunţat ministrul interimar al Finanţelor, Alexandru Nazare.",
+    "published": "2026-08-01T06:28:28",
+    "fetched": "2026-08-01T06:45:00.915971",
+    "title_uk": "Румунія зберігає статус інвестиційної категорії",
+    "summary_uk": "Румунія залишилася в категорії рекомендованих інвестицій завдяки зусиллям Міністерства фінансів та Національного банку. Міністр фінансів, Alexandru Nazare, зазначив, що команда підготувала дані для підтримки цього статусу. Країна продовжує бути під пильним контролем рейтингових агентств.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія зберігає статус інвестиційної категорії",
+    "summary": "Румунія залишилася в категорії рекомендованих інвестицій завдяки зусиллям Міністерства фінансів та Національного банку. Міністр фінансів, Alexandru Nazare, зазначив, що команда підготувала дані для підтримки цього статусу. Країна продовжує бути під пильним контролем рейтингових агентств.",
+    "link": "https://www.economica.net/alexandru-nazare-romania-ramane-in-categoria-investitiilor-un-nou-test-trecut-la-limita-romania-ramane-atent-monitorizata-de-agentiile-de-rating_964510.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d0cb47dc2234",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/curium-coclotron-cluj_964283.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Gigantul mondial în medicina nucleară, Curium se extinde în România și deschide un ciclotron la Cluj-Napoca",
+    "body_orig": "Curium, gigantul mondial în medicină nucleară, a anunțat planurile pentru o a doua investiție într-un ciclotron în România. Compania a intrat pe piața românească anul trecut prin achiziția Eczacıbaşı-Monrol Nuclear Products Co. (Monrol), un jucător de top în domeniul medicinei nucleare, cu sediul central în Istanbul, Turcia.",
+    "published": "2026-07-31T19:52:10",
+    "fetched": "2026-08-01T06:45:00.915987",
+    "title_uk": "Curium відкриває новий циклотрон у Румунії",
+    "summary_uk": "Curium, світовий лідер у медицині ядерної медицини, анонсував відкриття другого циклотрона в Румунії. Компанія раніше придбала Eczacıbaşı-Monrol, провідного гравця в цій галузі. Новий об'єкт буде розташований у Клуж-Напоці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Curium відкриває новий циклотрон у Румунії",
+    "summary": "Curium, світовий лідер у медицині ядерної медицини, анонсував відкриття другого циклотрона в Румунії. Компанія раніше придбала Eczacıbaşı-Monrol, провідного гравця в цій галузі. Новий об'єкт буде розташований у Клуж-Напоці.",
+    "link": "https://www.economica.net/curium-coclotron-cluj_964283.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c71f9431e7ca",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ppc-intra-pe-piata-de-energie-din-polonia-grupul-grec-cumpara-proiecte-solare-si-eoliene-de-2773-mw-de-la-subsidiarele-locale-ale-companiei-portugheze-edp-renewables_964494.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "PPC intră pe piața de energie din Polonia. Grupul grec cumpără proiecte solare și eoliene de 277,3 MW de la subsidiarele locale ale companiei portugheze EDP Renewables",
+    "body_orig": "Grupul PPC își anunță intrarea pe piața energetică poloneză, una dintre cele mai promițătoare și cu cea mai rapidă creștere piețe de energie curată din Europa, printr-un acord de achiziție a unui portofoliu de proiecte eoliene și solare cu o capacitate totală de 277,3 MW.",
+    "published": "2026-07-31T19:10:30",
+    "fetched": "2026-08-01T06:45:00.915997",
+    "title_uk": "PPC виходить на ринок енергії Польщі з проектами на 277 МВт",
+    "summary_uk": "Група PPC оголосила про вихід на польський ринок енергетики, купивши проекти сонячної та вітрової енергії загальною потужністю 277 МВт у EDP Renewables. Польща є однією з найперспективніших країн для чистої енергії в Європі. Угода підкреслює зростаючий інтерес до відновлювальних джерел енергії в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інвестицій у відновлювальну енергетику може збільшити попит на супутні товари та послуги. Розгляньте можливості співпраці з новими гравцями на ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "PPC виходить на ринок енергії Польщі з проектами на 277 МВт",
+    "summary": "Група PPC оголосила про вихід на польський ринок енергетики, купивши проекти сонячної та вітрової енергії загальною потужністю 277 МВт у EDP Renewables. Польща є однією з найперспективніших країн для чистої енергії в Європі. Угода підкреслює зростаючий інтерес до відновлювальних джерел енергії в регіоні.",
+    "link": "https://www.economica.net/ppc-intra-pe-piata-de-energie-din-polonia-grupul-grec-cumpara-proiecte-solare-si-eoliene-de-2773-mw-de-la-subsidiarele-locale-ale-companiei-portugheze-edp-renewables_964494.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "64d4152dc059",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/rationalizare-de-energie-in-romania-primul-oras-unde-se-stinge-lumina-noaptea_964489.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Raționalizare de energie în România: Primul oraș unde se stinge lumina noaptea",
+    "body_orig": "Primăria Iași a decis raționalizarea consumului de energie electrică și stingerea iluminatului stradal pe timpul nopții pe întreg domeniul public, după ce scăderea debitului Dunării a dus la oprirea producției de la Cernavodă. Măsura aduce economii de 10 MWh în fiecare noapte, iar patrulele de poliție vor fi suplimentate, a anunțat primarul orașului, Mihai Chirica.",
+    "published": "2026-07-31T18:49:59",
+    "fetched": "2026-08-01T06:45:00.916006",
+    "title_uk": "У Ясах вимкнуть вуличне освітлення для економії енергії",
+    "summary_uk": "Мерія Ясів вирішила раціоналізувати споживання електроенергії, вимкнувши вуличне освітлення вночі. Це рішення прийнято через зменшення обсягу води в Дунаї, що призвело до зупинки виробництва на станції в Чернаводі. Очікується економія 10 МВт щодня, а кількість поліцейських патрулів буде збільшено.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "У Ясах вимкнуть вуличне освітлення для економії енергії",
+    "summary": "Мерія Ясів вирішила раціоналізувати споживання електроенергії, вимкнувши вуличне освітлення вночі. Це рішення прийнято через зменшення обсягу води в Дунаї, що призвело до зупинки виробництва на станції в Чернаводі. Очікується економія 10 МВт щодня, а кількість поліцейських патрулів буде збільшено.",
+    "link": "https://www.economica.net/rationalizare-de-energie-in-romania-primul-oras-unde-se-stinge-lumina-noaptea_964489.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "925c0c0981b8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/romania-scapa-la-limita-de-colaps-ultima-sansa-inainte-de-fmi-fitch-ratings-ne-mentine-in-lumea-buna-cu-mari-avertismente_964347.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "UPDATE OFICIAL .România scapă la limită de colaps. Ultima șansă înainte de FMI: Fitch Ratings ne menține în lumea bună cu mari avertismente",
+    "body_orig": "Fitch Ratings, cea mai mare și cea mai îngăduitoare dintre marile agenții de rating ale lumii, menține calificativul României pe ultima treaptă a recomandării investiționale, afirmă surse oficiale. Nu ajungem încă la mâna FMI, dar perspectivele sunt profund negative, fapt pe care îl evidențiază și Fitch.",
+    "published": "2026-07-31T18:42:11",
+    "fetched": "2026-08-01T06:45:00.916014",
+    "title_uk": "Румунія уникнула колапсу завдяки Fitch Ratings",
+    "summary_uk": "Агентство Fitch Ratings зберегло рейтинг Румунії на межі інвестиційної рекомендації. Хоча країна ще не зверталася до МВФ, прогнози залишаються негативними. Це свідчить про можливі економічні труднощі в майбутньому.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія уникнула колапсу завдяки Fitch Ratings",
+    "summary": "Агентство Fitch Ratings зберегло рейтинг Румунії на межі інвестиційної рекомендації. Хоча країна ще не зверталася до МВФ, прогнози залишаються негативними. Це свідчить про можливі економічні труднощі в майбутньому.",
+    "link": "https://www.economica.net/romania-scapa-la-limita-de-colaps-ultima-sansa-inainte-de-fmi-fitch-ratings-ne-mentine-in-lumea-buna-cu-mari-avertismente_964347.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "18b35debfaa1",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/un-parc-de-stocare-prin-baterii-de-20-mwh-a-fost-inaugurat-la-caracal_964483.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Un parc de stocare prin baterii de 20 MWh a fost inaugurat la Caracal",
+    "body_orig": "Un parc de stocare a energiei electrice verzi prin baterii, cu o capacitate totală de stocare de 20 MWh, o investiţie privată, a fost inaugurat vineri, la Caracal, în prezenţa primarului Ion Doldurea şi a viceprimarului Lari Pătran, a informat Primăria Caracal într-o postare pe Facebook.",
+    "published": "2026-07-31T18:15:37",
+    "fetched": "2026-08-01T06:45:00.916030",
+    "title_uk": "Відкрито парк зберігання енергії на батареях у Каркалі",
+    "summary_uk": "У Каркалі відкрито парк зберігання електричної енергії з потужністю 20 МВт·год. Це приватна інвестиція, яка була представлена за участю мера Іона Долдуреа. Парк сприятиме розвитку зеленої енергетики в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Відкрито парк зберігання енергії на батареях у Каркалі",
+    "summary": "У Каркалі відкрито парк зберігання електричної енергії з потужністю 20 МВт·год. Це приватна інвестиція, яка була представлена за участю мера Іона Долдуреа. Парк сприятиме розвитку зеленої енергетики в регіоні.",
+    "link": "https://www.economica.net/un-parc-de-stocare-prin-baterii-de-20-mwh-a-fost-inaugurat-la-caracal_964483.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3155ae3f39b4",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/ale-hop-v-ispaniyi-magazyn-iz-korovoiu-shcho-peretvoriuye-impulsni-pokupky-na-emotciyinyyi-dosvid/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "«Магазин із коровою», що перетворює імпульсні покупки на емоційний досвід: огляд магазину мережі ALE-HOP в Іспанії",
+    "body_orig": "Як нині виглядає перший магазин на Calle de la Paz у Валенсії, з якого 25 років тому починалася історія іспанської мережі ALE-HOP. Що допомагає ритейлеру дарувати відчуття знахідки покупцеві і продавати товарів майже на 300 млн євро.\nЗасновник компанії Вісент Грімальт починав із продажу капелюхів і…",
+    "published": "2026-08-01T02:50:25",
+    "fetched": "2026-08-01T06:45:06.456234",
+    "title_uk": "ALE-HOP: емоційний досвід покупок у Валенсії",
+    "summary_uk": "Магазин ALE-HOP у Валенсії, заснований 25 років тому, став зразком для ритейлу, пропонуючи емоційний досвід покупок. Мережа реалізує товарів на суму майже €300 млн. Засновник Вісент Грімальт починав з продажу капелюхів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Досвід ALE-HOP може надихнути на створення емоційних концепцій у магазинах. Розгляньте можливість інтеграції емоційних елементів у ваші торгові точки."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ALE-HOP: емоційний досвід покупок у Валенсії",
+    "summary": "Магазин ALE-HOP у Валенсії, заснований 25 років тому, став зразком для ритейлу, пропонуючи емоційний досвід покупок. Мережа реалізує товарів на суму майже €300 млн. Засновник Вісент Грімальт починав з продажу капелюхів.",
+    "link": "https://rau.ua/news/ale-hop-v-ispaniyi-magazyn-iz-korovoiu-shcho-peretvoriuye-impulsni-pokupky-na-emotciyinyyi-dosvid/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
