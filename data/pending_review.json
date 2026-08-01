@@ -170627,5 +170627,810 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "e0ea8aa0f9f9",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Rekordy-Microsoftu-zadyszka-Apple-i-strach-o-Nvidie-Co-niepokoi-Wall-Street-9176480.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rekordy Microsoftu, zadyszka Apple i strach o Nvidię. Co niepokoi Wall Street?",
+    "body_orig": "Na Wall Street znów powiało niepewnością, a uwaga inwestorów skupiła się na zapowiedziach nowego szefa Fedu, który na razie wprowadza na rynek więcej pytań niż odpowiedzi. Równocześnie z rosnącym niepokojem rynki przyglądają się wycenom w sektorze sztucznej inteligencji i nowych technologii. Podczas gdy coraz głośniej wybrzmiewają słowa o powtórce bańki dot-comów, a zmagające się z łańcuchem dostaw Apple traci tempo, inni giganci, na czele z Microsoftem, biją historyczne rekordy.",
+    "published": "2026-08-01T11:00:00",
+    "fetched": "2026-08-01T16:58:51.842300",
+    "title_uk": "Неопределеність на Wall Street через результати технологічних гігантів",
+    "summary_uk": "На Wall Street зросла невизначеність через нові заяви голови Fed. Інвестори стурбовані оцінками в секторі штучного інтелекту. Apple стикається з проблемами в ланцюгу постачання, тоді як Microsoft досягає рекордів. Обговорюється можливість повторення ситуації з бульбашкою dot-com.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "технології"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Неопределеність на Wall Street через результати технологічних гігантів",
+    "summary": "На Wall Street зросла невизначеність через нові заяви голови Fed. Інвестори стурбовані оцінками в секторі штучного інтелекту. Apple стикається з проблемами в ланцюгу постачання, тоді як Microsoft досягає рекордів. Обговорюється можливість повторення ситуації з бульбашкою dot-com.",
+    "link": "https://www.bankier.pl/wiadomosc/Rekordy-Microsoftu-zadyszka-Apple-i-strach-o-Nvidie-Co-niepokoi-Wall-Street-9176480.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8ba4ead2343a",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kolejki-po-wegiel-w-sklepie-Polskiej-Grupy-Gorniczej-Dostawa-dopiero-po-wakacjach-9173998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kolejki po węgiel w sklepie Polskiej Grupy Górniczej. Dostawa dopiero po wakacjach",
+    "body_orig": "Najbliższe terminy realizacji zamówień węgla w sklepie internetowym Polskiej Grupy Górniczej przypadają obecnie we wrześniu. Spółka zachęca klientów do skorzystania z zakupu już teraz, by mieć gwarancję rezerwacji wybranego produktu i jego dostawy zgodnie z harmonogramem.",
+    "published": "2026-08-01T15:00:00",
+    "fetched": "2026-08-01T16:58:51.842319",
+    "title_uk": "Польська Група Гірнича повідомляє про затримки з постачанням вугілля",
+    "summary_uk": "Польська Група Гірнича повідомила, що найближчі терміни виконання замовлень вугілля в їхньому інтернет-магазині призначені на вересень. Компанія закликає клієнтів здійснити покупки вже зараз, щоб забронювати обраний продукт і отримати його вчасно.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори, які працюють з вугіллям, можуть очікувати підвищений попит у вересні. Рекомендується планувати запаси відповідно до прогнозів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська Група Гірнича повідомляє про затримки з постачанням вугілля",
+    "summary": "Польська Група Гірнича повідомила, що найближчі терміни виконання замовлень вугілля в їхньому інтернет-магазині призначені на вересень. Компанія закликає клієнтів здійснити покупки вже зараз, щоб забронювати обраний продукт і отримати його вчасно.",
+    "link": "https://www.bankier.pl/wiadomosc/Kolejki-po-wegiel-w-sklepie-Polskiej-Grupy-Gorniczej-Dostawa-dopiero-po-wakacjach-9173998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cfba1cf64c0e",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wielka-plyta-zagrozi-deweloperom-Tysiace-odziedziczonych-mieszkan-trafia-na-sprzedaz-9176697.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wielka płyta zagrozi deweloperom? Tysiące odziedziczonych mieszkań trafi na sprzedaż",
+    "body_orig": "Zapaść demograficzna Polski sprawi, że ogromna część zasobów mieszkaniowych należących dziś do seniorów zostanie w ciągu najbliższych kilkunastu lat przekazana w spadku - wskazał Jarosław Jędrzyński z portalu RynekPierwotny.pl. Jego zdaniem może to oznaczać wielkie zmiany na rynku nieruchomości.",
+    "published": "2026-08-01T06:32:00",
+    "fetched": "2026-08-01T16:58:51.842331",
+    "title_uk": "Польща стикається з спадом населення та спадщиною нерухомості",
+    "summary_uk": "Згідно з експертом, через демографічну кризу значна частина житла, що належить пенсіонерам, буде успадкована в найближчі роки. Це може призвести до суттєвих змін на ринку нерухомості в Польщі. Очікується, що тисячі квартир з'являться на продаж.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання пропозиції житла може знизити ціни на ринку, що вплине на дистрибуторів, які працюють у сфері нерухомості.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща стикається з спадом населення та спадщиною нерухомості",
+    "summary": "Згідно з експертом, через демографічну кризу значна частина житла, що належить пенсіонерам, буде успадкована в найближчі роки. Це може призвести до суттєвих змін на ринку нерухомості в Польщі. Очікується, що тисячі квартир з'являться на продаж.",
+    "link": "https://www.bankier.pl/wiadomosc/Wielka-plyta-zagrozi-deweloperom-Tysiace-odziedziczonych-mieszkan-trafia-na-sprzedaz-9176697.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "775001dfe5f4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kolejna-branza-nad-przepascia-Polskie-tlocznie-pustoszeja-a-zalewa-nas-olej-z-Ukrainy-9174673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kolejna branża nad przepaścią. Polskie tłocznie pustoszeją, a zalewa nas olej z Ukrainy",
+    "body_orig": "Potencjał polskich zakładów olejarskich przekracza 4,1 mln t nasion roślin oleistych rocznie, jednak nie jest w pełni wykorzystywany. Branża od blisko dwóch lat zmaga się z pogarszającą się rentownością, na co wpływają ograniczona dostępność krajowego rzepaku, wysokie koszty energii, presja cenowa ze strony sieci handlowych oraz rosnący import oleju rzepakowego z Ukrainy. Przedstawiciele branży oceniają, że bez zmian warunków funkcjonowania zakłady będą stopniowo tracić konkurencyjność.",
+    "published": "2026-08-01T17:00:00",
+    "fetched": "2026-08-01T16:58:51.842386",
+    "title_uk": "Польські олійні заводи стикаються з проблемами через імпорт з України",
+    "summary_uk": "Польські олійні заводи мають потенціал переробки понад 4 млн тонн насіння, але не використовують його повністю. Висока конкуренція з імпортом олії з України, зростання витрат на енергію та тиск з боку роздрібних мереж погіршують ситуацію. Без змін у ринкових умовах заводи можуть втратити конкурентоспроможність.",
+    "what_it_means": {
+      "ua_importer": "Зростання експорту олії з України може створити нові можливості для українських виробників, але також підвищить конкуренцію на ринку Польщі.",
+      "pl_distributor": "Дистриб'ютори в Польщі можуть стикнутися з тиском на ціни через імпорт олії з України. Рекомендується переглянути стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в ринку олії можуть вплинути на категорійні стратегії. Рекомендується переглянути асортимент олійних продуктів у відповідь на зростаючу конкуренцію."
+    },
+    "tags": [
+      "виробництво",
+      "імпорт",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Польські олійні заводи стикаються з проблемами через імпорт з України",
+    "summary": "Польські олійні заводи мають потенціал переробки понад 4 млн тонн насіння, але не використовують його повністю. Висока конкуренція з імпортом олії з України, зростання витрат на енергію та тиск з боку роздрібних мереж погіршують ситуацію. Без змін у ринкових умовах заводи можуть втратити конкурентоспроможність.",
+    "link": "https://www.bankier.pl/wiadomosc/Kolejna-branza-nad-przepascia-Polskie-tlocznie-pustoszeja-a-zalewa-nas-olej-z-Ukrainy-9174673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fc2da99b4e12",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/4f-nie-chce-scigac-sie-cena-lukasz-bosowski-o-strategii-eksporcie-i-wynikach/zp8sbqn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Szef 4F: nie będziemy uczestniczyć w tym wyścigu",
+    "body_orig": "4F po trudnym okresie wraca do wzrostów i porządkuje model biznesowy. Łukasz Bosowski w rozmowie z Business Insider Polska mówi o tym, dlaczego firma nie chce ścigać się o najniższą cenę, jak chce zwiększać udział eksportu i co dla marki oznaczają sportowe partnerstwa, od Ski Austria po motorsport.",
+    "published": "2026-08-01T14:44:07",
+    "fetched": "2026-08-01T16:58:53.215316",
+    "title_uk": "4F не планує знижувати ціни для збільшення продажів",
+    "summary_uk": "Компанія 4F відновлює зростання після важкого періоду, наводячи порядок у бізнес-моделі. Генеральний директор Łukasz Bosowski заявив, що компанія не буде змагатися за найнижчі ціни, а зосередиться на збільшенні експорту та партнерствах у спорті. Серед партнерів — Ski Austria та інші спортивні ініціативи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори, які працюють з 4F, можуть очікувати стабільності в ціноутворенні. Це може відкрити можливості для співпраці на основі якості, а не цінової конкуренції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Перегляньте асортимент брендів, які зосереджуються на якості, а не на ціні. Це може вплинути на стратегію закупівель та промо-акції."
+    },
+    "tags": [
+      "експорт",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "4F не планує знижувати ціни для збільшення продажів",
+    "summary": "Компанія 4F відновлює зростання після важкого періоду, наводячи порядок у бізнес-моделі. Генеральний директор Łukasz Bosowski заявив, що компанія не буде змагатися за найнижчі ціни, а зосередиться на збільшенні експорту та партнерствах у спорті. Серед партнерів — Ski Austria та інші спортивні ініціативи.",
+    "link": "https://businessinsider.com.pl/biznes/4f-nie-chce-scigac-sie-cena-lukasz-bosowski-o-strategii-eksporcie-i-wynikach/zp8sbqn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9d96fcdfb57",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/xpeng-celuje-w-fabryki-volkswagena/wjb99p6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Potentat z Chin rozważa przejęcie mocy Volkswagena. Dla europejskich koncernów ma jedną radę",
+    "body_orig": "Chiński potentat motoryzacyjny na miejsce premiery swojego nowego samochodu wybrał… Monachium, czyli serce niemieckiego automotive. Co więcej, Xpeng nie wyklucza wykorzystania zamykających się właśnie mocy produkcyjnych Volkswagena. W odpowiedzi na pytania Business Insidera, jego szef, He Xiaopeng tłumaczy, dlaczego firmę szczególnie interesują inwestycje w Niemczech. — Prezesi tutejszych koncernów powinni dokładnie przeanalizować, dlaczego tak wielu producentów zniknęło wcześniej z rynku chińskiego — twierdzi.",
+    "published": "2026-08-01T13:08:04",
+    "fetched": "2026-08-01T16:58:53.215343",
+    "title_uk": "Китайський автогігант Xpeng розглядає можливість придбання потужностей Volkswagen",
+    "summary_uk": "Xpeng обрав Мюнхен для прем'єри нового автомобіля та розглядає можливість використання виробничих потужностей Volkswagen. Генеральний директор компанії He Xiaopeng зазначив, що німецькі автоконцерни повинні проаналізувати причини, чому багато виробників покинули китайський ринок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайський автогігант Xpeng розглядає можливість придбання потужностей Volkswagen",
+    "summary": "Xpeng обрав Мюнхен для прем'єри нового автомобіля та розглядає можливість використання виробничих потужностей Volkswagen. Генеральний директор компанії He Xiaopeng зазначив, що німецькі автоконцерни повинні проаналізувати причини, чому багато виробників покинули китайський ринок.",
+    "link": "https://businessinsider.com.pl/biznes/xpeng-celuje-w-fabryki-volkswagena/wjb99p6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2f056a45d875",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/praca-kurierow-pysznepl-pod-lupa-zwiazkowiec-czas-na-umowy-o-prace/xth8lyc",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kurierzy chcą umów o pracę. \"Mamy tutaj spór\"",
+    "body_orig": "— Umowa cywilnoprawna nie jest tą formą zatrudnienia, która powinna być w tym miejscu. Idziemy tutaj w kierunku stosunku pracy — powiedział w \"Onet Rano. Finansowo\" Michał Lewandowski, przewodniczący związku zawodowego Konfederacja Pracy działającego w Pyszne. Jego zdaniem kluczowym problemem w sporze wokół Pyszne.pl nie jest sama decyzja o zakończeniu współpracy z kurierami, lecz to, czy osoby dostarczające jedzenie powinny być zatrudnione na umowę o pracę.",
+    "published": "2026-08-01T12:21:30",
+    "fetched": "2026-08-01T16:58:53.215361",
+    "title_uk": "Кур'єри в Польщі вимагають трудових контрактів",
+    "summary_uk": "Представник профспілки Konfederacja Pracy закликав до переходу на трудові контракти для кур'єрів Pyszne.pl. Основна проблема полягає в тому, чи повинні кур'єри мати трудові угоди, а не цивільно-правові. Це питання стало предметом суперечок у компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміна формату зайнятості кур'єрів може вплинути на витрати компаній у сфері доставки. Дистриб'ютори повинні враховувати можливі зміни в логістиці та витратах на доставку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Кур'єри в Польщі вимагають трудових контрактів",
+    "summary": "Представник профспілки Konfederacja Pracy закликав до переходу на трудові контракти для кур'єрів Pyszne.pl. Основна проблема полягає в тому, чи повинні кур'єри мати трудові угоди, а не цивільно-правові. Це питання стало предметом суперечок у компанії.",
+    "link": "https://businessinsider.com.pl/praca/praca-kurierow-pysznepl-pod-lupa-zwiazkowiec-czas-na-umowy-o-prace/xth8lyc",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1810932772a3",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/wegry-szykuja-sie-na-kryzys-elektrownia-moze-stanac-7313719608285248a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Węgry szykują się na kryzys. Elektrownia może stanąć",
+    "body_orig": "Elektrownia jądrowa w Paks, która zapewnia niemal połowę energii elektrycznej na Węgrzech, może zostać całkowicie wyłączona już w ten weekend. Powodem jest rekordowo niski poziom Dunaju. Rząd przygotował ograniczenia dla przemysłu, transportu i administracji.",
+    "published": "2026-08-01T09:41:14",
+    "fetched": "2026-08-01T16:58:55.566183",
+    "title_uk": "Угорщина готується до енергетичної кризи через низький рівень Дунаю",
+    "summary_uk": "Ядерна електростанція в Паксі, що забезпечує майже половину електроенергії Угорщини, може бути повністю вимкнена вже цього вихідного. Причина — рекордно низький рівень Дунаю. Уряд запровадив обмеження для промисловості, транспорту та адміністрації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Обмеження в Угорщині можуть вплинути на постачання енергії, що може призвести до зростання витрат на логістику та виробництво. Рекомендується переглянути запаси енергії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Угорщина готується до енергетичної кризи через низький рівень Дунаю",
+    "summary": "Ядерна електростанція в Паксі, що забезпечує майже половину електроенергії Угорщини, може бути повністю вимкнена вже цього вихідного. Причина — рекордно низький рівень Дунаю. Уряд запровадив обмеження для промисловості, транспорту та адміністрації.",
+    "link": "https://www.money.pl/gospodarka/wegry-szykuja-sie-na-kryzys-elektrownia-moze-stanac-7313719608285248a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1c72d73949d",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/wiecej-za-napoj-psa-mieszkanie-tyle-w-2027-r-moga-wyniesc-podwyzki-7313688679028736a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Od żywności przez psa po ZUS i mieszkanie. W 2027 mamy płacić więcej",
+    "body_orig": "W 2027 roku mamy zapłacić więcej za alkohol, papierosy, słodkie napoje, abonament RTV. W górę pójdą maksymalne stawki podatku od nieruchomości oraz składki ZUS. Część stawek na przyszły rok została już ogłoszona lub zapisana w ustawach, a część z nich to wciąż projekty, analizy i prognozy.",
+    "published": "2026-08-01T07:59:33",
+    "fetched": "2026-08-01T16:58:55.566200",
+    "title_uk": "Польща підвищить податки та збори з 2027 року",
+    "summary_uk": "У 2027 році в Польщі зростуть ціни на алкоголь, тютюн та солодкі напої. Також підвищаться максимальні ставки податку на нерухомість та внески до ZUS. Частина нововведень вже затверджена, інші — в стадії обговорення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні врахувати підвищення цін на продукцію, що підлягає акцизу, при плануванні закупівель на 2027 рік.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання податків може призвести до підвищення цін на товари, що вплине на стратегії ціноутворення та промоакції в ритейлі."
+    },
+    "tags": [
+      "регуляція",
+      "податки",
+      "ціни-сировина"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Польща підвищить податки та збори з 2027 року",
+    "summary": "У 2027 році в Польщі зростуть ціни на алкоголь, тютюн та солодкі напої. Також підвищаться максимальні ставки податку на нерухомість та внески до ZUS. Частина нововведень вже затверджена, інші — в стадії обговорення.",
+    "link": "https://www.money.pl/podatki/wiecej-za-napoj-psa-mieszkanie-tyle-w-2027-r-moga-wyniesc-podwyzki-7313688679028736a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b91024ff48ce",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-iraq-sign-one-year-oil-pipeline-deal-225101",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye, Iraq sign one-year oil pipeline deal",
+    "body_orig": "Turkish and Iraqi state energy companies have signed a one-year agreement covering 750,000 barrels per day of capacity on the Iraq-Türkiye Crude Oil Pipeline, Energy and Natural Resources Minister Alparslan Bayraktar said on Aug. 1.",
+    "published": "2026-08-01T12:59:32",
+    "fetched": "2026-08-01T16:59:04.720657",
+    "title_uk": "Туреччина та Ірак підписали угоду про нафтовий трубопровід",
+    "summary_uk": "Державні енергетичні компанії Туреччини та Іраку уклали річну угоду на транспортування 750 тис. барелів нафти на день через трубопровід Ірак-Туреччина. Угода була підтверджена міністром енергетики Туреччини Альпарсланом Байрактором 1 серпня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Угода може відкрити нові можливості для турецьких виробників нафти, які шукають ринки в Україні, Польщі та Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Туреччина та Ірак підписали угоду про нафтовий трубопровід",
+    "summary": "Державні енергетичні компанії Туреччини та Іраку уклали річну угоду на транспортування 750 тис. барелів нафти на день через трубопровід Ірак-Туреччина. Угода була підтверджена міністром енергетики Туреччини Альпарсланом Байрактором 1 серпня.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-iraq-sign-one-year-oil-pipeline-deal-225101",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e07b001fa85",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-maldives-trade-pact-enters-into-force-225099",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye-Maldives trade pact enters into force",
+    "body_orig": "A preferential trade agreement between Türkiye and the Maldives entered into force on Aug. 1, granting Turkish exporters tariff advantages on 404 products, the Trade Ministry has announced.",
+    "published": "2026-08-01T07:02:21",
+    "fetched": "2026-08-01T16:59:04.720674",
+    "title_uk": "Торговельна угода між Туреччиною та Мальдівами набрала чинності",
+    "summary_uk": "З 1 серпня 2026 року почала діяти угода про преференційний торг між Туреччиною та Мальдівами. Турецькі експортери отримали тарифні переваги на 404 товари. Міністерство торгівлі Туреччини підтвердило цю інформацію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода відкриває нові можливості для турецьких виробників, які можуть розширити експорт на Мальдіви. Рекомендується вивчити місцевий ринок.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Торговельна угода між Туреччиною та Мальдівами набрала чинності",
+    "summary": "З 1 серпня 2026 року почала діяти угода про преференційний торг між Туреччиною та Мальдівами. Турецькі експортери отримали тарифні переваги на 404 товари. Міністерство торгівлі Туреччини підтвердило цю інформацію.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-maldives-trade-pact-enters-into-force-225099",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6b000b164261",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/tourism-revenue-holds-steady-despite-regional-wars-impact-225096",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Tourism revenue holds steady despite regional war’s impact",
+    "body_orig": "Türkiye’s tourism revenue edged down just 0.1 percent year-on-year to $25.75 billion in the first half of 2026, as higher nightly spending and longer stays offset a decline in visitor numbers, Culture and Tourism Minister Mehmet Nuri Ersoy has said.",
+    "published": "2026-08-01T06:35:00",
+    "fetched": "2026-08-01T16:59:04.720685",
+    "title_uk": "Доходи від туризму в Туреччині знизились незначно",
+    "summary_uk": "У першій половині 2026 року доходи від туризму в Туреччині зменшились на 0.1% до $25.75 млрд. Зростання витрат на нічліг та тривалість перебування компенсували падіння кількості відвідувачів. Міністр культури та туризму Туреччини Мехмет Нурі Ерсой повідомив про ці дані.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Туреччина залишається привабливим ринком для виробників, незважаючи на незначне зниження доходів. Важливо адаптувати стратегії маркетингу для залучення туристів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Доходи від туризму в Туреччині знизились незначно",
+    "summary": "У першій половині 2026 року доходи від туризму в Туреччині зменшились на 0.1% до $25.75 млрд. Зростання витрат на нічліг та тривалість перебування компенсували падіння кількості відвідувачів. Міністр культури та туризму Туреччини Мехмет Нурі Ерсой повідомив про ці дані.",
+    "link": "https://www.hurriyetdailynews.com/tourism-revenue-holds-steady-despite-regional-wars-impact-225096",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "078ad1aaa331",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/irak-turkiye-ham-petrol-boru-hattinin-kullanimina-iliskin-1-yillik-anlasma-imzalandi/4015808",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Irak-Türkiye Ham Petrol Boru Hattı'nın kullanımına ilişkin 1 yıllık anlaşma imzalandı",
+    "body_orig": "Türkiye ile Irak arasında, Irak-Türkiye Ham Petrol Boru Hattı'nın etkin kullanımını sağlamak amacıyla günlük 750 bin varillik kapasiteyi kapsayan 1 yıllık anlaşma imzalandı.",
+    "published": "2026-08-01T13:06:01",
+    "fetched": "2026-08-01T16:59:13.735100",
+    "title_uk": "Ірак і Туреччина підписали угоду на використання нафтопроводу",
+    "summary_uk": "Ірак і Туреччина уклали річну угоду на використання нафтопроводу з потужністю 750 тисяч барелів на добу. Угода має на меті забезпечити ефективне використання інфраструктури. Це може вплинути на ринок нафти в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Угода може позитивно вплинути на стабільність постачань нафти, що важливо для турецьких виробників, які працюють на експорт.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Ірак і Туреччина підписали угоду на використання нафтопроводу",
+    "summary": "Ірак і Туреччина уклали річну угоду на використання нафтопроводу з потужністю 750 тисяч барелів на добу. Угода має на меті забезпечити ефективне використання інфраструктури. Це може вплинути на ринок нафти в регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/irak-turkiye-ham-petrol-boru-hattinin-kullanimina-iliskin-1-yillik-anlasma-imzalandi/4015808",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dd9489aae656",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/stingemlumina-romania-pregateste-importuri-masive-energie-dupa-seceta-inchide-reactor-cernavoda-doua-oara-istoria-centralei-inchide-reactor-prima-data-2003-avem-productie-numai-4-000-mw-iar-consumul-23204054",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "#StingemLumina? România se pregăteşte de importuri masive de energie după ce seceta închide un reactor de la Cernavodă. Este pentru a doua oară în istoria centralei când se închide un reactor, prima dată în 2003. Avem producţie de numai 4.000 MW, iar consumul este estimat la 7.300 MW",
+    "body_orig": "",
+    "published": "2026-08-01T16:01:00",
+    "fetched": "2026-08-01T16:59:16.456273",
+    "title_uk": "Румунія готується до імпорту енергії через закриття реактора",
+    "summary_uk": "Румунія планує масові імпорти електроенергії через закриття одного з реакторів на АЕС у Кернаводі. Виробництво електроенергії знизилося до 4.000 МВт, тоді як споживання оцінюється в 7.300 МВт. Це вже другий випадок закриття реактора в історії станції, перший був у 2003 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "імпорт",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія готується до імпорту енергії через закриття реактора",
+    "summary": "Румунія планує масові імпорти електроенергії через закриття одного з реакторів на АЕС у Кернаводі. Виробництво електроенергії знизилося до 4.000 МВт, тоді як споживання оцінюється в 7.300 МВт. Це вже другий випадок закриття реактора в історії станції, перший був у 2003 році.",
+    "link": "https://www.zf.ro/companii/energie/stingemlumina-romania-pregateste-importuri-masive-energie-dupa-seceta-inchide-reactor-cernavoda-doua-oara-istoria-centralei-inchide-reactor-prima-data-2003-avem-productie-numai-4-000-mw-iar-consumul-23204054",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b0e57a9e8a16",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/rca-obligatoriu-pentru-trotinete-cati-romani-au-cumparat-deja-si-ce-amenzi-substantiale-risca-cei-care-inca-nu-au-facut-o_964615.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "RCA obligatoriu pentru trotinete. Câți români au cumpărat deja și ce amenzi substanțiale riscă cei care încă nu au făcut-o",
+    "body_orig": "De la sfârșitul anului trecut, toate trotinetele care se încadrează în anumite condiții trebuie să aibă RCA, la fel ca automobilele sau orice alt autovehicul. Mai exact, sunt obligați să încheie această poliță proprietarii care au trotinete mai grele de 25 kg cu viteze care depășeșc 14 km/oră și cei care conduc o trotinetă cu viteză maximă de peste 25 km/ora.",
+    "published": "2026-08-01T15:55:31",
+    "fetched": "2026-08-01T16:59:19.161988",
+    "title_uk": "Румунія запроваджує обов'язкове страхування для електросамокатів",
+    "summary_uk": "Від кінця 2025 року всі електросамокати вагою понад 25 кг та швидкістю понад 14 км/год повинні мати обов'язкове страхування. Це стосується також тих, хто їздить на самокатах зі швидкістю понад 25 км/год. Власники, які не виконують вимоги, ризикують отримати значні штрафи.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунія запроваджує обов'язкове страхування для електросамокатів",
+    "summary": "Від кінця 2025 року всі електросамокати вагою понад 25 кг та швидкістю понад 14 км/год повинні мати обов'язкове страхування. Це стосується також тих, хто їздить на самокатах зі швидкістю понад 25 км/год. Власники, які не виконують вимоги, ризикують отримати значні штрафи.",
+    "link": "https://www.economica.net/rca-obligatoriu-pentru-trotinete-cati-romani-au-cumparat-deja-si-ce-amenzi-substantiale-risca-cei-care-inca-nu-au-facut-o_964615.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c123f49dc01",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fondul-de-investitii-in-ai-al-fostului-cercetator-al-openai-leopold-aschenbrenner-s-a-prabusit-de-la-45-la-10-miliarde-de-dolari-in-doar-cateva-zile_964605.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fondul de investiţii în AI al fostului cercetător al OpenAI Leopold Aschenbrenner s-a prăbuşit de la 45 la 10 miliarde de dolari în doar câteva zile",
+    "body_orig": "Fondul de investiţii Situational Awareness, fondat de fostul cercetător OpenAI Leopold Aschenbrenner, şi-a redus activele de la aproximativ 45 de miliarde de dolari la circa 10 miliarde de dolari în doar câteva zile, după prăbuşirea acţiunilor din sectorul semiconductorilor şi declanşarea unor apeluri în marjă, transmite CNBC, citat de News.ro.",
+    "published": "2026-08-01T14:04:18",
+    "fetched": "2026-08-01T16:59:19.162016",
+    "title_uk": "Фонд AI Leopold Aschenbrenner втратив $35 млрд за кілька днів",
+    "summary_uk": "Фонд Situational Awareness, заснований Leopold Aschenbrenner, зменшив свої активи з $45 млрд до $10 млрд через падіння акцій у секторі напівпровідників. Це сталося після викликів маржі, що вплинуло на інвесторів. Ситуація викликала занепокоєння на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фонд AI Leopold Aschenbrenner втратив $35 млрд за кілька днів",
+    "summary": "Фонд Situational Awareness, заснований Leopold Aschenbrenner, зменшив свої активи з $45 млрд до $10 млрд через падіння акцій у секторі напівпровідників. Це сталося після викликів маржі, що вплинуло на інвесторів. Ситуація викликала занепокоєння на ринку.",
+    "link": "https://www.economica.net/fondul-de-investitii-in-ai-al-fostului-cercetator-al-openai-leopold-aschenbrenner-s-a-prabusit-de-la-45-la-10-miliarde-de-dolari-in-doar-cateva-zile_964605.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b6692d137ad0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/video-moneda-euro-in-romania-marele-proiect-al-tarii-presedintele-nicusor-dan-dezvaluie-strategia-agreata-cu-bnr-si-politicienii_964599.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "VIDEO Monedă euro în România, marele proiect al țării. Președintele Nicușor Dan dezvăluie strategia agreată cu BNR și politicienii",
+    "body_orig": "Monedă euro în România, mare proiect al țării. Cu ocazia confirmării ratingului suveran de către Fitch, președintele Nicușor Dan a ținut să dezvăluie că  există consens pentru ca România să treacă la euro. După ce fusese abandonat de guverne succesive care au ales cheltuielile exagerate  stricteții fiscal bugetare  impuse de traseul către euro, proiectul a fost reluat relativ recent și promovat intens în toate mediile, așa cum mai arăta Economica.",
+    "published": "2026-08-01T13:37:36",
+    "fetched": "2026-08-01T16:59:19.162025",
+    "title_uk": "Румунія планує перехід на євро з підтримкою політиків та BNR",
+    "summary_uk": "Президент Румунії Нікулор Дан оголосив про консенсус щодо переходу країни на євро. Цей проект був відновлений після перерви, коли попередні уряди відмовилися від нього через високі витрати. Підтвердження рейтингу суверенного боргу Румунії агентством Fitch стало важливим кроком у цьому напрямку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія планує перехід на євро з підтримкою політиків та BNR",
+    "summary": "Президент Румунії Нікулор Дан оголосив про консенсус щодо переходу країни на євро. Цей проект був відновлений після перерви, коли попередні уряди відмовилися від нього через високі витрати. Підтвердження рейтингу суверенного боргу Румунії агентством Fitch стало важливим кроком у цьому напрямку.",
+    "link": "https://www.economica.net/video-moneda-euro-in-romania-marele-proiect-al-tarii-presedintele-nicusor-dan-dezvaluie-strategia-agreata-cu-bnr-si-politicienii_964599.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "be95539362f0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cat-lapte-romanesc-a-mai-ramas-in-cutiile-de-la-raft-importurile-au-crescut-cu-aproximativ-40-in-doar-cinci-luni_964087.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cât lapte românesc a mai rămas în cutiile de la raft. Importurile au crescut cu aproximativ 40% în doar cinci luni",
+    "body_orig": "În primele cinci luni ale acestui an, din 100 de litri de lapte brut care au intrat pe porțile fabricilor pentru procesare, aproximativ 10,5 litri au fost din import, iar restul de la fermele din România. În perioada similară a anului trecut la 100 de litri de lapte procesat, aproximativ 9,6 erau din import.",
+    "published": "2026-08-01T13:18:12",
+    "fetched": "2026-08-01T16:59:19.162044",
+    "title_uk": "Імпорт молока в Румунії зріс на 40% за п'ять місяців",
+    "summary_uk": "У перші п'ять місяців 2026 року з 100 літрів молока, що надійшло на переробку, 10,5 літрів були імпортовані. Це порівняно з 9,6 літрами в аналогічний період 2025 року. Зростання імпорту свідчить про зменшення внутрішнього виробництва.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання імпорту молока в Румунії може створити можливості для турецьких виробників, які пропонують альтернативи або продукти з доданою вартістю. Рекомендується вивчити ринок для можливого виходу.",
+      "category_manager": "Зростання імпорту може вплинути на переговори з постачальниками молочних продуктів. Рекомендується переглянути асортимент і стратегії закупівель у зв'язку зі змінами на ринку."
+    },
+    "tags": [
+      "імпорт",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Імпорт молока в Румунії зріс на 40% за п'ять місяців",
+    "summary": "У перші п'ять місяців 2026 року з 100 літрів молока, що надійшло на переробку, 10,5 літрів були імпортовані. Це порівняно з 9,6 літрами в аналогічний період 2025 року. Зростання імпорту свідчить про зменшення внутрішнього виробництва.",
+    "link": "https://www.economica.net/cat-lapte-romanesc-a-mai-ramas-in-cutiile-de-la-raft-importurile-au-crescut-cu-aproximativ-40-in-doar-cinci-luni_964087.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9dcc28296b04",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/deficit-iakisnix-ploshh-riziki-ta-stagnaciia-dribnix-partii-shho-vidbuvajetsia-na-rinku-logisticnoyi-neruxomosti/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Дефіцит якісних площ, ризики та стагнація дрібних партій. Що відбувається на ринку логістичної нерухомості",
+    "body_orig": "Експерти радять диверсифікувати зберігання товарів, тоді як ринок стикається з нестачею сучасних складських площ.",
+    "published": "2026-08-01T13:57:00",
+    "fetched": "2026-08-01T16:58:59.280460",
+    "title_uk": "Дефіцит складських площ впливає на логістичний ринок України",
+    "summary_uk": "Експерти вказують на нестачу сучасних складських площ в Україні, що ускладнює зберігання товарів. Рекомендується диверсифікація зберігання для зменшення ризиків. Це може призвести до підвищення витрат на логістику для компаній.",
+    "what_it_means": {
+      "ua_importer": "Дефіцит складських площ може призвести до підвищення витрат на зберігання товарів. Рекомендується переглянути логістичні стратегії та шукати альтернативні рішення.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в логістичних витратах можуть вплинути на ціни товарів на полицях. Рекомендується переглянути асортимент та стратегії закупівель."
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Дефіцит складських площ впливає на логістичний ринок України",
+    "summary": "Експерти вказують на нестачу сучасних складських площ в Україні, що ускладнює зберігання товарів. Рекомендується диверсифікація зберігання для зменшення ризиків. Це може призвести до підвищення витрат на логістику для компаній.",
+    "link": "https://ain.ua/2026/07/31/deficit-iakisnix-ploshh-riziki-ta-stagnaciia-dribnix-partii-shho-vidbuvajetsia-na-rinku-logisticnoyi-neruxomosti/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "877d8fbdf454",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/life/rosiya-atakuvala-odin-iz-klyucovix-knizkovix-logisticnix-xabiv-ukrayini-shho-ce-oznacaje-dlya-knizkovogo-rinku-vz8dle",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Росія атакувала один із ключових книжкових логістичних хабів України: що це означає для книжкового ринку",
+    "body_orig": "Російська армія завдала прицільного удару по автоматизованому логістичному центру видавничої корпорації RNK-Ranok у Харкові. Внаслідок атаки знищено близько 8 млн примірників книжок (майже 28 тис. найменувань), серед яких 600 тис. шкільних підручників, що мали надійти до навчальних закладів до початку нового навчального року. Попередньо збитки оцінюють приблизно в 1 млрд грн.",
+    "published": "2026-08-01T13:59:06",
+    "fetched": "2026-08-01T16:59:00.734541",
+    "title_uk": "Атака на книжковий логістичний хаб RNK-Ranok у Харкові",
+    "summary_uk": "Російська армія завдала удару по логістичному центру RNK-Ranok, знищивши 8 млн книжок, зокрема 600 тис. шкільних підручників. Збитки оцінюють у близько €27 млн. Це суттєво вплине на постачання книг до навчальних закладів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Знищення великої кількості книжок вплине на асортимент шкільних підручників. Рекомендується переглянути запаси та плани закупівель на наступний навчальний рік."
+    },
+    "tags": [
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Атака на книжковий логістичний хаб RNK-Ranok у Харкові",
+    "summary": "Російська армія завдала удару по логістичному центру RNK-Ranok, знищивши 8 млн книжок, зокрема 600 тис. шкільних підручників. Збитки оцінюють у близько €27 млн. Це суттєво вплине на постачання книг до навчальних закладів.",
+    "link": "https://speka.ua/life/rosiya-atakuvala-odin-iz-klyucovix-knizkovix-logisticnix-xabiv-ukrayini-shho-ce-oznacaje-dlya-knizkovogo-rinku-vz8dle",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
