@@ -171788,5 +171788,1014 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "2ee7be627fca",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/hungary-shuts-down-paks-nuclear-plant-danube-drought-intensifies-energy-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Hungary faces energy crunch as drought shuts down Paks nuclear plant, PM says",
+    "body_orig": "Budapest loses 40 percent of the country's electricity generation as water levels continue to drop.",
+    "published": "2026-08-02T12:25:47",
+    "fetched": "2026-08-02T16:57:39.002301",
+    "title_uk": "Угорщина стикається з енергетичною кризою через посуху",
+    "summary_uk": "В Угорщині через зниження рівня води зупинили атомну електростанцію Paks. Це призвело до втрати 40% електрогенерації в країні. Влада попереджає про можливі перебої з електропостачанням.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Угорщина стикається з енергетичною кризою через посуху",
+    "summary": "В Угорщині через зниження рівня води зупинили атомну електростанцію Paks. Це призвело до втрати 40% електрогенерації в країні. Влада попереджає про можливі перебої з електропостачанням.",
+    "link": "https://www.politico.eu/article/hungary-shuts-down-paks-nuclear-plant-danube-drought-intensifies-energy-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4012ac1c3651",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Pozegnanie-z-PRL-owskim-reliktem-Rzad-w-koncu-likwiduje-adres-zameldowania-9174872.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Pożegnanie z PRL-owskim reliktem. Rząd w końcu likwiduje adres zameldowania",
+    "body_orig": "Szykują się duże zmiany. Adres zamieszkania ma bowiem zastąpić adres zameldowania. Rządowe plany mogą mieć spore nieruchomościowe znaczenie.",
+    "published": "2026-08-02T11:00:00",
+    "fetched": "2026-08-02T16:57:43.422391",
+    "title_uk": "Польща скасовує адресу реєстрації місця проживання",
+    "summary_uk": "Уряд Польщі планує замінити адресу реєстрації місця проживання на адресу проживання. Це може суттєво вплинути на ринок нерухомості. Зміни очікуються в найближчому майбутньому.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на документообіг у сфері нерухомості, тому дистриб'ютори, які працюють з цим сегментом, повинні бути готові до нових вимог.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції",
+      "нерухомість"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща скасовує адресу реєстрації місця проживання",
+    "summary": "Уряд Польщі планує замінити адресу реєстрації місця проживання на адресу проживання. Це може суттєво вплинути на ринок нерухомості. Зміни очікуються в найближчому майбутньому.",
+    "link": "https://www.bankier.pl/wiadomosc/Pozegnanie-z-PRL-owskim-reliktem-Rzad-w-koncu-likwiduje-adres-zameldowania-9174872.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2148db4851be",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/USA-uderzaja-nowymi-clami-To-zaskakujaco-dobre-wiesci-dla-polskiej-gospodarki-9175492.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "USA uderzają nowymi cłami. To zaskakująco dobre wieści dla polskiej gospodarki",
+    "body_orig": "Polska należy do krajów, które mogą relatywnie skorzystać na nowej rundzie amerykańskich ceł - oceniają analitycy Polskiego Instytutu Ekonomicznego.",
+    "published": "2026-08-02T15:00:00",
+    "fetched": "2026-08-02T16:57:43.422428",
+    "title_uk": "Нові мита США можуть принести вигоду Польщі",
+    "summary_uk": "Польща може виграти від нових американських мит, вважають аналітики. Це пов'язано з можливим зростанням експорту польських товарів на ринок США. Конкретні цифри поки не надані.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Можливе зростання попиту на польські товари в США може позитивно вплинути на дистриб'юторів, які працюють з польськими брендами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Нові мита США можуть принести вигоду Польщі",
+    "summary": "Польща може виграти від нових американських мит, вважають аналітики. Це пов'язано з можливим зростанням експорту польських товарів на ринок США. Конкретні цифри поки не надані.",
+    "link": "https://www.bankier.pl/wiadomosc/USA-uderzaja-nowymi-clami-To-zaskakujaco-dobre-wiesci-dla-polskiej-gospodarki-9175492.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b9fb83fc9b25",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/blik-bedzie-blokowac-niektore-transakcje-zmiana-od-1-wrzesnia/q6cl23j",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "BLIK będzie blokować niektóre transakcje. Zmiana od 1 września",
+    "body_orig": "Blik wprowadza blokadę płatności na nielegalnych stronach hazardowych. Nowy mechanizm zacznie działać od 1 września i obejmie zarówno polskich, jak i zagranicznych operatorów płatności.",
+    "published": "2026-08-02T15:01:23",
+    "fetched": "2026-08-02T16:57:45.485449",
+    "title_uk": "BLIK блокуватиме платежі на нелегальних азартних сайтах з 1 вересня",
+    "summary_uk": "Система BLIK запроваджує блокування платежів на нелегальних азартних сайтах. Зміни набудуть чинності з 1 вересня і стосуватимуться як польських, так і іноземних операторів. Це рішення має на меті захистити споживачів від небезпечних фінансових практик.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміна може вплинути на обсяги продажів для дистриб'юторів, які працюють з продуктами, пов'язаними з азартними іграми. Рекомендується переглянути асортимент.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "BLIK блокуватиме платежі на нелегальних азартних сайтах з 1 вересня",
+    "summary": "Система BLIK запроваджує блокування платежів на нелегальних азартних сайтах. Зміни набудуть чинності з 1 вересня і стосуватимуться як польських, так і іноземних операторів. Це рішення має на меті захистити споживачів від небезпечних фінансових практик.",
+    "link": "https://businessinsider.com.pl/finanse/blik-bedzie-blokowac-niektore-transakcje-zmiana-od-1-wrzesnia/q6cl23j",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1361db27e83a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/unijne-cla-zmienily-zakupy-na-temu-i-shein-klienci-znalezli-sposob/e0pm62b",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Cło nie zabiło Temu i Shein, giganci znaleźli sposób. Tak teraz wyglądają zakupy",
+    "body_orig": "Unijne cła i nowe opłaty miały ograniczyć przewagę Temu, Shein czy AliExpress oraz zahamować napływ miliardów bardzo tanich przesyłek z Chin. Sprawdzamy, jak wygląda sytuacja miesiąc po zmianach — choć zakupy wyraźnie podrożały, chińskie platformy nie tylko nie straciły rynku, ale zaczęły błyskawicznie dostosowywać się do nowych realiów. Zamiast masowej ucieczki klientów doszło do czegoś innego — zaczęli kupować inaczej.",
+    "published": "2026-08-02T14:11:16",
+    "fetched": "2026-08-02T16:57:45.485460",
+    "title_uk": "Temu та Shein адаптуються до нових митних правил в Польщі",
+    "summary_uk": "Після введення нових митних зборів, китайські платформи Temu та Shein не лише зберегли свою ринкову частку, а й адаптувалися до нових умов. Хоча ціни на товари зросли, споживачі змінили свої звички покупок, що дозволило платформам залишитися конкурентоспроможними. Зміни відбулися через місяць після введення нових правил.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні враховувати зміни в поведінці споживачів. Можливо, варто переглянути асортимент та стратегії ціноутворення.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в покупках споживачів можуть вплинути на категорійні стратегії. Рекомендується адаптувати плани промоцій та асортименту відповідно до нових трендів."
+    },
+    "tags": [
+      "митниця",
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Temu та Shein адаптуються до нових митних правил в Польщі",
+    "summary": "Після введення нових митних зборів, китайські платформи Temu та Shein не лише зберегли свою ринкову частку, а й адаптувалися до нових умов. Хоча ціни на товари зросли, споживачі змінили свої звички покупок, що дозволило платформам залишитися конкурентоспроможними. Зміни відбулися через місяць після введення нових правил.",
+    "link": "https://businessinsider.com.pl/biznes/unijne-cla-zmienily-zakupy-na-temu-i-shein-klienci-znalezli-sposob/e0pm62b",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2305e43cda44",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/sztuczna-inteligencja-napedza-podwyzki-elektronika-w-sklepach-coraz-drozsza/lczqs5h",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nawet kilkaset procent wzrostu. Tak zmieniły się ceny elektroniki",
+    "body_orig": "Rekordowe wydatki big techów na centra danych mają coraz większy wpływ na to, ile płacimy w sklepach za elektronikę. Na konkretnych przykładach pokazujemy, jak bardzo w ciągu ostatnich miesięcy podrożały niektóre z nich, tak jak na przykład dyski zewnętrzne, które w ciągu roku podrożały z 300 zł na prawie tysiąc.",
+    "published": "2026-08-02T13:27:15",
+    "fetched": "2026-08-02T16:57:45.485470",
+    "title_uk": "Ціни на електроніку в Польщі зросли до кількох сотень відсотків",
+    "summary_uk": "Витрати великих технологічних компаній на центри даних вплинули на ціни електроніки. Наприклад, зовнішні жорсткі диски подорожчали з 300 зл до майже 1000 зл за рік. Це свідчить про значні зміни на ринку електроніки в Польщі.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на електроніку в Польщі може вплинути на імпорт товарів в Україну. Імпортерам варто переглянути ціни та стратегії закупівель.",
+      "pl_distributor": "Польським дистриб'юторам слід враховувати підвищення цін при плануванні асортименту та закупівель. Рекомендується переглянути контракти з постачальниками.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зміни цін можуть вплинути на плани промо та асортимент електроніки. Рекомендується переглянути стратегії закупівель та ціноутворення."
+    },
+    "tags": [
+      "ціни-сировина",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на електроніку в Польщі зросли до кількох сотень відсотків",
+    "summary": "Витрати великих технологічних компаній на центри даних вплинули на ціни електроніки. Наприклад, зовнішні жорсткі диски подорожчали з 300 зл до майже 1000 зл за рік. Це свідчить про значні зміни на ринку електроніки в Польщі.",
+    "link": "https://businessinsider.com.pl/technologie/sztuczna-inteligencja-napedza-podwyzki-elektronika-w-sklepach-coraz-drozsza/lczqs5h",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c0c7e994fc28",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/tedi-rosnie-w-polsce-przejmuje-inna-siec-razem-z-pracownikami/zl1cwkx",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "TEDi rośnie w Polsce. Przejmuje inną sieć razem z pracownikami",
+    "body_orig": "TEDi przejmuje polskie sklepy Woolworth. To ważny krok dla niemieckiej sieci, która chce umocnić swoją pozycję na polskim rynku. Przejęcie następuje po trudnym okresie finansowym Woolworth w Polsce i ma pomóc w poprawie wyników.",
+    "published": "2026-08-02T12:18:37",
+    "fetched": "2026-08-02T16:57:45.485506",
+    "title_uk": "TEDi купує мережу Woolworth у Польщі для зміцнення позицій",
+    "summary_uk": "Німецька мережа TEDi оголосила про придбання польських магазинів Woolworth. Це рішення прийнято після фінансових труднощів Woolworth у Польщі. Придбання має на меті покращити результати TEDi на польському ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може створити нові можливості для постачальників, які працюють з TEDi, оскільки мережа планує розширення та покращення асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна власника може вплинути на асортимент і стратегії продажів у магазинах TEDi, тому варто слідкувати за новими пропозиціями та умовами співпраці."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "TEDi купує мережу Woolworth у Польщі для зміцнення позицій",
+    "summary": "Німецька мережа TEDi оголосила про придбання польських магазинів Woolworth. Це рішення прийнято після фінансових труднощів Woolworth у Польщі. Придбання має на меті покращити результати TEDi на польському ринку.",
+    "link": "https://businessinsider.com.pl/wiadomosci/tedi-rosnie-w-polsce-przejmuje-inna-siec-razem-z-pracownikami/zl1cwkx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "56185b595a8b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/istanbul-consumer-prices-rise-2-06-percent-in-july-chamber-225111",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Istanbul consumer prices rise 2.06 percent in July: Chamber",
+    "body_orig": "Istanbul’s Consumer Price Index increased 2.06 percent in July from the previous month, according to data from the Istanbul Chamber of Commerce (ITO).",
+    "published": "2026-08-02T07:45:31",
+    "fetched": "2026-08-02T16:57:57.818861",
+    "title_uk": "Споживчі ціни в Стамбулі зросли на 2% у липні",
+    "summary_uk": "Індекс споживчих цін у Стамбулі зріс на 2% у липні в порівнянні з червнем. Дані надані Стамбульською торговою палатою. Це свідчить про зростання інфляційних тисків у регіоні.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін в Туреччині може вплинути на вартість імпорту товарів з цієї країни. Рекомендується переглянути ціни на продукцію, що постачається з Туреччини.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання цін може вплинути на внутрішній попит, тому важливо переглянути стратегії ціноутворення.",
+      "category_manager": "Зростання цін може призвести до зміни попиту на певні категорії товарів. Рекомендується переглянути асортимент і ціни на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "імпорт",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Споживчі ціни в Стамбулі зросли на 2% у липні",
+    "summary": "Індекс споживчих цін у Стамбулі зріс на 2% у липні в порівнянні з червнем. Дані надані Стамбульською торговою палатою. Це свідчить про зростання інфляційних тисків у регіоні.",
+    "link": "https://www.hurriyetdailynews.com/istanbul-consumer-prices-rise-2-06-percent-in-july-chamber-225111",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "893efeae1ad0",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/medium-high-and-high-technology-exports-hit-56-billion-in-first-half-225110",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Medium-high and high-technology exports hit $56 billion in first half",
+    "body_orig": "Türkiye’s exports of “critical technology” products, comprising goods classified as medium-high and high technology, reached $56.2 billion in the first six months of this year.",
+    "published": "2026-08-02T07:40:30",
+    "fetched": "2026-08-02T16:57:57.818870",
+    "title_uk": "Експорт технологічних товарів Туреччини досяг $56 млрд",
+    "summary_uk": "Експорт Туреччини продукції критичних технологій склав $56.2 млрд за перші шість місяців 2026 року. Ця категорія включає товари середньо-високих та високих технологій. Зростання експорту свідчить про посилення позицій Туреччини на міжнародному ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту може свідчити про нові можливості для турецьких виробників на ринках UA/PL/RO. Рекомендується розглянути партнерство з українськими імпортерами.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Експорт технологічних товарів Туреччини досяг $56 млрд",
+    "summary": "Експорт Туреччини продукції критичних технологій склав $56.2 млрд за перші шість місяців 2026 року. Ця категорія включає товари середньо-високих та високих технологій. Зростання експорту свідчить про посилення позицій Туреччини на міжнародному ринку.",
+    "link": "https://www.hurriyetdailynews.com/medium-high-and-high-technology-exports-hit-56-billion-in-first-half-225110",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3bcf0a4e67b4",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-crude-steel-production-increases-8-1-pct-in-first-half-225109",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s crude steel production increases 8.1 pct in first half",
+    "body_orig": "Türkiye’s crude steel production increased 8.1 percent year-on-year to 19.8 million tons in the January-June period, according to data from the Turkish Steel Producers Association (TÇÜD).",
+    "published": "2026-08-02T07:37:54",
+    "fetched": "2026-08-02T16:57:57.818886",
+    "title_uk": "Виробництво чорної сталі в Туреччині зросло на 8% у першій половині року",
+    "summary_uk": "Виробництво чорної сталі в Туреччині за перше півріччя досягло 19.8 млн тонн, що на 8% більше, ніж минулого року. Ці дані надає Турецька асоціація виробників сталі (TÇÜD). Зростання виробництва свідчить про відновлення попиту на сталь у країні.",
+    "what_it_means": {
+      "ua_importer": "Зростання виробництва сталі в Туреччині може призвести до зниження цін на імпорт сталі в Україну, що вигідно для імпортерів.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання виробництва може відкрити нові можливості для експорту сталі в країни ЄС, зокрема в Польщу.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Виробництво чорної сталі в Туреччині зросло на 8% у першій половині року",
+    "summary": "Виробництво чорної сталі в Туреччині за перше півріччя досягло 19.8 млн тонн, що на 8% більше, ніж минулого року. Ці дані надає Турецька асоціація виробників сталі (TÇÜD). Зростання виробництва свідчить про відновлення попиту на сталь у країні.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-crude-steel-production-increases-8-1-pct-in-first-half-225109",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "516ddd126c3c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-emerges-as-key-cruise-destination-amid-middle-east-225108",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye emerges as key cruise destination amid Middle East",
+    "body_orig": "Security concerns in the Middle East have prompted cruise companies to revise itineraries, with Türkiye benefiting as Istanbul strengthens its position as an embarkation port and interest in Kuşadası and İzmir grows.",
+    "published": "2026-08-02T07:26:00",
+    "fetched": "2026-08-02T16:57:57.818896",
+    "title_uk": "Туреччина стає ключовим напрямком для круїзів у Середньому Сході",
+    "summary_uk": "Через проблеми безпеки в Середньому Сході круїзні компанії змінюють маршрути. Туреччина, зокрема Стамбул, стає важливим портом для відправлення, а інтерес до Кушадаси та Ізміру зростає. Це відкриває нові можливості для туристичної інфраструктури країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання туристичного потоку може підвищити попит на місцеві продукти. Розгляньте можливість співпраці з круїзними компаніями для постачання товарів.",
+      "category_manager": "Зростання круїзного туризму може вплинути на попит у категорії харчових продуктів та напоїв. Розгляньте можливість розширення асортименту для туристів."
+    },
+    "tags": [
+      "логістика",
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Туреччина стає ключовим напрямком для круїзів у Середньому Сході",
+    "summary": "Через проблеми безпеки в Середньому Сході круїзні компанії змінюють маршрути. Туреччина, зокрема Стамбул, стає важливим портом для відправлення, а інтерес до Кушадаси та Ізміру зростає. Це відкриває нові можливості для туристичної інфраструктури країни.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-emerges-as-key-cruise-destination-amid-middle-east-225108",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ec97308705d8",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/opec-tipped-to-raise-production-again-but-new-quotas-loom-225105",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "OPEC+ boosts September production by 188,000 barrels/day",
+    "body_orig": "Saudi Arabia, Russia and five other key members of OPEC+ agreed in an online meeting on Aug. 2 to boost oil production by 188,000 barrels a day from September, against a backdrop of disruption caused by the Mideast war.",
+    "published": "2026-08-02T06:47:00",
+    "fetched": "2026-08-02T16:57:57.818905",
+    "title_uk": "OPEC+ підвищує видобуток нафти на 188 тис. барелів на день з вересня",
+    "summary_uk": "Члени OPEC+, зокрема Саудівська Аравія та Росія, вирішили збільшити видобуток нафти на 188 тис. барелів на день з вересня. Це рішення ухвалено під час онлайн-зустрічі 2 серпня. Збільшення виробництва відбувається на фоні перебоїв, викликаних війною на Близькому Сході.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "OPEC+ підвищує видобуток нафти на 188 тис. барелів на день з вересня",
+    "summary": "Члени OPEC+, зокрема Саудівська Аравія та Росія, вирішили збільшити видобуток нафти на 188 тис. барелів на день з вересня. Це рішення ухвалено під час онлайн-зустрічі 2 серпня. Збільшення виробництва відбувається на фоні перебоїв, викликаних війною на Близькому Сході.",
+    "link": "https://www.hurriyetdailynews.com/opec-tipped-to-raise-production-again-but-new-quotas-loom-225105",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb4daa71781c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/opec-uyesi-7-ulke-eylulde-petrol-uretimini-gunluk-188-bin-varil-artiracak/4016318",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "OPEC+ üyesi 7 ülke, eylülde petrol üretimini günlük 188 bin varil artıracak",
+    "body_orig": "Petrol İhraç Eden Ülkeler Örgütü (OPEC) ve OPEC dışı bazı üretici ülkelerden oluşan OPEC+ grubu üyesi 7 ülke, eylülde petrol üretimlerini beklentiler doğrultusunda günlük 188 bin varil artırma kararı aldı.",
+    "published": "2026-08-02T12:00:11",
+    "fetched": "2026-08-02T16:58:02.670099",
+    "title_uk": "Сім країн OPEC+ збільшать видобуток нафти на 188 тисяч барелів у вересні",
+    "summary_uk": "Сім країн, що входять до OPEC+, вирішили збільшити видобуток нафти на 188 тисяч барелів на день у вересні. Це рішення було ухвалене відповідно до прогнозів ринку. Збільшення видобутку має на меті задовольнити зростаючий попит на нафту.",
+    "what_it_means": {
+      "ua_importer": "Зростання видобутку нафти може призвести до зниження цін на імпортовану нафту в Україні. Імпортерам варто переглянути свої контракти з постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Сім країн OPEC+ збільшать видобуток нафти на 188 тисяч барелів у вересні",
+    "summary": "Сім країн, що входять до OPEC+, вирішили збільшити видобуток нафти на 188 тисяч барелів на день у вересні. Це рішення було ухвалене відповідно до прогнозів ринку. Збільшення видобутку має на меті задовольнити зростаючий попит на нафту.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/opec-uyesi-7-ulke-eylulde-petrol-uretimini-gunluk-188-bin-varil-artiracak/4016318",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ad6f59a494f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ito-temmuzda-fiyati-en-cok-artan-ve-azalan-urunleri-acikladi/4016219",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "İTO temmuzda fiyatı en çok artan ve azalan ürünleri açıkladı",
+    "body_orig": "Temmuzda bir önceki aya göre fiyatı en çok artan ürün yüzde 103,57 ile sivri biber olurken, en fazla düşüş yüzde 39,57 ile kirazda görüldü.",
+    "published": "2026-08-02T09:43:00",
+    "fetched": "2026-08-02T16:58:02.670119",
+    "title_uk": "У Туреччині зросли ціни на перець, знизились на вишню",
+    "summary_uk": "У липні ціна на перець зросла на 104%, тоді як вишня подешевшала на 40%. Це свідчить про значні коливання цін на продукти в Туреччині. Зміни можуть вплинути на ринок споживчих товарів.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на перець може призвести до підвищення вартості імпортованих овочів з Туреччини. Рекомендується переглянути ціни на продукцію.",
+      "pl_distributor": "Ціни на перець можуть вплинути на закупівельні стратегії. Розгляньте альтернативні постачання для збереження маржі.",
+      "tr_manufacturer": "Зміни цін можуть вплинути на попит на продукцію. Виробникам слід адаптувати стратегії ціноутворення.",
+      "category_manager": "Зміни цін на популярні продукти можуть вплинути на плани промоакцій. Рекомендується переглянути асортимент та ціни на категорію овочів."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "У Туреччині зросли ціни на перець, знизились на вишню",
+    "summary": "У липні ціна на перець зросла на 104%, тоді як вишня подешевшала на 40%. Це свідчить про значні коливання цін на продукти в Туреччині. Зміни можуть вплинути на ринок споживчих товарів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ito-temmuzda-fiyati-en-cok-artan-ve-azalan-urunleri-acikladi/4016219",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c3afc1a4937d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ito-baskani-avdagic-tcmbnin-doviz-donusum-destegine-iliskin-duzenlemesini-degerlendirdi/4016210",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "İTO Başkanı Avdagiç, TCMB'nin döviz dönüşüm desteğine ilişkin düzenlemesini değerlendirdi",
+    "body_orig": "İTO Başkanı Avdagiç, TCMB'nin döviz dönüşüm desteğine ilişkin yeni düzenlemesini olumlu karşıladıklarını belirterek, \"İş dünyamızın nihai beklentisi yüzde 35'lik ihracat bedeli satış zorunluluğunun tamamen kaldırılmasıdır.\" dedi.",
+    "published": "2026-08-02T09:29:42",
+    "fetched": "2026-08-02T16:58:02.670130",
+    "title_uk": "Турецька бізнес-асоціація підтримує зміни в валютному регулюванні",
+    "summary_uk": "Президент Істамбулської торгової асоціації (İTO) Авдагіч позитивно оцінив нові правила TCMB щодо підтримки валютного обміну. Він зазначив, що бізнес сподівається на повне скасування вимоги про продаж 35% експортної виручки. Це може полегшити фінансові умови для експортерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зміни можуть спростити доступ до валютних ресурсів для турецьких виробників, що планують експорт до інших країн.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "валюта",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Турецька бізнес-асоціація підтримує зміни в валютному регулюванні",
+    "summary": "Президент Істамбулської торгової асоціації (İTO) Авдагіч позитивно оцінив нові правила TCMB щодо підтримки валютного обміну. Він зазначив, що бізнес сподівається на повне скасування вимоги про продаж 35% експортної виручки. Це може полегшити фінансові умови для експортерів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ito-baskani-avdagic-tcmbnin-doviz-donusum-destegine-iliskin-duzenlemesini-degerlendirdi/4016210",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "423c0e7e8b97",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimaninda-gunluk-289-bin-260-yolcuyla-avrupa-rekoru-kirildi/4016186",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "İstanbul Havalimanı'nda günlük 289 bin 260 yolcuyla Avrupa rekoru kırıldı",
+    "body_orig": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Havalimanı'nın dün 289 bin 260 yolcuya hizmet vererek, Türkiye ve Avrupa'da tüm zamanların en yüksek günlük yolcu sayısına ulaştığını bildirdi.",
+    "published": "2026-08-02T08:40:06",
+    "fetched": "2026-08-02T16:58:02.670162",
+    "title_uk": "Інститут аеропорту Стамбула встановив європейський рекорд з пасажирів",
+    "summary_uk": "Аеропорт Стамбула обслужив 289 тисяч пасажирів за один день, що є рекордом для Туреччини та Європи. Міністр транспорту повідомив про досягнення, підкресливши зростання популярності аеропорту. Це свідчить про відновлення туристичного потоку в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання пасажиропотоку може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії, зокрема в сегменті товарів для туристів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Інститут аеропорту Стамбула встановив європейський рекорд з пасажирів",
+    "summary": "Аеропорт Стамбула обслужив 289 тисяч пасажирів за один день, що є рекордом для Туреччини та Європи. Міністр транспорту повідомив про досягнення, підкресливши зростання популярності аеропорту. Це свідчить про відновлення туристичного потоку в регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimaninda-gunluk-289-bin-260-yolcuyla-avrupa-rekoru-kirildi/4016186",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0a36722f42d7",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/sanayi-urunu-denetimlerinde-6-ayda-175-9-milyon-lira-ceza-uygulandi/4016163",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Sanayi ürünü denetimlerinde 6 ayda 175,9 milyon lira ceza uygulandı",
+    "body_orig": "Sanayi ve Teknoloji Bakanlığınca yapılan denetimlerde, 2 bin 441 ürün uygunsuz bulundu, 105 farklı marka ve model hakkında toplatma kararı verildi.",
+    "published": "2026-08-02T08:14:07",
+    "fetched": "2026-08-02T16:58:02.670172",
+    "title_uk": "Туреччина наклала штрафи на 176 млн лір за порушення стандартів",
+    "summary_uk": "У результаті перевірок Міністерства промисловості та технологій Туреччини виявлено 2 441 продукт, що не відповідає стандартам. Було ухвалено рішення про відкликання 105 різних марок і моделей. Загальна сума накладених штрафів становить 176 млн лір.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це сигнал для турецьких виробників про необхідність дотримання стандартів якості, щоб уникнути штрафів та відкликань продукції.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина наклала штрафи на 176 млн лір за порушення стандартів",
+    "summary": "У результаті перевірок Міністерства промисловості та технологій Туреччини виявлено 2 441 продукт, що не відповідає стандартам. Було ухвалено рішення про відкликання 105 різних марок і моделей. Загальна сума накладених штрафів становить 176 млн лір.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-urunu-denetimlerinde-6-ayda-175-9-milyon-lira-ceza-uygulandi/4016163",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f14203527111",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/liberty-galati-merge-la-vanzare-prin-negociere-directa-avem-trei-investitori-interesati-umbrarescu-jindal-si-metinvest-23206892",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Liberty Galaţi merge la vânzare prin negociere directă. „Avem trei investitori interesaţi, Umbrărescu, Jindal şi Metinvest”",
+    "body_orig": "",
+    "published": "2026-08-02T16:06:00",
+    "fetched": "2026-08-02T16:58:04.825991",
+    "title_uk": "Liberty Galaţi виставлено на продаж, три інвестори зацікавлені",
+    "summary_uk": "Румунська компанія Liberty Galaţi оголосила про продаж через пряму угоду. Серед потенційних покупців — Umbrărescu, Jindal та Metinvest. Угода може суттєво змінити ринок металургії в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Liberty Galaţi виставлено на продаж, три інвестори зацікавлені",
+    "summary": "Румунська компанія Liberty Galaţi оголосила про продаж через пряму угоду. Серед потенційних покупців — Umbrărescu, Jindal та Metinvest. Угода може суттєво змінити ринок металургії в регіоні.",
+    "link": "https://www.zf.ro/companii/liberty-galati-merge-la-vanzare-prin-negociere-directa-avem-trei-investitori-interesati-umbrarescu-jindal-si-metinvest-23206892",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7c67eecb289",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/ce-spune-conducerea-omv-petrom-despre-scumpirile-la-benzina-si-motorina-si-despre-securitatea-aprovizionarii-dupa-ce-motorina-a-trecut-de-10-lei-pe-litru-23206876",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce spune conducerea OMV Petrom despre scumpirile la benzină şi motorină şi despre securitatea aprovizionării, după ce motorina a trecut de 10 lei pe litru",
+    "body_orig": "",
+    "published": "2026-08-02T15:10:00",
+    "fetched": "2026-08-02T16:58:04.826039",
+    "title_uk": "OMV Petrom коментує зростання цін на пальне в Румунії",
+    "summary_uk": "OMV Petrom повідомила про підвищення цін на бензин і дизельне паливо, які перевищили 10 леїв за літр. Компанія запевняє в стабільності постачання пального. Зростання цін пов'язане з глобальними тенденціями на ринку нафти.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в Румунії може вплинути на вартість логістики для українських імпортерів, які працюють з румунськими постачальниками.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "OMV Petrom коментує зростання цін на пальне в Румунії",
+    "summary": "OMV Petrom повідомила про підвищення цін на бензин і дизельне паливо, які перевищили 10 леїв за літр. Компанія запевняє в стабільності постачання пального. Зростання цін пов'язане з глобальними тенденціями на ринку нафти.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/ce-spune-conducerea-omv-petrom-despre-scumpirile-la-benzina-si-motorina-si-despre-securitatea-aprovizionarii-dupa-ce-motorina-a-trecut-de-10-lei-pe-litru-23206876",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "90d1dc292440",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/preturi-combustibili-si-energie-creste-productia-de-petrol-sunt-asteptate-scaderi-de-preturi-rusia-arabia-saudita-si-alte-cinci-tari-opec-au-luat-decizia_964679.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Prețuri combustibili și energie. Crește producția de petrol, sunt așteptate scăderi de prețuri. Rusia, Arabia Saudită și alte cinci țări OPEC au luat decizia",
+    "body_orig": "Arabia Saudită, Rusia şi alţi cinci membri ai OPEC+ au decis, în cadrul unei reuniuni virtuale desfăşurate duminică, să îşi majoreze cotele de producţie de petrol pentru luna septembrie, pe fondul conflictului din Orientul Mijlociu, informează AFP şi Reuters.",
+    "published": "2026-08-02T16:04:30",
+    "fetched": "2026-08-02T16:58:07.888297",
+    "title_uk": "OPEC+ підвищує видобуток нафти, очікуються зниження цін",
+    "summary_uk": "На зустрічі OPEC+ Саудівська Аравія, Росія та ще п'ять країн вирішили збільшити квоти на видобуток нафти на вересень. Це рішення прийнято на фоні конфлікту в Близькому Сході. Очікується, що це призведе до зниження цін на нафту.",
+    "what_it_means": {
+      "ua_importer": "Збільшення видобутку нафти може призвести до зниження цін на енергоносії в Україні. Імпортерам варто переглянути свої закупівлі та контракти.",
+      "pl_distributor": "Зниження цін на нафту може зменшити витрати на логістику та транспортування в Польщі. Розгляньте можливість зниження цін для кінцевих споживачів.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін на нафту може зменшити витрати на транспортування товарів. Це варто врахувати при плануванні цінової політики на Q4."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "OPEC+ підвищує видобуток нафти, очікуються зниження цін",
+    "summary": "На зустрічі OPEC+ Саудівська Аравія, Росія та ще п'ять країн вирішили збільшити квоти на видобуток нафти на вересень. Це рішення прийнято на фоні конфлікту в Близькому Сході. Очікується, що це призведе до зниження цін на нафту.",
+    "link": "https://www.economica.net/preturi-combustibili-si-energie-creste-productia-de-petrol-sunt-asteptate-scaderi-de-preturi-rusia-arabia-saudita-si-alte-cinci-tari-opec-au-luat-decizia_964679.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2c54993bee20",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/rituals-magazine-orase_964413.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Lanțul de magazine Rituals se extinde agresiv în România: Patru noi locații în orașe cheie",
+    "body_orig": "Lanțul de magazine Rituals continuă expansiunea în țara noastră și pune noi orașe pe hartă. Compania se pregătește de deschiderea a patru noi magazine, potrivit informațiilor Economica.net.",
+    "published": "2026-08-02T14:52:31",
+    "fetched": "2026-08-02T16:58:07.888313",
+    "title_uk": "Rituals відкриває чотири нові магазини в Румунії",
+    "summary_uk": "Мережа магазинів Rituals продовжує розширення в Румунії, відкриваючи чотири нові локації в ключових містах. Це свідчить про зростаючий попит на продукцію компанії. Відкриття заплановане на найближчий час.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розширення Rituals може вплинути на конкуренцію в сегменті косметики та парфумерії. Рекомендується переглянути асортимент та акції для залучення клієнтів."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Rituals відкриває чотири нові магазини в Румунії",
+    "summary": "Мережа магазинів Rituals продовжує розширення в Румунії, відкриваючи чотири нові локації в ключових містах. Це свідчить про зростаючий попит на продукцію компанії. Відкриття заплановане на найближчий час.",
+    "link": "https://www.economica.net/rituals-magazine-orase_964413.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "560b76608256",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/laoun-youssef-antreprenorul-libanez-cu-participatii-in-grupul-maria-a-intrat-intr-un-singur-an-in-top-trei-cei-mai-mari-crescatori-de-porci_964138.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Milionarul libanez cu afaceri în România care se bate cu giganții internaționali din zootehnie. Laoun Youssef a intrat în top 3 crescători de porci în doar un an",
+    "body_orig": "O companie co-fondată de antreprenorul libanez Laoun Youssef, unul dintre acționarii grupului Maria, jucător important pe piața cerealelor, a devenit al treilea cel mai mare crescători de porci din România, la un an de la înființare.",
+    "published": "2026-08-02T12:21:14",
+    "fetched": "2026-08-02T16:58:07.888335",
+    "title_uk": "Ліванський підприємець став третім за величиною виробником свиней у Румунії",
+    "summary_uk": "Компанія, заснована Лауном Юсефом, за рік досягла статусу третього найбільшого виробника свиней у Румунії. Юсеф також є акціонером групи Maria, що займається торгівлею зерном. Це свідчить про швидкий розвиток бізнесу в агросекторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ліванський підприємець став третім за величиною виробником свиней у Румунії",
+    "summary": "Компанія, заснована Лауном Юсефом, за рік досягла статусу третього найбільшого виробника свиней у Румунії. Юсеф також є акціонером групи Maria, що займається торгівлею зерном. Це свідчить про швидкий розвиток бізнесу в агросекторі.",
+    "link": "https://www.economica.net/laoun-youssef-antreprenorul-libanez-cu-participatii-in-grupul-maria-a-intrat-intr-un-singur-an-in-top-trei-cei-mai-mari-crescatori-de-porci_964138.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cd5f25bc748f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/apple-si-samsung-castiga-tot-mai-mult-din-telefoane-noi-incasari-record-pe-fondul-scumpirilor-care-acopera-costurile-tot-mai-ridicate-ale-componentelor_964218.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Apple și Samsung câștigă tot mai mult din telefoane. Noi încasări record pe fondul scumpirilor care acoperă costurile tot mai ridicate ale componentelor",
+    "body_orig": "Producătorii de smartphone-uri au înregistrat în al doilea trimestru din 2026 cele mai mari încasări din istorie pentru această perioadă a anului, chiar dacă livrările de telefoane au continuat să scadă. Explicația este simplă: consumatorii cumpără modele mai scumpe, iar producătorii au majorat prețurile pentru a acoperi costurile tot mai ridicate ale componentelor, în special ale memoriilor.",
+    "published": "2026-08-02T09:31:36",
+    "fetched": "2026-08-02T16:58:07.888376",
+    "title_uk": "Apple та Samsung встановили рекорди прибутків від смартфонів",
+    "summary_uk": "У другому кварталі 2026 року виробники смартфонів досягли рекордних доходів, незважаючи на зниження поставок. Споживачі обирають дорожчі моделі, а компанії підвищують ціни через зростання витрат на компоненти, зокрема пам'ять.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на смартфони може вплинути на попит у категорії електроніки. Розгляньте коригування асортименту та цінової політики для збереження конкурентоспроможності."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Apple та Samsung встановили рекорди прибутків від смартфонів",
+    "summary": "У другому кварталі 2026 року виробники смартфонів досягли рекордних доходів, незважаючи на зниження поставок. Споживачі обирають дорожчі моделі, а компанії підвищують ціни через зростання витрат на компоненти, зокрема пам'ять.",
+    "link": "https://www.economica.net/apple-si-samsung-castiga-tot-mai-mult-din-telefoane-noi-incasari-record-pe-fondul-scumpirilor-care-acopera-costurile-tot-mai-ridicate-ale-componentelor_964218.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2ab17fafda6d",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/biznesu-radiat-gotuvatisia-do-pereboyiv-z-importom/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Бізнесу радять готуватися до перебоїв з імпортом. Що рекомендують експерти?",
+    "body_orig": "Бізнесу в Україні варто будувати роботу з імпортом так, ніби перебої з логістикою можуть виникнути будь-якої миті.",
+    "published": "2026-08-02T12:30:00",
+    "fetched": "2026-08-02T16:57:51.721313",
+    "title_uk": "Експерти радять бізнесу готуватися до перебоїв з імпортом",
+    "summary_uk": "В Україні бізнесу рекомендують адаптувати імпортні процеси до можливих перебоїв у логістиці. Експерти вказують на необхідність створення запасів та оптимізації постачань. Це може вплинути на вартість товарів та їх доступність на ринку.",
+    "what_it_means": {
+      "ua_importer": "Українським імпортерам слід переглянути свої ланцюги постачання та створити резерви товарів, щоб уникнути збитків у разі перебоїв.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Необхідно переглянути асортимент та запаси товарів, щоб бути готовими до можливих змін у постачаннях. Рекомендується планувати закупівлі на кілька місяців вперед."
+    },
+    "tags": [
+      "логістика",
+      "імпорт",
+      "дистрибуція"
+    ],
+    "impact_score": 2,
+    "category": "warning",
+    "title": "Експерти радять бізнесу готуватися до перебоїв з імпортом",
+    "summary": "В Україні бізнесу рекомендують адаптувати імпортні процеси до можливих перебоїв у логістиці. Експерти вказують на необхідність створення запасів та оптимізації постачань. Це може вплинути на вартість товарів та їх доступність на ринку.",
+    "link": "https://ain.ua/2026/07/31/biznesu-radiat-gotuvatisia-do-pereboyiv-z-importom/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5fa5995b0ee2",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/07/31/produktivnist-komandi-za-dopomogoiu-si-kolonka/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як підвищити продуктивність команди за допомогою ШІ та виміряти це — колонка",
+    "body_orig": "Олександр Рубан, СЕО та керівний партнер Ringostat, у колонці для AIN розповідає, як формується розрив між впровадженням AI у бізнес-процеси та його реальним ефектом на дохід компанії. Як впроваджувати штучний інтелект і вміти виміряти його ефективність — у матеріалі.",
+    "published": "2026-08-02T10:35:00",
+    "fetched": "2026-08-02T16:57:51.721329",
+    "title_uk": "Як підвищити продуктивність команди за допомогою ШІ",
+    "summary_uk": "Олександр Рубан, СЕО Ringostat, у колонці пояснює, як впровадження штучного інтелекту може вплинути на дохід компанії. Він також розглядає методи вимірювання ефективності ШІ в бізнес-процесах. Стаття містить практичні рекомендації для бізнесів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження ШІ може підвищити ефективність управління категоріями. Рекомендується оцінити, як нові технології можуть вплинути на KPI та стратегії продажів."
+    },
+    "tags": [
+      "стартапи",
+      "KPI-команди",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Як підвищити продуктивність команди за допомогою ШІ",
+    "summary": "Олександр Рубан, СЕО Ringostat, у колонці пояснює, як впровадження штучного інтелекту може вплинути на дохід компанії. Він також розглядає методи вимірювання ефективності ШІ в бізнес-процесах. Стаття містить практичні рекомендації для бізнесів.",
+    "link": "https://ain.ua/2026/07/31/produktivnist-komandi-za-dopomogoiu-si-kolonka/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
