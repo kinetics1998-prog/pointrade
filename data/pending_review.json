@@ -171432,5 +171432,361 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "318944dbdf24",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Polski-hit-eksportowy-slabnie-Przegrywamy-z-Chinami-Ukraina-i-Wietnamem-9173748.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polski hit eksportowy słabnie. Przegrywamy z Chinami, Ukrainą i Wietnamem",
+    "body_orig": "Pogłębia się spadek produkcji sprzedanej sektora meblarskiego - ocenia w analizie sektorowej Polski Fundusz Rozwoju.",
+    "published": "2026-08-02T07:00:00",
+    "fetched": "2026-08-02T07:04:50.434880",
+    "title_uk": "Падіння виробництва меблів у Польщі через конкуренцію з Китаєм та Україною",
+    "summary_uk": "Польський фонд розвитку повідомляє про зниження виробництва меблів. Конкуренція з Китаєм, Україною та В'єтнамом посилюється, що негативно впливає на експорт. Очікується, що цей тренд продовжиться в найближчі місяці.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зниження виробництва меблів може призвести до зменшення асортименту на ринку. Розгляньте можливість укладення контрактів з альтернативними постачальниками.",
+      "tr_manufacturer": "Якщо ви плануєте вихід на польський ринок, враховуйте зростаючу конкуренцію з боку країн Азії. Розробіть стратегію, щоб виділитися на фоні конкурентів.",
+      "category_manager": "Зниження виробництва меблів може вплинути на запаси в ритейлі. Перегляньте асортимент і плануйте закупівлі з урахуванням можливих дефіцитів."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Падіння виробництва меблів у Польщі через конкуренцію з Китаєм та Україною",
+    "summary": "Польський фонд розвитку повідомляє про зниження виробництва меблів. Конкуренція з Китаєм, Україною та В'єтнамом посилюється, що негативно впливає на експорт. Очікується, що цей тренд продовжиться в найближчі місяці.",
+    "link": "https://www.bankier.pl/wiadomosc/Polski-hit-eksportowy-slabnie-Przegrywamy-z-Chinami-Ukraina-i-Wietnamem-9173748.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "075dd04247e2",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/wynagrodzenia/zarobki-w-polskich-szpitalach-milionowe-stawki-i-ukryte-kontrakty/px2876l",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Największe zarobki w szpitalach. \"Osławiony\" Szpital Południowy w czołówce",
+    "body_orig": "Temat wynagrodzeń w szpitalach za sprawą afery w Warszawskim Szpitalu Południowym przetoczył się przez polskie media. Okazało się, że lekarzy z milionowymi zarobkami jest więcej. Jeden z czołówki, pracujący w szpitalu z Krakowa, zarobił 2,3 mln zł w ub.r. Jak sprawdziliśmy, ten szpital wcale nie płaci personelowi dużo, jak na krajowe standardy. Do tego, gdyby nie dotacja, przynosiłby straty. Przyjrzeliśmy się też zarobkom w czołowych 60 szpitalach w Polsce i kwotom przeznaczanym tam na tzw. usługi obce.",
+    "published": "2026-08-02T06:00:00",
+    "fetched": "2026-08-02T07:04:51.964735",
+    "title_uk": "Заробітки лікарів у польських лікарнях зростають",
+    "summary_uk": "В Україні обговорюють високі заробітки лікарів, зокрема у Варшавському Шпиталі Поłудньовому. Один лікар з Кракова заробив €0.5 млн минулого року. Багато лікарень в Польщі отримують дотації, без яких вони були б збитковими. Аналізували 60 лікарень і витрати на зовнішні послуги.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Заробітки лікарів у польських лікарнях зростають",
+    "summary": "В Україні обговорюють високі заробітки лікарів, зокрема у Варшавському Шпиталі Поłудньовому. Один лікар з Кракова заробив €0.5 млн минулого року. Багато лікарень в Польщі отримують дотації, без яких вони були б збитковими. Аналізували 60 лікарень і витрати на зовнішні послуги.",
+    "link": "https://businessinsider.com.pl/praca/wynagrodzenia/zarobki-w-polskich-szpitalach-milionowe-stawki-i-ukryte-kontrakty/px2876l",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9a3d8d3a333",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/hafif-ticari-arac-gecisine-acilan-derekoy-malko-tirnovo-gumruk-kapilari-diger-kapilardaki-yuku-hafifletecek/4016108",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Hafif ticari araç geçişine açılan Dereköy-Malko Tırnovo gümrük kapıları diğer kapılardaki yükü hafifletecek",
+    "body_orig": "Türkiye ile Bulgaristan arasındaki üçüncü kara geçişi olan Dereköy-Malko Tırnovo hattının brüt ağırlığı 3,5 tona kadar olan hafif ticari kargo araçlarına açılmasıyla Kapıkule ve Hamzabeyli sınır kapılarındaki yoğunluğun azaltılması hedefleniyor.",
+    "published": "2026-08-02T07:01:18",
+    "fetched": "2026-08-02T07:05:18.298243",
+    "title_uk": "Відкриття нових митних пунктів між Туреччиною та Болгарією",
+    "summary_uk": "Відкрито митні пункти Dereköy-Malko Tırnovo для легких комерційних автомобілів до 3,5 тонн. Це має зменшити навантаження на інші пункти пропуску, такі як Kapıkule та Hamzabeyli. Очікується, що новий маршрут полегшить перевезення вантажів між Туреччиною та Болгарією.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Відкриття нового маршруту може спростити логістику для турецьких виробників, які постачають товари до Болгарії та інших країн ЄС.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "митниця"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Відкриття нових митних пунктів між Туреччиною та Болгарією",
+    "summary": "Відкрито митні пункти Dereköy-Malko Tırnovo для легких комерційних автомобілів до 3,5 тонн. Це має зменшити навантаження на інші пункти пропуску, такі як Kapıkule та Hamzabeyli. Очікується, що новий маршрут полегшить перевезення вантажів між Туреччиною та Болгарією.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/hafif-ticari-arac-gecisine-acilan-derekoy-malko-tirnovo-gumruk-kapilari-diger-kapilardaki-yuku-hafifletecek/4016108",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a9a7b46ce2dc",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/start-up-ul-local-d-echoes-ambitia-capta-perpetua-personalitatea-unui-om-forma-unui-ecou-digital-permitandu-le-utilizatorilor-genereze-propria-clona-plataforma-modeleaza-aceste-avataruri-baza-70-23208116",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Start-up-ul local D.echoes are ambiţia de a capta şi perpetua personalitatea unui om sub forma unui „ecou” digital, permiţându-le utilizatorilor să-şi genereze propria clonă AI: Plataforma modelează aceste avataruri pe baza a 70 de parametrii dinamici şi a atras peste 1.500 de utilizatori activi",
+    "body_orig": "",
+    "published": "2026-08-02T06:37:00",
+    "fetched": "2026-08-02T07:05:20.672488",
+    "title_uk": "Румунський стартап D.echoes створює цифрові аватари на основі особистості",
+    "summary_uk": "Стартап D.echoes розробив платформу для створення цифрових клонів користувачів, використовуючи 70 динамічних параметрів. Наразі стартап має понад 1.500 активних користувачів. Це дозволяє користувачам зберігати та відтворювати свою особистість у цифровому форматі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунський стартап D.echoes створює цифрові аватари на основі особистості",
+    "summary": "Стартап D.echoes розробив платформу для створення цифрових клонів користувачів, використовуючи 70 динамічних параметрів. Наразі стартап має понад 1.500 активних користувачів. Це дозволяє користувачам зберігати та відтворювати свою особистість у цифровому форматі.",
+    "link": "https://www.zf.ro/business-hi-tech/start-up-ul-local-d-echoes-ambitia-capta-perpetua-personalitatea-unui-om-forma-unui-ecou-digital-permitandu-le-utilizatorilor-genereze-propria-clona-plataforma-modeleaza-aceste-avataruri-baza-70-23208116",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "36437d8aa8e0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/primele-cifre-oficiale-fenomenul-cazarilor-airbnb-incasari-1-miliard-euro-cat-jumatate-piata-hoteliera-cate-apartamente-disponibile-taxe-incasat-anaf-ultimii-cinci-ani-proprietar-bucuresti-isi-23204807",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Primele cifre oficiale despre fenomenul cazărilor Airbnb. Încasări de 1 miliard de euro, cât jumătate din piaţa hotelieră. Câte apartamente sunt disponibile şi ce taxe a încasat ANAF în ultimii cinci ani. Un proprietar din Bucureşti care îşi închiriază apartamentul turiştilor poate ajunge la circa 13.000 de euro în medie pe an",
+    "body_orig": "Vecinul de la etajul trei şi-a închiriat aparta­mentul în regim hote­lier şi frecvent pe uşa apartamentului intră şi ies turişti străini sau români, care îi asigură o sursă de venit în plus.",
+    "published": "2026-08-02T04:31:00",
+    "fetched": "2026-08-02T07:05:20.672528",
+    "title_uk": "Airbnb в Румунії: доходи €1 млрд, половина від готельного ринку",
+    "summary_uk": "У Румунії доходи від оренди через Airbnb досягли €1 млрд, що становить половину ринку готелів. Середній дохід власника квартири в Бухаресті — близько €13 тис. на рік. За останні п'ять років податкові надходження від цієї діяльності зросли.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Airbnb в Румунії: доходи €1 млрд, половина від готельного ринку",
+    "summary": "У Румунії доходи від оренди через Airbnb досягли €1 млрд, що становить половину ринку готелів. Середній дохід власника квартири в Бухаресті — близько €13 тис. на рік. За останні п'ять років податкові надходження від цієї діяльності зросли.",
+    "link": "https://www.zf.ro/companii/primele-cifre-oficiale-fenomenul-cazarilor-airbnb-incasari-1-miliard-euro-cat-jumatate-piata-hoteliera-cate-apartamente-disponibile-taxe-incasat-anaf-ultimii-cinci-ani-proprietar-bucuresti-isi-23204807",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c54709b308e8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/metoda-prin-care-vei-plati-mai-putin-pentru-abonamentele-tale-cum-ajungi-la-cei-care-decid-in-orange-vodafone-sau-ppc_964637.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Metoda prin care vei plăti mai puțin pentru abonamentele tale. Cum ajungi la cei care decid în Orange, Vodafone sau PPC",
+    "body_orig": "Marile companii de telefonie, utilități și nu numai, preferă să încaseze un abonament mai ieftin decât să piardă clienți vechi. Este primul lucru pe care trebuie să îl știi ca să poți aborda avantajos relația cu Orange, Vodafone, PPC sau altele.",
+    "published": "2026-08-02T06:41:15",
+    "fetched": "2026-08-02T07:05:22.933919",
+    "title_uk": "Як знизити витрати на мобільні абонементи в Румунії",
+    "summary_uk": "Великі компанії зв'язку, такі як Orange, Vodafone та PPC, готові знижувати ціни на абонементи, щоб утримати клієнтів. Це відкриває можливості для споживачів зменшити витрати. Ключовий момент — знати, як підходити до переговорів з цими компаніями.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Як знизити витрати на мобільні абонементи в Румунії",
+    "summary": "Великі компанії зв'язку, такі як Orange, Vodafone та PPC, готові знижувати ціни на абонементи, щоб утримати клієнтів. Це відкриває можливості для споживачів зменшити витрати. Ключовий момент — знати, як підходити до переговорів з цими компаніями.",
+    "link": "https://www.economica.net/metoda-prin-care-vei-plati-mai-putin-pentru-abonamentele-tale-cum-ajungi-la-cei-care-decid-in-orange-vodafone-sau-ppc_964637.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d66e701ad08a",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/se-inchide-becul-in-ungaria-tara-vecina-opreste-iar-singurul-sau-reactor-nuclear-ce-face-romania_964635.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Se închide becul în Ungaria? Țara vecină oprește iar singurul său reactor nuclear. Ce face România?",
+    "body_orig": "Ungaria se află în fața unei mari probleme a sistemului energetic. Țara vecină este nevoită să oprească singura centrală nucleară din cauza cotelor reduse ale Dunării. Și România se confruntă cu probleme similare și va lua astăzi măsuri fără precedent în încercarea de a ține pornit reactorl 2 de la Cernavodă.",
+    "published": "2026-08-02T06:28:43",
+    "fetched": "2026-08-02T07:05:22.933937",
+    "title_uk": "Угорщина зупиняє ядерний реактор через низький рівень води в Дунаї",
+    "summary_uk": "Угорщина призупинила роботу єдиного ядерного реактора через зниження рівня води в Дунаї. Це створює проблеми для енергетичної системи країни. Румунія також стикається з подібними труднощами і планує вжити заходів для підтримки роботи свого реактора в Кернаводі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Угорщина зупиняє ядерний реактор через низький рівень води в Дунаї",
+    "summary": "Угорщина призупинила роботу єдиного ядерного реактора через зниження рівня води в Дунаї. Це створює проблеми для енергетичної системи країни. Румунія також стикається з подібними труднощами і планує вжити заходів для підтримки роботи свого реактора в Кернаводі.",
+    "link": "https://www.economica.net/se-inchide-becul-in-ungaria-tara-vecina-opreste-iar-singurul-sau-reactor-nuclear-ce-face-romania_964635.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c220d0c334b7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/probleme-pentru-temu-in-eruopa-risca-o-amenda-record-de-sute-de-milioane-de-euro-comisia-europeana-va-lua-decizia_964632.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Probleme pentru Temu în Europa. Riscă o amendă record de sute de milioane de euro. Comisia Europeană va lua decizia",
+    "body_orig": "Compania PDD Holding, care deține gigamtul Temu, riscă o amendă de 1% din cifra de afaceri pentru că nu a colaborat cu autoritățile europene într-o anchetă privind primirea unor subvenții care au distorsionat concurența.",
+    "published": "2026-08-02T06:18:23",
+    "fetched": "2026-08-02T07:05:22.933949",
+    "title_uk": "Temu ризикує отримати рекордний штраф в Європі",
+    "summary_uk": "Компанія PDD Holding, власник Temu, може отримати штраф у розмірі 1% від обороту через відмову співпрацювати з європейськими органами в розслідуванні субсидій, що спотворюють конкуренцію. Рішення Комісії Європейської очікується найближчим часом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Temu ризикує отримати рекордний штраф в Європі",
+    "summary": "Компанія PDD Holding, власник Temu, може отримати штраф у розмірі 1% від обороту через відмову співпрацювати з європейськими органами в розслідуванні субсидій, що спотворюють конкуренцію. Рішення Комісії Європейської очікується найближчим часом.",
+    "link": "https://www.economica.net/probleme-pentru-temu-in-eruopa-risca-o-amenda-record-de-sute-de-milioane-de-euro-comisia-europeana-va-lua-decizia_964632.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e23569a61dfa",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/unde-ar-trebui-sa-locuiesti-ca-sa-poti-economisi-cel-mai-mult_962691.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Unde ar trebui să locuiești ca să poți economisi cel mai mult",
+    "body_orig": "O familie de români a economisit anul trecut, în medie, aproximativ 1.400 de lei pe lună, adică 14,5% din ceea ce a încasat. Sumele puse deoparte au fost ușor mai mici decât cu un an în urmă. Pensionarii economisesc cel mai mult.",
+    "published": "2026-08-01T19:01:05",
+    "fetched": "2026-08-02T07:05:22.933967",
+    "title_uk": "Румунські сім'ї заощаджують в середньому 1.400 леїв на місяць",
+    "summary_uk": "Середня економія румунських сімей у 2022 році становила 1.400 леїв на місяць, що дорівнює 14,5% від доходів. Ця сума трохи менша, ніж у попередньому році. Найбільше заощаджують пенсіонери.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економія"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунські сім'ї заощаджують в середньому 1.400 леїв на місяць",
+    "summary": "Середня економія румунських сімей у 2022 році становила 1.400 леїв на місяць, що дорівнює 14,5% від доходів. Ця сума трохи менша, ніж у попередньому році. Найбільше заощаджують пенсіонери.",
+    "link": "https://www.economica.net/unde-ar-trebui-sa-locuiesti-ca-sa-poti-economisi-cel-mai-mult_962691.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
