@@ -180018,5 +180018,1239 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "0fce68ec9af5",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/palantir-funnels-earnings-us-avoids-european-taxes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Palantir funnels earnings to US to avoid European taxes, report finds",
+    "body_orig": "A new study finds that Palantir, which boasts of high profit margins in the U.S., barely scrapes a margin in Europe, which helps slash its tax bill.",
+    "published": "2026-08-05T02:00:00",
+    "fetched": "2026-08-05T07:07:57.874892",
+    "title_uk": "Palantir зменшує податки, переказуючи прибутки до США",
+    "summary_uk": "Дослідження показало, що Palantir має високі прибутки в США, але майже не отримує прибутку в Європі. Це дозволяє компанії зменшувати свої податкові зобов'язання в ЄС. Стратегія полягає в переказуванні прибутків до США.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Palantir зменшує податки, переказуючи прибутки до США",
+    "summary": "Дослідження показало, що Palantir має високі прибутки в США, але майже не отримує прибутку в Європі. Це дозволяє компанії зменшувати свої податкові зобов'язання в ЄС. Стратегія полягає в переказуванні прибутків до США.",
+    "link": "https://www.politico.eu/article/palantir-funnels-earnings-us-avoids-european-taxes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "39f734fee18b",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Zarzad-musial-prostowac-slowa-Muska-Akcje-SpaceX-w-dol-po-wynikach-9178020.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zarząd musiał tonować słowa Muska. Akcje SpaceX w dół po wynikach",
+    "body_orig": "Podczas pierwszej w historii giełdowej telekonferencji SpaceX Elon Musk roztaczał przed akcjonariuszami wizję opanowania większości światowego rynku internetu w mniej niż dekadę oraz lotów rakiety Starship raz dziennie już w przyszłym roku, a jego słowa musieli łagodzić natychmiast obecni na konferencji dyrektorzy. Mimo lepszych od oczekiwań wyników nad notowaniami kosmicznego potentata wisi widmo czwartkowego wygaśnięcia blokady sprzedaży akcji, a notowania traciły w handlu posesyjnym do 8%.",
+    "published": "2026-08-05T06:34:00",
+    "fetched": "2026-08-05T07:08:00.940452",
+    "title_uk": "Акції SpaceX впали після прогнозів Ела Маска",
+    "summary_uk": "Елон Маск на конференції для акціонерів SpaceX окреслив амбітні плани з домінування на ринку інтернету та частоти запусків ракет Starship. Незважаючи на позитивні фінансові результати, акції компанії знизилися на 8% через наближення терміну закінчення блокування продажу акцій. Директори компанії змушені були пом'якшити його заяви.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Акції SpaceX впали після прогнозів Ела Маска",
+    "summary": "Елон Маск на конференції для акціонерів SpaceX окреслив амбітні плани з домінування на ринку інтернету та частоти запусків ракет Starship. Незважаючи на позитивні фінансові результати, акції компанії знизилися на 8% через наближення терміну закінчення блокування продажу акцій. Директори компанії змушені були пом'якшити його заяви.",
+    "link": "https://www.bankier.pl/wiadomosc/Zarzad-musial-prostowac-slowa-Muska-Akcje-SpaceX-w-dol-po-wynikach-9178020.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b73c260d85f6",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Rentownosc-najmu-spada-Tylko-jedno-miasto-oparlo-sie-spadkom-9177545.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Stopa zwrotu z najmu dociera do dna. Jest jeszcze gorzej niż rok temu",
+    "body_orig": "Stopa zwrotu z wynajmu mieszkań w największych polskich miastach wciąż maleje. Z najnowszych danych Otodom Analytics przeanalizowanych przez Bankier.pl wynika, że stopa zwrotu jest dziś zauważalnie niższa, przebijając ubiegłoroczne, i tak już słabe, wyniki i zbliżając się do historycznych minimów.",
+    "published": "2026-08-05T05:00:00",
+    "fetched": "2026-08-05T07:08:00.940470",
+    "title_uk": "Повернення з оренди житла в Польщі продовжує знижуватись",
+    "summary_uk": "У найбільших містах Польщі знизилась ставка повернення з оренди житла. Дані Otodom Analytics показують, що вона стала ще нижчою, ніж у минулому році, наближаючись до історичних мінімумів. Це свідчить про погіршення ситуації на ринку оренди.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження ставок повернення з оренди може вплинути на попит на товари для дому. Розгляньте адаптацію асортименту до нових умов.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження попиту на оренду може вплинути на продажі товарів для дому. Рекомендується переглянути стратегії просування та асортимент."
+    },
+    "tags": [
+      "ринок",
+      "ціни-сировина",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Повернення з оренди житла в Польщі продовжує знижуватись",
+    "summary": "У найбільших містах Польщі знизилась ставка повернення з оренди житла. Дані Otodom Analytics показують, що вона стала ще нижчою, ніж у минулому році, наближаючись до історичних мінімумів. Це свідчить про погіршення ситуації на ринку оренди.",
+    "link": "https://www.bankier.pl/wiadomosc/Rentownosc-najmu-spada-Tylko-jedno-miasto-oparlo-sie-spadkom-9177545.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a418494b1226",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/lotnisko-w-radomiu-tnie-etaty-prace-moze-stracic-jedna-trzecia-zalogi/mtskltg",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ogromne straty polskiego lotniska. Nawet 30 proc. załogi do zwolnienia",
+    "body_orig": "Lotnisko Warszawa-Radom ma kłopoty — z jednej strony ponad 61 mln zł strat i konieczność redukcji zatrudnienia, z drugiej — trwające prokuratorskie śledztwo dotyczące przekroczenia uprawnień przez byłych menedżerów. Jak informuje TVN24, pracę może stracić nawet 30 proc. załogi.",
+    "published": "2026-08-05T06:56:35",
+    "fetched": "2026-08-05T07:08:02.753418",
+    "title_uk": "Польське летовище зазнало великих збитків і скорочує персонал",
+    "summary_uk": "Летовище Варшава-Радом повідомило про збитки понад 61 млн zł та можливе скорочення до 30% працівників. Водночас триває розслідування щодо дій колишніх менеджерів. Ця ситуація ставить під загрозу стабільність роботи аеропорту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Скорочення персоналу може призвести до зменшення обсягів обслуговування аеропорту, що вплине на дистрибуцію товарів у сегменті HoReCa.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "FMCG",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польське летовище зазнало великих збитків і скорочує персонал",
+    "summary": "Летовище Варшава-Радом повідомило про збитки понад 61 млн zł та можливе скорочення до 30% працівників. Водночас триває розслідування щодо дій колишніх менеджерів. Ця ситуація ставить під загрозу стабільність роботи аеропорту.",
+    "link": "https://businessinsider.com.pl/gospodarka/lotnisko-w-radomiu-tnie-etaty-prace-moze-stracic-jedna-trzecia-zalogi/mtskltg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "920e8acd4208",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/firmy/spacex-pod-presja-inwestorow-wyniki-rozczarowaly-rynek-akcje-spadly/hb4zje1",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kosmiczny biznes Muska rośnie, ale pochłania miliardy. Spółka ujawniła pierwsze wyniki",
+    "body_orig": "SpaceX po raz pierwszy jako spółka giełdowa opublikowała wyniki finansowe. Firma Elona Muska niemal podwoiła przychody w porównaniu z ubiegłym rokiem, ale jednocześnie jej wydatki wzrosły ponad sześciokrotnie. Inwestorzy zareagowali nerwowo — po publikacji raportu kurs akcji spadł o blisko 9 proc., ale jednocześnie koszty działalności wzrosły o... 550 proc.",
+    "published": "2026-08-05T05:58:58",
+    "fetched": "2026-08-05T07:08:02.753433",
+    "title_uk": "SpaceX опублікувала фінансові результати, витрати зросли в 6 разів",
+    "summary_uk": "SpaceX вперше оприлюднила фінансові результати як публічна компанія. Прибутки зросли майже вдвічі в порівнянні з минулим роком, але витрати зросли на 550%. Після звіту акції компанії впали на 9%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "SpaceX опублікувала фінансові результати, витрати зросли в 6 разів",
+    "summary": "SpaceX вперше оприлюднила фінансові результати як публічна компанія. Прибутки зросли майже вдвічі в порівнянні з минулим роком, але витрати зросли на 550%. Після звіту акції компанії впали на 9%.",
+    "link": "https://businessinsider.com.pl/firmy/spacex-pod-presja-inwestorow-wyniki-rozczarowaly-rynek-akcje-spadly/hb4zje1",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "97290dc9e4ee",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/rekord-wig20-najwieksze-sukcesy-i-porazki-gieldowe-po-powrocie-na-szczyt/cqcg210",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "WIG20 bije rekordy po prawie 19 latach przerwy. To najwięksi wygrani i przegrani",
+    "body_orig": "Najbardziej prestiżowy indeks warszawskiej giełdy, uważnie obserwowany przez zagranicznych inwestorów, znacząco się zmienił od poprzedniego rekordu z 2007 r. Część dawnych liderów zniknęła (np. TVN). Niektóre, jak Bioton, stały się symbolem porażki. W centrum uwagi wtedy i teraz są Orlen czy PKO BP, ale na innych akcjach można było się dorobić fortuny.",
+    "published": "2026-08-05T05:18:59",
+    "fetched": "2026-08-05T07:08:02.753443",
+    "title_uk": "Індекс WIG20 на Варшавській біржі досягає рекорду після 19 років",
+    "summary_uk": "Індекс WIG20 досяг рекорду вперше з 2007 року, змінившись за цей час. Деякі компанії, як TVN, зникли, а інші, зокрема Orlen та PKO BP, залишаються в центрі уваги. Інвестори можуть отримати вигоду з нових акцій на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання індексу може свідчити про покращення економічної ситуації в Польщі, що позитивно вплине на споживчий попит.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання індексу може свідчити про зміни в споживчих перевагах, що варто врахувати при формуванні асортименту."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Індекс WIG20 на Варшавській біржі досягає рекорду після 19 років",
+    "summary": "Індекс WIG20 досяг рекорду вперше з 2007 року, змінившись за цей час. Деякі компанії, як TVN, зникли, а інші, зокрема Orlen та PKO BP, залишаються в центрі уваги. Інвестори можуть отримати вигоду з нових акцій на ринку.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/rekord-wig20-najwieksze-sukcesy-i-porazki-gieldowe-po-powrocie-na-szczyt/cqcg210",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ff0d531f27a0",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/koszyk-seniora-czerwiec-2026",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Co trzecią złotówkę z emerytury seniorzy przeznaczają na podstawowe zakupy",
+    "body_orig": "Obniżki cen w sklepach w czerwcu nie przyniosły najstarszym konsumentom ulgi przy kasie. Koszt podstawowych zakupów dla jednoosobowego gospodarstwa emeryta spadł w ciągu miesiąca zaledwie o 1,88 zł, do 529,59 zł – wynika z raportu „Indeks Miesięcznych Zakupów”. Taki koszyk nadal pochłania 29,41 proc. minimalnej emerytury netto seniora, a w skali roku podrożał o 2,58 proc.\n– Czerwcowe obniżki niemal ominęły seniorów. Singiel zaoszczędził ponad 28 zł, rodzina 2+2 – przeszło 31 zł, a emeryt – zaledwie 1,88 zł. Senior otrzymał więc najmniejszą ulgę, mimo że jego koszyk pochłania zdecydowanie największą część dochodu – blisko 30 proc. minimalnej emerytury – mówi Michał Tomaszkiewicz, współautor „Indeksu Miesięcznych Zakupów”.\nW przypadku seniora różnica nie wystarczyłaby nawet na pokrycie dziennego kosztu analizowanych zakupów, który wyniósł średnio 17,65 zł.\nZ miesięcznego rachunku ubyło 1,88 zł\nW czerwcu koszyk seniora potaniał o 0,35 proc. w porównaniu z majem. Był to najmniejszy miesięczny spadek wartości spośród wszystkich profili uwzględnionych w analizie.\nObniżka cen w skali miesiąca nie zmieniła rocznego obrazu. Za ten sam zestaw produktów senior płaci obecnie o 13,32 zł więcej niż w czerwcu 2025 r. Osobista inflacja zakupowa tej grupy wyniosła 2,58 proc. i była najwyższa spośród analizowanych gospodarstw.\nWskaźnik osobistej inflacji pokazuje, jak zmienia się cena konkretnego zestawu produktów kupowanych przez daną grupę. Nie musi więc odpowiadać ogólnemu wskaźnikowi inflacji konsumenckiej publikowanemu przez GUS, który obejmuje znacznie więcej towarów i usług.\nPodstawowe zakupy zabierają niemal jedną trzecią świadczenia\nMinimalna emerytura netto wynosiła w czerwcu 1800,43 zł. Koszyk seniora o wartości 529,59 zł odpowiadał 29,41 proc. tej kwoty.\nMiesiąc wcześniej udział ten sięgał 29,52 proc. Spadek cen przy niezmienionej wysokości świadczenia przyniósł więc niewielką poprawę, liczoną w setnych częściach punktu procentowego. Korzystniej wygląda natomiast roczna zmiana – w czerwcu 2025 r. minimalne świadczenie wynosiło 1709,81 zł, a analizowane zakupy kosztowały 516,27 zł. Pochłaniały wtedy 30,19 proc. dochodu seniora.\nTegoroczna waloryzacja emerytur wyprzedziła zatem wzrost wartości koszyka. W ciągu roku jego udział w minimalnym świadczeniu zmniejszył się o 0,78 pkt proc., choć sam rachunek w sklepie wzrósł.\nRyby droższe niemal o 10 proc.\nNajmocniej w skali roku podrożały ryby. Seniorzy płacili za nie w czerwcu o 9,83 proc. więcej niż przed rokiem. W ujęciu miesięcznym wzrost wyniósł 7 proc.\n– Wzrost cen ryb wynika przede wszystkim z wyższych kosztów połowów, hodowli, transportu i przetwórstwa oraz ograniczonej podaży części gatunków – wyjaśnia dr Joanna Myślińska-Wieprow, ekonomistka i wykładowczyni Uniwersytetu WSB Merito. Na ceny tej kategorii wpływa także sytuacja poza Polską. Rynek jest uzależniony od importu oraz globalnych kosztów transportu i produkcji, dlatego zmiany na światowych rynkach trafiają później na sklepowe półki.\nW ujęciu r",
+    "published": "2026-08-04T21:03:57",
+    "fetched": "2026-08-05T07:08:03.717783",
+    "title_uk": "Старші споживачі витрачають третину пенсії на основні покупки",
+    "summary_uk": "За даними звіту, в червні вартість основних покупок для пенсіонерів знизилася лише на 2 zł до 530 zł. Це становить 29% від мінімальної пенсії, яка в червні становила 1800 zł. За рік ціни на покупки зросли на 2.6%. Найбільше подорожчали риби — на 10%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін не дало значної вигоди пенсіонерам. Розгляньте адаптацію асортименту для цієї групи споживачів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на категорії, що подорожчали, особливо рибу. Це може вплинути на ціноутворення та промо-акції."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Старші споживачі витрачають третину пенсії на основні покупки",
+    "summary": "За даними звіту, в червні вартість основних покупок для пенсіонерів знизилася лише на 2 zł до 530 zł. Це становить 29% від мінімальної пенсії, яка в червні становила 1800 zł. За рік ціни на покупки зросли на 2.6%. Найбільше подорожчали риби — на 10%.",
+    "link": "https://300gospodarka.pl/news/koszyk-seniora-czerwiec-2026",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9376deb7bf4",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/polska-wchodzi-do-gry-o-patrioty-jest-zdecydowana-deklaracja-7315053417244736a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska wchodzi do gry o Patrioty. Jest zdecydowana deklaracja",
+    "body_orig": "Polska chce wejść do grona państw produkujących rakiety Patriot. Wiceszef MON Cezary Tomczyk ujawnia, że Warszawa przekazała Amerykanom gotowość do uruchomienia produkcji w Polsce.",
+    "published": "2026-08-05T04:06:13",
+    "fetched": "2026-08-05T07:08:04.691569",
+    "title_uk": "Польща планує виробництво ракет Patriot на своїй території",
+    "summary_uk": "Польща висловила готовність до виробництва ракет Patriot на своїй території. Віцеміністр оборони Цезарій Томчик підтвердив, що країна звернулася до США з пропозицією розпочати виробництво. Це може зміцнити обороноздатність Польщі та залучити інвестиції в оборонну промисловість.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може створити нові можливості для польських дистриб'юторів в оборонній сфері, якщо з'являться нові контракти на постачання компонентів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща планує виробництво ракет Patriot на своїй території",
+    "summary": "Польща висловила готовність до виробництва ракет Patriot на своїй території. Віцеміністр оборони Цезарій Томчик підтвердив, що країна звернулася до США з пропозицією розпочати виробництво. Це може зміцнити обороноздатність Польщі та залучити інвестиції в оборонну промисловість.",
+    "link": "https://www.money.pl/gospodarka/polska-wchodzi-do-gry-o-patrioty-jest-zdecydowana-deklaracja-7315053417244736a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "33580ac8bfd2",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/fitch-turkiye-to-remain-major-em-debt-sukuk-issuer-225235",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Fitch: Türkiye to remain major EM debt, sukuk issuer",
+    "body_orig": "Türkiye is likely to remain a major global sukuk and emerging-market debt issuer in 2026, driven by high external financing needs, upcoming maturities, wider fiscal deficits and efforts to diversify funding sources, Fitch Ratings said in a new report.",
+    "published": "2026-08-05T06:47:51",
+    "fetched": "2026-08-05T07:08:20.067025",
+    "title_uk": "Fitch прогнозує, що Туреччина залишиться великим емітентом боргу",
+    "summary_uk": "Fitch Ratings вказує, що Туреччина залишиться значним емітентом сукуків та боргових зобов'язань на ринку, зокрема у 2026 році. Це зумовлено високими потребами у зовнішньому фінансуванні, майбутніми погашеннями та розширенням бюджетного дефіциту. Туреччина також намагається диверсифікувати свої джерела фінансування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Fitch прогнозує, що Туреччина залишиться великим емітентом боргу",
+    "summary": "Fitch Ratings вказує, що Туреччина залишиться значним емітентом сукуків та боргових зобов'язань на ринку, зокрема у 2026 році. Це зумовлено високими потребами у зовнішньому фінансуванні, майбутніми погашеннями та розширенням бюджетного дефіциту. Туреччина також намагається диверсифікувати свої джерела фінансування.",
+    "link": "https://www.hurriyetdailynews.com/fitch-turkiye-to-remain-major-em-debt-sukuk-issuer-225235",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb2bea142085",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/global-banks-expect-turkish-rate-cut-later-this-year-225234",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Global banks expect Turkish rate cut later this year",
+    "body_orig": "International banks have published updated inflation and interest-rate forecasts for Türkiye following the release of July inflation data, with BBVA Research expecting the policy rate to decline to 36 percent by year-end if conditions allow, while Citi maintained a cautious stance on monetary policy and Goldman Sachs argued that interest rates may need to remain elevated for longer.",
+    "published": "2026-08-05T06:47:00",
+    "fetched": "2026-08-05T07:08:20.067039",
+    "title_uk": "Глобальні банки прогнозують зниження ставок у Туреччині до кінця року",
+    "summary_uk": "Міжнародні банки оновили прогнози щодо інфляції та процентних ставок у Туреччині. BBVA Research очікує, що базова ставка знизиться до 36% до кінця року, якщо умови дозволять. Citi дотримується обережної позиції, а Goldman Sachs вважає, що ставки можуть залишатися високими довше.",
+    "what_it_means": {
+      "ua_importer": "Зниження ставок може зменшити вартість кредитів для українських імпортерів, що працюють з Туреччиною. Це може полегшити фінансування імпорту товарів з Туреччини.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Глобальні банки прогнозують зниження ставок у Туреччині до кінця року",
+    "summary": "Міжнародні банки оновили прогнози щодо інфляції та процентних ставок у Туреччині. BBVA Research очікує, що базова ставка знизиться до 36% до кінця року, якщо умови дозволять. Citi дотримується обережної позиції, а Goldman Sachs вважає, що ставки можуть залишатися високими довше.",
+    "link": "https://www.hurriyetdailynews.com/global-banks-expect-turkish-rate-cut-later-this-year-225234",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6ee407bdc10a",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/higher-oil-prices-lift-energy-majors-second-quarter-profits-225233",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Higher oil prices lift energy majors’ second-quarter profits",
+    "body_orig": "Major energy companies reported sharp increases in second-quarter profits as the war in the Middle East pushed oil and gas prices higher and strengthened refining margins.",
+    "published": "2026-08-05T06:16:50",
+    "fetched": "2026-08-05T07:08:20.067050",
+    "title_uk": "Ціни на нафту підвищують прибутки енергетичних компаній у Q2",
+    "summary_uk": "Великі енергетичні компанії зафіксували значне зростання прибутків у другому кварталі через підвищення цін на нафту та газ, викликане війною на Близькому Сході. Зміцнення маржі переробки також сприяло покращенню фінансових показників. Конкретні цифри не наводяться.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання цін на нафту може вплинути на витрати на сировину. Рекомендується переглянути ціноутворення для збереження маржі.",
+      "category_manager": "Зміна цін на нафту може вплинути на вартість товарів у категоріях, пов'язаних з енергетикою. Перегляньте стратегії закупівель та ціноутворення."
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту підвищують прибутки енергетичних компаній у Q2",
+    "summary": "Великі енергетичні компанії зафіксували значне зростання прибутків у другому кварталі через підвищення цін на нафту та газ, викликане війною на Близькому Сході. Зміцнення маржі переробки також сприяло покращенню фінансових показників. Конкретні цифри не наводяться.",
+    "link": "https://www.hurriyetdailynews.com/higher-oil-prices-lift-energy-majors-second-quarter-profits-225233",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "90a03d2d22a9",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/cathay-pacific-says-profit-soars-71-pct-in-first-half-225231",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Cathay Pacific says profit soars 71 pct in first half",
+    "body_orig": "Hong Kong carrier Cathay Pacific said on Aug. 5 that net profit surged 71 percent in the first half of the year, as demand from passengers avoiding the Middle East offset a near doubling of fuel costs caused by the Iran war.",
+    "published": "2026-08-05T06:08:06",
+    "fetched": "2026-08-05T07:08:20.067059",
+    "title_uk": "Cathay Pacific збільшує прибуток на 71% у першій половині року",
+    "summary_uk": "Авіакомпанія Cathay Pacific повідомила про збільшення чистого прибутку на 71% у першій половині року. Зростання попиту на перевезення пасажирів, які уникали подорожей до Близького Сходу, компенсувало майже подвоєння витрат на паливо через війну в Ірані. Компанія продовжує відновлюватися після пандемії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Cathay Pacific збільшує прибуток на 71% у першій половині року",
+    "summary": "Авіакомпанія Cathay Pacific повідомила про збільшення чистого прибутку на 71% у першій половині року. Зростання попиту на перевезення пасажирів, які уникали подорожей до Близького Сходу, компенсувало майже подвоєння витрат на паливо через війну в Ірані. Компанія продовжує відновлюватися після пандемії.",
+    "link": "https://www.hurriyetdailynews.com/cathay-pacific-says-profit-soars-71-pct-in-first-half-225231",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9a9fee50fb42",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/indonesias-economic-growth-slows-in-second-quarter-225229",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Indonesia's economic growth slows in second quarter",
+    "body_orig": "Indonesia's economic growth slowed slightly in the second quarter of the year, though the data released by the statistics agency Wednesday still beat expectations thanks to strong household and government spending.",
+    "published": "2026-08-05T06:00:46",
+    "fetched": "2026-08-05T07:08:20.067077",
+    "title_uk": "Економічне зростання Індонезії сповільнилося у другому кварталі",
+    "summary_uk": "Економічне зростання Індонезії знизилося у другому кварталі, проте дані перевищили очікування завдяки сильним витратам домогосподарств та уряду. Відповідні дані оприлюднені статистичним агентством. Зростання показників свідчить про стійкість економіки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження темпів зростання може свідчити про можливі зміни в попиті на імпортні товари з Індонезії. Рекомендується переглянути стратегії виходу на ринок.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Економічне зростання Індонезії сповільнилося у другому кварталі",
+    "summary": "Економічне зростання Індонезії знизилося у другому кварталі, проте дані перевищили очікування завдяки сильним витратам домогосподарств та уряду. Відповідні дані оприлюднені статистичним агентством. Зростання показників свідчить про стійкість економіки.",
+    "link": "https://www.hurriyetdailynews.com/indonesias-economic-growth-slows-in-second-quarter-225229",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "74fac82780b2",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/amd-shares-fall-7-as-sales-outlook-fails-to-meet-ai-expectations/4018574",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "AMD shares fall 7% as sales outlook fails to meet AI expectations",
+    "body_orig": "Chipmaker forecasts third-quarter revenue of about $13B",
+    "published": "2026-08-04T22:29:08",
+    "fetched": "2026-08-05T07:08:21.833340",
+    "title_uk": "Акції AMD впали на 7% через невідповідність прогнозів продажів",
+    "summary_uk": "AMD прогнозує дохід у третьому кварталі близько $13 млрд. Це не відповідає очікуванням ринку, пов'язаним із попитом на технології штучного інтелекту. Внаслідок цього акції компанії знизилися на 7%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Акції AMD впали на 7% через невідповідність прогнозів продажів",
+    "summary": "AMD прогнозує дохід у третьому кварталі близько $13 млрд. Це не відповідає очікуванням ринку, пов'язаним із попитом на технології штучного інтелекту. Внаслідок цього акції компанії знизилися на 7%.",
+    "link": "https://www.aa.com.tr/en/economy/amd-shares-fall-7-as-sales-outlook-fails-to-meet-ai-expectations/4018574",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d654108fb434",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4018674",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa güne yükselişle başladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,14 yükselişle 13.707,73 puandan başladı.",
+    "published": "2026-08-05T06:59:56",
+    "fetched": "2026-08-05T07:08:23.209187",
+    "title_uk": "Borsa İstanbul відкривається з незначним зростанням",
+    "summary_uk": "Індекс BIST 100 на Borsa İstanbul зріс на 0,14% і стартував з 13.708 пунктів. Це свідчить про позитивний настрій інвесторів на початку торгів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Borsa İstanbul відкривається з незначним зростанням",
+    "summary": "Індекс BIST 100 на Borsa İstanbul зріс на 0,14% і стартував з 13.708 пунктів. Це свідчить про позитивний настрій інвесторів на початку торгів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4018674",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c6270bb076e0",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/thy-yilin-ilk-yarisinda-18-milyar-864-milyon-lira-kar-etti/4018664",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "THY yılın ilk yarısında 18 milyar 864 milyon lira kar etti",
+    "body_orig": "Türk Hava Yollarının (THY) konsolide net karı yılın ilk yarısında 18 milyar 864 milyon lira oldu.",
+    "published": "2026-08-05T06:52:10",
+    "fetched": "2026-08-05T07:08:23.209202",
+    "title_uk": "Turkish Airlines отримала прибуток €1.9 млрд у першій половині року",
+    "summary_uk": "Türk Hava Yolları (THY) повідомила про чистий прибуток у €1.9 млрд за перші шість місяців 2026 року. Це свідчить про стабільне фінансове становище компанії на фоні відновлення авіаційного ринку. Зростання прибутків може бути пов'язане з підвищенням попиту на авіаперевезення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання прибутку THY може свідчити про відновлення ринку авіаперевезень. Це позитивний сигнал для турецьких виробників, які планують експансію на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Turkish Airlines отримала прибуток €1.9 млрд у першій половині року",
+    "summary": "Türk Hava Yolları (THY) повідомила про чистий прибуток у €1.9 млрд за перші шість місяців 2026 року. Це свідчить про стабільне фінансове становище компанії на фоні відновлення авіаційного ринку. Зростання прибутків може бути пов'язане з підвищенням попиту на авіаперевезення.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/thy-yilin-ilk-yarisinda-18-milyar-864-milyon-lira-kar-etti/4018664",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "70a63654aa83",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/aselsanin-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu/4018453",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ASELSAN'ın ilk 6 aylık cirosu 88,5 milyar lira oldu",
+    "body_orig": "ASELSAN'ın cirosu, yılın ilk 6 ayında geçen yılın aynı dönemine göre yüzde 25 artışla 88,5 milyar liraya ulaştı.",
+    "published": "2026-08-04T17:49:44",
+    "fetched": "2026-08-05T07:08:23.209242",
+    "title_uk": "ASELSAN збільшив виручку на 25% до 88,5 млрд лір",
+    "summary_uk": "Виручка компанії ASELSAN за перші шість місяців зросла на 25% у порівнянні з минулим роком, досягнувши 88,5 млрд лір. Це свідчить про стабільне зростання в секторі оборонних технологій. Компанія продовжує розширювати свої можливості на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання виручки ASELSAN може свідчити про зростаючий попит на оборонні технології, що може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні та Польщі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ASELSAN збільшив виручку на 25% до 88,5 млрд лір",
+    "summary": "Виручка компанії ASELSAN за перші шість місяців зросла на 25% у порівнянні з минулим роком, досягнувши 88,5 млрд лір. Це свідчить про стабільне зростання в секторі оборонних технологій. Компанія продовжує розширювати свої можливості на ринку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/aselsanin-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu/4018453",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9e05813ed52",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/anul-2026-se-va-inchide-cu-un-deficit-bugetar-de-sub-6-din-pib-dar-ce-se-va-intampla-cu-deficitul-in-2027-cand-dispar-veniturile-din-pnrr-9-mld-euro-asteptate-in-2026-23210173",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Anul 2026 se va închide cu un deficit bugetar de sub 6% din PIB. Dar ce se va întâmpla cu deficitul în 2027 când dispar veniturile din PNRR – 9 mld. euro aşteptate în 2026?",
+    "body_orig": "Deficitul bugetar pe acest an va fi de 5,9% din PIB, faţă de 6,2% din PIB cât s-a stabilit prin legea bugetului, anticipează agenţia americană de evaluare financiară, Fitch în ultimul raport de rating pentru România. De ce nu 4% din PIB sau patru şi un pic, de vreme ce în semestrul întâi deficitul a fost de 2% din PIB? Pentru că, mereu, în a doua parte a anului cheltuielile au fost mai mari decât în prima parte, explică economiştii. Iar datele Finanţelor arată că au fost ani în care deficitul în semestrul al doilea a fost mai mare decât deficitul din primul semestru chiar şi cu 2% din PIB.",
+    "published": "2026-08-05T07:00:00",
+    "fetched": "2026-08-05T07:08:25.377612",
+    "title_uk": "Румунія очікує дефіцит бюджету 5,9% у 2026 році",
+    "summary_uk": "Агентство Fitch прогнозує, що дефіцит бюджету Румунії у 2026 році становитиме 5,9% від ВВП, що нижче запланованих 6,2%. Основною причиною є традиційно вищі витрати у другій половині року. У 2027 році країна може зіткнутися з проблемами через відсутність доходів від PNRR у розмірі €9 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія очікує дефіцит бюджету 5,9% у 2026 році",
+    "summary": "Агентство Fitch прогнозує, що дефіцит бюджету Румунії у 2026 році становитиме 5,9% від ВВП, що нижче запланованих 6,2%. Основною причиною є традиційно вищі витрати у другій половині року. У 2027 році країна може зіткнутися з проблемами через відсутність доходів від PNRR у розмірі €9 млрд.",
+    "link": "https://www.zf.ro/banci-si-asigurari/anul-2026-se-va-inchide-cu-un-deficit-bugetar-de-sub-6-din-pib-dar-ce-se-va-intampla-cu-deficitul-in-2027-cand-dispar-veniturile-din-pnrr-9-mld-euro-asteptate-in-2026-23210173",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8092087a3bff",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-robert-burlan-raiffeisen-am-se-vede-un-apetit-mai-mare-pentru-fondurile-cu-risc-crescut-cum-s-a-modificat-comportamentul-investitorilor-de-retail-datorita-performantelor-bursiere-23210207",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Robert Burlan, Raiffeisen AM: „Se vede un apetit mai mare pentru fondurile cu risc crescut“. Cum s-a modificat comportamentul investitorilor de retail datorită performanţelor bursiere?",
+    "body_orig": "Robert Burlan, director de investiţii la Raiffeisen AM, cu active de 9 mld. lei, spune că investitorii de retail au realizat oportunitatea investiţională oferită de piaţa locală după ce indicele BET a avut o evoluţie extraordinară în ultimii ani.",
+    "published": "2026-08-05T07:00:00",
+    "fetched": "2026-08-05T07:08:25.377622",
+    "title_uk": "Інвестори в Румунії проявляють більший інтерес до ризикових фондів",
+    "summary_uk": "Роберт Бурлан з Raiffeisen AM зазначає зростання інтересу інвесторів до ризикових фондів. Це пов'язано з позитивною динамікою індексу BET, який показав хороші результати останніми роками. Активи Raiffeisen AM становлять €2.0 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Інвестори в Румунії проявляють більший інтерес до ризикових фондів",
+    "summary": "Роберт Бурлан з Raiffeisen AM зазначає зростання інтересу інвесторів до ризикових фондів. Це пов'язано з позитивною динамікою індексу BET, який показав хороші результати останніми роками. Активи Raiffeisen AM становлять €2.0 млрд.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-robert-burlan-raiffeisen-am-se-vede-un-apetit-mai-mare-pentru-fondurile-cu-risc-crescut-cum-s-a-modificat-comportamentul-investitorilor-de-retail-datorita-performantelor-bursiere-23210207",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "805b215f74b5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-ce-s-a-schimbat-la-cris-tim-de-si-a-triplat-evaluarea-la-4-mld-lei-in-nici-un-an-de-la-listare-de-la-16-5-lei-la-oferta-din-toamna-actiunile-sunt-acum-aproape-50-de-lei-23210209",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Ce s-a schimbat la Cris-Tim de şi-a triplat evaluarea la 4 mld. lei în nici un an de la listare? De la 16,5 lei la oferta din toamnă, acţiunile sunt acum aproape 50 de lei",
+    "body_orig": "Acţiunile Cris-Tim Family Holding (CFH) au urcat marţi până la 49,8 lei, de trei ori peste preţul de 16,5 lei din oferta publică iniţială derulată în octombrie 2025, ceea ce ridică evaluarea producătorului de mezeluri la circa 4 mld. lei, de la 1,33 mld. lei la listare.",
+    "published": "2026-08-05T07:00:00",
+    "fetched": "2026-08-05T07:08:25.377632",
+    "title_uk": "Cris-Tim подвоїв свою оцінку до 4 млрд леїв за рік",
+    "summary_uk": "Акції Cris-Tim Family Holding зросли до 49,8 леїв, що втричі більше за ціну IPO в 16,5 леїв. Це підвищило оцінку компанії до приблизно 4 млрд леїв, порівняно з 1,33 млрд леїв на момент виходу на біржу. Зростання відбулося всього за рік.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання акцій Cris-Tim може свідчити про підвищення попиту на м'ясні продукти. Розгляньте можливість співпраці з компанією для розширення асортименту."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Cris-Tim подвоїв свою оцінку до 4 млрд леїв за рік",
+    "summary": "Акції Cris-Tim Family Holding зросли до 49,8 леїв, що втричі більше за ціну IPO в 16,5 леїв. Це підвищило оцінку компанії до приблизно 4 млрд леїв, порівняно з 1,33 млрд леїв на момент виходу на біржу. Зростання відбулося всього за рік.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-ce-s-a-schimbat-la-cris-tim-de-si-a-triplat-evaluarea-la-4-mld-lei-in-nici-un-an-de-la-listare-de-la-16-5-lei-la-oferta-din-toamna-actiunile-sunt-acum-aproape-50-de-lei-23210209",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "56c2d78a3670",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/ministerul-finantelor-firmele-care-si-au-platit-la-timp-impozitele-pentru-2025-vor-primi-automat-o-bonificatie-de-3-23210454",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ministerul Finanţelor: Firmele care şi-au plătit la timp impozitele pentru 2025 vor primi automat o bonificaţie de 3%",
+    "body_orig": "",
+    "published": "2026-08-05T06:56:28",
+    "fetched": "2026-08-05T07:08:25.377642",
+    "title_uk": "Румунські компанії отримають 3% знижку за вчасну сплату податків",
+    "summary_uk": "Міністерство фінансів Румунії оголосило про автоматичну знижку 3% для компаній, які сплатять податки за 2025 рік вчасно. Це рішення має на меті стимулювати бізнес до своєчасних платежів. Очікується, що це підвищить надходження до бюджету.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунські компанії отримають 3% знижку за вчасну сплату податків",
+    "summary": "Міністерство фінансів Румунії оголосило про автоматичну знижку 3% для компаній, які сплатять податки за 2025 рік вчасно. Це рішення має на меті стимулювати бізнес до своєчасних платежів. Очікується, що це підвищить надходження до бюджету.",
+    "link": "https://www.zf.ro/banci-si-asigurari/ministerul-finantelor-firmele-care-si-au-platit-la-timp-impozitele-pentru-2025-vor-primi-automat-o-bonificatie-de-3-23210454",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f14d377bca58",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-one-united-properties-raporteaza-tranzactii-rezidentiale-106-mil-euro-s1-2026-pretul-mediu-locuintelor-contractate-urcat-24-trei-patru-unitati-aflate-constructie-contractate-23210440",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. One United Properties raportează tranzacţii rezidenţiale de 106 mil. euro în S1/2026; preţul mediu al locuinţelor contractate a urcat cu 24%; trei din patru unităţi aflate în construcţie sunt deja contractate",
+    "body_orig": "",
+    "published": "2026-08-05T06:31:00",
+    "fetched": "2026-08-05T07:08:25.377661",
+    "title_uk": "One United Properties звітує про €106 млн у продажах житла",
+    "summary_uk": "One United Properties повідомила про обсяги продажів житла на рівні €106 млн за перше півріччя 2026 року. Середня ціна контрактованих квартир зросла на 24%. Три з чотирьох об'єктів, що будуються, вже мають укладені угоди.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця інформація може бути корисною для категорійних менеджерів у ритейлі, які слідкують за тенденціями цін на житло, оскільки зростання цін може вплинути на купівельну спроможність споживачів."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "One United Properties звітує про €106 млн у продажах житла",
+    "summary": "One United Properties повідомила про обсяги продажів житла на рівні €106 млн за перше півріччя 2026 року. Середня ціна контрактованих квартир зросла на 24%. Три з чотирьох об'єктів, що будуються, вже мають укладені угоди.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-one-united-properties-raporteaza-tranzactii-rezidentiale-106-mil-euro-s1-2026-pretul-mediu-locuintelor-contractate-urcat-24-trei-patru-unitati-aflate-constructie-contractate-23210440",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2470160bc1f0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/firme-dizolvate-onrc-semestrul-unu_965482.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Val de dizolvări de firme în România: Bucureștiul și Clujul conduc topul radierilor în primul semestru din 2026",
+    "body_orig": "Mediul de afaceri autohton arată o vulnerabilitate crescută în prima jumătate a anului. Datele centralizate oficial de Oficiul Național al Registrului Comerțului (ONRC) relevă că numărul firmelor dizolvate în România a crescut cu 12,95% în primul semestru din 2026. Indicatorul a atins un volum de 29.818 companii, comparativ cu 26.400 de entități raportate în perioada similară din 2025.",
+    "published": "2026-08-05T07:03:54",
+    "fetched": "2026-08-05T07:08:27.486779",
+    "title_uk": "Зростання кількості ліквідованих компаній у Румунії",
+    "summary_uk": "У першій половині 2026 року в Румунії ліквідовано 29.818 компаній, що на 13% більше, ніж у 2025. Найбільше ліквідацій зафіксовано в Бухаресті та Клужі. Це свідчить про зростаючу вразливість бізнес-середовища.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання кількості ліквідованих компаній у Румунії",
+    "summary": "У першій половині 2026 року в Румунії ліквідовано 29.818 компаній, що на 13% більше, ніж у 2025. Найбільше ліквідацій зафіксовано в Бухаресті та Клужі. Це свідчить про зростаючу вразливість бізнес-середовища.",
+    "link": "https://www.economica.net/firme-dizolvate-onrc-semestrul-unu_965482.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bdf4cba7522f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ministerul-finantelor-a-aprobat-procedura-de-acordare-a-bonificatiei-de-3-din-impozitul-pe-profit-si-impozitul-pe-veniturile-microintreprinderilor_965478.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ministerul Finanțelor a aprobat procedura de acordare a bonificației de 3% din impozitul pe profit și impozitul pe veniturile microîntreprinderilor",
+    "body_orig": "Ministrul Finanțelor a avizat Ordinul pentru aprobarea Procedurii de acordare a bonificației de 3% din impozitul pe profit anual și din impozitul pe veniturile microîntreprinderilor aferente anului fiscal 2025. Ordinul pune în aplicare prevederile art.7 din Ordonanța de urgență a Guvernului nr.8/2026 și stabilește mecanismul prin care această facilitate fiscală va fi acordată contribuabililor eligibili.",
+    "published": "2026-08-05T07:02:50",
+    "fetched": "2026-08-05T07:08:27.486795",
+    "title_uk": "Румунія запроваджує 3% бонус на податок на прибуток для мікропідприємств",
+    "summary_uk": "Міністерство фінансів Румунії затвердило порядок надання 3% бонусу на податок на прибуток та податок на доходи мікропідприємств за 2025 рік. Ця ініціатива реалізує положення урядової постанови і визначає механізм надання податкової пільги. Очікується, що це полегшить фінансовий тягар для малих підприємств.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунія запроваджує 3% бонус на податок на прибуток для мікропідприємств",
+    "summary": "Міністерство фінансів Румунії затвердило порядок надання 3% бонусу на податок на прибуток та податок на доходи мікропідприємств за 2025 рік. Ця ініціатива реалізує положення урядової постанови і визначає механізм надання податкової пільги. Очікується, що це полегшить фінансовий тягар для малих підприємств.",
+    "link": "https://www.economica.net/ministerul-finantelor-a-aprobat-procedura-de-acordare-a-bonificatiei-de-3-din-impozitul-pe-profit-si-impozitul-pe-veniturile-microintreprinderilor_965478.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a657ce323eb1",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fngcimm-vine-cu-o-solutie-noua-pentru-companii-finantare-garantata-pentru-carburant-si-transport_965481.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "FNGCIMM vine cu o soluție nouă pentru companii: finanțare garantată pentru carburant și transport",
+    "body_orig": "Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii (FNGCIMM) pregătește lansarea Garanției MOBIL IMM, un nou produs de garantare din surse proprii destinat facilitării accesului IMM-urilor la finanțarea capitalului de lucru necesar acoperirii cheltuielilor de transport și carburant.",
+    "published": "2026-08-05T07:02:28",
+    "fetched": "2026-08-05T07:08:27.486807",
+    "title_uk": "FNGCIMM запускає нову фінансову гарантію для компаній",
+    "summary_uk": "Фонд Національної Гарантії Кредитів для МСП Румунії анонсував запуск Гарантії MOBIL IMM. Цей продукт допоможе малим і середнім підприємствам отримати фінансування для покриття витрат на транспорт і паливо. Гарантія сприятиме поліпшенню доступу до капіталу для бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "FNGCIMM запускає нову фінансову гарантію для компаній",
+    "summary": "Фонд Національної Гарантії Кредитів для МСП Румунії анонсував запуск Гарантії MOBIL IMM. Цей продукт допоможе малим і середнім підприємствам отримати фінансування для покриття витрат на транспорт і паливо. Гарантія сприятиме поліпшенню доступу до капіталу для бізнесу.",
+    "link": "https://www.economica.net/fngcimm-vine-cu-o-solutie-noua-pentru-companii-finantare-garantata-pentru-carburant-si-transport_965481.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "21abcb8e48c9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/tranzactii-one-united-properties-imobiliare_965466.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Prețul mediu al locuințelor One United Properties a crescut cu 24%: Cumpărătorii mizează pe proiectele premium",
+    "body_orig": "Dezvoltatorul imobiliar One United Properties a înregistrat tranzacții rezidențiale în valoare totală de 106,1 milioane de euro în primul semestru din 2026, sumă ce include vânzări, pre-vânzări și rezervări.",
+    "published": "2026-08-05T05:54:38",
+    "fetched": "2026-08-05T07:08:27.486857",
+    "title_uk": "Ціни на житло One United Properties зросли на 24%",
+    "summary_uk": "One United Properties зафіксувала обсяги продажів житла на €106 млн у першій половині 2026 року. Це включає продажі, попередні продажі та резервування. Середній ціновий рівень житла зріс на 24%, що свідчить про попит на преміум проекти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на житло One United Properties зросли на 24%",
+    "summary": "One United Properties зафіксувала обсяги продажів житла на €106 млн у першій половині 2026 року. Це включає продажі, попередні продажі та резервування. Середній ціновий рівень житла зріс на 24%, що свідчить про попит на преміум проекти.",
+    "link": "https://www.economica.net/tranzactii-one-united-properties-imobiliare_965466.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7318c31287c4",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/moss-unicorn-series-c/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Fintech startup Moss crowned Europe’s newest unicorn with €30m Series C",
+    "body_orig": "",
+    "published": "2026-08-05T05:00:50",
+    "fetched": "2026-08-05T07:07:59.006900",
+    "title_uk": "Фінансовий стартап Moss став новим європейським юнікорном",
+    "summary_uk": "Стартап Moss залучив €30 млн у раунді Series C, що підвищило його оцінку до €1 млрд. Компанія спеціалізується на фінансових рішеннях для бізнесу. Це перший юнікорн у Німеччині за 2026 рік.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фінансовий стартап Moss став новим європейським юнікорном",
+    "summary": "Стартап Moss залучив €30 млн у раунді Series C, що підвищило його оцінку до €1 млрд. Компанія спеціалізується на фінансових рішеннях для бізнесу. Це перший юнікорн у Німеччині за 2026 рік.",
+    "link": "https://sifted.eu/articles/moss-unicorn-series-c/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dab0fe8f52f6",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/oxylabs-unicorn-interview/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "After a decade of turning down VCs, Oxylabs hits $3.6bn valuation: 'Right timing, right partner'",
+    "body_orig": "",
+    "published": "2026-08-05T05:00:32",
+    "fetched": "2026-08-05T07:07:59.006933",
+    "title_uk": "Oxylabs досягла оцінки $3.6 млрд після десятиліття відмов від інвестицій",
+    "summary_uk": "Компанія Oxylabs, що спеціалізується на даних, досягла оцінки $3.6 млрд після десятиліття, коли відмовлялася від венчурного капіталу. Зараз компанія шукає правильних партнерів для подальшого розвитку. Це свідчить про зростаючий інтерес до ринку даних у Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Oxylabs досягла оцінки $3.6 млрд після десятиліття відмов від інвестицій",
+    "summary": "Компанія Oxylabs, що спеціалізується на даних, досягла оцінки $3.6 млрд після десятиліття, коли відмовлялася від венчурного капіталу. Зараз компанія шукає правильних партнерів для подальшого розвитку. Це свідчить про зростаючий інтерес до ринку даних у Європі.",
+    "link": "https://sifted.eu/articles/oxylabs-unicorn-interview/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bc74b2cd98d7",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/08/london-ai-cloud-startup-volta-exits-stealth-at-2-4-billion-valuation-lands-e8-6-billion-compute-deal-reportedly-with-anthropic/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "London AI cloud startup Volta exits stealth at $2.4 billion valuation, lands €8.6 billion compute deal reportedly with Anthropic",
+    "body_orig": "Volta, a London-based AI cloud startup, has emerged from stealth after completing a Seed Round and a Series A, valuing the company at €2.07 billion ($2.4 billion). The rounds were led by Azora, Andreessen Horowitz, Altimeter and NVIDIA, with participation from strategic investors including the family office of Michael Dell and Matter Venture Partners. According [&#8230;]\nThe post London AI cloud startup Volta exits stealth at $2.4 billion valuation, lands €8.6 billion compute deal reportedly with Anthropic appeared first on EU-Startups.",
+    "published": "2026-08-05T07:00:31",
+    "fetched": "2026-08-05T07:08:00.222385",
+    "title_uk": "Лондонський стартап Volta оцінено в $2.4 млрд, уклав угоду з Anthropic",
+    "summary_uk": "Стартап Volta з Лондона завершив раунди фінансування Seed та Series A, отримавши оцінку в €2.07 млрд ($2.4 млрд). Інвесторами стали Azora, Andreessen Horowitz, Altimeter та NVIDIA, а також сімейний офіс Майкла Делла. Компанія уклала угоду на €8.6 млрд з Anthropic для обчислювальних послуг.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Лондонський стартап Volta оцінено в $2.4 млрд, уклав угоду з Anthropic",
+    "summary": "Стартап Volta з Лондона завершив раунди фінансування Seed та Series A, отримавши оцінку в €2.07 млрд ($2.4 млрд). Інвесторами стали Azora, Andreessen Horowitz, Altimeter та NVIDIA, а також сімейний офіс Майкла Делла. Компанія уклала угоду на €8.6 млрд з Anthropic для обчислювальних послуг.",
+    "link": "https://www.eu-startups.com/2026/08/london-ai-cloud-startup-volta-exits-stealth-at-2-4-billion-valuation-lands-e8-6-billion-compute-deal-reportedly-with-anthropic/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7962c8fbec4c",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/rosiyiska-ataka-znyshchyla-dva-kliuchovi-logistychni-kompleksy-epitcentr-kompaniia-zupyniaye-vyrobnytctvo-keramichnoyi-plytky/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Знищено два ключові логістичні комплекси Епіцентр: компанія зупиняє  виробництво керамічної плитки та переносить потужності за кордон",
+    "body_orig": "У ніч проти 5 серпня російські війська одночасно вразили два ключові логістичні комплекси Епіцентр у Києві та Калинівці на Київщині. Загинув співробітник компанії, є поранені. Знищено стратегічні логістичні потужності. Втрачено одне з найбільших виробництв керамічної плитки в Україні. Про це йдеться…",
+    "published": "2026-08-05T04:01:41",
+    "fetched": "2026-08-05T07:08:31.742683",
+    "title_uk": "Епіцентр зупиняє виробництво керамічної плитки через атаки",
+    "summary_uk": "У ніч проти 5 серпня російські війська вразили два логістичні комплекси Епіцентр. Внаслідок атак загинув співробітник, є поранені. Компанія зупиняє виробництво керамічної плитки та переносить потужності за кордон. Знищено стратегічні логістичні потужності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Компанія Епіцентр зупиняє виробництво, що може призвести до дефіциту керамічної плитки на ринку. Рекомендується переглянути асортимент та запаси у категорії плитки."
+    },
+    "tags": [
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Епіцентр зупиняє виробництво керамічної плитки через атаки",
+    "summary": "У ніч проти 5 серпня російські війська вразили два логістичні комплекси Епіцентр. Внаслідок атак загинув співробітник, є поранені. Компанія зупиняє виробництво керамічної плитки та переносить потужності за кордон. Знищено стратегічні логістичні потужності.",
+    "link": "https://rau.ua/news/rosiyiska-ataka-znyshchyla-dva-kliuchovi-logistychni-kompleksy-epitcentr-kompaniia-zupyniaye-vyrobnytctvo-keramichnoyi-plytky/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa9bd27fca87",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/novyny-knyzhkovykh-magazyniv-ranok-readeat-knygolend-sens-ta-inshi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Новини книжкових магазинів: Ранок, Readeat, КнигоЛенд, Сенс та інші",
+    "body_orig": "Понад 1,5 млн українських книжок знищено внаслідок російських атак у липні, держава готує механізми підтримки книжкової галузі, Readeat продає дві локації, а Vivat, Книгарня Є та КнигоЛенд відкривають нові книгарні — головні новини книжкового ритейлу.\nросійська атака знищила склад видавництва Ранок…",
+    "published": "2026-08-05T02:40:25",
+    "fetched": "2026-08-05T07:08:31.742723",
+    "title_uk": "Книжкові магазини в Україні: новини та підтримка галузі",
+    "summary_uk": "Внаслідок російських атак у липні знищено понад 1.5 млн книжок. Держава розробляє механізми підтримки книжкової галузі. Readeat продає дві локації, а Vivat, Книгарня Є та КнигоЛенд відкривають нові магазини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Відкриття нових книгарень може змінити конкурентне середовище. Розгляньте можливість співпраці з новими гравцями на ринку."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Книжкові магазини в Україні: новини та підтримка галузі",
+    "summary": "Внаслідок російських атак у липні знищено понад 1.5 млн книжок. Держава розробляє механізми підтримки книжкової галузі. Readeat продає дві локації, а Vivat, Книгарня Є та КнигоЛенд відкривають нові магазини.",
+    "link": "https://rau.ua/news/novyny-knyzhkovykh-magazyniv-ranok-readeat-knygolend-sens-ta-inshi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
