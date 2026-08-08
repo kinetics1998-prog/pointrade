@@ -188908,5 +188908,965 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "6102cd1ea13d",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ekstremalny optymizm i ryzyko „Czarnego Poniedziałku” z 1987 r.",
+    "body_orig": "Akcje w USA i Europie biją rekordy, a uczestnicy rynku cieszą się z zysków przedsiębiorstw i masowo zaciągają kredyty na inwestycje. Dla części znanych postaci z Wall Street jest to jednak powód do ostrożności.",
+    "published": "2026-08-08T11:00:00",
+    "fetched": "2026-08-08T16:32:06.035813",
+    "title_uk": "Ринок акцій досягає рекордів, але експерти попереджають про ризики",
+    "summary_uk": "Акції в США та Європі досягають нових максимумів на фоні зростання прибутків компаній. Інвестори активно беруть кредити для інвестицій. Проте деякі експерти з Wall Street закликають до обережності через можливі ризики, схожі на 'Чорний понеділок' 1987 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ринок акцій досягає рекордів, але експерти попереджають про ризики",
+    "summary": "Акції в США та Європі досягають нових максимумів на фоні зростання прибутків компаній. Інвестори активно беруть кредити для інвестицій. Проте деякі експерти з Wall Street закликають до обережності через можливі ризики, схожі на 'Чорний понеділок' 1987 року.",
+    "link": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cef55c3af603",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Poczta-Polska-stawia-na-wspoldzielenie-infrastruktury-paczkowej-9178202.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Poczta Polska stawia na współdzielenie infrastruktury paczkowej",
+    "body_orig": "Poczta Polska nie widzi przesłanek wskazujących na brak realizacji powiększenia do 3 tys. własnej bazy urządzeń paczkowych do końca 2026 roku - poinformowała PAP Biznes prezes Poczty Polskiej, Magdalena Gaj. Dodała, że rozpoczęła dialog z operatorami infrastruktury paczkowej o potencjalnej wymianie wolnymi przestrzeniami.",
+    "published": "2026-08-08T13:00:00",
+    "fetched": "2026-08-08T16:32:06.035879",
+    "title_uk": "Poczta Polska планує розширити мережу пакувальних пристроїв",
+    "summary_uk": "Poczta Polska має намір збільшити кількість своїх пакувальних пристроїв до 3 тис. до кінця 2026 року. Президент компанії, Магдалена Гай, повідомила про початок діалогу з операторами пакувальної інфраструктури щодо можливого обміну вільними просторами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори можуть розглянути можливість співпраці з Poczta Polska для оптимізації логістики. Збільшення кількості пакувальних пристроїв може поліпшити доставку товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Poczta Polska планує розширити мережу пакувальних пристроїв",
+    "summary": "Poczta Polska має намір збільшити кількість своїх пакувальних пристроїв до 3 тис. до кінця 2026 року. Президент компанії, Магдалена Гай, повідомила про початок діалогу з операторами пакувальної інфраструктури щодо можливого обміну вільними просторами.",
+    "link": "https://www.bankier.pl/wiadomosc/Poczta-Polska-stawia-na-wspoldzielenie-infrastruktury-paczkowej-9178202.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "92f88a1fff14",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Unijne-decyzje-zdecyduja-o-losie-polskiego-rzepaku-Branza-ostrzega-przed-kryzysem-9178566.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Unijne decyzje zdecydują o losie polskiego rzepaku. Branża ostrzega przed kryzysem",
+    "body_orig": "Nowa perspektywa finansowa Unii Europejskiej na lata 2028-2034 może zdecydować o przyszłości krajowego rynku rzepaku i przemysłu olejarskiego. Przedstawiciele branży przekonują, że o konkurencyjności sektora zdecyduje nie tyle wysokość unijnego wsparcia, ile lepsze powiązanie wspólnej polityki rolnej z potrzebami rynku oraz polityką klimatyczno-energetyczną UE, w tym produkcją biopaliw. Ich zdaniem od tych decyzji będzie zależeć rozwój całego krajowego łańcucha - od producentów rzepaku po przemysł olejarski i biopaliwowy.",
+    "published": "2026-08-08T10:00:00",
+    "fetched": "2026-08-08T16:32:06.035890",
+    "title_uk": "Ринок ріпаку в Польщі під загрозою через рішення ЄС",
+    "summary_uk": "Нова фінансова перспектива ЄС на 2028-2034 роки може вплинути на польський ринок ріпаку та олійний сектор. Галузеві експерти вважають, що важливіше за обсяги підтримки буде адаптація політики до потреб ринку та екологічних вимог. Це вплине на весь ланцюг — від виробників до переробників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни в політиці ЄС можуть призвести до коливань цін на ріпак та олію. Розгляньте можливість адаптації асортименту та цінової політики.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на можливі зміни в ціновій політиці на олійні продукти. Це може вплинути на ваші плани закупівель та промо-акції."
+    },
+    "tags": [
+      "виробництво",
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Ринок ріпаку в Польщі під загрозою через рішення ЄС",
+    "summary": "Нова фінансова перспектива ЄС на 2028-2034 роки може вплинути на польський ринок ріпаку та олійний сектор. Галузеві експерти вважають, що важливіше за обсяги підтримки буде адаптація політики до потреб ринку та екологічних вимог. Це вплине на весь ланцюг — від виробників до переробників.",
+    "link": "https://www.bankier.pl/wiadomosc/Unijne-decyzje-zdecyduja-o-losie-polskiego-rzepaku-Branza-ostrzega-przed-kryzysem-9178566.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4b7c1332d603",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/handel/zabka-wsrod-najwiekszych-sieci-convenience-w-europie-transakcja-na-miliardy/ygs4sle",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Żabka wśród największych sieci osiedlowych sklepów na świecie. Biznesy za miliardy dolarów",
+    "body_orig": "W niecałe dwa lata rynkowa wartość sieci sklepów Żabka urosła o 50 proc. Za pieniądze, które teraz wykładają na przejęcie Kanadyjczycy, mogliby przejąć analogiczny biznes na Tajwanie, a w Hiszpanii czy w Korei zostałoby im jeszcze sporo pieniędzy.",
+    "published": "2026-08-08T14:49:17",
+    "fetched": "2026-08-08T16:32:07.563241",
+    "title_uk": "Żabka стала однією з найбільших мереж магазинів у світі",
+    "summary_uk": "Ринкова вартість мережі Żabka зросла на 50% за два роки. Інвестиції канадців у цю мережу дозволяють їм купити аналогічний бізнес на Тайвані, а в Іспанії та Кореї залишиться ще багато коштів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання вартості Żabka може вплинути на конкурентоспроможність польських дистриб'юторів. Рекомендується переглянути асортимент та стратегії співпраці з мережами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання ринкової вартості Żabka може вплинути на переговори з постачальниками. Рекомендується переглянути умови контрактів та стратегії просування товарів."
+    },
+    "tags": [
+      "ритейл",
+      "інвестиції",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Żabka стала однією з найбільших мереж магазинів у світі",
+    "summary": "Ринкова вартість мережі Żabka зросла на 50% за два роки. Інвестиції канадців у цю мережу дозволяють їм купити аналогічний бізнес на Тайвані, а в Іспанії та Кореї залишиться ще багато коштів.",
+    "link": "https://businessinsider.com.pl/finanse/handel/zabka-wsrod-najwiekszych-sieci-convenience-w-europie-transakcja-na-miliardy/ygs4sle",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1ba525ee3a0e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/handel/ceny-zywnosci-pod-presja-swiata-ostrzezenie-przed-nowa-fala-inflacji/87mcr5d",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Skąd ta drożyzna? Osiem produktów, których ceny zależą od świata bardziej niż od Polski",
+    "body_orig": "Światowy indeks pokazuje, że ceny żywności wzrosły do najwyższego poziomu od ponad trzech lat. FAO ostrzega, że \"świat stoi na skraju kolejnej fali inflacji\". Trudno oczekiwać, żeby ominęła Polskę. Wyjaśniamy, na czym polega prawo jednej ceny i co wpływa na to, ile płacimy w sklepie za kawę czy czekoladę.",
+    "published": "2026-08-08T14:07:03",
+    "fetched": "2026-08-08T16:32:07.563262",
+    "title_uk": "Ціни на продукти в Польщі досягли найвищого рівня за три роки",
+    "summary_uk": "Світовий індекс показує, що ціни на їжу зросли до рекордних значень. FAO попереджає про можливу нову хвилю інфляції, яка може вплинути на Польщу. Важливо розуміти, як глобальні фактори впливають на ціни в магазинах.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання цін на продукти може зменшити попит. Розгляньте можливість коригування асортименту та цінової політики.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зверніть увагу на зміни в цінах на основні продукти. Це може вплинути на ваші стратегії закупівлі та промо-акції."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на продукти в Польщі досягли найвищого рівня за три роки",
+    "summary": "Світовий індекс показує, що ціни на їжу зросли до рекордних значень. FAO попереджає про можливу нову хвилю інфляції, яка може вплинути на Польщу. Важливо розуміти, як глобальні фактори впливають на ціни в магазинах.",
+    "link": "https://businessinsider.com.pl/finanse/handel/ceny-zywnosci-pod-presja-swiata-ostrzezenie-przed-nowa-fala-inflacji/87mcr5d",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "233240480f01",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/handel-morski-zagrozony-turcja-wprowadza-ograniczenia-na-morzu-czarnym/0bk31km",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kolejny cios w światowy handel. Turcja ogranicza ruch statków",
+    "body_orig": "Turcja ogranicza ruch statków handlowych na Morzu Czarnym — wynika z informacji uzyskanych od osób zaznajomionych ze sprawą, o czym pisze Bloomberg. Decyzja jest efektem rosnących obaw władz w związku ze wzrostem liczby rosyjskich i ukraińskich ataków na jednostki pływające w tym rejonie.",
+    "published": "2026-08-08T11:48:21",
+    "fetched": "2026-08-08T16:32:07.563281",
+    "title_uk": "Туреччина обмежує рух торгових суден на Чорному морі",
+    "summary_uk": "Туреччина вводить обмеження на рух торгових суден у Чорному морі через зростання атак з боку Росії та України. Це рішення викликане побоюваннями влади щодо безпеки судноплавства в регіоні. Інформацію підтверджує Bloomberg.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина обмежує рух торгових суден на Чорному морі",
+    "summary": "Туреччина вводить обмеження на рух торгових суден у Чорному морі через зростання атак з боку Росії та України. Це рішення викликане побоюваннями влади щодо безпеки судноплавства в регіоні. Інформацію підтверджує Bloomberg.",
+    "link": "https://businessinsider.com.pl/wiadomosci/handel-morski-zagrozony-turcja-wprowadza-ograniczenia-na-morzu-czarnym/0bk31km",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b2dc9dd39b4d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/przyszlosc-ppk-dlaczego-polacy-wyplacaja-oszczednosci/yx1xewg",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ten sposób oszczędzania na emeryturę wyjątkowo się sprawdził. \"Ogromny sukces\"",
+    "body_orig": "Uczestnicy Pracowniczych Planów Kapitałowych wypłacają coraz większe kwoty, ale do programu nadal napływa więcej pieniędzy, niż z niego ubywa. Zdaniem Kamila Sobolewskiego, głównego ekonomisty Pracodawców RP, nie jest to sygnał kryzysu, lecz dowód, że możliwość swobodnego dysponowania oszczędnościami buduje zaufanie. Prawdziwy problem jego zdaniem leży gdzie indziej.",
+    "published": "2026-08-08T11:07:06",
+    "fetched": "2026-08-08T16:32:07.563291",
+    "title_uk": "У Польщі зростають виплати з Програм капітальних планів",
+    "summary_uk": "Учасники Програм капітальних планів у Польщі почали отримувати більші виплати. Проте, надходження до програми перевищують виплати, що свідчить про зростання довіри до системи. Економіст Каміла Соболевського вважає, що справжня проблема полягає в іншому.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання виплат може свідчити про зміни в споживчих звичках, що варто враховувати при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Польщі зростають виплати з Програм капітальних планів",
+    "summary": "Учасники Програм капітальних планів у Польщі почали отримувати більші виплати. Проте, надходження до програми перевищують виплати, що свідчить про зростання довіри до системи. Економіст Каміла Соболевського вважає, що справжня проблема полягає в іншому.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/przyszlosc-ppk-dlaczego-polacy-wyplacaja-oszczednosci/yx1xewg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a9a7f733d2a5",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/tpao-expands-overseas-operations-in-drive-for-higher-output-225383",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "TPAO expands overseas operations in drive for higher output",
+    "body_orig": "Türkiye’s state-owned Turkish Petroleum Corporation (TPAO) aims to raise its combined domestic and overseas hydrocarbon production from around 330,000 barrels of oil equivalent a day to nearly 600,000 by 2028, with a longer-term target of 1 million, Energy and Natural Resources Minister Alparslan Bayraktar has said.",
+    "published": "2026-08-08T11:24:44",
+    "fetched": "2026-08-08T16:32:22.639595",
+    "title_uk": "TPAO планує збільшити видобуток нафти до 600 тис. барелів до 2028",
+    "summary_uk": "Державна компанія TPAO має намір підвищити добовий видобуток вуглеводнів з 330 тис. до 600 тис. барелів до 2028 року. Міністр енергетики Туреччини повідомив про довгострокову мету досягти 1 млн барелів. Це свідчить про амбіції компанії на міжнародних ринках.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Збільшення видобутку TPAO може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії. Важливо стежити за змінами в ціновій політиці.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "TPAO планує збільшити видобуток нафти до 600 тис. барелів до 2028",
+    "summary": "Державна компанія TPAO має намір підвищити добовий видобуток вуглеводнів з 330 тис. до 600 тис. барелів до 2028 року. Міністр енергетики Туреччини повідомив про довгострокову мету досягти 1 млн барелів. Це свідчить про амбіції компанії на міжнародних ринках.",
+    "link": "https://www.hurriyetdailynews.com/tpao-expands-overseas-operations-in-drive-for-higher-output-225383",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "409dbb97e5d1",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-restructures-aviation-engine-programs-to-speed-development-225380",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye restructures aviation engine programs to speed development",
+    "body_orig": "Türkiye will consolidate several indigenous aviation engine programs under a new structure called TEI Teknoloji in a reorganization aimed at speeding up development and making more efficient use of engineering resources.",
+    "published": "2026-08-08T08:39:32",
+    "fetched": "2026-08-08T16:32:22.639612",
+    "title_uk": "Туреччина об'єднує програми авіаційних двигунів для пришвидшення розробки",
+    "summary_uk": "Туреччина об'єднає кілька програм розробки авіаційних двигунів під новою структурою TEI Teknoloji. Це дозволить прискорити розробку та ефективніше використовувати інженерні ресурси. Очікується, що реорганізація позитивно вплине на інновації в галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають партнерів у сфері авіації. Рекомендується слідкувати за змінами в інвестиціях та технологіях.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина об'єднує програми авіаційних двигунів для пришвидшення розробки",
+    "summary": "Туреччина об'єднає кілька програм розробки авіаційних двигунів під новою структурою TEI Teknoloji. Це дозволить прискорити розробку та ефективніше використовувати інженерні ресурси. Очікується, що реорганізація позитивно вплине на інновації в галузі.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-restructures-aviation-engine-programs-to-speed-development-225380",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9fbeb75f6524",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/world-bank-approves-100-million-grant-to-modernize-syrias-financial-sector-225379",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "World Bank approves $100 million grant to modernize Syria’s financial sector",
+    "body_orig": "The World Bank has approved a $100 million grant to modernize and digitize Syria’s financial sector, with funding to strengthen banking infrastructure, expand digital payments and improve financial oversight.",
+    "published": "2026-08-08T08:28:33",
+    "fetched": "2026-08-08T16:32:22.639623",
+    "title_uk": "Світовий банк виділив $100 млн на модернізацію фінансового сектору Сирії",
+    "summary_uk": "Світовий банк затвердив грант у $100 млн для модернізації фінансового сектору Сирії. Кошти підуть на зміцнення банківської інфраструктури, розширення цифрових платежів та покращення фінансового контролю. Проект спрямований на цифровізацію та підвищення ефективності фінансових послуг.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Світовий банк виділив $100 млн на модернізацію фінансового сектору Сирії",
+    "summary": "Світовий банк затвердив грант у $100 млн для модернізації фінансового сектору Сирії. Кошти підуть на зміцнення банківської інфраструктури, розширення цифрових платежів та покращення фінансового контролю. Проект спрямований на цифровізацію та підвищення ефективності фінансових послуг.",
+    "link": "https://www.hurriyetdailynews.com/world-bank-approves-100-million-grant-to-modernize-syrias-financial-sector-225379",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4967852199bd",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/togg-expands-nationwide-service-network-to-58-locations-225377",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Togg expands nationwide service network to 58 locations",
+    "body_orig": "Türkiye’s electric vehicle maker Togg has expanded its network to 58 fixed service locations after opening 11 new sites by the end of July.",
+    "published": "2026-08-08T08:25:29",
+    "fetched": "2026-08-08T16:32:22.639633",
+    "title_uk": "Togg розширює мережу сервісних центрів до 58 локацій",
+    "summary_uk": "Турецький виробник електромобілів Togg відкрив 11 нових сервісних центрів, довівши їх загальну кількість до 58. Це розширення відбулося до кінця липня 2026 року. Компанія прагне покращити обслуговування своїх клієнтів по всій країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Розширення сервісної мережі Togg може бути прикладом для турецьких виробників, які планують вихід на нові ринки. Важливо враховувати обслуговування клієнтів як частину стратегії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Togg розширює мережу сервісних центрів до 58 локацій",
+    "summary": "Турецький виробник електромобілів Togg відкрив 11 нових сервісних центрів, довівши їх загальну кількість до 58. Це розширення відбулося до кінця липня 2026 року. Компанія прагне покращити обслуговування своїх клієнтів по всій країні.",
+    "link": "https://www.hurriyetdailynews.com/togg-expands-nationwide-service-network-to-58-locations-225377",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "51b8ec411ddc",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-retains-customs-advantage-under-new-eu-e-commerce-rules-225373",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye retains customs advantage under new EU e-commerce rules",
+    "body_orig": "Türkiye has preserved preferential customs treatment for qualifying low-value e-commerce shipments to the European Union, giving its online exporters a potential advantage under the bloc’s new import rules.",
+    "published": "2026-08-08T07:38:08",
+    "fetched": "2026-08-08T16:32:22.639654",
+    "title_uk": "Туреччина зберігає митні переваги для електронної торгівлі з ЄС",
+    "summary_uk": "Туреччина зберегла пільгове митне оброблення для низьковартісних електронних відправлень до ЄС. Це надає турецьким експортерам конкурентну перевагу під новими імпортними правилами блоку. Відповідні зміни можуть позитивно вплинути на обсяги експорту з Туреччини до Європи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Збереження митних переваг може стимулювати експорт до ЄС. Розгляньте можливість збільшення обсягів постачання до європейських країн.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина зберігає митні переваги для електронної торгівлі з ЄС",
+    "summary": "Туреччина зберегла пільгове митне оброблення для низьковартісних електронних відправлень до ЄС. Це надає турецьким експортерам конкурентну перевагу під новими імпортними правилами блоку. Відповідні зміни можуть позитивно вплинути на обсяги експорту з Туреччини до Європи.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-retains-customs-advantage-under-new-eu-e-commerce-rules-225373",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "291f6758997f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-cop31-odakli-hizlandirma-destegi-cagrisini-acikladi/4021804",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Kacır, COP31 odaklı Hızlandırma Desteği çağrısını açıkladı",
+    "body_orig": "Sanayi ve Teknoloji Bakanı Kacır, KOSGEB'in teknoloji merkezlerine yönelik destek programıyla, TEKMER işletici kuruluşları ile GO (girişim ofisi) sahibi Teknopark yönetici şirketlerine, 6,5 milyon liraya kadar destek sağlayacaklarını bildirdi.",
+    "published": "2026-08-08T11:27:38",
+    "fetched": "2026-08-08T16:32:26.156354",
+    "title_uk": "Туреччина надасть до €230 тис. підтримки для технологічних центрів",
+    "summary_uk": "Міністр промисловості та технологій Туреччини Качир оголосив про програму підтримки KOSGEB. Технологічні центри та управлінські компанії Teknopark отримають до 6.5 млн лір (€230 тис.) на розвиток. Це сприятиме інноваціям та стартапам у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця програма може відкрити нові можливості для турецьких виробників у сфері технологій, які шукають партнерів в Україні, Польщі чи Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина надасть до €230 тис. підтримки для технологічних центрів",
+    "summary": "Міністр промисловості та технологій Туреччини Качир оголосив про програму підтримки KOSGEB. Технологічні центри та управлінські компанії Teknopark отримають до 6.5 млн лір (€230 тис.) на розвиток. Це сприятиме інноваціям та стартапам у країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-cop31-odakli-hizlandirma-destegi-cagrisini-acikladi/4021804",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "979ee0013374",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/butik-pastaciliga-artan-ilgi-girisimcilik-ve-istihdamin-buyumesine-katki-sagliyor/4021709",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Butik pastacılığa artan ilgi girişimcilik ve istihdamın büyümesine katkı sağlıyor",
+    "body_orig": "İstanbul'da değişen tüketici tercihleri, özel tasarım ürünlere yönelik talep ve sosyal medyanın etkisiyle büyüyen butik pastacılık sektörü, artan sipariş hacmi ve yüksek katma değerli üretimiyle kent ekonomisine katkısını artırıyor.",
+    "published": "2026-08-08T09:21:24",
+    "fetched": "2026-08-08T16:32:26.156374",
+    "title_uk": "Зростання попиту на бутік-кондитерські в Туреччині",
+    "summary_uk": "У Стамбулі зростає інтерес до бутік-кондитерських завдяки зміні споживчих уподобань та впливу соціальних мереж. Сектор демонструє збільшення обсягу замовлень і високий рівень доданої вартості. Це позитивно впливає на економіку міста.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання попиту на бутік-кондитерські відкриває нові можливості для виробників, які можуть розглянути вихід на ринок з унікальними продуктами.",
+      "category_manager": "Зверніть увагу на тренди в категорії кондитерських виробів. Можливо, варто переглянути асортимент на основі нових споживчих уподобань."
+    },
+    "tags": [
+      "виробництво",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Зростання попиту на бутік-кондитерські в Туреччині",
+    "summary": "У Стамбулі зростає інтерес до бутік-кондитерських завдяки зміні споживчих уподобань та впливу соціальних мереж. Сектор демонструє збільшення обсягу замовлень і високий рівень доданої вартості. Це позитивно впливає на економіку міста.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/butik-pastaciliga-artan-ilgi-girisimcilik-ve-istihdamin-buyumesine-katki-sagliyor/4021709",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "97651e6f5d9a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ciftcilerin-internet-kullanimi-10-yilda-iki-katini-asti/4021698",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Çiftçilerin internet kullanımı 10 yılda iki katını aştı",
+    "body_orig": "Tarım sektöründeki teknoloji kullanımı her geçen gün artarken sektörde çalışanların internet kullanım oranı da buna bağlı olarak bu yıl yüzde 86'ya ulaştı.",
+    "published": "2026-08-08T09:05:58",
+    "fetched": "2026-08-08T16:32:26.156393",
+    "title_uk": "Використання інтернету в агросекторі Туреччини зросло до 86%",
+    "summary_uk": "У 2026 році рівень використання інтернету серед працівників агросектору Туреччини досяг 86%. Це свідчить про зростання технологій у сільському господарстві. За останні 10 років використання інтернету в цій сфері подвоїлося.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання використання інтернету може відкрити нові можливості для продажу через онлайн-канали. Виробники можуть розглянути цифрові стратегії для досягнення споживачів.",
+      "category_manager": "Зростання технологій в агросекторі може вплинути на асортимент продукції. Рекомендується переглянути пропозиції, щоб включити інноваційні рішення та продукти, що відповідають новим трендам."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Використання інтернету в агросекторі Туреччини зросло до 86%",
+    "summary": "У 2026 році рівень використання інтернету серед працівників агросектору Туреччини досяг 86%. Це свідчить про зростання технологій у сільському господарстві. За останні 10 років використання інтернету в цій сфері подвоїлося.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilerin-internet-kullanimi-10-yilda-iki-katini-asti/4021698",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3a39d9b444f4",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/greg-abel-urmasul-legendarului-warren-buffett-conducerea-gigantului-berkshire-hathaway-inceput-cheltuiasca-cei-366-mld-dolari-cat-fondul-investitii-cont-abel-investit-aproape-20-mld-dolari-bursa-t2-23212628",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Greg Abel, urmaşul legendarului Warren Buffett la conducerea gigantului Berkshire Hathaway, a început să cheltuiască din cei 366 mld. dolari, cât are fondul de investiţii în cont. Abel a investit aproape 20 mld. dolari pe bursă în T2, punând capăt unei perioade de peste trei ani în care în care conglomeratul din Omaha a fost vânzător net de acţiuni",
+    "body_orig": "",
+    "published": "2026-08-08T14:40:00",
+    "fetched": "2026-08-08T16:32:27.893265",
+    "title_uk": "Greg Abel почав інвестувати $20 млрд у Berkshire Hathaway",
+    "summary_uk": "Greg Abel, наступник Уоррена Баффета, інвестував майже $20 млрд у T2 2026. Це перша велика інвестиція після трирічного періоду, коли Berkshire Hathaway була нетто-продавцем акцій. Загалом фонд має $366 млрд у своєму портфелі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Greg Abel почав інвестувати $20 млрд у Berkshire Hathaway",
+    "summary": "Greg Abel, наступник Уоррена Баффета, інвестував майже $20 млрд у T2 2026. Це перша велика інвестиція після трирічного періоду, коли Berkshire Hathaway була нетто-продавцем акцій. Загалом фонд має $366 млрд у своєму портфелі.",
+    "link": "https://www.zf.ro/zf-24/greg-abel-urmasul-legendarului-warren-buffett-conducerea-gigantului-berkshire-hathaway-inceput-cheltuiasca-cei-366-mld-dolari-cat-fondul-investitii-cont-abel-investit-aproape-20-mld-dolari-bursa-t2-23212628",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bbf9929b25ba",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-live/ne-costa-mult-autostrada-moldovei-romania-sangereaza-9-mld-euro-anual-cauza-fraudei-tip-carusel-avem-peste-20-munca-evaluata-munca-nedeclarata-nefiscalizata-avem-antreprenori-cinstiti-antreprenori-23212473",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ne costă mai mult decât Autostrada Moldovei: România „sângerează” 9 mld. euro anual. din cauza fraudei de tip carusel. „Avem peste 20% din muncă evaluată ca muncă nedeclarată, deci nefiscalizată. Avem antreprenori cinstiţi, dar şi antreprenori care fentează sistemul”",
+    "body_orig": "",
+    "published": "2026-08-08T07:30:00",
+    "fetched": "2026-08-08T16:32:27.893315",
+    "title_uk": "Румунія втрачає €9 млрд щорічно через карусельну фraudу",
+    "summary_uk": "Румунія втрачає €9 млрд на рік через карусельну фraуду, що становить понад 20% від неофіційної праці. У країні є як чесні підприємці, так і ті, хто обходить систему. Влада закликає до посилення контролю за дотриманням податкових норм.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія втрачає €9 млрд щорічно через карусельну фraudу",
+    "summary": "Румунія втрачає €9 млрд на рік через карусельну фraуду, що становить понад 20% від неофіційної праці. У країні є як чесні підприємці, так і ті, хто обходить систему. Влада закликає до посилення контролю за дотриманням податкових норм.",
+    "link": "https://www.zf.ro/zf-live/ne-costa-mult-autostrada-moldovei-romania-sangereaza-9-mld-euro-anual-cauza-fraudei-tip-carusel-avem-peste-20-munca-evaluata-munca-nedeclarata-nefiscalizata-avem-antreprenori-cinstiti-antreprenori-23212473",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0132bd251dfa",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/pista-avioane-pe-autostrada_965216.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "VIDEO Pistă de avioane pe autostradă. Unde se construiește acum această facilitate în România",
+    "body_orig": "Grupul Selina, controlat de omul de afaceri Beniamin Rus, lucrează în prezent la amenajarea unei parcări pe secțiunea Chiribiș - Biharia din Autostrada A3 Transilvania, care va putea fi folosită în caz de urgență și de avioane, potrivit presei locale. Pasionații de infrastructură au surprins în imagini locul cu pricina.",
+    "published": "2026-08-08T14:07:38",
+    "fetched": "2026-08-08T16:32:30.275217",
+    "title_uk": "У Румунії на автодорозі з'явиться майданчик для літаків",
+    "summary_uk": "Група Selina під керівництвом Беніаміна Руса облаштовує парковку для літаків на ділянці автодороги A3 Transilvania між Чирібішем і Бігарією. Ця інфраструктура буде використовуватися в надзвичайних ситуаціях. Проект привертає увагу фахівців з інфраструктури.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Румунії на автодорозі з'явиться майданчик для літаків",
+    "summary": "Група Selina під керівництвом Беніаміна Руса облаштовує парковку для літаків на ділянці автодороги A3 Transilvania між Чирібішем і Бігарією. Ця інфраструктура буде використовуватися в надзвичайних ситуаціях. Проект привертає увагу фахівців з інфраструктури.",
+    "link": "https://www.economica.net/pista-avioane-pe-autostrada_965216.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "876d21514f19",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/aeroportul-brasov-ghimbav-a-ajuns-la-pasagerul-cu-numarul-1-milion_966492.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aeroportul Brașov-Ghimbav a ajuns la pasagerul cu numărul 1 milion",
+    "body_orig": "Aeroportul Internațional Brașov-Ghimbav a ajuns la un moment aniversar important, pasagerul cu numărul 1 milion a aterizat pe pista celui mai nou aeroport al țării, a anunțat președintele CJ Brașov Adrian Veștea.",
+    "published": "2026-08-08T14:05:19",
+    "fetched": "2026-08-08T16:32:30.275227",
+    "title_uk": "Аеропорт Брашов-Гімбав зустрів мільйонного пасажира",
+    "summary_uk": "Аеропорт Брашов-Гімбав досяг важливої віхи, зустрівши мільйонного пасажира. Цей момент відзначив президент ради повіту Брашов Адріан Вештеа. Аеропорт є найновішим в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Аеропорт Брашов-Гімбав зустрів мільйонного пасажира",
+    "summary": "Аеропорт Брашов-Гімбав досяг важливої віхи, зустрівши мільйонного пасажира. Цей момент відзначив президент ради повіту Брашов Адріан Вештеа. Аеропорт є найновішим в Румунії.",
+    "link": "https://www.economica.net/aeroportul-brasov-ghimbav-a-ajuns-la-pasagerul-cu-numarul-1-milion_966492.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "789931b6afaf",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/07/ukrayinski-startapi-rozvivaiutsia-svidse-niz-ekosistema-navkolo-nix-kolonka/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українські стартапи розвиваються швидше, ніж екосистема навколо них — колонка",
+    "body_orig": "Юрій Блавт, партнер Civitta, співзасновник Challenger Accelerator у колонці для AIN розповідає, чому стартапи обирають юрисдикції США й Естонії та що робити з дефіцитом фінансування цивільних проєктів на українському ринку.",
+    "published": "2026-08-08T09:20:16",
+    "fetched": "2026-08-08T16:32:12.125018",
+    "title_uk": "Стартапи в Україні обирають юрисдикції США та Естонії",
+    "summary_uk": "Юрій Блавт у колонці для AIN зазначає, що українські стартапи швидше розвиваються, ніж екосистема навколо них. Він пояснює, чому підприємці обирають США та Естонію для реєстрації, а також обговорює проблеми з фінансуванням цивільних проєктів в Україні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стартапи в Україні обирають юрисдикції США та Естонії",
+    "summary": "Юрій Блавт у колонці для AIN зазначає, що українські стартапи швидше розвиваються, ніж екосистема навколо них. Він пояснює, чому підприємці обирають США та Естонію для реєстрації, а також обговорює проблеми з фінансуванням цивільних проєктів в Україні.",
+    "link": "https://ain.ua/2026/08/07/ukrayinski-startapi-rozvivaiutsia-svidse-niz-ekosistema-navkolo-nix-kolonka/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1ba7b0ee85b0",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/gotova-kompaniya-v-rumuniyi-koli-kupivlya-yurosobi-ekonomit-cas-a-koli-dodaje-problem-vmd57n",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Готова компанія в Румунії: коли купівля юрособи економить час, а коли додає проблем",
+    "body_orig": "Придбати фірму, яка вже внесена до реєстру, здається логічним скороченням шляху. Насправді результат такої угоди залежить не від швидкості, а від того, що саме стоїть за реєстраційним номером.",
+    "published": "2026-08-08T13:27:59",
+    "fetched": "2026-08-08T16:32:21.046845",
+    "title_uk": "Купівля готової компанії в Румунії: переваги та ризики",
+    "summary_uk": "Придбання вже зареєстрованої фірми може здаватися швидким шляхом до бізнесу. Однак успіх угоди залежить від стану компанії, а не лише від швидкості. Важливо ретельно перевірити, що стоїть за реєстраційним номером, щоб уникнути можливих проблем.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Купівля готової компанії в Румунії: переваги та ризики",
+    "summary": "Придбання вже зареєстрованої фірми може здаватися швидким шляхом до бізнесу. Однак успіх угоди залежить від стану компанії, а не лише від швидкості. Важливо ретельно перевірити, що стоїть за реєстраційним номером, щоб уникнути можливих проблем.",
+    "link": "https://speka.ua/business/gotova-kompaniya-v-rumuniyi-koli-kupivlya-yurosobi-ekonomit-cas-a-koli-dodaje-problem-vmd57n",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b8dcb7278326",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/mango-home-u-valensiyi-iak-fashion-brend-stvoriuye-novyyi-format-ryteyilu-tovariv-dlia-domu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Mango Home у Валенсії: як fashion-бренд створює новий формат ритейлу товарів для дому",
+    "body_orig": "Mango активно розвиває напрямок Home, перетворюючи його з онлайн-категорії на окрему мережу фізичних магазинів. Після відкриття першої локації Mango Home у Валенсії керуючий партнер RetailPro Development Артем Ретін відвідав магазин і у своєму Facebook проаналізував його концепцію, архітектурні та м…",
+    "published": "2026-08-08T04:50:16",
+    "fetched": "2026-08-08T16:32:34.703876",
+    "title_uk": "Mango Home відкриває новий магазин у Валенсії",
+    "summary_uk": "Mango розширює лінійку товарів для дому, відкривши перший фізичний магазин Mango Home у Валенсії. Бренд переходить від онлайн-продажів до створення окремої мережі. Це свідчить про зростаючий попит на продукцію для дому в сегменті fashion.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Відкриття нового формату магазинів може вплинути на конкурентне середовище в ритейлі товарів для дому. Рекомендується переглянути асортимент та стратегії просування для адаптації до нових умов."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Mango Home відкриває новий магазин у Валенсії",
+    "summary": "Mango розширює лінійку товарів для дому, відкривши перший фізичний магазин Mango Home у Валенсії. Бренд переходить від онлайн-продажів до створення окремої мережі. Це свідчить про зростаючий попит на продукцію для дому в сегменті fashion.",
+    "link": "https://rau.ua/news/mango-home-u-valensiyi-iak-fashion-brend-stvoriuye-novyyi-format-ryteyilu-tovariv-dlia-domu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a41730443641",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/uklon-zakryv-ugodu-z-prydbannia-ukrayinskogo-operatora-elektrosamokativ-e-wings/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Uklon закрив угоду з придбання українського оператора електросамокатів e-Wings",
+    "body_orig": "7 серпня 2026 року компанія Uklon оголосила про закриття угоди з придбання 100% корпоративних прав компанії-оператора електросамокатів e-Wings. Сума угоди склала 97.6 мільйонів гривень до коригування.\nПридбання e-Wings стало першою M&amp;A угодою з придбання бізнесу в історії Uklon та ще одним важли…",
+    "published": "2026-08-08T03:51:07",
+    "fetched": "2026-08-08T16:32:34.703895",
+    "title_uk": "Uklon придбав українського оператора електросамокатів e-Wings",
+    "summary_uk": "Uklon завершив угоду з придбання 100% корпоративних прав e-Wings за €2.6 млн. Це перша M&A угода для Uklon, що розширює їхній бізнес у сфері електротранспорту. Придбання дозволить Uklon зміцнити позиції на ринку мобільності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на категорійних менеджерів у ритейлі, якщо Uklon планує інтегрувати електросамокати в свої послуги доставки або продажу."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Uklon придбав українського оператора електросамокатів e-Wings",
+    "summary": "Uklon завершив угоду з придбання 100% корпоративних прав e-Wings за €2.6 млн. Це перша M&A угода для Uklon, що розширює їхній бізнес у сфері електротранспорту. Придбання дозволить Uklon зміцнити позиції на ринку мобільності.",
+    "link": "https://rau.ua/news/uklon-zakryv-ugodu-z-prydbannia-ukrayinskogo-operatora-elektrosamokativ-e-wings/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "041ce8bd6f58",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/vlasnyk-readeat-zakryvaye-dvi-z-trokh-knygaren-znayity-pokuptciv-ne-vdalosia-1/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Власник Readeat закриває дві з трьох книгарень: знайти покупців не вдалося",
+    "body_orig": "Книгарні Readeat біля станції метро «Арсенальна» та в ЖК «Комфорт Таун» у Києві припинять роботу у вересні. Останнім днем роботи стане 15 вересня 2026 року. Про це засновник мережі Дмитро Феліксов розповів Forbes Ukraine. Раніше підприємець вів перемовини про продаж локацій.\nУ липні засновник мережі…",
+    "published": "2026-08-08T02:50:42",
+    "fetched": "2026-08-08T16:32:34.703907",
+    "title_uk": "Власник Readeat закриває дві з трьох книгарень у Києві",
+    "summary_uk": "Книгарні Readeat біля метро «Арсенальна» та в ЖК «Комфорт Таун» закриються 15 вересня 2026 року. Засновник Дмитро Феліксов не зміг знайти покупців для локацій, попри проведені перемовини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Власник Readeat закриває дві з трьох книгарень у Києві",
+    "summary": "Книгарні Readeat біля метро «Арсенальна» та в ЖК «Комфорт Таун» закриються 15 вересня 2026 року. Засновник Дмитро Феліксов не зміг знайти покупців для локацій, попри проведені перемовини.",
+    "link": "https://rau.ua/news/vlasnyk-readeat-zakryvaye-dvi-z-trokh-knygaren-znayity-pokuptciv-ne-vdalosia-1/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
