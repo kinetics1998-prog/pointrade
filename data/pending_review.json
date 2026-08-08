@@ -187912,5 +187912,1001 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "436c4c54ceb4",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/germany-gas-reserve-low-europe-winter-energy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Germany’s gas gamble puts Europe’s winter at risk",
+    "body_orig": "Consumers face higher energy costs and possible shortages if EU governments don't fill up gas reserves fast.",
+    "published": "2026-08-07T16:57:29",
+    "fetched": "2026-08-08T05:13:00.326705",
+    "title_uk": "Німеччина ризикує зимою Європи через запаси газу",
+    "summary_uk": "Споживачі в ЄС можуть зіткнутися з підвищенням цін на енергію та можливими дефіцитами. Уряди країн ЄС повинні терміново заповнити запаси газу, щоб уникнути кризи. Від швидкості заповнення залежить стабільність енергетичного ринку в зимовий період.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть зіткнутися з підвищенням цін на енергію, що вплине на витрати та ціни на продукцію. Рекомендується переглянути цінову політику.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Німеччина ризикує зимою Європи через запаси газу",
+    "summary": "Споживачі в ЄС можуть зіткнутися з підвищенням цін на енергію та можливими дефіцитами. Уряди країн ЄС повинні терміново заповнити запаси газу, щоб уникнути кризи. Від швидкості заповнення залежить стабільність енергетичного ринку в зимовий період.",
+    "link": "https://www.politico.eu/article/germany-gas-reserve-low-europe-winter-energy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "28aa63eaa5a5",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gospodarka daje nadzieję, a stacje paliw trzymają ceny. Wyniki Orlenu, zamieszanie z Muskiem i odbicie w przemyśle",
+    "body_orig": "Cześć tu Inwestor Wojtek, witam Was w drugim miesiącu wakacji. Odczyty gospodarcze przynoszą mieszane, ale intrygujące wieści z rynku: polski przemysł powoli podnosi się po słabszym czerwcu, a Grupa Orlen odnotowuje zyski powyżej prognoz, co wywołało polityczną dyskusję. Na stacjach paliw kierowcy wciąż czekają na obniżki mimo spadków w hurcie, z kolei za oceanem Elon Musk musiał być tonowany przez własny zarząd po śmiałych obietnicach. Zapraszam zatem na wykresy tygodnia Bankier.pl.",
+    "published": "2026-08-08T05:00:00",
+    "fetched": "2026-08-08T05:13:03.063233",
+    "title_uk": "Група Orlen перевищила прогнози прибутку, але ціни на паливо не знижуються",
+    "summary_uk": "Польська Група Orlen повідомила про прибутки вище прогнозів, що викликало політичні дискусії. Промисловість Польщі поступово відновлюється після слабкого червня. На автозаправках ціни на паливо залишаються стабільними, незважаючи на зниження оптових цін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ситуація з цінами на паливо може вплинути на логістику та витрати. Розгляньте коригування цін на продукцію, щоб компенсувати можливі витрати.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Група Orlen перевищила прогнози прибутку, але ціни на паливо не знижуються",
+    "summary": "Польська Група Orlen повідомила про прибутки вище прогнозів, що викликало політичні дискусії. Промисловість Польщі поступово відновлюється після слабкого червня. На автозаправках ціни на паливо залишаються стабільними, незважаючи на зниження оптових цін.",
+    "link": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d9b5db112d4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/NGT-to-nie-GMO-UE-wprowadza-nowe-zasady-dla-edycji-genomu-roslin-9178013.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "NGT to nie GMO. UE wprowadza nowe zasady dla edycji genomu roślin",
+    "body_orig": "Nowe techniki genomowe pozwalają precyzyjnie modyfikować materiał genetyczny roślin bez wprowadzania genomu od innych gatunków. Dzięki temu możliwe jest tworzenie odmian odporniejszych na czynniki klimatyczne, choroby,...",
+    "published": "2026-08-08T05:00:00",
+    "fetched": "2026-08-08T05:13:03.063264",
+    "title_uk": "ЄС вводить нові правила для редагування геному рослин",
+    "summary_uk": "Європейський Союз запроваджує нові правила для геномних технологій, які дозволяють модифікувати рослини без впровадження генів з інших видів. Це відкриває можливості для створення сортів, стійкіших до кліматичних змін та хвороб. Нові норми набудуть чинності найближчим часом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Нові правила можуть вплинути на дистрибуцію нових сортів рослин у Польщі. Дистриб'юторам варто слідкувати за змінами в асортименті.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в регуляції можуть вплинути на асортимент у категорії овочів та фруктів. Рекомендується переглянути стратегії закупівель і асортименту."
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "ЄС вводить нові правила для редагування геному рослин",
+    "summary": "Європейський Союз запроваджує нові правила для геномних технологій, які дозволяють модифікувати рослини без впровадження генів з інших видів. Це відкриває можливості для створення сортів, стійкіших до кліматичних змін та хвороб. Нові норми набудуть чинності найближчим часом.",
+    "link": "https://www.bankier.pl/wiadomosc/NGT-to-nie-GMO-UE-wprowadza-nowe-zasady-dla-edycji-genomu-roslin-9178013.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e1deca239fe",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/chinskie-statki-ruszaja-nowym-szlakiem-arktyczna-trasa-zamiast-kanalu-sueskiego/yp49k6k",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Seria chińskich statków popłynie trasą arktyczną. Rosjanie wydali zezwolenia",
+    "body_orig": "Skoro trasy transportowe na Bliskim Wschodzie są obarczone tak dużym niebezpieczeństwem, to przewoźnicy szukają alternatywy. Chiński armator znalazł ją w porozumieniu z Rosją i trasie arktycznej",
+    "published": "2026-08-07T19:39:42",
+    "fetched": "2026-08-08T05:13:04.440956",
+    "title_uk": "Китайські судна обиратимуть арктичний маршрут для перевезень",
+    "summary_uk": "Китайський перевізник уклав угоду з Росією для використання арктичного маршруту. Це рішення стало відповіддю на небезпеки, пов'язані з традиційними шляхами на Близькому Сході. Очікується, що це зменшить ризики для перевезень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може призвести до зменшення витрат на логістику для польських дистриб'юторів, якщо вони зможуть скористатися новими маршрутами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Китайські судна обиратимуть арктичний маршрут для перевезень",
+    "summary": "Китайський перевізник уклав угоду з Росією для використання арктичного маршруту. Це рішення стало відповіддю на небезпеки, пов'язані з традиційними шляхами на Близькому Сході. Очікується, що це зменшить ризики для перевезень.",
+    "link": "https://businessinsider.com.pl/gospodarka/chinskie-statki-ruszaja-nowym-szlakiem-arktyczna-trasa-zamiast-kanalu-sueskiego/yp49k6k",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fa756b3e624b",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/placa-minimalna-wzrosnie-w-2027-r-rzad-oglasza-nowe-stawki/e0njnvn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd podał nową płacę minimalną. Wejdzie od stycznia",
+    "body_orig": "Płaca minimalna w 2027 r. wzrośnie do 4950 zł brutto, a minimalna stawka godzinowa do 32,30 zł brutto — zakłada projekt rozporządzenia Rady Ministrów.",
+    "published": "2026-08-07T18:53:32",
+    "fetched": "2026-08-08T05:13:04.440981",
+    "title_uk": "Польща підвищує мінімальну зарплату до 4950 злотих з 2027 року",
+    "summary_uk": "Уряд Польщі затвердив нову мінімальну зарплату на 2027 рік. Вона зросте до 4950 злотих брутто, а мінімальна погодинна ставка до 32,30 злотих брутто. Це рішення вплине на ринок праці та витрати бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання мінімальної зарплати може призвести до підвищення витрат на персонал. Розгляньте можливість коригування цін або оптимізації витрат.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в мінімальній зарплаті можуть вплинути на витрати на персонал у ритейлі. Перегляньте бюджети на Q1 2027 для корекції цін на товари."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Польща підвищує мінімальну зарплату до 4950 злотих з 2027 року",
+    "summary": "Уряд Польщі затвердив нову мінімальну зарплату на 2027 рік. Вона зросте до 4950 злотих брутто, а мінімальна погодинна ставка до 32,30 злотих брутто. Це рішення вплине на ринок праці та витрати бізнесу.",
+    "link": "https://businessinsider.com.pl/gospodarka/placa-minimalna-wzrosnie-w-2027-r-rzad-oglasza-nowe-stawki/e0njnvn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "60583b7488d5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/wildberries-pod-ostrzalem-dronow-rosyjska-platforma-szuka-partnerow/fm83hfp",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rosyjska wersja Amazona reaguje na zniszczenia dronami. Jedna piąta magazynów zniszczona",
+    "body_orig": "Największa rosyjska platforma handlu internetowego Wildberries ogłosiła poszukiwania partnerów do uruchomienia nowych hubów magazynowych. Decyzja ma związek z serią ukraińskich ataków dronami, które od trzech tygodni niszczą infrastrukturę tej firmy.",
+    "published": "2026-08-07T18:26:15",
+    "fetched": "2026-08-08T05:13:04.440990",
+    "title_uk": "Wildberries шукає нових партнерів через знищення складів",
+    "summary_uk": "Російська платформа Wildberries оголосила про пошук нових партнерів для створення складів. Це пов'язано з нещодавніми атаками дронів, які знищили близько 20% її інфраструктури. Компанія прагне відновити свою діяльність після трьох тижнів руйнувань.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Wildberries шукає нових партнерів через знищення складів",
+    "summary": "Російська платформа Wildberries оголосила про пошук нових партнерів для створення складів. Це пов'язано з нещодавніми атаками дронів, які знищили близько 20% її інфраструктури. Компанія прагне відновити свою діяльність після трьох тижнів руйнувань.",
+    "link": "https://businessinsider.com.pl/biznes/wildberries-pod-ostrzalem-dronow-rosyjska-platforma-szuka-partnerow/fm83hfp",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7401b988872",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/ceny-paliw-pojda-w-dol-analitycy-stawiaja-glownie-na-benzyne/x7fpcqj",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Paliwa będą tańsze. Analitycy zapowiadają wyraźne obniżki na stacjach",
+    "body_orig": "Kierowcy mogą spodziewać się kolejnych obniżek cen na stacjach benzynowych. Analitycy biura Reflex prognozują, że spadki obejmą wszystkie rodzaje paliw, przy czym największe dotyczyć mają benzyny.",
+    "published": "2026-08-07T17:58:11",
+    "fetched": "2026-08-08T05:13:04.441000",
+    "title_uk": "Ціни на пальне в Польщі знизяться",
+    "summary_uk": "Аналітики прогнозують зниження цін на всі види пального на АЗС у Польщі. Найбільше зниження очікується на бензин. Це може позитивно вплинути на витрати водіїв та загальний ринок пального.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін на пальне може зменшити витрати на логістику для дистриб'юторів, що позитивно позначиться на маржі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на пальне в Польщі знизяться",
+    "summary": "Аналітики прогнозують зниження цін на всі види пального на АЗС у Польщі. Найбільше зниження очікується на бензин. Це може позитивно вплинути на витрати водіїв та загальний ринок пального.",
+    "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-pojda-w-dol-analitycy-stawiaja-glownie-na-benzyne/x7fpcqj",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d275d27afc0d",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/polacy-maja-juz-prawie-20-mld-zl-w-etf-ach-rynek-widzi-dopiero-poczatek-wzrostu",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy mają już prawie 20 mld zł w ETF-ach. Rynek widzi dopiero początek wzrostu",
+    "body_orig": "19,6 miliarda złotych – taką kwotę ulokowali polscy inwestorzy indywidualni w funduszach ETF i innych giełdowych produktach typu ETP. W zaledwie pół roku wartość tych aktywów wzrosła o 52 proc. To dane z końca czerwca 2026 r., pochodzące z raportu „Aktywa Polaków w ETF-ach” przygotowanego przez Analizy Online we współpracy z Giełdą Papierów Wartościowych (GPW).\nSaldo wpłat i wypłat sięgnęło rekordowych 4,6 mld zł. Z tych pieniędzy prawie 3,5 mld złotych wpłynęło na warszawską giełdę. Jednak polski rynek ETF-ów jest nadal znacznie mniejszy niż w Europie Zachodniej i USA. Przedstawiciele GPW oraz TFI PZU liczą na dalszy rozwój: przez nowe ETF-y obligacyjne, większą wiedzę inwestorów i zmiany w przepisach.\nETF-y długo były w Polsce produktem raczej dla bardziej zaawansowanych inwestorów. Teraz stopniowo wychodzą z niszy. Polacy szukają prostych, tanich i przejrzystych sposobów inwestowania, a giełdowe fundusze indeksowe dobrze pasują do tej potrzeby.\nETF to fundusz notowany na giełdzie podobnie jak akcje. Inwestor może dzięki niemu uzyskać ekspozycję na cały indeks, konkretny rynek, klasę aktywów albo grupę papierów wartościowych bez samodzielnego kupowania wielu pojedynczych instrumentów. To łatwiejszy dostęp do zdywersyfikowanego portfela.\n– ETF-y to relatywnie nowa klasa aktywów na GPW, chociaż na świecie są już bardzo popularne – mówi Michał Kobza, członek zarządu Giełdy Papierów Wartościowych w Warszawie. – Zgodnie z ostatnim raportem Analiz Online za pierwsze półrocze, którego giełda jest także partnerem, Polacy ulokowali w ETF-ach ok. 20 mld zł. To już bardzo duża kwota i widzimy, że ten rynek rośnie bardzo szybko. ETF-y pozwalają Polakom w szybki i tani sposób pomnażać swoje oszczędności na rynku.\nPolska startuje z niskiej bazy\nNa krajowym rynku ETF-y wciąż mają dużo miejsca do wzrostu. Michał Kobza zwraca uwagę, że obecnie 4 proc. aktywów Polaków jest ulokowanych w ETF-ach, jeśli punktem odniesienia są aktywa zarządzane przez polskie TFI, przekraczające 450 mld zł.\nW Europie udział ETF-ów jest trzy razy wyższy. W Stanach Zjednoczonych sięga już 40-45 proc. aktywów w zarządzaniu. Ta różnica pokazuje skalę dystansu, który polski rynek może jeszcze nadrabiać.\n– Inwestorzy podchodzą dziś do ETF-ów bardzo entuzjastycznie, co widzimy po gwałtownym wzroście aktywów w tym segmencie. Jest to zjawisko obserwowane zarówno na świecie i w Europie, jak i w Polsce. Startujemy z niskiej bazy, dlatego wciąż mamy dużo do nadrobienia, ale informacje zwrotne od klientów na temat naszych dotychczasowych produktów są bardzo pozytywne. ETF-y są szczególnie atrakcyjne dla młodych ludzi, którzy nie chcą czekać kilku dni na rozliczenie wpłaty lub wypłaty z tradycyjnego funduszu. Liczą się dla nich szybkość, przejrzystość i niskie koszty, a wszystkie te elementy oferują właśnie ETF-y – zauważa Dariusz Kędziora, wiceprezes Towarzystwa Funduszy Inwestycyjnych PZU.\nSzybkość ma tu konkretne znaczenie. Jednostki ETF można kupować i sprzedawać podczas sesji giełdowej. Dla ",
+    "published": "2026-08-07T20:27:09",
+    "fetched": "2026-08-08T05:13:05.419992",
+    "title_uk": "Польські інвестори вклали майже 20 млрд zł в ETF",
+    "summary_uk": "Польські інвестори індивідуально вклали €4.4 млрд у фонди ETF, що на 52% більше за півроку. Загальна сума активів досягла €4.4 млрд. Польський ринок ETF все ще відстає від західноєвропейського та американського, де частка ETF у портфелях інвесторів значно вища.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності ETF може вплинути на дистрибуцію фінансових продуктів. Дистриб'ютори повинні розглянути можливість включення ETF у свої пропозиції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання інтересу до ETF може вплинути на категорійні стратегії в ритейлі. Рекомендується врахувати нові фінансові продукти при плануванні асортименту."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські інвестори вклали майже 20 млрд zł в ETF",
+    "summary": "Польські інвестори індивідуально вклали €4.4 млрд у фонди ETF, що на 52% більше за півроку. Загальна сума активів досягла €4.4 млрд. Польський ринок ETF все ще відстає від західноєвропейського та американського, де частка ETF у портфелях інвесторів значно вища.",
+    "link": "https://300gospodarka.pl/news/polacy-maja-juz-prawie-20-mld-zl-w-etf-ach-rynek-widzi-dopiero-poczatek-wzrostu",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aad4e97743ea",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/ceny-energii-w-polsce-lipiec-2026",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny energii rosną w Europie. W Polsce sierpień zaczął się od mocnego odbicia",
+    "body_orig": "Europa weszła w sierpień z drogą energią, a Polska po lipcowym spadku cen szybko zmieniła kierunek. Po pierwszych siedmiu dniach sierpnia średnie ceny energii na polskim rynku SPOT sięgnęły 600,86 zł/MWh, czyli 139,73 euro/MWh – wynika z analizy Energy Solution. Za wzrostami stoją upały, problemy z pracą elektrowni oraz drożejący gaz, którego ceny podbiły napięcia geopolityczne na Bliskim Wschodzie.\nLipiec już wcześniej przyniósł pogorszenie sytuacji w większości Europy. Średnia cena energii na Rynku Dnia Następnego, czyli rynku, na którym prąd kupuje się z dostawą kolejnego dnia, wzrosła o 4,2 proc. względem czerwca i wyniosła 102,92 euro/MWh.\nAż 21 krajów przekroczyło wówczas granicę 100 euro/MWh. Według Energy Solution to najwyższa liczba takich rynków od początku 2026 r.\nCeny energii w Polsce chwilowo spadły w lipcu\nNa tle Europy polski rynek wyróżnił się w lipcu niewielkim spadkiem. Średnia cena spot obniżyła się o 1,6 euro/MWh w porównaniu z czerwcem i wyniosła 112,29 euro/MWh.\nPoczątek sierpnia przyniósł jednak mocne odbicie. Średnia z pierwszego tygodnia miesiąca wyniosła 600,86 zł/MWh, czyli 139,73 euro/MWh. Jeśli kolejne tygodnie nie przyniosą poprawy, sierpień może znaleźć się wśród najdroższych miesięcy roku. Po pierwszych siedmiu dniach sierpień był drugim rekordowym miesiącem w roku co do ceny, ustępując jedynie styczniowi.\nEnergy Solution łączy wzrost cen energii w Polsce z kolejną falą upałów. Wysokie temperatury zwiększają zużycie energii przez systemy chłodzenia i klimatyzację. Jednocześnie krajowy system mierzy się z niską produkcją energii z wiatru oraz wyłączeniami części bloków m.in. w elektrowniach w Połańcu, Kozienicach i Bełchatowie.\nUpały uderzają w europejskie elektrownie\nProblemy nie kończą się na wyższym zapotrzebowaniu na klimatyzację. Wysoka temperatura i niski poziom wód utrudniają także pracę części elektrowni. Przykładowo we Francji konieczne było ograniczenie mocy wytwórczych. Według danych przytoczonych przez Energy Solution co najmniej 16 proc. długości francuskich rzek i strumieni całkowicie wyschło.\nNiedobór wody dotknął również inne części kontynentu. Poziom Dunaju spadł na tyle mocno, że na początku sierpnia unieruchomiono ważne elektrownie na Węgrzech i w Rumunii.\nTaki splot problemów powoduje, że upał działa na rynek energii z dwóch stron: zwiększa popyt na prąd, a zarazem może ograniczać jego podaż.\nDrożeje także energia na 2027 rok\nWzrosty nie dotyczą wyłącznie energii kupowanej z dnia na dzień. Podrożały również kontrakty terminowe, czyli umowy zawierane dziś na dostawy w przyszłości. Średnia cena rocznego kontraktu na energię na 2027 r. dla analizowanego przez Energy Solution obszaru osiągnęła w lipcu 94,71 euro/MWh. To o 6,71 euro/MWh, czyli 7,6 proc., więcej niż miesiąc wcześniej.\nNajmocniej do tego ruchu przyczyniły się surowce energetyczne, przede wszystkim gaz. Roczny kontrakt na 2027 r. dla TTF – głównego europejskiego punktu odniesienia dla cen gazu – podrożał w ciągu miesiąca o ponad 20 proc.",
+    "published": "2026-08-07T19:22:12",
+    "fetched": "2026-08-08T05:13:05.420029",
+    "title_uk": "Ціни на енергію в Польщі зросли до €139,73/MWh",
+    "summary_uk": "У серпні ціни на енергію в Польщі досягли €139,73/MWh, що на 7% більше, ніж у липні. Причини зростання — спекотна погода, проблеми з електростанціями та дорожчий газ. В Європі 21 країна перевищила ціну €100/MWh, що є рекордом з 2026 року.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на енергію в Польщі може вплинути на собівартість товарів, тому імпортерам варто переглянути ціни на продукцію.",
+      "pl_distributor": "Польським дистриб'юторам слід врахувати підвищення витрат на енергію при формуванні цін на продукцію, особливо у категоріях з високими витратами на зберігання.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на енергію може вплинути на витрати в категоріях, де енергетичні витрати є значними. Рекомендується переглянути бюджети на промо-акції."
+    },
+    "tags": [
+      "ціни-сировина",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на енергію в Польщі зросли до €139,73/MWh",
+    "summary": "У серпні ціни на енергію в Польщі досягли €139,73/MWh, що на 7% більше, ніж у липні. Причини зростання — спекотна погода, проблеми з електростанціями та дорожчий газ. В Європі 21 країна перевищила ціну €100/MWh, що є рекордом з 2026 року.",
+    "link": "https://300gospodarka.pl/news/ceny-energii-w-polsce-lipiec-2026",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b8a706f80a87",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/koszty-pracy-sa-dzis-najwieksza-bariera-firm-pie-pokazuje-co-jeszcze-blokuje-biznes",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koszty pracy są dziś największą barierą firm. PIE pokazuje, co jeszcze blokuje biznes",
+    "body_orig": "Koszty pracownicze, niepewna sytuacja gospodarcza i rosnące ceny energii – te trzy czynniki to największe bariery dla firm, które muszą pokonać. Badania Miesięcznego Indeksu Koniunktury (MIK), prowadzone przez Polski Instytut Ekonomiczny (PIE), pokazują głównie ten zestaw nieustannie od 2022 roku.\nKoszty pracy, energia i niepewność od lat blokują firmy\nOd stycznia 2022 r. aż do jesieni 2023 r. główną barierę utrudniającą działalność przedsiębiorstw stanowiła niepewność sytuacji gospodarczej. Wskazywało na nią od 66 proc. jesienią 2023 r. aż do ponad 80 proc. jesienią 2022 r. W kolejnych latach udział wskazań na tę barierę wyraźnie zmalał i wahał się w przedziale 50-60 proc. Wyjątkiem były marzec i kwiecień 2026 r., gdy aż 66 proc. firm wskazało na problemy związane z niepewną sytuacją gospodarczą.\nMiało to związek z międzynarodową sytuacją geopolityczną – atakiem USA na Iran. Z tego wyniknęły problemy na rynku paliwowym, które rozłożyły się po gospodarce. Wskazania na niepewność sytuacji gospodarczej są w mniejszym stopniu niż przy innych barierach zróżnicowane branżowo, choć można zauważyć, że nieco częściej wskazują na nią firmy z sektora transportu, spedycji i logistyki (TSL) (71 proc. w lipcu br.), a rzadziej – usługowe (50 proc.).\nEnergia i płace najmocniej uderzają w działalność firm\nOd końca 2023 r. na pierwsze miejsce wśród barier prowadzenia działalności wysunęły się koszty pracownicze. Według badań MIK wskazuje na nie około 2/3 badanych firm. Wahania pomiędzy poszczególnymi miesiącami są mniejsze niż w przypadku niepewnej sytuacji gospodarczej. PIE zwraca uwagę, że niewielki różnice widać też pomiędzy branżami.\nPodobnie jak przy poprzednim czynniku, nieco częściej wskazują na nie firmy TSL. Wskaźnik w tej branży osiągnął 73 proc. w lipcu 2026 r. Rzadziej na koszty pracownicze narzekają firmy usługowe (58 proc.).\nW przypadku trzeciej najczęściej wskazywanej bariery – czyli cen energii – maksimum wskazań miało miejsce w 2022 r. W ostatnim czasie gwałtowny wzrost, do 61 proc., nastąpił w kwietniu bieżącego roku. Branżą, która najczęściej skarży się na trudności związane z rosnącymi cenami energii, jest produkcja (65 proc. w lipcu br.), najrzadziej narzekają natomiast firmy budowlane (36 proc.).\nBrakuje ludzi, a płatności nadal się opóźniają\nKolejną ważną przeszkodą w prowadzeniu działalności gospodarczej są problemy związane z niedostępnością pracowników. W zeszłym miesiącu wskazywała je połowa firm. Tutaj można zaobserwować sezonowość – tłumaczy PIE. Wzrost wskazań rośnie latem, bo wtedy wzrasta zapotrzebowanie na pracowników sezonowych.\nNajczęściej brak wystarczającej liczby rąk do pracy przeszkadza w budownictwie – w lipcu tego roku było to niemal 70 proc. firm z tej branży. Podobnie było w budownictwie w poprzednich latach w miesiącach letnich.\nNa zatory płatnicze skarży się ponad 40 proc. badanych firm. Od 2022 roku ich udział waha się pomiędzy 40 a 50 proc. Najbardziej dokucza to firmom TSL (60 proc. firm z tej branży skarżyło się na",
+    "published": "2026-08-07T17:26:57",
+    "fetched": "2026-08-08T05:13:05.420056",
+    "title_uk": "Витрати на працю стали найбільшою перешкодою для польських компаній",
+    "summary_uk": "Згідно з дослідженням PIE, витрати на працю, енергетичні ціни та економічна невизначеність є основними бар'єрами для бізнесу в Польщі. Близько 66% компаній вказують на витрати на працю як на головну проблему. У транспортному секторі цей показник досягає 73%. Проблеми з доступністю працівників відзначають 50% компаній.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Витрати на працю можуть вплинути на ціни товарів. Розгляньте можливість перегляду цін на продукцію.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зверніть увагу на витрати на працю при формуванні цінової політики. Це може вплинути на маржу та переговори з постачальниками."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Витрати на працю стали найбільшою перешкодою для польських компаній",
+    "summary": "Згідно з дослідженням PIE, витрати на працю, енергетичні ціни та економічна невизначеність є основними бар'єрами для бізнесу в Польщі. Близько 66% компаній вказують на витрати на працю як на головну проблему. У транспортному секторі цей показник досягає 73%. Проблеми з доступністю працівників відзначають 50% компаній.",
+    "link": "https://300gospodarka.pl/news/koszty-pracy-sa-dzis-najwieksza-bariera-firm-pie-pokazuje-co-jeszcze-blokuje-biznes",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d638bfc025b",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-stocks-close-week-higher/4021554",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks close week higher",
+    "body_orig": "Dow Jones earns 0.28%, S&amp;P 500 0.62% and Nasdaq 1.3% while European indexes close mostly in positive side",
+    "published": "2026-08-07T20:54:18",
+    "fetched": "2026-08-08T05:13:13.751971",
+    "title_uk": "Американські акції закрили тиждень зростанням",
+    "summary_uk": "Індекси Dow Jones, S&P 500 та Nasdaq показали зростання на 0.28%, 0.62% та 1.3% відповідно. Європейські індекси також закрилися в плюсі. Це свідчить про позитивні настрої на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські акції закрили тиждень зростанням",
+    "summary": "Індекси Dow Jones, S&P 500 та Nasdaq показали зростання на 0.28%, 0.62% та 1.3% відповідно. Європейські індекси також закрилися в плюсі. Це свідчить про позитивні настрої на ринку.",
+    "link": "https://www.aa.com.tr/en/economy/us-stocks-close-week-higher/4021554",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "478f8e53429b",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/eu-government-budget-allocations-for-rd-rise-by-60-over-decade/4021424",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU government budget allocations for R&D rise by 60%+ over decade",
+    "body_orig": "EU governments allocate estimated $150.5B, up",
+    "published": "2026-08-07T16:49:23",
+    "fetched": "2026-08-08T05:13:13.751985",
+    "title_uk": "Бюджет ЄС на НДДКР зріс на понад 60% за десятиліття",
+    "summary_uk": "Уряд ЄС виділив приблизно $150.5 млрд на наукові дослідження та розробки. Це свідчить про зростання інвестицій у цю сферу за останні десять років. Збільшення фінансування може стимулювати інновації та розвиток технологій у країнах ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Бюджет ЄС на НДДКР зріс на понад 60% за десятиліття",
+    "summary": "Уряд ЄС виділив приблизно $150.5 млрд на наукові дослідження та розробки. Це свідчить про зростання інвестицій у цю сферу за останні десять років. Збільшення фінансування може стимулювати інновації та розвиток технологій у країнах ЄС.",
+    "link": "https://www.aa.com.tr/en/economy/eu-government-budget-allocations-for-rd-rise-by-60-over-decade/4021424",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5d492669dbb3",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/primul-hotel-de-brand-international-de-pe-valea-prahovei-a-fost-deschis-la-sinaia-primii-turisti-s-au-cazat-deja-la-radisson-blu-cota-1400-23212116",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "​Primul hotel de brand internaţional de pe Valea Prahovei a fost deschis la Sinaia. Primii turişti s-au cazat deja la Radisson Blu Cota 1400",
+    "body_orig": "",
+    "published": "2026-08-08T05:00:00",
+    "fetched": "2026-08-08T05:13:17.316224",
+    "title_uk": "Відкрито перший міжнародний готель у Сінаї",
+    "summary_uk": "У Сінаї відкрився готель Radisson Blu Cota 1400, що став першим міжнародним брендом у регіоні. Перші туристи вже розмістилися в новому готелі, що підвищить туристичну привабливість Валеї Праховеї. Це може стимулювати розвиток місцевої економіки та інфраструктури.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це відкриття може створити нові можливості для турецьких виробників, які постачають продукцію в сегмент HoReCa. Рекомендується вивчити можливості співпраці з новим готелем.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Відкрито перший міжнародний готель у Сінаї",
+    "summary": "У Сінаї відкрився готель Radisson Blu Cota 1400, що став першим міжнародним брендом у регіоні. Перші туристи вже розмістилися в новому готелі, що підвищить туристичну привабливість Валеї Праховеї. Це може стимулювати розвиток місцевої економіки та інфраструктури.",
+    "link": "https://www.zf.ro/zf-24/primul-hotel-de-brand-international-de-pe-valea-prahovei-a-fost-deschis-la-sinaia-primii-turisti-s-au-cazat-deja-la-radisson-blu-cota-1400-23212116",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1761856f152d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/cum-se-adapteaza-companiile-antreprenoriale-din-segmentul-premium-la-scaderea-consumului-lanseaza-branduri-mai-ieftine-pentru-cumparatorii-care-pun-accent-doar-pe-pret-23211469",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum se adaptează companiile antreprenoriale din segmentul premium la scăderea consumului: lansează branduri mai ieftine pentru cumpărătorii care pun accent doar pe preţ",
+    "body_orig": "În perioadele dificile din punct de vedere economic, cel mai protejat segment de piaţă este cel de sus, cel premium, doarece istoria a arătat că oamenii cu venituri mari sunt mai puţin afectaţi de crize şi recesiuni şi, totodată, îşi schimbă mai greu comporta­mentul de consum.",
+    "published": "2026-08-07T21:07:00",
+    "fetched": "2026-08-08T05:13:17.316253",
+    "title_uk": "Компанії преміум-сегменту запускають дешевші бренди через зниження споживання",
+    "summary_uk": "У відповідь на економічні труднощі, компанії преміум-сегменту починають пропонувати дешевші бренди для споживачів, які орієнтуються на ціну. Це свідчить про зміни в поведінці споживачів, які, незважаючи на високі доходи, шукають вигідні пропозиції. Відомо, що преміум-сегмент зазвичай менш вразливий до криз.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на стратегії категорійних менеджерів, оскільки зростання попиту на дешевші бренди може змінити асортимент та цінову політику в ритейлі."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG",
+      "private-label"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Компанії преміум-сегменту запускають дешевші бренди через зниження споживання",
+    "summary": "У відповідь на економічні труднощі, компанії преміум-сегменту починають пропонувати дешевші бренди для споживачів, які орієнтуються на ціну. Це свідчить про зміни в поведінці споживачів, які, незважаючи на високі доходи, шукають вигідні пропозиції. Відомо, що преміум-сегмент зазвичай менш вразливий до криз.",
+    "link": "https://www.zf.ro/companii/cum-se-adapteaza-companiile-antreprenoriale-din-segmentul-premium-la-scaderea-consumului-lanseaza-branduri-mai-ieftine-pentru-cumparatorii-care-pun-accent-doar-pe-pret-23211469",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8dbd9f77a0a1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/cat-multe-credite-consum-au-dat-bancile-s1-2026-volumul-finantarilor-consum-lei-s-apropiat-s1-2026-27-mld-lei-dupa-crestere-4-adica-plus-1-mld-lei-fata-nivelul-cumulat-s1-2025-23211509",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cât de multe credite de consum au dat băncile în S1/2026? Volumul finanţărilor noi de consum în lei s-a apropiat în S1/2026 de 27 mld. lei, după o creştere cu doar 4%, adică un plus de doar 1 mld. lei, faţă de nivelul cumulat din S1/2025",
+    "body_orig": "Românii au continuat să apeleze la finanţări bancare în primul semestru (S1) din acest an, dar apetitul pentru creditele de consum a rămas temperat, volumele lunare ale finanţărilor noi în lei de acest tip fiind preponderent sub 5 mld. lei, după cum indică datele BNR.",
+    "published": "2026-08-07T21:07:00",
+    "fetched": "2026-08-08T05:13:17.316263",
+    "title_uk": "Обсяги нових споживчих кредитів у Румунії зросли на 4% у першому півріччі 2026",
+    "summary_uk": "У першому півріччі 2026 року румунські банки видали нові споживчі кредити на суму близько 27 млрд. леїв, що на 1 млрд. леїв більше, ніж у аналогічному періоді 2025 року. Проте, попит на споживчі кредити залишається помірним, з місячними обсягами, що переважно не перевищують 5 млрд. леїв.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "фінанси"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Обсяги нових споживчих кредитів у Румунії зросли на 4% у першому півріччі 2026",
+    "summary": "У першому півріччі 2026 року румунські банки видали нові споживчі кредити на суму близько 27 млрд. леїв, що на 1 млрд. леїв більше, ніж у аналогічному періоді 2025 року. Проте, попит на споживчі кредити залишається помірним, з місячними обсягами, що переважно не перевищують 5 млрд. леїв.",
+    "link": "https://www.zf.ro/banci-si-asigurari/cat-multe-credite-consum-au-dat-bancile-s1-2026-volumul-finantarilor-consum-lei-s-apropiat-s1-2026-27-mld-lei-dupa-crestere-4-adica-plus-1-mld-lei-fata-nivelul-cumulat-s1-2025-23211509",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e9c36824b035",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/interviu-szabolcs-nemes-roland-berger-principalele-motive-ingrijorare-fondurile-investitii-romania-contextul-local-atat-economic-cat-politic-instabilitatea-scena-geopolitica-internationala-23211512",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Interviu. Szabolcs Nemes, Roland Berger: Principalele motive de îngrijorare pentru fondurile de investiţii din România sunt contextul local - atât economic, cât şi politic, instabilitatea de pe scena geopolitică internaţională, disponibilitatea ţintelor pe plan autohton şi evaluarea acestora",
+    "body_orig": "Fondurile de private equity au făcut anul trecut un total de 128 de tranzacţii în regiunea Europei Centrale şi de Est, iar dintre acestea 18 au fost în România, arată un raport al companiei de consul­tanţă Roland Berger, ce foloseşte datele Prequin.",
+    "published": "2026-08-07T21:07:00",
+    "fetched": "2026-08-08T05:13:17.316274",
+    "title_uk": "Фонди приватного капіталу в Румунії: 18 угод у 2022 році",
+    "summary_uk": "У 2022 році фонди приватного капіталу здійснили 128 угод у Центральній та Східній Європі, з яких 18 — в Румунії. Основні проблеми для інвесторів включають економічну та політичну нестабільність, а також оцінку цілей на місцевому ринку. Дані надані компанією Roland Berger.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Фонди приватного капіталу в Румунії: 18 угод у 2022 році",
+    "summary": "У 2022 році фонди приватного капіталу здійснили 128 угод у Центральній та Східній Європі, з яких 18 — в Румунії. Основні проблеми для інвесторів включають економічну та політичну нестабільність, а також оцінку цілей на місцевому ринку. Дані надані компанією Roland Berger.",
+    "link": "https://www.zf.ro/companii/interviu-szabolcs-nemes-roland-berger-principalele-motive-ingrijorare-fondurile-investitii-romania-contextul-local-atat-economic-cat-politic-instabilitatea-scena-geopolitica-internationala-23211512",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "71dac4c0f7dd",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/suflu-nou-intr-un-sector-de-20-mld-euro-branduri-tinere-s-au-infiltrat-pe-rafturi-printre-gigantii-din-inghetata-lactate-creme-tartinabile-si-bauturi-23211523",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Suflu nou într-un sector de 20 mld. euro: branduri tinere s-au „infiltrat“ pe rafturi printre giganţii din îngheţată, lactate, creme tartinabile şi băuturi",
+    "body_orig": "Mai mult de 75% dintre în­tre­prinderile din industria lactatelor sunt la nivel micro, 67% din cifra de afaceri din domeniul îngheţatei este adus de firmele micro, mici şi medii, în timp ce în industria berii sunt 76 microberării dintr-un total de 88 de fabrici - sunt doar câteva cifre care arată, în linii mari, dimensiunea antre­pre­noriatului din sectorul pro­duc­ţiei de alimente şi băuturi.",
+    "published": "2026-08-07T21:07:00",
+    "fetched": "2026-08-08T05:13:17.316284",
+    "title_uk": "Молоді бренди проникають у сектор молочних продуктів та напоїв Румунії",
+    "summary_uk": "У румунському ринку молочних продуктів, морозива та пива більше 75% підприємств є мікро-компаніями. 67% доходів у секторі морозива генерують мікро, малі та середні підприємства. У пивній індустрії з 88 заводів 76 — мікропивоварні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання молодих брендів у Румунії може вплинути на асортимент і конкурентоспроможність в Україні. Рекомендується переглянути стратегії закупівель та співпраці з новими постачальниками."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Молоді бренди проникають у сектор молочних продуктів та напоїв Румунії",
+    "summary": "У румунському ринку молочних продуктів, морозива та пива більше 75% підприємств є мікро-компаніями. 67% доходів у секторі морозива генерують мікро, малі та середні підприємства. У пивній індустрії з 88 заводів 76 — мікропивоварні.",
+    "link": "https://www.zf.ro/companii/suflu-nou-intr-un-sector-de-20-mld-euro-branduri-tinere-s-au-infiltrat-pe-rafturi-printre-gigantii-din-inghetata-lactate-creme-tartinabile-si-bauturi-23211523",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "abdbc394328f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/angajeaza-romania-top-20-sectoare-activitate-dupa-cresterea-numarului-salariati-constructiile-transporturile-horeca-tin-piata-muncii-miscare-per-total-economia-pierdut-62-600-salariati-2026-fata-23211553",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cine mai angajează în România. Top 20 de sectoare de activitate după creşterea numărului de salariaţi: construcţiile, transporturile şi HoReCa ţin piaţa muncii în mişcare. Per total, economia a pierdut 62.600 de salariaţi în mai 2026 faţă de aceeaşi lună din 2025",
+    "body_orig": "Top 20 de sectoare de acti­vitate care au recrutat cei mai mulţi anga­jaţi în ultimul an este condus de construcţii, transporturi, alte activităţi de servicii şi restaurante şi alte activităţi de servicii de alimentaţie, arată calculele ZF pe baza datelor de la Institutul Naţional de Statistică (INS).",
+    "published": "2026-08-07T21:07:00",
+    "fetched": "2026-08-08T05:13:17.316295",
+    "title_uk": "В Україні зростає попит на працівників у будівництві та транспорті",
+    "summary_uk": "У Румунії за останній рік найбільше нових працівників було найнято в будівництві, транспорті та HoReCa. Загалом економіка втратила 63 тис. працівників у травні 2026 року в порівнянні з травнем 2025 року. Це свідчить про зміни на ринку праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "В Україні зростає попит на працівників у будівництві та транспорті",
+    "summary": "У Румунії за останній рік найбільше нових працівників було найнято в будівництві, транспорті та HoReCa. Загалом економіка втратила 63 тис. працівників у травні 2026 року в порівнянні з травнем 2025 року. Це свідчить про зміни на ринку праці.",
+    "link": "https://www.zf.ro/eveniment/angajeaza-romania-top-20-sectoare-activitate-dupa-cresterea-numarului-salariati-constructiile-transporturile-horeca-tin-piata-muncii-miscare-per-total-economia-pierdut-62-600-salariati-2026-fata-23211553",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d55100fb3dd8",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/grupul-lactalis-a-trecut-de-afaceri-de-2-5-mld-lei-covalact-si-ladorna-conduc-plutonul-cresterilor-23211530",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul Lactalis a trecut de afaceri de 2,5 mld. lei. Covalact şi LaDorna conduc plutonul creşterilor",
+    "body_orig": "Grupul Lactalis, cel mai mare jucător din domeniul lactatelor, activ şi în producţia de sucuri cu brandul Santal, a terminat anul 2025 cu o cifră de afaceri cumulată de 2,5 mld. lei (circa 500 mil. euro), cu aproape 9% faţă de anul precedent, arată calculele ZF făcute pe baza datelor de la Ministerul de Finanţe.",
+    "published": "2026-08-07T21:06:00",
+    "fetched": "2026-08-08T05:13:17.316304",
+    "title_uk": "Grupul Lactalis досягнув обороту €500 млн у 2025 році",
+    "summary_uk": "Grupul Lactalis, провідний виробник молочних продуктів, завершив 2025 рік з оборотом €500 млн, що на 9% більше, ніж у 2024 році. Основні учасники зростання — Covalact і LaDorna. Дані надані Міністерством фінансів Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання Lactalis може вплинути на конкуренцію в сегменті молочних продуктів. Рекомендується переглянути асортимент та стратегії для утримання позицій на ринку."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Grupul Lactalis досягнув обороту €500 млн у 2025 році",
+    "summary": "Grupul Lactalis, провідний виробник молочних продуктів, завершив 2025 рік з оборотом €500 млн, що на 9% більше, ніж у 2024 році. Основні учасники зростання — Covalact і LaDorna. Дані надані Міністерством фінансів Румунії.",
+    "link": "https://www.zf.ro/companii/grupul-lactalis-a-trecut-de-afaceri-de-2-5-mld-lei-covalact-si-ladorna-conduc-plutonul-cresterilor-23211530",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f70cafc915ce",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/romania-scapa-la-limita-de-fmi-ministrul-finantelor-nazare-despre-decizia-moodys-e-un-ragaz-de-cateva-luni_966394.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "România scapă la limită de FMI. Ministrul finanțelor, Nazare, despre decizia Moody’s: E un răgaz de câteva luni",
+    "body_orig": "România evită la mustață un nou împrumut de la FMI, cel puțin până în toamnă. După ce Fitch Ratings, cea mai mare și mai \"blândă\" dintre marile agenții de rating ale lumii, a confirmat în ultima clipă ratingul de țară al României, deși inițial luase altă decizie, vine rândul Moody's să facă același lucru.",
+    "published": "2026-08-07T21:05:53",
+    "fetched": "2026-08-08T05:13:19.698834",
+    "title_uk": "Румунія уникнула нового кредиту від МВФ до осені",
+    "summary_uk": "Румунія отримала підтвердження рейтингу від Fitch Ratings, що дозволило уникнути нового кредиту від МВФ. Moody's також підтвердила рейтинг країни, що дає Румунії кілька місяців для стабілізації фінансів. Міністр фінансів зазначив, що це дає певний час для економічних реформ.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія уникнула нового кредиту від МВФ до осені",
+    "summary": "Румунія отримала підтвердження рейтингу від Fitch Ratings, що дозволило уникнути нового кредиту від МВФ. Moody's також підтвердила рейтинг країни, що дає Румунії кілька місяців для стабілізації фінансів. Міністр фінансів зазначив, що це дає певний час для економічних реформ.",
+    "link": "https://www.economica.net/romania-scapa-la-limita-de-fmi-ministrul-finantelor-nazare-despre-decizia-moodys-e-un-ragaz-de-cateva-luni_966394.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bbed85c05b1c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ppc-se-extinde-agresiv-in-europa-centrala-cumpara-o-firma-germana-cu-un-portofoliu-de-2-000-mw-in-regenerabil-in-polonia-si-ungaria_966386.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "PPC se extinde agresiv în Europa centrală: cumpără o firmă germană cu un portofoliu de 2.000 MW în regenerabil în Polonia și Ungaria",
+    "body_orig": "Grupul PPC anunță semnarea unui acord strategic cu compania germană ABO Energy GmbH &#038; Co. KGaA pentru achiziția filialelor sale din Polonia și Ungaria, împreună cu un portofoliu de proiecte RES cu o capacitate totală de peste 2 GW, arată un comunicat de presă al grupului elen foarte activ și în România.",
+    "published": "2026-08-07T20:31:23",
+    "fetched": "2026-08-08T05:13:19.698860",
+    "title_uk": "PPC купує німецьку компанію для розширення в Польщі та Угорщині",
+    "summary_uk": "Група PPC підписала угоду з ABO Energy GmbH про придбання її активів у Польщі та Угорщині. Угода включає портфель проектів відновлювальної енергетики з загальною потужністю понад 2 ГВт. Це дозволить PPC зміцнити свої позиції в Центральній Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може створити нові можливості для співпраці з PPC у сфері дистрибуції енергії. Розгляньте можливість партнерства з новими проектами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "PPC купує німецьку компанію для розширення в Польщі та Угорщині",
+    "summary": "Група PPC підписала угоду з ABO Energy GmbH про придбання її активів у Польщі та Угорщині. Угода включає портфель проектів відновлювальної енергетики з загальною потужністю понад 2 ГВт. Це дозволить PPC зміцнити свої позиції в Центральній Європі.",
+    "link": "https://www.economica.net/ppc-se-extinde-agresiv-in-europa-centrala-cumpara-o-firma-germana-cu-un-portofoliu-de-2-000-mw-in-regenerabil-in-polonia-si-ungaria_966386.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7c582dd2f4c4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/guvernul-anunta-ca-platforma-e-terra-va-deveni-functionala-saptamana-viitoare_966380.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Guvernul anunță că platforma e-Terra va deveni funcţională săptămâna viitoare",
+    "body_orig": "Testele de securitate, funcţionalitate şi performanţă ale sistemului e-Terra avansează bine, iar potrivit estimărilor platforma va deveni funcţională în cursul săptămânii viitoare, a informat vineri Guvernul, transmite Agerpres.",
+    "published": "2026-08-07T19:11:29",
+    "fetched": "2026-08-08T05:13:19.698878",
+    "title_uk": "Уряд Румунії анонсує запуск платформи e-Terra наступного тижня",
+    "summary_uk": "Румунський уряд повідомив, що платформа e-Terra стане функціональною наступного тижня. Тестування системи з безпеки та продуктивності проходить успішно. Це важливий крок у цифровізації державних послуг.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Уряд Румунії анонсує запуск платформи e-Terra наступного тижня",
+    "summary": "Румунський уряд повідомив, що платформа e-Terra стане функціональною наступного тижня. Тестування системи з безпеки та продуктивності проходить успішно. Це важливий крок у цифровізації державних послуг.",
+    "link": "https://www.economica.net/guvernul-anunta-ca-platforma-e-terra-va-deveni-functionala-saptamana-viitoare_966380.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19b28971e0d8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/romania-a-trimis-alerta-timpurie-comisiei-europene-si-statelor-membre-din-cauza-situatiei-dificile-din-energie_966379.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "România a trimis alertă timpurie Comisiei Europene și statelor membre din cauza situației dificile din energie",
+    "body_orig": "Ministerul Energiei a emis vineri o alertă timpurie către Comisia Europeană și statele membre ale UE, avertizând că seceta hidrologică și nivelul scăzut al Dunării se apropie de pragul critic pentru funcționarea în siguranță a Centralei Nuclearelectrice de la Cernavodă. După oprirea Unității 1, autoritățile avertizează că există riscul indisponibilizării și a Reactorului 2, potrivit unui comunicat al Ministerului Energiei.",
+    "published": "2026-08-07T19:10:08",
+    "fetched": "2026-08-08T05:13:19.698887",
+    "title_uk": "Румунія попереджає про загрозу для ядерної енергетики",
+    "summary_uk": "Міністерство енергетики Румунії надіслало попередження до ЄС через критичну ситуацію з водними ресурсами. Низький рівень води в Дунаї загрожує безпеці роботи ядерної електростанції в Чорнобилі. Після зупинки першого реактора існує ризик зупинки і другого.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Румунія попереджає про загрозу для ядерної енергетики",
+    "summary": "Міністерство енергетики Румунії надіслало попередження до ЄС через критичну ситуацію з водними ресурсами. Низький рівень води в Дунаї загрожує безпеці роботи ядерної електростанції в Чорнобилі. Після зупинки першого реактора існує ризик зупинки і другого.",
+    "link": "https://www.economica.net/romania-a-trimis-alerta-timpurie-comisiei-europene-si-statelor-membre-din-cauza-situatiei-dificile-din-energie_966379.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "30cfd59a61ac",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/dunarea-secata-ne-seaca-si-buzunarele-criza-din-energie-va-creste-inflatia-in-romania-singura-tara-ue-care-are-stagflatie-adica-inflatie-mare-si-recesiune-concomitent-ing_966102.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Dunărea secată ne seacă și buzunarele. Criza din energie va crește inflația în România, singura țară UE care are stagflație, adică inflație mare și recesiune concomitent – ING",
+    "body_orig": "Un șoc energetic persistent ar periclita ținta de inflație de 6% pentru acest an. Producția industrială, deja cu o scădere de 3,1% în primele 5 luni,este principalul sector afectat de criza energiei.Când Dunărea scade, costurile transporturilor cresc. ”Este totuși un șoc stagflaționist: reduce producția, în timp ce crește costurile energiei electrice, transportului și, potențial, ale producției alimentare”, arată analiza realizată de Valentin Tătaru, economist șef al ING Bank.",
+    "published": "2026-08-07T19:01:12",
+    "fetched": "2026-08-08T05:13:19.698898",
+    "title_uk": "Криза в енергетиці підвищить інфляцію в Румунії до 6%",
+    "summary_uk": "Енергетичний шок загрожує цільовій інфляції в 6% в Румунії. Промислове виробництво знизилося на 3% за перші 5 місяців року. Зростання витрат на енергію та транспортування вплине на виробництво та ціни на продукти. Румунія є єдиною країною ЄС, що стикається зі стагфляцією.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на енергію в Румунії може вплинути на вартість імпортних товарів. Розгляньте можливість коригування цін на продукцію.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання витрат на енергію може призвести до підвищення цін на продукцію в ритейлі. Перегляньте стратегії ціноутворення для адаптації до нових умов."
+    },
+    "tags": [
+      "ціни-сировина",
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Криза в енергетиці підвищить інфляцію в Румунії до 6%",
+    "summary": "Енергетичний шок загрожує цільовій інфляції в 6% в Румунії. Промислове виробництво знизилося на 3% за перші 5 місяців року. Зростання витрат на енергію та транспортування вплине на виробництво та ціни на продукти. Румунія є єдиною країною ЄС, що стикається зі стагфляцією.",
+    "link": "https://www.economica.net/dunarea-secata-ne-seaca-si-buzunarele-criza-din-energie-va-creste-inflatia-in-romania-singura-tara-ue-care-are-stagflatie-adica-inflatie-mare-si-recesiune-concomitent-ing_966102.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e019335d06ba",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ukrayinska-kompaniya-anonsuvala-dostupnii-udarnii-dron-iz-dalnistyu-do-70-km-938lo6",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українська компанія анонсувала доступний ударний дрон із дальністю до 70 км",
+    "body_orig": "Українська компанія EDRONE анонсувала новий ударний безпілотник Zipper, який розробляють для масового застосування. За даними виробника, дрон матиме дальність польоту до 70 км та зможе нести бойову частину вагою близько 3 кг.",
+    "published": "2026-08-07T19:15:49",
+    "fetched": "2026-08-08T05:13:09.748850",
+    "title_uk": "EDRONE анонсує новий ударний дрон Zipper з дальністю до 70 км",
+    "summary_uk": "Компанія EDRONE представила ударний безпілотник Zipper, який розробляють для масового застосування. Дрон має дальність польоту до 70 км і може нести бойову частину вагою близько 3 кг. Цей продукт може стати важливим елементом у військових операціях.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "EDRONE анонсує новий ударний дрон Zipper з дальністю до 70 км",
+    "summary": "Компанія EDRONE представила ударний безпілотник Zipper, який розробляють для масового застосування. Дрон має дальність польоту до 70 км і може нести бойову частину вагою близько 3 кг. Цей продукт може стати важливим елементом у військових операціях.",
+    "link": "https://speka.ua/news/ukrayinska-kompaniya-anonsuvala-dostupnii-udarnii-dron-iz-dalnistyu-do-70-km-938lo6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
