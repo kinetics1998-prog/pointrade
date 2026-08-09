@@ -190388,5 +190388,928 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "e8cccc9e310a",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Windykatorzy-maja-pelne-rece-pracy-Do-obslugi-trafily-dlugi-za-34-2-mld-zl-9177598.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Windykatorzy mają pełne ręce pracy. Do obsługi trafiły długi za 34,2 mld zł",
+    "body_orig": "Przedsiębiorstwa windykacyjne w 2025 r. przyjęły do obsługi 6,7 mln wierzytelności o wartości 34,2 mld zł – podał we wtorek GUS. Łączny zysk firm windykacyjnych prowadzących księgowość w 2025 r. wyniósł prawie 1,6 mld zł.",
+    "published": "2026-08-09T09:00:00",
+    "fetched": "2026-08-09T16:34:19.726854",
+    "title_uk": "Польські компанії зобов'язані обробляти 6,7 млн боргів на €7.5 млрд",
+    "summary_uk": "У 2025 році підприємства з управління боргами в Польщі обробили 6,7 млн боргів на загальну суму €7.5 млрд. Загальний прибуток компаній у цій сфері склав близько €0.35 млрд. Ці дані оприлюднив Головний статистичний управління Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання оброблених боргів може свідчити про фінансові труднощі споживачів, що вплине на попит. Розгляньте коригування асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання боргів може призвести до зменшення витрат споживачів на FMCG. Перегляньте стратегії промо-акцій та управління запасами."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські компанії зобов'язані обробляти 6,7 млн боргів на €7.5 млрд",
+    "summary": "У 2025 році підприємства з управління боргами в Польщі обробили 6,7 млн боргів на загальну суму €7.5 млрд. Загальний прибуток компаній у цій сфері склав близько €0.35 млрд. Ці дані оприлюднив Головний статистичний управління Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/Windykatorzy-maja-pelne-rece-pracy-Do-obslugi-trafily-dlugi-za-34-2-mld-zl-9177598.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e09b9ae2761a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/szef-pwc-wytyka-firmom-bledy-z-ai-sposob-myslenia-jest-niewlasciwy/7dgp7lz",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Szef giganta z USA wytyka firmom błędy z AI. Mówi nam o największej szansie zawodowej, jaką widział w karierze",
+    "body_orig": "Prezes PwC w Stanach Zjednoczonych Paul Griggs uważa, że firmy mylnie postrzegają sztuczną inteligencję w dwóch kluczowych aspektach. Na obu cierpią finansowo.",
+    "published": "2026-08-09T15:13:00",
+    "fetched": "2026-08-09T16:34:21.370937",
+    "title_uk": "Голова PwC США вказує на помилки компаній у використанні AI",
+    "summary_uk": "Пол Гріггс, президент PwC у США, зазначає, що компанії неправильно сприймають штучний інтелект у двох важливих аспектах, що призводить до фінансових втрат. Він вважає, що це найбільша професійна можливість, яку він бачив за свою кар'єру.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Розуміння помилок у впровадженні AI може допомогти польським дистриб'юторам уникнути фінансових втрат. Рекомендується переглянути стратегії впровадження технологій.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо враховувати рекомендації Гріггса щодо використання AI для оптимізації процесів. Це може вплинути на ефективність управління категоріями."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Голова PwC США вказує на помилки компаній у використанні AI",
+    "summary": "Пол Гріггс, президент PwC у США, зазначає, що компанії неправильно сприймають штучний інтелект у двох важливих аспектах, що призводить до фінансових втрат. Він вважає, що це найбільша професійна можливість, яку він бачив за свою кар'єру.",
+    "link": "https://businessinsider.com.pl/biznes/szef-pwc-wytyka-firmom-bledy-z-ai-sposob-myslenia-jest-niewlasciwy/7dgp7lz",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a79530661536",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/mniej-urzadzen-wiecej-pieniedzy-nowa-ekonomia-rynku-smartfonow/1ewvn38",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rynek smartfonów pękł na pół. Jedni tracą miliardy, inni biją rekordy",
+    "body_orig": "Analitycy od kilku kwartałów ostrzegali, że rynek smartfonów czeka tąpnięcie. Teraz to zapowiadane tąpnięcie stało się wyraźnie widocznym faktem, choć nie dla wszystkich jest to zła informacja.",
+    "published": "2026-08-09T12:32:54",
+    "fetched": "2026-08-09T16:34:21.370977",
+    "title_uk": "Ринок смартфонів розділився: одні втрачають, інші ростуть",
+    "summary_uk": "Аналіз показує, що ринок смартфонів переживає значний спад. Деякі компанії зазнають збитків, тоді як інші демонструють рекордні продажі. Це свідчить про серйозні зміни в попиті та пропозиції на ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ринок смартфонів розділився: одні втрачають, інші ростуть",
+    "summary": "Аналіз показує, що ринок смартфонів переживає значний спад. Деякі компанії зазнають збитків, тоді як інші демонструють рекордні продажі. Це свідчить про серйозні зміни в попиті та пропозиції на ринку.",
+    "link": "https://businessinsider.com.pl/technologie/mniej-urzadzen-wiecej-pieniedzy-nowa-ekonomia-rynku-smartfonow/1ewvn38",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "166fbfacae32",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/nowe-technologie/tradycja-kontra-wygoda-na-rynku-konsolowym-trwa-najwazniejsza-od-30-lat-bitwa/gx9jz2b",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Microsoft przed życiową szansą? Po latach upokorzeń mogą wyprzedzić PlayStation",
+    "body_orig": "Nie milkną echa decyzji Sony o zakończeniu produkcji fizycznych nośników na konsole PlayStation. Termin wyznaczony na 2028 r. wciąż wydaje się odległy, ale ma realne implikacje także i dla sytuacji bieżącej. Zwłaszcza w kontekście najbliższych planów Microsoftu.",
+    "published": "2026-08-09T11:37:10",
+    "fetched": "2026-08-09T16:34:21.370995",
+    "title_uk": "Microsoft може випередити PlayStation після рішення Sony",
+    "summary_uk": "Sony оголосила про завершення виробництва фізичних носіїв для PlayStation до 2028 року. Це створює можливості для Microsoft, яка може скористатися ситуацією на ринку консолей. Зміни в стратегії Sony можуть вплинути на конкурентоспроможність обох компаній.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Microsoft може випередити PlayStation після рішення Sony",
+    "summary": "Sony оголосила про завершення виробництва фізичних носіїв для PlayStation до 2028 року. Це створює можливості для Microsoft, яка може скористатися ситуацією на ринку консолей. Зміни в стратегії Sony можуть вплинути на конкурентоспроможність обох компаній.",
+    "link": "https://businessinsider.com.pl/technologie/nowe-technologie/tradycja-kontra-wygoda-na-rynku-konsolowym-trwa-najwazniejsza-od-30-lat-bitwa/gx9jz2b",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "88a554e1c7d5",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/pieniadze/wyscig-gigantow-po-zabke-analityk-zwraca-uwage-na-przeciek-7315829231556608a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wyścig gigantów po Żabkę. Analityk zwraca uwagę na \"przeciek\"",
+    "body_orig": "Ponad 30 miliardów złotych, dwóch światowych rywali, tak w skrócie wyglądały kulisy przejęcia Żabki. Grzegorz Zalewski, analityk DM BOŚ, zwraca uwagę w \"Biznes Klasie\" na serię nietypowych transakcji na rynku kontraktów terminowych jeszcze przed ogłoszeniem wezwania.",
+    "published": "2026-08-09T14:58:10",
+    "fetched": "2026-08-09T16:34:24.503726",
+    "title_uk": "Конкуренція за Żabkę: аналітики вказують на підозрілі угоди",
+    "summary_uk": "Два глобальні гравці змагаються за Żabkę, оцінюючи угоду в понад 30 млрд злотих. Аналітик Grzegorz Zalewski звертає увагу на незвичні транзакції на ринку ф'ючерсів перед оголошенням про купівлю. Це може свідчити про підготовку до великої угоди.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Конкуренція за Żabkę може вплинути на ціни та умови співпраці в польському ритейлі. Дистриб'ютори повинні бути готові до змін у ринковій ситуації.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в управлінні Żabką можуть вплинути на категорійні стратегії. Рекомендується переглянути асортимент і умови співпраці з новими гравцями на ринку."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 2,
+    "category": "deal",
+    "title": "Конкуренція за Żabkę: аналітики вказують на підозрілі угоди",
+    "summary": "Два глобальні гравці змагаються за Żabkę, оцінюючи угоду в понад 30 млрд злотих. Аналітик Grzegorz Zalewski звертає увагу на незвичні транзакції на ринку ф'ючерсів перед оголошенням про купівлю. Це може свідчити про підготовку до великої угоди.",
+    "link": "https://www.money.pl/pieniadze/wyscig-gigantow-po-zabke-analityk-zwraca-uwage-na-przeciek-7315829231556608a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "747007ced58f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/french-farmers-bracing-for-smallest-corn-crop-since-1980-225404",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "French farmers bracing for smallest corn crop since 1980",
+    "body_orig": "France's corn harvest is on pace this year for a 35 percent fall to nine million tons, a level last seen in 1980 for Europe's biggest grains producer, the government said.",
+    "published": "2026-08-09T10:55:28",
+    "fetched": "2026-08-09T16:34:31.046015",
+    "title_uk": "Франція очікує найменший врожай кукурудзи з 1980 року",
+    "summary_uk": "У Франції прогнозують зниження врожаю кукурудзи на 35% до 9 млн тонн. Це найнижчий рівень з 1980 року для найбільшого виробника зерна в Європі. Причини зниження не вказані.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Франція очікує найменший врожай кукурудзи з 1980 року",
+    "summary": "У Франції прогнозують зниження врожаю кукурудзи на 35% до 9 млн тонн. Це найнижчий рівень з 1980 року для найбільшого виробника зерна в Європі. Причини зниження не вказані.",
+    "link": "https://www.hurriyetdailynews.com/french-farmers-bracing-for-smallest-corn-crop-since-1980-225404",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6fb144a0f8bd",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/amazon-behind-massive-private-gas-plant-for-new-data-centers-225403",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Amazon behind massive private gas plant for new data centers",
+    "body_orig": "Amazon has confirmed it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.",
+    "published": "2026-08-09T10:51:32",
+    "fetched": "2026-08-09T16:34:31.046030",
+    "title_uk": "Amazon інвестує в газову електростанцію в Техасі",
+    "summary_uk": "Amazon підтвердив фінансування великої приватної газової електростанції в Техасі. Проект може стати найбільшим джерелом викидів парникових газів у США. Це рішення пов'язане з розширенням інфраструктури компанії для нових дата-центрів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Amazon інвестує в газову електростанцію в Техасі",
+    "summary": "Amazon підтвердив фінансування великої приватної газової електростанції в Техасі. Проект може стати найбільшим джерелом викидів парникових газів у США. Це рішення пов'язане з розширенням інфраструктури компанії для нових дата-центрів.",
+    "link": "https://www.hurriyetdailynews.com/amazon-behind-massive-private-gas-plant-for-new-data-centers-225403",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8d239f966807",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/pentagon-to-invest-in-australian-rare-earth-mine-225401",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Pentagon to invest in Australian rare earth mine",
+    "body_orig": "A remote Australian town will become a \"cornerstone\" of the Western supply of scandium, a rare earth needed for defense, planes and data centers, miner Sunrise Energy Metals said on Aug. 8 after a $400 million U.S. pledge.",
+    "published": "2026-08-09T10:49:09",
+    "fetched": "2026-08-09T16:34:31.046040",
+    "title_uk": "Пентагон інвестує в австралійську шахту рідкоземельних металів",
+    "summary_uk": "Австралійське містечко стане важливим постачальником скандію, рідкоземельного металу, необхідного для оборони, авіації та дата-центрів. Компанія Sunrise Energy Metals оголосила про інвестицію США в розмірі $400 млн. Це підкреслює зростаючу важливість рідкоземельних металів у глобальному постачанні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Пентагон інвестує в австралійську шахту рідкоземельних металів",
+    "summary": "Австралійське містечко стане важливим постачальником скандію, рідкоземельного металу, необхідного для оборони, авіації та дата-центрів. Компанія Sunrise Energy Metals оголосила про інвестицію США в розмірі $400 млн. Це підкреслює зростаючу важливість рідкоземельних металів у глобальному постачанні.",
+    "link": "https://www.hurriyetdailynews.com/pentagon-to-invest-in-australian-rare-earth-mine-225401",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b36b4b395094",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/ford-otosan-to-invest-in-truck-cab-production-225393",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Ford Otosan to invest in truck cab production",
+    "body_orig": "Ford Otosan plans to invest approximately 364 million euros through 2030 to develop and manufacture a next-generation heavy-duty truck cab under a joint program with Italy’s Iveco, aiming to support Ford Trucks’ growth in Europe.",
+    "published": "2026-08-09T09:01:48",
+    "fetched": "2026-08-09T16:34:31.046058",
+    "title_uk": "Ford Otosan інвестує в виробництво кабін вантажівок",
+    "summary_uk": "Ford Otosan планує інвестувати близько €364 млн до 2030 року в розробку та виробництво нових кабін важких вантажівок у співпраці з італійською компанією Iveco. Це має підтримати зростання Ford Trucks в Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають партнерів у сфері автомобільної промисловості в Європі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Ford Otosan інвестує в виробництво кабін вантажівок",
+    "summary": "Ford Otosan планує інвестувати близько €364 млн до 2030 року в розробку та виробництво нових кабін важких вантажівок у співпраці з італійською компанією Iveco. Це має підтримати зростання Ford Trucks в Європі.",
+    "link": "https://www.hurriyetdailynews.com/ford-otosan-to-invest-in-truck-cab-production-225393",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "89b7a88d173c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/farmers-internet-use-more-than-doubles-225392",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Farmers’ internet use more than doubles",
+    "body_orig": "Internet use among farmers and other workers in Türkiye’s agriculture, forestry and fisheries sector has risen to 86 percent in 2026, more than doubling compared with a decade earlier as the adoption of digital technologies in agriculture continues to expand, according to data from the Turkish Statistical Institute (TÜİK).",
+    "published": "2026-08-09T08:58:59",
+    "fetched": "2026-08-09T16:34:31.046068",
+    "title_uk": "Використання інтернету серед фермерів у Туреччині зросло до 86%",
+    "summary_uk": "Використання інтернету серед фермерів та працівників агросектора в Туреччині досягло 86% у 2026 році, що більше ніж удвічі в порівнянні з 2016 роком. Це свідчить про зростання впровадження цифрових технологій в аграрній сфері. Дані надані Турецьким статистичним інститутом (TÜİK).",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання використання інтернету може відкривати нові можливості для просування продукції через онлайн-канали. Рекомендується інвестувати в цифрові стратегії.",
+      "category_manager": "Зростання інтернет-услуг серед фермерів може вплинути на попит на продукцію, що продається через онлайн-канали. Розгляньте можливість адаптації асортименту для онлайн-продажів."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Використання інтернету серед фермерів у Туреччині зросло до 86%",
+    "summary": "Використання інтернету серед фермерів та працівників агросектора в Туреччині досягло 86% у 2026 році, що більше ніж удвічі в порівнянні з 2016 роком. Це свідчить про зростання впровадження цифрових технологій в аграрній сфері. Дані надані Турецьким статистичним інститутом (TÜİK).",
+    "link": "https://www.hurriyetdailynews.com/farmers-internet-use-more-than-doubles-225392",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "da73a5b7da57",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-airlines-carries-54-million-passengers-225391",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish Airlines carries 54 million passengers",
+    "body_orig": "Turkish Airlines carried 54 million passengers in the January-July 2026 period, up 5.4 percent year-on-year, while its passenger load factor improved by 2.1 percentage points to 84.2 percent.",
+    "published": "2026-08-09T08:56:14",
+    "fetched": "2026-08-09T16:34:31.046077",
+    "title_uk": "Turkish Airlines перевезла 54 млн пасажирів за 7 місяців 2026 року",
+    "summary_uk": "Turkish Airlines перевезла 54 млн пасажирів з січня по липень 2026 року, що на 5% більше, ніж за аналогічний період минулого року. Завантаженість пасажирів зросла на 2% до 84%. Компанія продовжує нарощувати обсяги перевезень.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Turkish Airlines перевезла 54 млн пасажирів за 7 місяців 2026 року",
+    "summary": "Turkish Airlines перевезла 54 млн пасажирів з січня по липень 2026 року, що на 5% більше, ніж за аналогічний період минулого року. Завантаженість пасажирів зросла на 2% до 84%. Компанія продовжує нарощувати обсяги перевезень.",
+    "link": "https://www.hurriyetdailynews.com/turkish-airlines-carries-54-million-passengers-225391",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f5eefd0a262e",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/r-d-budget-surges-107-fold-over-past-decade-225390",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "R&D budget surges 107-fold over past decade",
+    "body_orig": "Türkiye’s budget allocations for research and development have risen sharply over the past decade, with spending on space exploration and utilization recording the fastest growth.",
+    "published": "2026-08-09T08:53:32",
+    "fetched": "2026-08-09T16:34:31.046085",
+    "title_uk": "Бюджет на R&D у Туреччині зріс у 107 разів за десятиліття",
+    "summary_uk": "Туреччина значно збільшила бюджет на дослідження та розробки за останнє десятиліття. Особливо швидко зростають витрати на космічні дослідження та використання. Це свідчить про зростаючий інтерес країни до інновацій та технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання бюджету на R&D може відкрити нові можливості для турецьких виробників, які шукають інноваційні рішення для виходу на ринки UA/PL/RO.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Бюджет на R&D у Туреччині зріс у 107 разів за десятиліття",
+    "summary": "Туреччина значно збільшила бюджет на дослідження та розробки за останнє десятиліття. Особливо швидко зростають витрати на космічні дослідження та використання. Це свідчить про зростаючий інтерес країни до інновацій та технологій.",
+    "link": "https://www.hurriyetdailynews.com/r-d-budget-surges-107-fold-over-past-decade-225390",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa68cc8b16a4",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-cikolata-ihracatinda-kalite-ve-ham-madde-avantajiyla-one-cikiyor/4022306",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye, çikolata ihracatında kalite ve ham madde avantajıyla öne çıkıyor",
+    "body_orig": "Türkiye, yılın ilk yarısında çikolata ve kakao ürünleri ihracatından 500 milyon 781 bin dolar gelir elde etti, bu başarıda sektörün kaliteli üretimi, Antep fıstığı gibi ham madde altyapısı ve fuar odaklı çalışmaları etkili oldu.",
+    "published": "2026-08-09T08:06:40",
+    "fetched": "2026-08-09T16:34:35.814889",
+    "title_uk": "Туреччина збільшила експорт шоколаду до $500 млн у першій половині року",
+    "summary_uk": "У першій половині року Туреччина отримала $500 млн від експорту шоколаду та какао. Основними факторами успіху стали якісне виробництво, доступність сировини, зокрема фісташок, та участь у виставках. Цей ринок демонструє зростання завдяки інноваціям та маркетинговим стратегіям.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про зростаючий попит на турецькі шоколадні продукти. Виробники можуть розглянути можливості експорту до нових ринків, зокрема в країни ЄС.",
+      "category_manager": "Зростання експорту шоколаду з Туреччини може вплинути на конкурентоспроможність цін у категорії шоколадних виробів. Рекомендується переглянути асортимент та стратегії закупівель."
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина збільшила експорт шоколаду до $500 млн у першій половині року",
+    "summary": "У першій половині року Туреччина отримала $500 млн від експорту шоколаду та какао. Основними факторами успіху стали якісне виробництво, доступність сировини, зокрема фісташок, та участь у виставках. Цей ринок демонструє зростання завдяки інноваціям та маркетинговим стратегіям.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-cikolata-ihracatinda-kalite-ve-ham-madde-avantajiyla-one-cikiyor/4022306",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f26e897aee85",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/havalimanlarindaki-yatirimlar-antalya-turizmine-guc-katacak/4022309",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Havalimanlarındaki yatırımlar Antalya turizmine güç katacak",
+    "body_orig": "Her yıl milyonlarca turisti ağırlayan Antalya'da, hava ulaşımının iki önemli kapısı Antalya ve Gazipaşa-Alanya havalimanlarında kapasite artırımı ve yenileme çalışmaları sürdürülüyor.",
+    "published": "2026-08-09T08:09:15",
+    "fetched": "2026-08-09T16:34:35.814909",
+    "title_uk": "Анталія модернізує аеропорти для покращення туристичного потоку",
+    "summary_uk": "В Анталії тривають роботи з підвищення потужностей аеропортів Анталія та Газіпаша-Аланія. Це включає модернізацію інфраструктури, що має на меті покращення обслуговування мільйонів туристів. Очікується, що ці інвестиції підвищать привабливість регіону для відпочивальників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Інвестиції в аеропорти можуть збільшити туристичний потік, що позитивно вплине на попит на товари. Рекомендується підготуватися до можливого зростання продажів.",
+      "category_manager": "Зростання туристичного потоку може підвищити попит на певні категорії товарів. Розгляньте можливість адаптації асортименту під потреби туристів."
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Анталія модернізує аеропорти для покращення туристичного потоку",
+    "summary": "В Анталії тривають роботи з підвищення потужностей аеропортів Анталія та Газіпаша-Аланія. Це включає модернізацію інфраструктури, що має на меті покращення обслуговування мільйонів туристів. Очікується, що ці інвестиції підвищать привабливість регіону для відпочивальників.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/havalimanlarindaki-yatirimlar-antalya-turizmine-guc-katacak/4022309",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa7f080641d8",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turk-kozmetik-ureticileri-gunes-bakim-urunlerinde-kuresel-pazardaki-gucunu-artiriyor/4022308",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türk kozmetik üreticileri güneş bakım ürünlerinde küresel pazardaki gücünü artırıyor",
+    "body_orig": "Türk kozmetik sektörü, güneş bakım ürünlerinde uluslararası standartlarda üretim yaparak küresel pazardaki konumunu güçlendiriyor.",
+    "published": "2026-08-09T08:08:58",
+    "fetched": "2026-08-09T16:34:35.814928",
+    "title_uk": "Турецькі виробники косметики зміцнюють позиції на ринку сонцезахисних засобів",
+    "summary_uk": "Турецький косметичний сектор покращує виробництво сонцезахисних засобів за міжнародними стандартами. Це дозволяє зміцнити позиції на глобальному ринку. Виробники акцентують на якості та інноваціях.",
+    "what_it_means": {
+      "ua_importer": "Зростання якості турецьких сонцезахисних засобів може відкрити нові можливості для імпортерів в Україні. Рекомендується переглянути асортимент і розглянути можливість співпраці з турецькими брендами.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це можливість для турецьких виробників розширити експорт до нових ринків, включаючи Україну. Важливо адаптувати продукцію під вимоги місцевих споживачів.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Турецькі виробники косметики зміцнюють позиції на ринку сонцезахисних засобів",
+    "summary": "Турецький косметичний сектор покращує виробництво сонцезахисних засобів за міжнародними стандартами. Це дозволяє зміцнити позиції на глобальному ринку. Виробники акцентують на якості та інноваціях.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turk-kozmetik-ureticileri-gunes-bakim-urunlerinde-kuresel-pazardaki-gucunu-artiriyor/4022308",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6ad11ee24d42",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/firat-havzasindaki-kadin-ve-genc-ureticilerin-pazara-erisimi-kolaylasacak/4022302",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Fırat Havzası'ndaki kadın ve genç üreticilerin pazara erişimi kolaylaşacak",
+    "body_orig": "Fırat Nehri Havzası Rehabilitasyon Projesi, Şanlıurfa, Malatya, Diyarbakır ve Adıyaman ile daha önce Uluslararası Tarımsal Kalkınma Fonunca finanse edilen projeler kapsamında bulunmayan Bingöl ve Elazığ'daki bazı ilçelerde uygulanacak.",
+    "published": "2026-08-09T08:04:22",
+    "fetched": "2026-08-09T16:34:35.814938",
+    "title_uk": "Жінки та молоді виробники в Туреччині отримають легший доступ до ринку",
+    "summary_uk": "Реалізація проекту реабілітації басейну річки Фрат покращить доступ до ринку для жінок і молодих виробників. Проект охопить райони Шанліурфи, Малатії, Діярбакира, Адіямана, а також нові райони в Бінгьолі та Елазиз. Фінансування здійснюється за рахунок міжнародних фондів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Проект може створити нові можливості для співпраці з жінками та молодими виробниками в Туреччині. Рекомендується розглянути партнерство з цими групами.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Жінки та молоді виробники в Туреччині отримають легший доступ до ринку",
+    "summary": "Реалізація проекту реабілітації басейну річки Фрат покращить доступ до ринку для жінок і молодих виробників. Проект охопить райони Шанліурфи, Малатії, Діярбакира, Адіямана, а також нові райони в Бінгьолі та Елазиз. Фінансування здійснюється за рахунок міжнародних фондів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/firat-havzasindaki-kadin-ve-genc-ureticilerin-pazara-erisimi-kolaylasacak/4022302",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4f22c16b2d5a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/habur-gumruk-kapisindan-gunluk-tir-cikisi-rekoru-kirildi/4022296",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Habur Gümrük Kapısı'ndan günlük tır çıkışı rekoru kırıldı",
+    "body_orig": "Ticaret Bakanı Ömer Bolat, 7 Ağustos Cuma günü, Habur Gümrük Kapısı'ndan 2 bin 454 tır çıkışıyla, bu yıla ilişkin günlük tır çıkış rekorunun kırıldığını kaydetti.",
+    "published": "2026-08-09T08:00:29",
+    "fetched": "2026-08-09T16:34:35.814947",
+    "title_uk": "Рекордний вихід вантажівок через митний пункт Хабур",
+    "summary_uk": "7 серпня через митний пункт Хабур вийшло 2454 вантажівки, що є рекордом цього року. Міністр торгівлі Туреччини Ömer Bolat підтвердив цю інформацію. Зростання вантажопотоку свідчить про активізацію торгівлі.",
+    "what_it_means": {
+      "ua_importer": "Збільшення вантажопотоку через Хабур може свідчити про зростання імпорту товарів з Туреччини. Рекомендується переглянути логістичні ланцюги та запаси.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання виходу вантажівок може свідчити про підвищений попит на турецькі товари в регіоні. Рекомендується оцінити можливості експорту до сусідніх країн.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "імпорт",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Рекордний вихід вантажівок через митний пункт Хабур",
+    "summary": "7 серпня через митний пункт Хабур вийшло 2454 вантажівки, що є рекордом цього року. Міністр торгівлі Туреччини Ömer Bolat підтвердив цю інформацію. Зростання вантажопотоку свідчить про активізацію торгівлі.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/habur-gumruk-kapisindan-gunluk-tir-cikisi-rekoru-kirildi/4022296",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6218cae80aea",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/linia-de-cale-ferata-gara-de-nord-otopeni-o-investitie-de-120-mil-euro-se-apropie-de-un-trafic-de-2-mil-de-pasageri-23208343",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Linia de cale ferată Gara de Nord – Otopeni, o investiţie de 120 mil. euro, se apropie de un trafic de 2 mil. de pasageri",
+    "body_orig": "Un pasager din zece ai aeroportului Henri Coandă a utilizat trenul din şi spre Gara de Nord. Linia feroviară care leagă Gara de Nord de aeroportul internaţional Henri Coandă (Otopeni), una dintre cele mai importante conexiuni de transport, o investiţie de 120 mil. euro, se apropie în acest an de un trafic de 2 milioane de pasageri.",
+    "published": "2026-08-09T14:30:00",
+    "fetched": "2026-08-09T16:34:42.451042",
+    "title_uk": "Лінія потяга до аеропорту Отопені наближається до 2 млн пасажирів",
+    "summary_uk": "Лінія, що з'єднує Гара де Норд з аеропортом Отопені, інвестувала €120 млн. Один з десяти пасажирів аеропорту використовує потяг. Очікується, що цього року кількість пасажирів досягне 2 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Лінія потяга до аеропорту Отопені наближається до 2 млн пасажирів",
+    "summary": "Лінія, що з'єднує Гара де Норд з аеропортом Отопені, інвестувала €120 млн. Один з десяти пасажирів аеропорту використовує потяг. Очікується, що цього року кількість пасажирів досягне 2 млн.",
+    "link": "https://www.zf.ro/companii/linia-de-cale-ferata-gara-de-nord-otopeni-o-investitie-de-120-mil-euro-se-apropie-de-un-trafic-de-2-mil-de-pasageri-23208343",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3221cf2fd1c1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/investitie-de-23-milioane-euro-la-constanta-consiliul-judetean-incepe-constructia-unui-nou-acvariu-finantat-din-fonduri-europene-23212996",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Investiţie de 23 milioane euro la Constanţa: Consiliul Judeţean începe construcţia unui nou Acvariu, finanţat din fonduri europene",
+    "body_orig": "",
+    "published": "2026-08-09T12:54:18",
+    "fetched": "2026-08-09T16:34:42.451052",
+    "title_uk": "В Румунії розпочинають будівництво нового акваріуму за €23 млн",
+    "summary_uk": "У Констанці розпочато будівництво нового акваріуму, фінансованого з європейських фондів. Загальна сума інвестицій становить €23 млн. Проект реалізується під контролем місцевого уряду.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Румунії розпочинають будівництво нового акваріуму за €23 млн",
+    "summary": "У Констанці розпочато будівництво нового акваріуму, фінансованого з європейських фондів. Загальна сума інвестицій становить €23 млн. Проект реалізується під контролем місцевого уряду.",
+    "link": "https://www.zf.ro/eveniment/investitie-de-23-milioane-euro-la-constanta-consiliul-judetean-incepe-constructia-unui-nou-acvariu-finantat-din-fonduri-europene-23212996",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2ca5e715ffd2",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/ajuns-angelica-barbu-raducanu-chief-administrative-officer-distributie-oltenia-business-300-mil-euro-ebida-140-mil-euro-asigura-alimentarea-energie-electrica-1-5-mil-consumatori-23212666",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum a ajuns Angelica Barbu Răducanu Chief Administrative Officer în Distribuţie Oltenia, un business de 300 mil. euro cu un EBIDA de 140 mil. euro, care asigură alimentarea cu energie electrică pentru 1,5 mil. consumatori",
+    "body_orig": "",
+    "published": "2026-08-09T10:00:00",
+    "fetched": "2026-08-09T16:34:42.451081",
+    "title_uk": "Angelica Barbu Răducanu стала COO Distribuţie Oltenia з доходом €300 млн",
+    "summary_uk": "Angelica Barbu Răducanu призначена на посаду Chief Administrative Officer у Distribuţie Oltenia. Компанія забезпечує електроенергією 1.5 млн споживачів та має EBITDA €140 млн. Ринок енергетики в Румунії продовжує зростати, що відкриває нові можливості для бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Angelica Barbu Răducanu стала COO Distribuţie Oltenia з доходом €300 млн",
+    "summary": "Angelica Barbu Răducanu призначена на посаду Chief Administrative Officer у Distribuţie Oltenia. Компанія забезпечує електроенергією 1.5 млн споживачів та має EBITDA €140 млн. Ринок енергетики в Румунії продовжує зростати, що відкриває нові можливості для бізнесу.",
+    "link": "https://www.zf.ro/companii/energie/ajuns-angelica-barbu-raducanu-chief-administrative-officer-distributie-oltenia-business-300-mil-euro-ebida-140-mil-euro-asigura-alimentarea-energie-electrica-1-5-mil-consumatori-23212666",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e962f009d9f3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/daimler-truck-amenzi-emisii-ue-profit_966644.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Daimler Truck estimează penalități de 1 miliard de euro din cauza neîndeplinirii țintelor CO2",
+    "body_orig": "Constructorul auto Daimler Truck Holding AG ar putea fi nevoit să își ajusteze bilanțurile financiare pe termen mediu cu provizioane masive din cauza potențialelor penalități pentru emisiile de CO2.",
+    "published": "2026-08-09T13:18:34",
+    "fetched": "2026-08-09T16:34:46.515459",
+    "title_uk": "Daimler Truck може отримати штрафи €1 млрд за викиди CO2",
+    "summary_uk": "Daimler Truck Holding AG може зазнати значних фінансових коригувань через можливі штрафи за невиконання цілей щодо викидів CO2. Оцінки штрафів складають близько €1 млрд. Компанія готується до можливих фінансових наслідків у середньостроковій перспективі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Daimler Truck може отримати штрафи €1 млрд за викиди CO2",
+    "summary": "Daimler Truck Holding AG може зазнати значних фінансових коригувань через можливі штрафи за невиконання цілей щодо викидів CO2. Оцінки штрафів складають близько €1 млрд. Компанія готується до можливих фінансових наслідків у середньостроковій перспективі.",
+    "link": "https://www.economica.net/daimler-truck-amenzi-emisii-ue-profit_966644.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9c8a6c468250",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/magazyn-bilia-domu-chomu-malyyi-format-mozhe-prodavaty-krashche-za-supermarket/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Чому магазин «біля дому» може продавати ефективніше за супермаркет: принципи мерчендайзингу proximity retail",
+    "body_orig": "Магазин «біля дому» давно перестав бути лише місцем для термінових покупок. Саме цей формат сьогодні демонструє одні з найкращих показників ефективності на квадратний метр, але водночас вимагає максимально точних рішень у плануванні простору. Чому кожен сантиметр у proximity retail має значення, які…",
+    "published": "2026-08-09T03:42:24",
+    "fetched": "2026-08-09T16:34:51.310670",
+    "title_uk": "Магазини «біля дому» демонструють високу ефективність продажів",
+    "summary_uk": "Формат магазинів «біля дому» показує високі результати на квадратний метр, вимагаючи точного планування простору. Цей тренд свідчить про зміни в споживчих звичках, де такі магазини стають не лише для термінових покупок. Ефективність таких магазинів зростає завдяки оптимізації мерчендайзингу.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зверніть увагу на принципи мерчендайзингу в магазинах «біля дому». Оптимізація простору може підвищити продажі в категоріях з високим попитом."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Магазини «біля дому» демонструють високу ефективність продажів",
+    "summary": "Формат магазинів «біля дому» показує високі результати на квадратний метр, вимагаючи точного планування простору. Цей тренд свідчить про зміни в споживчих звичках, де такі магазини стають не лише для термінових покупок. Ефективність таких магазинів зростає завдяки оптимізації мерчендайзингу.",
+    "link": "https://rau.ua/news/magazyn-bilia-domu-chomu-malyyi-format-mozhe-prodavaty-krashche-za-supermarket/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1af5d7870ef0",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/eva.ua-zapustyla-kampaniiu-khto-b-znav-pro-asortyment-iakogo-pokuptci-ne-ochikuiut-pobachyty-na-platformi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "EVA запустила кампанію «Хто б знав» про асортимент, якого покупці не очікують побачити на платформі",
+    "body_orig": "У липні eva.ua запустила нову комунікаційну кампанію «Хто б знав» з метою показати покупцям, що асортимент онлайн-платформи значно ширший за традиційне сприйняття бренду EVA як дрогері-ритейлера.\nКампанія підтримує стратегічну мету EVA – розвиватися від класичного дрогері-формату до універсального ж…",
+    "published": "2026-08-09T02:50:13",
+    "fetched": "2026-08-09T16:34:51.310687",
+    "title_uk": "EVA запустила кампанію «Хто б знав» для розширення асортименту",
+    "summary_uk": "EVA презентувала кампанію «Хто б знав», щоб продемонструвати ширший асортимент на платформі eva.ua. Мета — змінити сприйняття бренду з дрогері на універсальний ритейл. Кампанія підтримує стратегію розвитку компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Кампанія може вплинути на асортимент та позиціонування товарів на полиці. Рекомендується переглянути стратегії просування товарів, щоб відповідати новому іміджу EVA."
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "EVA запустила кампанію «Хто б знав» для розширення асортименту",
+    "summary": "EVA презентувала кампанію «Хто б знав», щоб продемонструвати ширший асортимент на платформі eva.ua. Мета — змінити сприйняття бренду з дрогері на універсальний ритейл. Кампанія підтримує стратегію розвитку компанії.",
+    "link": "https://rau.ua/news/eva.ua-zapustyla-kampaniiu-khto-b-znav-pro-asortyment-iakogo-pokuptci-ne-ochikuiut-pobachyty-na-platformi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
