@@ -189868,5 +189868,525 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "3882b403e544",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Taco-Bell-wraca-po-ponad-30-latach-AmRest-liczy-na-boom-w-Polsce-9178021.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Taco Bell wraca po ponad 30 latach. AmRest liczy na boom w Polsce",
+    "body_orig": "Polski sektor usług gastronomicznych w 2025 roku wzrósł o 4,7 proc. Przyczyniła się do tego m.in. kategoria restauracji szybkiej obsługi (QSR), która w ubiegłym roku zaliczyła wzrost o 5,7 proc. - pokazuje...",
+    "published": "2026-08-09T05:00:00",
+    "fetched": "2026-08-09T05:27:24.875904",
+    "title_uk": "Taco Bell повертається в Польщу після 30 років",
+    "summary_uk": "Taco Bell відновлює свою діяльність у Польщі після 30-річної перерви. AmRest, оператор Taco Bell у Польщі, сподівається на зростання ринку швидкого харчування, який у 2025 році виросте на 5%. У 2026 році сектор послуг харчування зріс на 4.7%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Відкриття Taco Bell може збільшити конкуренцію на ринку QSR. Дистриб'юторам варто переглянути асортимент, щоб включити нові продукти, які можуть з'явитися на ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Повернення Taco Bell може змінити конкурентне середовище в сегменті швидкого харчування. Рекомендується переглянути стратегії просування та асортимент у категорії QSR."
+    },
+    "tags": [
+      "HoReCa",
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Taco Bell повертається в Польщу після 30 років",
+    "summary": "Taco Bell відновлює свою діяльність у Польщі після 30-річної перерви. AmRest, оператор Taco Bell у Польщі, сподівається на зростання ринку швидкого харчування, який у 2025 році виросте на 5%. У 2026 році сектор послуг харчування зріс на 4.7%.",
+    "link": "https://www.bankier.pl/wiadomosc/Taco-Bell-wraca-po-ponad-30-latach-AmRest-liczy-na-boom-w-Polsce-9178021.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4b7a10db5cdb",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Polacy-wola-wlasny-biznes-od-etatu-Dla-147-nowych-JDG-przypada-100-zamknietych-9178559.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy wolą własny biznes od etatu? Dla 147 nowych JDG przypada 100 zamkniętych",
+    "body_orig": "Większość, bo 39 proc. mikroprzedsiębiorców założyło firmę, ponieważ chciało się uniezależnić, a 33 proc. potrzebowało większej elastyczności czasu - wynika z badania KRD. Jak dodano, właściciele nowych firm częściej traktują swój biznes jako inwestycję na przyszłość.",
+    "published": "2026-08-09T05:00:00",
+    "fetched": "2026-08-09T05:27:24.875919",
+    "title_uk": "Польські підприємці обирають власний бізнес замість роботи на етапі",
+    "summary_uk": "39% нових підприємців у Польщі заснували бізнес для незалежності, 33% — для гнучкості. На 147 нових підприємств припадає 100 закритих. Більшість власників розглядають бізнес як інвестицію на майбутнє.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання підприємництва може призвести до збільшення попиту на дистрибуцію товарів для нових бізнесів. Розгляньте можливість співпраці з новими підприємцями.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання кількості нових підприємств може змінити попит на товари. Важливо адаптувати асортимент відповідно до потреб нових бізнесів."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські підприємці обирають власний бізнес замість роботи на етапі",
+    "summary": "39% нових підприємців у Польщі заснували бізнес для незалежності, 33% — для гнучкості. На 147 нових підприємств припадає 100 закритих. Більшість власників розглядають бізнес як інвестицію на майбутнє.",
+    "link": "https://www.bankier.pl/wiadomosc/Polacy-wola-wlasny-biznes-od-etatu-Dla-147-nowych-JDG-przypada-100-zamknietych-9178559.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b1f63652edfe",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-turkiye-ekonomisini-buyuttuk-turkiyenin-gucune-guc-kattik/4022074",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Kacır: Türkiye ekonomisini büyüttük, Türkiye'nin gücüne güç kattık",
+    "body_orig": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Türkiye ekonomisini büyüttük. Türkiye'nin gücüne güç kattık. Biz iktidara geldiğimizde 36 milyar dolar ihracat yapan bir Türkiye vardı, şimdi ihracatımız 278 milyar dolara erişti.\" dedi.",
+    "published": "2026-08-08T18:14:57",
+    "fetched": "2026-08-09T05:27:37.951869",
+    "title_uk": "Туреччина збільшила експорт з $36 млрд до $278 млрд",
+    "summary_uk": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про зростання експорту країни з $36 млрд до $278 млрд з моменту приходу до влади. Це свідчить про значний економічний прогрес Туреччини за останні роки.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту може відкрити нові можливості для турецьких виробників на міжнародних ринках, зокрема в Україні, Польщі та Румунії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина збільшила експорт з $36 млрд до $278 млрд",
+    "summary": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про зростання експорту країни з $36 млрд до $278 млрд з моменту приходу до влади. Це свідчить про значний економічний прогрес Туреччини за останні роки.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-turkiye-ekonomisini-buyuttuk-turkiyenin-gucune-guc-kattik/4022074",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8f6aa23d9386",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/noroc-nesperat-sistemul-energetic-local-vantul-puternic-ii-permite-romaniei-acopere-consumul-varf-exporte-energie-eoliana-regiune-briza-dobrogea-azi-prima-gura-oxigen-sistem-corzi-cauza-secetei-23212733",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noroc nesperat pentru sistemul energetic local. Vântul puternic îi permite României să-şi acopere consumul pe vârf şi chiar să exporte energie eoliană în regiune. Briza din Dobrogea a fost azi prima gură de oxigen pentru un sistem în corzi din cauza secetei",
+    "body_orig": "",
+    "published": "2026-08-08T18:52:00",
+    "fetched": "2026-08-09T05:27:39.827688",
+    "title_uk": "Румунія експортує енергію завдяки сильному вітру",
+    "summary_uk": "Румунія змогла покрити пік споживання електроенергії завдяки сильному вітру, що дозволило експортувати енергію з вітрових електростанцій. Це стало важливим підкріпленням для енергосистеми, яка страждала від посухи. Вітрова енергія з регіону Добруджа стала ключовим фактором для стабільності системи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія експортує енергію завдяки сильному вітру",
+    "summary": "Румунія змогла покрити пік споживання електроенергії завдяки сильному вітру, що дозволило експортувати енергію з вітрових електростанцій. Це стало важливим підкріпленням для енергосистеми, яка страждала від посухи. Вітрова енергія з регіону Добруджа стала ключовим фактором для стабільності системи.",
+    "link": "https://www.zf.ro/zf-24/noroc-nesperat-sistemul-energetic-local-vantul-puternic-ii-permite-romaniei-acopere-consumul-varf-exporte-energie-eoliana-regiune-briza-dobrogea-azi-prima-gura-oxigen-sistem-corzi-cauza-secetei-23212733",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0f756a0d0397",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/energie/grupul-elen-ppc-cumpara-tot-ce-prinde-dupa-ce-a-achizitionat-active-in-romania-si-in-ungaria-ppc-cumpara-o-companie-germana-din-energie-care-are-proiecte-in-polonia-si-ungaria-de-peste-2-gw-23212693",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul elen PPC cumpără tot ce prinde: După ce a achiziţionat active în România şi în Ungaria, PPC cumpără o companie germană din energie, care are proiecte în Polonia şi Ungaria de peste 2 GW",
+    "body_orig": "",
+    "published": "2026-08-08T17:01:20",
+    "fetched": "2026-08-09T05:27:39.827709",
+    "title_uk": "PPC розширює активи в енергетиці через нову угоду в Німеччині",
+    "summary_uk": "Група PPC придбала німецьку компанію в енергетичному секторі, яка має проекти в Польщі та Угорщині загальною потужністю понад 2 ГВт. Це рішення слідує за попередніми угодами в Румунії та Угорщині. PPC продовжує активно розширювати свій портфель в енергетичній галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PPC розширює активи в енергетиці через нову угоду в Німеччині",
+    "summary": "Група PPC придбала німецьку компанію в енергетичному секторі, яка має проекти в Польщі та Угорщині загальною потужністю понад 2 ГВт. Це рішення слідує за попередніми угодами в Румунії та Угорщині. PPC продовжує активно розширювати свій портфель в енергетичній галузі.",
+    "link": "https://www.zf.ro/companii/energie/grupul-elen-ppc-cumpara-tot-ce-prinde-dupa-ce-a-achizitionat-active-in-romania-si-in-ungaria-ppc-cumpara-o-companie-germana-din-energie-care-are-proiecte-in-polonia-si-ungaria-de-peste-2-gw-23212693",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "61c97792b1ce",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/atentie-cresterea-spectaculoasa-pretului-actiunilor-divortul-secolului-coreea-sud-sotia-unui-magnat-primit-644-mil-dolari-baza-cresterea-spectaculoasa-2500-pretului-actiunilor-gigantului-sk-group-23202248",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Atenţie la creşterea spectaculoasă a preţului acţiunilor! Divorţul secolului din Coreea de Sud, prin care soţia unui magnat a primit 644 mil. dolari, are la bază creşterea spectaculoasă, cu 2500%, a preţului acţiunilor gigantului SK Group, al doilea cel mai mare producător de chip-uri din lume",
+    "body_orig": "",
+    "published": "2026-08-08T16:58:54",
+    "fetched": "2026-08-09T05:27:39.827719",
+    "title_uk": "Акції SK Group зросли на 2500% через розлучення магната",
+    "summary_uk": "Ціна акцій SK Group, другого найбільшого виробника чіпів у світі, зросла на 2500%. Це сталося на фоні розлучення, в якому дружина магната отримала $644 млн. Зростання акцій відбулося через успішні фінансові показники компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Акції SK Group зросли на 2500% через розлучення магната",
+    "summary": "Ціна акцій SK Group, другого найбільшого виробника чіпів у світі, зросла на 2500%. Це сталося на фоні розлучення, в якому дружина магната отримала $644 млн. Зростання акцій відбулося через успішні фінансові показники компанії.",
+    "link": "https://www.zf.ro/eveniment/atentie-cresterea-spectaculoasa-pretului-actiunilor-divortul-secolului-coreea-sud-sotia-unui-magnat-primit-644-mil-dolari-baza-cresterea-spectaculoasa-2500-pretului-actiunilor-gigantului-sk-group-23202248",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19acbe2a28d5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-news/adrian-stoichina-co-ceo-prima-development-unul-dintre-cei-mari-dezvoltatori-rezidentiali-dupa-livrat-4500-locuinte-oradea-acum-incearca-cucereasca-bucurestiul-23212655",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cine este Adrian Stoichină, fost co-CEO la Prima Development, unul dintre cei mai mari dezvoltatori rezidenţiali, care după ce a livrat 4500 de locuinţe în Oradea, acum încearcă să cucerească Bucureştiul",
+    "body_orig": "",
+    "published": "2026-08-08T16:44:00",
+    "fetched": "2026-08-09T05:27:39.827739",
+    "title_uk": "Адріан Стоїчіна розширює бізнес у Бухаресті після успіху в Ордеї",
+    "summary_uk": "Адріан Стоїчіна, колишній спільний CEO Prima Development, планує вихід на ринок Бухареста. Компанія вже реалізувала 4500 житлових одиниць в Ордеї. Зараз Стоїчіна намагається закріпитися в столиці Румунії, що може вплинути на ринок нерухомості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розширення Prima Development в Бухаресті може створити нові можливості для співпраці з ритейлерами, які працюють у сегменті нерухомості."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Адріан Стоїчіна розширює бізнес у Бухаресті після успіху в Ордеї",
+    "summary": "Адріан Стоїчіна, колишній спільний CEO Prima Development, планує вихід на ринок Бухареста. Компанія вже реалізувала 4500 житлових одиниць в Ордеї. Зараз Стоїчіна намагається закріпитися в столиці Румунії, що може вплинути на ринок нерухомості.",
+    "link": "https://www.zf.ro/zf-news/adrian-stoichina-co-ceo-prima-development-unul-dintre-cei-mari-dezvoltatori-rezidentiali-dupa-livrat-4500-locuinte-oradea-acum-incearca-cucereasca-bucurestiul-23212655",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a763dd39058",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ai-datorii-2026-aduce-schimbari-majore-patru-proiecte-de-lege-care-pot-schimba-regulile-executarii-silite_966552.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ai datorii? 2026 aduce schimbări majore: patru proiecte de lege care pot schimba regulile executării silite",
+    "body_orig": "Industria managementului creanțelor traversează una dintre cele mai importante perioade de transformare din ultimul deceniu. Mai multe acte normative și proiecte legislative redesenează raportul dintre creditor și debitor, punând accent pe soluții amiabile, transparență și protecția consumatorului.",
+    "published": "2026-08-09T05:08:45",
+    "fetched": "2026-08-09T05:27:42.316759",
+    "title_uk": "Зміни в законодавстві Румунії вплинуть на управління боргами",
+    "summary_uk": "Румунія запроваджує нові законопроекти, що змінюють правила виконання боргових зобов'язань. Основна увага приділяється мирному вирішенню спорів, прозорості та захисту споживачів. Ці зміни можуть суттєво вплинути на відносини між кредиторами та боржниками.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Зміни в законодавстві Румунії вплинуть на управління боргами",
+    "summary": "Румунія запроваджує нові законопроекти, що змінюють правила виконання боргових зобов'язань. Основна увага приділяється мирному вирішенню спорів, прозорості та захисту споживачів. Ці зміни можуть суттєво вплинути на відносини між кредиторами та боржниками.",
+    "link": "https://www.economica.net/ai-datorii-2026-aduce-schimbari-majore-patru-proiecte-de-lege-care-pot-schimba-regulile-executarii-silite_966552.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fbb8e5077bb8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/motorina-cu-sub-9-lei-pe-litru-la-5-km-de-giurgiu-diferenta-dintre-romania-si-bulgaria-a-ajuns-la-maxime-istorice-ministrul-finantelor-promite-reduceri-substantiale_966525.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Motorină cu sub 9 lei pe litru la 5 Km de Giurgiu. Diferența dintre România și Bulgaria a ajuns la maxime istorice. Ministrul finanțelor promite reduceri substanțiale",
+    "body_orig": "Motorina se vinde cu mai puțin de 9 lei la 5 kilometri de Giurgiu, în Bulgaria. Vecinii de la sud au avut constant prețuri mai mici pentru combustibili, cel puțin în ultimii 15 ani, însă acum, la capitolul motorină, marjele deja frizează maxime istorice.",
+    "published": "2026-08-09T04:55:18",
+    "fetched": "2026-08-09T05:27:42.316788",
+    "title_uk": "Ціни на дизель в Болгарії досягли історичного мінімуму",
+    "summary_uk": "У Болгарії дизель продається за менш ніж 9 лей за літр, що є історичним мінімумом. Ціни на паливо в Болгарії залишаються нижчими, ніж в Румунії, що призводить до значних цінових різниць. Міністр фінансів Румунії обіцяє знижки на паливо.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціни на дизель в Болгарії досягли історичного мінімуму",
+    "summary": "У Болгарії дизель продається за менш ніж 9 лей за літр, що є історичним мінімумом. Ціни на паливо в Болгарії залишаються нижчими, ніж в Румунії, що призводить до значних цінових різниць. Міністр фінансів Румунії обіцяє знижки на паливо.",
+    "link": "https://www.economica.net/motorina-cu-sub-9-lei-pe-litru-la-5-km-de-giurgiu-diferenta-dintre-romania-si-bulgaria-a-ajuns-la-maxime-istorice-ministrul-finantelor-promite-reduceri-substantiale_966525.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0e69d9ac41b4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/nidec-fabrica-oradea_966515.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Japonezii de la Nidec mută o fabrică istorică din Marea Britanie în România. Unde vor să mute producția",
+    "body_orig": "Gigantul japonez Nidec, care a inaugurat în 2018 cea mai mare fabrică de motoare electrice la Ștefănești, Argeș, are în plan mutarea producției dintr-o fabrică istorică din Marea Britanie în România.",
+    "published": "2026-08-08T20:39:15",
+    "fetched": "2026-08-09T05:27:42.316816",
+    "title_uk": "Nidec переносить виробництво з Британії до Румунії",
+    "summary_uk": "Японська компанія Nidec планує перенести виробництво з історичної фабрики у Великій Британії до Румунії. Виробництво електродвигунів буде зосереджено на новій локації в Штефанешті, Арджеш. Це рішення підкреслює зростаючу роль Румунії в європейському виробництві.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Румунії. Рекомендується вивчити можливості співпраці з Nidec.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Nidec переносить виробництво з Британії до Румунії",
+    "summary": "Японська компанія Nidec планує перенести виробництво з історичної фабрики у Великій Британії до Румунії. Виробництво електродвигунів буде зосереджено на новій локації в Штефанешті, Арджеш. Це рішення підкреслює зростаючу роль Румунії в європейському виробництві.",
+    "link": "https://www.economica.net/nidec-fabrica-oradea_966515.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "66e83f4bc6ba",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/integraciya-yaka-vze-pracyuje-comu-obmin-dokumentami-lamajetsya-cerez-misyac-pislya-vprovadzennya-p15w6z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Інтеграція, яка «вже працює»: чому обмін документами ламається через місяць після впровадження",
+    "body_orig": "Найдорожчі збої в автоматизації обліку трапляються не на демо і не на запуску. Вони трапляються тоді, коли всі вже розслабились: акт підписано, підрядник пішов, а через місяць вивантаження перестає заходити в облікову систему. Розповідаю, чому так виходить, і які чотири питання варто поставити ще до підписання договору.",
+    "published": "2026-08-08T23:52:06",
+    "fetched": "2026-08-09T05:27:32.858634",
+    "title_uk": "Чому збої в автоматизації обліку трапляються через місяць",
+    "summary_uk": "Проблеми з автоматизацією обліку часто виникають після підписання договору. Збої можуть статися через місяць, коли система перестає отримувати дані. Експерти радять поставити чотири ключові питання перед підписанням угоди.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо звернути увагу на питання, які потрібно задати постачальнику автоматизації. Це може допомогти уникнути збоїв у системі."
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Чому збої в автоматизації обліку трапляються через місяць",
+    "summary": "Проблеми з автоматизацією обліку часто виникають після підписання договору. Збої можуть статися через місяць, коли система перестає отримувати дані. Експерти радять поставити чотири ключові питання перед підписанням угоди.",
+    "link": "https://speka.ua/business/integraciya-yaka-vze-pracyuje-comu-obmin-dokumentami-lamajetsya-cerez-misyac-pislya-vprovadzennya-p15w6z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1684fb76ecf",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/geo-zamist-seo-castina-7-yak-potrapiti-u-vidpovidi-chatgpt-9gw274",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "GEO замість SEO, частина 7: як потрапити у відповіді ChatGPT",
+    "body_orig": "Про\nте, що таке Generative Engine Optimization і чому видимість у відповідях AI\nстає окремою дисципліною маркетингу, ми говорили в попередніх\nстаттях.\nТепер перейдемо до конкретики, і поговоримо про пошук\nінформації через ChatGPT. Це логічна відправна точка: понад 200 млн активних\nкористувачів на тиждень роблять його найбільшим генеративним майданчиком, і\nсаме тут найчастіше відбувається перший контакт клієнта з рекомендацією –\n«який сервіс обрати», «що купити», «з ким працювати». У ChatGPT при цьому є\nвласна механіка відбору джерел, і вона помітно відрізняється від Google, Claude\nі від інших AI-асистентів.",
+    "published": "2026-08-08T19:42:27",
+    "fetched": "2026-08-09T05:27:32.858663",
+    "title_uk": "Як потрапити у відповіді ChatGPT: нові можливості для маркетингу",
+    "summary_uk": "ChatGPT став найбільшим генеративним майданчиком з понад 200 млн активних користувачів на тиждень. Це створює нові можливості для бізнесу, оскільки клієнти часто звертаються до AI для отримання рекомендацій. Механіка відбору джерел у ChatGPT відрізняється від Google та інших асистентів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Використовуйте ChatGPT для аналізу споживчих запитів та адаптуйте асортимент відповідно до рекомендацій AI, щоб підвищити видимість продуктів."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Як потрапити у відповіді ChatGPT: нові можливості для маркетингу",
+    "summary": "ChatGPT став найбільшим генеративним майданчиком з понад 200 млн активних користувачів на тиждень. Це створює нові можливості для бізнесу, оскільки клієнти часто звертаються до AI для отримання рекомендацій. Механіка відбору джерел у ChatGPT відрізняється від Google та інших асистентів.",
+    "link": "https://speka.ua/business/geo-zamist-seo-castina-7-yak-potrapiti-u-vidpovidi-chatgpt-9gw274",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "014458f4eec7",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/naidorozcii-ryadok-u-nakladnii-toi-yakii-masina-zistavila-nepravilno-pjzm7o",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Найдорожчий рядок у накладній — той, який машина зіставила неправильно",
+    "body_orig": "Бізнес, що купує автоматизацію обліку, платить за розпізнавання тексту. А спотикається на іншому — на зіставленні позицій зі своїм довідником номенклатури. Розповідаю, у що це обходиться, які три рішення тут ухвалює власник і чому «повна автоматизація» на цій ділянці досі коштує дорожче, ніж часткова.",
+    "published": "2026-08-08T19:54:40",
+    "fetched": "2026-08-09T05:27:32.858673",
+    "title_uk": "Помилки в автоматизації обліку можуть дорого коштувати бізнесу",
+    "summary_uk": "Бізнеси, які впроваджують автоматизацію обліку, стикаються з проблемами зіставлення позицій з довідниками номенклатури. Це призводить до додаткових витрат, оскільки повна автоматизація обходиться дорожче, ніж часткова. Власники мають ухвалювати рішення для оптимізації процесів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Важливо звернути увагу на автоматизацію обліку та її вплив на ефективність управління категоріями. Розгляньте можливість впровадження часткової автоматизації для зменшення витрат."
+    },
+    "tags": [
+      "логістика",
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Помилки в автоматизації обліку можуть дорого коштувати бізнесу",
+    "summary": "Бізнеси, які впроваджують автоматизацію обліку, стикаються з проблемами зіставлення позицій з довідниками номенклатури. Це призводить до додаткових витрат, оскільки повна автоматизація обходиться дорожче, ніж часткова. Власники мають ухвалювати рішення для оптимізації процесів.",
+    "link": "https://speka.ua/business/naidorozcii-ryadok-u-nakladnii-toi-yakii-masina-zistavila-nepravilno-pjzm7o",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
