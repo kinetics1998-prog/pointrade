@@ -191311,5 +191311,919 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "e99f1386ff38",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Firmy-oburzone-nowelizacja-ustawy-o-VAT-Zapowiadaja-list-otwarty-Mamy-placic-za-oszustow-9179469.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy oburzone nowelizacją. Zapowiadają list otwarty. „Mamy płacić za oszustów?\"",
+    "body_orig": "Przedsiębiorcy bardzo krytycznie oceniają nowelizację ustawy o VAT. Uważają ją za groźną - bo jeśli kontrahent okaże się oszustem podatkowym, uczciwa firma będzie musiała za niego zapłacić. Mało tego, zostali obciążeni nowymi obowiązkami dotyczącymi weryfikacji innych przedsiębiorców, choć to fiskus ma do tego odpowiednie narzędzia. „To tworzenie systemu nadkontroli” – narzekają właściciele firm.",
+    "published": "2026-08-10T05:00:00",
+    "fetched": "2026-08-10T05:51:23.008985",
+    "title_uk": "Польські підприємці проти нових правил з VAT",
+    "summary_uk": "Польські підприємці критикують нову редакцію закону про VAT, вважаючи її небезпечною. Якщо контрагент виявиться податковим шахраєм, чесна компанія повинна буде сплатити податок. Підприємці також отримали нові обов'язки з перевірки інших компаній, хоча ці функції повинні виконувати податкові органи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні бути обережнішими при виборі контрагентів, оскільки ризик фінансових втрат зростає. Рекомендується посилити внутрішні перевірки.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські підприємці проти нових правил з VAT",
+    "summary": "Польські підприємці критикують нову редакцію закону про VAT, вважаючи її небезпечною. Якщо контрагент виявиться податковим шахраєм, чесна компанія повинна буде сплатити податок. Підприємці також отримали нові обов'язки з перевірки інших компаній, хоча ці функції повинні виконувати податкові органи.",
+    "link": "https://www.bankier.pl/wiadomosc/Firmy-oburzone-nowelizacja-ustawy-o-VAT-Zapowiadaja-list-otwarty-Mamy-placic-za-oszustow-9179469.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d89f7c865ee5",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Premiera-chinskich-samochodow-w-Polsce-w-2026-roku-Jakie-modele-wchodza-na-rynek-9178515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Chiński szturm na polskie salony. Te modele i marki zadebiutują jeszcze w 2026 roku",
+    "body_orig": "Chińskie marki odpowiadają już za ponad 15 proc. rynku nowych aut w Polsce. Do końca 2026 r. ten wynik może zostać jeszcze wyśrubowany, ponieważ w najbliższych miesiącach czeka nas kilka premier. Do polskich salonów wjadą zarówno nowe modele i nowe wersje napędowe już obecnych. Nad Wisłą zadebiutują także nowe marki. Sprawdzamy, na co do końca 2026 r. mogą liczyć polscy miłośnicy motoryzacji zza Muru.",
+    "published": "2026-08-10T05:00:00",
+    "fetched": "2026-08-10T05:51:23.009004",
+    "title_uk": "Китайські автомобілі завойовують польський ринок",
+    "summary_uk": "Китайські марки займають понад 15% ринку нових автомобілів у Польщі. До кінця 2026 року цей показник може зрости завдяки новим моделям та маркам, які з'являться на ринку. Очікуються кілька прем'єр, що підвищить конкуренцію в автомобільному сегменті.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання конкуренції з боку китайських брендів може вплинути на ціни та асортимент. Розгляньте можливість співпраці з новими марками.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зверніть увагу на нові моделі китайських автомобілів, які можуть стати конкурентами для існуючих брендів. Це може вплинути на стратегії продажів та промо-акції."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Китайські автомобілі завойовують польський ринок",
+    "summary": "Китайські марки займають понад 15% ринку нових автомобілів у Польщі. До кінця 2026 року цей показник може зрости завдяки новим моделям та маркам, які з'являться на ринку. Очікуються кілька прем'єр, що підвищить конкуренцію в автомобільному сегменті.",
+    "link": "https://www.bankier.pl/wiadomosc/Premiera-chinskich-samochodow-w-Polsce-w-2026-roku-Jakie-modele-wchodza-na-rynek-9178515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1abac8ea5894",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-sierpien-2026-r-Banki-nie-pobieraja-oplat-i-jeszcze-doplacaja-9179449.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Najlepsze konta osobiste. Czterocyfrowe premie za otwarcie to już norma",
+    "body_orig": "W najnowszym rankingu najlepszych kont osobistych sprawdzamy realne koszty utrzymania rachunku oraz wartość bonusów przygotowanych na start. Okazuje się, że na rynku nie brakuje banków, które nie pobierają opłat podstawowych za konto oraz kartę, a na dodatek płacą za założenie ROR-u. Wśród rynkowych propozycji są nawet takie, które płacą nowym klientom aż 2700 zł.",
+    "published": "2026-08-10T05:00:00",
+    "fetched": "2026-08-10T05:51:23.009041",
+    "title_uk": "Польські банки пропонують бонуси до 2700 злотих за відкриття рахунків",
+    "summary_uk": "У новому рейтингу особистих рахунків в Польщі банки пропонують безкоштовне обслуговування та значні бонуси для нових клієнтів. Деякі установи виплачують до 2700 злотих за відкриття рахунку. Це свідчить про зростаючу конкуренцію на ринку банківських послуг.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Конкуренція серед банків може вплинути на фінансові витрати дистриб'юторів. Рекомендується переглянути умови банківських послуг для оптимізації витрат.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "фінанси",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські банки пропонують бонуси до 2700 злотих за відкриття рахунків",
+    "summary": "У новому рейтингу особистих рахунків в Польщі банки пропонують безкоштовне обслуговування та значні бонуси для нових клієнтів. Деякі установи виплачують до 2700 злотих за відкриття рахунку. Це свідчить про зростаючу конкуренцію на ринку банківських послуг.",
+    "link": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-sierpien-2026-r-Banki-nie-pobieraja-oplat-i-jeszcze-doplacaja-9179449.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6cc984c747f3",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Rachunek-za-odlaczanie-fotowoltaiki-i-wiatrakow-rosnie-Koszty-przekroczyly-100-mln-zl-9179922.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rachunek za odłączanie fotowoltaiki i wiatraków rośnie. Koszty przekroczyły 100 mln zł",
+    "body_orig": "Koszt rekompensat, jakie dotychczas trzeba było wypłacić producentom energii z wiatru i słońca, przekroczył już 100 mln zł – informuje poniedziałkowy „Dziennik Gazeta Prawna”.",
+    "published": "2026-08-10T06:00:00",
+    "fetched": "2026-08-10T05:51:23.009056",
+    "title_uk": "Витрати на компенсації для виробників енергії перевищили 100 млн злотих",
+    "summary_uk": "Витрати на компенсації для виробників енергії з вітру та сонця в Польщі перевищили 100 млн злотих. Ці кошти виплачуються за відключення від мережі. Зростання витрат викликане збільшенням кількості відключень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на компенсації може призвести до підвищення цін на електроенергію, що вплине на витрати дистриб'юторів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Витрати на компенсації для виробників енергії перевищили 100 млн злотих",
+    "summary": "Витрати на компенсації для виробників енергії з вітру та сонця в Польщі перевищили 100 млн злотих. Ці кошти виплачуються за відключення від мережі. Зростання витрат викликане збільшенням кількості відключень.",
+    "link": "https://www.bankier.pl/wiadomosc/Rachunek-za-odlaczanie-fotowoltaiki-i-wiatrakow-rosnie-Koszty-przekroczyly-100-mln-zl-9179922.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9c1de738c871",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/nowa-ustawa-zagrozeniem-dla-rynku-eksperci-krytykuja-uc-100/xgynj5e",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy nie chcą państwowego monopolu na recykling w Polsce. \"Będziemy jak Węgry czy Chorwacja\"",
+    "body_orig": "Nawet pięciokrotny wzrost kosztów dla przedsiębiorców, co musi przełożyć się na ceny produktów dla konsumentów. Co więcej, jest wysokie ryzyko pogorszenia wyników recyklingu — takie wnioski płyną z raportu Instytutu Finansów Publicznych poświęconego projektowi ustawy UC-100, dotyczącej opakowań i odpadów. O projekcie przygotowanym przez resort środowiska rozmawiamy z Witoldem Włodarczykiem, dyrektorem generalnym Ogólnopolskiej Izby Gospodarczej Ochrony Środowiska.",
+    "published": "2026-08-10T04:21:27",
+    "fetched": "2026-08-10T05:51:25.261084",
+    "title_uk": "Бізнес Польщі проти державного монополізму у переробці відходів",
+    "summary_uk": "Польські компанії виступають проти законопроекту UC-100, який може призвести до п'ятикратного зростання витрат на переробку. Це, в свою чергу, вплине на ціни для споживачів і може погіршити результати переробки. Висновки містяться у звіті Інституту фінансів публічних.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на переробку може призвести до підвищення цін на продукцію. Дистриб'юторам варто переглянути свої ціни та стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни у витратах на переробку можуть вплинути на ціни товарів у ритейлі. Рекомендується переглянути цінову політику та стратегії промоцій."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG",
+      "ціни-сировина"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Бізнес Польщі проти державного монополізму у переробці відходів",
+    "summary": "Польські компанії виступають проти законопроекту UC-100, який може призвести до п'ятикратного зростання витрат на переробку. Це, в свою чергу, вплине на ціни для споживачів і може погіршити результати переробки. Висновки містяться у звіті Інституту фінансів публічних.",
+    "link": "https://businessinsider.com.pl/gospodarka/nowa-ustawa-zagrozeniem-dla-rynku-eksperci-krytykuja-uc-100/xgynj5e",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4c1c47209c5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/ceny-w-sklepach-spadaja-kolejny-tydzien-mamy-nowe-dane-koszyk-zakupowy-business/cmsxgf5",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "W sklepach dzieje się coś dziwnego. Jest taniej niż rok temu [Koszyk zakupowy Business Insidera i aplikacji PanParagon]",
+    "body_orig": "Mimo ogólnej inflacji koszyk 14 podstawowych produktów spożywczych jest dziś tańszy niż rok i dwa lata temu o tej samej porze — wynika z najnowszej analizy aplikacji PanParagon na zlecenie Business Insider Polska.",
+    "published": "2026-08-10T04:07:42",
+    "fetched": "2026-08-10T05:51:25.261106",
+    "title_uk": "Ціни на продукти в Польщі знижуються порівняно з минулим роком",
+    "summary_uk": "Згідно з аналізом PanParagon, кошик з 14 основних продуктів харчування в Польщі став дешевшим, ніж рік і два роки тому. Це відбувається незважаючи на загальну інфляцію. Споживачі можуть скористатися вигіднішими цінами на базові продукти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін може підвищити попит на продукти, тому дистриб'юторам варто переглянути свої запаси та стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на основні продукти може вплинути на плани промо-акцій. Рекомендується переглянути асортимент та ціни на категорії, що конкурують."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на продукти в Польщі знижуються порівняно з минулим роком",
+    "summary": "Згідно з аналізом PanParagon, кошик з 14 основних продуктів харчування в Польщі став дешевшим, ніж рік і два роки тому. Це відбувається незважаючи на загальну інфляцію. Споживачі можуть скористатися вигіднішими цінами на базові продукти.",
+    "link": "https://businessinsider.com.pl/gospodarka/ceny-w-sklepach-spadaja-kolejny-tydzien-mamy-nowe-dane-koszyk-zakupowy-business/cmsxgf5",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "814566fa48ae",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/kiedy-mozna-rozliczyc-dwa-auta-w-jdg-nowa-interpretacja-fiskusa/ppj5zwz",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dwa lub trzy samochody w jednoosobowej działalności? Są nowe interpretacje",
+    "body_orig": "Zakup lub leasing samochodu do jednoosobowej działalności oznacza możliwość rozliczania kosztów uzyskania przychodów i odliczania VAT. Oczywiście przedsiębiorca może mieć więcej samochodów, ale czy może je rozliczać podatkowo? Odpowiada na to dyrektor KIS w nowych interpretacjach podatkowych. Jest też jeden haczyk.",
+    "published": "2026-08-10T04:02:00",
+    "fetched": "2026-08-10T05:51:25.261116",
+    "title_uk": "Нові податкові інтерпретації для автомобілів у бізнесі Польщі",
+    "summary_uk": "Директор KIS оприлюднив нові інтерпретації щодо можливості податкового розрахунку витрат на автомобілі в одноосібній діяльності. Підприємці можуть мати кілька автомобілів, але існує нюанс у їхньому податковому обліку. Це може вплинути на витрати та відшкодування ПДВ.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть скористатися новими правилами для оптимізації витрат на автомобілі. Рекомендується переглянути контракти на лізинг і закупівлю.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Нові податкові інтерпретації для автомобілів у бізнесі Польщі",
+    "summary": "Директор KIS оприлюднив нові інтерпретації щодо можливості податкового розрахунку витрат на автомобілі в одноосібній діяльності. Підприємці можуть мати кілька автомобілів, але існує нюанс у їхньому податковому обліку. Це може вплинути на витрати та відшкодування ПДВ.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/kiedy-mozna-rozliczyc-dwa-auta-w-jdg-nowa-interpretacja-fiskusa/ppj5zwz",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c20c90e1061e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/zbigniew-przybysz-w-1991-r-byl-praktycznie-bankrutem-pozniej-przetrwal-jeszcze-dwa/gc7xdbw",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dziś zatrudnia 500 osób i doradza prezydentowi Nawrockiemu. W 1991 r. był praktycznie bankrutem, później przetrwał jeszcze dwa kryzysy",
+    "body_orig": "Od garażu do setek pracowników? Brzmi jak typowy \"amerykański sen\", tyle że to historia z Polski. Napisał ją Zbigniew Przybysz, założyciel firmy KRAM, który dziś doradza prezydentowi Karolowi Nawrockiemu. W rozmowie z Business Insider Polska przyznaje, że w jego biznesie nie zawsze było różowo, a w nowej roli, jak będzie trzeba, postawi się głowie państwa. Ma też swój pomysł na reformę podatku PIT.",
+    "published": "2026-08-10T03:59:00",
+    "fetched": "2026-08-10T05:51:25.261126",
+    "title_uk": "Засновник KRAM розповів про шлях від банкрутства до успіху",
+    "summary_uk": "Збигнєв Прибиш, засновник компанії KRAM, розповів про свій бізнесовий шлях. Сьогодні компанія має 500 працівників і консультує президента Польщі. Прибиш поділився досвідом подолання криз та ідеями щодо реформування податку PIT.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Історія успіху KRAM може надихнути польських дистриб'юторів на інновації та адаптацію до ринкових змін.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Засновник KRAM розповів про шлях від банкрутства до успіху",
+    "summary": "Збигнєв Прибиш, засновник компанії KRAM, розповів про свій бізнесовий шлях. Сьогодні компанія має 500 працівників і консультує президента Польщі. Прибиш поділився досвідом подолання криз та ідеями щодо реформування податку PIT.",
+    "link": "https://businessinsider.com.pl/biznes/zbigniew-przybysz-w-1991-r-byl-praktycznie-bankrutem-pozniej-przetrwal-jeszcze-dwa/gc7xdbw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d94176930bbd",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/escalating-black-sea-attacks-threaten-shipping-grain-exports-225430",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Escalating Black Sea attacks threaten shipping, grain exports",
+    "body_orig": "Escalating Russian and Ukrainian attacks on vessels and port infrastructure have raised risks to commercial shipping across the Black Sea, disrupting grain and energy routes and prompting warnings of further pressure on global food supplies in the autumn.",
+    "published": "2026-08-10T05:27:50",
+    "fetched": "2026-08-10T05:51:43.662104",
+    "title_uk": "Зростання атак у Чорному морі загрожує судноплавству та експорту",
+    "summary_uk": "Атаки Росії та України на судна і портову інфраструктуру зросли, що підвищує ризики для комерційного судноплавства в Чорному морі. Це призвело до порушення маршрутів експорту зерна та енергії, що може вплинути на глобальні постачання продуктів харчування восени.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зростання атак у Чорному морі загрожує судноплавству та експорту",
+    "summary": "Атаки Росії та України на судна і портову інфраструктуру зросли, що підвищує ризики для комерційного судноплавства в Чорному морі. Це призвело до порушення маршрутів експорту зерна та енергії, що може вплинути на глобальні постачання продуктів харчування восени.",
+    "link": "https://www.hurriyetdailynews.com/escalating-black-sea-attacks-threaten-shipping-grain-exports-225430",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e836808472ea",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/abdulhamid-han-drillship-marks-four-years-with-20-wells-225429",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Abdülhamid Han drillship marks four years with 20 wells",
+    "body_orig": "Türkiye’s seventh-generation deep-sea drillship Abdülhamid Han has carried out drilling operations at 20 wells in the Mediterranean and Black seas since entering service on Aug. 9, 2022, the Energy and Natural Resources Ministry has said.",
+    "published": "2026-08-10T05:24:10",
+    "fetched": "2026-08-10T05:51:43.662117",
+    "title_uk": "Судно Abdülhamid Han відзначило чотири роки з 20 свердловинами",
+    "summary_uk": "Турецьке глибоководне бурове судно Abdülhamid Han за чотири роки виконало роботи на 20 свердловинах у Середземному та Чорному морях. Судно почало свою роботу 9 серпня 2022 року. Міністерство енергетики Туреччини підтвердило цю інформацію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця новина свідчить про активність у видобутку нафти та газу в Туреччині, що може створити можливості для постачальників обладнання та послуг у цій сфері.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Судно Abdülhamid Han відзначило чотири роки з 20 свердловинами",
+    "summary": "Турецьке глибоководне бурове судно Abdülhamid Han за чотири роки виконало роботи на 20 свердловинах у Середземному та Чорному морях. Судно почало свою роботу 9 серпня 2022 року. Міністерство енергетики Туреччини підтвердило цю інформацію.",
+    "link": "https://www.hurriyetdailynews.com/abdulhamid-han-drillship-marks-four-years-with-20-wells-225429",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d65bbac5ea5c",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/europe/britain-announces-nearly-175m-for-zero-emission-vehicle-technologies/4022705",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Britain announces nearly $175M for zero-emission vehicle technologies",
+    "body_orig": "Government and industry funding will support electric vehicle innovation, automated mobility projects and technologies including sensors and AI simulation",
+    "published": "2026-08-10T04:31:28",
+    "fetched": "2026-08-10T05:51:46.543279",
+    "title_uk": "Британія виділяє $175 млн на технології безвикидних автомобілів",
+    "summary_uk": "Уряд Великої Британії оголосив про виділення $175 млн на підтримку інновацій у сфері електромобілів. Кошти підуть на проекти автоматизованої мобільності, а також технології, включаючи датчики та симуляцію на базі штучного інтелекту. Фінансування надається як з державного, так і з приватного секторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників електромобілів, які хочуть вийти на ринок Великої Британії. Рекомендується стежити за розвитком технологій та партнерствами в цій сфері.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Британія виділяє $175 млн на технології безвикидних автомобілів",
+    "summary": "Уряд Великої Британії оголосив про виділення $175 млн на підтримку інновацій у сфері електромобілів. Кошти підуть на проекти автоматизованої мобільності, а також технології, включаючи датчики та симуляцію на базі штучного інтелекту. Фінансування надається як з державного, так і з приватного секторів.",
+    "link": "https://www.aa.com.tr/en/europe/britain-announces-nearly-175m-for-zero-emission-vehicle-technologies/4022705",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "853ef4d7545b",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/middle-east/oil-prices-rise-as-iran-sets-conditions-for-reopening-strait-of-hormuz/4022703",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Oil prices rise as Iran sets conditions for reopening Strait of Hormuz",
+    "body_orig": "Brent crude gains more than 1% as Tehran demands sanctions relief and war reparations before reopening key waterway",
+    "published": "2026-08-10T04:07:04",
+    "fetched": "2026-08-10T05:51:46.543294",
+    "title_uk": "Ціни на нафту зростають через вимоги Ірану",
+    "summary_uk": "Ціна на нафту марки Brent зросла більш ніж на 1% після того, як Іран висунув умови для відновлення роботи протоки Ормуз. Тегеран вимагає зняття санкцій та компенсації за війну. Це може вплинути на глобальні ціни на нафту.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення вартості імпортних товарів, що вплине на собівартість продукції в Україні.",
+      "pl_distributor": "Зростання цін на нафту може вплинути на витрати на логістику, тому дистриб'ютори повинні переглянути свої ціни.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту зростають через вимоги Ірану",
+    "summary": "Ціна на нафту марки Brent зросла більш ніж на 1% після того, як Іран висунув умови для відновлення роботи протоки Ормуз. Тегеран вимагає зняття санкцій та компенсації за війну. Це може вплинути на глобальні ціни на нафту.",
+    "link": "https://www.aa.com.tr/en/middle-east/oil-prices-rise-as-iran-sets-conditions-for-reopening-strait-of-hormuz/4022703",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9cad22024f8",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/veste-buna-dinspre-sistemul-bancar-creditele-firmelor-lei-au-crescut-peste-25-an-an-iunie-creditele-corporate-euro-continua-ascensiunea-revigorarea-creditarii-firmelor-indica-valorificarea-unor-23213186",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "O veste bună dinspre sistemul bancar: creditele noi ale firmelor în lei au crescut cu peste 25% an/an în iunie. Şi creditele corporate în euro continuă ascensiunea. Revigorarea creditării firmelor poate indica şi valorificarea unor oportunităţi de investiţii în economie",
+    "body_orig": "Vara a adus semnale pozitive dinspre sistemul bancar, luna iunie venind cu o revigorare a creditării pentru companii şi pe componenta finanţărilor în lei, nu doar în cazul creditelor în valută, într-un moment delicat în care economia a încetinit şi are mare nevoie de finanţare, de investiţii.",
+    "published": "2026-08-09T21:08:00",
+    "fetched": "2026-08-10T05:51:51.080510",
+    "title_uk": "Кредити для компаній у Румунії зросли на 25% у червні",
+    "summary_uk": "У червні 2026 року кредити для компаній у національній валюті зросли на понад 25% у порівнянні з минулим роком. Також спостерігається зростання корпоративних кредитів у євро. Це свідчить про відновлення кредитування, що може відкрити нові можливості для інвестицій в економіку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Кредити для компаній у Румунії зросли на 25% у червні",
+    "summary": "У червні 2026 року кредити для компаній у національній валюті зросли на понад 25% у порівнянні з минулим роком. Також спостерігається зростання корпоративних кредитів у євро. Це свідчить про відновлення кредитування, що може відкрити нові можливості для інвестицій в економіку.",
+    "link": "https://www.zf.ro/banci-si-asigurari/veste-buna-dinspre-sistemul-bancar-creditele-firmelor-lei-au-crescut-peste-25-an-an-iunie-creditele-corporate-euro-continua-ascensiunea-revigorarea-creditarii-firmelor-indica-valorificarea-unor-23213186",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa50171d574e",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/analiza/calea-ferata-pierde-pasageri-rutele-vedeta-leaga-capitala-munte-litoralul-romanesc-traficul-bucuresti-brasov-scazut-8-7-iar-ruta-vacantelor-bucuresti-constanta-8-3-s1-anul-acesta-23213174",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Calea ferată pierde pasageri chiar şi pe rutele „vedetă“, care leagă Capitala de munte şi de litoralul românesc. Traficul pe Bucureşti-Braşov a scăzut cu 8,7%, iar pe ruta vacanţelor, Bucureşti-Constanţa, cu 8,3% în S1 anul acesta",
+    "body_orig": "Calea ferată continuă să piardă teren inclusiv pe cele mai importante rute din retea, respectiv pe Bucureşti-Braşov şi Bucureşti-Constanţa, segmente care leagă Capitala de munte şi de litoralul românesc.",
+    "published": "2026-08-09T21:07:00",
+    "fetched": "2026-08-10T05:51:51.080522",
+    "title_uk": "Зниження пасажиропотоку на залізниці Румунії",
+    "summary_uk": "На залізничних маршрутах з București до Brașov та Constanța спостерігається зниження пасажиропотоку. У першій половині року кількість пасажирів на маршруті București-Brașov зменшилася на 9%, а на маршруті București-Constanța — на 8%. Це свідчить про зменшення інтересу до залізничних подорожей.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зниження пасажиропотоку на залізниці Румунії",
+    "summary": "На залізничних маршрутах з București до Brașov та Constanța спостерігається зниження пасажиропотоку. У першій половині року кількість пасажирів на маршруті București-Brașov зменшилася на 9%, а на маршруті București-Constanța — на 8%. Це свідчить про зменшення інтересу до залізничних подорожей.",
+    "link": "https://www.zf.ro/analiza/calea-ferata-pierde-pasageri-rutele-vedeta-leaga-capitala-munte-litoralul-romanesc-traficul-bucuresti-brasov-scazut-8-7-iar-ruta-vacantelor-bucuresti-constanta-8-3-s1-anul-acesta-23213174",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4493cb24d20d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/zf-index-imobiliar-crangasi-cartierul-care-s-a-scumpit-cel-mai-mult-din-bucuresti-cu-30-000-de-euro-mai-mult-pentru-un-apartament-vechi-cu-trei-camere-fata-de-acum-un-an-23213178",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Index Imobiliar. Crângaşi, cartierul care s-a scumpit cel mai mult din Bucureşti: cu 30.000 de euro mai mult pentru un apartament vechi cu trei camere faţă de acum un an",
+    "body_orig": "Crângaşi este cartierul care s-a scumpit cel mai mult din Bucureşti: preţul mediu cerut pentru un aparta­ment vechi cu trei camere a urcat la 139.000 de euro, cu 30.000 de euro peste nivelul de acum un an, un avans anual de 27,5%. În iu­lie, media zonei a crescut cu 7.000 de euro, cel mai puternic salt lunar din oraş.",
+    "published": "2026-08-09T21:07:00",
+    "fetched": "2026-08-10T05:51:51.080543",
+    "title_uk": "Ціни на житло в Бухаресті зросли на 30 тисяч євро за рік",
+    "summary_uk": "У Бухаресті район Crângaşi став найдорожчим для покупки старих квартир. Ціна на трикімнатну квартиру зросла до €139 тисяч, що на €30 тисяч більше, ніж рік тому, що становить 28%. У липні ціни піднялися на €7 тисяч, що є найбільшим місячним зростанням у місті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на житло може вплинути на купівельну спроможність населення, що варто врахувати при плануванні продажів у ритейлі."
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на житло в Бухаресті зросли на 30 тисяч євро за рік",
+    "summary": "У Бухаресті район Crângaşi став найдорожчим для покупки старих квартир. Ціна на трикімнатну квартиру зросла до €139 тисяч, що на €30 тисяч більше, ніж рік тому, що становить 28%. У липні ціни піднялися на €7 тисяч, що є найбільшим місячним зростанням у місті.",
+    "link": "https://www.zf.ro/companii/zf-index-imobiliar-crangasi-cartierul-care-s-a-scumpit-cel-mai-mult-din-bucuresti-cu-30-000-de-euro-mai-mult-pentru-un-apartament-vechi-cu-trei-camere-fata-de-acum-un-an-23213178",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9363ba0bc867",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/join-up-agentia-de-turism-parte-din-grupul-ucrainean-cu-acelasi-nume-si-a-dublat-vanzarile-si-a-intrat-in-doar-trei-ani-in-topul-celor-mai-mari-jucatori-din-piata-23213180",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Join Up, agenţia de turism parte din grupul ucrainean cu acelaşi nume, şi-a dublat vânzările şi a intrat în doar trei ani în topul celor mai mari jucători din piaţă",
+    "body_orig": "Turoperatorul Join UP, parte din grupul ucrainean cu acelaşi nume, a încheiat anul trecut cu un volum de vânzări de 462 milioane lei, potrivit informa­ţiilor furnizate de companie la solicitarea Ziarului Financiar. Cu un an în urmă, compania a avut un volum de vânzări de 206 milioane lei.",
+    "published": "2026-08-09T21:07:00",
+    "fetched": "2026-08-10T05:51:51.080553",
+    "title_uk": "Join UP подвоїв обсяги продажів за три роки",
+    "summary_uk": "Туроператор Join UP, частина українського групи, завершив 2025 рік з обсягом продажів €462 млн, що вдвічі більше, ніж €206 млн у 2024 році. Компанія за три роки потрапила до топу найбільших гравців на ринку Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Join UP подвоїв обсяги продажів за три роки",
+    "summary": "Туроператор Join UP, частина українського групи, завершив 2025 рік з обсягом продажів €462 млн, що вдвічі більше, ніж €206 млн у 2024 році. Компанія за три роки потрапила до топу найбільших гравців на ринку Румунії.",
+    "link": "https://www.zf.ro/companii/join-up-agentia-de-turism-parte-din-grupul-ucrainean-cu-acelasi-nume-si-a-dublat-vanzarile-si-a-intrat-in-doar-trei-ani-in-topul-celor-mai-mari-jucatori-din-piata-23213180",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7169eb41c2e5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/imm/morphosis-capital-vrea-faca-exit-doua-afaceri-pariat-primul-fond-reteaua-imagistica-medima-lantul-sali-stayfit-gym-morphosis-capital-fund-i-afla-intr-etapa-matura-ciclului-investitii-23213182",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Morphosis Capital vrea să facă exit din două afaceri pe care a pariat din primul fond – reţeaua de imagistică Medima şi lanţul de săli StayFit Gym. „Morphosis Capital Fund I se află într-o etapă matură a ciclului său de investiţii.“",
+    "body_orig": "Fondul de private equity Morphosis Capital tatonează exit-ul din două afaceri pe care a pariat din primul fond - reţeaua de imagistică Medima şi lanţul de săli StayFit Gym, spun sursele ZF din piaţă.",
+    "published": "2026-08-09T21:07:00",
+    "fetched": "2026-08-10T05:51:51.080563",
+    "title_uk": "Morphosis Capital планує вихід з Medima та StayFit Gym",
+    "summary_uk": "Фонд Morphosis Capital розглядає можливість виходу з двох бізнесів: мережі медичної діагностики Medima та спортивного клубу StayFit Gym. Це рішення пов'язане з досягненням зрілості їхнього першого інвестиційного фонду. Конкретні терміни виходу поки не оголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Morphosis Capital планує вихід з Medima та StayFit Gym",
+    "summary": "Фонд Morphosis Capital розглядає можливість виходу з двох бізнесів: мережі медичної діагностики Medima та спортивного клубу StayFit Gym. Це рішення пов'язане з досягненням зрілості їхнього першого інвестиційного фонду. Конкретні терміни виходу поки не оголошені.",
+    "link": "https://www.zf.ro/imm/morphosis-capital-vrea-faca-exit-doua-afaceri-pariat-primul-fond-reteaua-imagistica-medima-lantul-sali-stayfit-gym-morphosis-capital-fund-i-afla-intr-etapa-matura-ciclului-investitii-23213182",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e66fda6a644",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/moody-s-mentine-ratingul-romaniei-ce-spune-agentia-de-rating-despre-deficit-perspectiva-negativa-blocajul-politic-si-executia-bugetara-23213184",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Moody’s menţine ratingul României. Ce spune agenţia de rating despre deficit, perspectiva negativă, blocajul politic şi execuţia bugetară",
+    "body_orig": "Agenţia Moody's a confirmat vineri ratingul suveran al României la Baa3, ultima treaptă din categoria recomandată investiţiilor, şi a păstrat perspectiva negativă, invocând riscurile legate de continuarea programului multianual de ajustare fiscală într-o ţară care nu are guvern de aproape trei luni.",
+    "published": "2026-08-09T21:07:00",
+    "fetched": "2026-08-10T05:51:51.080573",
+    "title_uk": "Moody’s підтверджує рейтинг Румунії на рівні Baa3",
+    "summary_uk": "Агенція Moody's підтвердила суверенний рейтинг Румунії на рівні Baa3, зберігши негативну перспективу. Причини — ризики, пов'язані з продовженням програми фіскальної корекції в умовах політичної нестабільності, оскільки країна без уряду вже три місяці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Moody’s підтверджує рейтинг Румунії на рівні Baa3",
+    "summary": "Агенція Moody's підтвердила суверенний рейтинг Румунії на рівні Baa3, зберігши негативну перспективу. Причини — ризики, пов'язані з продовженням програми фіскальної корекції в умовах політичної нестабільності, оскільки країна без уряду вже три місяці.",
+    "link": "https://www.zf.ro/eveniment/moody-s-mentine-ratingul-romaniei-ce-spune-agentia-de-rating-despre-deficit-perspectiva-negativa-blocajul-politic-si-executia-bugetara-23213184",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9a2baa85ed8b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/firmele-europene-primesc-compensatii-ca-sa-renunte-la-proiectele-eoliene-din-sua-investesc-banii-in-proiecte-de-petrol-si-gaze-din-sua_966693.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Firmele europene primesc compensații ca să renunțe la proiectele eoliene din SUA. Investesc banii în proiecte de petrol și gaze din SUA",
+    "body_orig": "Administraţia preşedintelui Donald Trump va plăti 1,2 miliarde de dolari companiei energetice germane RWE, care a acceptat să renunţe la proiectele sale eoliene offshore din Statele Unite, potrivit BBC, citată de News.ro",
+    "published": "2026-08-10T05:04:49",
+    "fetched": "2026-08-10T05:51:55.170385",
+    "title_uk": "Європейські компанії отримують компенсації за відмову від вітрових проектів у США",
+    "summary_uk": "Адміністрація Дональда Трампа виплатить €1.2 млрд німецькій компанії RWE за відмову від вітрових проектів у США. Ці кошти компанія інвестує в проекти з видобутку нафти та газу. Це частина стратегії США щодо енергетичної незалежності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Європейські компанії отримують компенсації за відмову від вітрових проектів у США",
+    "summary": "Адміністрація Дональда Трампа виплатить €1.2 млрд німецькій компанії RWE за відмову від вітрових проектів у США. Ці кошти компанія інвестує в проекти з видобутку нафти та газу. Це частина стратегії США щодо енергетичної незалежності.",
+    "link": "https://www.economica.net/firmele-europene-primesc-compensatii-ca-sa-renunte-la-proiectele-eoliene-din-sua-investesc-banii-in-proiecte-de-petrol-si-gaze-din-sua_966693.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ba22f79c50dd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cum-incepe-leul-saptamana-dupa-decizia-moodys-curs-valutar-interbancar-luni-10-august-2026_966671.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum începe leul săptămâna, după decizia Moody’s – curs valutar interbancar luni, 10 august 2026 (UPDATE)",
+    "body_orig": "Curs valutar interbancar. După ce în ultimele două zile ale săptămânii, euro a sărit din nou pragul de 5,25 lei, moneda naţională începe săptămâna la 5,24 lei/euro, pe piaţa interbancară. Sâmbătă dimineaţă (8 august 2026) Moody's a anunţat că menţine ratingul Baa3, ultima treaptă din categoria recomandată investitorilor, cu perspectivă negativă, în urma unei evaluări planificate, la puţin  timp după ce şi agenţia Fitch a anunţat că menţine ratingul României la acelaşi nivel. Articolul este actualizat la un interval de 15 minute până la momentul comunicării cursului de referinţă anunţat de BNR în jurul orei 13.",
+    "published": "2026-08-10T04:15:21",
+    "fetched": "2026-08-10T05:51:55.170424",
+    "title_uk": "Лей знову під тиском після рішення Moody's",
+    "summary_uk": "На міжбанківському ринку Румунії курс євро становить 5,24 лей. Moody's зберегла рейтинг Румунії на рівні Baa3 з негативним прогнозом. Це рішення вплинуло на валютний ринок, оскільки євро знову перевищив 5,25 лей. Оновлення курсу відбувається кожні 15 хвилин.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Лей знову під тиском після рішення Moody's",
+    "summary": "На міжбанківському ринку Румунії курс євро становить 5,24 лей. Moody's зберегла рейтинг Румунії на рівні Baa3 з негативним прогнозом. Це рішення вплинуло на валютний ринок, оскільки євро знову перевищив 5,25 лей. Оновлення курсу відбувається кожні 15 хвилин.",
+    "link": "https://www.economica.net/cum-incepe-leul-saptamana-dupa-decizia-moodys-curs-valutar-interbancar-luni-10-august-2026_966671.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "47c37ba6414b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/concedieri-in-it-ul-romanesc-o-mare-companie-americana-a-renuntat-la-sute-de-angajati-pentru-al-doilea-an-la-rand-afacerile-au-urcat-la-nivel-record-de-24-miliarde-lei_966188.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Concedieri în IT-ul românesc. O mare companie americană a renunțat la sute de angajați pentru al doilea an la rând. Afacerile au urcat la nivel record de 2,4 miliarde lei",
+    "body_orig": "Compania americană Emerson, unul dintre cei mai mari angajatori din industria de tehnologie și automatizări din România, a redus cu peste 450 numărul mediu de angajați în ultimii doi ani, în timp ce și-a majorat semnificativ profitul și a atins un nou nivel record al cifrei de afaceri.",
+    "published": "2026-08-09T19:53:03",
+    "fetched": "2026-08-10T05:51:55.170444",
+    "title_uk": "Emerson скорочує 450 працівників в Румунії, але збільшує прибуток",
+    "summary_uk": "Компанія Emerson зменшила кількість працівників на понад 450 осіб за два роки. Незважаючи на це, її прибуток зріс, а виручка досягла рекордних 2.4 млрд леїв. Emerson залишається одним з найбільших роботодавців у румунському IT-секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Emerson скорочує 450 працівників в Румунії, але збільшує прибуток",
+    "summary": "Компанія Emerson зменшила кількість працівників на понад 450 осіб за два роки. Незважаючи на це, її прибуток зріс, а виручка досягла рекордних 2.4 млрд леїв. Emerson залишається одним з найбільших роботодавців у румунському IT-секторі.",
+    "link": "https://www.economica.net/concedieri-in-it-ul-romanesc-o-mare-companie-americana-a-renuntat-la-sute-de-angajati-pentru-al-doilea-an-la-rand-afacerile-au-urcat-la-nivel-record-de-24-miliarde-lei_966188.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8dbc812c4716",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/energy/power/ppc-group-new-agreement-for-a-res-project-portfolio-of-over-2-gw-in-poland-and-hungary-299318",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "PPC Group: New agreement for a RES project portfolio  of over 2 GW in Poland and Hungary",
+    "body_orig": "PPC Group announces the signing of a strategic agreement with the German company ABO Energy GmbH &#38; Co. KGaA for the acquisition of its subsidiaries in Poland and Hungary, along with a RES project portfolio with a total capacity of over 2 GW. The agreement represents a new milestone for the Group’s &#8220;green&#8221; European portfolio, [&#8230;]\nThe post PPC Group: New agreement for a RES project portfolio  of over 2 GW in Poland and Hungary appeared first on Business Review.",
+    "published": "2026-08-10T05:18:21",
+    "fetched": "2026-08-10T05:51:58.395465",
+    "title_uk": "PPC Group підписала угоду на проекти ВДЕ в Польщі та Угорщині",
+    "summary_uk": "PPC Group уклала стратегічну угоду з ABO Energy GmbH для придбання її дочірніх компаній у Польщі та Угорщині. Угода включає портфель проектів відновлювальної енергетики загальною потужністю понад 2 ГВт. Це важливий крок для розширення 'зеленого' портфеля компанії в Європі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PPC Group підписала угоду на проекти ВДЕ в Польщі та Угорщині",
+    "summary": "PPC Group уклала стратегічну угоду з ABO Energy GmbH для придбання її дочірніх компаній у Польщі та Угорщині. Угода включає портфель проектів відновлювальної енергетики загальною потужністю понад 2 ГВт. Це важливий крок для розширення 'зеленого' портфеля компанії в Європі.",
+    "link": "https://business-review.eu/energy/power/ppc-group-new-agreement-for-a-res-project-portfolio-of-over-2-gw-in-poland-and-hungary-299318",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b25114028024",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/competition-council-approves-the-acquisition-of-engie-building-solutions-by-specialised-services-holdings-299316",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Competition Council approves the acquisition of Engie Building Solutions by Specialised Services Holdings",
+    "body_orig": "The Competition Council has authorised the transaction whereby Specialized Services Holdings S.A. intends to acquire Engie Building Solutions S.R.L. Specialized Services Holdings S.A. carries out activities typical of a holding company and is the parent company of several companies known collectively as the BMF Group. The BMF Group operates primarily in the field of property [&#8230;]\nThe post Competition Council approves the acquisition of Engie Building Solutions by Specialised Services Holdings appeared first on Business Review.",
+    "published": "2026-08-10T05:13:26",
+    "fetched": "2026-08-10T05:51:58.395483",
+    "title_uk": "Конкуренційна рада Румунії схвалила придбання Engie Building Solutions",
+    "summary_uk": "Конкуренційна рада Румунії дозволила компанії Specialized Services Holdings S.A. придбати Engie Building Solutions S.R.L. Specialized Services Holdings є материнською компанією групи BMF, яка займається нерухомістю. Ця угода може вплинути на ринок послуг у будівництві та управлінні нерухомістю.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Конкуренційна рада Румунії схвалила придбання Engie Building Solutions",
+    "summary": "Конкуренційна рада Румунії дозволила компанії Specialized Services Holdings S.A. придбати Engie Building Solutions S.R.L. Specialized Services Holdings є материнською компанією групи BMF, яка займається нерухомістю. Ця угода може вплинути на ринок послуг у будівництві та управлінні нерухомістю.",
+    "link": "https://business-review.eu/business/competition-council-approves-the-acquisition-of-engie-building-solutions-by-specialised-services-holdings-299316",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
