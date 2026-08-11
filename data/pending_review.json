@@ -195329,5 +195329,956 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7873f393b347",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Tu-nawet-20-tys-zl-pensji-nie-wystarcza-Brakuje-nawet-150-tys-pracownikow-9180230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Płacą nawet 20 tys. zł miesięcznie, a chętnych brak. W Polsce potrzeba nawet 150 tys. kierowców",
+    "body_orig": "Mimo że zarobki w tej branży sięgają nawet blisko 20 tys. zł polskim firmom transportowym brakuje od 100 do nawet 150 tys. kierowców zawodowych. Obecna kadra się starzeje, młodzi nie garną się do zawodu, a pracownicy sprowadzani spoza UE nie są w stanie wypełnić rosnącej luki. Sprawdziliśmy, co jest powodem tak dużej luki w zatrudnieniu w tej branży.",
+    "published": "2026-08-11T05:00:00",
+    "fetched": "2026-08-11T05:32:27.064245",
+    "title_uk": "У Польщі не вистачає 150 тисяч водіїв, зарплати до 20 тис. злотих",
+    "summary_uk": "Польські транспортні компанії стикаються з браком 100-150 тисяч водіїв. Заробітки в цій сфері досягають 20 тисяч злотих на місяць, але молодь не прагне до цієї професії. Ситуація ускладнюється старінням кадрів та недостатньою кількістю працівників з-за меж ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Брак водіїв може призвести до затримок у доставках, що вплине на логістику та обслуговування клієнтів. Розгляньте можливість співпраці з альтернативними постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "У Польщі не вистачає 150 тисяч водіїв, зарплати до 20 тис. злотих",
+    "summary": "Польські транспортні компанії стикаються з браком 100-150 тисяч водіїв. Заробітки в цій сфері досягають 20 тисяч злотих на місяць, але молодь не прагне до цієї професії. Ситуація ускладнюється старінням кадрів та недостатньою кількістю працівників з-за меж ЄС.",
+    "link": "https://www.bankier.pl/wiadomosc/Tu-nawet-20-tys-zl-pensji-nie-wystarcza-Brakuje-nawet-150-tys-pracownikow-9180230.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d2f652b7a99",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Najwiekszy-konkurs-z-dotacjami-Do-wziecia-az-350-mln-zl-Kto-moze-starac-sie-o-te-pieniadze-i-co-powinien-zrobic-9180240.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dotacyjny przebój. Do wzięcia aż 350 mln zł. Co trzeba zrobić, aby dostać granty?",
+    "body_orig": "Wrócił dotacyjny hit. Tak dużych pieniędzy nie ma obecnie w żadnym innym konkursie. W naborze z programu Ścieżka SMART na przedsiębiorców i współpracujące z nimi podmioty czeka łącznie aż 350 mln zł. Jakie warunki trzeba spełnić, aby zgarnąć dotacje?",
+    "published": "2026-08-11T05:00:00",
+    "fetched": "2026-08-11T05:32:27.064258",
+    "title_uk": "Польща запускає гранти на €75 млн для підприємців",
+    "summary_uk": "У Польщі стартував новий конкурс грантів з програми Ścieżka SMART, в рамках якого підприємці можуть отримати до €75 млн. Участь можуть брати як підприємці, так і їхні партнери. Для отримання фінансування потрібно виконати певні умови, які наразі уточнюються.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Гранти можуть стати можливістю для польських дистриб'юторів, які співпрацюють з підприємцями, що отримають фінансування. Рекомендується слідкувати за умовами програми.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Польща запускає гранти на €75 млн для підприємців",
+    "summary": "У Польщі стартував новий конкурс грантів з програми Ścieżka SMART, в рамках якого підприємці можуть отримати до €75 млн. Участь можуть брати як підприємці, так і їхні партнери. Для отримання фінансування потрібно виконати певні умови, які наразі уточнюються.",
+    "link": "https://www.bankier.pl/wiadomosc/Najwiekszy-konkurs-z-dotacjami-Do-wziecia-az-350-mln-zl-Kto-moze-starac-sie-o-te-pieniadze-i-co-powinien-zrobic-9180240.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d5cf3bf6f6ed",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ranking-lokat-kwartalnych-sierpien-2026-r-Banki-zaskoczyly-fala-podwyzek-9180107.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Fala podwyżek na lokatach kwartalnych. Skoki stawek głównie w czołówce",
+    "body_orig": "Zmiany na lokatach kwartalnych. Najnowsza tabela różni się od zestawienia z poprzedniego miesiąca i tym razem są to wyłącznie zmiany na plus. Aż cztery banki poprawiły swoją ofertę, w tym instytucje plasujące się na czele tabeli. Dzięki temu na pozycji lidera znalazły się dwie propozycje na 5,50 proc. w skali roku.",
+    "published": "2026-08-11T05:00:00",
+    "fetched": "2026-08-11T05:32:27.064281",
+    "title_uk": "Польські банки підвищують ставки на квартальні депозити до 5,5%",
+    "summary_uk": "Чотири банки в Польщі підвищили ставки на квартальні депозити. Лідери ринку пропонують ставки на рівні 5,5% річних. Це позитивна зміна для вкладників, які отримають вищий дохід від своїх заощаджень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Вищі ставки на депозити можуть призвести до зменшення ліквідності у дистриб'юторів, оскільки більше коштів буде вкладено в банки. Розгляньте можливість оптимізації фінансування.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські банки підвищують ставки на квартальні депозити до 5,5%",
+    "summary": "Чотири банки в Польщі підвищили ставки на квартальні депозити. Лідери ринку пропонують ставки на рівні 5,5% річних. Це позитивна зміна для вкладників, які отримають вищий дохід від своїх заощаджень.",
+    "link": "https://www.bankier.pl/wiadomosc/Ranking-lokat-kwartalnych-sierpien-2026-r-Banki-zaskoczyly-fala-podwyzek-9180107.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d0998508bffb",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/uokik-ukaral-propagatorow-systemow-typu-piramida-za-werbowanie-uczestnikow",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "UOKiK ukarał propagatorów systemów typu piramida za werbowanie uczestników",
+    "body_orig": "Prezes UOKiK nałożył łącznie ponad 400 tys. zł kar na cztery osoby, które promowały w Polsce zakazane systemy promocyjne typu piramida prowadzone przez International Markets Live i Eaconomy. Przedsiębiorcy zachęcali odbiorców do dołączania do programów partnerskich, w których zarobki zależały przede wszystkim od werbowania kolejnych uczestników i rozbudowy struktury. Urząd uznał, że takie działania naruszały zbiorowe interesy konsumentów.\nDecyzje dotyczą Franciszka Rumaka, Grzegorza Baryły i Łukasza Spórny, którzy promowali International Markets Live (IML), oraz Małgorzaty Magiery związanej z programem Eaconomy. Oprócz kar finansowych UOKiK nakazał tym przedsiębiorcom opublikowanie informacji o decyzjach i stwierdzonych naruszeniach na prowadzonych przez nich stronach internetowych oraz w mediach społecznościowych.\n– Systemy promocyjne typu piramida nie rozwijają się same. Stoją za nimi osoby, które wykorzystują swoją rozpoznawalność i zaufanie odbiorców, aby zachęcać kolejne osoby do przystąpienia do projektu i czerpać z tego korzyści. Dlatego odpowiedzialność ponoszą nie tylko organizatorzy zakazanych systemów, ale również ich świadomi propagatorzy – mówi Tomasz Chróstny, prezes UOKiK.\nKursy i subskrypcje przykrywały piramidę\nInternational Markets Live to spółka z siedzibą w Stanach Zjednoczonych. Działała najpierw za pośrednictwem platformy im.academy, a później iyovia.com. Sprzedawała cyfrowe materiały i usługi edukacyjne dotyczące m.in. rynku walutowego, kryptowalut oraz handlu internetowego.\nMarketing firmy przekonywał, że zdobyta wiedza może pozwolić uczestnikom osiągać wysokie dochody. Na efekty mieli czekać kilka lub kilkanaście miesięcy, regularnie opłacając w tym czasie subskrypcję.\nUOKiK ustalił jednak, że istotną częścią działalności był program partnerski. Po wniesieniu opłaty początkowej i kolejnych comiesięcznych wpłat uczestnik mógł uzyskać status Independent Business Owner (IBO). Następnie otrzymywał prowizje za sprzedaż, ale również za pozyskiwanie nowych osób oraz rozbudowę struktury.\nSystem promocyjny typu piramida działa właśnie na takiej zasadzie: korzyści uczestników zależą przede wszystkim od wprowadzania do programu kolejnych osób, a nie od rzeczywistej sprzedaży produktów lub usług.\nPromowali „współpracę biznesową” w mediach społecznościowych\nDo czołowych propagatorów IML w Polsce należeli Franciszek Rumak, Grzegorz Baryła i Łukasz Spórna. Wykorzystywali zasięgi w mediach społecznościowych, kierując przekaz przede wszystkim do młodych ludzi zainteresowanych szybkim osiągnięciem sukcesu finansowego.\nOdbiorcom proponowali „współpracę biznesową”, możliwość rozwoju oraz budowania źródła dochodu. Konstrukcja programu sprawiała jednak, że pozycja uczestnika w rozbudowanej strukturze miała bezpośrednie znaczenie dla wysokości jego prowizji.\n– W tych programach o sukcesie finansowym nie decydowała sprzedaż produktów czy usług, ale pozyskiwanie kolejnych uczestników i rozbudowa struktury. Im więcej osób dołączało do programu i r",
+    "published": "2026-08-10T20:40:36",
+    "fetched": "2026-08-11T05:32:31.165657",
+    "title_uk": "Польща оштрафувала пропагандистів пірамідальних схем на €400 тис.",
+    "summary_uk": "UOKiK наклав штрафи на чотирьох осіб за просування заборонених пірамідальних схем в Польщі. Загальна сума штрафів перевищує €400 тис. Учасники системи отримували доходи переважно від залучення нових учасників, а не від реального продажу товарів чи послуг.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може вплинути на дистриб'юторів, які співпрацюють з компаніями, що пропонують сумнівні бізнес-моделі. Рекомендується перевіряти легітимність партнерів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща оштрафувала пропагандистів пірамідальних схем на €400 тис.",
+    "summary": "UOKiK наклав штрафи на чотирьох осіб за просування заборонених пірамідальних схем в Польщі. Загальна сума штрафів перевищує €400 тис. Учасники системи отримували доходи переважно від залучення нових учасників, а не від реального продажу товарів чи послуг.",
+    "link": "https://300gospodarka.pl/news/uokik-ukaral-propagatorow-systemow-typu-piramida-za-werbowanie-uczestnikow",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bdf248bb4189",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/odlozenie-emerytury-o-rok-oto-ile-mozna-zyskac-sa-wyliczenia-7317189806123072a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Odłożenie emerytury o rok. Oto ile można zyskać. Są wyliczenia",
+    "body_orig": "Dodatkowe 12 miesięcy pracy przed przejściem na emeryturę może wyraźnie zwiększyć wypłatę z ZUS. Jeśli mężczyzna zarabiający średnią krajową w wieku 65 lat będzie pracował o rok dłużej, jego świadczenie z ZUS wyniesie 4599 zł brutto i o 552 zł wyższe (rocznie zyska emeryturę wyższą o 6600 zł) - wyliczył \"Super Express\".",
+    "published": "2026-08-11T05:06:08",
+    "fetched": "2026-08-11T05:32:32.514839",
+    "title_uk": "Рік додаткової роботи збільшує пенсію в Польщі",
+    "summary_uk": "Додатковий рік роботи перед виходом на пенсію може підвищити виплату з ZUS. Чоловік, що заробляє середню зарплату в Польщі, отримуватиме на €552 більше щомісяця, якщо працюватиме до 66 років. Це дасть додаткові €6.600 на рік.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Рік додаткової роботи збільшує пенсію в Польщі",
+    "summary": "Додатковий рік роботи перед виходом на пенсію може підвищити виплату з ZUS. Чоловік, що заробляє середню зарплату в Польщі, отримуватиме на €552 більше щомісяця, якщо працюватиме до 66 років. Це дасть додаткові €6.600 на рік.",
+    "link": "https://www.money.pl/finanse/odlozenie-emerytury-o-rok-oto-ile-mozna-zyskac-sa-wyliczenia-7317189806123072a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d80202ca4c64",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/emerytura-niekoniecznie-polacy-wyplacili-sobie-miliardy-7317004553091072a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Emerytura? Niekoniecznie. Polacy wypłacili już miliardy",
+    "body_orig": "W lipcu 2026 r. aktywa netto funduszy w Pracowniczych Planach Kapitałowych (PPK) wzrosły do 55,9 mld zł. Tylko w tym jednym miesiącu wypłacono z nich jednak około 367 mln zł.",
+    "published": "2026-08-10T16:38:25",
+    "fetched": "2026-08-11T05:32:32.514894",
+    "title_uk": "Польські пенсійні фонди виплатили мільйони у липні 2026",
+    "summary_uk": "У липні 2026 року активи фондів у Програмі капітальних планів досягли €12.5 млрд. Проте, лише за один місяць з них було виплачено близько €80 млн. Це свідчить про активне використання накопичень населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання виплат з пенсійних фондів може свідчити про зменшення споживчих витрат. Дистриб'юторам варто переглянути свої прогнози продажів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення споживчих витрат може вплинути на продажі в категоріях з низькою еластичністю попиту. Рекомендується адаптувати асортимент та акції."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські пенсійні фонди виплатили мільйони у липні 2026",
+    "summary": "У липні 2026 року активи фондів у Програмі капітальних планів досягли €12.5 млрд. Проте, лише за один місяць з них було виплачено близько €80 млн. Це свідчить про активне використання накопичень населення.",
+    "link": "https://www.money.pl/finanse/emerytura-niekoniecznie-polacy-wyplacili-sobie-miliardy-7317004553091072a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "53c927ecd9ff",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-stocks-end-lower-as-oil-jumps-on-iran-uncertainty-chipmakers-slide/4023650",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks end lower as oil jumps on Iran uncertainty, chipmakers slide",
+    "body_orig": "Dow Jones falls 0.11%, S&amp;P 500 down 0.06%, Nasdaq slips 0.32%",
+    "published": "2026-08-10T20:46:36",
+    "fetched": "2026-08-11T05:32:52.877702",
+    "title_uk": "Американські акції знижуються на фоні зростання цін на нафту",
+    "summary_uk": "Індекси Dow Jones, S&P 500 та Nasdaq закрилися в червоній зоні: -0.11%, -0.06% та -0.32% відповідно. Причиною стало зростання цін на нафту через невизначеність щодо Ірану. Інвестори стурбовані можливими наслідками для ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Американські акції знижуються на фоні зростання цін на нафту",
+    "summary": "Індекси Dow Jones, S&P 500 та Nasdaq закрилися в червоній зоні: -0.11%, -0.06% та -0.32% відповідно. Причиною стало зростання цін на нафту через невизначеність щодо Ірану. Інвестори стурбовані можливими наслідками для ринку.",
+    "link": "https://www.aa.com.tr/en/economy/us-stocks-end-lower-as-oil-jumps-on-iran-uncertainty-chipmakers-slide/4023650",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "20d79275db62",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/oil-prices-jump-5-as-trump-keeps-iran-escalation-option-open/4023614",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Oil prices jump 5% as Trump keeps Iran escalation option open",
+    "body_orig": "Brent rises to $87.7 per barrel, while WTI reaches $82.2 amid uncertainty over US-Iran talks, Strait of Hormuz",
+    "published": "2026-08-10T20:20:42",
+    "fetched": "2026-08-11T05:32:52.877717",
+    "title_uk": "Ціни на нафту зросли на 5% через напруженість між США та Іраном",
+    "summary_uk": "Ціна на нафту марки Brent досягла $87.7 за барель, а WTI — $82.2. Зростання відбулося на фоні невизначеності у переговорах між США та Іраном, а також ситуації в Ормузькій протоці. Інвестори стежать за розвитком подій, що може вплинути на постачання нафти.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до подорожчання імпортованих товарів, особливо енергетичних. Рекомендується переглянути контракти та ціни на продукцію.",
+      "pl_distributor": "Польські дистриб'ютори можуть очікувати підвищення цін на товари, що потребують енергії для виробництва. Важливо врахувати ці зміни у планах закупівель.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на нафту може вплинути на вартість логістики та транспортування товарів. Рекомендується переглянути бюджети на транспортування та ціни на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "імпорт"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на нафту зросли на 5% через напруженість між США та Іраном",
+    "summary": "Ціна на нафту марки Brent досягла $87.7 за барель, а WTI — $82.2. Зростання відбулося на фоні невизначеності у переговорах між США та Іраном, а також ситуації в Ормузькій протоці. Інвестори стежать за розвитком подій, що може вплинути на постачання нафти.",
+    "link": "https://www.aa.com.tr/en/economy/oil-prices-jump-5-as-trump-keeps-iran-escalation-option-open/4023614",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0c8b3c3e939f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-bolattan-avusturya-heyetiyle-gorusmesine-iliskin-aciklama/4023585",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Bolat'tan Avusturya heyetiyle görüşmesine ilişkin açıklama",
+    "body_orig": "Bakan Bolat, Avusturya ile ticaret hacminin 2025'te 4,4 milyar dolarla tarihi zirvesine ulaştığını belirterek, \"6 milyar dolarlık ticaret hacmine dengeli ve sürdürülebilir bir biçimde ulaşmayı arzu ettiğimizi ifade ettik.\" açıklamasında bulundu.",
+    "published": "2026-08-10T19:49:39",
+    "fetched": "2026-08-11T05:32:54.816663",
+    "title_uk": "Торговий обсяг Туреччини та Австрії досягне €4.4 млрд у 2025",
+    "summary_uk": "Міністр Болат повідомив, що торговий обсяг між Туреччиною та Австрією досягне історичного максимуму в €4.4 млрд у 2025 році. Він також висловив намір досягти €6 млрд у збалансований і стійкий спосіб.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Європі. Рекомендується розглянути партнерства з австрійськими компаніями.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Торговий обсяг Туреччини та Австрії досягне €4.4 млрд у 2025",
+    "summary": "Міністр Болат повідомив, що торговий обсяг між Туреччиною та Австрією досягне історичного максимуму в €4.4 млрд у 2025 році. Він також висловив намір досягти €6 млрд у збалансований і стійкий спосіб.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolattan-avusturya-heyetiyle-gorusmesine-iliskin-aciklama/4023585",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "60411a69ddc5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-marius-chirita-alexandru-linca-fondatori-ziorapro-linkedin-industria-beauty-deschidem-inscrierile-finalul-lunii-august-lansam-prima-versiune-mijlocul-septembrie-tintim-100-150-23213658",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Marius Chiriţă şi Alexandru Lincă, fondatori ai ZioraPro – un «LinkedIn» pentru industria de beauty: Deschidem înscrierile la finalul lunii august şi lansăm prima versiune la mijlocul lui septembrie. Ţintim 100-150 de profesionişti şi cel puţin 20 de saloane din 10-15 oraşe, iar până la final de an vrem să dublăm sau chiar să triplăm numărul",
+    "body_orig": "ZioraPro, noul produs al start-up-ului de tehnologie Ziora, prin care profesioniştii din industria de beauty îşi pot construi un profil propriu, separat de salonul în care lucrează, va fi prelansat la finalul lunii august şi lansat la mijlocul lunii septembrie.",
+    "published": "2026-08-11T05:00:00",
+    "fetched": "2026-08-11T05:32:57.655400",
+    "title_uk": "ZioraPro запускає платформу для професіоналів індустрії краси",
+    "summary_uk": "ZioraPro, новий продукт стартапу Ziora, дозволяє професіоналам у сфері краси створювати власні профілі. Преланшування відбудеться наприкінці серпня, а повноцінний запуск — у середині вересня. Платформа націлена на залучення 100-150 професіоналів та 20 салонів з 10-15 міст, з метою подвоїти або потроїти ці показники до кінця року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ZioraPro запускає платформу для професіоналів індустрії краси",
+    "summary": "ZioraPro, новий продукт стартапу Ziora, дозволяє професіоналам у сфері краси створювати власні профілі. Преланшування відбудеться наприкінці серпня, а повноцінний запуск — у середині вересня. Платформа націлена на залучення 100-150 професіоналів та 20 салонів з 10-15 міст, з метою подвоїти або потроїти ці показники до кінця року.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-marius-chirita-alexandru-linca-fondatori-ziorapro-linkedin-industria-beauty-deschidem-inscrierile-finalul-lunii-august-lansam-prima-versiune-mijlocul-septembrie-tintim-100-150-23213658",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7f09840edda",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/tumultul-politic-problemele-economice-tin-astfel-investitii-distanta-romania-ramane-atragatoare-grupurile-mari-isi-deschid-aici-centre-it-servicii-cei-10-giganti-au-pus-piata-locala-harta-ultimul-an-23213834",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Tumultul politic şi problemele economice nu ţin astfel de investiţii la distanţă. România rămâne atrăgătoare pentru grupurile mari care îşi deschid aici centre de IT sau de servicii. Cine sunt cei 10 giganţi care şi-au pus piaţa locală pe hartă doar în ultimul an",
+    "body_orig": "",
+    "published": "2026-08-10T21:08:00",
+    "fetched": "2026-08-11T05:32:57.655416",
+    "title_uk": "Румунія залишається привабливою для великих IT-інвестицій",
+    "summary_uk": "Попри політичні та економічні виклики, Румунія приваблює великі компанії, які відкривають IT-центри. За останній рік на ринку з'явилися 10 нових гравців. Це свідчить про стійкість ринку та інтерес до технологічних інвестицій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія залишається привабливою для великих IT-інвестицій",
+    "summary": "Попри політичні та економічні виклики, Румунія приваблює великі компанії, які відкривають IT-центри. За останній рік на ринку з'явилися 10 нових гравців. Це свідчить про стійкість ринку та інтерес до технологічних інвестицій.",
+    "link": "https://www.zf.ro/companii/tumultul-politic-problemele-economice-tin-astfel-investitii-distanta-romania-ramane-atragatoare-grupurile-mari-isi-deschid-aici-centre-it-servicii-cei-10-giganti-au-pus-piata-locala-harta-ultimul-an-23213834",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9a35c9e21cc5",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/techday/zf-tech-day-cristian-turcin-lead-product-b2b-orange-romania-romania-ajuns-25-adoptie-cloud-fata-52-media-ue-creste-doua-ori-repede-europa-segmentul-au-inceput-vina-institutiile-companiile-catre-23213663",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Tech Day. Cristian Turcin, Lead Product B2B, Orange România: România a ajuns la 25% adopţie cloud, faţă de 52% media UE, şi creşte de două ori mai repede decât Europa. Pe segmentul AI au început să vină instituţiile şi companiile către noi",
+    "body_orig": "Adopţia tehnologiei de cloud în România a ajuns la circa 25% în 2025, aproape jumătate din media europeană de 52%, dar decalajul este recuperat rapid, iar atenţia organizaţiilor se mută deja către pasul următor, inteligenţa artificială (AI).",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655427",
+    "title_uk": "Румунія досягла 25% впровадження хмарних технологій",
+    "summary_uk": "В Румунії впровадження хмарних технологій становить 25%, що нижче середнього показника ЄС у 52%. Однак темпи зростання вдвічі перевищують європейські. Організації вже звертаються до рішень у сфері штучного інтелекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія досягла 25% впровадження хмарних технологій",
+    "summary": "В Румунії впровадження хмарних технологій становить 25%, що нижче середнього показника ЄС у 52%. Однак темпи зростання вдвічі перевищують європейські. Організації вже звертаються до рішень у сфері штучного інтелекту.",
+    "link": "https://www.zf.ro/techday/zf-tech-day-cristian-turcin-lead-product-b2b-orange-romania-romania-ajuns-25-adoptie-cloud-fata-52-media-ue-creste-doua-ori-repede-europa-segmentul-au-inceput-vina-institutiile-companiile-catre-23213663",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bff481fffd73",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-gen-z/zf-gen-z-doi-tineri-au-pariat-toate-economiile-concept-cafenea-unde-vii-catelul-iti-bei-cafeaua-stres-au-reusit-economisit-vandut-motocicleta-folosit-banii-stransi-america-work-travel-23213674",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Gen Z. Doi tineri au pariat toate economiile lor pe un nou concept de cafenea, unde vii cu căţelul şi îţi bei cafeaua fără stres. Cum au reuşit? „Am economisit, am vândut motocicleta şi am folosit banii strânşi în America cu Work & Travel“",
+    "body_orig": "Teckel Coffee & Cocktails a pornit din pasiunea pentru ca­fea a doi tineri care, mult timp, au fost barista doar pentru prietenii care le treceau pragul casei. Anca şi Andrei Nicolescu se gândeau de câţiva ani la propria cafenea, însă joburile şi lipsa curajului i-au făcut să amâne momentul. Lucrurile - dar şi conceptul de business - s-au schimbat odată cu apariţia în viaţa lor a lui Zuchi, teckelul familiei.",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655438",
+    "title_uk": "Молоді підприємці відкрили кафе для власників собак",
+    "summary_uk": "Анка та Андрій Нікулеску відкрили Teckel Coffee & Cocktails, використавши заощадження та продаж мотоцикла. Концепція кафе дозволяє відвідувачам приходити з собаками та насолоджуватися кавою без стресу. Пара реалізувала свою мрію після кількох років обдумування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "HoReCa"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Молоді підприємці відкрили кафе для власників собак",
+    "summary": "Анка та Андрій Нікулеску відкрили Teckel Coffee & Cocktails, використавши заощадження та продаж мотоцикла. Концепція кафе дозволяє відвідувачам приходити з собаками та насолоджуватися кавою без стресу. Пара реалізувала свою мрію після кількох років обдумування.",
+    "link": "https://www.zf.ro/zf-gen-z/zf-gen-z-doi-tineri-au-pariat-toate-economiile-concept-cafenea-unde-vii-catelul-iti-bei-cafeaua-stres-au-reusit-economisit-vandut-motocicleta-folosit-banii-stransi-america-work-travel-23213674",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "245522e7de95",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/economia-redreseaza-usor-creditul-privat-isi-accentueaza-ascensiunea-timp-inflatia-scade-substantial-t3-2026-romania-ramane-cea-mare-dobanda-regiune-bnr-tinand-rata-cheie-tot-6-5-vede-viitor-riscuri-23213734",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Economia se redresează uşor, creditul privat îşi accentuează ascensiunea, în timp ce inflaţia scade substanţial din T3/2026. Dar România rămâne cu cea mai mare dobândă din regiune, BNR ţinând rata-cheie tot la 6,5%, pentru că vede în viitor riscuri notabile pentru inflaţie",
+    "body_orig": "BNR anticipează o redresare uşoară a eco­nomiei în trimestrele doi şi trei din acest an şi vede o accentuare a ascensiunii creditului privat, în timp ce inflaţia scade substanţial din trimestrul trei (T3).",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655447",
+    "title_uk": "Румунія очікує на легке відновлення економіки та зниження інфляції",
+    "summary_uk": "Національний банк Румунії прогнозує поступове відновлення економіки в другому та третьому кварталах 2026 року. Водночас, кредитування приватного сектору зростає, а інфляція знижується. Проте, ставка рефінансування залишається на рівні 6.5% через ризики для інфляції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія очікує на легке відновлення економіки та зниження інфляції",
+    "summary": "Національний банк Румунії прогнозує поступове відновлення економіки в другому та третьому кварталах 2026 року. Водночас, кредитування приватного сектору зростає, а інфляція знижується. Проте, ставка рефінансування залишається на рівні 6.5% через ризики для інфляції.",
+    "link": "https://www.zf.ro/banci-si-asigurari/economia-redreseaza-usor-creditul-privat-isi-accentueaza-ascensiunea-timp-inflatia-scade-substantial-t3-2026-romania-ramane-cea-mare-dobanda-regiune-bnr-tinand-rata-cheie-tot-6-5-vede-viitor-riscuri-23213734",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a43f5abe81f0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/radu-stoica-director-regional-viena-deichmann-preluat-pozitia-cfo-retailerului-peek-cloppenburg-europa-centrala-est-business-1-3-mld-euro-inceputul-carierei-anii-2000-lucrat-aproape-doi-ani-ziarul-23213815",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Radu Stoica, fost director regional la Viena pentru Deichmann, a preluat poziţia de CFO al retailerului Peek & Cloppenburg pentru Europa Centrală şi de Est, un business de 1,3 mld. euro. La începutul carierei, în anii 2000, el a lucrat aproape doi ani la Ziarul Financiar",
+    "body_orig": "Radu Stoica, fost director pentru Europa Centrală şi de Est pentru retailerul Deichmann, va prelua de la 1 septembrie poziţia de director financiar (CFO) pentru regiunea Europei Centrale şi de Est a reţelei de magazine germane Peek & Cloppenburg. Această divizie are un business anual de peste 1,3 miliarde de euro.",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655457",
+    "title_uk": "Radu Stoica став CFO Peek & Cloppenburg у Центральній та Східній Європі",
+    "summary_uk": "Radu Stoica, колишній директор Deichmann, з 1 вересня обійме посаду CFO Peek & Cloppenburg для Центральної та Східної Європи. Ця дивізія має річний обіг понад €1.3 млрд. Stoica розпочав кар'єру в Ziarul Financiar на початку 2000-х.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Radu Stoica став CFO Peek & Cloppenburg у Центральній та Східній Європі",
+    "summary": "Radu Stoica, колишній директор Deichmann, з 1 вересня обійме посаду CFO Peek & Cloppenburg для Центральної та Східної Європи. Ця дивізія має річний обіг понад €1.3 млрд. Stoica розпочав кар'єру в Ziarul Financiar на початку 2000-х.",
+    "link": "https://www.zf.ro/companii/radu-stoica-director-regional-viena-deichmann-preluat-pozitia-cfo-retailerului-peek-cloppenburg-europa-centrala-est-business-1-3-mld-euro-inceputul-carierei-anii-2000-lucrat-aproape-doi-ani-ziarul-23213815",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0e25bb2bd513",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cum-arata-clasamentul-celor-mai-mari-administratori-de-fonduri-mutuale-din-romania-in-iunie-2026-23213817",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Finanţe personale. Cum arată clasamentul celor mai mari administratori de fonduri mutuale din România în iunie 2026",
+    "body_orig": "BT Asset Management se afla pe primul loc în clasamentul celor mai mari administratori de fonduri mutuale din România la finalul lunii iunie 2026, cu active nete de 11,24 mld. lei, faţă de 6,2 mld. lei în iunie 2025, când divizia de administrare a investiţiilor din cadrul Băncii Transilvania (TLV) ocupa locul secund.",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655466",
+    "title_uk": "BT Asset Management очолила ринок фондів у Румунії в червні 2026",
+    "summary_uk": "BT Asset Management стала лідером серед адміністраторів фондів у Румунії з активами €2.3 млрд. У червні 2025 компанія займала друге місце з активами €1.3 млрд. Зростання активів свідчить про успішну стратегію управління інвестиціями.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "BT Asset Management очолила ринок фондів у Румунії в червні 2026",
+    "summary": "BT Asset Management стала лідером серед адміністраторів фондів у Румунії з активами €2.3 млрд. У червні 2025 компанія займала друге місце з активами €1.3 млрд. Зростання активів свідчить про успішну стратегію управління інвестиціями.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cum-arata-clasamentul-celor-mai-mari-administratori-de-fonduri-mutuale-din-romania-in-iunie-2026-23213817",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "130f3876d082",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/boom-ul-luca-investitiile-si-tranzactiile-redeseneaza-topul-angajatorilor-din-industria-alimentara-23213821",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Boom-ul Luca, investiţiile şi tranzacţiile redesenează topul angajatorilor din industria alimentară",
+    "body_orig": "Cei mai mari 20 de angajatori aveau împreună în 2025 un număr de 27.000 de angajaţi, cu aproape 9.000 mai mult faţă de clasamentul firmelor de acum zece ani, arată o analiză ZF făcută pe baza datelor de la Ministerul de Finanţe.",
+    "published": "2026-08-10T21:07:00",
+    "fetched": "2026-08-11T05:32:57.655475",
+    "title_uk": "Топ-20 роботодавців в індустрії харчування Румунії зростає",
+    "summary_uk": "У 2025 році 20 найбільших роботодавців в харчовій промисловості Румунії мали 27 тисяч працівників, що на 9 тисяч більше, ніж десять років тому. Це свідчить про зростання інвестицій та активність на ринку праці в цій галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Топ-20 роботодавців в індустрії харчування Румунії зростає",
+    "summary": "У 2025 році 20 найбільших роботодавців в харчовій промисловості Румунії мали 27 тисяч працівників, що на 9 тисяч більше, ніж десять років тому. Це свідчить про зростання інвестицій та активність на ринку праці в цій галузі.",
+    "link": "https://www.zf.ro/companii/boom-ul-luca-investitiile-si-tranzactiile-redeseneaza-topul-angajatorilor-din-industria-alimentara-23213821",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e3422d4ea1c5",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/dezvoltatorul-impact-apartamente_966943.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Dezvoltatorul Impact face primii pași pentru proiectul de 4.000 de apartamente din Vestul Bucureștiului",
+    "body_orig": "Dezvoltatorul Impact, a cărui strategie este să construiască aproape 8.000 de apartamente în următorii opt ani, a făcut primii pași pentru proiectul-gigant cu peste 4.000 de locuințe din Vestul Capitalei.",
+    "published": "2026-08-10T19:22:30",
+    "fetched": "2026-08-11T05:33:01.786153",
+    "title_uk": "Impact розпочав проект на 4.000 квартир у Західному Бухаресті",
+    "summary_uk": "Компанія Impact планує збудувати 8.000 квартир за 8 років. Наразі розпочато проект на 4.000 квартир у Західному Бухаресті. Це перший етап великого будівництва в столиці Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Impact розпочав проект на 4.000 квартир у Західному Бухаресті",
+    "summary": "Компанія Impact планує збудувати 8.000 квартир за 8 років. Наразі розпочато проект на 4.000 квартир у Західному Бухаресті. Це перший етап великого будівництва в столиці Румунії.",
+    "link": "https://www.economica.net/dezvoltatorul-impact-apartamente_966943.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c2db9b21a9eb",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/se-scumpeste-iar-rca-preferata-soferilor-cu-25-milioane-de-clienti-a-crescut-preturile-cu-peste-50-crestere-medie-de-aproape-14-sunt-tot-mai-multe-accidente-cu-masini-fara-rca_966704.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Se scumpește iar RCA. Preferata șoferilor, cu 2,5 milioane de clienți, a crescut prețurile cu peste 50%, creștere medie de aproape 14%. Sunt tot mai multe accidente cu mașini fără RCA",
+    "body_orig": "Tot mai multe accidente provocate de șoferi fără RCA au loc pe drumurile din România, iar acest lucru este posibil să fie în legătură cu creșterile de prețuri constante din ultimii ani. După doi ani ani în care scumpirile au fost mai degrabă reduse, 2026 vine iar cu un val de creșteri substanțiale ale cotelor de primă, conform datelor de vânzări analizate de Economica. În fruntea plutonului de scumpiri, chiar Groupama, liderul pieței, cu circa 2,5 milioane de asigurați RCA.",
+    "published": "2026-08-10T19:21:45",
+    "fetched": "2026-08-11T05:33:01.786164",
+    "title_uk": "Ціни на страхування RCA в Румунії зросли на 14%",
+    "summary_uk": "У Румунії знову зросли ціни на страхування RCA, середнє підвищення становить 14%. Groupama, лідер ринку з 2.5 млн клієнтів, підвищила тарифи на понад 50%. Зростання цін може бути пов'язане з збільшенням кількості аварій за участю водіїв без RCA.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціни на страхування RCA в Румунії зросли на 14%",
+    "summary": "У Румунії знову зросли ціни на страхування RCA, середнє підвищення становить 14%. Groupama, лідер ринку з 2.5 млн клієнтів, підвищила тарифи на понад 50%. Зростання цін може бути пов'язане з збільшенням кількості аварій за участю водіїв без RCA.",
+    "link": "https://www.economica.net/se-scumpeste-iar-rca-preferata-soferilor-cu-25-milioane-de-clienti-a-crescut-preturile-cu-peste-50-crestere-medie-de-aproape-14-sunt-tot-mai-multe-accidente-cu-masini-fara-rca_966704.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d74a9e83e69",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/exclusiv-romania-nu-va-inchide-grupurile-pe-carbune-de-la-turceni-si-craiova-la-sfarsitul-lunii-asa-cum-isi-asumase-prin-pnrr-cati-bani-am-putea-pierde-pierde_966987.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "EXCLUSIV România nu va închide grupurile pe cărbune de la Turceni și Craiova la sfârșitul lunii, așa cum își asumase prin PNRR.  Câți bani am putea pierde",
+    "body_orig": "Pe fondul situației delicate din sistemul energetic, care ar putea avea repercusiuni destul de rele și în sezonul rece, Guvernul României nu va închide câteva capacități de producție de energie pe bază de cărbune, așa cum își asumase prin PNRR. Va pierde bani, dar speră să fie cât mai puțini.",
+    "published": "2026-08-10T19:20:30",
+    "fetched": "2026-08-11T05:33:01.786173",
+    "title_uk": "Румунія не закриє вугільні електростанції в Турчени та Крайова",
+    "summary_uk": "Уряд Румунії вирішив не закривати вугільні електростанції в Турчени та Крайова, незважаючи на зобов'язання в рамках ПНРР. Це рішення може призвести до фінансових втрат, але уряд сподівається, що вони будуть мінімальними. Ситуація в енергетичному секторі залишається напруженою, що може вплинути на зимовий сезон.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія не закриє вугільні електростанції в Турчени та Крайова",
+    "summary": "Уряд Румунії вирішив не закривати вугільні електростанції в Турчени та Крайова, незважаючи на зобов'язання в рамках ПНРР. Це рішення може призвести до фінансових втрат, але уряд сподівається, що вони будуть мінімальними. Ситуація в енергетичному секторі залишається напруженою, що може вплинути на зимовий сезон.",
+    "link": "https://www.economica.net/exclusiv-romania-nu-va-inchide-grupurile-pe-carbune-de-la-turceni-si-craiova-la-sfarsitul-lunii-asa-cum-isi-asumase-prin-pnrr-cati-bani-am-putea-pierde-pierde_966987.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "101a38bee4dc",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/madr-protejarea-biodiversitatii-si-dezvoltarea-unei-agriculturi-competitive-nu-sunt-obiective-contradictorii-masurile-de-conservare-trebuie-sa-fie-eficiente-si-adaptate-realitatilor-din-teren_966979.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "MADR: Protejarea biodiversităţii şi dezvoltarea unei agriculturi competitive nu sunt obiective contradictorii. Măsurile de conservare trebuie să fie eficiente şi adaptate realităţilor din teren",
+    "body_orig": "Aplicarea Directivei CE privind habitatele şi a Directivei privind păsările trebuie să asigure un echilibru real între obiectivele de conservare şi protejarea culturilor agricole, a efectivelor de animale şi a activităţii fermierilor, susţine Ministerul Agriculturii şi Dezvoltării Rurale (MADR), relatează Agerpres.",
+    "published": "2026-08-10T19:10:54",
+    "fetched": "2026-08-11T05:33:01.786183",
+    "title_uk": "Міністерство сільського господарства Румунії про баланс між біорізноманіттям та агрономією",
+    "summary_uk": "Міністерство сільського господарства Румунії підкреслює важливість балансу між збереженням біорізноманіття та захистом сільськогосподарських культур. Зазначено, що директиви ЄС мають забезпечити ефективні заходи, які відповідають реаліям фермерства. Це може вплинути на аграрну політику та практики в країні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Міністерство сільського господарства Румунії про баланс між біорізноманіттям та агрономією",
+    "summary": "Міністерство сільського господарства Румунії підкреслює важливість балансу між збереженням біорізноманіття та захистом сільськогосподарських культур. Зазначено, що директиви ЄС мають забезпечити ефективні заходи, які відповідають реаліям фермерства. Це може вплинути на аграрну політику та практики в країні.",
+    "link": "https://www.economica.net/madr-protejarea-biodiversitatii-si-dezvoltarea-unei-agriculturi-competitive-nu-sunt-obiective-contradictorii-masurile-de-conservare-trebuie-sa-fie-eficiente-si-adaptate-realitatilor-din-teren_966979.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "64208f3df724",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/life/gnuckii-grafik-roboti-comu-30-lyudei-krashhe-dumayut-pislya-1700-v5mwjq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Гнучкий графік роботи: чому 30% людей краще думають після 17:00",
+    "body_orig": "Стандартний графік із 9:00 до 17:00 зручний для організації роботи, але може не збігатися з годинами, коли людина генерує найкращі ідеї. Майже третина працівників повідомляє про пік креативності вже після завершення звичного робочого дня. Fast Company пояснює, чому компаніям варто враховувати не лише години присутності, а й індивідуальні періоди максимальної концентрації.",
+    "published": "2026-08-10T16:55:08",
+    "fetched": "2026-08-11T05:32:47.495532",
+    "title_uk": "Гнучкий графік роботи підвищує креативність працівників",
+    "summary_uk": "Близько 30% працівників відзначають пік креативності після 17:00. Це свідчить про те, що традиційний графік роботи може не відповідати індивідуальним потребам співробітників. Компаніям варто враховувати години максимальної концентрації для підвищення продуктивності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розгляньте можливість впровадження гнучкого графіка для підвищення продуктивності команди. Це може позитивно вплинути на результати продажів."
+    },
+    "tags": [
+      "мотивація-ТП",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Гнучкий графік роботи підвищує креативність працівників",
+    "summary": "Близько 30% працівників відзначають пік креативності після 17:00. Це свідчить про те, що традиційний графік роботи може не відповідати індивідуальним потребам співробітників. Компаніям варто враховувати години максимальної концентрації для підвищення продуктивності.",
+    "link": "https://speka.ua/life/gnuckii-grafik-roboti-comu-30-lyudei-krashhe-dumayut-pislya-1700-v5mwjq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "843ed732f7f1",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ukrayincyam-dozvolyat-bilse-nbu-poslablyuje-valyutni-obmezennya-z-11-serpnya-pkk461",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українцям дозволять більше: НБУ послаблює валютні обмеження з 11 серпня",
+    "body_orig": "Нацбанк з 11 серпня 2026 року запроваджує масштабний пакет пом’якшення валютних обмежень. Для фізичних осіб збільшать ліміти на купівлю валюти, зняття готівки та розрахунки за кордоном тощо.",
+    "published": "2026-08-10T20:19:30",
+    "fetched": "2026-08-11T05:32:47.495567",
+    "title_uk": "НБУ послаблює валютні обмеження з 11 серпня 2026 року",
+    "summary_uk": "Національний банк України з 11 серпня 2026 року запроваджує новий пакет пом'якшення валютних обмежень. Для фізичних осіб збільшать ліміти на купівлю валюти, зняття готівки та розрахунки за кордоном. Це рішення має на меті поліпшити доступ до іноземної валюти.",
+    "what_it_means": {
+      "ua_importer": "Збільшення лімітів на купівлю валюти може спростити імпорт товарів з-за кордону. Імпортерам варто переглянути свої фінансові стратегії.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "валюта"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "НБУ послаблює валютні обмеження з 11 серпня 2026 року",
+    "summary": "Національний банк України з 11 серпня 2026 року запроваджує новий пакет пом'якшення валютних обмежень. Для фізичних осіб збільшать ліміти на купівлю валюти, зняття готівки та розрахунки за кордоном. Це рішення має на меті поліпшити доступ до іноземної валюти.",
+    "link": "https://speka.ua/news/ukrayincyam-dozvolyat-bilse-nbu-poslablyuje-valyutni-obmezennya-z-11-serpnya-pkk461",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3e7e3d18ef34",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/dani-pro-biznes-kameri-ta-zlocinnist-stali-vidkritimi-shho-mozna-diznatisya-p15w2z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Дані про бізнес, камери та злочинність стали відкритими: що можна дізнатися",
+    "body_orig": "На Єдиному порталі відкритих даних опублікували нові набори інформації, які можуть використовувати громадяни, бізнес, журналісти та розробники цифрових сервісів, повідомляє Мінцифри.",
+    "published": "2026-08-10T18:29:59",
+    "fetched": "2026-08-11T05:32:47.495602",
+    "title_uk": "Нові відкриті дані про бізнес і злочинність в Україні",
+    "summary_uk": "На Єдиному порталі відкритих даних з'явилися нові набори інформації для громадян, бізнесу, журналістів і розробників. Міністерство цифрової трансформації повідомило про можливість використання цих даних для покращення сервісів. Це може підвищити прозорість у бізнес-середовищі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Нові відкриті дані про бізнес і злочинність в Україні",
+    "summary": "На Єдиному порталі відкритих даних з'явилися нові набори інформації для громадян, бізнесу, журналістів і розробників. Міністерство цифрової трансформації повідомило про можливість використання цих даних для покращення сервісів. Це може підвищити прозорість у бізнес-середовищі.",
+    "link": "https://speka.ua/news/dani-pro-biznes-kameri-ta-zlocinnist-stali-vidkritimi-shho-mozna-diznatisya-p15w2z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
