@@ -199073,5 +199073,922 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "377d900bb3f3",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/your-breakfast-loo-lot-more-expensive-under-pesticide-simplification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Breakfast looks a lot more expensive under EU pesticide plans",
+    "body_orig": "Coffee, citrus and berry prices set to spike if a plan to tighten pesticide standards for imports becomes reality.",
+    "published": "2026-08-12T02:00:00",
+    "fetched": "2026-08-12T05:51:30.628434",
+    "title_uk": "Ціни на каву та цитрусові зростуть через нові правила ЄС",
+    "summary_uk": "Європейський Союз планує посилити стандарти пестицидів для імпорту. Це може призвести до зростання цін на каву, цитрусові та ягоди. Виробники та імпортери готуються до змін, які можуть вплинути на ринок у 2026 році.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів, які працюють з кавою та фруктами, це може означати підвищення закупівельних цін. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Польські дистриб'ютори FMCG повинні врахувати можливе зростання цін на імпортні товари, зокрема на каву та цитрусові. Це може вплинути на стратегії закупівель.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зміни можуть вплинути на цінову політику в категоріях кави та фруктів. Рекомендується переглянути плани промо та ціни на ці категорії."
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина",
+      "імпорт",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Ціни на каву та цитрусові зростуть через нові правила ЄС",
+    "summary": "Європейський Союз планує посилити стандарти пестицидів для імпорту. Це може призвести до зростання цін на каву, цитрусові та ягоди. Виробники та імпортери готуються до змін, які можуть вплинути на ринок у 2026 році.",
+    "link": "https://www.politico.eu/article/your-breakfast-loo-lot-more-expensive-under-pesticide-simplification/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d6444015c9f2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Prawie-96-proc-z-nieprawidlowosciami-PIP-odslania-kulisy-pracy-tymczasowej-9180755.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tak pracuje ponad 700 tys. osób. Kontrole PIP przyniosły alarmujące wyniki",
+    "body_orig": "Z pracy tymczasowej korzysta w Polsce ponad 700 tys. osób, a 71 proc. firm deklaruje stosowanie tej formy współpracy. Tymczasem skala nieprawidłowości może tu zaskakiwać – w 2025 r. inspektorzy Państwowej Inspekcji Pracy wykryli je aż w 95,8 proc. skontrolowanych agencji. Problemy dotyczą m.in. wynagrodzeń, umów, czasu pracy i zasad rekrutacji.",
+    "published": "2026-08-12T05:00:00",
+    "fetched": "2026-08-12T05:51:33.418095",
+    "title_uk": "У Польщі 700 тис. людей працюють у тимчасових вакансіях",
+    "summary_uk": "У Польщі понад 700 тис. людей залучені до тимчасової роботи, 71% компаній використовують цей формат. Проте, у 2025 році 95% перевірених агенцій мали порушення, зокрема у виплатах та умовах праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні звернути увагу на зростаючі ризики порушень у тимчасових агенціях, що може вплинути на їхні бізнес-процеси.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "робота-з-байєрами"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "У Польщі 700 тис. людей працюють у тимчасових вакансіях",
+    "summary": "У Польщі понад 700 тис. людей залучені до тимчасової роботи, 71% компаній використовують цей формат. Проте, у 2025 році 95% перевірених агенцій мали порушення, зокрема у виплатах та умовах праці.",
+    "link": "https://www.bankier.pl/wiadomosc/Prawie-96-proc-z-nieprawidlowosciami-PIP-odslania-kulisy-pracy-tymczasowej-9180755.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "21c715929bfd",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowe-bony-mozna-dostac-do-3500-zl-Wnioski-tylko-do-konca-sierpnia-Kto-ma-szanse-na-doplate-i-gdzie-nalezy-sie-zglosic-9180729.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowe bony: można dostać do 3500 zł. Wnioski do końca sierpnia. Kto ma szanse?",
+    "body_orig": "Trwa jedyny tegoroczny nabór wniosków o dopłaty, które w ubiegłym roku cieszyły się olbrzymią popularnością. Mowa o bonie ciepłowniczym, czyli dofinansowaniu, które można przeznaczyć na tegoroczne rachunki za ogrzewanie. Jedno gospodarstwo może tą drogą otrzymać nawet 3500 zł. Trzeba jednak się spieszyć, bo wnioski są przyjmowane tylko do końca sierpnia. Jakie warunki należy spełnić, aby dostać bon ciepłowniczy?",
+    "published": "2026-08-12T05:00:00",
+    "fetched": "2026-08-12T05:51:33.418125",
+    "title_uk": "У Польщі стартував набір на отримання бонів до 3500 злотих",
+    "summary_uk": "У Польщі триває набір заявок на отримання бонів на оплату опалення. Один домогосподарство може отримати до 3500 злотих. Заявки приймаються до кінця серпня. Бони користуються великою популярністю серед населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Польщі стартував набір на отримання бонів до 3500 злотих",
+    "summary": "У Польщі триває набір заявок на отримання бонів на оплату опалення. Один домогосподарство може отримати до 3500 злотих. Заявки приймаються до кінця серпня. Бони користуються великою популярністю серед населення.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowe-bony-mozna-dostac-do-3500-zl-Wnioski-tylko-do-konca-sierpnia-Kto-ma-szanse-na-doplate-i-gdzie-nalezy-sie-zglosic-9180729.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1cd0dec9bf63",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wieczne-chemikalia-pod-lupa-UE-Od-srody-nowe-zasady-dla-opakowan-zywnosci-9180902.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Wieczne chemikalia\" pod lupą UE. Od środy nowe zasady dla opakowań żywności",
+    "body_orig": "Rozporządzenie w sprawie opakowań i odpadów opakowaniowych zacznie być stosowane w UE w środę. Nowe regulacje docelowo mają objąć wszystkie typy opakowań na wspólnym rynku. W pierwszej kolejności zaczną obowiązywać przepisy dotyczące limitów dla tzw. wiecznych chemikaliów w opakowaniach na żywność.",
+    "published": "2026-08-12T05:00:00",
+    "fetched": "2026-08-12T05:51:33.418167",
+    "title_uk": "ЄС запроваджує нові правила для упаковки продуктів",
+    "summary_uk": "З 12 серпня в ЄС починають діяти нові правила щодо упаковки. Вони стосуються обмежень на так звані 'вічні хімікати' в упаковках для харчових продуктів. Регуляція охопить всі типи упаковок на спільному ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні перевірити свої постачання на відповідність новим стандартам. Це може вплинути на асортимент упаковки.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Необхідно переглянути асортимент упаковки в категоріях продуктів, що постачаються до ЄС, щоб уникнути штрафів за невідповідність."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "ЄС запроваджує нові правила для упаковки продуктів",
+    "summary": "З 12 серпня в ЄС починають діяти нові правила щодо упаковки. Вони стосуються обмежень на так звані 'вічні хімікати' в упаковках для харчових продуктів. Регуляція охопить всі типи упаковок на спільному ринку.",
+    "link": "https://www.bankier.pl/wiadomosc/Wieczne-chemikalia-pod-lupa-UE-Od-srody-nowe-zasady-dla-opakowan-zywnosci-9180902.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cf91074b99d2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BNP-Paribas-BP-w-II-kw-26-wyniosl-599-8-mln-zl-lekko-ponizej-oczekiwan-9181024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "BNP Paribas BP z niższym zyskiem w II kwartale. Wynik poniżej konsensusu",
+    "body_orig": "Zysk netto grupy grupy BNP Paribas BP w II kwartale 2026 r. spadł do 599,8 mln zł z 733,8 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 3,4 proc. poniżej oczekiwań analityków, którzy prognozowali, że wyniesie on 620,8 mln zł.",
+    "published": "2026-08-12T06:24:00",
+    "fetched": "2026-08-12T05:51:33.418178",
+    "title_uk": "BNP Paribas BP знизив прибуток у II кварталі 2026 року",
+    "summary_uk": "Чистий прибуток BNP Paribas BP у II кварталі 2026 року склав 600 млн zł, знизившись з 734 млн zł роком раніше. Результат виявився на 3% нижчим за прогнози аналітиків, які очікували 621 млн zł.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження прибутку BNP Paribas BP може свідчити про загальне уповільнення економіки, що може вплинути на споживчий попит. Дистриб'ютори повинні бути готові до можливих змін у замовленнях.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "BNP Paribas BP знизив прибуток у II кварталі 2026 року",
+    "summary": "Чистий прибуток BNP Paribas BP у II кварталі 2026 року склав 600 млн zł, знизившись з 734 млн zł роком раніше. Результат виявився на 3% нижчим за прогнози аналітиків, які очікували 621 млн zł.",
+    "link": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BNP-Paribas-BP-w-II-kw-26-wyniosl-599-8-mln-zl-lekko-ponizej-oczekiwan-9181024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6f74b5475305",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/motoryzacja/chinskie-marki-samochodow-zdobywaja-polske-rekordowy-wzrost-sprzedazy/yzj1zws",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy zmieniają motoryzacyjne przyzwyczajenia. Nowe chińskie auta wypierają używane VW",
+    "body_orig": "Przez lata polski rynek motoryzacyjny opierał się przede wszystkim na sprowadzanych z Zachodu samochodach używanych. Ten model zaczyna się jednak zmieniać. Coraz więcej Polaków decyduje się na nowe auta chińskich marek, które kuszą ceną, wyposażeniem i długimi gwarancjami.",
+    "published": "2026-08-12T05:44:55",
+    "fetched": "2026-08-12T05:51:35.305347",
+    "title_uk": "Поляки обирають нові китайські авто замість вживаних VW",
+    "summary_uk": "Польський автомобільний ринок змінюється: зростає попит на нові китайські автомобілі, які пропонують конкурентоспроможні ціни та тривалі гарантії. Це відбувається на фоні зменшення інтересу до вживаних автомобілів, зокрема Volkswagen. Зміни в споживчих вподобаннях можуть вплинути на структуру ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання популярності китайських автомобілів може змінити конкурентне середовище. Дистриб'ютори, які працюють з автомобільними брендами, повинні адаптувати свої стратегії до нових умов.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Поляки обирають нові китайські авто замість вживаних VW",
+    "summary": "Польський автомобільний ринок змінюється: зростає попит на нові китайські автомобілі, які пропонують конкурентоспроможні ціни та тривалі гарантії. Це відбувається на фоні зменшення інтересу до вживаних автомобілів, зокрема Volkswagen. Зміни в споживчих вподобаннях можуть вплинути на структуру ринку.",
+    "link": "https://businessinsider.com.pl/technologie/motoryzacja/chinskie-marki-samochodow-zdobywaja-polske-rekordowy-wzrost-sprzedazy/yzj1zws",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "522d7f85dcdc",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/wielki-dzien-polskiej-floty-orp-wicher-gotowy-do-wodowania-7317539843868768a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wielki dzień polskiej floty. ORP \"Wicher\" gotowy do wodowania",
+    "body_orig": "W Gdyni odbędzie się w środę chrzest ORP \"Wicher\", pierwszej z trzech nowych fregat budowanych dla polskiej Marynarki Wojennej. Dzień później okręt zostanie zwodowany. Program \"Miecznik\" ma kosztować ok. 15 mld zł i jest największym przedsięwzięciem modernizacyjnym polskiej floty.",
+    "published": "2026-08-12T04:37:47",
+    "fetched": "2026-08-12T05:51:37.995520",
+    "title_uk": "Польща готується до водіння нової фрегати ORP 'Wicher'",
+    "summary_uk": "У Гдині відбудеться хрещення фрегата ORP 'Wicher', першої з трьох нових кораблів для польського флоту. Водіння заплановане на наступний день. Програма 'Мечник' коштує близько 15 млрд zł і є найбільшим проектом модернізації флоту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща готується до водіння нової фрегати ORP 'Wicher'",
+    "summary": "У Гдині відбудеться хрещення фрегата ORP 'Wicher', першої з трьох нових кораблів для польського флоту. Водіння заплановане на наступний день. Програма 'Мечник' коштує близько 15 млрд zł і є найбільшим проектом модернізації флоту.",
+    "link": "https://www.money.pl/gospodarka/wielki-dzien-polskiej-floty-orp-wicher-gotowy-do-wodowania-7317539843868768a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9f00f349c06",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/pieniadze/ktos-wiedzial-analityk-pyta-o-ogromna-transakcje-7316993859552321v.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ktoś wiedział? Analityk pyta o ogromną transakcję",
+    "body_orig": "Miesiąc przed ogłoszeniem wezwania na akcje Żabki ktoś zawarł transakcję na 27 tysięcy kontraktów terminowych na tę spółkę - ogromny, nietypowy wolumen na instrumencie, który normalnie należy do najbardziej niepłynnych na warszawskiej giełdzie - mówi Grzegorz Zalewski, analityk Domu Maklerskiego BOŚ, w rozmowie w programie „Biznes Klasa\".",
+    "published": "2026-08-11T19:23:09",
+    "fetched": "2026-08-12T05:51:37.995541",
+    "title_uk": "Аналіз транзакцій на акції Żabka викликає питання",
+    "summary_uk": "Перед оголошенням про викуп акцій Żabka було укладено 27 тисяч контрактів термінових на цю компанію. Це значний обсяг для такого малоплинного інструменту на Варшавській біржі, зазначає аналітик Григорій Залевський.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Високий обсяг контрактів може свідчити про зростаючий інтерес до Żabka. Дистриб'юторам варто слідкувати за змінами в ринковій динаміці.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Аналіз транзакцій на акції Żabka викликає питання",
+    "summary": "Перед оголошенням про викуп акцій Żabka було укладено 27 тисяч контрактів термінових на цю компанію. Це значний обсяг для такого малоплинного інструменту на Варшавській біржі, зазначає аналітик Григорій Залевський.",
+    "link": "https://www.money.pl/pieniadze/ktos-wiedzial-analityk-pyta-o-ogromna-transakcje-7316993859552321v.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a9eaed55c995",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-plans-interagency-push-on-critical-minerals-225515",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye plans interagency push on critical minerals",
+    "body_orig": "Türkiye plans to establish two interagency bodies to coordinate policy on critical minerals and raw materials, with the aim of increasing domestic production and reducing supply risks for defense, energy and high-technology industries.",
+    "published": "2026-08-12T05:34:29",
+    "fetched": "2026-08-12T05:51:46.134988",
+    "title_uk": "Туреччина планує створити міжвідомчі органи для координації політики з сировини",
+    "summary_uk": "Туреччина планує створити два міжвідомчі органи для координації політики щодо критичних мінералів та сировини. Мета — збільшити внутрішнє виробництво та зменшити ризики постачання для оборонної, енергетичної та високотехнологічної промисловості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі або Румунії, оскільки зростання внутрішнього виробництва може призвести до зниження цін на сировину.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина планує створити міжвідомчі органи для координації політики з сировини",
+    "summary": "Туреччина планує створити два міжвідомчі органи для координації політики щодо критичних мінералів та сировини. Мета — збільшити внутрішнє виробництво та зменшити ризики постачання для оборонної, енергетичної та високотехнологічної промисловості.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-plans-interagency-push-on-critical-minerals-225515",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9a7a93a01135",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/oil-prices-rise-stocks-mixed-ahead-of-crucial-us-inflation-data-225511",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Oil prices rise, stocks mixed ahead of crucial US inflation data",
+    "body_orig": "Oil prices rose again on Aug. 12 and stock markets were mixed, with eyes on the release of key US inflation data that could guide the Federal Reserve on its plans for interest rates.",
+    "published": "2026-08-12T05:23:42",
+    "fetched": "2026-08-12T05:51:46.135003",
+    "title_uk": "Ціни на нафту зростають, фондові ринки змішані перед даними про інфляцію в США",
+    "summary_uk": "Ціни на нафту зросли 12 серпня, а фондові ринки показали змішану динаміку. Інвестори очікують на ключові дані про інфляцію в США, які можуть вплинути на рішення Федеральної резервної системи щодо процентних ставок.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення витрат на імпорт енергоносіїв. Імпортерам варто переглянути цінову політику.",
+      "pl_distributor": "Зростання цін на нафту може вплинути на вартість логістики та транспортування товарів. Розгляньте можливість коригування цін.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту зростають, фондові ринки змішані перед даними про інфляцію в США",
+    "summary": "Ціни на нафту зросли 12 серпня, а фондові ринки показали змішану динаміку. Інвестори очікують на ключові дані про інфляцію в США, які можуть вплинути на рішення Федеральної резервної системи щодо процентних ставок.",
+    "link": "https://www.hurriyetdailynews.com/oil-prices-rise-stocks-mixed-ahead-of-crucial-us-inflation-data-225511",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "96f46b5e2245",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-energy-chief-says-oil-flows-from-gulf-at-15m-barrels-per-day/4024603",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US energy chief says oil flows from Gulf at 15M barrels per day",
+    "body_orig": "Chris Wright says 7-day average for oil leaving Strait of Hormuz had reached nearly 9M barrels per day",
+    "published": "2026-08-11T18:52:07",
+    "fetched": "2026-08-12T05:51:53.146042",
+    "title_uk": "США повідомляють про обсяги видобутку нафти з Перської затоки",
+    "summary_uk": "Кріс Райт повідомив, що середній показник видобутку нафти з Ормузької протоки досяг майже 9 млн барелів на день. Загальний обсяг нафти, що надходить з Перської затоки, становить 15 млн барелів на день. Ці дані можуть вплинути на світові ціни на нафту.",
+    "what_it_means": {
+      "ua_importer": "Зростання обсягів видобутку нафти може призвести до зниження цін на імпортовану нафту в Україні. Це варто врахувати при плануванні закупівель.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "США повідомляють про обсяги видобутку нафти з Перської затоки",
+    "summary": "Кріс Райт повідомив, що середній показник видобутку нафти з Ормузької протоки досяг майже 9 млн барелів на день. Загальний обсяг нафти, що надходить з Перської затоки, становить 15 млн барелів на день. Ці дані можуть вплинути на світові ціни на нафту.",
+    "link": "https://www.aa.com.tr/en/economy/us-energy-chief-says-oil-flows-from-gulf-at-15m-barrels-per-day/4024603",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ac9a86657007",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/russia-s-federal-budget-deficit-climbs-over-32-in-january-july/4024531",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Russia’s federal budget deficit climbs over 32% in January-July",
+    "body_orig": "Deficit reaches nearly $79B as oil and gas revenues fall 16.8%, government spending rises 14.5%",
+    "published": "2026-08-11T17:19:48",
+    "fetched": "2026-08-12T05:51:53.146061",
+    "title_uk": "Дефіцит федерального бюджету Росії зріс на 32% у січні-липні",
+    "summary_uk": "Дефіцит бюджету Росії досяг майже $79 млрд через зниження доходів від нафти та газу на 17% і зростання витрат на 15%. Це свідчить про фінансові труднощі країни, що можуть вплинути на її економічну стабільність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Дефіцит федерального бюджету Росії зріс на 32% у січні-липні",
+    "summary": "Дефіцит бюджету Росії досяг майже $79 млрд через зниження доходів від нафти та газу на 17% і зростання витрат на 15%. Це свідчить про фінансові труднощі країни, що можуть вплинути на її економічну стабільність.",
+    "link": "https://www.aa.com.tr/en/economy/russia-s-federal-budget-deficit-climbs-over-32-in-january-july/4024531",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad2fef512ba6",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/russias-central-bank-lists-3-cryptocurrencies-as-acceptable-for-regulated-exchange-trade/4024530",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Russia's central bank lists 3 cryptocurrencies as acceptable for regulated exchange trade",
+    "body_orig": "Bank of Russia approves Bitcoin, Ethereum and USDT for public trading on Russian exchanges",
+    "published": "2026-08-11T17:19:43",
+    "fetched": "2026-08-12T05:51:53.146070",
+    "title_uk": "Центральний банк Росії визнав Bitcoin, Ethereum та USDT для торгівлі",
+    "summary_uk": "Центральний банк Росії затвердив Bitcoin, Ethereum та USDT для публічної торгівлі на російських біржах. Це рішення може змінити правила гри на криптовалютному ринку країни. Тепер ці три криптовалюти можуть використовуватись на регульованих платформах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Центральний банк Росії визнав Bitcoin, Ethereum та USDT для торгівлі",
+    "summary": "Центральний банк Росії затвердив Bitcoin, Ethereum та USDT для публічної торгівлі на російських біржах. Це рішення може змінити правила гри на криптовалютному ринку країни. Тепер ці три криптовалюти можуть використовуватись на регульованих платформах.",
+    "link": "https://www.aa.com.tr/en/economy/russias-central-bank-lists-3-cryptocurrencies-as-acceptable-for-regulated-exchange-trade/4024530",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "312a5e0d6252",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/european-stocks-close-mixed-as-energy-gains-offset-hormuz-concerns/4024529",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "European stocks close mixed as energy gains offset Hormuz concerns",
+    "body_orig": "Oil and gas shares rise 1.7%, while technology stocks gain 1.1%",
+    "published": "2026-08-11T17:19:40",
+    "fetched": "2026-08-12T05:51:53.146079",
+    "title_uk": "Європейські акції закриваються змішаними результатами на фоні зростання енергетики",
+    "summary_uk": "Акції нафти та газу зросли на 1.7%, технологічні акції піднялися на 1.1%. Це відбулося на фоні побоювань щодо ситуації в Ормузькій протоці. Загалом ринок демонструє змішану динаміку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Європейські акції закриваються змішаними результатами на фоні зростання енергетики",
+    "summary": "Акції нафти та газу зросли на 1.7%, технологічні акції піднялися на 1.1%. Це відбулося на фоні побоювань щодо ситуації в Ормузькій протоці. Загалом ринок демонструє змішану динаміку.",
+    "link": "https://www.aa.com.tr/en/economy/european-stocks-close-mixed-as-energy-gains-offset-hormuz-concerns/4024529",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2acf6db75c4d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/abd-hurmuz-bogazindaki-aksakliklarin-surmesi-nedeniyle-petrol-fiyati-tahminini-yukseltti/4024714",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ABD, Hürmüz Boğazı'ndaki aksaklıkların sürmesi nedeniyle petrol fiyatı tahminini yükseltti",
+    "body_orig": "ABD Enerji Enformasyon İdaresi (EIA), Hürmüz Boğazı'ndan yapılan petrol sevkiyatındaki ciddi kısıtlamaların ağustos boyunca devam edeceği beklentisiyle yılın üçüncü çeyreğine ilişkin petrol fiyatı tahminini yükseltti.",
+    "published": "2026-08-12T05:16:24",
+    "fetched": "2026-08-12T05:51:57.110247",
+    "title_uk": "США підвищили прогноз цін на нафту через проблеми в Ормузькій протоці",
+    "summary_uk": "EIA США підвищила прогноз цін на нафту на третій квартал через очікувані обмеження в постачаннях з Ормузької протоки. Проблеми з транспортуванням можуть тривати весь серпень. Це може вплинути на глобальний ринок нафти.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення вартості імпортних товарів, зокрема пального. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Польські дистриб'ютори FMCG повинні враховувати можливе підвищення витрат на логістику через зростання цін на нафту.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "США підвищили прогноз цін на нафту через проблеми в Ормузькій протоці",
+    "summary": "EIA США підвищила прогноз цін на нафту на третій квартал через очікувані обмеження в постачаннях з Ормузької протоки. Проблеми з транспортуванням можуть тривати весь серпень. Це може вплинути на глобальний ринок нафти.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/abd-hurmuz-bogazindaki-aksakliklarin-surmesi-nedeniyle-petrol-fiyati-tahminini-yukseltti/4024714",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "74148b01248d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-matei-calin-23-ani-fondatorul-monarh-start-up-detecteaza-dezinformarea-retelele-sociale-investitia-financiara-surse-proprii-finantari-granturi-investitori-23214281",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Matei Călin, 23 de ani, fondatorul MONARH, start-up care detectează dezinformarea de pe reţelele sociale: „Investiţia financiară a fost din surse proprii, fără finanţări, fără granturi, fără investitori“",
+    "body_orig": "Matei Călin, un tânăr de 23 de ani, a construit o platformă care detectează dezinformarea de pe reţelele sociale, investind între 13.000 şi 15.000 de euro din surse proprii. Numită MONARH, platforma a fost lansată public pe 4 august, după circa zece luni de construcţie, a povestit fondatorul în emisiunea ZF IT Generation.",
+    "published": "2026-08-12T05:00:00",
+    "fetched": "2026-08-12T05:52:00.229193",
+    "title_uk": "23-річний засновник стартапу MONARH бореться з дезінформацією",
+    "summary_uk": "Матей Каліна, 23-річний підприємець, створив платформу MONARH для виявлення дезінформації в соціальних мережах. Він інвестував €13-15 тис. зі своїх коштів без залучення зовнішнього фінансування. Платформа була запущена 4 серпня після десяти місяців розробки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "23-річний засновник стартапу MONARH бореться з дезінформацією",
+    "summary": "Матей Каліна, 23-річний підприємець, створив платформу MONARH для виявлення дезінформації в соціальних мережах. Він інвестував €13-15 тис. зі своїх коштів без залучення зовнішнього фінансування. Платформа була запущена 4 серпня після десяти місяців розробки.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-matei-calin-23-ani-fondatorul-monarh-start-up-detecteaza-dezinformarea-retelele-sociale-investitia-financiara-surse-proprii-finantari-granturi-investitori-23214281",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "39486fd86d08",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/cat-mult-au-acumulat-romanii-avutia-neta-romanilor-s-triplat-ultimele-doua-decenii-depasind-2-000-mld-lei-aproape-400-mld-euro-ajungand-nivelul-pib-ului-romaniei-populatia-avutie-financiara-mare-cea-23214472",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cât de mult au acumulat românii? Avuţia netă a românilor s-a triplat în ultimele două decenii, depăşind 2.000 mld. lei, aproape 400 mld. euro, ajungând la nivelul PIB-ului României. Populaţia are o avuţie financiară mai mare decât cea imobiliară",
+    "body_orig": "",
+    "published": "2026-08-11T21:08:00",
+    "fetched": "2026-08-12T05:52:00.229214",
+    "title_uk": "Авуція румунів зросла до €400 млрд за 20 років",
+    "summary_uk": "За останні 20 років чисті активи румунів зросли втричі, перевищивши €400 млрд. Фінансова авуція населення перевищує нерухомість, досягнувши рівня ВВП Румунії. Це свідчить про зростання фінансової грамотності та накопичень серед населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Авуція румунів зросла до €400 млрд за 20 років",
+    "summary": "За останні 20 років чисті активи румунів зросли втричі, перевищивши €400 млрд. Фінансова авуція населення перевищує нерухомість, досягнувши рівня ВВП Румунії. Це свідчить про зростання фінансової грамотності та накопичень серед населення.",
+    "link": "https://www.zf.ro/banci-si-asigurari/cat-mult-au-acumulat-romanii-avutia-neta-romanilor-s-triplat-ultimele-doua-decenii-depasind-2-000-mld-lei-aproape-400-mld-euro-ajungand-nivelul-pib-ului-romaniei-populatia-avutie-financiara-mare-cea-23214472",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "479cafffa041",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cum-au-reusit-etf-urile-sa-domine-topul-randamentelor-fondurilor-mutuale-cu-aprecieri-de-77-pana-la-83-in-ultimul-an-23214455",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Finanţe personale. Cum au reuşit ETF-urile să domine topul randamentelor fondurilor mutuale, cu aprecieri de 77% până la 83% în ultimul an",
+    "body_orig": "Fondurile tranzacţionate la bursă (ETF-uri) au ajuns să conducă topul celor mai performante fonduri mu­tuale din România după un an în care Bursa de Valori Bucureşti a atras tot mai mulţi investitori şi s-a numărat printre pieţele cu cele mai bune evoluţii din lume.",
+    "published": "2026-08-11T21:07:00",
+    "fetched": "2026-08-12T05:52:00.229255",
+    "title_uk": "ETF-ри в Румунії показали рекордні прибутки до 83%",
+    "summary_uk": "Фонди, що торгуються на біржі (ETF), стали найприбутковішими в Румунії, зростаючи на 77-83% за рік. Це стало можливим завдяки зростанню інтересу інвесторів до ринку, який демонструє одні з найкращих результатів у світі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ETF-ри в Румунії показали рекордні прибутки до 83%",
+    "summary": "Фонди, що торгуються на біржі (ETF), стали найприбутковішими в Румунії, зростаючи на 77-83% за рік. Це стало можливим завдяки зростанню інтересу інвесторів до ринку, який демонструє одні з найкращих результатів у світі.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cum-au-reusit-etf-urile-sa-domine-topul-randamentelor-fondurilor-mutuale-cu-aprecieri-de-77-pana-la-83-in-ultimul-an-23214455",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6cc0b4f4d894",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/scumpire-generalizata-a-benzinei-si-motorinei-in-romania-toate-benzinariile-au-crescut-preturile-azi-cat-costa-acum-carburantii_967362.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Scumpire generalizată a benzinei și motorinei în România, toate benzinăriile au crescut prețurile azi. Cât costă acum carburanții",
+    "body_orig": "Toate celelalte lanțuri mari de distribuție a carburanților au crescut prețurile azi dimineață și la benzină și la motorină după ce OMV Petrom, liderul pieței, a scumpit carburanții ieri la miezul zilei.",
+    "published": "2026-08-12T04:54:50",
+    "fetched": "2026-08-12T05:52:04.211974",
+    "title_uk": "Ціни на бензин і дизель в Румунії зросли після підвищення OMV Petrom",
+    "summary_uk": "Всі великі мережі АЗС в Румунії підвищили ціни на бензин і дизель після того, як OMV Petrom, лідер ринку, зробив це вчора. Зростання цін стало загальним явищем на ринку. Тепер ціни на паливо в країні зросли в середньому на 5-7%.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на паливо в Румунії може вплинути на вартість логістики для українських імпортерів, які працюють з Румунією. Рекомендується переглянути умови контрактів з постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на паливо може вплинути на витрати на транспортування товарів. Рекомендується переглянути бюджет на логістику та можливі зміни в цінах на продукцію."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин і дизель в Румунії зросли після підвищення OMV Petrom",
+    "summary": "Всі великі мережі АЗС в Румунії підвищили ціни на бензин і дизель після того, як OMV Petrom, лідер ринку, зробив це вчора. Зростання цін стало загальним явищем на ринку. Тепер ціни на паливо в країні зросли в середньому на 5-7%.",
+    "link": "https://www.economica.net/scumpire-generalizata-a-benzinei-si-motorinei-in-romania-toate-benzinariile-au-crescut-preturile-azi-cat-costa-acum-carburantii_967362.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a2ec8b89060b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/atacuri-asupra-navelor-in-orientul-mijlociu-preturile-petrolului-cresc-negocierile-cu-iranul-sunt-din-nou-in-impas_967359.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Atacuri asupra navelor în Orientul Mijlociu. Preţurile petrolului cresc, negocierile cu Iranul sunt din nou în impas",
+    "body_orig": "Tensiunile din Orientul Mijlociu se amplifică, după ce nave comerciale au fost atacate în apropierea strâmtorilor strategice pentru transporturile petroliere. În același timp, Iranul transmite că Strâmtoarea Hormuz va rămâne închisă până când Statele Unite vor accepta condițiile Teheranului pentru încheierea războiului, informează Reuters. Preţul petrolului a crescut.",
+    "published": "2026-08-12T04:52:58",
+    "fetched": "2026-08-12T05:52:04.211984",
+    "title_uk": "Тенденції в ціні на нафту через напруженість у Перській затоці",
+    "summary_uk": "Торгові судна зазнали атак у стратегічних водах Близького Сходу, що призвело до зростання цін на нафту. Іран заявив, що закриє протоку Ормуз, поки США не погодяться на його умови. Ці події можуть вплинути на глобальний ринок нафти.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на нафту може призвести до підвищення вартості імпортних товарів, особливо енергетичних. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Зростання цін на нафту може вплинути на логістику та витрати на транспортування товарів. Варто розглянути можливість оптимізації витрат.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на нафту може вплинути на собівартість товарів у ритейлі. Рекомендується переглянути стратегії ціноутворення та запаси."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "імпорт"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Тенденції в ціні на нафту через напруженість у Перській затоці",
+    "summary": "Торгові судна зазнали атак у стратегічних водах Близького Сходу, що призвело до зростання цін на нафту. Іран заявив, що закриє протоку Ормуз, поки США не погодяться на його умови. Ці події можуть вплинути на глобальний ринок нафти.",
+    "link": "https://www.economica.net/atacuri-asupra-navelor-in-orientul-mijlociu-preturile-petrolului-cresc-negocierile-cu-iranul-sunt-din-nou-in-impas_967359.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d80e71968718",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/proiectul-fotovoltaic-urias-din-arad-de-1-000-mw-cel-mai-mare-din-europa-a-fost-avizat-de-anre-constructia-poate-incepe_967353.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Proiectul fotovoltaic uriaș din Arad de 1.000 MW, cel mai mare din Europa, a fost avizat de ANRE. Construcția poate începe",
+    "body_orig": "Dama Solar, cel mai mare proiect fotovoltaic din Europa, care se construiește în județul Arad, a primit de la ANRE autorizația de înființare pentru prima sa fază. Parcul, dezvoltat de Rezolv Energy, s-a calificat la licitația CfD.",
+    "published": "2026-08-12T04:09:26",
+    "fetched": "2026-08-12T05:52:04.212003",
+    "title_uk": "У Румунії затвердили найбільший в Європі сонячний проект на 1000 МВт",
+    "summary_uk": "Проект Dama Solar, що будується в Араді, отримав дозвіл від ANRE на першу фазу. Це найбільший сонячний парк в Європі, розроблений компанією Rezolv Energy. Проект також пройшов кваліфікацію на аукціон CfD.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Румунії затвердили найбільший в Європі сонячний проект на 1000 МВт",
+    "summary": "Проект Dama Solar, що будується в Араді, отримав дозвіл від ANRE на першу фазу. Це найбільший сонячний парк в Європі, розроблений компанією Rezolv Energy. Проект також пройшов кваліфікацію на аукціон CfD.",
+    "link": "https://www.economica.net/proiectul-fotovoltaic-urias-din-arad-de-1-000-mw-cel-mai-mare-din-europa-a-fost-avizat-de-anre-constructia-poate-incepe_967353.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "45963033bb29",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ce-sanse-are-romania-sa-isi-mentina-pozitia-de-lider-intre-exportatorii-europeni-de-porumb-raspunsul-vine-din-orientul-mijlociu-si-africa-de-nord_965541.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce șanse are România să își mențină poziția de lider între exportatorii europeni de porumb. Răspunsul vine din Orientul Mijlociu și Africa de Nord",
+    "body_orig": "România, cel mai mare exportator de porumb din UE în ultimii ani, și-ar putea menține și în anul comercial 2026/2027 poziția fruntașă în ciuda scăderii cu peste 14% a suprafeței cultivate, arată ultimul raport al Departamentului pentru Agricultură al SUA ( USDA). Piețele țintă sunt Orientul Mijlociu și Africa de Nord.",
+    "published": "2026-08-11T19:24:52",
+    "fetched": "2026-08-12T05:52:04.212013",
+    "title_uk": "Румунія зберігає лідерство в експорті порумбу до 2027 року",
+    "summary_uk": "Румунія, найбільший експортер порумбу в ЄС, може зберегти цю позицію у 2026/2027, незважаючи на зменшення площі посівів на понад 14%. Основні ринки — країни Близького Сходу та Північної Африки. Це підтверджується останнім звітом USDA.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Якщо ви плануєте вихід на ринок Румунії, враховуйте зростаючий попит на порумб з Близького Сходу та Північної Африки.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Румунія зберігає лідерство в експорті порумбу до 2027 року",
+    "summary": "Румунія, найбільший експортер порумбу в ЄС, може зберегти цю позицію у 2026/2027, незважаючи на зменшення площі посівів на понад 14%. Основні ринки — країни Близького Сходу та Північної Африки. Це підтверджується останнім звітом USDA.",
+    "link": "https://www.economica.net/ce-sanse-are-romania-sa-isi-mentina-pozitia-de-lider-intre-exportatorii-europeni-de-porumb-raspunsul-vine-din-orientul-mijlociu-si-africa-de-nord_965541.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "73d09116d466",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/spotify-posilyuje-kontrol-za-ai-muzikoyu-yak-zminyatsya-rekomendaciyi-vr1x7g",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Spotify посилює контроль за AI-музикою: як зміняться рекомендації",
+    "body_orig": "Spotify почне позначати профілі виконавців, які, ймовірно, не представляють реальних людей, та за замовчуванням прибиратиме їхню музику з редакційних і персональних рекомендацій, пише The Verge.&nbsp;",
+    "published": "2026-08-11T18:27:11",
+    "fetched": "2026-08-12T05:51:43.693116",
+    "title_uk": "Spotify посилює контроль за AI-музикою в рекомендаціях",
+    "summary_uk": "Spotify почне позначати профілі виконавців, які не є реальними людьми, та автоматично прибирати їх музику з рекомендацій. Це рішення має на меті покращити якість контенту на платформі. Зміни вплинуть на алгоритми персоналізації та редакційні списки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Spotify посилює контроль за AI-музикою в рекомендаціях",
+    "summary": "Spotify почне позначати профілі виконавців, які не є реальними людьми, та автоматично прибирати їх музику з рекомендацій. Це рішення має на меті покращити якість контенту на платформі. Зміни вплинуть на алгоритми персоналізації та редакційні списки.",
+    "link": "https://speka.ua/news/spotify-posilyuje-kontrol-za-ai-muzikoyu-yak-zminyatsya-rekomendaciyi-vr1x7g",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
