@@ -206323,5 +206323,923 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "c44aea3bdb2c",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-sierpien-2026-r-Gdzie-po-stawki-wynoszace-min-6-9181859.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Najwyżej oprocentowane konta oszczędnościowe. Minimum 6% w pięciu bankach",
+    "body_orig": "7 proc. na szczycie tabeli i tłok na kolejnych pozycjach na podium – tak wygląda sierpień na rynku kont oszczędnościowych. BOŚ Bank nadal zasiada w fotelu lidera, ale konkurencja podbija stawki.",
+    "published": "2026-08-14T05:00:00",
+    "fetched": "2026-08-14T05:51:33.000368",
+    "title_uk": "Польські банки підвищують ставки на ощадні рахунки до 7%",
+    "summary_uk": "У серпні 2026 року BOŚ Bank зберігає лідерство з 7% на ощадних рахунках. Інші банки також підвищують ставки, що створює конкуренцію на ринку. Це може вплинути на вибір споживачів та їхні фінансові рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання ставок може спонукати споживачів більше заощаджувати, що вплине на обсяги продажів. Розгляньте можливість акцій для залучення клієнтів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в ставках може вплинути на споживчі звички, тому варто переглянути стратегії просування та акцій для залучення нових клієнтів."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські банки підвищують ставки на ощадні рахунки до 7%",
+    "summary": "У серпні 2026 року BOŚ Bank зберігає лідерство з 7% на ощадних рахунках. Інші банки також підвищують ставки, що створює конкуренцію на ринку. Це може вплинути на вибір споживачів та їхні фінансові рішення.",
+    "link": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-sierpien-2026-r-Gdzie-po-stawki-wynoszace-min-6-9181859.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "707f07d64445",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/SpaceX-ugina-sie-pod-naciskiem-Polska-wraca-do-strefy-Starlink-Roam-9182141.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "SpaceX ugina się pod naciskiem. Polska wraca do strefy Starlink Roam",
+    "body_orig": "Polska znalazła się na liście krajów europejskich Starlink Roam - wynika ze strony centrum pomocy systemu Starlink. Polscy klienci nie będą objęci żadnymi nowymi ograniczeniami - poinformował wicepremier, minister cyfryzacji Krzysztof Gawkowski.",
+    "published": "2026-08-14T06:00:00",
+    "fetched": "2026-08-14T05:51:33.000378",
+    "title_uk": "Польща повертається до зони Starlink Roam без нових обмежень",
+    "summary_uk": "Польща потрапила до списку країн Starlink Roam. Віцепрем'єр Кшиштоф Гавковський підтвердив, що польські користувачі не підпадуть під нові обмеження. Це позитивна новина для користувачів Starlink у Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть використовувати Starlink для покращення логістики та зв'язку в віддалених районах.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща повертається до зони Starlink Roam без нових обмежень",
+    "summary": "Польща потрапила до списку країн Starlink Roam. Віцепрем'єр Кшиштоф Гавковський підтвердив, що польські користувачі не підпадуть під нові обмеження. Це позитивна новина для користувачів Starlink у Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/SpaceX-ugina-sie-pod-naciskiem-Polska-wraca-do-strefy-Starlink-Roam-9182141.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "66968d96abac",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Trump-uderza-w-import-dronow-Cla-siegna-nawet-100-proc-9182195.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Trump uderza w import dronów. Cła sięgną nawet 100 proc.",
+    "body_orig": "Prezydent USA Donald Trump ogłosił w czwartek, że nałoży cła na drony sprowadzane do jego kraju, między innymi z UE i państw sojuszniczych. Administracja w Waszyngtonie oceniła, że kraj jest zbyt zależny od importu bezzałogowców i ich komponentów z zagranicy.",
+    "published": "2026-08-14T06:10:00",
+    "fetched": "2026-08-14T05:51:33.000388",
+    "title_uk": "Трамп запроваджує мита на імпорт дронів до США",
+    "summary_uk": "Президент США Дональд Трамп оголосив про запровадження мит на імпорт дронів, які можуть сягати 100%. Це рішення стосується дронів, що імпортуються з ЄС та союзницьких країн. Адміністрація вважає, що країна надто залежить від імпорту безпілотників та їх компонентів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Трамп запроваджує мита на імпорт дронів до США",
+    "summary": "Президент США Дональд Трамп оголосив про запровадження мит на імпорт дронів, які можуть сягати 100%. Це рішення стосується дронів, що імпортуються з ЄС та союзницьких країн. Адміністрація вважає, що країна надто залежить від імпорту безпілотників та їх компонентів.",
+    "link": "https://www.bankier.pl/wiadomosc/Trump-uderza-w-import-dronow-Cla-siegna-nawet-100-proc-9182195.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8d3385670e7c",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/AI-pisze-CV-algorytm-wybiera-kandydatow-Tak-zmienila-sie-rekrutacja-9181904.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ponad 99 proc. rekrutacji odbywa się zdalnie. AI pisze CV, AI wybiera kandydatów",
+    "body_orig": "CV wspomagane przez AI, preselekcja kandydatów z wykorzystaniem algorytmów i rozmowa kwalifikacyjna przed ekranem – tak coraz częściej wygląda rekrutacja w 2026 r. Technologia przyspiesza proces i pozwala szukać pracy bez względu na miejsce zamieszkania, ale niekoniecznie ułatwia zdobycie zatrudnienia. Zwłaszcza osobom na początku kariery, dla których liczba dostępnych ofert w wielu branżach wyraźnie się kurczy.",
+    "published": "2026-08-14T05:00:00",
+    "fetched": "2026-08-14T05:51:33.000399",
+    "title_uk": "Більше 99% рекрутів відбувається дистанційно з використанням AI",
+    "summary_uk": "У 2026 році більшість рекрутів проходить онлайн з використанням AI для написання CV та відбору кандидатів. Це прискорює процес, але ускладнює пошук роботи для новачків, оскільки кількість вакансій у багатьох галузях зменшується.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Більше 99% рекрутів відбувається дистанційно з використанням AI",
+    "summary": "У 2026 році більшість рекрутів проходить онлайн з використанням AI для написання CV та відбору кандидатів. Це прискорює процес, але ускладнює пошук роботи для новачків, оскільки кількість вакансій у багатьох галузях зменшується.",
+    "link": "https://www.bankier.pl/wiadomosc/AI-pisze-CV-algorytm-wybiera-kandydatow-Tak-zmienila-sie-rekrutacja-9181904.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3d493b6b62e4",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowe-przepisy-i-obowiazki-dotyczace-opakowan-Bedzie-wiele-zmian-O-jakich-zasadach-musza-pamietac-firmy-9181938.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowe obowiązki dotyczące opakowań. Kogo obejmą? A to dopiero początek zmian",
+    "body_orig": "12 sierpnia wszedł w życie pierwszy pakiet nowych przepisów unijnego rozporządzenia PPWR (Packaging and Packaging Waste Regulation) dotyczącego opakowań. Obciążają one firmy nowymi obowiązkami. Zmian będzie dużo więcej - w następnych latach planowane jest wprowadzenie kolejnych ważnych przepisów. Niektóre opakowania zostaną zakazane. Jakie są nowe zasady, o których przedsiębiorcy już teraz powinni wiedzieć?",
+    "published": "2026-08-14T05:00:00",
+    "fetched": "2026-08-14T05:51:33.000409",
+    "title_uk": "Нові правила щодо упаковки в Польщі: що зміниться для бізнесу",
+    "summary_uk": "З 12 серпня 2026 року в Польщі набули чинності нові вимоги щодо упаковки відповідно до європейського регулювання PPWR. Вони накладають нові обов'язки на компанії, зокрема заборону на деякі види упаковки. Очікуються подальші зміни в наступні роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні адаптувати свої стратегії до нових вимог, зокрема переглянути асортимент упаковки, щоб уникнути штрафів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Необхідно переглянути асортимент товарів та упаковки, щоб відповідати новим вимогам, що може вплинути на переговори з постачальниками."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "regulation",
+    "title": "Нові правила щодо упаковки в Польщі: що зміниться для бізнесу",
+    "summary": "З 12 серпня 2026 року в Польщі набули чинності нові вимоги щодо упаковки відповідно до європейського регулювання PPWR. Вони накладають нові обов'язки на компанії, зокрема заборону на деякі види упаковки. Очікуються подальші зміни в наступні роки.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowe-przepisy-i-obowiazki-dotyczace-opakowan-Bedzie-wiele-zmian-O-jakich-zasadach-musza-pamietac-firmy-9181938.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "61c5d2c5d3fe",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/CPN-bis-juz-od-poniedzialku-Obnizka-VAT-i-ceny-maksymalne-wracaja-na-stacje-Paliwa-potanieja-nawet-o-zlotowke-9182114.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "CPN-bis już od poniedziałku. Paliwa potanieją nawet o złotówkę na litrze",
+    "body_orig": "Przywrócenie na ostatnie tygodnie sierpnia obniżki VAT na paliwa przełoży się przynajmniej na kilkudziesięciogroszowe spadki cen na stacjach - ocenili dla PAP analitycy rynku paliw. Po wygaśnięciu z końcem czerwca pakietu CPN ceny wzrosły w związku z utrzymującą się niestabilną sytuacją wokół Ormuzu.",
+    "published": "2026-08-14T06:00:00",
+    "fetched": "2026-08-14T05:51:33.000419",
+    "title_uk": "У Польщі знову знижують ПДВ на паливо",
+    "summary_uk": "У Польщі з 14 серпня відновлюється знижка ПДВ на паливо, що призведе до зниження цін на кілька десятків грошів за літр. Ціни зросли після закінчення попереднього пакету зниження податків у червні через нестабільну ситуацію в регіоні Ормуз. Аналітики очікують зниження цін до 1 злотого за літр.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін на паливо може зменшити витрати на логістику, що позитивно вплине на маржу. Розгляньте можливість перегляду цін на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на паливо може зменшити витрати на транспортування, що варто врахувати при плануванні цінової політики та промо-акцій."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У Польщі знову знижують ПДВ на паливо",
+    "summary": "У Польщі з 14 серпня відновлюється знижка ПДВ на паливо, що призведе до зниження цін на кілька десятків грошів за літр. Ціни зросли після закінчення попереднього пакету зниження податків у червні через нестабільну ситуацію в регіоні Ормуз. Аналітики очікують зниження цін до 1 злотого за літр.",
+    "link": "https://www.bankier.pl/wiadomosc/CPN-bis-juz-od-poniedzialku-Obnizka-VAT-i-ceny-maksymalne-wracaja-na-stacje-Paliwa-potanieja-nawet-o-zlotowke-9182114.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0401ca8fedf3",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/rewolucyjne-pomysly-podatkowe-rzadu-kto-by-skorzystal-mamy-wyliczenia-7318017587742848a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rewolucyjne pomysły podatkowe rządu. Kto by skorzystał? Mamy wyliczenia",
+    "body_orig": "W rządzie trwają dyskusje o nowych stawkach PIT i progach podatkowych. Rządzącym zależy, by podatnicy odczuli zmiany w roku wyborczym. Jednym z pomysłów jest wprowadzenie nowej stawki PIT na poziomie ok. 24 proc. Eksperci tłumaczą, kto na takim ruchu skorzystałby najbardziej.",
+    "published": "2026-08-14T03:49:57",
+    "fetched": "2026-08-14T05:51:37.338992",
+    "title_uk": "Польський уряд обговорює нові ставки податку на доходи",
+    "summary_uk": "У Польщі тривають обговорення нових ставок податку на доходи фізичних осіб (PIT). Однією з пропозицій є введення нової ставки на рівні близько 24%. Зміни планують реалізувати в рік виборів, щоб платники податків відчули позитивний вплив.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни в податковій політиці можуть вплинути на купівельну спроможність споживачів, що варто врахувати при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польський уряд обговорює нові ставки податку на доходи",
+    "summary": "У Польщі тривають обговорення нових ставок податку на доходи фізичних осіб (PIT). Однією з пропозицій є введення нової ставки на рівні близько 24%. Зміни планують реалізувати в рік виборів, щоб платники податків відчули позитивний вплив.",
+    "link": "https://www.money.pl/podatki/rewolucyjne-pomysly-podatkowe-rzadu-kto-by-skorzystal-mamy-wyliczenia-7318017587742848a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4b8e3d1a17e",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/temporary-diesel-tax-relief-targets-price-pressures-225602",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Temporary diesel tax relief targets price pressures",
+    "body_orig": "Türkiye has reduced the special consumption tax (ÖTV) on diesel to zero for the remainder of August as part of measures to limit fuel-related cost and inflation pressures.",
+    "published": "2026-08-14T05:17:07",
+    "fetched": "2026-08-14T05:51:44.316380",
+    "title_uk": "Туреччина скасовує акциз на дизель до кінця серпня",
+    "summary_uk": "Уряд Туреччини знизив спеціальний акциз на дизель до нуля до кінця серпня. Це рішення спрямоване на зменшення тиску на ціни та інфляцію, пов'язані з паливом. Очікується, що це допоможе стабілізувати ринок пального в умовах зростання цін.",
+    "what_it_means": {
+      "ua_importer": "Зниження акцизу може зменшити вартість дизельного пального для імпортерів, що працюють з Туреччиною. Це може позитивно вплинути на логістичні витрати.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина скасовує акциз на дизель до кінця серпня",
+    "summary": "Уряд Туреччини знизив спеціальний акциз на дизель до нуля до кінця серпня. Це рішення спрямоване на зменшення тиску на ціни та інфляцію, пов'язані з паливом. Очікується, що це допоможе стабілізувати ринок пального в умовах зростання цін.",
+    "link": "https://www.hurriyetdailynews.com/temporary-diesel-tax-relief-targets-price-pressures-225602",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3da65c677bc4",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/war-driven-energy-costs-push-inflation-outlook-higher-225601",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "War-driven energy costs push inflation outlook higher",
+    "body_orig": "War-related increases in energy costs and higher food prices have pushed the Central Bank’s end-2026 inflation forecast to 28 percent, though Governor Fatih Karahan said the revision did not reflect a deterioration in the underlying inflation trend.",
+    "published": "2026-08-14T05:16:23",
+    "fetched": "2026-08-14T05:51:44.316406",
+    "title_uk": "Війна підвищує енергетичні витрати та інфляцію в Туреччині",
+    "summary_uk": "Центральний банк Туреччини підвищив прогноз інфляції на кінець 2026 року до 28%. Причинами стали зростання цін на енергію та продукти харчування через війну. Губернатор банку Фатіх Карахан зазначив, що це не свідчить про погіршення основних тенденцій інфляції.",
+    "what_it_means": {
+      "ua_importer": "Зростання інфляції в Туреччині може призвести до підвищення цін на імпортовані товари. Рекомендується переглянути контракти з турецькими постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Виробники в Туреччині можуть зіткнутися з підвищеними витратами на сировину, що вплине на ціни продукції. Рекомендується переглянути стратегії ціноутворення.",
+      "category_manager": "Зростання інфляції може вплинути на переговори з постачальниками. Рекомендується закладати підвищення цін у плани на 2026 рік."
+    },
+    "tags": [
+      "ціни-сировина",
+      "імпорт",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Війна підвищує енергетичні витрати та інфляцію в Туреччині",
+    "summary": "Центральний банк Туреччини підвищив прогноз інфляції на кінець 2026 року до 28%. Причинами стали зростання цін на енергію та продукти харчування через війну. Губернатор банку Фатіх Карахан зазначив, що це не свідчить про погіршення основних тенденцій інфляції.",
+    "link": "https://www.hurriyetdailynews.com/war-driven-energy-costs-push-inflation-outlook-higher-225601",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ee31129ec50d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/apple-abdnin-houston-kentinde-uretim-merkezi-acti/4026938",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Apple, ABD'nin Houston kentinde üretim merkezi açtı",
+    "body_orig": "ABD'li teknoloji devi Apple, Texas eyaletinin Houston kentinde yeni bir ileri üretim merkezi açtığını duyurdu.",
+    "published": "2026-08-13T20:07:41",
+    "fetched": "2026-08-14T05:51:47.746196",
+    "title_uk": "Apple відкрила виробничий центр у Х'юстоні, США",
+    "summary_uk": "Apple оголосила про відкриття нового виробничого центру в Х'юстоні, штат Техас. Це розширення виробничих потужностей компанії в США. Конкретні інвестиції та кількість робочих місць поки не розголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Apple відкрила виробничий центр у Х'юстоні, США",
+    "summary": "Apple оголосила про відкриття нового виробничого центру в Х'юстоні, штат Техас. Це розширення виробничих потужностей компанії в США. Конкретні інвестиції та кількість робочих місць поки не розголошені.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/apple-abdnin-houston-kentinde-uretim-merkezi-acti/4026938",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e5fbe45e1f78",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-suriye-ile-gecen-yil-ticaretimiz-yuzde-45-oraninda-artti/4026909",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ticaret Bakanı Bolat: Suriye ile geçen yıl ticaretimiz yüzde 45 oranında arttı",
+    "body_orig": "Bakan Bolat, Türkiye ile Suriye arasındaki ilişkilerin hızla geliştiğini belirterek\"Geçen yıl ticaretimiz yüzde 45 oranında arttı. Bu sene de ilk 7 ayda yüzde 16 oranında arttı.\" dedi.",
+    "published": "2026-08-13T19:34:05",
+    "fetched": "2026-08-14T05:51:47.746206",
+    "title_uk": "Торговельні відносини Туреччини та Сирії зросли на 45%",
+    "summary_uk": "Торговий міністр Туреччини заявив про зростання торгівлі з Сирією на 45% у 2022 році. У перші сім місяців 2023 року зростання склало 16%. Це свідчить про покращення економічних зв'язків між країнами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання торгівлі з Сирією може відкрити нові можливості для турецьких виробників, які шукають ринки в сусідніх країнах.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Торговельні відносини Туреччини та Сирії зросли на 45%",
+    "summary": "Торговий міністр Туреччини заявив про зростання торгівлі з Сирією на 45% у 2022 році. У перші сім місяців 2023 року зростання склало 16%. Це свідчить про покращення економічних зв'язків між країнами.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-suriye-ile-gecen-yil-ticaretimiz-yuzde-45-oraninda-artti/4026909",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e36d7b93f3bf",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/romgaz-a-raportat-un-profit-net-in-crestere-cu-4-7-in-t2-2026-desi-cifra-de-afaceri-a-scazut-cu-6-6-avansul-vine-dintr-un-impozit-pe-profit-mai-mic-cu-76-23216484",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Romgaz a raportat un profit net în creştere cu 4,7% în T2 2026, deşi cifra de afaceri a scăzut cu 6,6%. Avansul vine dintr-un impozit pe profit mai mic cu 76%",
+    "body_orig": "",
+    "published": "2026-08-14T05:41:59",
+    "fetched": "2026-08-14T05:51:49.923532",
+    "title_uk": "Romgaz збільшив прибуток на 5% у другому кварталі 2026",
+    "summary_uk": "Romgaz повідомив про зростання чистого прибутку на 5% у другому кварталі 2026, незважаючи на зниження виручки на 7%. Основним фактором зростання стало зменшення податку на прибуток на 76%. Компанія продовжує адаптуватися до змін на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Romgaz збільшив прибуток на 5% у другому кварталі 2026",
+    "summary": "Romgaz повідомив про зростання чистого прибутку на 5% у другому кварталі 2026, незважаючи на зниження виручки на 7%. Основним фактором зростання стало зменшення податку на прибуток на 76%. Компанія продовжує адаптуватися до змін на ринку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/romgaz-a-raportat-un-profit-net-in-crestere-cu-4-7-in-t2-2026-desi-cifra-de-afaceri-a-scazut-cu-6-6-avansul-vine-dintr-un-impozit-pe-profit-mai-mic-cu-76-23216484",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "181e75de0110",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/aerostar-a-raportat-un-profit-net-de-45-6-milioane-de-lei-in-trimestrul-al-doilea-cu-82-peste-aceeasi-perioada-din-2025-la-vanzari-in-crestere-cu-36-23216481",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aerostar a raportat un profit net de 45,6 milioane de lei în trimestrul al doilea, cu 82% peste aceeaşi perioadă din 2025, la vânzări în creştere cu 36%",
+    "body_orig": "",
+    "published": "2026-08-14T05:39:49",
+    "fetched": "2026-08-14T05:51:49.923550",
+    "title_uk": "Aerostar збільшив прибуток на 82% у другому кварталі 2026",
+    "summary_uk": "Aerostar повідомив про чистий прибуток у €4.6 млн у другому кварталі 2026, що на 82% більше, ніж у аналогічному періоді 2025. Виручка зросла на 36%. Компанія продовжує демонструвати позитивну динаміку на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Aerostar збільшив прибуток на 82% у другому кварталі 2026",
+    "summary": "Aerostar повідомив про чистий прибуток у €4.6 млн у другому кварталі 2026, що на 82% більше, ніж у аналогічному періоді 2025. Виручка зросла на 36%. Компанія продовжує демонструвати позитивну динаміку на ринку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/aerostar-a-raportat-un-profit-net-de-45-6-milioane-de-lei-in-trimestrul-al-doilea-cu-82-peste-aceeasi-perioada-din-2025-la-vanzari-in-crestere-cu-36-23216481",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9f63edc436b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/digi-communications-a-raportat-venituri-de-608-milioane-de-euro-in-trimestrul-al-doilea-cu-11-peste-t2-2025-dar-a-trecut-pe-pierdere-de-31-4-milioane-de-euro-23216479",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Digi Communications a raportat venituri de 608 milioane de euro în trimestrul al doilea, cu 11% peste T2 2025, dar a trecut pe pierdere de 31,4 milioane de euro",
+    "body_orig": "",
+    "published": "2026-08-14T05:38:03",
+    "fetched": "2026-08-14T05:51:49.923560",
+    "title_uk": "Digi Communications зафіксувала збитки в €31.4 млн у другому кварталі",
+    "summary_uk": "Digi Communications повідомила про доходи в €608 млн у другому кварталі 2026 року, що на 11% більше, ніж у аналогічному періоді 2025 року. Проте компанія зазнала збитків у розмірі €31.4 млн. Причини збитків не розкриваються.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Digi Communications зафіксувала збитки в €31.4 млн у другому кварталі",
+    "summary": "Digi Communications повідомила про доходи в €608 млн у другому кварталі 2026 року, що на 11% більше, ніж у аналогічному періоді 2025 року. Проте компанія зазнала збитків у розмірі €31.4 млн. Причини збитків не розкриваються.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/digi-communications-a-raportat-venituri-de-608-milioane-de-euro-in-trimestrul-al-doilea-cu-11-peste-t2-2025-dar-a-trecut-pe-pierdere-de-31-4-milioane-de-euro-23216479",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cd024c87792e",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/profitul-nuclearelectrica-a-scazut-cu-circa-16-la-aproximativ-296-mil-lei-in-trimestrul-al-doilea-din-2026-la-venituri-de-circa-1-19-mld-lei-dupa-oprirea-simultana-a-reactoarelor-23216476",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Profitul Nuclearelectrica a scăzut cu circa 16%, la aproximativ 296 mil. lei, în trimestrul al doilea din 2026, la venituri de circa 1,19 mld. lei, după oprirea simultană a reactoarelor",
+    "body_orig": "",
+    "published": "2026-08-14T05:35:09",
+    "fetched": "2026-08-14T05:51:49.923570",
+    "title_uk": "Прибуток Nuclearelectrica знизився на 16% у другому кварталі 2026",
+    "summary_uk": "Nuclearelectrica повідомила про зниження прибутку на 16% до приблизно 296 млн. леїв у другому кварталі 2026 року. Загальні доходи компанії склали близько 1,19 млрд. леїв, що стало наслідком одночасного зупинення реакторів. Це негативно вплинуло на фінансові результати компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прибуток Nuclearelectrica знизився на 16% у другому кварталі 2026",
+    "summary": "Nuclearelectrica повідомила про зниження прибутку на 16% до приблизно 296 млн. леїв у другому кварталі 2026 року. Загальні доходи компанії склали близько 1,19 млрд. леїв, що стало наслідком одночасного зупинення реакторів. Це негативно вплинуло на фінансові результати компанії.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/profitul-nuclearelectrica-a-scazut-cu-circa-16-la-aproximativ-296-mil-lei-in-trimestrul-al-doilea-din-2026-la-venituri-de-circa-1-19-mld-lei-dupa-oprirea-simultana-a-reactoarelor-23216476",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb2841696009",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/transgaz-a-trecut-pe-pierdere-in-trimestrul-al-doilea-minus-83-mil-lei-la-nivel-consolidat-fata-de-un-rezultat-aproape-nul-in-t2-2025-pe-fondul-amortizarilor-si-dobanzilor-mai-mari-23216473",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Transgaz a trecut pe pierdere în trimestrul al doilea: minus 83 mil. lei la nivel consolidat, faţă de un rezultat aproape nul în T2 2025, pe fondul amortizărilor şi dobânzilor mai mari",
+    "body_orig": "",
+    "published": "2026-08-14T05:32:43",
+    "fetched": "2026-08-14T05:51:49.923579",
+    "title_uk": "Transgaz зазнав збитків у другому кварталі 2026 року",
+    "summary_uk": "Transgaz повідомив про збитки в розмірі 83 млн леїв у другому кварталі 2026 року, порівняно з майже нульовим результатом у аналогічному періоді 2025 року. Причинами стали зростання амортизаційних витрат та підвищення процентних ставок. Компанія продовжує адаптуватися до нових фінансових умов.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Transgaz зазнав збитків у другому кварталі 2026 року",
+    "summary": "Transgaz повідомив про збитки в розмірі 83 млн леїв у другому кварталі 2026 року, порівняно з майже нульовим результатом у аналогічному періоді 2025 року. Причинами стали зростання амортизаційних витрат та підвищення процентних ставок. Компанія продовжує адаптуватися до нових фінансових умов.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/transgaz-a-trecut-pe-pierdere-in-trimestrul-al-doilea-minus-83-mil-lei-la-nivel-consolidat-fata-de-un-rezultat-aproape-nul-in-t2-2025-pe-fondul-amortizarilor-si-dobanzilor-mai-mari-23216473",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a8265a6ea289",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-it-generation/zf-it-generation-investor-watch-adrian-ioana-goahead-ventures-romanul-construit-platforma-unui-fond-investitii-silicon-valley-peste-250-mil-dolari-administrare-filtram-automat-baza-cateva-milioane-23215965",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF IT Generation. Investor Watch. Adrian Ioana, GoAhead Ventures - românul care a construit platforma AI a unui fond de investiţii din Silicon Valley cu peste 250 mil. dolari sub administrare: Filtrăm automat o bază de câteva milioane de oameni ca să găsim fondatorii în care investim. Din 10.000 de aplicaţii pe an ajungem la 30, dar decizia finală rămâne 100% la parteneri",
+    "body_orig": "GoAhead Ventures, fond de investiţii din Menlo Park (SUA) care are peste 250 de milioane de dolari sub administrare, îşi alege start-up-urile pe care le finanţează în etapele pre-seed şi seed cu ajutorul unei platforme dezvoltate de un inginer român de 21 de ani",
+    "published": "2026-08-14T05:00:00",
+    "fetched": "2026-08-14T05:51:49.923599",
+    "title_uk": "GoAhead Ventures використовує AI для відбору стартапів",
+    "summary_uk": "GoAhead Ventures, фонд з Menlo Park, має понад $250 млн під управлінням. Відбір стартапів на етапах pre-seed та seed здійснюється за допомогою платформи, розробленої 21-річним румуном. З 10 тисяч заявок щорічно до фінансування доходять лише 30 стартапів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "GoAhead Ventures використовує AI для відбору стартапів",
+    "summary": "GoAhead Ventures, фонд з Menlo Park, має понад $250 млн під управлінням. Відбір стартапів на етапах pre-seed та seed здійснюється за допомогою платформи, розробленої 21-річним румуном. З 10 тисяч заявок щорічно до фінансування доходять лише 30 стартапів.",
+    "link": "https://www.zf.ro/zf-it-generation/zf-it-generation-investor-watch-adrian-ioana-goahead-ventures-romanul-construit-platforma-unui-fond-investitii-silicon-valley-peste-250-mil-dolari-administrare-filtram-automat-baza-cateva-milioane-23215965",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f902b499fb1c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/mugur-isarescu-guvernatorul-bnr-pe-masura-ce-inflatia-va-scadea-vom-scadea-si-dobanzile-probabil-la-inceput-de-2027-nu-avem-o-recesiune-dramatica-a-economiei-dar-nici-nu-vom-vedea-o-revenire-rapida-23216235",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Mugur Isărescu, guvernatorul BNR: Pe măsură ce inflaţia va scădea, vom scădea şi dobânzile, probabil la început de 2027. Nu avem o recesiune dramatică a economiei, dar nici nu vom vedea o revenire rapidă",
+    "body_orig": "România ar putea evita o cădere dramatică a eco­nomiei în acest an, iar inflaţia va scădea rapid, puternic, până la final de 2026, şi va antrena, în timp, şi scăderea dobânzii de politică monetară cel mai probabil la începutul anului viitor, după cum reiese din declaraţiile lui Mugur Isărescu, guvernatorul BNR.",
+    "published": "2026-08-13T21:08:00",
+    "fetched": "2026-08-14T05:51:49.923609",
+    "title_uk": "Губернатор BNR прогнозує зниження інфляції та ставок до 2027",
+    "summary_uk": "Мугур Ісареаску, губернатор Національного банку Румунії, заявив, що країна може уникнути різкого економічного спаду. Інфляція, за його словами, знизиться до кінця 2026 року, що призведе до зниження облікових ставок, ймовірно, на початку 2027 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Губернатор BNR прогнозує зниження інфляції та ставок до 2027",
+    "summary": "Мугур Ісареаску, губернатор Національного банку Румунії, заявив, що країна може уникнути різкого економічного спаду. Інфляція, за його словами, знизиться до кінця 2026 року, що призведе до зниження облікових ставок, ймовірно, на початку 2027 року.",
+    "link": "https://www.zf.ro/banci-si-asigurari/mugur-isarescu-guvernatorul-bnr-pe-masura-ce-inflatia-va-scadea-vom-scadea-si-dobanzile-probabil-la-inceput-de-2027-nu-avem-o-recesiune-dramatica-a-economiei-dar-nici-nu-vom-vedea-o-revenire-rapida-23216235",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7958b4f88b22",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/de-ce-renunta-gigantul-pandora-la-dependenta-de-argint-si-mizeaza-pe-platina-o-schimbare-importanta-pentru-modelul-de-business-al-celui-mai-mare-producator-de-bijuterii-din-lume_967997.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "De ce renunță gigantul Pandora la „dependența de argint” şi mizează pe platină. O schimbare importantă pentru modelul de business al celui mai mare producător de bijuterii din lume",
+    "body_orig": "Pandora continuă strategia de a înlocui o parte din bijuteriile din argint cu produse placate cu platină chiar dacă preţurile argintului au scăzut puternic după ce, anul trecut, au atins recorduri. Compania daneză, cel mai mare producător de bijuterii din lume după volumul vânzărilor, vrea să se protejeze în acest fel de volatilitatea preţurilor la metalele preţioase, informează CNBC.",
+    "published": "2026-08-14T04:55:43",
+    "fetched": "2026-08-14T05:51:53.596164",
+    "title_uk": "Pandora переходить на платину, зменшуючи залежність від срібла",
+    "summary_uk": "Pandora планує замінити частину срібних ювелірних виробів на платинові, незважаючи на зниження цін на срібло. Це рішення спрямоване на захист від волатильності цін на дорогоцінні метали. Компанія є найбільшим виробником ювелірних виробів у світі за обсягом продажів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на категорійних менеджерів, які працюють з ювелірними виробами, оскільки зміна матеріалів може вимагати перегляду асортименту та цінової політики."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Pandora переходить на платину, зменшуючи залежність від срібла",
+    "summary": "Pandora планує замінити частину срібних ювелірних виробів на платинові, незважаючи на зниження цін на срібло. Це рішення спрямоване на захист від волатильності цін на дорогоцінні метали. Компанія є найбільшим виробником ювелірних виробів у світі за обсягом продажів.",
+    "link": "https://www.economica.net/de-ce-renunta-gigantul-pandora-la-dependenta-de-argint-si-mizeaza-pe-platina-o-schimbare-importanta-pentru-modelul-de-business-al-celui-mai-mare-producator-de-bijuterii-din-lume_967997.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "438ccb2a8171",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/instalatie-gpl-reguli-rar-proprietari-auto_967633.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aproape 55.000 de vehicule au primit mențiunea GPL în CIV în 2025. Ce obligații au proprietarii",
+    "body_orig": "Aproximativ 55.000 de vehicule au fost prezentate la Registrul Auto Român în 2025 pentru consemnarea mențiunii „GPL” în Cartea de Identitate a Vehiculului (CIV). Pentru proprietarii acestor automobile, precum și pentru cei care intenționează să monteze o instalație GPL, legislația impune o serie de condiții privind omologarea, montajul, înregistrarea instalației și durata de utilizare a rezervorului.",
+    "published": "2026-08-13T19:14:39",
+    "fetched": "2026-08-14T05:51:53.596201",
+    "title_uk": "В Румунії зареєстровано 55 тисяч автомобілів з установкою GPL",
+    "summary_uk": "У 2025 році в Румунії близько 55 тисяч автомобілів отримали позначку «GPL» у документах. Власники таких автомобілів повинні дотримуватись вимог щодо сертифікації, монтажу та реєстрації газових установок. Це стосується також тих, хто планує встановити газову систему.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "В Румунії зареєстровано 55 тисяч автомобілів з установкою GPL",
+    "summary": "У 2025 році в Румунії близько 55 тисяч автомобілів отримали позначку «GPL» у документах. Власники таких автомобілів повинні дотримуватись вимог щодо сертифікації, монтажу та реєстрації газових установок. Це стосується також тих, хто планує встановити газову систему.",
+    "link": "https://www.economica.net/instalatie-gpl-reguli-rar-proprietari-auto_967633.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4bc8aeb6e71e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/important-pentru-soferi-scumpirile-rca-ajung-in-atentia-bnr-alaturi-de-cursul-valutarenergie-sau-comunicatii-cat-mai-costa-acum-asigurarea-in-functie-de-masina-si-sofer_967787.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Important pentru șoferi. Scumpirile RCA ajung în atenția BNR, alături de cursul valutar, energie sau comunicații. Cât mai costă acum asigurarea în funcție de mașină și șofer",
+    "body_orig": "Trendul de creștere a primelor RCA, sesizat în premieră de Economica încă din urmă cu două luni, a ajuns și în atenția Băncii Naționale a României. Într-o referire rară, ultimul raport asupra inflației scoate în evidență creșterile de prețuri din asigurările auto ca unul dintre factorii importanți care au dus la inflamarea inflației, alături de energie, combustibili, cursul valutar sau scumpirile din comunicații.",
+    "published": "2026-08-13T19:11:39",
+    "fetched": "2026-08-14T05:51:53.596211",
+    "title_uk": "Ціни на автострахування RCA зросли, БНР звертає увагу",
+    "summary_uk": "Банківський сектор Румунії зафіксував зростання цін на автострахування RCA, що вплинуло на інфляцію. Згідно з останнім звітом БНР, ціни на страхування стали одним з факторів, що сприяють загальному зростанню цін, поряд з енергетикою та курсом валюти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціни на автострахування RCA зросли, БНР звертає увагу",
+    "summary": "Банківський сектор Румунії зафіксував зростання цін на автострахування RCA, що вплинуло на інфляцію. Згідно з останнім звітом БНР, ціни на страхування стали одним з факторів, що сприяють загальному зростанню цін, поряд з енергетикою та курсом валюти.",
+    "link": "https://www.economica.net/important-pentru-soferi-scumpirile-rca-ajung-in-atentia-bnr-alaturi-de-cursul-valutarenergie-sau-comunicatii-cat-mai-costa-acum-asigurarea-in-functie-de-masina-si-sofer_967787.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "705769923753",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/taycan-unul-dintre-pariurile-electrice-ale-porsche-ar-putea-disparea-pana-in-2030_967972.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Taycan, unul dintre pariurile electrice ale Porsche, ar putea dispărea până în 2030",
+    "body_orig": "Publicația germană WirtschaftsWoche scrie că Porsche ar putea opri treptat producția modelului electric Taycan până în 2030, pe fondul scăderii vânzărilor.",
+    "published": "2026-08-13T19:09:00",
+    "fetched": "2026-08-14T05:51:53.596221",
+    "title_uk": "Porsche може зупинити виробництво Taycan до 2030 року",
+    "summary_uk": "Німецька публікація WirtschaftsWoche повідомляє про можливу зупинку виробництва електромобіля Taycan до 2030 року через зниження продажів. Це може вплинути на стратегії Porsche в сегменті електромобілів. Виробник розглядає оптимізацію асортименту в умовах змінюваного попиту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Porsche може зупинити виробництво Taycan до 2030 року",
+    "summary": "Німецька публікація WirtschaftsWoche повідомляє про можливу зупинку виробництва електромобіля Taycan до 2030 року через зниження продажів. Це може вплинути на стратегії Porsche в сегменті електромобілів. Виробник розглядає оптимізацію асортименту в умовах змінюваного попиту.",
+    "link": "https://www.economica.net/taycan-unul-dintre-pariurile-electrice-ale-porsche-ar-putea-disparea-pana-in-2030_967972.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e03df25d1365",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/5-tisyac-griven-dlya-persoklasnikiv-yak-otrimati-pakunok-skolyara-ta-na-shho-vitratiti-pn4n41",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "5 тисяч гривень для першокласників: як отримати «Пакунок школяра» та на що витратити",
+    "body_orig": "Батьки першокласників можуть отримати від держави&nbsp;5 тисяч гривень за програмою «Пакунок школяра». Як отримати та на що може витратити розповідають на порталі «Дія».&nbsp;",
+    "published": "2026-08-13T19:26:06",
+    "fetched": "2026-08-14T05:51:42.312530",
+    "title_uk": "Батьки першокласників отримають 5 тисяч гривень на «Пакунок школяра»",
+    "summary_uk": "Батьки першокласників можуть отримати від держави 5 тисяч гривень за програмою «Пакунок школяра». Інформацію про отримання коштів та їх використання можна знайти на порталі «Дія». Програма має на меті підтримати сім'ї в підготовці дітей до школи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Батьки першокласників отримають 5 тисяч гривень на «Пакунок школяра»",
+    "summary": "Батьки першокласників можуть отримати від держави 5 тисяч гривень за програмою «Пакунок школяра». Інформацію про отримання коштів та їх використання можна знайти на порталі «Дія». Програма має на меті підтримати сім'ї в підготовці дітей до школи.",
+    "link": "https://speka.ua/news/5-tisyac-griven-dlya-persoklasnikiv-yak-otrimati-pakunok-skolyara-ta-na-shho-vitratiti-pn4n41",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
