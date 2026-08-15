@@ -209516,5 +209516,608 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "f543843846df",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-hyundainin-avrupadaki-elektrikli-otomobil-uretim-ussu-oldu/4027609",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye, Hyundai'nin Avrupa'daki elektrikli otomobil üretim üssü oldu",
+    "body_orig": "Hyundai Motor Avrupa Üst Yöneticisi Martinet, yeni tam elektrikli model IONIQ 3'ün seri üretiminin başladığı Hyundai Motor Türkiye'nin İzmit'teki fabrikasının, markanın Avrupa'daki rekabet stratejisinde her zaman önemli bir değer olduğunu söyledi.",
+    "published": "2026-08-14T15:17:09",
+    "fetched": "2026-08-15T04:53:31.835195",
+    "title_uk": "Hyundai відкриває виробництво електромобілів в Туреччині",
+    "summary_uk": "Hyundai розпочала серійне виробництво електромобіля IONIQ 3 на заводі в Ізміті, Туреччина. Це виробництво стало важливим елементом стратегії компанії в Європі. Виробник підкреслює значення цього заводу для конкурентоспроможності на європейському ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це відкриття може створити нові можливості для постачальників комплектуючих в Туреччині. Рекомендується стежити за попитом на електромобілі.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Hyundai відкриває виробництво електромобілів в Туреччині",
+    "summary": "Hyundai розпочала серійне виробництво електромобіля IONIQ 3 на заводі в Ізміті, Туреччина. Це виробництво стало важливим елементом стратегії компанії в Європі. Виробник підкреслює значення цього заводу для конкурентоспроможності на європейському ринку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-hyundainin-avrupadaki-elektrikli-otomobil-uretim-ussu-oldu/4027609",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6033ff76e19d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kocaelide-hyundai-ioniq-3un-seri-uretimi-basladi-/4027725",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Kocaeli'de Hyundai IONIQ 3'ün seri üretimi başladı",
+    "body_orig": "Kocaeli'de Hyundai IONIQ 3'ün seri üretimi başladı.",
+    "published": "2026-08-14T18:13:58",
+    "fetched": "2026-08-15T04:53:31.835211",
+    "title_uk": "Виробництво Hyundai IONIQ 3 розпочато в Кочаелі",
+    "summary_uk": "Hyundai розпочала серійне виробництво моделі IONIQ 3 на заводі в Кочаелі, Туреччина. Це важливий крок для компанії в рамках розширення асортименту електромобілів. Виробництво сприятиме збільшенню обсягів продажів на ринку електромобілів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це відкриває можливості для турецьких виробників, які можуть постачати компоненти для виробництва електромобілів. Рекомендується розглянути партнерство з Hyundai.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Виробництво Hyundai IONIQ 3 розпочато в Кочаелі",
+    "summary": "Hyundai розпочала серійне виробництво моделі IONIQ 3 на заводі в Кочаелі, Туреччина. Це важливий крок для компанії в рамках розширення асортименту електромобілів. Виробництво сприятиме збільшенню обсягів продажів на ринку електромобілів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kocaelide-hyundai-ioniq-3un-seri-uretimi-basladi-/4027725",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "39a2d501ea2c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-110-5-milyon-liralik-tarimsal-destekleme-odemesi-bugun-yapiliyor/4027674",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Çiftçilere 110,5 milyon liralık tarımsal destekleme ödemesi bugün yapılıyor",
+    "body_orig": "Bakan Yumaklı, 110,5 milyon lira tarımsal destek ödemesinin bugün çiftçilerin hesaplarına aktarılacağını bildirdi.",
+    "published": "2026-08-14T17:23:14",
+    "fetched": "2026-08-15T04:53:31.835222",
+    "title_uk": "Туреччина виплатить €4 млн аграрної підтримки для фермерів",
+    "summary_uk": "Міністр сільського господарства Туреччини оголосив про виплату аграрної підтримки в розмірі €4 млн. Кошти будуть перераховані на рахунки фермерів сьогодні. Це частина програми підтримки сільського господарства в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця виплата може позитивно вплинути на купівельну спроможність фермерів, що може призвести до збільшення попиту на сільськогосподарську продукцію. Рекомендується врахувати це при плануванні постачань.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина виплатить €4 млн аграрної підтримки для фермерів",
+    "summary": "Міністр сільського господарства Туреччини оголосив про виплату аграрної підтримки в розмірі €4 млн. Кошти будуть перераховані на рахунки фермерів сьогодні. Це частина програми підтримки сільського господарства в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-110-5-milyon-liralik-tarimsal-destekleme-odemesi-bugun-yapiliyor/4027674",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "35d9c6392b11",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/analiza-zf-vanzarile-detergent-apropie-premiera-pragul-jumatate-miliard-euro-cele-cumparate-cinci-branduri-curata-85-vanzari-ariel-singur-aproape-40-piata-23216135",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Analiză ZF. Vânzările de detergent se apropie în premieră de pragul de jumătate de miliard de euro. Cele mai cumpărate cinci branduri „curăţă“­ 85% din vânzări, cu Ariel care are singur aproape 40% din piaţă",
+    "body_orig": "Chiar în aceste zile, grupul anglo-olandez Unilever, unul dintre cei mai mari actori de pe piaţa de bunuri de larg consum din lume, demolează fabrica de detergent de la Ploieşti, pe care a închis-o acum circa doi ani.",
+    "published": "2026-08-14T21:07:00",
+    "fetched": "2026-08-15T04:53:41.912839",
+    "title_uk": "В Україні продажі detergents наближаються до €0.5 млрд",
+    "summary_uk": "Продажі миючих засобів в Румунії досягли рекордного рівня, наближаючись до €0.5 млрд. П'ять найбільших брендів, зокрема Ariel, займають 85% ринку, причому Ariel має майже 40% частки. Unilever закриває завод у Плоєшті, який не працював два роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на тенденції в категорії миючих засобів, оскільки ринок зростає. Розгляньте можливість впровадження нових брендів або продуктів для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "В Україні продажі detergents наближаються до €0.5 млрд",
+    "summary": "Продажі миючих засобів в Румунії досягли рекордного рівня, наближаючись до €0.5 млрд. П'ять найбільших брендів, зокрема Ariel, займають 85% ринку, причому Ariel має майже 40% частки. Unilever закриває завод у Плоєшті, який не працював два роки.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/analiza-zf-vanzarile-detergent-apropie-premiera-pragul-jumatate-miliard-euro-cele-cumparate-cinci-branduri-curata-85-vanzari-ariel-singur-aproape-40-piata-23216135",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f6f37e900ed1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/harta-banilor-industria-software-servicii-it-2025-dupa-analiza-bilanturilor-aproape-46-000-companii-bucurestiul-concentreaza-56-cele-90-miliarde-lei-sectorului-clujul-e-singurul-mare-pol-creste-23216196",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Harta banilor din industria de software şi servicii IT în 2025, după analiza bilanţurilor a aproape 46.000 de companii: Bucureştiul concentrează 56% din cele 90 de miliarde de lei ale sectorului, dar Clujul e singurul mare pol care creşte şi ca business, şi ca număr de angajaţi",
+    "body_orig": "Industria de software şi servicii IT din România a ajuns în 2025 la afaceri cumulate de 90,3 miliarde de lei, în creştere cu 8,2% peste 2024, arată o analiză ZF a bilanţurilor depuse la ANAF de 45.955 de firme.",
+    "published": "2026-08-14T21:07:00",
+    "fetched": "2026-08-15T04:53:41.912875",
+    "title_uk": "Бухарест концентрує 56% доходів IT-індустрії Румунії у 2025",
+    "summary_uk": "У 2025 році ринок програмного забезпечення та IT-послуг у Румунії досягнув €19.5 млрд, зростаючи на 8% порівняно з 2024. Бухарест залишається лідером, але Клуж демонструє зростання як у бізнесі, так і в кількості працівників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарест концентрує 56% доходів IT-індустрії Румунії у 2025",
+    "summary": "У 2025 році ринок програмного забезпечення та IT-послуг у Румунії досягнув €19.5 млрд, зростаючи на 8% порівняно з 2024. Бухарест залишається лідером, але Клуж демонструє зростання як у бізнесі, так і в кількості працівників.",
+    "link": "https://www.zf.ro/business-hi-tech/harta-banilor-industria-software-servicii-it-2025-dupa-analiza-bilanturilor-aproape-46-000-companii-bucurestiul-concentreaza-56-cele-90-miliarde-lei-sectorului-clujul-e-singurul-mare-pol-creste-23216196",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a975d9ebe366",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/krantz-producator-inghetata-artizanala-galati-prezent-marile-retele-retail-afaceri-12-mil-lei-deschis-prima-gelaterie-nibiru-prima-noastra-locatie-fizica-ne-dorim-deschidem-insa-cautam-finantare-23216087",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Krantz, producător de îngheţată artizanală din Galaţi, prezent în marile reţele de retail, cu afaceri de 12 mil. lei, şi-a deschis prima gelaterie la Nibiru. „Este prima noastră locaţie fizică, ne dorim să mai deschidem însă căutăm finanţare“",
+    "body_orig": "Krantz, un mic producător de îngheţată artizanală din Galaţi, pornit de Constantin Dumitriu şi Claudiu Con­stantin Solomon, şi-a deschis prima sa locaţie fizică în Nibiru, complexul de divertisment de lângă Costineşti.",
+    "published": "2026-08-14T21:06:00",
+    "fetched": "2026-08-15T04:53:41.912887",
+    "title_uk": "Виробник морозива Krantz відкрив першу gelaterie в Румунії",
+    "summary_uk": "Компанія Krantz, що спеціалізується на виробництві морозива, відкрила свою першу gelaterie в комплексі Nibiru біля Costineşti. Річний обіг компанії становить близько 12 млн леїв. Засновники — Constantin Dumitriu та Claudiu Constantin Solomon — планують розширення, але шукають фінансування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Відкриття нової gelaterie може вплинути на попит на морозиво в румунському ритейлі. Розгляньте можливість співпраці з новими постачальниками в цій категорії."
+    },
+    "tags": [
+      "виробництво",
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Виробник морозива Krantz відкрив першу gelaterie в Румунії",
+    "summary": "Компанія Krantz, що спеціалізується на виробництві морозива, відкрила свою першу gelaterie в комплексі Nibiru біля Costineşti. Річний обіг компанії становить близько 12 млн леїв. Засновники — Constantin Dumitriu та Claudiu Constantin Solomon — планують розширення, але шукають фінансування.",
+    "link": "https://www.zf.ro/companii/krantz-producator-inghetata-artizanala-galati-prezent-marile-retele-retail-afaceri-12-mil-lei-deschis-prima-gelaterie-nibiru-prima-noastra-locatie-fizica-ne-dorim-deschidem-insa-cautam-finantare-23216087",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "021158f57f3c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/producatorul-ursus-timisoreana-plateste-actionarilor-dividende-peste-100-mil-euro-compania-peste-zece-ani-profit-an-iar-2025-avut-castig-net-302-mil-lei-crestere-fata-nivelul-profitului-2024-23216090",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Producătorul Ursus şi Timişoreana plăteşte acţionarilor dividende de peste 100 mil. euro. Compania este de peste zece ani pe profit în fiecare an, iar în 2025 a avut un câştig net de 302 mil. lei, în creştere faţă de nivelul profitului din 2024",
+    "body_orig": "Ursus Breweries, liderul pieţei de bere, va distribui dividende în valoare de 528 mil. lei (peste 105 mil. euro) din profitul net total de 639 mil. lei (128 mil. euro) înregistrat până la finalul lui 2025 şi nerepartizat până acum.",
+    "published": "2026-08-14T21:06:00",
+    "fetched": "2026-08-15T04:53:41.912897",
+    "title_uk": "Ursus Breweries виплатить акціонерам €105 млн дивідендів",
+    "summary_uk": "Ursus Breweries оголосила про виплату дивідендів у розмірі €105 млн з прибутку в €128 млн за 2025 рік. Компанія стабільно отримує прибуток протягом останніх десяти років. Виплата дивідендів відбудеться з нерозподіленого прибутку, що свідчить про фінансову стабільність компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ursus Breweries виплатить акціонерам €105 млн дивідендів",
+    "summary": "Ursus Breweries оголосила про виплату дивідендів у розмірі €105 млн з прибутку в €128 млн за 2025 рік. Компанія стабільно отримує прибуток протягом останніх десяти років. Виплата дивідендів відбудеться з нерозподіленого прибутку, що свідчить про фінансову стабільність компанії.",
+    "link": "https://www.zf.ro/companii/producatorul-ursus-timisoreana-plateste-actionarilor-dividende-peste-100-mil-euro-compania-peste-zece-ani-profit-an-iar-2025-avut-castig-net-302-mil-lei-crestere-fata-nivelul-profitului-2024-23216090",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "38ca5ccd4bdf",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/florin-porojan-franke-speram-businessul-revina-plus-piata-prezent-dinamica-tensionata-fluctuatii-cerere-competitie-tot-puternica-clientii-atenti-costuri-orientati-spre-solutii-eficiente-flexibile-23216100",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Florin Porojan, Franke: Sperăm ca businessul să revină pe plus. Piaţa este în prezent dinamică, dar tensionată, cu fluctuaţii în cerere şi cu o competiţie tot mai puternică. Clienţii sunt mai atenţi la costuri şi mai orientaţi spre soluţii eficiente şi flexibile",
+    "body_orig": "Producătorul elveţian de echipamente încorporabile pentru bucătărie Franke speră ca businessul din România să revină pe plus după patru ani de declin, perioadă în care cifra de afaceri a scăzut cu mai bine de o treime, la 42,7 mil. lei. Profitul net a urmat şi el un trend descendent, reducându-se la jumătate în 2025 vs 2024, la puţin sub 500.000 de lei.",
+    "published": "2026-08-14T21:06:00",
+    "fetched": "2026-08-15T04:53:41.912908",
+    "title_uk": "Franke сподівається на відновлення бізнесу в Румунії",
+    "summary_uk": "Franke, виробник кухонних обладнань, сподівається на повернення до прибутковості в Румунії після чотирирічного спаду. За цей час їхня виручка зменшилася на понад третину до 42.7 млн леїв, а чистий прибуток впав до менш ніж 500 тис. леїв у 2025 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Franke сподівається на відновлення бізнесу в Румунії",
+    "summary": "Franke, виробник кухонних обладнань, сподівається на повернення до прибутковості в Румунії після чотирирічного спаду. За цей час їхня виручка зменшилася на понад третину до 42.7 млн леїв, а чистий прибуток впав до менш ніж 500 тис. леїв у 2025 році.",
+    "link": "https://www.zf.ro/companii/florin-porojan-franke-speram-businessul-revina-plus-piata-prezent-dinamica-tensionata-fluctuatii-cerere-competitie-tot-puternica-clientii-atenti-costuri-orientati-spre-solutii-eficiente-flexibile-23216100",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9a3e53579db",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/contra-curentului-grupul-olandez-versuni-care-are-in-portofoliu-brandurile-de-electrocasnice-mici-philips-si-saeco-tinteste-afaceri-record-de-800-mil-lei-plus-15-23216114",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Contra curentului. Grupul olandez Versuni, care are în portofoliu brandurile de electrocasnice mici Philips şi Saeco, ţinteşte afaceri record de 800 mil. lei, plus 15%",
+    "body_orig": "Grupul olandez Versuni, care are în portofoliu brandu­rile de electrocasnice mici Philips, Gaggia şi Saeco, şi-a majorat vânzările din România anul trecut cu circa 14%, la puţin peste 695 mil. lei, şi estimează că şi în 2026 businessul companiei de import şi distribuţie se va menţine pe plus.",
+    "published": "2026-08-14T21:06:00",
+    "fetched": "2026-08-15T04:53:41.912919",
+    "title_uk": "Versuni прогнозує ріст продажів в Румунії на 15% до 800 млн. леїв",
+    "summary_uk": "Група Versuni, що володіє брендами Philips, Gaggia та Saeco, збільшила продажі в Румунії на 14% до понад 695 млн. леїв у 2022 році. У 2026 році компанія планує досягти рекорду в 800 млн. леїв, зростаючи на 15%. Очікується, що бізнес імпорту та дистрибуції залишиться прибутковим.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання продажів Versuni може вплинути на конкуренцію в категорії малих електроприладів. Розгляньте можливість адаптації асортименту для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "дистрибуція",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Versuni прогнозує ріст продажів в Румунії на 15% до 800 млн. леїв",
+    "summary": "Група Versuni, що володіє брендами Philips, Gaggia та Saeco, збільшила продажі в Румунії на 14% до понад 695 млн. леїв у 2022 році. У 2026 році компанія планує досягти рекорду в 800 млн. леїв, зростаючи на 15%. Очікується, що бізнес імпорту та дистрибуції залишиться прибутковим.",
+    "link": "https://www.zf.ro/companii/contra-curentului-grupul-olandez-versuni-care-are-in-portofoliu-brandurile-de-electrocasnice-mici-philips-si-saeco-tinteste-afaceri-record-de-800-mil-lei-plus-15-23216114",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "006a870fa305",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/amber-studio-unul-dintre-cei-mari-dezvoltatori-jocuri-video-romania-incheiat-2025-pierdere-11-7-mil-lei-cea-mare-istoria-207-angajati-putin-urma-doi-ani-23216215",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Amber Studio, unul dintre cei mai mari dezvoltatori de jocuri video din România, a încheiat 2025 cu o pierdere de 11,7 mil. lei, cea mai mare din istoria sa, şi cu 207 angajaţi mai puţin decât în urmă cu doi ani",
+    "body_orig": "Amber Studio, dezvoltatorul de jocuri video fondat la Bucureşti în 2013, a raportat pentru 2025 o pierdere netă de 11,7 mil. lei (2,3 mil. euro), cea mai mare din istoria companiei şi a doua în trei ani, după cea de 10,7 mil. lei din 2023, potrivit datelor de la Ministerul Finanţelor.",
+    "published": "2026-08-14T21:03:00",
+    "fetched": "2026-08-15T04:53:41.912930",
+    "title_uk": "Amber Studio зазнала рекордних втрат у 2025 році",
+    "summary_uk": "Румунський розробник ігор Amber Studio повідомив про чисті збитки у €2.3 млн у 2025 році, що є найбільшими втратами в історії компанії. Кількість співробітників зменшилася на 207 осіб за два роки. Це вже другий рік поспіль, коли компанія зазнає збитків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Amber Studio зазнала рекордних втрат у 2025 році",
+    "summary": "Румунський розробник ігор Amber Studio повідомив про чисті збитки у €2.3 млн у 2025 році, що є найбільшими втратами в історії компанії. Кількість співробітників зменшилася на 207 осіб за два роки. Це вже другий рік поспіль, коли компанія зазнає збитків.",
+    "link": "https://www.zf.ro/business-hi-tech/amber-studio-unul-dintre-cei-mari-dezvoltatori-jocuri-video-romania-incheiat-2025-pierdere-11-7-mil-lei-cea-mare-istoria-207-angajati-putin-urma-doi-ani-23216215",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1045665f7087",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/benzinariile-rompetrol-si-au-dublat-profitul-reteaua-continua-sa-se-extinda_968254.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Benzinăriile Rompetrol și-au dublat profitul. Rețeaua continuă să se extindă",
+    "body_orig": "Segmentul de distribuție a carburanților al grupului Rompetrol (KMG International), a consemnat o creștere a profitului de peste două ori în primele șase luni ale acestui an.",
+    "published": "2026-08-14T20:21:10",
+    "fetched": "2026-08-15T04:53:45.345968",
+    "title_uk": "Rompetrol подвоїв прибуток у першій половині року",
+    "summary_uk": "Група Rompetrol (KMG International) повідомила про зростання прибутку більше ніж у два рази за перші шість місяців 2026 року. Розширення мережі АЗС триває, що може вплинути на ринок пального в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Rompetrol подвоїв прибуток у першій половині року",
+    "summary": "Група Rompetrol (KMG International) повідомила про зростання прибутку більше ніж у два рази за перші шість місяців 2026 року. Розширення мережі АЗС триває, що може вплинути на ринок пального в Румунії.",
+    "link": "https://www.economica.net/benzinariile-rompetrol-si-au-dublat-profitul-reteaua-continua-sa-se-extinda_968254.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "998ddde82891",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bipa-cu-preturi-mici-intra-in-doua-noi-orase-si-face-angajari_968061.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Magazinele BIPA, cu preţuri mici, intră în două noi oraşe şi fac angajări",
+    "body_orig": "Grupul REWE, care a intrat în România în 2001 cu lanțul de supermarketuri tip discount Penny, a adus în România şi brandul său de drogherii BIPA. Compania Bipa Romania Drogherie, subsidiara din ţara noastră a companiei BIPA, pregăteşte intrarea în Chitila şi Buzău, arată anunţurile de recrutare consultate de Economica.net.",
+    "published": "2026-08-14T19:11:14",
+    "fetched": "2026-08-15T04:53:45.345985",
+    "title_uk": "Магазини BIPA відкриваються в нових містах і шукають працівників",
+    "summary_uk": "Grup REWE розширює мережу BIPA в Румунії, плануючи відкриття магазинів у Читила та Бузау. Компанія оголосила про набір нових працівників для цих локацій. BIPA є відомим брендом у сегменті дрогерій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Магазини BIPA відкриваються в нових містах і шукають працівників",
+    "summary": "Grup REWE розширює мережу BIPA в Румунії, плануючи відкриття магазинів у Читила та Бузау. Компанія оголосила про набір нових працівників для цих локацій. BIPA є відомим брендом у сегменті дрогерій.",
+    "link": "https://www.economica.net/bipa-cu-preturi-mici-intra-in-doua-noi-orase-si-face-angajari_968061.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d0cafcf26f11",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/arobs-anunta-ca-a-castigat-un-contract-de-70-de-milioane-de-lei-cu-o-institutie-de-stat_968250.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Arobs anunță că a câștigat un contract de 70 de milioane de lei cu o instituție de stat",
+    "body_orig": "Conducerea Arobs Transilvania Software S.A. informează investitorii și acționarii de la Bursa de Valori București anunță că subsidiara sa AROBS Systems S.R.L. a încehaita un contract de achiziție publică cu Agentia de Plăți și Intervenție pentru Agricultură („APIA”), cu o valoare totala de aproximativ 70 de milioane de lei, la care se adauga TVA.",
+    "published": "2026-08-14T19:05:48",
+    "fetched": "2026-08-15T04:53:45.346007",
+    "title_uk": "Arobs підписала контракт на 70 млн леїв з державною агенцією",
+    "summary_uk": "Arobs Transilvania Software S.A. оголосила про виграш контракту з Агентством платежів та інтервенцій для сільського господарства на суму близько 70 млн леїв без ПДВ. Це підтверджує зростання попиту на послуги компанії в державному секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Arobs підписала контракт на 70 млн леїв з державною агенцією",
+    "summary": "Arobs Transilvania Software S.A. оголосила про виграш контракту з Агентством платежів та інтервенцій для сільського господарства на суму близько 70 млн леїв без ПДВ. Це підтверджує зростання попиту на послуги компанії в державному секторі.",
+    "link": "https://www.economica.net/arobs-anunta-ca-a-castigat-un-contract-de-70-de-milioane-de-lei-cu-o-institutie-de-stat_968250.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a0c03affba48",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/droni-za-devyat-dniv-yak-dot-chain-defence-zminiv-postacannya-dlya-viiskovix-p081g4",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Дрони за дев’ять днів: як DOT-Chain Defence змінив постачання для військових",
+    "body_orig": "За рік роботи ІТ-системи DOT-Chain Defence Сили оборони отримали понад 1,2 млн дронів та інших засобів на загальну суму 69,2 млрд грн. Про це повідомили в Агенції оборонних закупівель ДОТ Міністерства оборони України.",
+    "published": "2026-08-14T19:25:59",
+    "fetched": "2026-08-15T04:53:25.024072",
+    "title_uk": "DOT-Chain Defence забезпечила військових 1,2 млн дронів за рік",
+    "summary_uk": "Сили оборони України отримали понад 1,2 млн дронів на суму €69 млн завдяки ІТ-системі DOT-Chain Defence. Проект реалізується Агенцією оборонних закупівель ДОТ Міністерства оборони. Це значно підвищує ефективність постачання військових засобів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "DOT-Chain Defence забезпечила військових 1,2 млн дронів за рік",
+    "summary": "Сили оборони України отримали понад 1,2 млн дронів на суму €69 млн завдяки ІТ-системі DOT-Chain Defence. Проект реалізується Агенцією оборонних закупівель ДОТ Міністерства оборони. Це значно підвищує ефективність постачання військових засобів.",
+    "link": "https://speka.ua/news/droni-za-devyat-dniv-yak-dot-chain-defence-zminiv-postacannya-dlya-viiskovix-p081g4",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "786fae3bf04b",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/health-news/comu-byuti-industriya-vidmovlyajetsya-vid-vodi-texnologiya-bezvodnix-formul-ocima-farmacevta-vr18q2",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Чому б’юті-індустрія відмовляється від води: технологія безводних формул очима фармацевта",
+    "body_orig": "Звичайний флакон шампуню чи гелю на 70–85% складається зі звичайної дистильованої води. Чому глобальний ринок рухається у бік waterless-концепції, як працює хімія твердих формул і чому це набагато складніше, ніж здається.",
+    "published": "2026-08-14T17:16:43",
+    "fetched": "2026-08-15T04:53:25.024104",
+    "title_uk": "Б’юті-індустрія переходить на безводні формули",
+    "summary_uk": "Глобальний ринок б’юті-індустрії відмовляється від води у продуктах. Звичайні формули містять 70-85% води, але нові технології дозволяють створювати безводні варіанти. Це ускладнює виробництво, але відкриває нові можливості для екологічності.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Перегляньте асортимент на полицях: безводні формули можуть стати трендом. Розгляньте нові постачальники з інноваційними продуктами."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Б’юті-індустрія переходить на безводні формули",
+    "summary": "Глобальний ринок б’юті-індустрії відмовляється від води у продуктах. Звичайні формули містять 70-85% води, але нові технології дозволяють створювати безводні варіанти. Це ускладнює виробництво, але відкриває нові можливості для екологічності.",
+    "link": "https://speka.ua/health-news/comu-byuti-industriya-vidmovlyajetsya-vid-vodi-texnologiya-bezvodnix-formul-ocima-farmacevta-vr18q2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
