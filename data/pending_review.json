@@ -211159,5 +211159,921 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "f51a084ee4c7",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kupujacy-wracaja-na-rynek-wtorny-Srednie-ceny-mieszkan-poszly-w-gore-9180594.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kupujący wracają na rynek wtórny. Średnie ceny mieszkań poszły w górę",
+    "body_orig": "W lipcu w ujęciu miesięcznym wzrósł popyt na mieszkania na rynku wtórnym; wzrosły też średnie ceny metra kwadratowego nieruchomości z drugiej ręki - wynika z raportu portalu GetHome.pl.",
+    "published": "2026-08-16T16:00:00",
+    "fetched": "2026-08-16T16:23:37.010744",
+    "title_uk": "Зростання попиту на вторинному ринку нерухомості в Польщі",
+    "summary_uk": "У липні 2026 року спостерігався зріст попиту на вторинні квартири в Польщі. Середня ціна за квадратний метр зросла, що свідчить про відновлення інтересу покупців. Дані надані порталом GetHome.pl.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання попиту може позитивно вплинути на продажі товарів для дому та ремонту. Розгляньте можливість збільшення асортименту в цій категорії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на нерухомість може спонукати споживачів більше інвестувати в товари для дому. Рекомендується переглянути асортимент, щоб відповідати новим трендам."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Зростання попиту на вторинному ринку нерухомості в Польщі",
+    "summary": "У липні 2026 року спостерігався зріст попиту на вторинні квартири в Польщі. Середня ціна за квадратний метр зросла, що свідчить про відновлення інтересу покупців. Дані надані порталом GetHome.pl.",
+    "link": "https://www.bankier.pl/wiadomosc/Kupujacy-wracaja-na-rynek-wtorny-Srednie-ceny-mieszkan-poszly-w-gore-9180594.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f978567861cd",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy nie chcą tego ujawniać. Dla 72 proc. pracowników to kluczowa informacja",
+    "body_orig": "Widełki płacowe stają się jednym z kluczowych kryteriów przy szukaniu pracy. Aż 72 proc. kandydatów chce znać stawkę już na etapie ogłoszenia, jednak rzeczywistość wygląda inaczej: tylko 30 proc. firm ujawnia wynagrodzenie we wszystkich rekrutacjach, a niemal co trzecia nie robi tego wcale.",
+    "published": "2026-08-16T05:00:00",
+    "fetched": "2026-08-16T16:23:37.010761",
+    "title_uk": "72% кандидатів хочуть знати зарплату на етапі вакансії",
+    "summary_uk": "72% кандидатів вважають, що зарплатні пропозиції мають бути в оголошеннях про роботу. Проте лише 30% компаній розкривають ці дані у всіх рекрутаціях, а майже кожна третя не робить цього взагалі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно враховувати, що прозорість зарплат може вплинути на залучення та утримання кадрів у польських компаніях.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в ринку праці можуть вплинути на підбір кадрів у ритейлі. Рекомендується переглянути стратегії найму та мотивації персоналу."
+    },
+    "tags": [
+      "робота-з-байєрами",
+      "мотивація-ТП"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "72% кандидатів хочуть знати зарплату на етапі вакансії",
+    "summary": "72% кандидатів вважають, що зарплатні пропозиції мають бути в оголошеннях про роботу. Проте лише 30% компаній розкривають ці дані у всіх рекрутаціях, а майже кожна третя не робить цього взагалі.",
+    "link": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "27ca860c9444",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Polskie-kopalnie-przynosza-miliardy-strat-Wydobycie-wegla-juz-sie-nie-oplaca-9181306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polskie kopalnie przynoszą miliardy strat. „Wydobycie węgla już się nie opłaca”",
+    "body_orig": "Polski sektor wydobycia węgla kamiennego jest mocno na minusie, spada zarówno wydobycie, jak i zatrudnienie w sektorze - wynika z informacji zebranych w „Bazie danych o kopalniach w Polsce” Fundacji Instrat.",
+    "published": "2026-08-16T14:16:00",
+    "fetched": "2026-08-16T16:23:37.010785",
+    "title_uk": "Польські шахти зазнають мільярдних збитків",
+    "summary_uk": "Сектор видобутку вугілля в Польщі зазнає значних збитків, зменшуючи обсяги видобутку та скорочуючи робочі місця. Дані з 'Бази даних про шахти в Польщі' свідчать про серйозні проблеми в галузі. Виробництво вугілля більше не є вигідним.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження видобутку вугілля може призвести до зростання цін на енергоносії, що вплине на витрати дистриб'юторів. Рекомендується переглянути стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення видобутку вугілля може вплинути на ціни на енергію, що варто врахувати при плануванні витрат на енергетичні ресурси в категоріях товарів."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські шахти зазнають мільярдних збитків",
+    "summary": "Сектор видобутку вугілля в Польщі зазнає значних збитків, зменшуючи обсяги видобутку та скорочуючи робочі місця. Дані з 'Бази даних про шахти в Польщі' свідчать про серйозні проблеми в галузі. Виробництво вугілля більше не є вигідним.",
+    "link": "https://www.bankier.pl/wiadomosc/Polskie-kopalnie-przynosza-miliardy-strat-Wydobycie-wegla-juz-sie-nie-oplaca-9181306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fc525d91c54f",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Sieci-handlowe-beda-musialy-ujawnic-producentow-swoich-marek-wlasnych-9182966.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Sieci handlowe będą musiały ujawnić producentów swoich marek własnych",
+    "body_orig": "Na produktach spożywczych sprzedawanych pod markami własnymi sieci handlowych obowiązkowo ma być podawana nazwa i adres rzeczywistego producenta lub importera - proponuje resort rolnictwa przedstawiając propozycję zmiany rozporządzenia.",
+    "published": "2026-08-16T16:45:00",
+    "fetched": "2026-08-16T16:23:37.010819",
+    "title_uk": "Польські мережі зобов'яжуть вказувати виробників власних марок",
+    "summary_uk": "Міністерство сільського господарства Польщі пропонує нові правила для мереж, які реалізують продукти під власними марками. Відтепер на упаковці повинні бути вказані назва та адреса реального виробника або імпортера. Це може вплинути на прозорість ринку та споживчі звички.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні підготуватися до нових вимог. Це може вплинути на процеси закупівлі та переговори з постачальниками, адже необхідно буде підтверджувати інформацію про виробників.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це нововведення може вплинути на стратегії категорійного менеджменту, адже споживачі можуть змінити свої уподобання на користь прозорих брендів. Рекомендується переглянути асортимент власних марок."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл",
+      "private-label"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські мережі зобов'яжуть вказувати виробників власних марок",
+    "summary": "Міністерство сільського господарства Польщі пропонує нові правила для мереж, які реалізують продукти під власними марками. Відтепер на упаковці повинні бути вказані назва та адреса реального виробника або імпортера. Це може вплинути на прозорість ринку та споживчі звички.",
+    "link": "https://www.bankier.pl/wiadomosc/Sieci-handlowe-beda-musialy-ujawnic-producentow-swoich-marek-wlasnych-9182966.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "73b49dc3549f",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/spirala-kosztow-w-nfz-eksperci-alarmuja-coraz-mniej-pieniedzy-na-leczenie/sl3bcp4",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "NFZ wyprzedził ZUS w niechlubnym rankingu. \"Takiej luki jeszcze nie było\"",
+    "body_orig": "Rekordowy budżet Narodowego Funduszu Zdrowia nie wystarczy, by opłacić wszystkie zadania. W przyszłym roku w kasie NFZ może zabraknąć około 22 mld zł, a cały system będzie wymagał ponad 50 mld zł wsparcia spoza składki zdrowotnej. — W ciągu zaledwie kilku lat ochrona zdrowia stała się więc bardziej deficytowa niż tradycyjnie deficytowy system emerytalny — mówi w Onet Rano Finansowo Łukasz Kozłowski, główny ekonomista Federacji Przedsiębiorców Polskich.",
+    "published": "2026-08-16T15:29:40",
+    "fetched": "2026-08-16T16:23:38.733189",
+    "title_uk": "Польський Фонд Здоров'я з дефіцитом у €5.5 млрд",
+    "summary_uk": "Народний Фонд Здоров'я Польщі повідомив про рекордний дефіцит у €5.5 млрд на 2026 рік. Загалом система потребує понад €11 млрд підтримки з інших джерел. Економіст зазначає, що охорона здоров'я стала більш дефіцитною, ніж пенсійна система.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростаючий дефіцит може призвести до зменшення витрат на охорону здоров'я, що вплине на закупівлі медичних товарів. Розгляньте можливість коригування асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Польський Фонд Здоров'я з дефіцитом у €5.5 млрд",
+    "summary": "Народний Фонд Здоров'я Польщі повідомив про рекордний дефіцит у €5.5 млрд на 2026 рік. Загалом система потребує понад €11 млрд підтримки з інших джерел. Економіст зазначає, що охорона здоров'я стала більш дефіцитною, ніж пенсійна система.",
+    "link": "https://businessinsider.com.pl/gospodarka/spirala-kosztow-w-nfz-eksperci-alarmuja-coraz-mniej-pieniedzy-na-leczenie/sl3bcp4",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a51fdc57aa02",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/mobility/niemiec-placi-mniej-niz-polak-ujawnia-prawde-o-cenach-ogloszen-7318118480615552a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Niemiec płaci mniej niż Polak. Ujawnia prawdę o cenach ogłoszeń",
+    "body_orig": "- Niemiec ma taniej niż Polak - tak o cenach ogłoszeń na rynku motoryzacyjnym mówi w programie \"Biznes Klasa\" Arkadiusz Zaremba, szef Automarket.pl. Jego firma chce rzucić rękawicę takim firmom jak Otomoto z Grupy OLX. Zdaniem Zaremby brak konkurencji podbija ceny ogłoszeń.",
+    "published": "2026-08-16T14:55:28",
+    "fetched": "2026-08-16T16:23:41.606200",
+    "title_uk": "Ціни на автомобільні оголошення в Польщі вищі, ніж у Німеччині",
+    "summary_uk": "Аркадіуш Заремба, керівник Automarket.pl, заявив, що ціни на автомобільні оголошення в Польщі вищі, ніж у Німеччині. Він вважає, що відсутність конкуренції сприяє підвищенню цін. Automarket.pl планує конкурувати з Otomoto з групи OLX.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Відсутність конкуренції підвищує ціни на оголошення. Дистриб'ютори можуть переглянути свої стратегії просування автомобілів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на автомобільні оголошення в Польщі вищі, ніж у Німеччині",
+    "summary": "Аркадіуш Заремба, керівник Automarket.pl, заявив, що ціни на автомобільні оголошення в Польщі вищі, ніж у Німеччині. Він вважає, що відсутність конкуренції сприяє підвищенню цін. Automarket.pl планує конкурувати з Otomoto з групи OLX.",
+    "link": "https://www.money.pl/mobility/niemiec-placi-mniej-niz-polak-ujawnia-prawde-o-cenach-ogloszen-7318118480615552a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "371b4c27cfb8",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/tragiczny-wypadek-autokaru-z-pielgrzymami-na-wegrzech-pzu-potwierdza-ubezpieczenie-autokaru-7319027429427328a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PZU potwierdza polisę autokaru. Co dalej z odszkodowaniami?",
+    "body_orig": "Autokar, który w nocy z soboty na niedzielę rozbił się na węgierskiej autostradzie M3, był ubezpieczony w PZU - potwierdził money.pl ubezpieczyciel. W wypadku zginęło 12 osób. PZU przygotowuje specjalną infolinię dla poszkodowanych i ich rodzin.",
+    "published": "2026-08-16T09:25:07",
+    "fetched": "2026-08-16T16:23:41.606227",
+    "title_uk": "PZU підтверджує страховку автобуса після аварії в Угорщині",
+    "summary_uk": "Автобус, що розбився на угорській автомагістралі, був застрахований у PZU. Унаслідок аварії загинуло 12 осіб. PZU організовує спеціальну гарячу лінію для постраждалих та їхніх родин.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PZU підтверджує страховку автобуса після аварії в Угорщині",
+    "summary": "Автобус, що розбився на угорській автомагістралі, був застрахований у PZU. Унаслідок аварії загинуло 12 осіб. PZU організовує спеціальну гарячу лінію для постраждалих та їхніх родин.",
+    "link": "https://www.money.pl/finanse/tragiczny-wypadek-autokaru-z-pielgrzymami-na-wegrzech-pzu-potwierdza-ubezpieczenie-autokaru-7319027429427328a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d2de0675dbee",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/zus-pokazal-wyliczenia-ekspert-takie-beda-emerytury-w-przyszlosci-7318971950233728a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "ZUS pokazał wyliczenia. Jest gigantyczny problem. \"To nie działa\"",
+    "body_orig": "W przyszłości znaczna większość Polaków będzie otrzymywała minimalne emerytury - ocenia dr Tomasz Lasocki z Politechniki Warszawskiej. Z udostępnionych PAP prognoz ZUS wynika, że w 2027 r. przeciętna emerytura wyniesie 54 proc. średniego wynagrodzenia, a w 2080 r. będzie to jedynie 24,5 proc.",
+    "published": "2026-08-16T06:10:00",
+    "fetched": "2026-08-16T16:23:41.606238",
+    "title_uk": "Прогноз ZUS: більшість поляків отримуватиме мінімальні пенсії",
+    "summary_uk": "За оцінками ZUS, у 2027 році середня пенсія становитиме 54% середньої зарплати, а до 2080 року знизиться до 25%. Це викликано демографічними змінами та недостатнім фінансуванням пенсійної системи. Експерти попереджають про серйозні наслідки для майбутніх пенсіонерів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прогноз ZUS: більшість поляків отримуватиме мінімальні пенсії",
+    "summary": "За оцінками ZUS, у 2027 році середня пенсія становитиме 54% середньої зарплати, а до 2080 року знизиться до 25%. Це викликано демографічними змінами та недостатнім фінансуванням пенсійної системи. Експерти попереджають про серйозні наслідки для майбутніх пенсіонерів.",
+    "link": "https://www.money.pl/finanse/zus-pokazal-wyliczenia-ekspert-takie-beda-emerytury-w-przyszlosci-7318971950233728a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c8a7e0381f4b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/berkshire-hathaway-boosts-size-of-its-stake-in-alphabet-225678",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Berkshire Hathaway boosts size of its stake in Alphabet",
+    "body_orig": "Berkshire Hathaway is increasing the size of its stake in Google’s parent company and beefing up its holdings in homebuilders, according to the conglomerate’s latest snapshot of its investment portfolio.",
+    "published": "2026-08-16T10:08:23",
+    "fetched": "2026-08-16T16:23:58.120831",
+    "title_uk": "Berkshire Hathaway збільшує частку в Alphabet",
+    "summary_uk": "Berkshire Hathaway розширює свою частку в компанії Alphabet, материнській компанії Google. Також конгломерат посилює інвестиції в будівельні компанії. Це свідчить про зростаючу довіру до технологічного сектору.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Berkshire Hathaway збільшує частку в Alphabet",
+    "summary": "Berkshire Hathaway розширює свою частку в компанії Alphabet, материнській компанії Google. Також конгломерат посилює інвестиції в будівельні компанії. Це свідчить про зростаючу довіру до технологічного сектору.",
+    "link": "https://www.hurriyetdailynews.com/berkshire-hathaway-boosts-size-of-its-stake-in-alphabet-225678",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2ed87be99242",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/easyjet-cabin-crew-strike-sees-100-french-flights-cancelled-225677",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "easyJet cabin crew strike sees 100 French flights cancelled",
+    "body_orig": "British budget carrier easyJet has called off about 100 flights out of French airports on Aug. 15-16 because of a strike by cabin crew furious over repeated changes to their schedules.",
+    "published": "2026-08-16T10:05:34",
+    "fetched": "2026-08-16T16:23:58.120846",
+    "title_uk": "easyJet скасував 100 рейсів з Франції через страйк бортпровідників",
+    "summary_uk": "Авіакомпанія easyJet скасувала близько 100 рейсів з французьких аеропортів 15-16 серпня через страйк бортпровідників. Причиною протесту стали часті зміни в розкладі. Страйк викликав значні незручності для пасажирів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "easyJet скасував 100 рейсів з Франції через страйк бортпровідників",
+    "summary": "Авіакомпанія easyJet скасувала близько 100 рейсів з французьких аеропортів 15-16 серпня через страйк бортпровідників. Причиною протесту стали часті зміни в розкладі. Страйк викликав значні незручності для пасажирів.",
+    "link": "https://www.hurriyetdailynews.com/easyjet-cabin-crew-strike-sees-100-french-flights-cancelled-225677",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f85582ff2d79",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/as-opel-turns-to-chinese-partners-its-hometown-frets-about-the-future-225676",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "As Opel turns to Chinese partners, its hometown frets about the future",
+    "body_orig": "Germany’s automotive industry is facing pressure from weak demand and fierce Chinese competition, prompting companies to cut jobs",
+    "published": "2026-08-16T10:02:40",
+    "fetched": "2026-08-16T16:23:58.120857",
+    "title_uk": "Opel шукає китайських партнерів на фоні конкуренції",
+    "summary_uk": "Німецька автомобільна промисловість стикається з проблемами через слабкий попит та конкуренцію з Китаю. Це змушує компанії, зокрема Opel, скорочувати робочі місця. Влада міст, де розташовані заводи, стурбована майбутнім.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання конкуренції з Китаю може вплинути на попит на автомобілі в Туреччині. Виробникам варто переглянути стратегії виходу на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Opel шукає китайських партнерів на фоні конкуренції",
+    "summary": "Німецька автомобільна промисловість стикається з проблемами через слабкий попит та конкуренцію з Китаю. Це змушує компанії, зокрема Opel, скорочувати робочі місця. Влада міст, де розташовані заводи, стурбована майбутнім.",
+    "link": "https://www.hurriyetdailynews.com/as-opel-turns-to-chinese-partners-its-hometown-frets-about-the-future-225676",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "10dddb684186",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/office-rents-in-istanbul-rise-13-percent-225667",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Office rents in Istanbul rise 13 percent",
+    "body_orig": "Prime office rents in Istanbul increased by 13 percent year over year, reaching $52 per square meter per month, according to a Cushman & Wakefield’s report.",
+    "published": "2026-08-16T07:20:18",
+    "fetched": "2026-08-16T16:23:58.120875",
+    "title_uk": "Орендна плата в Стамбулі зросла на 13%",
+    "summary_uk": "Орендна плата на первинні офісні приміщення в Стамбулі зросла на 13% у річному вимірі, досягнувши $52 за квадратний метр на місяць, згідно з звітом Cushman & Wakefield. Це свідчить про зростання попиту на комерційну нерухомість у місті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання орендної плати може вплинути на витрати на комерційні приміщення, що варто врахувати при плануванні бюджету. Рекомендується переглянути стратегії розміщення та витрат.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Орендна плата в Стамбулі зросла на 13%",
+    "summary": "Орендна плата на первинні офісні приміщення в Стамбулі зросла на 13% у річному вимірі, досягнувши $52 за квадратний метр на місяць, згідно з звітом Cushman & Wakefield. Це свідчить про зростання попиту на комерційну нерухомість у місті.",
+    "link": "https://www.hurriyetdailynews.com/office-rents-in-istanbul-rise-13-percent-225667",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "00d588f4419f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/hormuz-risks-raise-ceyhans-potential-as-global-oil-hub-225666",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Hormuz risks raise Ceyhan’s potential as global oil hub",
+    "body_orig": "Rising supply risks in the Strait of Hormuz are increasing the importance of alternative oil export routes, with Türkiye’s southern district of Ceyhan emerging as a potential hub for global crude oil and petroleum products trade.",
+    "published": "2026-08-16T07:16:49",
+    "fetched": "2026-08-16T16:23:58.120885",
+    "title_uk": "Цейхан стає потенційним хабом для глобальної торгівлі нафтою",
+    "summary_uk": "Зростання ризиків постачання в Ормузькій протоці підвищує значення альтернативних маршрутів експорту нафти. Туреччина, зокрема, район Цейхан, може стати важливим центром для торгівлі сирою нафтою та нафтопродуктами. Це відкриває нові можливості для міжнародної торгівлі.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Цейхан може стати важливим ринком для експорту нафтопродуктів. Розгляньте можливість виходу на нові ринки через цей хаб.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Цейхан стає потенційним хабом для глобальної торгівлі нафтою",
+    "summary": "Зростання ризиків постачання в Ормузькій протоці підвищує значення альтернативних маршрутів експорту нафти. Туреччина, зокрема, район Цейхан, може стати важливим центром для торгівлі сирою нафтою та нафтопродуктами. Це відкриває нові можливості для міжнародної торгівлі.",
+    "link": "https://www.hurriyetdailynews.com/hormuz-risks-raise-ceyhans-potential-as-global-oil-hub-225666",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8eb5a69f9c92",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-attracts-4-2-bln-in-fdi-in-january-june-225663",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye attracts $4.2 bln in FDI in January-June",
+    "body_orig": "Türkiye attracted $210 million in foreign direct investment (FDI) in June, bringing the total for the first half of the year to $4.2 billion, according to the International Investors Association (YASED).",
+    "published": "2026-08-16T07:11:08",
+    "fetched": "2026-08-16T16:23:58.120902",
+    "title_uk": "Туреччина залучила $4.2 млрд прямих іноземних інвестицій у першій половині 2026",
+    "summary_uk": "У червні Туреччина отримала $210 млн прямих іноземних інвестицій. Загалом за перше півріччя 2026 року інвестиції склали $4.2 млрд, згідно з даними Міжнародної асоціації інвесторів (YASED). Це свідчить про стабільний інтерес іноземних інвесторів до турецького ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Залучення іноземних інвестицій може свідчити про зростання попиту на продукцію в Туреччині. Розгляньте можливості для розширення виробництва.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина залучила $4.2 млрд прямих іноземних інвестицій у першій половині 2026",
+    "summary": "У червні Туреччина отримала $210 млн прямих іноземних інвестицій. Загалом за перше півріччя 2026 року інвестиції склали $4.2 млрд, згідно з даними Міжнародної асоціації інвесторів (YASED). Це свідчить про стабільний інтерес іноземних інвесторів до турецького ринку.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-attracts-4-2-bln-in-fdi-in-january-june-225663",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ff01b2ff33ce",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/yilin-ilk-yarisinda-23-1-milyon-varil-petrol-1-6-milyar-metrekup-dogal-gaz-uretildi/4028626",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Yılın ilk yarısında 23,1 milyon varil petrol, 1,6 milyar metreküp doğal gaz üretildi",
+    "body_orig": "Türkiye'nin yurt içi petrol üretimi, yılın ilk 6 ayında 23,1 milyon varile ulaşırken doğal gaz üretimi ise 1,6 milyar metreküpü aştı.",
+    "published": "2026-08-16T08:27:47",
+    "fetched": "2026-08-16T16:24:01.579304",
+    "title_uk": "Туреччина збільшила видобуток нафти та газу у першій половині року",
+    "summary_uk": "У Туреччині за перші шість місяців 2026 року видобули 23 млн барелів нафти та 1.6 млрд кубометрів газу. Ці показники свідчать про зростання внутрішнього виробництва енергоресурсів. Влада країни продовжує інвестувати в енергетичний сектор.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання видобутку може відкрити нові можливості для експорту турецьких енергоресурсів. Виробники, які планують вихід на нові ринки, повинні враховувати цю тенденцію.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина збільшила видобуток нафти та газу у першій половині року",
+    "summary": "У Туреччині за перші шість місяців 2026 року видобули 23 млн барелів нафти та 1.6 млрд кубометрів газу. Ці показники свідчать про зростання внутрішнього виробництва енергоресурсів. Влада країни продовжує інвестувати в енергетичний сектор.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/yilin-ilk-yarisinda-23-1-milyon-varil-petrol-1-6-milyar-metrekup-dogal-gaz-uretildi/4028626",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e9e56dc5f1aa",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bataryalar-gunes-enerjisindeki-uretimin-yuzde-34unu-gunessiz-saatlere-tasiyabilir/4028598",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bataryalar güneş enerjisindeki üretimin yüzde 34'ünü güneşsiz saatlere taşıyabilir",
+    "body_orig": "Dünyada bu yıl devreye alınması planlanan yeni batarya kapasitesi sayesinde güneş enerjisinden üretilen fazla elektriğin yüzde 34'ünün depolanarak güneşin olmadığı zamanlarda kullanılabileceği öngörülüyor.",
+    "published": "2026-08-16T08:02:02",
+    "fetched": "2026-08-16T16:24:01.579350",
+    "title_uk": "Нові батареї зможуть зберігати 34% надлишкової сонячної енергії",
+    "summary_uk": "Цього року у світі планується впровадження нових батарей, які зможуть зберігати 34% надлишкової електрики, виробленої з сонячної енергії. Це дозволить використовувати цю електрику в години, коли сонце не світить. Очікується, що нові технології значно підвищать ефективність використання сонячної енергії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників батарей, які шукають ринки в Україні, Польщі та Румунії. Вони можуть розглянути експорт своїх продуктів для задоволення зростаючого попиту.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Нові батареї зможуть зберігати 34% надлишкової сонячної енергії",
+    "summary": "Цього року у світі планується впровадження нових батарей, які зможуть зберігати 34% надлишкової електрики, виробленої з сонячної енергії. Це дозволить використовувати цю електрику в години, коли сонце не світить. Очікується, що нові технології значно підвищать ефективність використання сонячної енергії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bataryalar-gunes-enerjisindeki-uretimin-yuzde-34unu-gunessiz-saatlere-tasiyabilir/4028598",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6aa88fcfa7f2",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/profesii/cine-este-levente-t-th-cel-care-a-dezvoltat-veltol-holding-un-business-de-aproape-60-de-milioane-de-lei-pentru-automatizare-si-energie-regenerabila-23217811",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cine este Levente Tóth, cel care a dezvoltat Veltol Holding, un business  de aproape 60 de milioane de lei pentru  automatizare şi energie regenerabilă",
+    "body_orig": "",
+    "published": "2026-08-16T13:31:00",
+    "fetched": "2026-08-16T16:24:04.036280",
+    "title_uk": "Левенте Тот розвиває Veltol Holding у сфері автоматизації",
+    "summary_uk": "Левенте Тот заснував Veltol Holding, що спеціалізується на автоматизації та відновлювальній енергії. Бізнес оцінюється в близько 60 млн леїв. Компанія активно розвиває інноваційні рішення в цих сферах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Левенте Тот розвиває Veltol Holding у сфері автоматизації",
+    "summary": "Левенте Тот заснував Veltol Holding, що спеціалізується на автоматизації та відновлювальній енергії. Бізнес оцінюється в близько 60 млн леїв. Компанія активно розвиває інноваційні рішення в цих сферах.",
+    "link": "https://www.zf.ro/profesii/cine-este-levente-t-th-cel-care-a-dezvoltat-veltol-holding-un-business-de-aproape-60-de-milioane-de-lei-pentru-automatizare-si-energie-regenerabila-23217811",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "49380abb2c42",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/investitii-autostrazi-a7-a13-a3_968145.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "TABEL Cele mai mari investiții în autostrăzi de la începutul anului: A7 Focșani – Bacău, A13 Sibiu – Făgăraș și A3 Transilvania",
+    "body_orig": "Autostrada A7 Focșani - Bacău reprezintă proiectul de infrastructură rutieră în construcția căruia s-a investit cel mai mult în primele șapte luni ale anului. Mai exact, pentru autostrada pe care UMB trebuie să o termine în câteva zile, s-au efectuat plăți de 2,1 miliarde de lei. Vezi ce alte autostrăzi au atras cele mai mari finanțări de la începutul anului.",
+    "published": "2026-08-16T13:47:52",
+    "fetched": "2026-08-16T16:24:07.123824",
+    "title_uk": "Найбільші інвестиції в автодороги Румунії у 2026 році",
+    "summary_uk": "Автодорога A7 Фокшани - Бакеу отримала найбільше фінансування у 2026 році. Інвестиції склали €0.45 млрд. Проект має бути завершено найближчими днями. Інші автодороги також отримали значні кошти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Найбільші інвестиції в автодороги Румунії у 2026 році",
+    "summary": "Автодорога A7 Фокшани - Бакеу отримала найбільше фінансування у 2026 році. Інвестиції склали €0.45 млрд. Проект має бути завершено найближчими днями. Інші автодороги також отримали значні кошти.",
+    "link": "https://www.economica.net/investitii-autostrazi-a7-a13-a3_968145.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fe3e87ecd12f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ce-s-a-intamplat-la-bursa-de-la-bucuresti-in-ultima-saptamana-cate-miliarde-a-castigat-bvb-la-capitalizare-in-perioada-10-august-14-august-2026_968511.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce s-a întâmplat la Bursa de la Bucureşti în ultima săptămână – Câte miliarde a câştigat BVB la capitalizare în perioada 10 august – 14 august 2026",
+    "body_orig": "Bursa de Valori Bucureşti (BVB) a câştigat în această săptămână peste 13,5 miliarde de lei la capitalizare, în timp ce valoarea tranzacţiilor cu acţiuni a înregistrat un declin de aproape 24,5 milioane de lei, potrivit datelor publicate de BVB şi consultate de AGERPRES.",
+    "published": "2026-08-16T13:40:54",
+    "fetched": "2026-08-16T16:24:07.123833",
+    "title_uk": "Бухарестська біржа зросла на 13.5 млрд леїв за тиждень",
+    "summary_uk": "Біржа цінних паперів у Бухаресті зафіксувала приріст капіталізації на понад 13.5 млрд леїв. Водночас обсяг угод з акціями зменшився на майже 24.5 млн леїв. Ці дані оприлюднені біржею та підтверджені AGERPRES.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа зросла на 13.5 млрд леїв за тиждень",
+    "summary": "Біржа цінних паперів у Бухаресті зафіксувала приріст капіталізації на понад 13.5 млрд леїв. Водночас обсяг угод з акціями зменшився на майже 24.5 млн леїв. Ці дані оприлюднені біржею та підтверджені AGERPRES.",
+    "link": "https://www.economica.net/ce-s-a-intamplat-la-bursa-de-la-bucuresti-in-ultima-saptamana-cate-miliarde-a-castigat-bvb-la-capitalizare-in-perioada-10-august-14-august-2026_968511.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b5f51b93db79",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/14/iak-zminilasia-struktura-importu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Від домінування мінеральних продуктів до лідерства техніки та обладнання. Як змінилася структура імпорту?",
+    "body_orig": "У 2022 році найбільшою категорією імпорту були мінеральні продукти, а у 2025-му лідером стали машини, обладнання та електротехніка.",
+    "published": "2026-08-16T13:10:00",
+    "fetched": "2026-08-16T16:23:45.196458",
+    "title_uk": "Структура імпорту України змінилася: мінеральні продукти поступилися техніці",
+    "summary_uk": "У 2022 році мінеральні продукти були найбільшими імпортними категоріями в Україні. Проте до 2025 року лідерство перейшло до машин, обладнання та електротехніки. Це свідчить про зміни в економічних пріоритетах країни.",
+    "what_it_means": {
+      "ua_importer": "Зміна структури імпорту може вказувати на зростання попиту на техніку та обладнання. Імпортерам варто переглянути асортимент та зосередитися на нових технологіях.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в імпорті може вплинути на асортимент у ритейлі. Рекомендується переглянути категорії, пов'язані з технікою та обладнанням, для адаптації до нових трендів."
+    },
+    "tags": [
+      "імпорт",
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Структура імпорту України змінилася: мінеральні продукти поступилися техніці",
+    "summary": "У 2022 році мінеральні продукти були найбільшими імпортними категоріями в Україні. Проте до 2025 року лідерство перейшло до машин, обладнання та електротехніки. Це свідчить про зміни в економічних пріоритетах країни.",
+    "link": "https://ain.ua/2026/08/14/iak-zminilasia-struktura-importu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "15293b5e7608",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/14/golovne-z-rozmovi-z-artemom-morozom-z-brave1/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "В українському defense tech кожен долар працює вдесятеро ефективніше, ніж в інших країнах — головне з розмови з Артемом Морозом з Brave1",
+    "body_orig": "Валерія Іонан, інноваторка у сфері державного управління та бізнесу, у подкасті FORWARD with Valeriya Ionan поговорила з Артемом Морозом, керівником відділу по роботі з інвесторами Brave1.",
+    "published": "2026-08-16T12:40:22",
+    "fetched": "2026-08-16T16:23:45.196475",
+    "title_uk": "В українському defense tech ефективність інвестицій вища вдесятеро",
+    "summary_uk": "Валерія Іонан обговорила з Артемом Морозом з Brave1 ефективність українського ринку defense tech. Кожен долар інвестицій працює вдесятеро ефективніше, ніж в інших країнах. Це свідчить про високий потенціал для інвесторів у цій сфері.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В українському defense tech ефективність інвестицій вища вдесятеро",
+    "summary": "Валерія Іонан обговорила з Артемом Морозом з Brave1 ефективність українського ринку defense tech. Кожен долар інвестицій працює вдесятеро ефективніше, ніж в інших країнах. Це свідчить про високий потенціал для інвесторів у цій сфері.",
+    "link": "https://ain.ua/2026/08/14/golovne-z-rozmovi-z-artemom-morozom-z-brave1/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b5e3ee741a18",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/malenkii-kanal-na-youtube-ce-ne-virok-5-strategii-yaki-pracyuyut-u-2026-py1qoq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Маленький канал на YouTube — це не вирок: 5 стратегій, які працюють у 2026",
+    "body_orig": "Одне з найпоширеніших переконань серед українських підприємців і експертів, які думають про YouTube: «У мене маленький канал, мене ніхто не знайде». Але дані спростовують цей міф. Нові канали зараз на 30% частіше досягають 20 000 переглядів у перший місяць, ніж кілька років тому.",
+    "published": "2026-08-16T13:20:08",
+    "fetched": "2026-08-16T16:23:55.935792",
+    "title_uk": "Маленький YouTube-канал може приносити успіх: 5 стратегій для 2026",
+    "summary_uk": "Нові канали на YouTube частіше досягають 20 000 переглядів у перший місяць — на 30% більше, ніж раніше. Це спростовує міф про те, що маленький канал не має шансів на успіх. Підприємці можуть скористатися цими даними для розвитку своїх проектів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Маленький YouTube-канал може приносити успіх: 5 стратегій для 2026",
+    "summary": "Нові канали на YouTube частіше досягають 20 000 переглядів у перший місяць — на 30% більше, ніж раніше. Це спростовує міф про те, що маленький канал не має шансів на успіх. Підприємці можуть скористатися цими даними для розвитку своїх проектів.",
+    "link": "https://speka.ua/business/malenkii-kanal-na-youtube-ce-ne-virok-5-strategii-yaki-pracyuyut-u-2026-py1qoq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7d6a4e81169",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/kultovi-tekhniky-vizualnogo-merchendayizyngu-svitovykh-merezh/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Культові техніки візуального мерчендайзингу світових мереж та як їх втілити в українському ритейлі",
+    "body_orig": "П'ять культових VM-технік від Zara, IKEA, Rituals, H&amp;M і Decathlon та як вони працюють у будь-якому магазині. У колонці для RAU розповідає експертка з візуального мерчендайзингу та ритейл-дизайну Ольга Павлова.\nКоли говорять «вчитися у кращих» — це не про копіювання логотипу чи інтер'єру. Це про…",
+    "published": "2026-08-16T05:01:37",
+    "fetched": "2026-08-16T16:24:12.835283",
+    "title_uk": "Культові техніки візуального мерчендайзингу для українського ритейлу",
+    "summary_uk": "Експертка Ольга Павлова описала п'ять технік візуального мерчендайзингу від світових брендів, таких як Zara та IKEA. Вона підкреслює, що важливо не копіювати, а адаптувати ці підходи до українського ринку. Техніки можуть бути застосовані в будь-якому магазині для покращення продажів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Використовуйте техніки візуального мерчендайзингу для покращення викладки товарів. Це може підвищити залученість покупців і продажі."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Культові техніки візуального мерчендайзингу для українського ритейлу",
+    "summary": "Експертка Ольга Павлова описала п'ять технік візуального мерчендайзингу від світових брендів, таких як Zara та IKEA. Вона підкреслює, що важливо не копіювати, а адаптувати ці підходи до українського ринку. Техніки можуть бути застосовані в будь-якому магазині для покращення продажів.",
+    "link": "https://rau.ua/news/kultovi-tekhniky-vizualnogo-merchendayizyngu-svitovykh-merezh/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
