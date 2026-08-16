@@ -210879,5 +210879,285 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7db3bf57fffa",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Koniec-rachunkow-za-prad-opartych-na-prognozach-Miliony-nowych-licznikow-w-Polsce-9180303.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koniec rachunków za prąd opartych na prognozach? Miliony nowych liczników w Polsce",
+    "body_orig": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał umowy na 1 mld zł na zakup i montaż liczników zdalnego odczytu energii w gospodarstwach domowych i firmach w Polsce - poinformował Fundusz w poniedziałek. Dodał, że sfinansuje instalację niemal 5 mln takich liczników.",
+    "published": "2026-08-15T17:40:00",
+    "fetched": "2026-08-16T04:56:46.400743",
+    "title_uk": "Польща інвестує в нові лічильники електроенергії",
+    "summary_uk": "Національний фонд охорони навколишнього середовища Польщі уклав угоди на €220 млн для закупівлі та встановлення майже 5 млн лічильників з дистанційним зчитуванням енергії. Це дозволить покращити точність обліку споживання електроенергії в домогосподарствах та компаніях. Очікується, що нові лічильники зменшать залежність від прогнозів споживання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Встановлення нових лічильників може змінити попит на енергозберігаючі рішення. Розгляньте можливість пропозиції таких продуктів вашим клієнтам.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в обліку споживання електроенергії можуть вплинути на категорії товарів, пов'язані з енергозбереженням. Розгляньте оновлення асортименту відповідно до нових потреб споживачів."
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща інвестує в нові лічильники електроенергії",
+    "summary": "Національний фонд охорони навколишнього середовища Польщі уклав угоди на €220 млн для закупівлі та встановлення майже 5 млн лічильників з дистанційним зчитуванням енергії. Це дозволить покращити точність обліку споживання електроенергії в домогосподарствах та компаніях. Очікується, що нові лічильники зменшать залежність від прогнозів споживання.",
+    "link": "https://www.bankier.pl/wiadomosc/Koniec-rachunkow-za-prad-opartych-na-prognozach-Miliony-nowych-licznikow-w-Polsce-9180303.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "90c0b81db7ee",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wideo/dlaczego-wagyu-kosztuje-fortune-nawet-200-dol-za-funt-i-30-tys-dol-za-jedna-krowe/sd9k5m6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Dlaczego wagyu kosztuje fortunę? Nawet 200 dol. za funt i 30 tys. dol. za krowę",
+    "body_orig": "Wagyu to nie tylko luksusowy stek, ale cały rygorystycznie kontrolowany system hodowli, selekcji i sprzedaży. To właśnie długi tucz, kosztowna pasza, ograniczona podaż i ścisłe japońskie regulacje sprawiają, że ceny sięgają nawet 200 dol. za funt, a pojedyncze sztuki bydła kosztują dziesiątki tysięcy dolarów.",
+    "published": "2026-08-15T19:11:00",
+    "fetched": "2026-08-16T04:56:48.431151",
+    "title_uk": "Чому вагю коштує дорого: до $200 за фунт",
+    "summary_uk": "Вартість м'яса вагю досягає $200 за фунт через тривалий процес вирощування, дорогі корми та обмежену пропозицію. Японські регуляції також впливають на ціни. Окремі особини можуть коштувати до $30 тис.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Висока ціна вагю може вплинути на асортимент та ціноутворення у сегменті преміум-продуктів. Розгляньте можливість розширення пропозиції м'яса для HoReCa.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Вартість вагю може вплинути на позиціонування преміум-продуктів у ритейлі. Рекомендується переглянути асортимент та цінову політику для м'ясних категорій."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Чому вагю коштує дорого: до $200 за фунт",
+    "summary": "Вартість м'яса вагю досягає $200 за фунт через тривалий процес вирощування, дорогі корми та обмежену пропозицію. Японські регуляції також впливають на ціни. Окремі особини можуть коштувати до $30 тис.",
+    "link": "https://businessinsider.com.pl/wideo/dlaczego-wagyu-kosztuje-fortune-nawet-200-dol-za-funt-i-30-tys-dol-za-jedna-krowe/sd9k5m6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "42746c92eea8",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/sprzedaz-na-vinted-i-allegro-kiedy-fiskus-chce-pit-a-kiedy-dziala-zasada-6-miesiecy/hq5b5qb",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Sprzedaż na Vinted i Allegro: kiedy fiskus chce PIT, a kiedy działa zasada sześciu miesięcy",
+    "body_orig": "Sprzedajesz używane rzeczy w internecie? Nie zawsze musisz płacić podatek, ale kluczowe są szczegóły. Aktualna interpretacja skarbówki pokazuje, że liczy się moment sprzedaży i to, czy fiskus uzna ją za działalność gospodarczą. Sprawdź, kiedy możesz uniknąć podatku i na co zwrócić uwagę, by nie narazić się na nieprzyjemności.",
+    "published": "2026-08-15T18:32:00",
+    "fetched": "2026-08-16T04:56:48.431162",
+    "title_uk": "Податки на продаж в інтернеті: коли платити, а коли ні",
+    "summary_uk": "Польська податкова служба уточнила правила оподаткування продажу вживаних товарів онлайн. Ключовими факторами є момент продажу та його визнання як бізнес-діяльності. Це може вплинути на податкові зобов'язання продавців на платформах, таких як Vinted та Allegro.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистрибутори, які працюють з платформами для продажу вживаних товарів, повинні бути обережними з податковими зобов'язаннями своїх постачальників.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Податки на продаж в інтернеті: коли платити, а коли ні",
+    "summary": "Польська податкова служба уточнила правила оподаткування продажу вживаних товарів онлайн. Ключовими факторами є момент продажу та його визнання як бізнес-діяльності. Це може вплинути на податкові зобов'язання продавців на платформах, таких як Vinted та Allegro.",
+    "link": "https://businessinsider.com.pl/finanse/sprzedaz-na-vinted-i-allegro-kiedy-fiskus-chce-pit-a-kiedy-dziala-zasada-6-miesiecy/hq5b5qb",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aa2969af2cfc",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/morphosis-capital-tatoneaza-exitul-de-la-reteaua-de-imagistica-medima-si-de-la-stayfit-gym-unul-dintre-principalii-jucatorii-de-pe-piata-de-fitness-cine-ar-putea-fi-la-masa-de-partea-cumparatorului-23213086",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Morphosis Capital tatonează exitul de la reţeaua de imagistică Medima şi de la StayFit Gym, unul dintre principalii jucătorii de pe piaţa de fitness. Cine ar putea fi la masă de partea cumpărătorului?",
+    "body_orig": "Fondul de private equity Morphosis Capital, ale cărui baze au fost puse de patru executivi români, tatonează exitul de la reţeaua de imagistică Medima şi de la StayFit Gym, unul dintre principalii jucătorii de pe piaţa de fitness, spun sursele ZF din piaţă.",
+    "published": "2026-08-15T18:31:00",
+    "fetched": "2026-08-16T04:57:09.834237",
+    "title_uk": "Morphosis Capital розглядає вихід з Medima та StayFit Gym",
+    "summary_uk": "Фонд Morphosis Capital планує продати свої активи в мережі медичної діагностики Medima та фітнес-мережі StayFit Gym. Ці компанії є важливими гравцями на ринку Румунії. Інформація про потенційних покупців поки що не розголошена.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Morphosis Capital розглядає вихід з Medima та StayFit Gym",
+    "summary": "Фонд Morphosis Capital планує продати свої активи в мережі медичної діагностики Medima та фітнес-мережі StayFit Gym. Ці компанії є важливими гравцями на ринку Румунії. Інформація про потенційних покупців поки що не розголошена.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/morphosis-capital-tatoneaza-exitul-de-la-reteaua-de-imagistica-medima-si-de-la-stayfit-gym-unul-dintre-principalii-jucatorii-de-pe-piata-de-fitness-cine-ar-putea-fi-la-masa-de-partea-cumparatorului-23213086",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "92006fcb0f5e",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/catalin-gealapu-head-of-see-base-platforma-poloneza-administrarea-vanzarilor-online-comertul-online-devine-social-instant-interfata-tip-tiktok-livrarea-intr-ora-schimba-regulile-pietei-temu-23213069",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cătălin Gealapu, head of SEE la Base, platforma poloneză pentru administrarea vânzărilor online: Comerţul online devine social şi instant - interfaţa de tip TikTok şi livrarea într-o oră schimbă regulile pieţei. „Temu nu are o interfaţă de cumpărături, ci una de socializare“",
+    "body_orig": "Pe piaţa de comerţ online din România competiţia s-a mutat de pe terenul clasic - preţul şi mărimea catalogului – şi pe alte două planuri noi: experienţa de cumpărare şi viteza de livrare. Le împing jucători precum Temu, care au adus în magazinul online reţeta reţelelor sociale, şi cursa livrării în aceeaşi zi sau chiar în aceeaşi oră.",
+    "published": "2026-08-15T17:36:00",
+    "fetched": "2026-08-16T04:57:09.834258",
+    "title_uk": "Онлайн-торгівля в Румунії стає соціальною та миттєвою",
+    "summary_uk": "Конкуренція в румунському онлайн-торгівлі змістилася на нові рівні: досвід покупок та швидкість доставки. Компанії, як Temu, впроваджують елементи соціальних мереж і пропонують доставку в той же день або навіть за годину.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в досвіді покупок можуть вплинути на стратегії категорійного менеджменту. Розгляньте адаптацію до нових стандартів швидкості та взаємодії з покупцями."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Онлайн-торгівля в Румунії стає соціальною та миттєвою",
+    "summary": "Конкуренція в румунському онлайн-торгівлі змістилася на нові рівні: досвід покупок та швидкість доставки. Компанії, як Temu, впроваджують елементи соціальних мереж і пропонують доставку в той же день або навіть за годину.",
+    "link": "https://www.zf.ro/business-hi-tech/catalin-gealapu-head-of-see-base-platforma-poloneza-administrarea-vanzarilor-online-comertul-online-devine-social-instant-interfata-tip-tiktok-livrarea-intr-ora-schimba-regulile-pietei-temu-23213069",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7b2e475d5f4e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/avon-oriflame-magazine_967627.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce s-a ales de Avon și Oriflame: Cum au schimbat noile lanțuri de magazine felul în care româncele își cumpără cosmeticele",
+    "body_orig": "Epoca în care broșurile parfumate ale Avon și Oriflame circulau din mână în mână a lăsat loc noilor obiceiuri de consum ale tinerei generații, orientată tot mai mult spre testarea produselor la raft. În timp ce vânzările giganților din vânzări directe s-au prăbușit cu până la 47% față de vârful din 2018, lanțurile fizice de cosmetice precum dm, Sephora sau Douglas înregistrează afaceri record.",
+    "published": "2026-08-15T19:16:03",
+    "fetched": "2026-08-16T04:57:13.228415",
+    "title_uk": "Avon і Oriflame втрачають ринок через нові звички споживачів",
+    "summary_uk": "Продажі Avon і Oriflame впали на 47% з піку 2018 року через зміну споживчих звичок. Молодь віддає перевагу тестуванню косметики в магазинах, що призвело до рекордних продажів у мережах dm, Sephora та Douglas. Цей тренд змінює ринок косметики в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна споживчих звичок вимагає перегляду асортименту косметичних товарів. Рекомендується зосередитися на продуктах, які можна тестувати на місці."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Avon і Oriflame втрачають ринок через нові звички споживачів",
+    "summary": "Продажі Avon і Oriflame впали на 47% з піку 2018 року через зміну споживчих звичок. Молодь віддає перевагу тестуванню косметики в магазинах, що призвело до рекордних продажів у мережах dm, Sephora та Douglas. Цей тренд змінює ринок косметики в Румунії.",
+    "link": "https://www.economica.net/avon-oriflame-magazine_967627.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "211a73bb7055",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/geo-zamist-seo-castina-10-prosuvajemo-osobistii-brend-cerez-ai-posuk-pjz2x4",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "GEO замість SEO, частина 10: просуваємо особистий бренд через AI-пошук",
+    "body_orig": "Пошукова\nповедінка змінюється на очах. Рівень довіри користувача до відповіді, яку\nзібрав для нього Claude, ChatGPT або Perplexity, помітно вищий, ніж до першої\nсторінки класичної пошукової видачі. Логіка проста: не потрібно ходити по\nсайтах, продиратися крізь рекламу і самостійно порівнювати джерела – асистент\nуже все прочитав, відфільтрував і акуратно подав. Для тих, хто будує особистий\nбренд, це означає появу нового каналу просування – Generative Engine\nOptimization (GEO), оптимізації під генеративні пошукові системи.",
+    "published": "2026-08-15T20:01:34",
+    "fetched": "2026-08-16T04:56:59.150517",
+    "title_uk": "Просування особистого бренду через генеративний пошук",
+    "summary_uk": "Зростає довіра користувачів до відповідей, які надають AI-системи, такі як Claude та ChatGPT. Це відкриває нові можливості для просування особистого бренду через Generative Engine Optimization (GEO). Зміни в пошуковій поведінці вимагають адаптації стратегій маркетингу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо враховувати нові канали просування при плануванні маркетингових стратегій. GEO може стати важливим інструментом для залучення уваги до продуктів."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Просування особистого бренду через генеративний пошук",
+    "summary": "Зростає довіра користувачів до відповідей, які надають AI-системи, такі як Claude та ChatGPT. Це відкриває нові можливості для просування особистого бренду через Generative Engine Optimization (GEO). Зміни в пошуковій поведінці вимагають адаптації стратегій маркетингу.",
+    "link": "https://speka.ua/business/geo-zamist-seo-castina-10-prosuvajemo-osobistii-brend-cerez-ai-posuk-pjz2x4",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
