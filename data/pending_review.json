@@ -212075,5 +212075,685 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7b1cd66cd680",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Gdzie-banki-placa-najwiecej-Przygotowalismy-liste-najlepszych-lokat-i-kont-oszczednosciowych-9182478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Konto oszczędnościowe czy lokata? Promocyjnych ofert nie brakuje",
+    "body_orig": "Gdzie w sierpniu dostaniemy wyższy procent: na lokacie czy koncie oszczędnościowym? Najwyższe oferty na rynku sięgają od 5,50 proc. do 7,00 proc. w skali roku, ale w bezpośrednim starciu obu produktów w poszczególnych bankach padł remis. Prześwietlamy stawki i sprawdzamy, co bardziej opłaca się w każdej z instytucji.",
+    "published": "2026-08-17T05:00:00",
+    "fetched": "2026-08-17T05:04:26.618216",
+    "title_uk": "Вибір між ощадним рахунком та депозитом у Польщі",
+    "summary_uk": "У серпні ставки на ощадні рахунки та депозити в Польщі коливаються від 5,5% до 7% річних. У різних банках обидва продукти демонструють схожі умови, що ускладнює вибір для споживачів. Ринок пропонує різноманітні акційні пропозиції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Варто розглянути можливість розміщення вільних коштів на ощадних рахунках або депозитах для оптимізації фінансів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "фінанси",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Вибір між ощадним рахунком та депозитом у Польщі",
+    "summary": "У серпні ставки на ощадні рахунки та депозити в Польщі коливаються від 5,5% до 7% річних. У різних банках обидва продукти демонструють схожі умови, що ускладнює вибір для споживачів. Ринок пропонує різноманітні акційні пропозиції.",
+    "link": "https://www.bankier.pl/wiadomosc/Gdzie-banki-placa-najwiecej-Przygotowalismy-liste-najlepszych-lokat-i-kont-oszczednosciowych-9182478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5c7ca2d086b2",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/podatki-w-fundacji-rodzinnej-wzrosna-nowe-zasady-wieksze-obciazenia-od-2027-r/xf8m762",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zmiany w podatkach dla fundacji rodzinnych. \"To nie są kosmetyczne korekty\"",
+    "body_orig": "Ministerstwo Finansów proponuje podwyżki podatków w fundacji rodzinnej, ale też dużo więcej. Zmiany nie są kosmetyczne. Projekt daje też furtkę fundatorom, aby mogli wycofać się z niektórych decyzji bez strat.",
+    "published": "2026-08-17T04:25:00",
+    "fetched": "2026-08-17T05:04:28.585694",
+    "title_uk": "Польща планує підвищення податків для сімейних фондів",
+    "summary_uk": "Міністерство фінансів Польщі пропонує підвищення податків для сімейних фондів. Зміни не є косметичними і надають можливість засновникам відкликати деякі рішення без втрат. Очікується, що це вплине на фінансові стратегії фондів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на фінансування та інвестиції в польських дистриб'юторах, які працюють з сімейними фондами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польща планує підвищення податків для сімейних фондів",
+    "summary": "Міністерство фінансів Польщі пропонує підвищення податків для сімейних фондів. Зміни не є косметичними і надають можливість засновникам відкликати деякі рішення без втрат. Очікується, що це вплине на фінансові стратегії фондів.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/podatki-w-fundacji-rodzinnej-wzrosna-nowe-zasady-wieksze-obciazenia-od-2027-r/xf8m762",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e033c27bee1c",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/ceny-w-sklepach-znowu-spadaja-mamy-najnowsze-dane/8gjxs4c",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kolejny tydzień, kolejne obniżki. W sklepach coraz taniej [Koszyk zakupowy Business Insidera i aplikacji PanParagon]",
+    "body_orig": "Zakupy, które jeszcze w kwietniu kosztowały ponad 115 zł, dziś można zrobić za mniej niż 95 zł. Mamy nowe dane ze sklepów. Wynika z nich, że wciąż jest taniej niż nawet rok czy dwa lata temu.",
+    "published": "2026-08-17T04:17:00",
+    "fetched": "2026-08-17T05:04:28.585705",
+    "title_uk": "Ціни на продукти в Польщі знижуються",
+    "summary_uk": "Вартість покупок у польських магазинах зменшилася з понад 115 зл до менше 95 зл. Це свідчить про те, що ціни залишаються нижчими, ніж були рік чи два тому. Нові дані підтверджують тенденцію зниження цін на споживчі товари.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зниження цін може позитивно вплинути на обсяги продажів у дистрибутора. Рекомендується переглянути асортимент та акції для залучення покупців.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін може дозволити переглянути стратегії ціноутворення та акцій для категорій, що зазнають конкуренції. Рекомендується аналізувати дані для адаптації до ринкових умов."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на продукти в Польщі знижуються",
+    "summary": "Вартість покупок у польських магазинах зменшилася з понад 115 зл до менше 95 зл. Це свідчить про те, що ціни залишаються нижчими, ніж були рік чи два тому. Нові дані підтверджують тенденцію зниження цін на споживчі товари.",
+    "link": "https://businessinsider.com.pl/finanse/ceny-w-sklepach-znowu-spadaja-mamy-najnowsze-dane/8gjxs4c",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "920ee719cd17",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-po-zmianach-co-warto-wiedziec-przed-zlozeniem-wniosku-o-kredyt/ln51emn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Scoring po nowemu. To może wpłynąć na decyzję o przyznaniu ci kredytu",
+    "body_orig": "Biuro Informacji Kredytowej zmieniło zasady obliczania scoringu, czyli oceny punktowej. Zamiast jednego, teraz prezentuje trzy wskaźniki. Oto kluczowe informacje dla osób, które planują zaciągnięcie kredytu.",
+    "published": "2026-08-17T04:15:00",
+    "fetched": "2026-08-17T05:04:28.585715",
+    "title_uk": "Зміни в оцінці кредитного ризику в Польщі",
+    "summary_uk": "Бюро інформації кредитної історії Польщі оновило правила обчислення кредитного скорингу. Тепер замість одного показника представлено три. Це може вплинути на рішення банків щодо надання кредитів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни в кредитному скорингу можуть вплинути на фінансування закупівель. Дистриб'юторам слід враховувати нові критерії при плануванні кредитів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Зміни в оцінці кредитного ризику в Польщі",
+    "summary": "Бюро інформації кредитної історії Польщі оновило правила обчислення кредитного скорингу. Тепер замість одного показника представлено три. Це може вплинути на рішення банків щодо надання кредитів.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/scoring-bik-po-zmianach-co-warto-wiedziec-przed-zlozeniem-wniosku-o-kredyt/ln51emn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4084f397461",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/firmy/dla-firm/pracownicy-polskich-linii-lotniczych-lot-maja-dosc-firma-jest-zepsuta-do-szpiku-kosci/319fhw3",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Pracownicy LOT mają dość. \"Firma jest zepsuta do szpiku kości\"",
+    "body_orig": "Wśród pracowników Polskich Linii Lotniczych LOT narastają frustracja i niezadowolenie, a najnowsze decyzje kierownictwa tylko dolały oliwy do ognia. Kontrakty B2B zamiast umów o pracę, brak poczucia bezpieczeństwa, narastająca kontrola i \"dokręcanie śruby\", kuriozalne oszczędności, jak choćby w postaci koniecznej zgody dyrektora na... drukowanie w kolorze — to tylko niektóre z długiej litanii zarzutów. — Jeśli chodzi o relacje z pracownikami, firma jest zepsuta do szpiku kości — ocenia jeden z nich w rozmowie z Business Insider Polska.",
+    "published": "2026-08-17T03:59:00",
+    "fetched": "2026-08-17T05:04:28.585748",
+    "title_uk": "Працівники LOT незадоволені умовами праці",
+    "summary_uk": "У Польських Лініях Лотничих LOT зростає невдоволення серед працівників через нові рішення керівництва. Основні проблеми — перехід на контракти B2B, відсутність безпеки, посилення контролю та обмеження на друк. Один з працівників зазначив, що компанія має серйозні проблеми у відносинах з персоналом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Працівники LOT незадоволені умовами праці",
+    "summary": "У Польських Лініях Лотничих LOT зростає невдоволення серед працівників через нові рішення керівництва. Основні проблеми — перехід на контракти B2B, відсутність безпеки, посилення контролю та обмеження на друк. Один з працівників зазначив, що компанія має серйозні проблеми у відносинах з персоналом.",
+    "link": "https://businessinsider.com.pl/firmy/dla-firm/pracownicy-polskich-linii-lotniczych-lot-maja-dosc-firma-jest-zepsuta-do-szpiku-kosci/319fhw3",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c4470268f030",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/cena-promocyjna-z-aplikacja-prawa-konsumenta-nie-zawsze-interesuja-sprzedawcow/cstkehf",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Cena w aplikacji kusi, ale to nie wszystko. UOKiK pilnuje jeszcze jednej kwoty",
+    "body_orig": "Stosowanie cen promocyjnych uzależnionych od posiadania aplikacji mobilnej jest w pełni legalne. Pod warunkiem, że sprzedawca wyraźnie, czytelnie i uczciwie informuje o warunkach promocji oraz – w przypadku obniżek – podaje najniższą cenę z ostatnich 30 dni. Warunkiem jest brak wprowadzania konsumenta w błąd. To nie zawsze jest przestrzegane, a później także surowo karane przez UOKiK.",
+    "published": "2026-08-16T19:02:00",
+    "fetched": "2026-08-17T05:04:28.585762",
+    "title_uk": "Польща контролює ціни на промо-акції в мобільних додатках",
+    "summary_uk": "У Польщі УОКіК наголошує на законності використання промо-цін, пов'язаних з мобільними додатками, за умови чіткої інформації про умови акцій. Продавці зобов'язані вказувати найнижчу ціну за останні 30 днів. Порушення можуть призвести до штрафів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні забезпечити прозорість цін у своїх акціях, щоб уникнути санкцій від УОКіК.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Менеджери категорій повинні враховувати нові вимоги до промо-акцій, щоб уникнути штрафів і підтримувати довіру споживачів."
+    },
+    "tags": [
+      "регуляція",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща контролює ціни на промо-акції в мобільних додатках",
+    "summary": "У Польщі УОКіК наголошує на законності використання промо-цін, пов'язаних з мобільними додатками, за умови чіткої інформації про умови акцій. Продавці зобов'язані вказувати найнижчу ціну за останні 30 днів. Порушення можуть призвести до штрафів.",
+    "link": "https://businessinsider.com.pl/finanse/cena-promocyjna-z-aplikacja-prawa-konsumenta-nie-zawsze-interesuja-sprzedawcow/cstkehf",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "636fe0e54998",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/benzyna-znow-tansza-obwieszczenie-ministra-juz-obowiazuje-7319301027997888a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Benzyna znów tańsza. Obwieszczenie ministra już obowiązuje",
+    "body_orig": "Od 17 sierpnia na stacjach znów obowiązuje część pakietu Ceny Paliwa Niżej.  Zgodnie z piątkowym obwieszczeniem Ministra Energii w poniedziałek benzyna 95 kosztuje nie więcej niż 6,41 zł za litr, benzyna 98 - 7,20 zł/l, a olej napędowy - 7,37 zł/l.",
+    "published": "2026-08-17T04:01:31",
+    "fetched": "2026-08-17T05:04:32.032050",
+    "title_uk": "Ціни на бензин у Польщі знову знижуються",
+    "summary_uk": "З 17 серпня в Польщі знову діє частина пакету 'Ціни пального нижче'. Згідно з об'явою міністра енергетики, бензин 95 коштує не більше ніж 6,41 зл за літр, бензин 98 — 7,20 зл, а дизель — 7,37 зл за літр.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін на пальне може зменшити витрати на логістику. Розгляньте можливість перегляду цін на доставку товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на пальне може позитивно вплинути на витрати на транспортування товарів, що варто врахувати при формуванні цінової політики."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на бензин у Польщі знову знижуються",
+    "summary": "З 17 серпня в Польщі знову діє частина пакету 'Ціни пального нижче'. Згідно з об'явою міністра енергетики, бензин 95 коштує не більше ніж 6,41 зл за літр, бензин 98 — 7,20 зл, а дизель — 7,37 зл за літр.",
+    "link": "https://www.money.pl/gospodarka/benzyna-znow-tansza-obwieszczenie-ministra-juz-obowiazuje-7319301027997888a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f86b6c1b5b69",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/egenin-su-urunleri-ve-hayvansal-mamuller-ihracati-2-milyar-dolari-asti/4029001",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Ege'nin su ürünleri ve hayvansal mamuller ihracatı 2 milyar doları aştı",
+    "body_orig": "Ege Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği, son bir yıllık dönemde ihracatını yüzde13,5 artırarak 2 milyar 1 milyon dolara çıkardı.",
+    "published": "2026-08-16T21:07:12",
+    "fetched": "2026-08-17T05:04:44.255667",
+    "title_uk": "Експорт рибних продуктів з Туреччини перевищив 2 млрд доларів",
+    "summary_uk": "Об'єднання експортерів рибних продуктів і тваринних товарів Еге повідомило про зростання експорту на 14% за рік, досягнувши €2 млрд. Це свідчить про зростаючий попит на турецькі морепродукти на міжнародних ринках.",
+    "what_it_means": {
+      "ua_importer": "Зростання експорту рибних продуктів з Туреччини може створити нові можливості для українських імпортерів, які шукають якісні морепродукти.",
+      "pl_distributor": "Польські дистриб'ютори можуть розглянути можливість імпорту турецьких рибних продуктів, оскільки зростання експорту свідчить про їхню конкурентоспроможність.",
+      "tr_manufacturer": "Для турецьких виробників це сигнал про зростаючий попит на їхню продукцію, що може спонукати до розширення виробництв.",
+      "category_manager": "Зростання експорту рибних продуктів може вплинути на категорійні плани в ритейлі, варто переглянути асортимент і можливості співпраці з новими постачальниками."
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Експорт рибних продуктів з Туреччини перевищив 2 млрд доларів",
+    "summary": "Об'єднання експортерів рибних продуктів і тваринних товарів Еге повідомило про зростання експорту на 14% за рік, досягнувши €2 млрд. Це свідчить про зростаючий попит на турецькі морепродукти на міжнародних ринках.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/egenin-su-urunleri-ve-hayvansal-mamuller-ihracati-2-milyar-dolari-asti/4029001",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3064075a14c2",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/pib-ul-in-t2-si-s1-din-2026-economia-a-scazut-si-in-t2-dar-a-atins-fundul-gropii-si-in-t3-incepe-redresarea-23217807",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "PIB-ul în T2 şi S1 din 2026. Economia a scăzut şi în T2, dar a atins fundul gropii şi în T3 începe redresarea",
+    "body_orig": "Economia va rămâne cu greu pe plus în acest an, dar rece­siunea ce se prefigurează va fi una uşoară, ceea ce oferă o bază bună pentru o revenire de peste 2% în 2027.",
+    "published": "2026-08-16T21:08:00",
+    "fetched": "2026-08-17T05:04:47.291480",
+    "title_uk": "Румунська економіка зросте на 2% у 2027 році після легкого спаду",
+    "summary_uk": "Економіка Румунії зазнала незначного спаду у другому кварталі 2026 року, але очікується відновлення зростання на понад 2% у 2027 році. Це створює позитивні перспективи для бізнесу. Рецесія буде легкою, що дозволяє сподіватися на швидке відновлення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунська економіка зросте на 2% у 2027 році після легкого спаду",
+    "summary": "Економіка Румунії зазнала незначного спаду у другому кварталі 2026 року, але очікується відновлення зростання на понад 2% у 2027 році. Це створює позитивні перспективи для бізнесу. Рецесія буде легкою, що дозволяє сподіватися на швидке відновлення.",
+    "link": "https://www.zf.ro/banci-si-asigurari/pib-ul-in-t2-si-s1-din-2026-economia-a-scazut-si-in-t2-dar-a-atins-fundul-gropii-si-in-t3-incepe-redresarea-23217807",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d0d9e5699f03",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/castigat-au-trecut-ani-exporturi-carne-porc-romania-importuri-6-7-mld-euro-dupa-porcine-dispar-ovinele-exporturi-analist-economic-pierderea-reala-e-factura-import-ci-marja-valoare-adaugata-ramane-23217785",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cine are de câştigat? Au trecut nouă ani fără exporturi de carne de porc din România, dar cu importuri de 6,7 mld. euro. După porcine, dispar şi ovinele din exporturi? Analist economic: „Pierderea reală nu e factura de import, ci marja de valoare adăugată care rămâne în Danemarca, Germania sau Spania“.",
+    "body_orig": "A trecut deja o lună de când România nu a mai exportat nici măcar o oaie. La prima vedere, poate că nu pare o problemă. Numai că România este cel mai mare expor­ta­tor de ovine din UE şi are un efectiv de 10,75 mi­lioane de capete, al doilea ca mărime după Spania, iar piaţa internă nu consumă, potrivit datelor din 2025.",
+    "published": "2026-08-16T21:07:00",
+    "fetched": "2026-08-17T05:04:47.291492",
+    "title_uk": "Румунія не експортує овець, імпорт м'яса свиней зростає",
+    "summary_uk": "Румунія не експортує овець вже місяць, що викликає занепокоєння, адже країна є найбільшим експортером овечої продукції в ЄС. За дев'ять років імпорт м'яса свиней склав €6.7 млрд. Аналітики вказують на втрати у доданій вартості, яка залишається в інших країнах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення експорту овечої продукції може вплинути на ціни в рітейлі. Рекомендується переглянути асортимент та стратегії закупівель у категорії м'яса."
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Румунія не експортує овець, імпорт м'яса свиней зростає",
+    "summary": "Румунія не експортує овець вже місяць, що викликає занепокоєння, адже країна є найбільшим експортером овечої продукції в ЄС. За дев'ять років імпорт м'яса свиней склав €6.7 млрд. Аналітики вказують на втрати у доданій вартості, яка залишається в інших країнах.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/castigat-au-trecut-ani-exporturi-carne-porc-romania-importuri-6-7-mld-euro-dupa-porcine-dispar-ovinele-exporturi-analist-economic-pierderea-reala-e-factura-import-ci-marja-valoare-adaugata-ramane-23217785",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "68842859653c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/romania-genereaza-peste-600-mil-euro-pentru-operatorul-aerian-wizz-air-fiind-a-doua-cea-mai-importanta-piata-pentru-grupul-ungar-23217790",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "România generează peste 600 mil. euro pentru operatorul aerian Wizz Air, fiind a doua cea mai importantă piaţă pentru grupul ungar",
+    "body_orig": "România generează peste 600 de milioane de euro pentru operatorul aerian Wizz Air, cea mai mare companie aeriană care operează pe plan local. Piaţa locală reprezintă a doua cea mai importantă ţară pentru Wizz Air, după Italia.",
+    "published": "2026-08-16T21:07:00",
+    "fetched": "2026-08-17T05:04:47.291501",
+    "title_uk": "Румунія приносить Wizz Air понад €600 млн",
+    "summary_uk": "Wizz Air отримує більше €600 млн від румунського ринку, який є другим за важливістю після Італії. Це підтверджує зростання популярності авіаперевізника в Румунії. Компанія залишається лідером на місцевому ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія приносить Wizz Air понад €600 млн",
+    "summary": "Wizz Air отримує більше €600 млн від румунського ринку, який є другим за важливістю після Італії. Це підтверджує зростання популярності авіаперевізника в Румунії. Компанія залишається лідером на місцевому ринку.",
+    "link": "https://www.zf.ro/companii/romania-genereaza-peste-600-mil-euro-pentru-operatorul-aerian-wizz-air-fiind-a-doua-cea-mai-importanta-piata-pentru-grupul-ungar-23217790",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d9ea8e01f12",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-ponderea-investitorilor-cu-expunere-pe-etf-uri-locale-din-totalul-investitorilor-in-actiuni-a-crescut-de-patru-ori-in-sase-ani-ascensiunea-vine-si-cu-riscuri-23217792",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Finanţe personale. Ponderea investitorilor cu expunere pe ETF-uri locale din totalul investitorilor în acţiuni a crescut de patru ori în şase ani. Ascensiunea vine şi cu riscuri.",
+    "body_orig": "ETF-urile au câştigat rapid teren în rândul investitorilor români, susţinute recent de performanţele puternice ale Bursei de Valori Bucureşti, de creşterea numărului de participanţi la piaţa de capital şi de ritmul în care s-a diversificat oferta în ultimii ani.",
+    "published": "2026-08-16T21:07:00",
+    "fetched": "2026-08-17T05:04:47.291513",
+    "title_uk": "Зростання інтересу до ETF серед румунських інвесторів",
+    "summary_uk": "Частка інвесторів, які вкладають у місцеві ETF, зросла в чотири рази за шість років. Це пов'язано з успішними показниками ринку акцій Румунії та збільшенням кількості учасників. Також спостерігається розширення пропозиції ETF на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зростання інтересу до ETF серед румунських інвесторів",
+    "summary": "Частка інвесторів, які вкладають у місцеві ETF, зросла в чотири рази за шість років. Це пов'язано з успішними показниками ринку акцій Румунії та збільшенням кількості учасників. Також спостерігається розширення пропозиції ETF на ринку.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-ponderea-investitorilor-cu-expunere-pe-etf-uri-locale-din-totalul-investitorilor-in-actiuni-a-crescut-de-patru-ori-in-sase-ani-ascensiunea-vine-si-cu-riscuri-23217792",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a286ab925179",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/unde-vine-rezistenta-pietei-imobiliare-aproape-70-creditele-ipotecare-au-dobanda-fixa-diferite-perioade-romanii-prefera-predictibilitatea-serviciului-datoriei-ajustarea-ofertei-piata-situatia-s-23217795",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "De unde vine rezistenţa pieţei imobiliare: Aproape 70% din creditele ipotecare au dobânda fixă pe diferite perioade. Românii preferă predictibilitatea serviciului datoriei şi ajustarea ofertei din piaţă. Situaţia s-a inversat faţă de 2024, când 70% din ipotecare erau cu dobândă variabilă până la scadenţă.",
+    "body_orig": "Aproape 70% din creditele ipotecare aveau la finalul primului trimestru (T1) din acest an dobânda fixă pe diferite perioade, în timp ce mai puţin de o treime mai au dobândă variabilă de la acordare până la scadenţă, conform datelor BNR.",
+    "published": "2026-08-16T21:07:00",
+    "fetched": "2026-08-17T05:04:47.291524",
+    "title_uk": "Ринок іпотеки в Румунії: 70% кредитів з фіксованою ставкою",
+    "summary_uk": "На кінець першого кварталу 2026 року 70% іпотечних кредитів в Румунії мали фіксовану процентну ставку. Це свідчить про зміну вподобань споживачів, які обирають стабільність у виплатах. У 2024 році 70% кредитів були з плаваючою ставкою.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ринок іпотеки в Румунії: 70% кредитів з фіксованою ставкою",
+    "summary": "На кінець першого кварталу 2026 року 70% іпотечних кредитів в Румунії мали фіксовану процентну ставку. Це свідчить про зміну вподобань споживачів, які обирають стабільність у виплатах. У 2024 році 70% кредитів були з плаваючою ставкою.",
+    "link": "https://www.zf.ro/banci-si-asigurari/unde-vine-rezistenta-pietei-imobiliare-aproape-70-creditele-ipotecare-au-dobanda-fixa-diferite-perioade-romanii-prefera-predictibilitatea-serviciului-datoriei-ajustarea-ofertei-piata-situatia-s-23217795",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "16b1f96470b0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/rezerva-strategica-de-petrol-a-sua-a-scazut-la-cel-mai-redus-nivel-din-ultimele-patru-decenii_968565.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Rezerva strategică de petrol a SUA a scăzut la cel mai redus nivel din ultimele patru decenii",
+    "body_orig": "Rezerva Strategică de Petrol a Statelor Unite (SPR) a coborât sub 300 de milioane de barili pentru prima dată de la umplerea sa, la începutul anilor 1980, iar experţii avertizează că retragerile rapide de ţiţei ar putea afecta cavernele subterane în care sunt păstrate stocurile şi capacitatea sistemului de a răspunde viitoarelor crize energetice, transmite CNBC.",
+    "published": "2026-08-17T04:31:51",
+    "fetched": "2026-08-17T05:04:51.039472",
+    "title_uk": "Запаси нафти США досягли найнижчого рівня за 40 років",
+    "summary_uk": "Запаси стратегічної нафти США впали нижче 300 млн барелів вперше з 1980-х років. Експерти попереджають, що швидкі виведення нафти можуть пошкодити підземні сховища та знизити здатність реагувати на енергетичні кризи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Запаси нафти США досягли найнижчого рівня за 40 років",
+    "summary": "Запаси стратегічної нафти США впали нижче 300 млн барелів вперше з 1980-х років. Експерти попереджають, що швидкі виведення нафти можуть пошкодити підземні сховища та знизити здатність реагувати на енергетичні кризи.",
+    "link": "https://www.economica.net/rezerva-strategica-de-petrol-a-sua-a-scazut-la-cel-mai-redus-nivel-din-ultimele-patru-decenii_968565.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "447eaa8411dd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/esec-cu-repetitie-nimeni-nu-a-vrut-sa-cumpere-energie-electrica-in-banda-oferita-de-ce-oltenia-si-elcen-producatori-ai-statului-roman_968515.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Eşec cu repetiţie. Nimeni nu a vrut să cumpere energie electrică în bandă oferită de CE Oltenia şi ELCEN, producători ai statului român",
+    "body_orig": "Se întâmplă din nou. Nimeni nu a venit să cumpere energie cu livrare bandă în această iarnă și în tot anul viitor scoasă la vânzare de producătorii de stat CE Oltenia și ELCEN. Prețul cerut a fost prea mare.",
+    "published": "2026-08-16T18:13:56",
+    "fetched": "2026-08-17T05:04:51.039523",
+    "title_uk": "Ніхто не купив електроенергію від CE Oltenia та ELCEN",
+    "summary_uk": "У Румунії знову не вдалося продати електроенергію з державних компаній CE Oltenia та ELCEN. Пропозиція на зиму та наступний рік залишилася без покупців через занадто високу ціну. Це повторюється вже не вперше.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ніхто не купив електроенергію від CE Oltenia та ELCEN",
+    "summary": "У Румунії знову не вдалося продати електроенергію з державних компаній CE Oltenia та ELCEN. Пропозиція на зиму та наступний рік залишилася без покупців через занадто високу ціну. Це повторюється вже не вперше.",
+    "link": "https://www.economica.net/esec-cu-repetitie-nimeni-nu-a-vrut-sa-cumpere-energie-electrica-in-banda-oferita-de-ce-oltenia-si-elcen-producatori-ai-statului-roman_968515.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2b4b15b9cf10",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ce-efective-de-animale-mai-are-romania-s-au-pierdut-pana-la-40-din-animale-declinul-a-afectat-inclusiv-oile-si-caprele-date-ansvsa_967086.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "România a pierdut până la 40% din efectivele de animale în ultimii zece ani. Date ANSVSA",
+    "body_orig": "România a mai rămas cu 3,1 milioane de porci, efectivele scăzând cu peste 4% doar anul acesta, arată cele mai recente date din Baza Națională de Date, parte a Sistemului Național de Identificare și Înregistrare a Animalelor. Efectivele sunt cu peste 40% mai puține decât acum zece ani. Declinul se înregistrează și la vite, oi și capre.",
+    "published": "2026-08-16T18:11:30",
+    "fetched": "2026-08-17T05:04:51.039533",
+    "title_uk": "Румунія втратила 40% поголів'я тварин за 10 років",
+    "summary_uk": "В Румунії залишилось 3.1 млн свиней, що на 4% менше, ніж цього року. Загалом поголів'я тварин зменшилось більш ніж на 40% за останнє десятиліття. Зниження також стосується великої рогатої худоби, овець та кіз.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунія втратила 40% поголів'я тварин за 10 років",
+    "summary": "В Румунії залишилось 3.1 млн свиней, що на 4% менше, ніж цього року. Загалом поголів'я тварин зменшилось більш ніж на 40% за останнє десятиліття. Зниження також стосується великої рогатої худоби, овець та кіз.",
+    "link": "https://www.economica.net/ce-efective-de-animale-mai-are-romania-s-au-pierdut-pana-la-40-din-animale-declinul-a-afectat-inclusiv-oile-si-caprele-date-ansvsa_967086.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "285f2fa24ee0",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/alibaba-prodaje-svii-igrovii-biznes-za-15-mlrd-shhob-zosereditisya-na-stucnomu-intelekti-p6w2ew",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Alibaba продає свій ігровий бізнес за $1,5 млрд, щоб зосередитися на штучному інтелекті",
+    "body_orig": "Китайський технологічний гігант Alibaba позбавляється одного зі своїх великих неосновних активів. Компанія домовилася про продаж Lingxi Games, яка розробляє та видає мобільні ігри, азійській приватній інвестиційній компанії Trustar Capital.",
+    "published": "2026-08-17T04:59:43",
+    "fetched": "2026-08-17T05:04:37.592401",
+    "title_uk": "Alibaba продає ігровий бізнес за $1,5 млрд для інвестицій в AI",
+    "summary_uk": "Alibaba уклала угоду про продаж Lingxi Games, розробника мобільних ігор, за $1,5 млрд. Покупцем стала Trustar Capital, приватна інвестиційна компанія з Азії. Цей крок дозволить Alibaba зосередитися на розвитку штучного інтелекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Alibaba продає ігровий бізнес за $1,5 млрд для інвестицій в AI",
+    "summary": "Alibaba уклала угоду про продаж Lingxi Games, розробника мобільних ігор, за $1,5 млрд. Покупцем стала Trustar Capital, приватна інвестиційна компанія з Азії. Цей крок дозволить Alibaba зосередитися на розвитку штучного інтелекту.",
+    "link": "https://speka.ua/news/alibaba-prodaje-svii-igrovii-biznes-za-15-mlrd-shhob-zosereditisya-na-stucnomu-intelekti-p6w2ew",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
