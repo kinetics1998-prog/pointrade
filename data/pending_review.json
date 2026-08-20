@@ -223285,5 +223285,925 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "2b848402e967",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Najlepsze-kredyty-hipoteczne-ze-zmiennym-oprocentowaniem-sierpien-2026-9184300.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "„Można powiedzieć, że tanio”. Marże hipotek blisko wieloletnich minimów",
+    "body_orig": "Skończyły się czasy gwałtownych ruchów w cennikach hipotek ze zmiennym oprocentowaniem. W sierpniu stawki zmieniły dwa banki. Jeden w górę, jeden w dół. Patrząc na średni poziom można jednak powiedzieć, że propozycje są zdecydowanie bardziej atrakcyjne niż w poprzednich latach.",
+    "published": "2026-08-20T05:00:00",
+    "fetched": "2026-08-20T04:59:55.566061",
+    "title_uk": "Маржі по іпотеках у Польщі наближаються до мінімумів",
+    "summary_uk": "У серпні два банки змінили ставки по іпотеках: один підвищив, інший знизив. Загалом, середній рівень ставок став більш привабливим у порівнянні з попередніми роками. Це свідчить про стабілізацію ринку іпотечного кредитування.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження ставок може стимулювати попит на нерухомість, що позитивно вплине на продажі товарів для дому та ремонту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження ставок може підвищити попит на товари для ремонту та облаштування житла. Рекомендується переглянути асортимент у відповідних категоріях."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Маржі по іпотеках у Польщі наближаються до мінімумів",
+    "summary": "У серпні два банки змінили ставки по іпотеках: один підвищив, інший знизив. Загалом, середній рівень ставок став більш привабливим у порівнянні з попередніми роками. Це свідчить про стабілізацію ринку іпотечного кредитування.",
+    "link": "https://www.bankier.pl/wiadomosc/Najlepsze-kredyty-hipoteczne-ze-zmiennym-oprocentowaniem-sierpien-2026-9184300.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "48ea6ea3068f",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Specjalisci-potrzebni-od-zaraz-Mozna-zarobic-nawet-40-tys-zl-9184509.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Branża zaciska pasa, ale tym pracownikom płaci nawet 40 tys. zł",
+    "body_orig": "Wysokie koszty energii, globalna konkurencja i rosnące wymogi regulacyjne – to wyzwania z jakimi mierzy się obecnie branża chemiczna. Przekłada się to na rekrutację w tym sektorze. Pracodawcy poszukują głównie specjalistów z obszaru utrzymania ruchu, automatyki i jakości. Ich zarobki sięgają nawet 40 tys. zł.",
+    "published": "2026-08-20T05:00:00",
+    "fetched": "2026-08-20T04:59:55.566075",
+    "title_uk": "У польській хімічній промисловості зростають зарплати до 40 тис. злотих",
+    "summary_uk": "Польська хімічна промисловість стикається з високими витратами на енергію та глобальною конкуренцією. Це призвело до зростання зарплат для спеціалістів у сфері автоматизації, технічного обслуговування та контролю якості до 40 тис. злотих. Ринок праці в цій галузі стає більш конкурентоспроможним.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання зарплат може вплинути на витрати дистриб'юторів у хімічному секторі. Рекомендується переглянути ціни на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання зарплат може призвести до підвищення цін на хімічні товари. Розгляньте можливість коригування цінових стратегій."
+    },
+    "tags": [
+      "виробництво",
+      "регуляція",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У польській хімічній промисловості зростають зарплати до 40 тис. злотих",
+    "summary": "Польська хімічна промисловість стикається з високими витратами на енергію та глобальною конкуренцією. Це призвело до зростання зарплат для спеціалістів у сфері автоматизації, технічного обслуговування та контролю якості до 40 тис. злотих. Ринок праці в цій галузі стає більш конкурентоспроможним.",
+    "link": "https://www.bankier.pl/wiadomosc/Specjalisci-potrzebni-od-zaraz-Mozna-zarobic-nawet-40-tys-zl-9184509.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a71f48f20dbe",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/80-na-spokojnie-20-na-ryzyko-Ekspert-zdradza-sposob-na-portfel-ETF-9181818.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "80% na spokojnie, 20% na ryzyko. Ekspert zdradza sposób na portfel ETF",
+    "body_orig": "Inwestowanie w fundusze ETF zyskało ogromną popularność jako prosta, przejrzysta i tania forma długoterminowego pomnażania kapitału. Jednak nawet najlepsze narzędzie finansowe nie uchroni inwestora przed błędami behawioralnymi i brakiem konsekwencji. W odcinku programu „Wakacje na giełdzie” Michał Niewiadomski rozmawiał z Przemysławem Sepielakiem, dyrektorem ds. funduszy indeksowych w TFI PZU, o najważniejszych pułapkach czyhających na rynkach.",
+    "published": "2026-08-20T05:00:00",
+    "fetched": "2026-08-20T04:59:55.566085",
+    "title_uk": "80% на спокій, 20% на ризик: поради з ETF",
+    "summary_uk": "Інвестування в ETF стало популярним завдяки простоті та низьким витратам. Експерт Прzemysław Sepielak з TFI PZU обговорив основні помилки інвесторів. Він рекомендує розподіл 80% на стабільні активи та 20% на ризикові інвестиції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "80% на спокій, 20% на ризик: поради з ETF",
+    "summary": "Інвестування в ETF стало популярним завдяки простоті та низьким витратам. Експерт Прzemysław Sepielak з TFI PZU обговорив основні помилки інвесторів. Він рекомендує розподіл 80% на стабільні активи та 20% на ризикові інвестиції.",
+    "link": "https://www.bankier.pl/wiadomosc/80-na-spokojnie-20-na-ryzyko-Ekspert-zdradza-sposob-na-portfel-ETF-9181818.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d2eb1af3328",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nabor-z-dotacjami-trwa-wciaz-mozna-dostac-nawet-8000-zl-Jakie-warunki-trzeba-spelnic-9184535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nabór z dotacjami trwa, wciąż można dostać nawet 8000 zł. Co trzeba zrobić?",
+    "body_orig": "Właściciele domów mają wiele możliwości zdobycia dotacji. Wciąż mogą ubiegać się o dofinansowanie z programu „Mikroretencja” na przydomowe systemy gromadzenia i wykorzystania deszczówki. Każdy może dostać nawet 8000 zł, a do podziału są 173 mln zł. Jakie warunki trzeba spełnić, aby dostać finansowe wsparcie?",
+    "published": "2026-08-20T05:00:00",
+    "fetched": "2026-08-20T04:59:55.566096",
+    "title_uk": "Власники будинків можуть отримати до 8000 zł на системи збору дощової води",
+    "summary_uk": "Власники домів мають можливість отримати фінансування з програми 'Мікроутримання' для систем збору дощової води. Максимальна сума дотації становить 8000 zł, а загальний бюджет програми — 173 млн zł. Для отримання підтримки необхідно виконати певні умови.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Власники будинків можуть отримати до 8000 zł на системи збору дощової води",
+    "summary": "Власники домів мають можливість отримати фінансування з програми 'Мікроутримання' для систем збору дощової води. Максимальна сума дотації становить 8000 zł, а загальний бюджет програми — 173 млн zł. Для отримання підтримки необхідно виконати певні умови.",
+    "link": "https://www.bankier.pl/wiadomosc/Nabor-z-dotacjami-trwa-wciaz-mozna-dostac-nawet-8000-zl-Jakie-warunki-trzeba-spelnic-9184535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a6dab3f74fbc",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Gdzie-ulokowac-firmowe-nadwyzki-Oferta-dla-biznesu-daleko-za-ta-dla-klienta-indywidualnego-9184379.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Konta oszczędnościowe dla firm. Do 6,10% na start, ale wybór jest skromny",
+    "body_orig": "Podczas gdy klienci indywidualni przebierają w podwyższonych stawkach na kontach oszczędnościowych, na rynku dla biznesu banki są wyjątkowo powściągliwe w rozdawaniu profitów. Dedykowany rachunek lokacyjny dla firm to produkt deficytowy, a atrakcyjne promocje można policzyć na palcach jednej ręki.",
+    "published": "2026-08-20T05:00:00",
+    "fetched": "2026-08-20T04:59:55.566118",
+    "title_uk": "Обмежений вибір ощадних рахунків для бізнесу в Польщі",
+    "summary_uk": "На польському ринку ощадних рахунків для бізнесу спостерігається дефіцит. Лише кілька банків пропонують привабливі ставки, які досягають 6,1%. Багато компаній не можуть знайти вигідні умови для розміщення коштів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Обмежений вибір ощадних рахунків може вплинути на фінансове планування дистриб'юторів. Рекомендується розглянути альтернативні фінансові інструменти для оптимізації грошових потоків.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Обмежений вибір ощадних рахунків для бізнесу в Польщі",
+    "summary": "На польському ринку ощадних рахунків для бізнесу спостерігається дефіцит. Лише кілька банків пропонують привабливі ставки, які досягають 6,1%. Багато компаній не можуть знайти вигідні умови для розміщення коштів.",
+    "link": "https://www.bankier.pl/wiadomosc/Gdzie-ulokowac-firmowe-nadwyzki-Oferta-dla-biznesu-daleko-za-ta-dla-klienta-indywidualnego-9184379.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "50bd253f7786",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/budzet-w-potrzasku-zaplacimy-miliardy-za-ryzyko-inflacyjne-i-niestabilnosc-na-bliskim/dr1p6pn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Rynek stanął nad przepaścią\". Koszt obsługi długu przekroczy w tym roku ważną barierę",
+    "body_orig": "Nie tylko wojna w Iranie, droga ropa naftowa i obawy o wzrost inflacji. Do wzrostu rentowności, czyli przeceny, obligacji skarbowych dołącza nowy czynnik — konkurencja ze strony firm inwestujących w AI. Dla Polski oznacza wyraźny wzrost kosztów obsługi długu.",
+    "published": "2026-08-20T04:31:52",
+    "fetched": "2026-08-20T04:59:57.172750",
+    "title_uk": "Витрати на обслуговування боргу Польщі зростають через AI",
+    "summary_uk": "Витрати на обслуговування державного боргу Польщі зросли через конкуренцію з інвестиціями в AI. Зростання прибутковості облігацій стало новим фактором, що впливає на ринок. Це викликано не лише війною в Ірані та високими цінами на нафту, а й загрозою інфляції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на обслуговування боргу може вплинути на кредитні умови для дистриб'юторів. Рекомендується переглянути фінансові плани.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Витрати на обслуговування боргу Польщі зростають через AI",
+    "summary": "Витрати на обслуговування державного боргу Польщі зросли через конкуренцію з інвестиціями в AI. Зростання прибутковості облігацій стало новим фактором, що впливає на ринок. Це викликано не лише війною в Ірані та високими цінами на нафту, а й загрозою інфляції.",
+    "link": "https://businessinsider.com.pl/finanse/budzet-w-potrzasku-zaplacimy-miliardy-za-ryzyko-inflacyjne-i-niestabilnosc-na-bliskim/dr1p6pn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b98dabfc4216",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/glowny-inspektor-pracy-wydaje-pierwsze-interpretacje-nowe-zasady-dla-zlecen-i-b2b/1px88f5",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tak PIP podchodzi do zleceń i B2B. Siedem pierwszych interpretacji",
+    "body_orig": "Główny Inspektor Pracy korzysta z nowych uprawnień, jakie przysługują mu od 8 lipca i wydaje interpretacje indywidualne. Ocenia w nich, czy opisana we wniosku współpraca ma cechy stosunku pracy. Tłumaczymy, jakie wnioski płyną z siedmiu pierwszych takich interpretacji.",
+    "published": "2026-08-20T04:08:17",
+    "fetched": "2026-08-20T04:59:57.172780",
+    "title_uk": "Головний інспектор праці Польщі видає інтерпретації B2B",
+    "summary_uk": "Головний інспектор праці Польщі почав видавати індивідуальні інтерпретації щодо співпраці в B2B з 8 липня. Вони оцінюють, чи має співпраця ознаки трудового договору. Опубліковано сім перших інтерпретацій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні бути уважними до нових інтерпретацій, оскільки вони можуть вплинути на умови співпраці з постачальниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Головний інспектор праці Польщі видає інтерпретації B2B",
+    "summary": "Головний інспектор праці Польщі почав видавати індивідуальні інтерпретації щодо співпраці в B2B з 8 липня. Вони оцінюють, чи має співпраця ознаки трудового договору. Опубліковано сім перших інтерпретацій.",
+    "link": "https://businessinsider.com.pl/prawo/glowny-inspektor-pracy-wydaje-pierwsze-interpretacje-nowe-zasady-dla-zlecen-i-b2b/1px88f5",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c3bd0c28a4a8",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/podatki-2027-kto-zyska-a-kto-straci-na-propozycjach-rzadu-donalda-tuska/czg30eg",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rewolucja w PIT. Jedni się cieszą, a drudzy \"płacz i płać\"",
+    "body_orig": "Rząd zaproponował w środę zmiany w PIT i CIT. Maksymalny zysk ma wynieść 3600 zł rocznie, czyli 300 zł miesięcznie. Premier Donald Tusk nie wskazał jednak, ile więcej będą musieli zapłacić przedsiębiorcy, w tym ryczałtowcy. Przy okazji rząd może więcej zebrać ze składki zdrowotnej, na co zwracają uwagę eksperci.",
+    "published": "2026-08-20T04:04:00",
+    "fetched": "2026-08-20T04:59:57.172790",
+    "title_uk": "Польща пропонує зміни в податках на прибуток",
+    "summary_uk": "Уряд Польщі запропонував зміни в податках на прибуток для фізичних і юридичних осіб. Максимальний річний дохід, що підлягає оподаткуванню, становитиме 3 600 злотих, або 300 злотих на місяць. Прем'єр-міністр Дональд Туск не уточнив, як це вплине на підприємців, зокрема на тих, хто працює за спрощеною системою. Експерти вважають, що уряд може отримати більше від внесків на охорону здоров'я.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть призвести до підвищення податкового навантаження на підприємців, що вплине на ціни. Розгляньте коригування цін або структури витрат.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща пропонує зміни в податках на прибуток",
+    "summary": "Уряд Польщі запропонував зміни в податках на прибуток для фізичних і юридичних осіб. Максимальний річний дохід, що підлягає оподаткуванню, становитиме 3 600 злотих, або 300 злотих на місяць. Прем'єр-міністр Дональд Туск не уточнив, як це вплине на підприємців, зокрема на тих, хто працює за спрощеною системою. Експерти вважають, що уряд може отримати більше від внесків на охорону здоров'я.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/podatki-2027-kto-zyska-a-kto-straci-na-propozycjach-rzadu-donalda-tuska/czg30eg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "294e8a09fa3a",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/cyberprzestepcy-coraz-czesciej-wybieraja-polske-dane-check-point",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska wyprzedziła Wielką Brytanię i Szwajcarię. Niestety, nie w dobrym rankingu",
+    "body_orig": "Polskie organizacje mierzą się średnio z 1854 cyberatakami tygodniowo. To o 15 proc. więcej niż rok wcześniej – wynika z danych Check Point Research. To już więcej niż m.in. w Wielkiej Brytanii, Szwajcarii, Holandii czy Grecji, choć Polska nadal wypada lepiej od europejskiej średniej. Cyberprzestępcy najczęściej biorą na celownik administrację: instytucje rządowe odpierają około 3,4 tys. prób ataku tygodniowo.\nEuropejska średnia wynosi 2051 cyberataków tygodniowo na organizację. Polska jest więc nadal poniżej tego poziomu, ale wyprzedza pod względem liczby ataków m.in. Grecję z wynikiem 1638, Wielką Brytanię – 1597, Szwajcarię – 1489 i Holandię – 1467.\nZnacznie gorzej wygląda sytuacja we Włoszech, gdzie organizacja doświadcza przeciętnie 2755 ataków tygodniowo. Podium zajmują także Czechy (2671 takich prób) i Austria (2314).\nRząd pod szczególnie mocnym ostrzałem\nŚrednia dla całej Polski nie pokazuje, jak duże różnice występują między poszczególnymi branżami. Najmocniej atakowanym sektorem w kraju są instytucje rządowe – średnio 3408 prób tygodniowo na organizację.\nNa kolejnych miejscach znajdują się energetyka i sektor użyteczności publicznej z wynikiem 1875 oraz sektor dóbr i usług konsumpcyjnych – 1718. Firmy świadczące usługi biznesowe mierzą się średnio z 1539 atakami, sektor finansowy z 951, a przemysł z 479.\nPolski obraz wpisuje się w szerszy światowy trend. Globalnie najbardziej atakowana jest edukacja – na jedną organizację przypada średnio 4848 prób tygodniowo, o 14 proc. więcej niż przed rokiem.\nAdministracja publiczna zajmuje drugie miejsce z wynikiem 3044, a telekomunikacja trzecie – 2927. W energetyce liczba ataków wzrosła w ciągu roku o jedną piątą, natomiast w hotelarstwie, turystyce i rekreacji aż o 28 proc.\nRansomware rośnie, ale przestępcy zmieniają metodę\nJednym z największych zagrożeń jest ransomware, czyli atak polegający na wymuszaniu okupu. W II kwartale 2026 r. Check Point Research odnotował na świecie 2139 ujawnionych ofiar takich działań. To o 33 proc. więcej niż rok wcześniej. Jednocześnie do rekordowego poziomu wzrosła liczba aktywnych grup przestępczych. Obecnie jest ich 93, podczas gdy w 2025 r. było ich 71.\nSam model działania ransomware również się zmienia. Klasyczny scenariusz zakładał włamanie do systemu, zaszyfrowanie plików i żądanie pieniędzy za ich odblokowanie. Cyberprzestępcy coraz częściej rezygnują jednak z szyfrowania, koncentrując się na kradzieży danych, ich sprzedaży oraz szantażowaniu ofiary groźbą publikacji poufnych informacji.\nPowód jest częściowo ekonomiczny. Odsetek ofiar, które zgadzają się zapłacić okup, spadł z 85 proc. w 2019 r. do około 23 proc. obecnie. Mimo tego w 2025 r. płatności związane z ransomware przekroczyły 820 mln dolarów.\nAI obniża próg wejścia do cyberprzestępczości\nSztuczna inteligencja nie przejęła samodzielnie prowadzenia cyberataków, ale zaczyna zmieniać zaplecze przestępczego biznesu. Check Point Research opisuje przypadek grupy The Gentleman, która w ciągu trzech dni z p",
+    "published": "2026-08-19T20:58:30",
+    "fetched": "2026-08-20T04:59:58.167180",
+    "title_uk": "Польща лідирує за кількістю кіберзагроз серед європейських країн",
+    "summary_uk": "Польські організації зазнають в середньому 1854 кібернападів на тиждень, що на 15% більше, ніж торік. Найбільше атак зазнають державні установи — 3408 спроб на тиждень. Польща перевищує Великобританію, Швейцарію та Грецію, але залишається нижче європейської середньої — 2051 атак на тиждень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Для польських дистриб'юторів важливо посилити кібербезпеку, адже зростання атак може вплинути на стабільність бізнесу.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання кіберзагроз вимагає перегляду стратегій безпеки в ритейлі. Рекомендується інвестувати в захист даних та навчання персоналу."
+    },
+    "tags": [
+      "інвестиції",
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща лідирує за кількістю кіберзагроз серед європейських країн",
+    "summary": "Польські організації зазнають в середньому 1854 кібернападів на тиждень, що на 15% більше, ніж торік. Найбільше атак зазнають державні установи — 3408 спроб на тиждень. Польща перевищує Великобританію, Швейцарію та Грецію, але залишається нижче європейської середньої — 2051 атак на тиждень.",
+    "link": "https://300gospodarka.pl/news/cyberprzestepcy-coraz-czesciej-wybieraja-polske-dane-check-point",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bc40e170aa9e",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/szara-strefa-rosnie-legalny-rynek-papierosow-slabnie-budzetowi-zabraklo-miliardow-z-akcyzy",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Szara strefa rośnie, legalny rynek papierosów słabnie. Budżetowi zabrakło miliardów z akcyzy",
+    "body_orig": "Nielegalne papierosy znów zyskują udział w polskim rynku, legalna sprzedaż spada, a wpływy z akcyzy od wyrobów tytoniowych i nikotynowych są o ok. 3,5 mld zł niższe od planu – wynika z raportu Fundacji Laboratorium Prawa i Gospodarki. Autorzy oceniają, że szybkie podwyżki podatków i kolejne ograniczenia produktowe mogą dawać efekt odwrotny od zakładanego, jeśli państwo wprowadza je bez rzetelnej oceny wcześniejszych zmian.\nRaport „Ocena wpływu polityki akcyzowej i zakazów produktowych na rynek wyrobów tytoniowych oraz nikotynowych w Polsce” zaprezentowano 18 sierpnia w Warszawie podczas debaty z udziałem ekspertów od prawa, podatków i gospodarki. Publikację przygotowali prawnicy specjalizujący się w analizie wpływu regulacji na gospodarkę i przedsiębiorców.\nW centrum sporu jest prosta, ale ryzykowna logika: państwo podnosi akcyzę albo ogranicza dostęp do produktów, licząc na wyższe wpływy i mniejszą konsumpcję. Rynek nie zawsze reaguje zgodnie z takim założeniem. Część konsumentów nie rezygnuje z nałogu, tylko przenosi się poza legalny obieg.\nLegalny rynek słabnie, szara strefa rośnie\n„Akcyzowa mapa drogowa” obowiązywała w Polsce od 2022 roku. Był to przewidywalny harmonogram zmian podatkowych, który uzgodniły wspólnie administracja, przedsiębiorcy i plantatorzy. W tym okresie wpływy budżetowe z akcyzy rosły, a udział szarej strefy utrzymywał się na poziomie ok. 5 proc.\nTen układ zmienił się w 2024 r., gdy harmonogram został przełamany. Nowe stawki zaczęły obowiązywać w 2025 r. Wcześniej planowano podwyżkę akcyzy na papierosy o 10 proc., ale zamiast tego przyjęto podwyżkę aż o 25 proc. W przypadku tytoniu do palenia i wyrobów nowatorskich stawki wzrosły jeszcze mocniej.\nJak to wpłynęło na rynek? Autorzy raportu zwracają uwagę, że wtedy zaczęła rosnąć szara strefa. Badanie EPS pokazało, że w IV kwartale 2025 r. udział nielegalnych papierosów wyniósł 7,5 proc. Mniej więcej co trzynasty papieros pochodził spoza legalnego obrotu.\nW tym samym czasie budżet nie dostał tyle pieniędzy, ile zakładano. Planowane na 2025 r. wpływy z akcyzy od wyrobów tytoniowych i nikotynowych wynosiły ok. 37,1 mld zł. Wykonanie sięgnęło ok. 33,6 mld zł. Różnica wyniosła więc ok. 3,5 mld zł.\nA to nie jest drobna pozycja w państwowych finansach. Wpływy z akcyzy od wyrobów tytoniowych, wyrobów nowatorskich i płynu do e-papierosów odpowiadały w 2025 r. za ok. 6,35 proc. wszystkich dochodów podatkowych budżetu państwa.\nPaństwo ściga nielegalnych sprzedawców, ale problem wraca\nTo nie pierwszy raz, kiedy papierosy miały przynieść więcej pieniędzy z akcyzy. W latach 2011-2014 dochodziło do gwałtownych podwyżek akcyzy. Efekt? Nielegalne papierosy stanowiły około jedną piątą rynku. Ograniczenie tego zjawiska do ok. 5 proc. zajęło ponad dekadę.\nMimo że służby działają skutecznie, to szara strefa nadal rośnie. Tylko w zeszłym roku Krajowa Administracja Skarbowa (KAS) wykryła 27 nielegalnych fabryk. Przejęto ponad 184 mln papierosów bez akcyzy. Policja informowała o ujawnieniu kolejnyc",
+    "published": "2026-08-19T18:52:04",
+    "fetched": "2026-08-20T04:59:58.167231",
+    "title_uk": "Неlegalні папіроси в Польщі знову на підйомі",
+    "summary_uk": "Неlegalні папіроси в Польщі зросли до 7,5% ринку, тоді як легальна продаж зменшилась. Впливи з акцизу на тютюнові вироби в 2025 році не досягли запланованих €8.1 млрд, недоотримавши €0.75 млрд. Зростання акцизу на 25% призвело до збільшення тіньового ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання тіньового ринку може вплинути на обсяги продажів легальних папіросів. Розгляньте корекцію асортименту.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання частки неlegalних папіросів може вплинути на продажі легальних брендів. Рекомендується переглянути стратегії просування та ціноутворення."
+    },
+    "tags": [
+      "регуляція",
+      "податки",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Неlegalні папіроси в Польщі знову на підйомі",
+    "summary": "Неlegalні папіроси в Польщі зросли до 7,5% ринку, тоді як легальна продаж зменшилась. Впливи з акцизу на тютюнові вироби в 2025 році не досягли запланованих €8.1 млрд, недоотримавши €0.75 млрд. Зростання акцизу на 25% призвело до збільшення тіньового ринку.",
+    "link": "https://300gospodarka.pl/news/szara-strefa-rosnie-legalny-rynek-papierosow-slabnie-budzetowi-zabraklo-miliardow-z-akcyzy",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2dd6172da258",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/ponad-6-na-10-najemcow-mieszka-za-ciasno-gorzej-maja-tylko-w-rumunii",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ponad 6 na 10 najemców mieszka za ciasno. Gorzej mają tylko w Rumunii",
+    "body_orig": "Aż 61,6 proc. osób wynajmujących w Polsce mieszkania po cenach rynkowych żyje w lokalach uznawanych przez Eurostat za przeludnione – wynika z analizy Mzuri. Gorszy wynik w Unii Europejskiej ma tylko Rumunia. Polska mocno odstaje też od średniej unijnej, która wynosi 23,8 proc. Sytuacja stopniowo się poprawia, bo jeszcze kilkanaście lat temu problem zbyt małego mieszkania dotyczył ponad 7 na 10 polskich najemców.\nSkala zjawiska wymaga jednak ważnego wyjaśnienia. Eurostat nie mierzy przeludnienia według liczby metrów kwadratowych, lecz przede wszystkim według liczby pokoi przypadających na domowników. Według unijnych kryteriów jedna dorosła osoba powinna mieć do dyspozycji salon oraz oddzielną sypialnię.\nNawet kawalerka dla jednej osoby jest „przeludniona”\nEurostat zakłada, że poza pokojem wspólnym każda dorosła osoba lub para powinna mieć własną sypialnię. Dzieci mogą przez pewien czas dzielić pokój, zależnie od wieku i płci, ale po osiągnięciu pełnoletności powinny mieć już osobną przestrzeń.\nTakie kryterium mocno podnosi poprzeczkę dla polskiego rynku. Singiel wynajmujący kawalerkę nie spełnia europejskiego standardu, choć lokal może mieć wystarczający metraż dla jednej osoby.\nPodobnie rodzina z dwójką dzieci może potrzebować mieszkania trzy- lub czteropokojowego, aby nie zostać zakwalifikowana jako żyjąca w warunkach przeludnienia.\nTo istotne również dlatego, że mieszkania jednopokojowe są trwałym elementem polskiego zasobu. Według danych GUS przytoczonych przez Mzuri w 2011 r. stanowiły około 12 proc. wszystkich zamieszkanych lokali.\nPolska niemal na końcu europejskiej tabeli\nPod względem odsetka najemców mieszkających w za małych lokalach Polska zajmuje drugie miejsce w Unii Europejskiej. W 2025 r. wynik wyniósł 61,6 proc. Gorzej było tylko w Rumunii, gdzie odsetek sięgnął 68,9 proc.\nNieco lepiej wypadają inne kraje Europy Środkowo-Wschodniej: Łotwa (55,1 proc.), Słowacja (53,9 proc.), Chorwacja (51,6 proc.) i Bułgaria (51,5 proc.).\nRóżnica wobec zachodniej części Europy jest znacznie większa. W Niemczech problem dotyczy 18,3 proc. najemców, we Francji 18,6 proc., a w Holandii zaledwie 8,3 proc.\nŚrednia dla Unii Europejskiej wynosi 23,8 proc. Oznacza to, że udział najemców mieszkających w przeludnionych lokalach jest w Polsce ponad dwa i pół raza wyższy.\nMieszkań jest mało, ale ich standard rośnie\nPolska odstaje również pod względem liczby pokoi przypadających na mieszkańca. Według danych Eurostatu na jedną osobę przypada u nas średnio 1,2 pokoju, podczas gdy średnia unijna wynosi 1,7.\nZ drugiej strony poprawia się przeciętna powierzchnia mieszkaniowa. W 2025 r. na jednego mieszkańca Polski przypadało prawie 33 m² powierzchni użytkowej. Dekadę wcześniej było to 27 m², a w 2005 r. – 23,2 m². W ciągu dwudziestu lat przeciętna powierzchnia przypadająca na osobę zwiększyła się więc o niemal 10 m². Ta zmiana nie nastąpiła nagle. Warunki mieszkaniowe poprawiały się stopniowo wraz z budową nowych lokali i rozwojem istniejącego zasobu.\nTe same dane m",
+    "published": "2026-08-19T17:07:14",
+    "fetched": "2026-08-20T04:59:58.167262",
+    "title_uk": "61% орендарів у Польщі живе в переповнених квартирах",
+    "summary_uk": "61,6% орендарів у Польщі живе в квартирах, які Eurostat вважає переповненими. Це другий найгірший показник в ЄС після Румунії, де 68,9%. Середній показник по ЄС становить 23,8%. Поляки мають в середньому 1,2 кімнати на особу, що нижче європейського рівня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть очікувати зростання попиту на житло з кращими умовами, що може вплинути на ринок оренди.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання попиту на більші квартири може вплинути на категорії товарів для дому. Розгляньте можливість розширення асортименту для сімей з дітьми."
+    },
+    "tags": [
+      "ринок",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "61% орендарів у Польщі живе в переповнених квартирах",
+    "summary": "61,6% орендарів у Польщі живе в квартирах, які Eurostat вважає переповненими. Це другий найгірший показник в ЄС після Румунії, де 68,9%. Середній показник по ЄС становить 23,8%. Поляки мають в середньому 1,2 кімнати на особу, що нижче європейського рівня.",
+    "link": "https://300gospodarka.pl/news/ponad-6-na-10-najemcow-mieszka-za-ciasno-gorzej-maja-tylko-w-rumunii",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "93feb2c01b00",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/zmiany-w-podatkach-andrzej-domanski-spytany-o-mozliwe-weto-prezydenta-7320363821754560a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zmiany w podatkach. Andrzej Domański spytany o możliwe weto prezydenta",
+    "body_orig": "Minister finansów i gospodarki Andrzej Domański wyraził nadzieję, że prezydent Karol Nawrocki podpisze ustawę wprowadzającą pakiet zmian podatkowych, obejmujący m.in. podniesienie progu w PIT oraz nową stawkę 24 proc. Szef resortu ocenił, że projekt jest korzystny dla podatników i jednocześnie odpowiedzialny fiskalnie.",
+    "published": "2026-08-20T04:15:51",
+    "fetched": "2026-08-20T04:59:59.431590",
+    "title_uk": "Польща планує зміни в податковій системі",
+    "summary_uk": "Міністр фінансів Польщі Анджей Домаński сподівається на підписання президентом закону про зміни в податках. Серед нововведень — підвищення порогу в податку на доходи фізичних осіб та нова ставка 24%. Закон має позитивно вплинути на платників податків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на фінансові плани дистриб'юторів, оскільки підвищення порогу в податку може збільшити купівельну спроможність споживачів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польща планує зміни в податковій системі",
+    "summary": "Міністр фінансів Польщі Анджей Домаński сподівається на підписання президентом закону про зміни в податках. Серед нововведень — підвищення порогу в податку на доходи фізичних осіб та нова ставка 24%. Закон має позитивно вплинути на платників податків.",
+    "link": "https://www.money.pl/podatki/zmiany-w-podatkach-andrzej-domanski-spytany-o-mozliwe-weto-prezydenta-7320363821754560a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aaf02f8d9624",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/malgorzata-samborska/rzad-mowi-skorzystaja-miliony-polakow-ekspertka-tlumaczy-kto-jest-w-tej-grupie-7320216825161856a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd mówi: skorzystają miliony Polaków. Ekspertka tłumaczy, kto jest w tej grupie",
+    "body_orig": "To pierwsza od wielu lat tak istotna modyfikacja skali podatkowej. Ministerstwo Finansów argumentuje ją przede wszystkim wzrostem wynagrodzeń, który spowodował, że coraz większa liczba pracowników trafia do drugiego progu podatkowego. Kto zyska na planowanych zmianach i ile?",
+    "published": "2026-08-19T18:50:11",
+    "fetched": "2026-08-20T04:59:59.431621",
+    "title_uk": "Польща змінює податкову шкалу для працівників",
+    "summary_uk": "Уряд Польщі анонсував зміни в податковій шкалі, що пов'язані з ростом зарплат. Це призведе до збільшення кількості працівників, які потраплять до другого податкового порогу. Очікується, що мільйони польських громадян отримають вигоду від цих змін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на купівельну спроможність споживачів, що позитивно позначиться на продажах FMCG.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання доходів споживачів може стимулювати попит на певні категорії товарів. Рекомендується переглянути асортимент у зв'язку з можливим збільшенням витрат споживачів."
+    },
+    "tags": [
+      "податки",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща змінює податкову шкалу для працівників",
+    "summary": "Уряд Польщі анонсував зміни в податковій шкалі, що пов'язані з ростом зарплат. Це призведе до збільшення кількості працівників, які потраплять до другого податкового порогу. Очікується, що мільйони польських громадян отримають вигоду від цих змін.",
+    "link": "https://www.money.pl/podatki/malgorzata-samborska/rzad-mowi-skorzystaja-miliony-polakow-ekspertka-tlumaczy-kto-jest-w-tej-grupie-7320216825161856a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c7500d1be191",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/bitcoin-posts-biggest-daily-gain-since-march-ahead-of-white-house-crypto-meeting/4032191",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bitcoin posts biggest daily gain since March ahead of White House crypto meeting",
+    "body_orig": "Largest cryptocurrency rises 5.4% on Wednesday and 7.6% over past week as regulatory optimism boosts investor appetite",
+    "published": "2026-08-19T20:09:02",
+    "fetched": "2026-08-20T05:00:12.866469",
+    "title_uk": "Біткоїн демонструє найбільший щоденний приріст з березня",
+    "summary_uk": "Біткоїн зріс на 5.4% у середу та на 7.6% за тиждень. Оптимізм щодо регулювання криптовалют підвищує інтерес інвесторів. Зустріч у Білому домі може вплинути на подальші рішення в цій сфері.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Біткоїн демонструє найбільший щоденний приріст з березня",
+    "summary": "Біткоїн зріс на 5.4% у середу та на 7.6% за тиждень. Оптимізм щодо регулювання криптовалют підвищує інтерес інвесторів. Зустріч у Білому домі може вплинути на подальші рішення в цій сфері.",
+    "link": "https://www.aa.com.tr/en/economy/bitcoin-posts-biggest-daily-gain-since-march-ahead-of-white-house-crypto-meeting/4032191",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9922920642ae",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tekirdagli-ciftcinin-urunune-parsel-bazli-guvence/4032239",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Tekirdağlı çiftçinin ürününe parsel bazlı güvence",
+    "body_orig": "Tekirdağ'da çiftçiler, Tarım ve Orman Bakanlığınca bu yıl pilot olarak uygulamaya alınan \"Parsel Bazlı Verim Sigortası\" ile ürünlerini yangın ve doğal afetlerin yol açabileceği kayıplara karşı güvence altına alıyor.",
+    "published": "2026-08-19T21:14:46",
+    "fetched": "2026-08-20T05:00:14.209757",
+    "title_uk": "Фермери Текірдага отримують нову страховку для захисту врожаю",
+    "summary_uk": "У Текірдазі фермери почали використовувати нову програму 'Парсел Базли Верим Сигортасі', що забезпечує захист їхніх врожаїв від втрат через пожежі та природні катастрофи. Програма запроваджена Міністерством сільського господарства і лісового господарства Туреччини як пілотний проект цього року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця програма може стати прикладом для турецьких виробників, які шукають нові ринки в Україні, Польщі чи Румунії, адже забезпечення врожаю може підвищити довіру до продуктів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фермери Текірдага отримують нову страховку для захисту врожаю",
+    "summary": "У Текірдазі фермери почали використовувати нову програму 'Парсел Базли Верим Сигортасі', що забезпечує захист їхніх врожаїв від втрат через пожежі та природні катастрофи. Програма запроваджена Міністерством сільського господарства і лісового господарства Туреччини як пілотний проект цього року.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tekirdagli-ciftcinin-urunune-parsel-bazli-guvence/4032239",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6286d10b1679",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/toprak-mahsulleri-ofisi-kilogrami-140-liradan-hashas-tohumu-alacak/4032064",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Toprak Mahsulleri Ofisi kilogramı 140 liradan haşhaş tohumu alacak",
+    "body_orig": "Toprak Mahsulleri Ofisi (TMO), haşhaş tarımında sürdürülebilirliğin sağlanması ve üreticilerin korunması amacıyla kilogramı 140 liradan ilk defa haşhaş tohumu da alacak.",
+    "published": "2026-08-19T16:50:59",
+    "fetched": "2026-08-20T05:00:14.209786",
+    "title_uk": "Туреччина купуватиме насіння маку по 140 лір за кг",
+    "summary_uk": "Toprak Mahsulleri Ofisi вперше оголосила про закупівлю насіння маку за ціною 140 лір за кг. Це рішення спрямоване на підтримку сталого розвитку макової продукції та захист виробників. Закупівлі розпочнуться найближчим часом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії. Важливо врахувати цінову політику при виході на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина купуватиме насіння маку по 140 лір за кг",
+    "summary": "Toprak Mahsulleri Ofisi вперше оголосила про закупівлю насіння маку за ціною 140 лір за кг. Це рішення спрямоване на підтримку сталого розвитку макової продукції та захист виробників. Закупівлі розпочнуться найближчим часом.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/toprak-mahsulleri-ofisi-kilogrami-140-liradan-hashas-tohumu-alacak/4032064",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "944d26fcd3a3",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/techday/zf-tech-day-dorin-andreica-managing-director-soft-net-consulting-integrator-solutii-it-timisoara-inteligenta-artificiala-schimba-total-paradigma-digitalizarii-iar-erp-ul-ramane-nucleul-peste-23220300",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Tech Day. Dorin Andreica, managing director, Soft Net Consulting, integrator de soluţii IT din Timişoara: Inteligenţa artificială schimbă total paradigma digitalizării, iar ERP-ul rămâne doar nucleul peste care se construiesc rapid aplicaţii - „cumpărăm viteză - asta cumpărăm prin AI“",
+    "body_orig": "Inteligenţa artificială (AI) schimbă din temelii modul în care compa­niile îşi digitalizează procesele: sistemele clasice de tip ERP rămân nucleul, iar peste ele se dezvoltă acum rapid aplicaţii proprietare, construite pentru fiecare client. Este teza lui Dorin Andreica, managing director al Soft Net Consulting, integrator de soluţii de IT din Timişoara prezent în piaţă din 1999, pentru care principala schimbare adusă de inteli­genţa artificială se rezumă la un singur element - viteza.",
+    "published": "2026-08-19T21:07:00",
+    "fetched": "2026-08-20T05:00:15.964308",
+    "title_uk": "AI змінює підходи до цифровізації бізнесу в Румунії",
+    "summary_uk": "Дорін Андреіка, директор Soft Net Consulting, зазначив, що штучний інтелект суттєво змінює цифровізацію компаній. ERP-системи залишаються основою, але на їх базі швидко розробляються нові додатки для клієнтів. Основна перевага AI — це швидкість впровадження рішень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "AI змінює підходи до цифровізації бізнесу в Румунії",
+    "summary": "Дорін Андреіка, директор Soft Net Consulting, зазначив, що штучний інтелект суттєво змінює цифровізацію компаній. ERP-системи залишаються основою, але на їх базі швидко розробляються нові додатки для клієнтів. Основна перевага AI — це швидкість впровадження рішень.",
+    "link": "https://www.zf.ro/techday/zf-tech-day-dorin-andreica-managing-director-soft-net-consulting-integrator-solutii-it-timisoara-inteligenta-artificiala-schimba-total-paradigma-digitalizarii-iar-erp-ul-ramane-nucleul-peste-23220300",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4c025d99359b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/fabrica-remarul-16-februarie-din-cluj-napoca-a-finalizat-modernizarea-a-30-de-vagoane-pentru-cfr-calatori-23220521",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fabrica Remarul 16 Februarie din Cluj-Napoca a finalizat modernizarea a 30 de vagoane pentru CFR Călători",
+    "body_orig": "Fabrica Remarul 16 Februarie, cea mai veche fabrică din Cluj, înfiinţată în 1870, care construieşte şi repară material rulant feroviar, a finalizat modernizarea a 30 de vagoane pentru CFR Călători, un contract total de 235 mil.lei prin PNRR, câştigat  în  2023.",
+    "published": "2026-08-19T21:07:00",
+    "fetched": "2026-08-20T05:00:15.964328",
+    "title_uk": "Remarul 16 Februarie завершила модернізацію 30 вагонів для CFR Călători",
+    "summary_uk": "Фабрика Remarul 16 Februarie з Клуж-Напоки завершила модернізацію 30 вагонів для CFR Călători. Загальна вартість контракту становить €50 млн, фінансування здійснене через ПНРР. Це важливий крок для оновлення залізничного транспорту в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Remarul 16 Februarie завершила модернізацію 30 вагонів для CFR Călători",
+    "summary": "Фабрика Remarul 16 Februarie з Клуж-Напоки завершила модернізацію 30 вагонів для CFR Călători. Загальна вартість контракту становить €50 млн, фінансування здійснене через ПНРР. Це важливий крок для оновлення залізничного транспорту в Румунії.",
+    "link": "https://www.zf.ro/eveniment/fabrica-remarul-16-februarie-din-cluj-napoca-a-finalizat-modernizarea-a-30-de-vagoane-pentru-cfr-calatori-23220521",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "67ae88cd583c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cu-toata-cresterea-preturilor-actiunilor-de-la-bursa-discounturile-fostelor-sif-uri-raman-semnificative-intre-40-si-70-23220525",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Finanţe personale. Cu toată creşterea preţurilor acţiunilor de la bursă, discounturile fostelor SIF-uri rămân semnificative, între 40% şi 70%",
+    "body_orig": "În ultimii ani, investitorii au început să se uite mai atent la ce fac fondurile cu banii şi activele lor, de la răscumpărări şi dividende până la vânzarea unor participaţii şi schimbarea portofoliilor.",
+    "published": "2026-08-19T21:07:00",
+    "fetched": "2026-08-20T05:00:15.964338",
+    "title_uk": "Знижки на акції SIF залишаються на рівні 40-70%",
+    "summary_uk": "Інвестори звертають увагу на управління активами фондів, включаючи дивіденди та зміни в портфелях. Незважаючи на зростання цін на акції, знижки на акції колишніх SIF залишаються значними, до 70%. Це викликано зміною стратегій фондів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Знижки на акції SIF залишаються на рівні 40-70%",
+    "summary": "Інвестори звертають увагу на управління активами фондів, включаючи дивіденди та зміни в портфелях. Незважаючи на зростання цін на акції, знижки на акції колишніх SIF залишаються значними, до 70%. Це викликано зміною стратегій фондів.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-cu-toata-cresterea-preturilor-actiunilor-de-la-bursa-discounturile-fostelor-sif-uri-raman-semnificative-intre-40-si-70-23220525",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d2420b502d37",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/institutul-regional-de-oncologie-timisoara-o-investitie-de-317-mil-euro-intra-in-linie-dreapta-a-fost-semnat-contractul-de-finantare-23220531",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Institutul Regional de Oncologie Timişoara, o investiţie de 317 mil. euro, intră în linie dreaptă. A fost semnat contractul de finanţare",
+    "body_orig": "Institutul Regional de Oncologie Timişoara, ce va fi cel mai mare spital de profil din vestul ţării, o investiţie totală de 317 mil. euro din fonduri europene prin Programul Sănătate şi bugetul naţional, intră în linie dreaptă.",
+    "published": "2026-08-19T21:07:00",
+    "fetched": "2026-08-20T05:00:15.964348",
+    "title_uk": "В Тімішоарі розпочинається будівництво онкологічного інституту за €317 млн",
+    "summary_uk": "В Тімішоарі підписано контракт на фінансування Інституту Региональної Онкології. Загальна вартість проєкту становить €317 млн, з яких частина буде покрита з фондів ЄС та національного бюджету. Це буде найбільший онкологічний заклад у західній частині Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Тімішоарі розпочинається будівництво онкологічного інституту за €317 млн",
+    "summary": "В Тімішоарі підписано контракт на фінансування Інституту Региональної Онкології. Загальна вартість проєкту становить €317 млн, з яких частина буде покрита з фондів ЄС та національного бюджету. Це буде найбільший онкологічний заклад у західній частині Румунії.",
+    "link": "https://www.zf.ro/companii/institutul-regional-de-oncologie-timisoara-o-investitie-de-317-mil-euro-intra-in-linie-dreapta-a-fost-semnat-contractul-de-finantare-23220531",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dfed6ba6ac27",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/producatorul-de-filtre-de-aer-eversted-va-termina-noua-fabrica-in-prahova-la-finalul-lui-2026-23220533",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Producătorul de filtre de aer Eversted va termina noua fabrică în Prahova la finalul lui 2026",
+    "body_orig": "Investiţia în noua fabrică de filtre de aer realizată de compania românească Eversted în Mizil, Prahova, este în grafic şi producătorul estimează că la finalul acestui an va avea unitatea de producţie gata.",
+    "published": "2026-08-19T21:07:00",
+    "fetched": "2026-08-20T05:00:15.964357",
+    "title_uk": "Eversted завершить нову фабрику фільтрів у Румунії до кінця 2026",
+    "summary_uk": "Румунська компанія Eversted планує завершити будівництво нової фабрики фільтрів у Мізил, Прахова, до кінця 2026 року. Інвестиції в проект йдуть за графіком, і виробництво має розпочатися до кінця цього року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Eversted завершить нову фабрику фільтрів у Румунії до кінця 2026",
+    "summary": "Румунська компанія Eversted планує завершити будівництво нової фабрики фільтрів у Мізил, Прахова, до кінця 2026 року. Інвестиції в проект йдуть за графіком, і виробництво має розпочатися до кінця цього року.",
+    "link": "https://www.zf.ro/eveniment/producatorul-de-filtre-de-aer-eversted-va-termina-noua-fabrica-in-prahova-la-finalul-lui-2026-23220533",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fd8caa007c76",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/exclusive-ai-infrastructure-velatir-raises-e5m/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Exclusive: AI infrastructure startup Velatir raises €5m to accelerate AI adoption across Europe",
+    "body_orig": "",
+    "published": "2026-08-20T05:00:02",
+    "fetched": "2026-08-20T04:59:53.350094",
+    "title_uk": "Стартап Velatir залучив €5 млн для прискорення впровадження ШІ в Європі",
+    "summary_uk": "Стартап Velatir отримав €5 млн інвестицій для розвитку інфраструктури штучного інтелекту в Європі. Кошти будуть використані для прискорення впровадження технологій ШІ в різних галузях. Інвестори сподіваються на зростання попиту на рішення на базі ШІ в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стартап Velatir залучив €5 млн для прискорення впровадження ШІ в Європі",
+    "summary": "Стартап Velatir отримав €5 млн інвестицій для розвитку інфраструктури штучного інтелекту в Європі. Кошти будуть використані для прискорення впровадження технологій ШІ в різних галузях. Інвестори сподіваються на зростання попиту на рішення на базі ШІ в регіоні.",
+    "link": "https://sifted.eu/articles/exclusive-ai-infrastructure-velatir-raises-e5m/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0e4730730cd",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/19/airlogix-ta-finska-innokas/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Airlogix та фінська Innokas домовилися створити виробництво українських БпЛА у Фінляндії",
+    "body_orig": "Компанії підписали листа під час DALO Industry Days у Данії на стенді Airlogix в Українському павільйоні.",
+    "published": "2026-08-19T17:05:00",
+    "fetched": "2026-08-20T05:00:01.875363",
+    "title_uk": "Airlogix та Innokas запускають виробництво БпЛА у Фінляндії",
+    "summary_uk": "Airlogix та фінська компанія Innokas уклали угоду про створення виробництва безпілотників в Фінляндії. Підписання відбулося під час DALO Industry Days у Данії. Це співробітництво може сприяти розвитку українських технологій у сфері безпілотних літальних апаратів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Airlogix та Innokas запускають виробництво БпЛА у Фінляндії",
+    "summary": "Airlogix та фінська компанія Innokas уклали угоду про створення виробництва безпілотників в Фінляндії. Підписання відбулося під час DALO Industry Days у Данії. Це співробітництво може сприяти розвитку українських технологій у сфері безпілотних літальних апаратів.",
+    "link": "https://ain.ua/2026/08/19/airlogix-ta-finska-innokas/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
