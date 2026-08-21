@@ -226471,5 +226471,1085 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "530801b4170d",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Tysiace-firm-zapomnialy-lub-nie-wiedza-o-nowym-obowiazku-Zegar-tyka-Co-musza-zrobic-i-do-kiedy-maja-czas-9185082.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy zapomniały lub nie wiedzą o nowym obowiązku. Ile czasu im zostało?",
+    "body_orig": "Wprowadzona w Polsce w kwietniu ustawa o krajowym systemie cyberbezpieczeństwa (UKSC) obciążyła nowymi obowiązkami nie tylko podmioty publiczne, ale także firmy z 18 sektorów. Problem w tym, że wielu przedsiębiorców może o tym nie wiedzieć. Przepisy objęły ok. 11 tys. jednostek niepublicznych – i wciąż większość z nich nie wpisała się bo obowiązkowego wykazu. Do kiedy muszą to zrobić?",
+    "published": "2026-08-21T05:00:00",
+    "fetched": "2026-08-21T05:00:15.911868",
+    "title_uk": "Польські компанії зобов'язані дотримуватись нових норм кібербезпеки",
+    "summary_uk": "З квітня 2026 року в Польщі діє закон про національну систему кібербезпеки, який стосується 18 секторів. Близько 11 тис. приватних компаній повинні зареєструватись у обов'язковому реєстрі, але більшість з них цього ще не зробила. Термін для реєстрації наближається.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Компанії в Польщі повинні терміново зареєструватись у реєстрі, щоб уникнути штрафів. Рекомендується перевірити статус реєстрації.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські компанії зобов'язані дотримуватись нових норм кібербезпеки",
+    "summary": "З квітня 2026 року в Польщі діє закон про національну систему кібербезпеки, який стосується 18 секторів. Близько 11 тис. приватних компаній повинні зареєструватись у обов'язковому реєстрі, але більшість з них цього ще не зробила. Термін для реєстрації наближається.",
+    "link": "https://www.bankier.pl/wiadomosc/Tysiace-firm-zapomnialy-lub-nie-wiedza-o-nowym-obowiazku-Zegar-tyka-Co-musza-zrobic-i-do-kiedy-maja-czas-9185082.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "34a377f0051a",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Brakuje-50-tys-pracownikow-Bez-cudzoziemcow-moze-byc-jeszcze-gorzej-9184996.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "W tej branży brakuje 50 tys. pracowników. Pensje rosną, ale chętnych brak",
+    "body_orig": "Co najmniej 500 tys. osób w Polsce potrzebuje opieki długoterminowej, a już dziś w branży brakuje około 50 tys. opiekunów. Tylko w 2026 r. sektor może potrzebować 47,3 tys. nowych pracowników, a do 2035 r. zapotrzebowanie może sięgnąć 100 tys. osób. Branża ostrzega, że bez pracowników z zagranicy luka kadrowa będzie się pogłębiać, a ciężar opieki nad seniorami może spaść na ich rodziny.",
+    "published": "2026-08-21T05:00:00",
+    "fetched": "2026-08-21T05:00:15.911885",
+    "title_uk": "У Польщі не вистачає 50 тис. працівників у сфері догляду",
+    "summary_uk": "У Польщі потреба в довгостроковій опіці зростає, і вже зараз бракує 50 тис. опікунів. Очікується, що до 2026 року знадобиться ще 47 тис. нових працівників, а до 2035 року — 100 тис. Без імміграції ситуація погіршиться, і відповідальність за догляд може лягти на родини.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання потреби в опікунах може підвищити попит на продукти для догляду. Розгляньте можливість розширення асортименту в цій категорії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання попиту на послуги догляду може вплинути на категорії товарів для старших людей. Розгляньте можливість адаптації асортименту під нові потреби."
+    },
+    "tags": [
+      "ринок",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У Польщі не вистачає 50 тис. працівників у сфері догляду",
+    "summary": "У Польщі потреба в довгостроковій опіці зростає, і вже зараз бракує 50 тис. опікунів. Очікується, що до 2026 року знадобиться ще 47 тис. нових працівників, а до 2035 року — 100 тис. Без імміграції ситуація погіршиться, і відповідальність за догляд може лягти на родини.",
+    "link": "https://www.bankier.pl/wiadomosc/Brakuje-50-tys-pracownikow-Bez-cudzoziemcow-moze-byc-jeszcze-gorzej-9184996.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0a00fedd001",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/ETF-y-wchodza-na-nowy-poziom-Jak-zbudowac-portfel-na-lata-9184999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "ETF-y wchodzą na nowy poziom. Jak zbudować portfel na lata?",
+    "body_orig": "Jeszcze kilka lat temu polski inwestor, który chciał wykorzystać ETF-y do budowy swojego portfela, miał do wyboru zaledwie kilka możliwości. Dziś na warszawskiej giełdzie systematycznie pojawiają się nowe fundusze, rośnie liczba dostępnych klas aktywów, a ETF-y coraz mocniej przebijają się do świadomości inwestorów jako proste i relatywnie tanie narzędzie do długoterminowego inwestowania.",
+    "published": "2026-08-21T05:00:00",
+    "fetched": "2026-08-21T05:00:15.911896",
+    "title_uk": "Польські ETF стають популярнішими серед інвесторів",
+    "summary_uk": "На Варшавській фондовій біржі з'являється все більше ETF, що робить їх доступнішими для інвесторів. Кількість класів активів зростає, а ETF стають популярним інструментом для довгострокових інвестицій. Це свідчить про зміну інвестиційних звичок у Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності ETF може стимулювати інтерес до фінансових продуктів, які ви пропонуєте. Розгляньте можливість включення ETF у ваш асортимент.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські ETF стають популярнішими серед інвесторів",
+    "summary": "На Варшавській фондовій біржі з'являється все більше ETF, що робить їх доступнішими для інвесторів. Кількість класів активів зростає, а ETF стають популярним інструментом для довгострокових інвестицій. Це свідчить про зміну інвестиційних звичок у Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/ETF-y-wchodza-na-nowy-poziom-Jak-zbudowac-portfel-na-lata-9184999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "42fc84d08452",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-gotowkowych-sierpien-2026-r-Ranking-Bankier-pl-9184921.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Te banki pożyczą najtaniej. Sprawdzamy kredyty gotówkowe na 15 tys. zł",
+    "body_orig": "Prawie 5 pp. różnicy – taki rozrzut proponowanych stawek odnotowaliśmy w sierpniowym rankingu kredytów gotówkowych. To przekłada się, przy 15 tys. zł kredytu na 2 lata, nawet kilkadziesiąt złotych różnicy w racie.",
+    "published": "2026-08-21T05:00:00",
+    "fetched": "2026-08-21T05:00:15.911916",
+    "title_uk": "Різниця в ставках на кредити в Польщі досягає 5% ",
+    "summary_uk": "У серпневому рейтингу кредитів готівкою в Польщі виявлено різницю в ставках до 5%. Це означає, що при кредиті на €3.25 тис. на 2 роки, різниця в щомісячних платежах може становити десятки злотих. Пропозиції варіюються серед різних банків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Вибір банку для фінансування може вплинути на витрати. Рекомендується порівняти пропозиції для зниження фінансового навантаження.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "фінансування"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Різниця в ставках на кредити в Польщі досягає 5% ",
+    "summary": "У серпневому рейтингу кредитів готівкою в Польщі виявлено різницю в ставках до 5%. Це означає, що при кредиті на €3.25 тис. на 2 роки, різниця в щомісячних платежах може становити десятки злотих. Пропозиції варіюються серед різних банків.",
+    "link": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-gotowkowych-sierpien-2026-r-Ranking-Bankier-pl-9184921.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bcbb8e618dcb",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/ETF-y-na-GPW-bija-rekordy-Czy-naprawde-zmieniaja-sposob-w-jaki-Polacy-inwestuja-9184828.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "ETF-y na GPW biją rekordy. Czy naprawdę zmieniają sposób, w jaki Polacy inwestują?",
+    "body_orig": "W pierwszym półroczu 2026 r. obroty ETF-ami, ETC i ETN na warszawskiej giełdzie sięgnęły 3,44 mld zł i były wyższe niż w całym 2025 r. Rośnie też liczba dostępnych strategii. Michał Zaleski z GPW wyjaśnia w rozmowie Bankier TV, co ta zmiana oznacza dla inwestorów i gdzie za prostotą ETF-ów kryją się decyzje, których nie można pominąć.",
+    "published": "2026-08-21T05:00:00",
+    "fetched": "2026-08-21T05:00:15.911937",
+    "title_uk": "Обсяги торгів ETF на Варшавській біржі досягли рекорду",
+    "summary_uk": "У першій половині 2026 року обсяги торгів ETF, ETC та ETN на Варшавській біржі склали €0.73 млрд, перевищивши показники всього 2025 року. Зростає також кількість доступних інвестиційних стратегій. Це свідчить про зміну інвестиційних звичок поляків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності ETF може вплинути на попит на фінансові послуги та продукти, пов'язані з інвестиціями. Розгляньте можливість пропозиції нових інвестиційних продуктів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Обсяги торгів ETF на Варшавській біржі досягли рекорду",
+    "summary": "У першій половині 2026 року обсяги торгів ETF, ETC та ETN на Варшавській біржі склали €0.73 млрд, перевищивши показники всього 2025 року. Зростає також кількість доступних інвестиційних стратегій. Це свідчить про зміну інвестиційних звичок поляків.",
+    "link": "https://www.bankier.pl/wiadomosc/ETF-y-na-GPW-bija-rekordy-Czy-naprawde-zmieniaja-sposob-w-jaki-Polacy-inwestuja-9184828.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ed933c1409e5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/firmy/polska-kolej-pod-presja-rekordowej-frekwencji-pasazerowie-narzekaja/1h53ef8",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PKP ofiarą własnego sukcesu. Rekordowa popularność pociągów uwypukla problemy",
+    "body_orig": "Polska kolej mierzy się z konsekwencjami rosnącej popularności podróży pociągiem. Coraz większa liczba pasażerów w połączeniu z ekstremalnymi temperaturami odsłania słabości systemu — brakuje taboru, a punktualność systematycznie się pogarsza.",
+    "published": "2026-08-21T04:55:39",
+    "fetched": "2026-08-21T05:00:17.194318",
+    "title_uk": "Польська залізниця стикається з проблемами через зростання популярності",
+    "summary_uk": "Польська залізниця відчуває наслідки збільшення кількості пасажирів. В умовах високих температур система стикається з нестачею вагонів, а також погіршенням пунктуальності. Це викликано рекордним попитом на залізничні перевезення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання пасажиропотоку може призвести до збільшення попиту на продукти в поїздах. Розгляньте можливість співпраці з залізницею для постачання товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська залізниця стикається з проблемами через зростання популярності",
+    "summary": "Польська залізниця відчуває наслідки збільшення кількості пасажирів. В умовах високих температур система стикається з нестачею вагонів, а також погіршенням пунктуальності. Це викликано рекордним попитом на залізничні перевезення.",
+    "link": "https://businessinsider.com.pl/firmy/polska-kolej-pod-presja-rekordowej-frekwencji-pasazerowie-narzekaja/1h53ef8",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "56431af6478c",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/donald-tusk-zapowiada-rewolucje-w-cit-przedsiebiorcy-bija-na-alarm/frysk0f",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd ma szykować kolejne zmiany w CIT. Donald Tusk czeka na wyliczenia",
+    "body_orig": "Rząd szykuje w tym tygodniu kolejny pakiet zmian w podatku dochodowym od osób prawnych. Przedsiębiorcy alarmują, że podwyżka obciążeń uderzy w tempo rozwoju i plany inwestycyjne polskich firm.",
+    "published": "2026-08-21T04:35:10",
+    "fetched": "2026-08-21T05:00:17.194345",
+    "title_uk": "Польський уряд готує зміни в податку на прибуток для компаній",
+    "summary_uk": "Уряд Польщі планує новий пакет змін до податку на прибуток. Бізнес стурбований, що підвищення податкових обтяжень вплине на інвестиційні плани та темпи розвитку компаній. Очікується, що деталі змін будуть представлені найближчим часом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни в податковій політиці можуть вплинути на витрати дистриб'юторів, тому варто переглянути фінансові прогнози на найближчі квартали.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польський уряд готує зміни в податку на прибуток для компаній",
+    "summary": "Уряд Польщі планує новий пакет змін до податку на прибуток. Бізнес стурбований, що підвищення податкових обтяжень вплине на інвестиційні плани та темпи розвитку компаній. Очікується, що деталі змін будуть представлені найближчим часом.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/donald-tusk-zapowiada-rewolucje-w-cit-przedsiebiorcy-bija-na-alarm/frysk0f",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f26af52959e1",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/tak-zmienily-sie-stawki-po-wprowadzeniu-cpn-20/j6vtdtt",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Efekt CPN 2.0. Wiemy, jak zmieniły się stawki na stacjach",
+    "body_orig": "Na koniec wakacji rząd Donalda Tuska postanowił przywrócić program CPN, choć tym razem w trochę uboższej wersji. Wiemy, jak zmieniły się stawki. Benzyna 95 znów kosztuje poniżej 7 zł za litr, ale jest dużo drożej niż np. w czerwcu.",
+    "published": "2026-08-21T04:10:00",
+    "fetched": "2026-08-21T05:00:17.194355",
+    "title_uk": "Польща відновлює програму CPN з новими цінами на паливо",
+    "summary_uk": "Уряд Дональда Туска відновив програму CPN, але в спрощеній версії. Ціни на бензин 95 знову нижчі за 7 злотих за літр, хоча в порівнянні з червнем вони зросли. Зміни відбулися наприкінці літа.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміна цін на паливо може вплинути на витрати логістики. Розгляньте можливість коригування цін на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна цін на паливо може вплинути на витрати в категоріях, пов'язаних з доставкою. Рекомендується переглянути цінову політику."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща відновлює програму CPN з новими цінами на паливо",
+    "summary": "Уряд Дональда Туска відновив програму CPN, але в спрощеній версії. Ціни на бензин 95 знову нижчі за 7 злотих за літр, хоча в порівнянні з червнем вони зросли. Зміни відбулися наприкінці літа.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/tak-zmienily-sie-stawki-po-wprowadzeniu-cpn-20/j6vtdtt",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8aaaab9f6782",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/dino-zaskakuje-wynikami-finansowymi-siec-sklepow-rosnie-w-sile/jyh5red",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Klienci Dino w pół roku zostawili w sklepach 18 mld zł. Tyle z tego to \"czysty\" zysk",
+    "body_orig": "Ponad 700 mln zł zysku netto miała sieć sklepów Dino — wynika z podsumowania pierwszych sześciu miesięcy 2026 r. Najnowsze wyniki poszły w kierunku, którego nie spodziewali się analitycy. Liczba sklepów ciągle rośnie.",
+    "published": "2026-08-20T19:22:59",
+    "fetched": "2026-08-21T05:00:17.194391",
+    "title_uk": "Dino отримала понад 700 млн зиску за півроку",
+    "summary_uk": "Мережа магазинів Dino за перші шість місяців 2026 року отримала чистий прибуток понад 700 млн zł. Загалом клієнти витратили в магазинах 18 млрд zł. Кількість магазинів продовжує зростати, що перевищило очікування аналітиків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання кількості магазинів Dino може створити нові можливості для постачальників. Рекомендується переглянути асортимент для адаптації до потреб мережі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання Dino — це може вплинути на конкуренцію в ритейлі. Розгляньте можливість співпраці або адаптації продуктів до нових умов ринку."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Dino отримала понад 700 млн зиску за півроку",
+    "summary": "Мережа магазинів Dino за перші шість місяців 2026 року отримала чистий прибуток понад 700 млн zł. Загалом клієнти витратили в магазинах 18 млрд zł. Кількість магазинів продовжує зростати, що перевищило очікування аналітиків.",
+    "link": "https://businessinsider.com.pl/gielda/dino-zaskakuje-wynikami-finansowymi-siec-sklepow-rosnie-w-sile/jyh5red",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "06ab3ea43988",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/wydamy-19-bln-na-obronnosc-ile-zyska-na-tym-polska-gospodarka",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska wyda 1,9 bln zł na obronność. Jedna rzecz zdecyduje, ile zyska gospodarka",
+    "body_orig": "Polska wydatki na obronność wyniosą 1,9 bln zł w latach 2025-2035 – ponad dwa razy więcej niż w poprzedniej dekadzie. Same wysokie wydatki nie gwarantują jednak równie dużych korzyści dla krajowej gospodarki. Według ekonomistów wiele zależy od tego, ile sprzętu powstanie w Polsce, jak duży będzie udział krajowych firm i czy zagraniczne kontrakty przyniosą transfer technologii. Obecnie większość zakupów zbrojeniowych pochodzi z importu.\nW samym 2026 r. Polska ma wydać na obronność 200 mld zł. To trzykrotnie więcej niż przed wybuchem wojny w Ukrainie. Pod względem udziału wydatków obronnych w PKB kraj znajduje się w czołówce NATO.\n– Jesteśmy liderem w NATO pod względem udziału wydatków w PKB, ale nie jesteśmy nim w zakresie eksportu naszych własnych wyrobów i wykorzystania umów kooperacyjnych na rzecz polskiej gospodarki – mówi prof. Paweł Wojciechowski, główny ekonomista Business Centre Club.\n1,9 bln zł na obronność w ciągu dekady\nSkala przyszłych wydatków jest ogromna. Według szacunków Deloitte’a z ubiegłego roku w latach 2025-2035 Polska przeznaczy na obronność łącznie 1,9 bln zł. Dla porównania w latach 2014-2024 było to 825 mld zł.\nZmieni się jednak struktura wojskowego budżetu. Obecnie niemal połowa trafia na modernizację, czyli przede wszystkim zakup nowego sprzętu oraz badania i rozwój. W kolejnych latach udział tej części ma spaść do około jednej trzeciej.\nRosnąć będą natomiast koszty utrzymania armii i personelu, które mają odpowiadać za prawie 45 proc. wydatków. Deloitte szacuje, że w ciągu dekady wynagrodzenia, emerytury i renty wojskowe pochłoną 719 mld zł. Na nowy sprzęt oraz badania i rozwój przypadnie 503 mld zł, a na infrastrukturę wojskową 111 mld zł.\n– Jest to strukturalna zmiana budżetowa. Już nie będzie możliwości cięcia wydatków. Każdy kupiony sprzęt ma cykl życia 40-50 lat. Trzeba go utrzymywać, modernizować, a do tego również potrzebni będą ludzie, którzy muszą zostać przeszkoleni. Udział wydatków w PKB nie będzie spadał – wyjaśnia prof. Paweł Wojciechowski.\nWiększość sprzętu nadal przyjeżdża z zagranicy\nZ punktu widzenia gospodarki znaczenie ma przede wszystkim to, gdzie trafiają pieniądze z zamówień. Deloitte szacuje, że około 40 proc. zakupów zbrojeniowych zostanie fizycznie zrealizowanych w Polsce. Zatem większość nadal będzie stanowić import.\nPKO BP ocenia z kolei, że do 2035 r. Polska wyda na sam sprzęt wojskowy ponad 640 mld zł.\nIm większy udział zagranicznych dostawców, tym mniejsza część wielkiego programu modernizacji zasila produkcję, płace, zyski i inwestycje polskich przedsiębiorstw. Ekonomiści określają to mianem importochłonności – chodzi po prostu o część wydatków, która odpływa za granicę wraz z zakupem importowanych produktów i usług.\n– Krajowa wartość dodana może się pojawić tylko wtedy, kiedy spadnie udział importochłonności. Wzrośnie udział badań i rozwoju w firmach przemysłu obronnego, które będą generować wyższą wartość dodaną, czyli wyższe płace i zyski. Ten punkt nie jest dzisiaj objęty jakimkolwiek ",
+    "published": "2026-08-20T21:56:22",
+    "fetched": "2026-08-21T05:00:18.002289",
+    "title_uk": "Польща планує витрати на оборону в розмірі €1.9 трлн до 2035 року",
+    "summary_uk": "Польща збільшить витрати на оборону до €1.9 трлн у 2025-2035 роках, що вдвічі більше, ніж у попередній декаді. У 2026 році заплановано витратити €44 млрд, що втричі більше, ніж до війни в Україні. Основна частина закупівель все ще буде імпортною, що вплине на економічні вигоди для країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на оборону може створити нові можливості для постачання товарів і послуг, пов'язаних із військовою сферою.",
+      "tr_manufacturer": "Якщо ви плануєте вихід на польський ринок, зростання витрат на оборону може відкрити нові можливості для постачання техніки та послуг.",
+      "category_manager": "Зміна структури витрат на оборону може вплинути на попит на певні категорії товарів, пов'язаних із безпекою та обороною."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща планує витрати на оборону в розмірі €1.9 трлн до 2035 року",
+    "summary": "Польща збільшить витрати на оборону до €1.9 трлн у 2025-2035 роках, що вдвічі більше, ніж у попередній декаді. У 2026 році заплановано витратити €44 млрд, що втричі більше, ніж до війни в Україні. Основна частина закупівель все ще буде імпортною, що вплине на економічні вигоди для країни.",
+    "link": "https://300gospodarka.pl/news/wydamy-19-bln-na-obronnosc-ile-zyska-na-tym-polska-gospodarka",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "902c51dcf23c",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/tranzyt-zboza-moglby-dac-polsce-miliony-branza-mowi-ze-blokuja-go-procedury",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tranzyt zboża mógłby dać Polsce miliony. Branża mówi, że blokują go procedury",
+    "body_orig": "Tranzyt ukraińskiego zboża przez Polskę mógłby być znacznie większy, ale według Laude Smart Intermodal ograniczają go procedury na granicy i terminalach. Chodzi m.in. o sposób przeładunku kontenerów z wagonów szerokotorowych na normalnotorowe. Polska mogłaby na tym sporo zarobić, ale wymagałoby to zmiany przepisów.\nFirma przekonuje, że zmiana zasad przeładunku i kilku powiązanych procedur mogłaby zwiększyć przepustowość pojedynczego terminala z ok. 30 tys. do ok. 300 tys. ton miesięcznie. Stawką są pieniądze dla kolei, portów, firm logistycznych i budżetu państwa, a także udział Polski w rynku, który dziś w dużej mierze przejmują inne kierunki.\nUkraiński eksport żywności szuka alternatywnych tras. Niski stan Dunaju oraz systematyczne niszczenie ukraińskiej infrastruktury portowej zwiększają zainteresowanie przewozami kolejowymi. Z geograficznego punktu widzenia jedną z najkrótszych dróg do portów, z których zboże mogłoby płynąć dalej w świat, są polskie porty bałtyckie.\nProblem polega na tym, że – według przedstawicieli Laude Smart Intermodal – polski system obsługi tranzytu nie pozwala wykorzystać tej szansy. Część ładunków trafia więc do portów rumuńskich, a dalej także nad Adriatyk.\n„Moglibyśmy wozić wielokrotnie więcej”\nNajwięcej emocji budzi przeładunek kontenerów ze zbożem. Ukraińskie wagony jadą po szerokim torze, a dalej w Polsce potrzebne są wagony normalnotorowe, czyli dostosowane do europejskiego rozstawu szyn. Laude przekonuje, że obecne zasady utrudniają sprawne zdjęcie kontenera z jednego wagonu, odstawienie go na plac terminalowy i późniejszy załadunek na najbliższy pociąg jadący do portu.\n– Moglibyśmy wozić wielokrotnie więcej – mówi Marcin Witczak, prezes zarządu Laude Smart Intermodal. – Wystarczyłoby zmienić dosłownie kilka przepisów, które są kompletnie niedorzeczne. Ot, choćby ten, który nakazuje przeładowanie kontenera ze zbożem „bez dotykania ziemi”. Ale jak to zrobić, skoro docierają one do Polski wagonami po szerokim torze i nie ma technicznej możliwości, żeby, bez utraty efektywności, przenieść je na wagon stojący na torach o europejskiej szerokości? Czy naprawdę jedynym sposobem jest zajęcie obu torów wagonami?\nWitczak proponuje prostszy model: kontener trafia najpierw na plac odstawczy, a następnie na wagon normalnotorowy. Jak mówi, taka operacja mogłaby wielokrotnie zwiększyć liczbę przeładunków i przewozów.\n– Cały czas mówimy o tranzycie, nie o imporcie. To zboże przez polskie porty trafia praktycznie na cały świat – zapewnia Marcin Witczak i dodaje: – Jest przecież procedura tranzytu i każda tona, która do nas wjeżdża, musi też wyjechać.\nWagon do wagonu zamiast sprawnego terminala\nLaude argumentuje, że obecne zasady organizacyjne na części przejść i terminali w praktyce ograniczają możliwość zwiększenia wolumenu przewozów kierowanych do polskich portów. Formalnie przepisy dopuszczają tranzyt zewnętrzny oraz wspólną procedurę tranzytową dla produktów objętych rozporządzeniem Ministerstwa Rozwoju i Technologii z 15 wr",
+    "published": "2026-08-20T21:05:25",
+    "fetched": "2026-08-21T05:00:18.002337",
+    "title_uk": "Транзит українського зерна через Польщу може зрости в рази",
+    "summary_uk": "Транзит українського зерна через Польщу обмежений через процедури на кордоні. Зміна правил перевантаження може збільшити пропускну здатність терміналів з 30 тис. до 300 тис. тонн на місяць. Це може принести значні доходи для польських портів і логістичних компаній.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зміни в процедурах можуть відкрити нові можливості для дистриб'юторів, які працюють з українським зерном.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "експорт",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Транзит українського зерна через Польщу може зрости в рази",
+    "summary": "Транзит українського зерна через Польщу обмежений через процедури на кордоні. Зміна правил перевантаження може збільшити пропускну здатність терміналів з 30 тис. до 300 тис. тонн на місяць. Це може принести значні доходи для польських портів і логістичних компаній.",
+    "link": "https://300gospodarka.pl/news/tranzyt-zboza-moglby-dac-polsce-miliony-branza-mowi-ze-blokuja-go-procedury",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ba91ac0abe0d",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/rynek-piwa-kurczy-sie-osmy-rok-z-rzedu",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rynek piwa kurczy się ósmy rok. Browary mają powód do obaw",
+    "body_orig": "Sprzedaż piwa alkoholowego spadła o 11,9 proc. w I połowie 2026 r. – informuje Związek Pracodawców Przemysłu Piwowarskiego Browary Polskie, powołując się na dane Głównego Urzędu Statystycznego (GUS). Za to wzrosła produkcja sprzedana piw zero – o 16,2 proc. W samym czerwcu odnotowano w tej kategorii wzrost aż o 30,1 proc. w skali roku. To jednak nie wystarczy, by zatrzymać spadek.\nBranża piwna ma problemy\nRynek piwa kurczy się nieprzerwanie już ósmy rok. W latach 2018-2025 w rynku ubyło ponad 7,5 mln hl, co odpowiada rocznej produkcji trzech średniej wielkości browarów. Pierwsze półrocze 2026 r. nie przyniosło odbicia. Nawet wysokie wzrosty piw bezalkoholowych nie są w stanie zatrzymać dramatycznie pogłębiającej się dekoniunktury w branży. A z tą związane jest 85 tysięcy miejsc pracy: od rolnictwa, przez handel i gastronomię, po logistykę.\n– Pierwsza połowa tego roku nie napawa optymizmem. Spadek sprzedaży piwa alkoholowego na poziomie prawie 12 proc. pokazuje, w jak trudnej sytuacji znajduje się branża piwowarska w Polsce. Źródeł jest kilka, przede wszystkim światowy trend NoLo czy Better for You, które coraz skuteczniej przekładają się na zachowania konsumpcyjne Polaków. Nie bez znaczenia są też kwestie ekonomiczne: piwo jest produktem bardzo wrażliwym cenowo, a jego cena detaliczna wzrosła w ostatnich latach o ponad 40 proc. – mówi dyrektor generalny Związku Pracodawców Przemysłu Piwowarskiego Browary Polskie Bartłomiej Morzycki, cytowany w komunikacie.\nPolacy coraz częściej sięgają po piwa zero\nJak dodał, piwo zero jest już codziennym wyborem dla części konsumentów. Chodzi tu o osoby aktywne zawodowo, dbające o zdrowie, świadomie ograniczające spożycie alkoholu oraz kierowców. Sięgają po produkty bezalkoholowe, by nie rezygnować ze społecznych rytuałów, spotkań czy z samego smaku piwa. To trend ogólnoeuropejski, który odpowiada celom zdrowia publicznego.\nZwiązek podkreślił, że od prawie dekady browary konsekwentnie rozwijają segment bezalkoholowy, inwestując w nowe technologie i innowacyjne produkty. Na rynku pojawiają się warianty bez cukru i kalorii, wzbogacane o witaminy czy elektrolity. Badania pokazują jednocześnie, że zerówki mają silny efekt substytucyjny – pomagają ograniczać spożycie alkoholu i dla wielu konsumentów stają się naturalnym wyborem niezależnie od okoliczności.\n– Ostatnie badania CBOS pokazały, że już prawie co czwarty Polak zrezygnował z alkoholu, a spośród spożywających alkohol ponad połowa sięga również po zerówki. Efekt substytucji sprawia, że ten segment ma znaczenie zarówno społeczne, zdrowotne, jak i gospodarcze. Dlatego w wielu krajach europejskich jest on wspierany przez państwo jako skuteczny element polityki ograniczania spożycia alkoholu – mówi Bartłomiej Morzycki.\nNowe przepisy mogą zahamować piwo bezalkoholowe\nTymczasem w Polsce procedowanych jest obecnie kilka projektów dotyczących rynku napojów alkoholowych, które mogą zahamować dalszy rozwój segmentu piw 0,0 proc. Proponowane są zmiany w ustawie o wychowa",
+    "published": "2026-08-20T17:04:53",
+    "fetched": "2026-08-21T05:00:18.002368",
+    "title_uk": "Продажі пива в Польщі знизилися на 12% у першій половині 2026 року",
+    "summary_uk": "Продажі алкогольного пива в Польщі впали на 12% у першій половині 2026 року. Водночас виробництво безалкогольного пива зросло на 16%. За вісім років ринок скоротився на 7,5 млн гектолітрів, що вплинуло на 85 тисяч робочих місць у галузі. Зростання цін на пиво перевищило 40%.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зменшення попиту на алкогольне пиво може призвести до зниження обсягів закупівель. Розгляньте можливість розширення асортименту безалкогольних напоїв.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання популярності безалкогольного пива може вплинути на асортимент. Рекомендується переглянути плани щодо закупівлі та промо для безалкогольних продуктів."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Продажі пива в Польщі знизилися на 12% у першій половині 2026 року",
+    "summary": "Продажі алкогольного пива в Польщі впали на 12% у першій половині 2026 року. Водночас виробництво безалкогольного пива зросло на 16%. За вісім років ринок скоротився на 7,5 млн гектолітрів, що вплинуло на 85 тисяч робочих місць у галузі. Зростання цін на пиво перевищило 40%.",
+    "link": "https://300gospodarka.pl/news/rynek-piwa-kurczy-sie-osmy-rok-z-rzedu",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "def20fc96f3d",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/firma/lista-wstydu-europejski-kraj-ujawnia-firmy-handlujace-z-rosja-7320723547310272a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Lista wstydu\". Europejski kraj ujawnia firmy handlujące z Rosją",
+    "body_orig": "Łotwa zaczęła publikować listę firm, które nadal prowadzą handel z Rosją i Białorusią. Wykaz obejmuje ponad 170 przedsiębiorstw. Nie oznacza on złamania sankcji, ale ma pozwolić klientom i partnerom biznesowym ocenić, z kim prowadzą interesy.",
+    "published": "2026-08-21T04:28:50",
+    "fetched": "2026-08-21T05:00:19.497457",
+    "title_uk": "Латвія публікує список компаній, що торгують з Росією",
+    "summary_uk": "Латвія розпочала публікацію списку з понад 170 компаній, які продовжують торгівлю з Росією та Білоруссю. Цей список не є порушенням санкцій, але дозволяє партнерам оцінити ризики співпраці. Публікація має на меті підвищити прозорість у бізнес-відносинах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Латвія публікує список компаній, що торгують з Росією",
+    "summary": "Латвія розпочала публікацію списку з понад 170 компаній, які продовжують торгівлю з Росією та Білоруссю. Цей список не є порушенням санкцій, але дозволяє партнерам оцінити ризики співпраці. Публікація має на меті підвищити прозорість у бізнес-відносинах.",
+    "link": "https://www.money.pl/firma/lista-wstydu-europejski-kraj-ujawnia-firmy-handlujace-z-rosja-7320723547310272a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "041e4c9c82bd",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/hyundai-motor-union-stages-1st-full-day-strike-in-decade-as-wage-talks-stall/4033395",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Hyundai Motor union stages 1st full-day strike in decade as wage talks stall",
+    "body_orig": "Around 39,000 workers join walkout which halts production at major South Korean plants, with further strikes planned",
+    "published": "2026-08-21T04:21:57",
+    "fetched": "2026-08-21T05:00:26.356786",
+    "title_uk": "Співробітники Hyundai влаштували перший страйк за 10 років",
+    "summary_uk": "Приблизно 39 000 працівників Hyundai вийшли на страйк, що зупинило виробництво на ключових заводах у Південній Кореї. Причина — невдача в переговорах щодо заробітної плати. Подальші страйки заплановані на найближчі дні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Співробітники Hyundai влаштували перший страйк за 10 років",
+    "summary": "Приблизно 39 000 працівників Hyundai вийшли на страйк, що зупинило виробництво на ключових заводах у Південній Кореї. Причина — невдача в переговорах щодо заробітної плати. Подальші страйки заплановані на найближчі дні.",
+    "link": "https://www.aa.com.tr/en/economy/hyundai-motor-union-stages-1st-full-day-strike-in-decade-as-wage-talks-stall/4033395",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e8cc492d189e",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/efectul-direct-nesabuintei-bugetare-trecut-comisia-europeana-respinge-legea-salarizarii-unitare-depaseste-plafonul-cheltuieli-convenit-ue-reducerea-deficitului-datoriei-datoria-publica-trecut-60-pib-23221314",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Efectul direct al nesăbuinţei bugetare din trecut: Comisia Europeană respinge legea salarizării unitare pentru că depăşeşte plafonul de cheltuieli convenit cu UE pentru reducerea deficitului şi a datoriei. Pentru că datoria publică a trecut de 60% din PIB, guvernul este obligat să îngheţe salariile din sistemul public şi ajutoarele sociale",
+    "body_orig": "Opoziţia Comisiei Europene faţă de noua legea a salarizării unitare este doar o chestiune punctuală dintr-un ansamblu de constrângeri la care România este supusă din cauza deficitelor mari şi, mai nou, a datoriei publice trecute de limita de 60% din PIB a Tratatului de la Maastricht.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317240",
+    "title_uk": "ЄС відхилив закон про єдину зарплату в Румунії через перевищення витрат",
+    "summary_uk": "Комісія ЄС відхилила законопроєкт про єдину зарплату в Румунії, оскільки він перевищує погоджений ліміт витрат для зменшення дефіциту та боргу. Державний борг Румунії перевищив 60% від ВВП, що зобов'язує уряд заморозити зарплати в державному секторі та соціальні виплати.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "ЄС відхилив закон про єдину зарплату в Румунії через перевищення витрат",
+    "summary": "Комісія ЄС відхилила законопроєкт про єдину зарплату в Румунії, оскільки він перевищує погоджений ліміт витрат для зменшення дефіциту та боргу. Державний борг Румунії перевищив 60% від ВВП, що зобов'язує уряд заморозити зарплати в державному секторі та соціальні виплати.",
+    "link": "https://www.zf.ro/eveniment/efectul-direct-nesabuintei-bugetare-trecut-comisia-europeana-respinge-legea-salarizarii-unitare-depaseste-plafonul-cheltuieli-convenit-ue-reducerea-deficitului-datoriei-datoria-publica-trecut-60-pib-23221314",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ee492fff34f0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-sportiv/business-sportiv-reusit-placa-apa-i-convinga-romani-copii-pana-persoane-varsta-populeze-lacurile-sport-il-inveti-cinci-minute-e-foarte-usor-practicat-pretul-unei-placi-sup-porneste-899-lei-ajunge-23221325",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Business sportiv. Cum a reuşit o placă pe apă să-i convingă pe români, de la copii până la persoane în vârstă, să populeze lacurile? „Este un sport pe care îl înveţi în cinci minute şi e foarte uşor de practicat“. Preţul unei plăci de SUP porneşte de la 899 lei şi poate ajunge până la 21.600 lei",
+    "body_orig": "„Am fost acum doi ani la mare şi cineva vâslea pe o placă gonflabilă, nu ştiam ce era. Am aflat apoi că era placă de stand up paddle. Am rugat persoana respectivă să mă lase şi pe mine să încerc, mi-a plăcut atât de mult, încât mi-am comandat imediat ce am ajuns acasă o astfel de placă. De atunci, în fiecare vară merg aproape în fiecare weekend pe un lac sau la mare pentru a merge cu placă pe apă“, povesteşte Andrei, un pasionat de stand up paddle.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317251",
+    "title_uk": "Популярність SUP в Румунії зростає серед усіх вікових груп",
+    "summary_uk": "У Румунії зростає інтерес до спорту на воді — stand up paddle (SUP). Ціна на плити починається від 900 леїв і може досягати 21.600 леїв. Люди різного віку активно займаються цим видом спорту, що робить його доступним для широкої аудиторії.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Популярність SUP в Румунії зростає серед усіх вікових груп",
+    "summary": "У Румунії зростає інтерес до спорту на воді — stand up paddle (SUP). Ціна на плити починається від 900 леїв і може досягати 21.600 леїв. Люди різного віку активно займаються цим видом спорту, що робить його доступним для широкої аудиторії.",
+    "link": "https://www.zf.ro/business-sportiv/business-sportiv-reusit-placa-apa-i-convinga-romani-copii-pana-persoane-varsta-populeze-lacurile-sport-il-inveti-cinci-minute-e-foarte-usor-practicat-pretul-unei-placi-sup-porneste-899-lei-ajunge-23221325",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "db5177f79d26",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/pentru-ei-nu-a-incetinit-economia-numarul-romanilor-cu-depozite-de-peste-100-000-de-euro-a-crescut-cu-circa-4-000-intr-un-an-la-aproape-86-000-23221336",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Pentru ei nu a încetinit economia. Numărul românilor cu depozite de peste 100.000 de euro a crescut cu circa 4.000 într-un an, la aproape 86.000",
+    "body_orig": "În pofida încetinirii economiei, a contextului tensionat (sociopolitic intern şi geopolitic extern), cu război la graniţă, cu inflaţie care scade lent, cu taxe mărite şi dobânzi nu foarte mari la depozite, numărul românilor cu depozite bancare mai mari de 100.000 de euro a urcat cu aproape 4.000 în ultimul an, la finalul primului semestru (S1) din 2026 ajungând la aproape 86.000.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317260",
+    "title_uk": "Кількість румунів з депозитами понад €100 тис. зросла до 86 тис.",
+    "summary_uk": "Незважаючи на економічні труднощі, кількість румунів з депозитами понад €100 тис. зросла на 4 тис. за рік. На кінець першого півріччя 2026 року їх стало майже 86 тис. Це свідчить про зростання фінансової стабільності у певних сегментах населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кількість румунів з депозитами понад €100 тис. зросла до 86 тис.",
+    "summary": "Незважаючи на економічні труднощі, кількість румунів з депозитами понад €100 тис. зросла на 4 тис. за рік. На кінець першого півріччя 2026 року їх стало майже 86 тис. Це свідчить про зростання фінансової стабільності у певних сегментах населення.",
+    "link": "https://www.zf.ro/banci-si-asigurari/pentru-ei-nu-a-incetinit-economia-numarul-romanilor-cu-depozite-de-peste-100-000-de-euro-a-crescut-cu-circa-4-000-intr-un-an-la-aproape-86-000-23221336",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fdc017703ff6",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/antreprenori-locali-au-pornit-cu-o-mica-sectie-de-lactate-milapo-fresh-si-acum-distribuie-in-marile-retele-din-nordul-tarii-23221339",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Antreprenori locali. Au pornit cu o mică secţie de lactate, Milapo Fresh, şi acum distribuie în marile reţele din nordul ţării",
+    "body_orig": "Milapo Fresh, o companie care a pornit în urmă cu 13 ani, livrează produse lactate produse în comuna  Copalnic Mănăştur (judeţul Maramureş) în marile lanţuri de retail din zona de nord a ţării şi urmează să  se extindă.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317269",
+    "title_uk": "Milapo Fresh розширює дистрибуцію молочних продуктів у Румунії",
+    "summary_uk": "Компанія Milapo Fresh, заснована 13 років тому, постачає молочні продукти з Copalnic Mănăştur у великі мережі на півночі Румунії. Вона планує подальше розширення. Це свідчить про зростання локальних виробників у ритейлі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Важливо стежити за зростанням локальних брендів у Румунії. Це може вплинути на конкурентоспроможність в категорії молочних продуктів."
+    },
+    "tags": [
+      "дистрибуція",
+      "виробництво",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "distribution-case",
+    "title": "Milapo Fresh розширює дистрибуцію молочних продуктів у Румунії",
+    "summary": "Компанія Milapo Fresh, заснована 13 років тому, постачає молочні продукти з Copalnic Mănăştur у великі мережі на півночі Румунії. Вона планує подальше розширення. Це свідчить про зростання локальних виробників у ритейлі.",
+    "link": "https://www.zf.ro/companii/antreprenori-locali-au-pornit-cu-o-mica-sectie-de-lactate-milapo-fresh-si-acum-distribuie-in-marile-retele-din-nordul-tarii-23221339",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d15cf45878a0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/doua-achizitii-companii-romanesti-dintr-odata-strabag-intra-piata-locala-instalatii-constructii-civile-industriale-achizitia-firmelor-brenneka-install-samivo-instal-bacau-23221341",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Două achiziţii de companii româneşti dintr-odată: STRABAG intră pe piaţa locală de instalaţii pentru construcţii civile şi industriale prin achiziţia firmelor Brenneka Install şi Samivo Instal din Bacău",
+    "body_orig": "STRABAG Property and Facility Services (STRABAG PFS), o filială a grupului european de construcţii STRABAG, va achiziţiona compa­niile româneşti Brenneka Install SRL şi Samivo Instal SRL, contro­late de Mihai Ojog şi Lucian Floren­tin Vultur, cu sediul central în Bacău şi cu un birou operaţional în Bucureşti.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317279",
+    "title_uk": "STRABAG купує дві румунські компанії у сфері будівельних установок",
+    "summary_uk": "STRABAG Property and Facility Services придбає румунські компанії Brenneka Install та Samivo Instal. Обидві компанії розташовані в Бacăу та мають офіс у Будапешті. Ця угода дозволить STRABAG розширити свою присутність на ринку установок для цивільного та промислового будівництва в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "STRABAG купує дві румунські компанії у сфері будівельних установок",
+    "summary": "STRABAG Property and Facility Services придбає румунські компанії Brenneka Install та Samivo Instal. Обидві компанії розташовані в Бacăу та мають офіс у Будапешті. Ця угода дозволить STRABAG розширити свою присутність на ринку установок для цивільного та промислового будівництва в Румунії.",
+    "link": "https://www.zf.ro/companii/doua-achizitii-companii-romanesti-dintr-odata-strabag-intra-piata-locala-instalatii-constructii-civile-industriale-achizitia-firmelor-brenneka-install-samivo-instal-bacau-23221341",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2f49afb63394",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/un-singur-segment-din-opt-pe-plus-in-piata-de-electro-it-paradoxal-vanzarile-de-camere-foto-cresc-dupa-multi-ani-de-declin-sa-fie-de-vina-social-media-si-vacantele-tot-mai-numeroase-23221344",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Un singur segment din opt, pe plus în piaţa de electro-IT. Paradoxal, vânzările de camere foto cresc după mulţi ani de declin. Să fie „de vină“ social media şi vacanţele tot mai numeroase?",
+    "body_orig": "Sectorul de electro-IT în ansamblul său a înregistrat un declin cu 7,5% în valoare şi 8,9% în volum în primele şase luni din acest an versus aceeaşi perioadă din 2025. Dintre cele opt segmente analizate, şapte au fost pe minus în volum, cel mai important indicator pentru apetitul de shopping al românilor.",
+    "published": "2026-08-20T21:07:00",
+    "fetched": "2026-08-21T05:00:29.317289",
+    "title_uk": "Продажі камер фото зросли, незважаючи на загальний спад ринку електроніки",
+    "summary_uk": "У першій половині 2026 року ринок електро-IT в Румунії знизився на 8% в обсязі. Лише сегмент камер фото показав зростання, що може бути пов'язано з активним використанням соціальних мереж та зростанням кількості відпусток. Інші сегменти ринку продовжують падіння.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання продажів камер фото може свідчити про зміну споживчих уподобань. Розгляньте можливість розширення асортименту в цій категорії."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Продажі камер фото зросли, незважаючи на загальний спад ринку електроніки",
+    "summary": "У першій половині 2026 року ринок електро-IT в Румунії знизився на 8% в обсязі. Лише сегмент камер фото показав зростання, що може бути пов'язано з активним використанням соціальних мереж та зростанням кількості відпусток. Інші сегменти ринку продовжують падіння.",
+    "link": "https://www.zf.ro/companii/un-singur-segment-din-opt-pe-plus-in-piata-de-electro-it-paradoxal-vanzarile-de-camere-foto-cresc-dupa-multi-ani-de-declin-sa-fie-de-vina-social-media-si-vacantele-tot-mai-numeroase-23221344",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "961ea4b3fbd7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/productia-exporturile-si-importurile-de-inghetata-ale-ue-au-crescut-in-2025_969844.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Producţia, exporturile şi importurile de îngheţată ale UE au crescut în 2025",
+    "body_orig": "Uniunea Europeană a produs anul trecut o cantitate de 3,44 miliarde de litri de îngheţată, o creştere de 1,9% faţă de cantitatea de 3,38 miliarde de litri de îngheţată produsă în 2024, arată datele publicate miercuri de Eurostat.",
+    "published": "2026-08-21T03:40:13",
+    "fetched": "2026-08-21T05:00:31.274257",
+    "title_uk": "Виробництво та експорт морозива в ЄС зросли у 2025 році",
+    "summary_uk": "У 2025 році ЄС виробив 3,44 млрд літрів морозива, що на 2% більше, ніж у 2024 році. Ці дані оприлюднив Eurostat. Зростання виробництва може вплинути на ринок морозива в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Зростання виробництва морозива в ЄС може призвести до збільшення імпорту в Україну. Імпортерам варто переглянути свої контракти та запаси.",
+      "pl_distributor": "Польські дистрибутори можуть скористатися зростанням виробництва в ЄС, щоб розширити асортимент морозива. Рекомендується активізувати закупівлі.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання виробництва морозива в ЄС може вплинути на категорію в ритейлі. Рекомендується переглянути асортимент та план промо-акцій."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "імпорт",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Виробництво та експорт морозива в ЄС зросли у 2025 році",
+    "summary": "У 2025 році ЄС виробив 3,44 млрд літрів морозива, що на 2% більше, ніж у 2024 році. Ці дані оприлюднив Eurostat. Зростання виробництва може вплинути на ринок морозива в регіоні.",
+    "link": "https://www.economica.net/productia-exporturile-si-importurile-de-inghetata-ale-ue-au-crescut-in-2025_969844.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c652b1783143",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/stramtoarea-ormuz-doar-sapte-nave-au-trecut-joi-prin-culoar-petrolul-se-scumpeste_969849.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Strâmtoarea Ormuz – Doar șapte nave au trecut joi prin culoar. Petrolul s-a scumpit",
+    "body_orig": "Traficul comercial prin Strâmtoarea Ormuz continuă să se mențină la niveluri extrem de scăzute, pe fondul tensiunilor dintre Statele Unite și Iran. Doar șapte nave cu mărfuri au traversat joi culoarul, potrivit datelor preliminare ale companiei de monitorizare Kpler.",
+    "published": "2026-08-21T03:17:36",
+    "fetched": "2026-08-21T05:00:31.274278",
+    "title_uk": "Трафік через Ормузьку протоку залишається на низькому рівні",
+    "summary_uk": "Торговий трафік через Ормузьку протоку знову знизився через напруженість між США та Іраном. У четвер лише сім вантажних суден пройшли через цей стратегічний коридор, згідно з даними Kpler. Це може вплинути на ціни на нафту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження трафіку може призвести до підвищення цін на нафту, що вплине на витрати в категоріях, пов'язаних з енергетикою. Рекомендується переглянути плани закупівель та цінову політику."
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Трафік через Ормузьку протоку залишається на низькому рівні",
+    "summary": "Торговий трафік через Ормузьку протоку знову знизився через напруженість між США та Іраном. У четвер лише сім вантажних суден пройшли через цей стратегічний коридор, згідно з даними Kpler. Це може вплинути на ціни на нафту.",
+    "link": "https://www.economica.net/stramtoarea-ormuz-doar-sapte-nave-au-trecut-joi-prin-culoar-petrolul-se-scumpeste_969849.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1128572b3535",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/commercial/nepi-rockcastle-shows-strong-h1-2026-results-achieving-a-3-8-growth-in-net-operating-income-299640",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income",
+    "body_orig": "NEPI Rockcastle, Europe’s third largest listed retail real estate company by portfolio value, delivered a strong operational performance in the first half of 2026 with the Group’s net operating income, including energy activity, rising by 3.8% year-on-year to €318 million. This was driven by rental indexation, active leasing optimisation and tighter cost control – with [&#8230;]\nThe post Nepi Rockcastle shows strong H1 2026 results achieving a 3.8% growth in net operating income appeared first on Business Review.",
+    "published": "2026-08-20T16:38:47",
+    "fetched": "2026-08-21T05:00:34.002248",
+    "title_uk": "NEPI Rockcastle показує зростання доходів на 3.8% у першій половині 2026",
+    "summary_uk": "NEPI Rockcastle, третя найбільша компанія з нерухомості в Європі, зафіксувала зростання чистого операційного доходу на 3.8% до €318 млн у першій половині 2026 року. Основними чинниками стали індексація орендної плати, оптимізація оренди та контроль витрат.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "NEPI Rockcastle показує зростання доходів на 3.8% у першій половині 2026",
+    "summary": "NEPI Rockcastle, третя найбільша компанія з нерухомості в Європі, зафіксувала зростання чистого операційного доходу на 3.8% до €318 млн у першій половині 2026 року. Основними чинниками стали індексація орендної плати, оптимізація оренди та контроль витрат.",
+    "link": "https://business-review.eu/property/commercial/nepi-rockcastle-shows-strong-h1-2026-results-achieving-a-3-8-growth-in-net-operating-income-299640",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e4c178968aa2",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/z-1-veresnya-kep-stvoryuvatimut-za-novim-standartom-shho-zminitsya-dlya-ukrayinciv-por3gn",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "З 1 вересня КЕП створюватимуть за новим стандартом: що зміниться для українців",
+    "body_orig": "Із 1 вересня кваліфіковані електронні підписи (КЕП) створюватимуть із використанням нового українського стандарту захисту даних «Купина». Він має замінити алгоритм, розроблений ще у 1995 році, повідомляє «Дія».",
+    "published": "2026-08-20T19:01:13",
+    "fetched": "2026-08-21T05:00:22.838179",
+    "title_uk": "З 1 вересня КЕП створюватимуть за новим стандартом",
+    "summary_uk": "З 1 вересня в Україні впроваджується новий стандарт для кваліфікованих електронних підписів (КЕП) — «Купина». Цей стандарт замінить алгоритм, розроблений у 1995 році. Зміни покликані підвищити рівень захисту даних для користувачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "З 1 вересня КЕП створюватимуть за новим стандартом",
+    "summary": "З 1 вересня в Україні впроваджується новий стандарт для кваліфікованих електронних підписів (КЕП) — «Купина». Цей стандарт замінить алгоритм, розроблений у 1995 році. Зміни покликані підвищити рівень захисту даних для користувачів.",
+    "link": "https://speka.ua/news/z-1-veresnya-kep-stvoryuvatimut-za-novim-standartom-shho-zminitsya-dlya-ukrayinciv-por3gn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8e5146029f5e",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/artificial-intelligence/era-nulyovix-klikiv-yak-biznesu-otrimuvati-trafik-i-konversiyi-koli-google-sam-vidpovidaje-na-zapiti-9386dq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Ера «нульових кліків»: Як бізнесу отримувати трафік і конверсії, коли Google сам відповідає на запити",
+    "body_orig": "Роками пошуковий маркетинг залишався одним із найбільш прогнозованих та високорентабельних каналів залучення клієнтів для технологічного бізнесу та стартапів. Формула здавалася непохитною: ви інвестуєте в якісну продуктову семантику, створюєте глибокий експертний контент, який закриває болі вашої аудиторії, зміцнюєте авторитет домену — і отримуєте прогнозований потік конверсій із безкоштовної органічної видачі. Проте на сучасному етапі розвитку цифрової економіки цей налагоджений конвеєр остаточно зупинився. Сьогодні компанія може очолювати пошукову видачу за критично важливими комерційними запитами, але бачити повне плато на графіках переходів на сайт.Ми опинилися в реальності нульових кліків (Zero-Click Searches) — фундаментальної кризи класичної моделі дистрибуції контенту. Пошукові системи завершили глибоку інтеграцію великих мовних моделей та інтелектуальних блоків AI Overviews безпосередньо у веб-інтерфейс.",
+    "published": "2026-08-20T17:54:53",
+    "fetched": "2026-08-21T05:00:22.838200",
+    "title_uk": "Ера нульових кліків: зміни у пошуковому маркетингу",
+    "summary_uk": "Пошуковий маркетинг втрачає ефективність через нульові кліки. Компанії можуть бути на вершині пошукової видачі, але не отримувати трафік. Це пов'язано з інтеграцією AI у пошукові системи, що змінює традиційні моделі залучення клієнтів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни у пошуковому маркетингу можуть вплинути на стратегії залучення трафіку. Рекомендується переглянути контентну стратегію, щоб адаптуватися до нових умов."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ера нульових кліків: зміни у пошуковому маркетингу",
+    "summary": "Пошуковий маркетинг втрачає ефективність через нульові кліки. Компанії можуть бути на вершині пошукової видачі, але не отримувати трафік. Це пов'язано з інтеграцією AI у пошукові системи, що змінює традиційні моделі залучення клієнтів.",
+    "link": "https://speka.ua/artificial-intelligence/era-nulyovix-klikiv-yak-biznesu-otrimuvati-trafik-i-konversiyi-koli-google-sam-vidpovidaje-na-zapiti-9386dq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "696919472d22",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/brave1-market-dozvoliv-viiskovim-zamovlyati-kastomni-droni-pid-konkretni-zavdannya-pkkmgx",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Brave1 Market дозволив військовим замовляти кастомні дрони під конкретні завдання",
+    "body_orig": "На державному маркетплейсі оборонних технологій Brave1 Market запустили новий функціонал для замовлення безпілотників із заданими характеристиками. Військові підрозділи можуть сформувати заявку під конкретну місію, а постачальники — запропонувати свої рішення, пише Міноборони.&nbsp;",
+    "published": "2026-08-20T17:14:42",
+    "fetched": "2026-08-21T05:00:22.838210",
+    "title_uk": "Brave1 Market запустив замовлення кастомних дронів для військових",
+    "summary_uk": "На державному маркетплейсі Brave1 Market з'явилася можливість замовлення дронів з заданими характеристиками. Військові можуть формувати заявки під конкретні завдання, а постачальники пропонують свої рішення. Це нововведення має на меті покращити оперативність та ефективність виконання місій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Brave1 Market запустив замовлення кастомних дронів для військових",
+    "summary": "На державному маркетплейсі Brave1 Market з'явилася можливість замовлення дронів з заданими характеристиками. Військові можуть формувати заявки під конкретні завдання, а постачальники пропонують свої рішення. Це нововведення має на меті покращити оперативність та ефективність виконання місій.",
+    "link": "https://speka.ua/news/brave1-market-dozvoliv-viiskovim-zamovlyati-kastomni-droni-pid-konkretni-zavdannya-pkkmgx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d7b97cba4ee9",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/michaels-3d-augmented-reality-digital-frame-builder/828381/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Michaels launches 3D digital frame builder",
+    "body_orig": "The retailer is harnessing 3D and AR technology to help shoppers preview frames in their spaces.",
+    "published": "2026-08-20T16:45:00",
+    "fetched": "2026-08-21T05:00:40.961062",
+    "title_uk": "Michaels запускає 3D конструктор рамок для цифрових зображень",
+    "summary_uk": "Michaels впроваджує технології 3D та AR для допомоги покупцям у виборі рамок. Клієнти зможуть попередньо переглядати, як рамки виглядатимуть у їхніх приміщеннях. Це нововведення може підвищити залученість споживачів та продажі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це нововведення може стати прикладом для впровадження AR-технологій у ритейлі. Розгляньте можливість використання подібних рішень для покращення покупецького досвіду."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Michaels запускає 3D конструктор рамок для цифрових зображень",
+    "summary": "Michaels впроваджує технології 3D та AR для допомоги покупцям у виборі рамок. Клієнти зможуть попередньо переглядати, як рамки виглядатимуть у їхніх приміщеннях. Це нововведення може підвищити залученість споживачів та продажі.",
+    "link": "https://www.retaildive.com/news/michaels-3d-augmented-reality-digital-frame-builder/828381/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
