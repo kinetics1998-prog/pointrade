@@ -230062,5 +230062,799 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "f8360ba8d675",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/uber-z-gigantyczna-kara-za-decyzje-algorytmow-sprawa-trafi-do-sadu/1rqjwsk",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Prawie miliard euro kary dla Ubera w Europie. To efekt protestu kierowców",
+    "body_orig": "Holenderski regulator nałożył na Ubera gigantyczną grzywnę za... RODO. Firma nie informowała kierowców odpowiednio o mechanizmach podejmowania decyzji przez zautomatyzowane systemy. Uber zapowiada walkę z decyzją w sądzie.",
+    "published": "2026-08-21T18:07:21",
+    "fetched": "2026-08-22T04:55:59.323862",
+    "title_uk": "Uber отримав штраф €1 млрд в Європі за порушення RODO",
+    "summary_uk": "Голландський регулятор наклав на Uber штраф у розмірі €1 млрд за неналежне інформування водіїв про автоматизовані системи прийняття рішень. Компанія планує оскаржити це рішення в суді. Це один з найбільших штрафів у Європі за порушення норм захисту даних.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Uber отримав штраф €1 млрд в Європі за порушення RODO",
+    "summary": "Голландський регулятор наклав на Uber штраф у розмірі €1 млрд за неналежне інформування водіїв про автоматизовані системи прийняття рішень. Компанія планує оскаржити це рішення в суді. Це один з найбільших штрафів у Європі за порушення норм захисту даних.",
+    "link": "https://businessinsider.com.pl/prawo/uber-z-gigantyczna-kara-za-decyzje-algorytmow-sprawa-trafi-do-sadu/1rqjwsk",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8df6b61ff16a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/kryzys-w-janowie-podlaskim-wyhamowal-straty-spadaja-zarzad-komentuje/hbwp1ec",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Stadnina w Janowie odpowiada na zarzuty. \"Mierzalna i znacząca poprawa\"",
+    "body_orig": "Zarząd Stadniny Koni Janów Podlaski twierdzi, że odwrócił trend wieloletniego pogarszania się sytuacji ekonomicznej. Poinformował o wyraźnej poprawie wyniku finansowego, choć spółka nadal wykazuje straty. Kryzys w stadninie rozpoczął się prawie dekadę temu. Państwowe stadniny ratują się m.in. hodując bydło.",
+    "published": "2026-08-21T17:02:19",
+    "fetched": "2026-08-22T04:55:59.323889",
+    "title_uk": "Ситуація в Stadnina Koni Janów Podlaski покращується",
+    "summary_uk": "Керівництво Stadnina Koni Janów Podlaski заявило про поліпшення фінансових показників, хоча компанія все ще зазнає збитків. Кризові явища тривають з 2016 року, і для покращення ситуації підприємство почало займатися вирощуванням худоби.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ситуація в Stadnina Koni Janów Podlaski покращується",
+    "summary": "Керівництво Stadnina Koni Janów Podlaski заявило про поліпшення фінансових показників, хоча компанія все ще зазнає збитків. Кризові явища тривають з 2016 року, і для покращення ситуації підприємство почало займатися вирощуванням худоби.",
+    "link": "https://businessinsider.com.pl/biznes/kryzys-w-janowie-podlaskim-wyhamowal-straty-spadaja-zarzad-komentuje/hbwp1ec",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "30ebb8ac0526",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/wyjscie-na-lody-stalo-sie-luksusem-za-galke-placimy-coraz-wiecej",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Inflacja wygląda spokojnie, ale portfel mówi co innego. Przykład? Lody",
+    "body_orig": "Letnie wyjście na lody przestało być drobnym wydatkiem, który znika niezauważony w portfelu. Przy cenie 9 zł za gałkę czteroosobowa rodzina płaci 36 zł za jedną porcję dla każdego. Jeśli każdy weźmie po dwie gałki, robi się 72 zł. Przy cenie 10 zł rachunek za osiem porcji wynosi 80 zł, a w najdroższych lokalach może nawet przekroczyć 100 zł.\nFinax przeanalizował m.in. dane Eurostatu, GUS i PanParagon. Gałka lodów w polskich lodziarniach kosztuje tego lata średnio 9-13 zł, choć same lody i sorbety w sklepach były w czerwcu zaledwie o 0,2 proc. droższe niż rok wcześniej. W tym samym czasie inflacja wynosiła 2,5 proc., a cukier i mleko były tańsze niż przed rokiem.\nW lodziarni płacimy za całą usługę\nNa pierwszy rzut oka może to dziwić, bo dane o cenach lodów w handlu detalicznym wyglądają spokojnie. Tylko że pudełko lodów ze sklepu i gałka w lodziarni to ekonomicznie dwa różne produkty.\nCena gałki obejmuje dużo więcej niż mleko, cukier i dodatki. Przedsiębiorca musi opłacić pracowników, lokal, energię, wyposażenie, transport, przechowywanie i bieżące koszty prowadzenia działalności.\nFinax zwraca uwagę, że koszty pracy w sektorze zakwaterowania i gastronomii wzrosły o 5,4 proc. rok do roku. Jeśli składniki lodów tanieją, ale trzeba zapłacić więcej pracownikom, za czynsz czy energię, to końcowa cena porcji może nadal drożeć. Dla lodziarni to ważna pozycja. Przy małej sezonowej skali działalności każdy taki koszt mocniej wchodzi w cenę końcową.\n– W lodziarni nie płacimy wyłącznie za sam produkt, ale za całą usługę. Potrzebni są pracownicy, lokal, energia i infrastruktura umożliwiająca przechowywanie i sprzedaż lodów. Dlatego zmiana cen podstawowych składników nie musi przekładać się wprost na cenę, którą widzimy w lodziarni. Do tego dochodzą duże różnice lokalne – inna będzie cena w małym mieście, a inna w nadmorskim kurorcie czy popularnym lokalu w centrum Warszawy lub Krakowa – komentuje Dominik Baldowski, analityk Finax.\nRodzinne wyjście na lody robi się sporym wydatkiem\nDane PanaParagonu pokazują, że wzrost cen gałki lodów nie zaczął się w tym sezonie. Średnia cena porcji wzrosła z 6,48 zł w 2023 r. do 7,51 zł w 2025 r., czyli o blisko 16 proc. Tegoroczne ceny sugerują, że trend wzrostowy trwa.\nDla pojedynczego klienta różnica kilku złotych może wydawać się niewielka. Inaczej wygląda to przy rodzinie, grupie znajomych albo kilku wyjściach w miesiącu. Lody są wydatkiem sezonowym i często spontanicznym, więc dopiero przy kasie okazuje się, że krótki spacer kończy się rachunkiem jak za prosty obiad.\nTo także dobry przykład tzw. małej inflacji codzienności. Oficjalny wskaźnik cen może wyglądać umiarkowanie, ale w konkretnych sytuacjach konsument widzi coś innego: droższą kawę, pieczywo, bilety, lody.\nKażdy ma własną inflację\nInflacja podawana przez urząd statystyczny opisuje średnią zmianę cen szerokiego koszyka dóbr i usług. Taki wskaźnik pozwala porównywać sytuację w gospodarce, ale nie oddaje dokładnie tego, co czuje każda rodzina przy codziennych z",
+    "published": "2026-08-21T17:38:26",
+    "fetched": "2026-08-22T04:56:00.193769",
+    "title_uk": "Ціни на морозиво в Польщі зростають через підвищення витрат",
+    "summary_uk": "Ціни на морозиво в Польщі зросли до 9-13 злотих за порцію. Витрати на працю в секторі гастрономії зросли на 5%. Середня ціна порції зросла з 6,5 злотих у 2023 до 7,5 злотих у 2025. Споживачі відчувають зростання витрат на повсякденні послуги.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на морозиво може вплинути на попит у сегменті HoReCa. Розгляньте можливість корекції асортименту та цінової політики.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на морозиво може вплинути на категорію десертів у ритейлі. Рекомендується переглянути цінову стратегію та асортимент."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "HoReCa"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на морозиво в Польщі зростають через підвищення витрат",
+    "summary": "Ціни на морозиво в Польщі зросли до 9-13 злотих за порцію. Витрати на працю в секторі гастрономії зросли на 5%. Середня ціна порції зросла з 6,5 злотих у 2023 до 7,5 злотих у 2025. Споживачі відчувають зростання витрат на повсякденні послуги.",
+    "link": "https://300gospodarka.pl/news/wyjscie-na-lody-stalo-sie-luksusem-za-galke-placimy-coraz-wiecej",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "07c60fb20850",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/abd-adalet-bakanligi-ile-tiktok-cocuk-gizliligi-davasinda-400-milyon-dolarlik-uzlasmaya-vardi/4034322",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ABD Adalet Bakanlığı ile TikTok \"çocuk gizliliği\" davasında 400 milyon dolarlık uzlaşmaya vardı",
+    "body_orig": "ABD Adalet Bakanlığı, TikTok ve ana şirketi ByteDance ile \"çocukların çevrim içi gizliliğinin korunmasına\" yönelik davayı 400 milyon dolarlık anlaşmayla sonuçlandırdı.",
+    "published": "2026-08-21T21:14:08",
+    "fetched": "2026-08-22T04:56:11.166665",
+    "title_uk": "США та TikTok уклали угоду на $400 млн щодо захисту дітей",
+    "summary_uk": "Міністерство юстиції США досягло угоди з TikTok та ByteDance на суму $400 млн. Угода стосується захисту онлайн-приватності дітей. Це завершило судовий процес, що тривав кілька років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "США та TikTok уклали угоду на $400 млн щодо захисту дітей",
+    "summary": "Міністерство юстиції США досягло угоди з TikTok та ByteDance на суму $400 млн. Угода стосується захисту онлайн-приватності дітей. Це завершило судовий процес, що тривав кілька років.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/abd-adalet-bakanligi-ile-tiktok-cocuk-gizliligi-davasinda-400-milyon-dolarlik-uzlasmaya-vardi/4034322",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f3055a7cf9fb",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/depozito-iade-sisteminde-turkiye-genelinde-50-bin-nokta-hedefleniyor/4034164",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Depozito İade Sisteminde Türkiye genelinde 50 bin nokta hedefleniyor",
+    "body_orig": "Türkiye Çevre Ajansı Başkanı Öztürk, depozito iade sisteminin sürdürülebilirlik ve sıfır atık hedefi doğrultusunda yaygınlaştırıldığını belirterek ülke genelinde 150 sayma doğrulama merkezi ve 50 bin iade noktası kurulmasının hedeflendiğini bildirdi.",
+    "published": "2026-08-21T16:38:25",
+    "fetched": "2026-08-22T04:56:11.166681",
+    "title_uk": "У Туреччині планують 50 тисяч пунктів повернення депозитів",
+    "summary_uk": "Туреччина розширює систему повернення депозитів у рамках цілей сталого розвитку. Передбачено створення 150 центрів перевірки та 50 тисяч пунктів повернення по всій країні. Це має підтримати ініціативи з нульових відходів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для виробників упаковки в Туреччині, які можуть адаптувати свої продукти під нову систему повернення.",
+      "category_manager": "Зверніть увагу на зміни в упаковці товарів, які можуть підлягати поверненню. Це може вплинути на асортимент і стратегії продажів."
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "У Туреччині планують 50 тисяч пунктів повернення депозитів",
+    "summary": "Туреччина розширює систему повернення депозитів у рамках цілей сталого розвитку. Передбачено створення 150 центрів перевірки та 50 тисяч пунктів повернення по всій країні. Це має підтримати ініціативи з нульових відходів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/depozito-iade-sisteminde-turkiye-genelinde-50-bin-nokta-hedefleniyor/4034164",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "358f512b4bee",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/ionut-tomescu-mic-antreprenor-detine-trei-bacanii-brasov-e-greu-fii-comerciant-mic-independent-romania-avantajul-nostru-il-reprezinta-flexibilitatea-brandul-bacania-tomita-deschise-trei-unitati-una-23221197",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ionuţ Tomescu, un mic antreprenor care deţine trei băcănii în Braşov: E greu să fii comerciant mic şi independent în România. Avantajul nostru îl reprezintă flexibilitatea. Sub brandul Băcănia lui Tomiţă sunt deschise trei unităţi, una inaugurată chiar în 2026, în centrul oraşului Braşov",
+    "body_orig": "Ionuţ Tomescu, un mic antreprenor care deţine trei băcănii în judeţul Braşov sub brandul Băcănia lui Tomiţă, spune că România o piaţă provocatoare pentru micile afaceri de familie.",
+    "published": "2026-08-21T21:07:00",
+    "fetched": "2026-08-22T04:56:12.972669",
+    "title_uk": "Малий бізнес в Румунії стикається з викликами",
+    "summary_uk": "Іонуц Томеску, власник трьох бакалій у Брашові, зазначає, що малим підприємцям важко конкурувати на ринку. Він підкреслює перевагу гнучкості у веденні бізнесу. Одна з його бакалій була відкрита у 2026 році в центрі міста.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Малий бізнес в Румунії стикається з викликами",
+    "summary": "Іонуц Томеску, власник трьох бакалій у Брашові, зазначає, що малим підприємцям важко конкурувати на ринку. Він підкреслює перевагу гнучкості у веденні бізнесу. Одна з його бакалій була відкрита у 2026 році в центрі міста.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/ionut-tomescu-mic-antreprenor-detine-trei-bacanii-brasov-e-greu-fii-comerciant-mic-independent-romania-avantajul-nostru-il-reprezinta-flexibilitatea-brandul-bacania-tomita-deschise-trei-unitati-una-23221197",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8e0ece94cbf7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/generatie-antreprenori-lactate-milapo-fresh-maramures-pornit-acum-13-ani-mica-sectie-productie-iar-acum-distribuie-lactatele-magazine-kaufland-carrefour-mega-image-nordul-tarii-23221252",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noua generaţie de antreprenori din lactate. Milapo Fresh din Maramureş a pornit acum 13 ani cu o mică secţie de producţie, iar acum distribuie lactatele în magazine Kaufland, Carrefour şi Mega Image din nordul ţării",
+    "body_orig": "„Produsele Milapo Fresh sunt prezente în reţelele de magazine din judeţul Maramureş, Satu Mare şi Sălaj , dar şi în marile lanţuri de retail, pe platforme de producători locali precum Roade de Oraş şi la târguri. Colaborăm cu hipermarketurile Carrefour din Baia Mare, Sighetu Marmaţiei, Satu Mare, Zalău, urmează Cluj, Kaufland din Baia Mare,  Mega Image din Satu Mare, iar în perioada următoare ne vom extinde şi pe hipermarketurile Auchan din Baia Mare“, a spus Dorina Dimofte, fondatoarea companiei pentru ZF.",
+    "published": "2026-08-21T21:07:00",
+    "fetched": "2026-08-22T04:56:12.972688",
+    "title_uk": "Milapo Fresh розширює дистрибуцію в рітейлі Румунії",
+    "summary_uk": "Компанія Milapo Fresh, заснована 13 років тому, постачає молочні продукти в мережі Kaufland, Carrefour та Mega Image в Румунії. Продукція доступна в магазинах у Марамуреші, Сату-Маре та Саладжі, а також на платформах для місцевих виробників. У найближчому майбутньому компанія планує розширення до Auchan у Баїї-Марі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розширення дистрибуції Milapo Fresh може вплинути на конкуренцію в категорії молочних продуктів. Слідкуйте за змінами в асортименті та переглядайте стратегії роботи з постачальниками."
+    },
+    "tags": [
+      "дистрибуція",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "distribution-case",
+    "title": "Milapo Fresh розширює дистрибуцію в рітейлі Румунії",
+    "summary": "Компанія Milapo Fresh, заснована 13 років тому, постачає молочні продукти в мережі Kaufland, Carrefour та Mega Image в Румунії. Продукція доступна в магазинах у Марамуреші, Сату-Маре та Саладжі, а також на платформах для місцевих виробників. У найближчому майбутньому компанія планує розширення до Auchan у Баїї-Марі.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/generatie-antreprenori-lactate-milapo-fresh-maramures-pornit-acum-13-ani-mica-sectie-productie-iar-acum-distribuie-lactatele-magazine-kaufland-carrefour-mega-image-nordul-tarii-23221252",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3ed41d209808",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/misca-bogatii-banii-conturi-numarul-romanilor-depozite-mari-banci-peste-plafonul-garantat-100-000-euro-s-apropiat-86-000-final-s1-2026-ultimul-an-aproape-4-000-romani-au-intrat-clubul-bogatilor-au-23221306",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum mai mişcă bogaţii banii în conturi? Numărul românilor cu depozite mari la bănci, peste plafonul garantat de 100.000 euro, s-a apropiat de 86.000 la final de S1/2026. În ultimul an, aproape 4.000 de români au intrat în clubul bogaţilor. Cum au reuşit?",
+    "body_orig": "Un număr de aproape 86.000 de persoane fizice erau la finalul primului semestru (S1) din acest an în clubul românilor bogaţi, având depozite bancare mai mari de 100.000 de euro, cu o valoare cumulată de 100 mld. lei (echivalentul a circa 20 mld. euro), potrivit celor mai recente statistici ale Fondului de Garantare a Depozitelor Bancare (FGDB).",
+    "published": "2026-08-21T21:07:00",
+    "fetched": "2026-08-22T04:56:12.972699",
+    "title_uk": "Кількість румунів з великими депозитами зросла до 86 тисяч",
+    "summary_uk": "На кінець першого півріччя 2026 року в Румунії налічувалося близько 86 тисяч осіб з депозитами понад €100 тисяч. Загальна сума цих депозитів становить приблизно €20 млрд. За рік до клубу багатих приєдналися близько 4 тисяч нових осіб.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Кількість румунів з великими депозитами зросла до 86 тисяч",
+    "summary": "На кінець першого півріччя 2026 року в Румунії налічувалося близько 86 тисяч осіб з депозитами понад €100 тисяч. Загальна сума цих депозитів становить приблизно €20 млрд. За рік до клубу багатих приєдналися близько 4 тисяч нових осіб.",
+    "link": "https://www.zf.ro/banci-si-asigurari/misca-bogatii-banii-conturi-numarul-romanilor-depozite-mari-banci-peste-plafonul-garantat-100-000-euro-s-apropiat-86-000-final-s1-2026-ultimul-an-aproape-4-000-romani-au-intrat-clubul-bogatilor-au-23221306",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "123b89361433",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-construct/strabag-face-pariu-intra-piata-locala-instalatii-constructii-civile-industriale-filiala-grupului-achizitiona-firmele-romanesti-brenneka-install-samivo-instal-bacau-afaceri-totale-133-milioane-lei-23221274",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "STRABAG face un nou pariu şi intră pe piaţa locală de instalaţii pentru construcţii civile şi industriale: o filială a grupului va achiziţiona firmele româneşti Brenneka Install şi Samivo Instal din Bacău, cu afaceri totale de 133 milioane de lei",
+    "body_orig": "STRABAG Property and Facility Services (STRABAG PFS), o filială a grupului european de construcţii STRABAG, va achiziţiona companiile româneşti Brenneka Install SRL şi Samivo Instal SRL, controlate de Mihai Ojog şi Lucian Florentin Vultur, cu sediul central în Bacău şi cu un birou operaţional în Bucureşti.",
+    "published": "2026-08-21T21:05:00",
+    "fetched": "2026-08-22T04:56:12.972709",
+    "title_uk": "STRABAG входить на ринок установок у Румунії через нові придбання",
+    "summary_uk": "STRABAG PFS, підрозділ європейського будівельного гіганта STRABAG, оголосив про придбання румунських компаній Brenneka Install та Samivo Instal. Загальний обсяг їхніх бізнесів становить 133 млн леїв. Операції компаній зосереджені в Бacăу та Бухаресті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "STRABAG входить на ринок установок у Румунії через нові придбання",
+    "summary": "STRABAG PFS, підрозділ європейського будівельного гіганта STRABAG, оголосив про придбання румунських компаній Brenneka Install та Samivo Instal. Загальний обсяг їхніх бізнесів становить 133 млн леїв. Операції компаній зосереджені в Бacăу та Бухаресті.",
+    "link": "https://www.zf.ro/business-construct/strabag-face-pariu-intra-piata-locala-instalatii-constructii-civile-industriale-filiala-grupului-achizitiona-firmele-romanesti-brenneka-install-samivo-instal-bacau-afaceri-totale-133-milioane-lei-23221274",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6179fbc256bc",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/signant-health-din-iasi-fosta-crf-health-services-a-ajuns-la-afaceri-de-133-1-mil-lei-in-2025-al-noualea-an-consecutiv-de-crestere-dar-si-a-redus-echipa-pentru-prima-data-cu-37-de-oameni-23221284",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Signant Health din Iaşi, fosta CRF Health Services, a ajuns la afaceri de 133,1 mil. lei în 2025, al nouălea an consecutiv de creştere, dar şi-a redus echipa pentru prima dată, cu 37 de oameni",
+    "body_orig": "Signant Health, compania din Iaşi care dezvoltă tehnologie pentru studii clinice, a ajuns în 2025 la afaceri de 133,1 mil. lei (26,4 mil. euro), în creştere cu 6,9% faţă de anul anterior, iar profitul net a urcat cu 3,6%, la 5,8 mil. lei (1,1 mil. euro), potrivit datelor de la Ministerul Finanţelor.",
+    "published": "2026-08-21T21:03:00",
+    "fetched": "2026-08-22T04:56:12.972719",
+    "title_uk": "Signant Health з Румунії показала зростання, але скоротила команду",
+    "summary_uk": "Signant Health, компанія з Іасі, досягла доходу €26.4 млн у 2025 році, що на 7% більше, ніж торік. Чистий прибуток зріс на 4% до €1.1 млн. Однак вперше за дев'ять років компанія скоротила штат на 37 осіб.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Signant Health з Румунії показала зростання, але скоротила команду",
+    "summary": "Signant Health, компанія з Іасі, досягла доходу €26.4 млн у 2025 році, що на 7% більше, ніж торік. Чистий прибуток зріс на 4% до €1.1 млн. Однак вперше за дев'ять років компанія скоротила штат на 37 осіб.",
+    "link": "https://www.zf.ro/business-hi-tech/signant-health-din-iasi-fosta-crf-health-services-a-ajuns-la-afaceri-de-133-1-mil-lei-in-2025-al-noualea-an-consecutiv-de-crestere-dar-si-a-redus-echipa-pentru-prima-data-cu-37-de-oameni-23221284",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3f5b301eea47",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/regnology-romania-din-sibiu-fosta-bearingpoint-software-solutions-a-avut-afaceri-de-132-9-mil-lei-in-2025-cu-a-doua-firma-a-grupului-german-cea-din-cluj-businessul-local-trece-de-262-mil-lei-23221290",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Regnology România din Sibiu, fosta BearingPoint Software Solutions, a avut afaceri de 132,9 mil. lei în 2025. Cu a doua firmă a grupului german, cea din Cluj, businessul local trece de 262 mil. lei",
+    "body_orig": "Regnology România, compania din Sibiu care dezvoltă software pentru raportările obligatorii ale băncilor către autorităţile de supraveghere, a avut în 2025 afaceri de 132,9 mil. lei (26,4 mil. euro), aproape neschimbate faţă de anul anterior, iar profitul net a scăzut cu 25,1%, la 45,1 mil. lei (9 mil. euro), conform datelor raportate la Ministerul Finanţelor.",
+    "published": "2026-08-21T21:03:00",
+    "fetched": "2026-08-22T04:56:12.972729",
+    "title_uk": "Regnology România зафіксувала стабільний дохід у 2025 році",
+    "summary_uk": "Regnology România, компанія з Сібіу, отримала доходи в €26.4 млн у 2025 році, що майже не змінилося в порівнянні з попереднім роком. Чистий прибуток знизився на 25% до €9 млн. Друга компанія групи в Клужі також сприяє загальному доходу, перевищуючи €52.5 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Regnology România зафіксувала стабільний дохід у 2025 році",
+    "summary": "Regnology România, компанія з Сібіу, отримала доходи в €26.4 млн у 2025 році, що майже не змінилося в порівнянні з попереднім роком. Чистий прибуток знизився на 25% до €9 млн. Друга компанія групи в Клужі також сприяє загальному доходу, перевищуючи €52.5 млн.",
+    "link": "https://www.zf.ro/business-hi-tech/regnology-romania-din-sibiu-fosta-bearingpoint-software-solutions-a-avut-afaceri-de-132-9-mil-lei-in-2025-cu-a-doua-firma-a-grupului-german-cea-din-cluj-businessul-local-trece-de-262-mil-lei-23221290",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ef2d56d9b02",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/chinezii-de-la-hexing-au-dublat-capitalul-fabricii-de-contoare-inteligente-de-langa-timisoara-la-51-mil-lei-in-2025-23221293",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Chinezii de la Hexing au dublat capitalul fabricii de contoare inteligente de lângă Timişoara, la 51 mil. lei, în 2025",
+    "body_orig": "Hexing Technologies Europe, fabrica de contoare inteligente pe care grupul chinezesc Hexing a ridicat-o la Giarmata, lângă Timişoara, şi-a majorat capitalul social de la 25 la 51 de milioane de lei, potrivit unei decizii a asociatului unic din 30 noiembrie 2025, publicată recent în Monitorul Oficial.",
+    "published": "2026-08-21T21:03:00",
+    "fetched": "2026-08-22T04:56:12.972739",
+    "title_uk": "Hexing подвоїв капітал заводу в Румунії до 51 млн леїв",
+    "summary_uk": "Hexing Technologies Europe збільшила капітал свого заводу в Гіарматі з 25 до 51 млн леїв. Це рішення ухвалено 30 листопада 2025 року. Завод спеціалізується на виробництві смарт-лічильників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Hexing подвоїв капітал заводу в Румунії до 51 млн леїв",
+    "summary": "Hexing Technologies Europe збільшила капітал свого заводу в Гіарматі з 25 до 51 млн леїв. Це рішення ухвалено 30 листопада 2025 року. Завод спеціалізується на виробництві смарт-лічильників.",
+    "link": "https://www.zf.ro/business-hi-tech/chinezii-de-la-hexing-au-dublat-capitalul-fabricii-de-contoare-inteligente-de-langa-timisoara-la-51-mil-lei-in-2025-23221293",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c835e355cff8",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/orange-romania-a-majorat-cu-alte-3-5-milioane-de-euro-capitalul-filialei-sale-de-telecomunicatii-nextgen-prima-transa-a-unei-noi-infuzii-de-7-milioane-de-euro-23221296",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Orange România a majorat cu alte 3,5 milioane de euro capitalul filialei sale de telecomunicaţii NextGen, prima tranşă a unei noi infuzii de 7 milioane de euro",
+    "body_orig": "Orange România, liderul pieţei locale de telecom după venituri, a majorat capitalul social al filialei sale de telecomunicaţii NextGen Communications printr-un aport în numerar de 17,8 milioane de lei (3,5 milioane de euro).",
+    "published": "2026-08-21T21:03:00",
+    "fetched": "2026-08-22T04:56:12.972748",
+    "title_uk": "Orange România інвестує €3.5 млн у NextGen Communications",
+    "summary_uk": "Orange România збільшила капітал своєї філії NextGen Communications на €3.5 млн. Це перша частина нової інвестиції в €7 млн, що підтверджує наміри компанії зміцнити позиції на ринку телекомунікацій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Orange România інвестує €3.5 млн у NextGen Communications",
+    "summary": "Orange România збільшила капітал своєї філії NextGen Communications на €3.5 млн. Це перша частина нової інвестиції в €7 млн, що підтверджує наміри компанії зміцнити позиції на ринку телекомунікацій.",
+    "link": "https://www.zf.ro/business-hi-tech/orange-romania-a-majorat-cu-alte-3-5-milioane-de-euro-capitalul-filialei-sale-de-telecomunicatii-nextgen-prima-transa-a-unei-noi-infuzii-de-7-milioane-de-euro-23221296",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8fdf74c78618",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/unde-se-va-aseza-pretul-energiei-in-2027-diferente-uriase-intre-cat-cer-producatorii-si-cat-ar-oferi-clientii-licitatii-anulate-pe-banda_970014.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Unde se va așeza prețul energiei în 2027? Diferențe uriașe între cât cer producătorii și cât ar oferi clienții, licitații anulate pe bandă",
+    "body_orig": "Diferențele mari de prețuri între cât se cere ți cât se oferă pe energia profil bandă cu livrare anul viitor nu permit încheierea de tranzacții pe piața la termen.",
+    "published": "2026-08-21T20:19:49",
+    "fetched": "2026-08-22T04:56:14.996648",
+    "title_uk": "Ціни на енергію в Румунії: великі розбіжності між попитом і пропозицією",
+    "summary_uk": "На ринку енергії в Румунії існують значні розбіжності між цінами, які пропонують виробники, і тими, що готові платити споживачі. Це ускладнює укладання угод на ринку термінових контрактів. Ліцензії на продаж енергії скасовуються через відсутність узгодження цін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на енергію в Румунії: великі розбіжності між попитом і пропозицією",
+    "summary": "На ринку енергії в Румунії існують значні розбіжності між цінами, які пропонують виробники, і тими, що готові платити споживачі. Це ускладнює укладання угод на ринку термінових контрактів. Ліцензії на продаж енергії скасовуються через відсутність узгодження цін.",
+    "link": "https://www.economica.net/unde-se-va-aseza-pretul-energiei-in-2027-diferente-uriase-intre-cat-cer-producatorii-si-cat-ar-oferi-clientii-licitatii-anulate-pe-banda_970014.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5a5c8e34fad7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/autostrada-a1-sibiu-pitesti-75_970144.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Autostrada A1 Sibiu – Pitești: Lucrările la cel mai lung tunel ar putea începe din toamnă – surse",
+    "body_orig": "WeBuild va lansa utilajul TBM pentru forarea tunelului Poiana (1,78 kilometri) la portalul dinspre Sibiu, și nu la cel dinspre Pitești, cum era prevăzut inițial. Lucrările la cel mai lung tunel din Autostrada A1 Sibiu - Pitești ar putea începe din toamnă.",
+    "published": "2026-08-21T17:35:55",
+    "fetched": "2026-08-22T04:56:14.996657",
+    "title_uk": "Початок робіт над тунелем на автостраді A1 може відбутися восени",
+    "summary_uk": "Компанія WeBuild планує запустити бурильний комплекс для тунелю Poiana довжиною 1,8 км. Роботи можуть розпочатися восени цього року. Тунель стане найдовшим на автостраді A1 між Сібіу та Пітешті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Початок робіт над тунелем на автостраді A1 може відбутися восени",
+    "summary": "Компанія WeBuild планує запустити бурильний комплекс для тунелю Poiana довжиною 1,8 км. Роботи можуть розпочатися восени цього року. Тунель стане найдовшим на автостраді A1 між Сібіу та Пітешті.",
+    "link": "https://www.economica.net/autostrada-a1-sibiu-pitesti-75_970144.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "102d75d977d3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/electro-alfa-international-raporteaza-venituri-in-crestere-cu-18-in-primele-sase-luni-din-2026_970199.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Electro-Alfa International raportează venituri în creştere cu 18% în primele şase luni din 2026",
+    "body_orig": "Electro-Alfa International, producător român de echipamente electrice şi furnizor deservicii EPC şi IT, listat la Bursa de Valori Bucureşti, raportează venituri totale consolidate de 364,3 milioane de lei în primul semestru al anului 2026, în creştere cu 18,1% comparativ cu aceeaşi perioadă din 2025, potrivit unui comunicat al companiei.",
+    "published": "2026-08-21T16:45:55",
+    "fetched": "2026-08-22T04:56:14.996666",
+    "title_uk": "Electro-Alfa International збільшує доходи на 18% у першій половині 2026",
+    "summary_uk": "Electro-Alfa International, румунський виробник електричного обладнання, повідомив про доходи в €75 млн за перші шість місяців 2026 року. Це на 18% більше порівняно з аналогічним періодом 2025 року. Компанія також надає послуги EPC та IT.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Electro-Alfa International збільшує доходи на 18% у першій половині 2026",
+    "summary": "Electro-Alfa International, румунський виробник електричного обладнання, повідомив про доходи в €75 млн за перші шість місяців 2026 року. Це на 18% більше порівняно з аналогічним періодом 2025 року. Компанія також надає послуги EPC та IT.",
+    "link": "https://www.economica.net/electro-alfa-international-raporteaza-venituri-in-crestere-cu-18-in-primele-sase-luni-din-2026_970199.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "90dfa7db2051",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/schema-de-erbicidare-la-rapita-8-criterii-tehnice-pentru-decizii-adaptate-conditiilor-din-camp_970193.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Schema de erbicidare la rapiță: 8 criterii tehnice pentru decizii adaptate condițiilor din câmp",
+    "body_orig": "Buruienile reprezintă una dintre principalele probleme ale culturii de rapiță. Menținerea lor sub pragul economic de dăunare cere combinarea măsurilor de combatere privind măsuri agrotehnice și tratamente cu erbicide. Iată care sunt 8 criterii tehnice care pot orienta schema de erbicidare în funcție de situația din parcelă.",
+    "published": "2026-08-21T16:35:56",
+    "fetched": "2026-08-22T04:56:14.996675",
+    "title_uk": "Вісім критеріїв для боротьби з бур'янами в ріпаку",
+    "summary_uk": "Бур'яни залишаються серйозною проблемою для ріпаку. Для їх контролю важливо поєднувати агротехнічні заходи та використання гербіцидів. Запропоновано вісім технічних критеріїв, які допоможуть адаптувати схему обробки залежно від умов на полі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Вісім критеріїв для боротьби з бур'янами в ріпаку",
+    "summary": "Бур'яни залишаються серйозною проблемою для ріпаку. Для їх контролю важливо поєднувати агротехнічні заходи та використання гербіцидів. Запропоновано вісім технічних критеріїв, які допоможуть адаптувати схему обробки залежно від умов на полі.",
+    "link": "https://www.economica.net/schema-de-erbicidare-la-rapita-8-criterii-tehnice-pentru-decizii-adaptate-conditiilor-din-camp_970193.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d9c7485dee8b",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/21/uriad-zminiv-sklad-nagliadovoyi-radi-sense-bank/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Уряд припинив повноваження Гладишенка у Sense Bank. Державний банк готують до продажу",
+    "body_orig": "Також за пропозицією Міністерства фінансів до наглядової ради призначили нового представника держави",
+    "published": "2026-08-21T17:45:00",
+    "fetched": "2026-08-22T04:56:04.184874",
+    "title_uk": "Гладишенка усунули з Sense Bank, банк готують до продажу",
+    "summary_uk": "Уряд України припинив повноваження Гладишенка у Sense Bank. Міністерство фінансів запропонувало нового представника держави до наглядової ради. Це свідчить про підготовку до продажу державного банку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Гладишенка усунули з Sense Bank, банк готують до продажу",
+    "summary": "Уряд України припинив повноваження Гладишенка у Sense Bank. Міністерство фінансів запропонувало нового представника держави до наглядової ради. Це свідчить про підготовку до продажу державного банку.",
+    "link": "https://ain.ua/2026/08/21/uriad-zminiv-sklad-nagliadovoyi-radi-sense-bank/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "190a81d29264",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/fopam-i-biznesu-urizayut-limiti-shho-zminitsya-z-serpnya-9q43z2",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ФОПам і бізнесу урізають ліміти: що зміниться з серпня",
+    "body_orig": "Український бізнес у 2026 році зіткнеться з посиленим банківським контролем. ФОПи та юридичні особи з підвищеним ризиком отримають автоматичні ліміти на перекази, а банки уважніше аналізуватимуть походження коштів, контрагентів та реальну діяльність бізнесу, пише 7eminar.",
+    "published": "2026-08-21T19:35:07",
+    "fetched": "2026-08-22T04:56:05.611647",
+    "title_uk": "ФОПам і бізнесу урізають ліміти на перекази з серпня 2026",
+    "summary_uk": "З серпня 2026 року в Україні запровадять автоматичні ліміти на перекази для ФОПів та юридичних осіб з підвищеним ризиком. Банки посилять контроль за походженням коштів та діяльністю бізнесу. Це вплине на фінансові операції підприємств.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зміни в контролі за переказами можуть вплинути на фінансові показники бізнесу. Рекомендується переглянути фінансові стратегії та плани на 2026 рік."
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "ФОПам і бізнесу урізають ліміти на перекази з серпня 2026",
+    "summary": "З серпня 2026 року в Україні запровадять автоматичні ліміти на перекази для ФОПів та юридичних осіб з підвищеним ризиком. Банки посилять контроль за походженням коштів та діяльністю бізнесу. Це вплине на фінансові операції підприємств.",
+    "link": "https://speka.ua/news/fopam-i-biznesu-urizayut-limiti-shho-zminitsya-z-serpnya-9q43z2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ffc0f6e38636",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/yak-zminivsya-ukrayinskii-e-commerce-u-2026-pn4nzz",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як змінився український eCommerce у 2026",
+    "body_orig": "Український eCommerce у першій половині 2026 року продемонстрував парадоксальну картину: доходи в більшості великих категорій зростають, але залучати якісний трафік стає дедалі складніше.",
+    "published": "2026-08-21T17:03:18",
+    "fetched": "2026-08-22T04:56:05.611676",
+    "title_uk": "Зростання доходів українського eCommerce в 2026 році",
+    "summary_uk": "У першій половині 2026 року доходи в більшості великих категорій українського eCommerce зросли, але залучення якісного трафіку стає складнішим. Це свідчить про зміну поведінки споживачів та потребу в нових стратегіях маркетингу. Учасники ринку мають адаптувати свої підходи до залучення клієнтів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Необхідно переглянути стратегії залучення трафіку та адаптувати маркетингові кампанії для підвищення конверсії."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання доходів українського eCommerce в 2026 році",
+    "summary": "У першій половині 2026 року доходи в більшості великих категорій українського eCommerce зросли, але залучення якісного трафіку стає складнішим. Це свідчить про зміну поведінки споживачів та потребу в нових стратегіях маркетингу. Учасники ринку мають адаптувати свої підходи до залучення клієнтів.",
+    "link": "https://speka.ua/news/yak-zminivsya-ukrayinskii-e-commerce-u-2026-pn4nzz",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
