@@ -231698,5 +231698,282 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "48fa3c86416b",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowy-lek-Eli-Lilly-bije-rekordy-Takiej-redukcji-masy-ciala-jeszcze-nie-bylo-9185586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowy lek Eli Lilly bije rekordy. Takiej redukcji masy ciała jeszcze nie było",
+    "body_orig": "Eli Lilly, producent popularnego Mounjaro, wkrótce może wprowadzić na rynek nowy przełomowy lek na otyłość. „Nigdy wcześniej nie obserwowaliśmy takiej redukcji masy ciała” – mówi Patrik Jönsson, szwedzki członek najwyższego kierownictwa amerykańskiego giganta farmaceutycznego, który zdecydowanie wyprzedził duńską firmę Novo Nordisk.",
+    "published": "2026-08-23T05:00:00",
+    "fetched": "2026-08-23T04:58:19.638036",
+    "title_uk": "Eli Lilly готує новий препарат для боротьби з ожирінням",
+    "summary_uk": "Eli Lilly планує випустити новий препарат для зниження ваги, який демонструє рекордну ефективність. За словами керівника компанії, результати перевершують досягнення конкурентів, зокрема Novo Nordisk. Препарат обіцяє значну редукцію маси тіла, що може змінити ринок лікування ожиріння.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Новий препарат може стати конкурентом для існуючих продуктів на польському ринку. Дистриб'юторам варто стежити за його впровадженням.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей препарат може вплинути на категорію здорового харчування та дієтичних продуктів. Рекомендується переглянути асортимент і стратегії просування в цій категорії."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Eli Lilly готує новий препарат для боротьби з ожирінням",
+    "summary": "Eli Lilly планує випустити новий препарат для зниження ваги, який демонструє рекордну ефективність. За словами керівника компанії, результати перевершують досягнення конкурентів, зокрема Novo Nordisk. Препарат обіцяє значну редукцію маси тіла, що може змінити ринок лікування ожиріння.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowy-lek-Eli-Lilly-bije-rekordy-Takiej-redukcji-masy-ciala-jeszcze-nie-bylo-9185586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ff2386011358",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/banki/tyle-kosztuje-cisza-bank-zaplacil-sedzia-nie-pozwala-zamknac-sprawy-7318415695317184a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tyle kosztuje cisza. Bank zapłacił, sędzia nie pozwala zamknąć sprawy",
+    "body_orig": "Bank naliczał klientowi odsetki także od prowizji, którą od razu zatrzymał dla siebie. Gdy sąd zapytał TSUE, czy tak wolno, bank ustąpił i zapłacił 11,3 tys. zł. Trybunał umorzył postępowanie. Sędzia z Łodzi nie odpuszcza, bo odpowiedź może mieć znaczenie dla tysięcy podobnych kredytów. Money.pl poznał kulisy tej batalii.",
+    "published": "2026-08-23T04:19:34",
+    "fetched": "2026-08-23T04:58:23.718407",
+    "title_uk": "Банк виплатив 11.3 тис. злотих через спір з відсотками",
+    "summary_uk": "Банк сплатив клієнту €2.5 тис. через неправомірне нарахування відсотків на комісію. Суд запитав у TSUE про законність дій банку, після чого банк вирішив закрити справу. Суддя з Łodzi продовжує справу, оскільки це може вплинути на тисячі кредитів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Банк виплатив 11.3 тис. злотих через спір з відсотками",
+    "summary": "Банк сплатив клієнту €2.5 тис. через неправомірне нарахування відсотків на комісію. Суд запитав у TSUE про законність дій банку, після чого банк вирішив закрити справу. Суддя з Łodzi продовжує справу, оскільки це може вплинути на тисячі кредитів.",
+    "link": "https://www.money.pl/banki/tyle-kosztuje-cisza-bank-zaplacil-sedzia-nie-pozwala-zamknac-sprawy-7318415695317184a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2626983f17b6",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/pieniadze/posiadanie-to-klopot-milioner-szczerze-o-pieniadzach-7315548360393793v.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Posiadanie to kłopot\". Milioner szczerze o pieniądzach",
+    "body_orig": "Zbudowali markę, która pokonała francuskich i niemieckich gigantów kosmetycznych na polskim rynku aptecznym, zatrudniają tysiąc osób i od czterdziestu lat rozwijają firmę bez jednego roku spadku sprzedaży, nie licząc pandemii. A mimo to Henryk Orfinger, współtwórca marki Dr Irena Eris, w rozmowie w programie \"Biznes Klasa\" Łukasza Kijka powtarza jedno zdanie z uporem: pieniądze nigdy nie były celem, były narzędziem. Zobacz całą rozmowę w \"Biznes Klasie\".",
+    "published": "2026-08-22T16:29:46",
+    "fetched": "2026-08-23T04:58:23.718448",
+    "title_uk": "Мільйонер про гроші: це лише інструмент",
+    "summary_uk": "Генрик Орфінгер, співзасновник бренду Dr Irena Eris, розповів про свій досвід у бізнесі. Компанія, що змагається з французькими та німецькими гігантами, працює вже 40 років без зниження продажів, окрім пандемії. Він підкреслює, що гроші для нього не є метою, а лише інструментом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Мільйонер про гроші: це лише інструмент",
+    "summary": "Генрик Орфінгер, співзасновник бренду Dr Irena Eris, розповів про свій досвід у бізнесі. Компанія, що змагається з французькими та німецькими гігантами, працює вже 40 років без зниження продажів, окрім пандемії. Він підкреслює, що гроші для нього не є метою, а лише інструментом.",
+    "link": "https://www.money.pl/pieniadze/posiadanie-to-klopot-milioner-szczerze-o-pieniadzach-7315548360393793v.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8958ae7afbc0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/zf-index-imobiliar-cartierul-care-s-a-scumpit-cel-mai-mult-din-bucuresti-cu-30-000-de-euro-mai-mult-pentru-un-apartament-vechi-cu-trei-camere-fata-de-acum-un-an-23213178",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Index Imobiliar. Cartierul care s-a scumpit cel mai mult din Bucureşti: cu 30.000 de euro mai mult pentru un apartament vechi cu trei camere faţă de acum un an",
+    "body_orig": "Crângaşi este cartierul care s-a scumpit cel mai mult din Bucureşti: preţul mediu cerut pentru un aparta­ment vechi cu trei camere a urcat la 139.000 de euro, cu 30.000 de euro peste nivelul de acum un an, un avans anual de 27,5%. În iu­lie, media zonei a crescut cu 7.000 de euro, cel mai puternic salt lunar din oraş.",
+    "published": "2026-08-22T17:00:00",
+    "fetched": "2026-08-23T04:58:45.751472",
+    "title_uk": "Ціни на нерухомість у Бухаресті зросли на 30 тис. євро за рік",
+    "summary_uk": "У Бухаресті район Crângaşi став найдорожчим для покупки старих квартир. Ціна на трикімнатну квартиру зросла до €139 тис., що на €30 тис. більше, ніж рік тому. За рік ціни зросли на 28%. У липні середня ціна зросла на €7 тис., що є найбільшим місячним зростанням у місті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на нерухомість у Бухаресті зросли на 30 тис. євро за рік",
+    "summary": "У Бухаресті район Crângaşi став найдорожчим для покупки старих квартир. Ціна на трикімнатну квартиру зросла до €139 тис., що на €30 тис. більше, ніж рік тому. За рік ціни зросли на 28%. У липні середня ціна зросла на €7 тис., що є найбільшим місячним зростанням у місті.",
+    "link": "https://www.zf.ro/companii/zf-index-imobiliar-cartierul-care-s-a-scumpit-cel-mai-mult-din-bucuresti-cu-30-000-de-euro-mai-mult-pentru-un-apartament-vechi-cu-trei-camere-fata-de-acum-un-an-23213178",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bdf6f1de13cf",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/polonia-transportul-pasageri-trenul-plina-epoca-aur-anunta-vremuri-bune-trenul-niepieszny-graba-carui-design-atmosfera-evoca-anii-1980-dovedeste-foarte-popular-randul-calatorilor-23218041",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "În Polonia, transportul de pasageri cu trenul este în plină epocă de aur. Şi se anunţă vremuri şi mai bune. Trenul „Niepieszny“ (Fără grabă), al cărui design şi atmosferă evocă anii 1980, se dovedeşte a fi foarte popular în rândul călătorilor.",
+    "body_orig": "În timp ce în România transportul de pasageri pe calea ferată este în declin, anul trecut numărul de călă­tori fiind la jumătate faţă de 2001, în Polonia acest sector este la cote istorice. Trenul este forma de trans­port pe distanţe lungi preferată de polonezi. O dovedeşte compania de stat PKP Intercity, care se ocupă de rutele ce leagă principalele oraşe ale ţării, echivalentul reşedinţelor de judeţ în România, şi nu numai.",
+    "published": "2026-08-22T16:00:00",
+    "fetched": "2026-08-23T04:58:45.751484",
+    "title_uk": "Польща відзначає зростання популярності залізничного транспорту",
+    "summary_uk": "У Польщі спостерігається рекордний попит на залізничні перевезення. Компанія PKP Intercity повідомляє про зростання кількості пасажирів, що обирають поїзди для подорожей між містами. На відміну від Румунії, де залізничний транспорт втрачає популярність, Польща демонструє зворотну тенденцію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності залізничного транспорту може підвищити попит на товари, що постачаються через залізничні маршрути. Розгляньте можливість оптимізації логістики.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в перевагах споживачів може вплинути на асортимент товарів, які пропонуються в магазинах поблизу залізничних станцій. Розгляньте можливість адаптації пропозицій."
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща відзначає зростання популярності залізничного транспорту",
+    "summary": "У Польщі спостерігається рекордний попит на залізничні перевезення. Компанія PKP Intercity повідомляє про зростання кількості пасажирів, що обирають поїзди для подорожей між містами. На відміну від Румунії, де залізничний транспорт втрачає популярність, Польща демонструє зворотну тенденцію.",
+    "link": "https://www.zf.ro/business-hi-tech/polonia-transportul-pasageri-trenul-plina-epoca-aur-anunta-vremuri-bune-trenul-niepieszny-graba-carui-design-atmosfera-evoca-anii-1980-dovedeste-foarte-popular-randul-calatorilor-23218041",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6e3e51b819c8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/sase-state-membre-ue-cer-taxarea-profiturilor-exceptionale-generate-de-companiile-petroliere_970317.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Şase state membre UE cer taxarea profiturilor excepţionale generate de companiile petroliere",
+    "body_orig": "Şase state membre ale Uniunii Europene au solicitat, sâmbătă, introducerea unei taxe la nivelul UE care să se aplice companiilor petroliere, ale căror profituri au crescut vertiginos ca urmare a războiului din Orientul Mijlociu, informează AFP, citată de Agerpres.",
+    "published": "2026-08-22T18:41:57",
+    "fetched": "2026-08-23T04:58:48.974396",
+    "title_uk": "Шість країн ЄС вимагають оподаткування надприбутків нафтовиків",
+    "summary_uk": "Шість держав ЄС закликали до запровадження податку на прибутки нафтових компаній, які зросли через конфлікти на Близькому Сході. Ця ініціатива обговорюється на рівні Євросоюзу. Влада сподівається, що новий податок допоможе зібрати додаткові кошти для бюджетів країн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Шість країн ЄС вимагають оподаткування надприбутків нафтовиків",
+    "summary": "Шість держав ЄС закликали до запровадження податку на прибутки нафтових компаній, які зросли через конфлікти на Близькому Сході. Ця ініціатива обговорюється на рівні Євросоюзу. Влада сподівається, що новий податок допоможе зібрати додаткові кошти для бюджетів країн.",
+    "link": "https://www.economica.net/sase-state-membre-ue-cer-taxarea-profiturilor-exceptionale-generate-de-companiile-petroliere_970317.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d4b39d57f1be",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/olandezii-de-la-action-cu-preturi-mici-intra-in-patru-orase-si-ofera-salarii-care-incep-de-la-4-000-lei-pentru-manageri-adjuncti-de-magazine_969955.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Olandezii de la Action, cu preţuri mici, intră în patru oraşe şi oferă salarii care încep de la 4.000 lei pentru manageri adjuncţi de magazine",
+    "body_orig": "Lanțul olandez de magazine cu preţuri mici Action pregăteşte deschiderea unor magazine în Cluj-Napoca, Timişoara, Brăila şi Curtea de Argeş, unde a început recrutările. Compania caută manageri adjuncţi şi manageri de magazine iar salariile nete oferite diferă în funcţie de oraşul în care recrutează.",
+    "published": "2026-08-22T18:37:25",
+    "fetched": "2026-08-23T04:58:48.974416",
+    "title_uk": "Action відкриває нові магазини в чотирьох містах Румунії",
+    "summary_uk": "Оландський ритейлер Action планує відкриття магазинів у Клуж-Напоці, Тімішоарі, Браїлі та Курті-де-Арджеш. Компанія вже розпочала набір на посади менеджерів, зокрема, зарплати для заступників менеджерів стартують від 4 тис. леїв. Ціни на товари в магазинах залишатимуться низькими.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на конкурентне середовище в ритейлі, зокрема на ціни та асортимент товарів у регіоні. Рекомендується стежити за змінами в пропозиціях конкурентів."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Action відкриває нові магазини в чотирьох містах Румунії",
+    "summary": "Оландський ритейлер Action планує відкриття магазинів у Клуж-Напоці, Тімішоарі, Браїлі та Курті-де-Арджеш. Компанія вже розпочала набір на посади менеджерів, зокрема, зарплати для заступників менеджерів стартують від 4 тис. леїв. Ціни на товари в магазинах залишатимуться низькими.",
+    "link": "https://www.economica.net/olandezii-de-la-action-cu-preturi-mici-intra-in-patru-orase-si-ofera-salarii-care-incep-de-la-4-000-lei-pentru-manageri-adjuncti-de-magazine_969955.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
