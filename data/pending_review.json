@@ -231975,5 +231975,1013 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "5a9c9e738b51",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Sredni-dlug-Polaka-przekroczyl-22-7-tys-zl-Jest-coraz-wyzszy-9184146.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Średni dług Polaka przekroczył 22,7 tys. zł. Jest coraz wyższy",
+    "body_orig": "O ponad 700 zł wzrosło w ciągu roku średnie zadłużenie przypadające na jednego mieszkańca Polski i przekroczyło 22,7 tys. zł - wynika z danych ERIF Biura Informacji Gospodarczej. Najczęściej długi dotyczą opłat za telefon, spłaty pożyczek i kredytów oraz alimentów.",
+    "published": "2026-08-23T07:00:00",
+    "fetched": "2026-08-23T16:23:59.819964",
+    "title_uk": "Середній борг поляка перевищив 22,7 тис. злотих",
+    "summary_uk": "Середнє боргове навантаження на одного жителя Польщі зросло на понад 700 злотих за рік, досягнувши 22,7 тис. злотих. Основні причини боргів — оплати за телефон, кредити та аліменти. Дані надані ERIF Бюро інформації економіки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання боргів може зменшити купівельну спроможність споживачів, що вплине на продажі. Рекомендується переглянути асортимент та акції для залучення покупців.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання боргів може призвести до зниження попиту на певні категорії товарів. Рекомендується адаптувати стратегії промоцій та знижок для підтримки продажів."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Середній борг поляка перевищив 22,7 тис. злотих",
+    "summary": "Середнє боргове навантаження на одного жителя Польщі зросло на понад 700 злотих за рік, досягнувши 22,7 тис. злотих. Основні причини боргів — оплати за телефон, кредити та аліменти. Дані надані ERIF Бюро інформації економіки.",
+    "link": "https://www.bankier.pl/wiadomosc/Sredni-dlug-Polaka-przekroczyl-22-7-tys-zl-Jest-coraz-wyzszy-9184146.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "752bc05e6983",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Przelom-na-kolei-Czterech-gigantow-powalczy-o-polskie-pociagi-duzych-predkosci-9185973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Przełom na kolei. Czterech gigantów powalczy o polskie pociągi dużych prędkości",
+    "body_orig": "PKP Intercity zakwalifikowało czterech wykonawców do ostatniego etapu dialogu konkurencyjnego dotyczącego zakupu pociągów dużych prędkości - poinformował minister infrastruktury Dariusz Klimczak. Oznacza to, że ze wszystkimi chętnymi rozpocznie się dialog konkurencyjny.",
+    "published": "2026-08-23T08:22:00",
+    "fetched": "2026-08-23T16:23:59.819975",
+    "title_uk": "Чотири компанії змагатимуться за контракти на швидкісні потяги в Польщі",
+    "summary_uk": "PKP Intercity обрала чотирьох підрядників для фінального етапу конкурсу на постачання швидкісних потягів. Міністр інфраструктури Польщі Дариуш Клімачак повідомив про початок діалогу з усіма учасниками. Це відкриває можливості для нових інвестицій у транспортну інфраструктуру.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може створити нові можливості для дистриб'юторів, які працюють з транспортними компаніями, адже зросте попит на супутні послуги.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Чотири компанії змагатимуться за контракти на швидкісні потяги в Польщі",
+    "summary": "PKP Intercity обрала чотирьох підрядників для фінального етапу конкурсу на постачання швидкісних потягів. Міністр інфраструктури Польщі Дариуш Клімачак повідомив про початок діалогу з усіма учасниками. Це відкриває можливості для нових інвестицій у транспортну інфраструктуру.",
+    "link": "https://www.bankier.pl/wiadomosc/Przelom-na-kolei-Czterech-gigantow-powalczy-o-polskie-pociagi-duzych-predkosci-9185973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bed8443675dd",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/W-polskich-metropoliach-przybylo-mieszkan-kosztujacych-ponad-20-tys-zl-9183703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "W polskich metropoliach przybyło mieszkań kosztujących ponad 20 tys. zł",
+    "body_orig": "W ciągu 12 miesięcy w polskich metropoliach przybyło mieszkań kosztujących ponad 20 tys. zł za metr kwadratowy, a ubyło tańszych lokali - wynika z danych portalu rynekpierwotny.pl. W ujęciu rocznym, w lipcu cena mieszkań we Wrocławiu wzrosła o 4 proc., a w Warszawie spadła 1 proc. - podano.",
+    "published": "2026-08-23T11:00:00",
+    "fetched": "2026-08-23T16:23:59.819983",
+    "title_uk": "У польських містах зросла кількість квартир дорожче 20 тис. злотих за м²",
+    "summary_uk": "В польських метрополіях за рік зросла кількість квартир вартістю понад 20 тис. злотих за квадратний метр. У липні ціни на житло у Вроцлаві зросли на 4%, а у Варшаві знизилися на 1%. Дані надані порталом rynekpierwotny.pl.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на житло може вплинути на попит на товари для ремонту та обслуговування. Розгляньте можливість адаптації асортименту до нових цінових реалій.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в ціновій політиці на ринку нерухомості можуть вплинути на споживчі настрої. Рекомендується переглянути стратегії просування товарів, пов'язаних з домашнім комфортом."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У польських містах зросла кількість квартир дорожче 20 тис. злотих за м²",
+    "summary": "В польських метрополіях за рік зросла кількість квартир вартістю понад 20 тис. злотих за квадратний метр. У липні ціни на житло у Вроцлаві зросли на 4%, а у Варшаві знизилися на 1%. Дані надані порталом rynekpierwotny.pl.",
+    "link": "https://www.bankier.pl/wiadomosc/W-polskich-metropoliach-przybylo-mieszkan-kosztujacych-ponad-20-tys-zl-9183703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d79a8b646101",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/luki-w-zoomie-umozliwialy-przejecie-urzadzen-uczestnikow-spotkania/hl7rw9b",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zoom złamany w dobę. To ważne ostrzeżenie dla firm",
+    "body_orig": "Zespołowi badaczy korzystających z modeli AI wystarczyła niespełna doba, aby znaleźć poważne luki w Zoomie i przygotować atak pozwalający przejąć urządzenia innych uczestników spotkania. Ich zdaniem bariera, która dotąd utrudniała tworzenie tak zaawansowanych ataków, właśnie zniknęła.",
+    "published": "2026-08-23T14:58:47",
+    "fetched": "2026-08-23T16:24:01.811958",
+    "title_uk": "Дослідники виявили вразливості в Zoom за добу",
+    "summary_uk": "Команда дослідників виявила серйозні вразливості в Zoom, які дозволяють атакувати пристрої учасників зустрічей. Це стало можливим завдяки новим AI-моделям. Вразливості можуть загрожувати безпеці користувачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Дослідники виявили вразливості в Zoom за добу",
+    "summary": "Команда дослідників виявила серйозні вразливості в Zoom, які дозволяють атакувати пристрої учасників зустрічей. Це стало можливим завдяки новим AI-моделям. Вразливості можуть загрожувати безпеці користувачів.",
+    "link": "https://businessinsider.com.pl/technologie/luki-w-zoomie-umozliwialy-przejecie-urzadzen-uczestnikow-spotkania/hl7rw9b",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "87ce3ba34ba0",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/takie-plany-ma-na-polske-glovo-rozmawiamy-z-szefowa-platformy/6pp7bwx",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Takie plany ma Glovo na Polskę. Jedna kategoria rośnie o 163 proc. [WYWIAD]",
+    "body_orig": "Dostawy w kilka lat podbiły polski rynek. Nie dotyczą już one tylko dań obiadowych i lunchowych - Polacy zamawiają już nawet elektronikę czy jedzenie dla zwierząt (ta druga kategoria rośnie o 163 proc.!). Jednak przyszłość platform nie musi być różowa. Zmiany w prawie coraz częściej wymuszają zmiany w działalności firm. Co więc się zmienia, co zamawiają Polacy i w czym nasz kraj różni się od Hiszpanii? Rozmawiamy o tym z Elisabet Ricart Roig, szefową Glovo na Polskę.",
+    "published": "2026-08-23T13:18:43",
+    "fetched": "2026-08-23T16:24:01.811974",
+    "title_uk": "Glovo планує розширення в Польщі з новими категоріями",
+    "summary_uk": "Glovo повідомляє про значне зростання попиту на доставку електроніки та їжі для тварин у Польщі. Остання категорія зросла на 163%. Проте, зміни в законодавстві можуть вплинути на діяльність компанії. Керівниця Glovo в Польщі, Елізабет Рікарт Ройг, обговорила ці виклики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання попиту на нові категорії може відкрити можливості для дистриб'юторів, які працюють з електронікою та товарами для тварин.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання категорії товарів для тварин. Можливо, варто переглянути асортимент у ритейлі, щоб включити нові популярні продукти."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Glovo планує розширення в Польщі з новими категоріями",
+    "summary": "Glovo повідомляє про значне зростання попиту на доставку електроніки та їжі для тварин у Польщі. Остання категорія зросла на 163%. Проте, зміни в законодавстві можуть вплинути на діяльність компанії. Керівниця Glovo в Польщі, Елізабет Рікарт Ройг, обговорила ці виклики.",
+    "link": "https://businessinsider.com.pl/gospodarka/takie-plany-ma-na-polske-glovo-rozmawiamy-z-szefowa-platformy/6pp7bwx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d6a84efb4f8",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/pieniadze/zaczynal-od-sprzatania-silowni-dzis-ma-200-klubow-i-200-mln-zl-7320146331936960a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zaczynał od sprzątania siłowni. Dziś ma 200 klubów i 200 mln zł",
+    "body_orig": "Łukasz Dojka jako 17-latek sprzątał siłownię w&nbsp;Stanach Zjednoczonych. Dziś jest współtwórcą sieci Extreme Fitness i&nbsp;Extreme Kids, która liczy ponad 200&nbsp;lokalizacji, w&nbsp;tym roku zabudżetowała przychody przekraczające 200&nbsp;mln zł i&nbsp;szykuje się do ekspansji zagranicznej, zaczynając od Czech. Zobacz najnowszy odcinek \"Biznes Klasy\".",
+    "published": "2026-08-23T15:00:14",
+    "fetched": "2026-08-23T16:24:03.977027",
+    "title_uk": "Підприємець з Польщі відкрив мережу з 200 фітнес-клубів",
+    "summary_uk": "Лукаш Дойка, який починав з прибирання у спортзалі, заснував Extreme Fitness та Extreme Kids. Мережа налічує понад 200 клубів і планує досягти доходу понад 200 млн zł цього року. Компанія готується до міжнародної експансії, починаючи з Чехії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це свідчить про зростання ринку фітнесу в Польщі, що може вплинути на попит на спортивні товари та послуги.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання мережі фітнес-клубів може підвищити конкуренцію за спортивні товари. Рекомендується переглянути асортимент для відповідності новим трендам."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Підприємець з Польщі відкрив мережу з 200 фітнес-клубів",
+    "summary": "Лукаш Дойка, який починав з прибирання у спортзалі, заснував Extreme Fitness та Extreme Kids. Мережа налічує понад 200 клубів і планує досягти доходу понад 200 млн zł цього року. Компанія готується до міжнародної експансії, починаючи з Чехії.",
+    "link": "https://www.money.pl/pieniadze/zaczynal-od-sprzatania-silowni-dzis-ma-200-klubow-i-200-mln-zl-7320146331936960a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "29ca142f7d9c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/home-workout-trend-boosts-fitness-equipment-sales-225931",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Home workout trend boosts fitness equipment sales",
+    "body_orig": "Viral fitness trends are transforming scroll-time into shopping sprees, driving a sustained surge in consumer demand for at-home exercise gear.",
+    "published": "2026-08-23T07:25:29",
+    "fetched": "2026-08-23T16:24:20.222180",
+    "title_uk": "Тренд домашніх тренувань підвищує продажі фітнес-обладнання",
+    "summary_uk": "Популярність домашніх тренувань призвела до зростання попиту на спортивне обладнання. Споживачі активно купують товари для фітнесу, що сприяє зростанню продажів у цій категорії. Це явище спостерігається на ринку Туреччини.",
+    "what_it_means": {
+      "ua_importer": "Зростання попиту на фітнес-обладнання в TR може створити можливості для імпортерів, які працюють з цим сегментом. Рекомендується оцінити потенційні закупівлі.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Виробники фітнес-обладнання в Туреччині можуть скористатися зростанням попиту, розширюючи асортимент і пропозиції для домашніх тренувань.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Тренд домашніх тренувань підвищує продажі фітнес-обладнання",
+    "summary": "Популярність домашніх тренувань призвела до зростання попиту на спортивне обладнання. Споживачі активно купують товари для фітнесу, що сприяє зростанню продажів у цій категорії. Це явище спостерігається на ринку Туреччини.",
+    "link": "https://www.hurriyetdailynews.com/home-workout-trend-boosts-fitness-equipment-sales-225931",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "554710b854b6",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-technic-opens-seventh-hangar-at-ataturk-airport-225930",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish Technic opens seventh hangar at Atatürk Airport",
+    "body_orig": "Marking a key milestone in its operational expansion, Turkish Airlines’ maintenance arm, Turkish Technic, has inaugurated its seventh hangar at Atatürk Airport to meet growing fleet service demands.",
+    "published": "2026-08-23T07:23:42",
+    "fetched": "2026-08-23T16:24:20.222194",
+    "title_uk": "Turkish Technic відкриває сьомий ангар в аеропорту Ататюрка",
+    "summary_uk": "Turkish Technic, підрозділ Turkish Airlines, відкрив сьомий ангар в аеропорту Ататюрка. Це розширення відповідає зростаючим вимогам обслуговування флоту. Відкриття ангару є важливим кроком у розвитку компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Розширення Turkish Technic може свідчити про зростання попиту на авіаперевезення, що може позитивно вплинути на виробників, які постачають продукцію в авіаційну галузь.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Turkish Technic відкриває сьомий ангар в аеропорту Ататюрка",
+    "summary": "Turkish Technic, підрозділ Turkish Airlines, відкрив сьомий ангар в аеропорту Ататюрка. Це розширення відповідає зростаючим вимогам обслуговування флоту. Відкриття ангару є важливим кроком у розвитку компанії.",
+    "link": "https://www.hurriyetdailynews.com/turkish-technic-opens-seventh-hangar-at-ataturk-airport-225930",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "29e8e4d21c42",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/foreign-tourist-arrivals-to-antalya-exceed-10-million-225929",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Foreign tourist arrivals to Antalya exceed 10 million",
+    "body_orig": "The number of foreign tourists arriving in Antalya has exceeded 10 million since the beginning of the year, as the Mediterranean resort city prepares to host the 77th International Astronautical Congress and the COP31 United Nations Climate Change Conference later this year.",
+    "published": "2026-08-23T07:22:09",
+    "fetched": "2026-08-23T16:24:20.222202",
+    "title_uk": "Кількість іноземних туристів в Анталії перевищила 10 мільйонів",
+    "summary_uk": "З початку року Анталія прийняла понад 10 мільйонів іноземних туристів. Місто готується до проведення 77-го Міжнародного астронавтичного конгресу та конференції COP31. Ці події можуть підвищити туристичний потік у регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання туристичного потоку може створити нові можливості для турецьких виробників, які постачають товари для HoReCa. Рекомендується розглянути розширення асортименту для задоволення попиту.",
+      "category_manager": "Зростання туристів може вплинути на попит на певні категорії товарів у ритейлі. Рекомендується переглянути асортимент та запаси, щоб задовольнити потреби туристів."
+    },
+    "tags": [
+      "HoReCa",
+      "туризм"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кількість іноземних туристів в Анталії перевищила 10 мільйонів",
+    "summary": "З початку року Анталія прийняла понад 10 мільйонів іноземних туристів. Місто готується до проведення 77-го Міжнародного астронавтичного конгресу та конференції COP31. Ці події можуть підвищити туристичний потік у регіоні.",
+    "link": "https://www.hurriyetdailynews.com/foreign-tourist-arrivals-to-antalya-exceed-10-million-225929",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6823a9337cfc",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/aselsan-aims-for-30-billion-in-order-backlog-by-year-end-225928",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Aselsan aims for $30 billion in order backlog by year-end",
+    "body_orig": "Turkish defense giant Aselsan expects its order backlog to hit $30 billion by year’s end, Chief Executive Ahmet Akyol has announced, alongside new investments to ramp up naval defense systems.",
+    "published": "2026-08-23T07:19:44",
+    "fetched": "2026-08-23T16:24:20.222209",
+    "title_uk": "Aselsan планує досягти $30 млрд замовлень до кінця року",
+    "summary_uk": "Турецька оборонна компанія Aselsan очікує, що її портфель замовлень досягне $30 млрд до кінця року. Генеральний директор Ахмет Акіол оголосив про нові інвестиції для розширення системи морської оборони.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання замовлень Aselsan може створити можливості для турецьких виробників, які постачають компоненти для оборонної промисловості. Рекомендується розглядати партнерства з Aselsan.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Aselsan планує досягти $30 млрд замовлень до кінця року",
+    "summary": "Турецька оборонна компанія Aselsan очікує, що її портфель замовлень досягне $30 млрд до кінця року. Генеральний директор Ахмет Акіол оголосив про нові інвестиції для розширення системи морської оборони.",
+    "link": "https://www.hurriyetdailynews.com/aselsan-aims-for-30-billion-in-order-backlog-by-year-end-225928",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "efc5d606d410",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/anthropic-market-debut-could-break-ipo-record-media-225927",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Anthropic market debut could break IPO record: Media",
+    "body_orig": "The market debut of artificial intelligence start-up Anthropic, a chief rival to OpenAI, could break the record set by SpaceX, U.S. media have reported.",
+    "published": "2026-08-23T06:23:00",
+    "fetched": "2026-08-23T16:24:20.222216",
+    "title_uk": "Anthropic може побити рекорд IPO SpaceX",
+    "summary_uk": "Штучний інтелект стартап Anthropic, конкурент OpenAI, готується до виходу на ринок. За даними ЗМІ, його дебют може перевершити рекорд IPO SpaceX. Очікується значний інтерес інвесторів до цього заходу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Anthropic може побити рекорд IPO SpaceX",
+    "summary": "Штучний інтелект стартап Anthropic, конкурент OpenAI, готується до виходу на ринок. За даними ЗМІ, його дебют може перевершити рекорд IPO SpaceX. Очікується значний інтерес інвесторів до цього заходу.",
+    "link": "https://www.hurriyetdailynews.com/anthropic-market-debut-could-break-ipo-record-media-225927",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d220ba0bef40",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/tesla-teases-imminent-launch-of-cybercab-robotaxi-225925",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Tesla teases imminent launch of Cybercab 'robotaxi'",
+    "body_orig": "Tesla is teasing the upcoming debut of its self-driving robotaxi, dubbed \"Cybercab,\" to compete with the likes of Uber and Waymo.",
+    "published": "2026-08-23T06:18:28",
+    "fetched": "2026-08-23T16:24:20.222223",
+    "title_uk": "Tesla анонсує запуск роботаксі Cybercab для конкуренції з Uber",
+    "summary_uk": "Tesla готує до запуску своє безпілотне таксі Cybercab, яке має конкурувати з Uber та Waymo. Цей крок може суттєво вплинути на ринок пасажирських перевезень у Туреччині. Дата запуску поки не оголошена.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Виробники, які постачають компоненти для автомобільної промисловості, можуть отримати нові можливості співпраці з Tesla. Рекомендується стежити за новими вимогами до постачання.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Tesla анонсує запуск роботаксі Cybercab для конкуренції з Uber",
+    "summary": "Tesla готує до запуску своє безпілотне таксі Cybercab, яке має конкурувати з Uber та Waymo. Цей крок може суттєво вплинути на ринок пасажирських перевезень у Туреччині. Дата запуску поки не оголошена.",
+    "link": "https://www.hurriyetdailynews.com/tesla-teases-imminent-launch-of-cybercab-robotaxi-225925",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "691a0fb0212a",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/bitcoin-gold-rally-as-investors-turn-to-alternative-assets-225924",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bitcoin, gold rally as investors turn to alternative assets",
+    "body_orig": "Bitcoin and gold surged last week week as investors moved into alternative assets amid turbulence in U.S. bond markets and fresh support for the crypto sector from Washington.",
+    "published": "2026-08-23T06:16:07",
+    "fetched": "2026-08-23T16:24:20.222230",
+    "title_uk": "Біткоїн та золото зростають на тлі нестабільності ринку облігацій США",
+    "summary_uk": "Біткоїн та золото показали значне зростання на минулому тижні. Інвестори переходять до альтернативних активів через нестабільність на ринку облігацій США та нову підтримку криптоіндустрії з боку Вашингтона. Це свідчить про зростаючий інтерес до криптовалют та традиційних активів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Біткоїн та золото зростають на тлі нестабільності ринку облігацій США",
+    "summary": "Біткоїн та золото показали значне зростання на минулому тижні. Інвестори переходять до альтернативних активів через нестабільність на ринку облігацій США та нову підтримку криптоіндустрії з боку Вашингтона. Це свідчить про зростаючий інтерес до криптовалют та традиційних активів.",
+    "link": "https://www.hurriyetdailynews.com/bitcoin-gold-rally-as-investors-turn-to-alternative-assets-225924",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "94fba484ccb2",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tmo-hububat-ureticilerine-145-milyar-lira-odeme-yapti/4035203",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TMO, hububat üreticilerine 145 milyar lira ödeme yaptı",
+    "body_orig": "Tarım ve Orman Bakanı İbrahim Yumaklı, bugüne kadar Toprak Mahsulleri Ofisi (TMO) aracılığıyla 11,7 milyon ton ürün alımı gerçekleştirdiklerini ve üreticilere an itibarıyla 145 milyar lira ödeme yaptıklarını bildirdi.",
+    "published": "2026-08-23T15:35:26",
+    "fetched": "2026-08-23T16:24:24.875485",
+    "title_uk": "Туреччина виплатила 145 млрд лір агровиробникам",
+    "summary_uk": "Міністр сільського господарства Туреччини Ібрагім Юмаклі повідомив, що через Топрак Махсуллері Офісі (TMO) було закуплено 11.7 млн тонн продукції. Виплати агровиробникам склали 145 млрд лір. Ці заходи підтримують аграрний сектор країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це свідчить про стабільність аграрного ринку в Туреччині, що може бути позитивним сигналом для виробників, які планують експорт.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина виплатила 145 млрд лір агровиробникам",
+    "summary": "Міністр сільського господарства Туреччини Ібрагім Юмаклі повідомив, що через Топрак Махсуллері Офісі (TMO) було закуплено 11.7 млн тонн продукції. Виплати агровиробникам склали 145 млрд лір. Ці заходи підтримують аграрний сектор країни.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tmo-hububat-ureticilerine-145-milyar-lira-odeme-yapti/4035203",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "47b15063da7c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-iki-yilda-6-bakanligin-bu-yilki-butcesinden-fazla-tasarruf-yapti/4035004",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye iki yılda 6 bakanlığın bu yılki bütçesinden fazla tasarruf yaptı",
+    "body_orig": "Hazine ve Maliye Bakanlığı öncülüğünde uygulanan tasarruf tedbirleri kapsamında 2024-2025 yıllarında​​​​​​​ 6 bakanlığın bu yılki toplam bütçesini aşacak şekilde 484 milyar lira tasarruf elde edildi.",
+    "published": "2026-08-23T09:00:53",
+    "fetched": "2026-08-23T16:24:24.875512",
+    "title_uk": "Туреччина за два роки зекономила більше бюджету шести міністерств",
+    "summary_uk": "У рамках заходів з економії, 2024-2025 роках Туреччина зекономила €484 млрд. Ця сума перевищує загальний бюджет шести міністерств на 2023 рік. Економія здійснена під керівництвом Міністерства фінансів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Економія в бюджеті може свідчити про стабільність фінансової політики, що позитивно вплине на інвестиційний клімат. Рекомендується слідкувати за змінами в економічній політиці.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина за два роки зекономила більше бюджету шести міністерств",
+    "summary": "У рамках заходів з економії, 2024-2025 роках Туреччина зекономила €484 млрд. Ця сума перевищує загальний бюджет шести міністерств на 2023 рік. Економія здійснена під керівництвом Міністерства фінансів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-iki-yilda-6-bakanligin-bu-yilki-butcesinden-fazla-tasarruf-yapti/4035004",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "825367a9d41f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/moldova-basbakani-tofan-turkiye-ile-ticaret-hacminde-2-milyar-dolar-hedefini-isaret-etti/4034963",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Moldova Başbakanı Tofan, Türkiye ile ticaret hacminde 2 milyar dolar hedefini işaret etti",
+    "body_orig": "Moldova Başbakanı Vasile Tofan, ülkesi ile Türkiye arasındaki ilişkilerin ekonomik, kültürel ve siyasi alanlarda çok güçlü olduğunu belirterek, iki ülke arasındaki ticaret hacmini 2 milyar dolara çıkarmayı hedeflemek gerektiğini söyledi.",
+    "published": "2026-08-23T08:06:36",
+    "fetched": "2026-08-23T16:24:24.875519",
+    "title_uk": "Молдова планує збільшити торгівлю з Туреччиною до $2 млрд",
+    "summary_uk": "Прем'єр-міністр Молдови Василь Тофан заявив про намір підвищити обсяг торгівлі з Туреччиною до $2 млрд. Він підкреслив, що економічні, культурні та політичні зв'язки між країнами є дуже сильними. Цільова сума торгівлі має стати пріоритетом для обох держав.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Збільшення торгівлі з Молдовою може відкрити нові можливості для турецьких виробників, які шукають ринки в Східній Європі.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Молдова планує збільшити торгівлю з Туреччиною до $2 млрд",
+    "summary": "Прем'єр-міністр Молдови Василь Тофан заявив про намір підвищити обсяг торгівлі з Туреччиною до $2 млрд. Він підкреслив, що економічні, культурні та політичні зв'язки між країнами є дуже сильними. Цільова сума торгівлі має стати пріоритетом для обох держав.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/moldova-basbakani-tofan-turkiye-ile-ticaret-hacminde-2-milyar-dolar-hedefini-isaret-etti/4034963",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "707fce854aca",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/altinin-onsu-3-haftadir-yatirimcisinin-yuzunu-gulduruyor/4034960",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Altının onsu 3 haftadır yatırımcısının yüzünü güldürüyor",
+    "body_orig": "Altının onsu, ABD Merkez Bankasının (Fed) faiz artıracağına yönelik öngörülerin zayıflaması ve ABD ekonomi yönetiminin tahvil piyasasına müdahalesiyle dolara olan talebin azalmasıyla 3 haftadır yatırımcısının yüzünü güldürüyor.",
+    "published": "2026-08-23T08:04:43",
+    "fetched": "2026-08-23T16:24:24.875526",
+    "title_uk": "Ціна золота зростає третій тиждень поспіль",
+    "summary_uk": "Ціна золота зросла через зниження очікувань щодо підвищення ставок ФРС та зменшення попиту на долар. Це позитивно вплинуло на інвесторів, які отримують прибуток від зростання вартості золота. Тенденція триває вже три тижні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання цін на золото може вплинути на вартість сировини, якщо ви працюєте в ювелірному секторі. Розгляньте корекцію цін на продукцію.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "валюта",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціна золота зростає третій тиждень поспіль",
+    "summary": "Ціна золота зросла через зниження очікувань щодо підвищення ставок ФРС та зменшення попиту на долар. Це позитивно вплинуло на інвесторів, які отримують прибуток від зростання вартості золота. Тенденція триває вже три тижні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/altinin-onsu-3-haftadir-yatirimcisinin-yuzunu-gulduruyor/4034960",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0550508d48d",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti/4034956",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Zayıflayan dolar ve arz endişeleri emtia fiyatlarını yükseltti",
+    "body_orig": "Emtia piyasalarında, ABD'nin mali görünümüne ilişkin kaygılar ve doların gerilemesi değerli metalleri desteklerken Hürmüz Boğazı'ndaki sevkiyat aksamaları enerji fiyatlarını, hava ve verim riskleri ise tarım emtialarını yukarı taşıdı.",
+    "published": "2026-08-23T08:01:19",
+    "fetched": "2026-08-23T16:24:24.875533",
+    "title_uk": "Зниження долара підвищує ціни на енергію та сировину",
+    "summary_uk": "Ціни на енергоносії зросли через перебої в постачанні в Ормузській протоці. Водночас зниження долара підтримує вартість дорогоцінних металів. Ризики для сільського господарства також сприяють зростанню цін на аграрні товари.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на енергоносії вплине на собівартість імпортованих товарів. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Польські дистриб'ютори можуть зіткнутися з підвищенням цін на енергетичні ресурси, що вплине на витрати та ціни на продукцію.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання цін на сировину може вимагати коригування цінової політики та перегляду асортименту в рітейлі."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Зниження долара підвищує ціни на енергію та сировину",
+    "summary": "Ціни на енергоносії зросли через перебої в постачанні в Ормузській протоці. Водночас зниження долара підтримує вартість дорогоцінних металів. Ризики для сільського господарства також сприяють зростанню цін на аграрні товари.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/zayiflayan-dolar-ve-arz-endiseleri-emtia-fiyatlarini-yukseltti/4034956",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0ff1417a3f4",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/fondurile-pensii-germania-afla-prag-catastrofa-au-ajuns-banii-medicilor-dentistilor-avocatilor-nemti-confrunte-pierderi-deprecieri-peste-2-miliarde-euro-cauza-investitilor-riscante-sectorul-23222793",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fondurile de pensii din Germania se află în prag de catastrofă. Cum au ajuns banii medicilor, dentiştilor şi avocaţilor nemţi să se confrunte cu pierderi şi deprecieri de peste 2 miliarde de euro, din cauza investiţilor riscante în sectorul imobiliar şi de pe pieţele private",
+    "body_orig": "",
+    "published": "2026-08-23T14:21:26",
+    "fetched": "2026-08-23T16:24:28.137790",
+    "title_uk": "Німецькі пенсійні фонди зазнають значних втрат через ризикові інвестиції",
+    "summary_uk": "Німецькі пенсійні фонди, зокрема медиків і юристів, втратили понад €2 млрд через ризикові інвестиції в нерухомість та приватні ринки. Це викликано зниженням вартості активів на тлі економічних труднощів. Фонди стикаються з серйозними фінансовими викликами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Німецькі пенсійні фонди зазнають значних втрат через ризикові інвестиції",
+    "summary": "Німецькі пенсійні фонди, зокрема медиків і юристів, втратили понад €2 млрд через ризикові інвестиції в нерухомість та приватні ринки. Це викликано зниженням вартості активів на тлі економічних труднощів. Фонди стикаються з серйозними фінансовими викликами.",
+    "link": "https://www.zf.ro/eveniment/fondurile-pensii-germania-afla-prag-catastrofa-au-ajuns-banii-medicilor-dentistilor-avocatilor-nemti-confrunte-pierderi-deprecieri-peste-2-miliarde-euro-cauza-investitilor-riscante-sectorul-23222793",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5431afec650d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/planurile-netopia-dezvoltare-industria-platilor-delia-paceagiu-chief-operating-officer-segment-merita-atentie-speciala-gen-z-tinerii-prefera-metoda-plata-bnpl-experienta-putin-greoaie-accesarea-unui-23222644",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Care sunt planurile Netopia de dezvoltare pentru industria plăţilor. Delia Paceagiu, Chief Operating Officer: Un segment care merită o atenţie specială este Gen Z. Tinerii preferă metoda de plată BNPL, pentru că este o experienţă mai puţin greoaie decât accesarea unui card de credit şi este accesibilă direct în checkout",
+    "body_orig": "",
+    "published": "2026-08-23T14:00:00",
+    "fetched": "2026-08-23T16:24:28.137799",
+    "title_uk": "Netopia фокусується на Gen Z та BNPL у платіжній індустрії",
+    "summary_uk": "Netopia планує розвивати сегмент Gen Z, акцентуючи увагу на методі оплати BNPL. Ця форма оплати є більш зручною для молоді, ніж традиційні кредитні картки, і доступна безпосередньо під час оформлення покупки. Компанія вважає, що це відкриває нові можливості для залучення молодих споживачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання популярності BNPL серед молоді. Це може вплинути на стратегії продажів та промо-акції для молодіжних категорій."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Netopia фокусується на Gen Z та BNPL у платіжній індустрії",
+    "summary": "Netopia планує розвивати сегмент Gen Z, акцентуючи увагу на методі оплати BNPL. Ця форма оплати є більш зручною для молоді, ніж традиційні кредитні картки, і доступна безпосередньо під час оформлення покупки. Компанія вважає, що це відкриває нові можливості для залучення молодих споживачів.",
+    "link": "https://www.zf.ro/eveniment/planurile-netopia-dezvoltare-industria-platilor-delia-paceagiu-chief-operating-officer-segment-merita-atentie-speciala-gen-z-tinerii-prefera-metoda-plata-bnpl-experienta-putin-greoaie-accesarea-unui-23222644",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7b052dc9b64e",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/business-magazin-casa-vacanta-intre-visul-fiecaruia-realitatea-teren-storia-cate-locuinte-vacanta-au-romanii-gabriel-blanita-colliers-numai-180-000-totalul-10-milioane-locuinte-clasificate-locuinte-23222634",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Business MAGAZIN. Casa de vacanţă, între visul fiecăruia şi realitatea din teren storia. Câte locuinţe de vacanţă au românii? Gabriel Blăniţă, Colliers: Numai 180.000 din totalul de 10 milioane de locuinţe sunt clasificate ca locuinţe de vacanţă.",
+    "body_orig": "",
+    "published": "2026-08-23T09:00:00",
+    "fetched": "2026-08-23T16:24:28.137835",
+    "title_uk": "Румунія має лише 180 тисяч будинків для відпочинку",
+    "summary_uk": "З 10 мільйонів житлових одиниць в Румунії лише 180 тисяч класифіковані як відпочинкові. Це свідчить про низький рівень розвитку ринку нерухомості для відпочинку. Експерти вважають, що попит на такі об'єкти може зрости.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунія має лише 180 тисяч будинків для відпочинку",
+    "summary": "З 10 мільйонів житлових одиниць в Румунії лише 180 тисяч класифіковані як відпочинкові. Це свідчить про низький рівень розвитку ринку нерухомості для відпочинку. Експерти вважають, що попит на такі об'єкти може зрости.",
+    "link": "https://www.zf.ro/eveniment/business-magazin-casa-vacanta-intre-visul-fiecaruia-realitatea-teren-storia-cate-locuinte-vacanta-au-romanii-gabriel-blanita-colliers-numai-180-000-totalul-10-milioane-locuinte-clasificate-locuinte-23222634",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "49ebad9a08c7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/sisteme-complexe-de-detectare-si-neutralizare-a-dronelor-vor-fi-cumparate-de-compania-care-aeroporturile-din-capitala_970433.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Sisteme complexe de detectare şi neutralizare a dronelor vor fi cumpărate de compania care aeroporturile din Capitală",
+    "body_orig": "Compania Naţională Aeroporturi Bucureşti intenţionează să achiziţioneze sisteme integrate de detectare, identificare, urmărire şi neutralizare a aeronavelor fără pilot (C-UAS, C-s UAS) pentru aeroporturile Henri Coandă (Otopeni) şi Aurel Vlaicu (Băneasa).",
+    "published": "2026-08-23T14:43:26",
+    "fetched": "2026-08-23T16:24:30.831783",
+    "title_uk": "Аеропорти Бухареста куплять системи для нейтралізації дронів",
+    "summary_uk": "Національна компанія Аеропорти Бухареста планує придбати інтегровані системи для виявлення та нейтралізації дронів для аеропортів Henri Coandă та Aurel Vlaicu. Це рішення має на меті підвищення безпеки повітряного простору. Конкретна сума угоди не розголошується.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Аеропорти Бухареста куплять системи для нейтралізації дронів",
+    "summary": "Національна компанія Аеропорти Бухареста планує придбати інтегровані системи для виявлення та нейтралізації дронів для аеропортів Henri Coandă та Aurel Vlaicu. Це рішення має на меті підвищення безпеки повітряного простору. Конкретна сума угоди не розголошується.",
+    "link": "https://www.economica.net/sisteme-complexe-de-detectare-si-neutralizare-a-dronelor-vor-fi-cumparate-de-compania-care-aeroporturile-din-capitala_970433.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8bb9e1b01110",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/21/ukrayinskii-import-u-2025-roci/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Український імпорт у 2025 році зріс до $84,8 млрд і перевищив довоєнний рівень",
+    "body_orig": "Зростання імпорту обумовлене обороною, енергетикою та відбудовою, водночас дефіцит зовнішньої торгівлі зріс до $51 млрд на тлі стриманих настроїв бізнесу.",
+    "published": "2026-08-23T10:50:00",
+    "fetched": "2026-08-23T16:24:07.699669",
+    "title_uk": "Імпорт України у 2025 році перевищив довоєнний рівень",
+    "summary_uk": "У 2025 році імпорт України зріс до $85 млрд, перевищивши довоєнні показники. Основними факторами зростання стали оборона, енергетика та відбудова. Дефіцит зовнішньої торгівлі досяг $51 млрд на фоні стриманих бізнес-очікувань.",
+    "what_it_means": {
+      "ua_importer": "Зростання імпорту може створити нові можливості для українських імпортерів, які працюють з Туреччиною, Польщею та Румунією. Рекомендується переглянути асортимент та шукати нових постачальників.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання імпорту в Україні може відкрити нові ринкові можливості для турецьких виробників. Рекомендується розглянути можливість виходу на український ринок.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "імпорт",
+      "експорт",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Імпорт України у 2025 році перевищив довоєнний рівень",
+    "summary": "У 2025 році імпорт України зріс до $85 млрд, перевищивши довоєнні показники. Основними факторами зростання стали оборона, енергетика та відбудова. Дефіцит зовнішньої торгівлі досяг $51 млрд на фоні стриманих бізнес-очікувань.",
+    "link": "https://ain.ua/2026/08/21/ukrayinskii-import-u-2025-roci/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4f3cefb8f24d",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/08/21/zapusk-brendu-bez-iuridicnix-rizikiv-kolonka/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Запуск бренду без юридичних ризиків: що варто передбачити заздалегідь — колонка юристки",
+    "body_orig": "Юлія Єгорова, юристка у сфері інтелектуальної власності та патентна повірена України, у колонці для AIN розповідає, як мінімізувати юридичні ризики під час запуску бренду та що варто перевірити завчасно.",
+    "published": "2026-08-23T07:25:38",
+    "fetched": "2026-08-23T16:24:07.699683",
+    "title_uk": "Як мінімізувати юридичні ризики при запуску бренду",
+    "summary_uk": "Юлія Єгорова, юристка з інтелектуальної власності, розповідає про важливість перевірки юридичних аспектів перед запуском бренду. Вона підкреслює, що правильна підготовка може зменшити ризики та забезпечити успішний старт. Рекомендації включають перевірку прав на торгові марки та дотримання законодавства.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Як мінімізувати юридичні ризики при запуску бренду",
+    "summary": "Юлія Єгорова, юристка з інтелектуальної власності, розповідає про важливість перевірки юридичних аспектів перед запуском бренду. Вона підкреслює, що правильна підготовка може зменшити ризики та забезпечити успішний старт. Рекомендації включають перевірку прав на торгові марки та дотримання законодавства.",
+    "link": "https://ain.ua/2026/08/21/zapusk-brendu-bez-iuridicnix-rizikiv-kolonka/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d35b16988a8",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/bilse-ai-mense-roboti-ni-vse-navpaki-pn4nq7",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Більше AI – менше роботи? Ні, все навпаки",
+    "body_orig": "Завдяки\nштучному інтелекту продуктивність роботи конкретного співробітника зростає\nбагаторазово. Це доведений факт. А далі починаються ілюзії. Головна з них – те,\nщо тепер завдяки AI люди зможуть менше працювати. Мовляв, нейромережі дозволять\nробити твою роботу швидше і краще, у тебе звільниться час. Ні. Все відбувається\nрівно навпаки.",
+    "published": "2026-08-23T10:16:49",
+    "fetched": "2026-08-23T16:24:16.813458",
+    "title_uk": "Штучний інтелект підвищує продуктивність, але не зменшує робочий час",
+    "summary_uk": "Штучний інтелект значно підвищує продуктивність працівників, проте не призводить до зменшення робочого часу. Це спростовує поширену думку про те, що AI дозволить людям працювати менше. Замість цього, технології вимагають більше зусиль та часу для адаптації.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження AI в ритейлі може змінити підходи до управління категоріями. Рекомендується адаптувати стратегії для підвищення продуктивності команд."
+    },
+    "tags": [
+      "виробництво",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Штучний інтелект підвищує продуктивність, але не зменшує робочий час",
+    "summary": "Штучний інтелект значно підвищує продуктивність працівників, проте не призводить до зменшення робочого часу. Це спростовує поширену думку про те, що AI дозволить людям працювати менше. Замість цього, технології вимагають більше зусиль та часу для адаптації.",
+    "link": "https://speka.ua/business/bilse-ai-mense-roboti-ni-vse-navpaki-pn4nq7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
