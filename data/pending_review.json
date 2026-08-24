@@ -232983,5 +232983,605 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "5f01af8a33c2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nie-kreujemy-popytu-lecz-ujawniamy-zapotrzebowanie-Pula-Funduszu-Bezpieczenstwa-wyczerpana-w-90-9185874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Nie kreujemy popytu, lecz ujawniamy zapotrzebowanie\". Pula Funduszu Bezpieczeństwa wyczerpana w 90%",
+    "body_orig": "Zainteresowanie Funduszem Bezpieczeństwa i Obronności przerosło oczekiwania. W niespełna półtora miesiąca do BGK wpłynęło 114 wniosków na 15,7 mld zł, co odpowiada ponad 90 proc. dostępnej puli. – Fundusz nie wykreował sztucznego popytu, lecz ujawnił istniejące zapotrzebowanie – mówi Bankier.pl prof. Marta Postuła, pierwsza wiceprezes Banku Gospodarstwa Krajowego.",
+    "published": "2026-08-24T05:00:00",
+    "fetched": "2026-08-24T05:07:42.545508",
+    "title_uk": "Пул фонду безпеки Польщі вичерпано на 90%",
+    "summary_uk": "За півтора місяця до Банку Гospodarstwa Krajowego надійшло 114 заявок на суму €3.5 млрд, що становить понад 90% доступної пули фонду. Професор Марта Постула зазначила, що фонд не створив штучного попиту, а виявив існуюче запитання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інтересу до фонду може свідчити про підвищений попит на оборонні та безпекові рішення, що може вплинути на закупівлі в цій категорії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Пул фонду безпеки Польщі вичерпано на 90%",
+    "summary": "За півтора місяця до Банку Гospodarstwa Krajowego надійшло 114 заявок на суму €3.5 млрд, що становить понад 90% доступної пули фонду. Професор Марта Постула зазначила, що фонд не створив штучного попиту, а виявив існуюче запитання.",
+    "link": "https://www.bankier.pl/wiadomosc/Nie-kreujemy-popytu-lecz-ujawniamy-zapotrzebowanie-Pula-Funduszu-Bezpieczenstwa-wyczerpana-w-90-9185874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7e5e525f53ab",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-sierpien-2026-9185456.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zdolność kredytowa się obsuwa. Ale mamy mocny debiut na liście banków",
+    "body_orig": "Zdecydowana większość banków obcięła szacunki zdolności kredytowej względem lipca. Różnice są niemałe, sięgające 30-40 tys. zł finansowania mniej dla klientów dysponujących dochodem 15 tys. zł miesięcznie.",
+    "published": "2026-08-24T05:00:00",
+    "fetched": "2026-08-24T05:07:42.545538",
+    "title_uk": "Польські банки знизили оцінки кредитоспроможності",
+    "summary_uk": "Більшість польських банків зменшила оцінки кредитоспроможності для клієнтів. Різниця може сягати до €8-9 тис. для осіб з доходом €3.3 тис. на місяць. Це вплине на можливості фінансування для багатьох позичальників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження кредитоспроможності може призвести до зменшення попиту на товари, оскільки споживачі матимуть менше можливостей для фінансування покупок.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення кредитоспроможності може вплинути на плани промо-акцій, оскільки споживачі можуть бути менш готові витрачати на неосновні категорії."
+    },
+    "tags": [
+      "ринок",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські банки знизили оцінки кредитоспроможності",
+    "summary": "Більшість польських банків зменшила оцінки кредитоспроможності для клієнтів. Різниця може сягати до €8-9 тис. для осіб з доходом €3.3 тис. на місяць. Це вплине на можливості фінансування для багатьох позичальників.",
+    "link": "https://www.bankier.pl/wiadomosc/Zdolnosc-kredytowa-dochod-15-tys-zl-sierpien-2026-9185456.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "947fbdf42333",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nowe-odkrycie-w-cieniu-sankcji-Iran-znalazl-wielkie-zloza-gazu-9186021.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowe odkrycie w cieniu sankcji. Iran znalazł wielkie złoża gazu",
+    "body_orig": "Iran odkrył ponad 212 mld metrów sześciennych gazu ziemnego w prowincji Fars na południu kraju – poinformował w niedzielę minister ds. ropy naftowej Iranu Mohsen Paknedżad.",
+    "published": "2026-08-23T18:30:00",
+    "fetched": "2026-08-24T05:07:42.545548",
+    "title_uk": "Іран відкрив нові великі запаси газу в провінції Фарс",
+    "summary_uk": "Іран виявив понад 212 млрд кубометрів газу в провінції Фарс. Міністр нафти країни, Мохсен Пакнеджад, підтвердив цю інформацію. Це відкриття може вплинути на глобальний ринок енергоресурсів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Іран відкрив нові великі запаси газу в провінції Фарс",
+    "summary": "Іран виявив понад 212 млрд кубометрів газу в провінції Фарс. Міністр нафти країни, Мохсен Пакнеджад, підтвердив цю інформацію. Це відкриття може вплинути на глобальний ринок енергоресурсів.",
+    "link": "https://www.bankier.pl/wiadomosc/Nowe-odkrycie-w-cieniu-sankcji-Iran-znalazl-wielkie-zloza-gazu-9186021.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5f6035bea4f1",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Karty-kredytowe-w-sierpniu-2026-r-Ile-mozna-zyskac-na-bankowych-promocjach-9185584.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Od moneybacku po 1000 zł premii. Oto zestaw bonusów na kartach kredytowych",
+    "body_orig": "Banki szukają chętnych na karty kredytowe, kusząc pakietami akcji promocyjnych. Łącząc kilka ofert w jednym banku, łączna wartość bonusów może sięgać kilkuset, a nawet ponad 1000 zł. Tego typu promocje wymagają jednak dokładnego skalkulowania warunków, a przede wszystkim – bezwzględnego pilnowania okresu bezodsetkowego, by ewentualne koszty długu nie przewyższyły zysków.",
+    "published": "2026-08-24T05:00:00",
+    "fetched": "2026-08-24T05:07:42.545559",
+    "title_uk": "Банки Польщі пропонують бонуси на кредитні картки до 1000 zł",
+    "summary_uk": "Польські банки активізували конкуренцію на ринку кредитних карток, пропонуючи бонуси, які можуть перевищувати 1000 zł. Клієнти можуть комбінувати різні пропозиції, але мають уважно слідкувати за умовами, щоб уникнути витрат на борг. Це може бути вигідно, якщо правильно управляти безвідсотковим періодом.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Використовуйте акції банків для підвищення лояльності клієнтів. Можливість отримання бонусів може вплинути на вибір постачальників.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Банки Польщі пропонують бонуси на кредитні картки до 1000 zł",
+    "summary": "Польські банки активізували конкуренцію на ринку кредитних карток, пропонуючи бонуси, які можуть перевищувати 1000 zł. Клієнти можуть комбінувати різні пропозиції, але мають уважно слідкувати за умовами, щоб уникнути витрат на борг. Це може бути вигідно, якщо правильно управляти безвідсотковим періодом.",
+    "link": "https://www.bankier.pl/wiadomosc/Karty-kredytowe-w-sierpniu-2026-r-Ile-mozna-zyskac-na-bankowych-promocjach-9185584.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "53c800461ec5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/ceny-paliw-znow-w-gore-resort-podniosl-limity-na-stacjach/dqg028l",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny paliw znów w górę. Resort podniósł limity na stacjach",
+    "body_orig": "Kierowcy tankujący w poniedziałek zapłacą więcej niż w ostatni dzień roboczy poprzedniego tygodnia. Nowe obwieszczenie resortu energii podnosi górne pułapy cen wszystkich rodzajów paliw dostępnych na stacjach.",
+    "published": "2026-08-24T04:34:41",
+    "fetched": "2026-08-24T05:07:44.797531",
+    "title_uk": "Ціни на паливо в Польщі знову зростають",
+    "summary_uk": "З понеділка водії платитимуть більше за всі види пального. Міністерство енергетики підвищило верхні межі цін на заправках. Це вплине на вартість пального в країні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання цін на паливо може призвести до підвищення витрат на логістику. Рекомендується переглянути ціни на доставку.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на паливо в Польщі знову зростають",
+    "summary": "З понеділка водії платитимуть більше за всі види пального. Міністерство енергетики підвищило верхні межі цін на заправках. Це вплине на вартість пального в країні.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/ceny-paliw-znow-w-gore-resort-podniosl-limity-na-stacjach/dqg028l",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1cddfa4bf733",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/jak-ryzykowne-sa-etf-y-tlumaczymy-na-przykladach/8pyljnw",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ranking ryzyka ETF-ów. Opcje dla ostrożnych, średnio ostrożnych i odważnych Polaków",
+    "body_orig": "Pod pojęciem ETF mogą kryć się trzy poziomy ryzyka, trzy zupełnie różne zestawy funduszy i różne koszty rocznie. W tym artykule prezentuję, co polscy inwestorzy mają dziś do wyboru na GPW i za granicą, ile naprawdę kosztuje cię każda z prezentowanych opcji i dlaczego OKI zmieni część tych kalkulacji już niebawem.",
+    "published": "2026-08-24T04:20:00",
+    "fetched": "2026-08-24T05:07:44.797542",
+    "title_uk": "Рейтинг ризику ETF для польських інвесторів",
+    "summary_uk": "В статті розглядаються три рівні ризику ETF, доступні для польських інвесторів. Описані різні набори фондів та їх річні витрати. Також зазначено, що OKI незабаром змінить частину цих розрахунків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Рейтинг ризику ETF для польських інвесторів",
+    "summary": "В статті розглядаються три рівні ризику ETF, доступні для польських інвесторів. Описані різні набори фондів та їх річні витрати. Також зазначено, що OKI незабаром змінить частину цих розрахунків.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/jak-ryzykowne-sa-etf-y-tlumaczymy-na-przykladach/8pyljnw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0c695637f5f7",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/nowe-technologie/alibaba-zdominowala-swiat-ai-otwartymi-modelami-qwen-pobrany-juz-3-mld-razy/r190xgd",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Chiny zalewają świat otwartą AI. Co to oznacza dla świata?",
+    "body_orig": "Aż trzy miliardy razy w ciągu zaledwie sześciu miesięcy pobrano otwarte modele językowe należące tylko do jednej chińskiej firmy — Alibaba. To wielokrotnie więcej niż w przypadku odpowiedników amerykańskich, gdyż modele biznesowe tamtejszych firm skupiają się raczej na zamkniętych modelach językowych. Paradoksalnie więc Chiny mają więcej open AI niż OpenAI. Co to oznacza dla świata?",
+    "published": "2026-08-23T17:30:00",
+    "fetched": "2026-08-24T05:07:44.797580",
+    "title_uk": "Китайські моделі AI перевершують американські за популярністю",
+    "summary_uk": "Моделі відкритого штучного інтелекту від Alibaba завантажили три мільярди разів за шість місяців. Це значно більше, ніж у американських компаній, які переважно використовують закриті моделі. Китайські технології стають лідерами у сфері відкритого AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайські моделі AI перевершують американські за популярністю",
+    "summary": "Моделі відкритого штучного інтелекту від Alibaba завантажили три мільярди разів за шість місяців. Це значно більше, ніж у американських компаній, які переважно використовують закриті моделі. Китайські технології стають лідерами у сфері відкритого AI.",
+    "link": "https://businessinsider.com.pl/technologie/nowe-technologie/alibaba-zdominowala-swiat-ai-otwartymi-modelami-qwen-pobrany-juz-3-mld-razy/r190xgd",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "78c72de70d29",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/maksymalne-ceny-paliw-w-poniedzialek-tankowanie-drozsze-niz-w-piatek-7321785282455744a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Maksymalne ceny paliw. W poniedziałek  tankowanie droższe niż w piątek",
+    "body_orig": "Zgodnie z obwieszczeniem Ministra Energii w poniedziałek litr benzyny 95 kosztuje nie więcej niż 6,54 zł, benzyny 98 - 7,36 zł a oleju napędowego 7,59 zł. Oznacza to wzrost cen maksymalnych wszystkich rodzajów paliw w porównaniu z piątkiem.",
+    "published": "2026-08-24T04:26:13",
+    "fetched": "2026-08-24T05:07:47.512507",
+    "title_uk": "В Польщі зростають ціни на паливо з понеділка",
+    "summary_uk": "Згідно з оголошенням Міністерства енергетики, з понеділка літр бензину 95 коштує не більше ніж 6,54 зл, бензину 98 — 7,36 зл, а дизельного пального — 7,59 зл. Це означає підвищення максимальних цін на всі види пального в порівнянні з п'ятницею.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на паливо може вплинути на витрати логістики. Розгляньте можливість коригування цін на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на паливо може вплинути на витрати постачальників, що, в свою чергу, може позначитися на цінах на полицях. Розгляньте перегляд цінової стратегії."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Польщі зростають ціни на паливо з понеділка",
+    "summary": "Згідно з оголошенням Міністерства енергетики, з понеділка літр бензину 95 коштує не більше ніж 6,54 зл, бензину 98 — 7,36 зл, а дизельного пального — 7,59 зл. Це означає підвищення максимальних цін на всі види пального в порівнянні з п'ятницею.",
+    "link": "https://www.money.pl/gospodarka/maksymalne-ceny-paliw-w-poniedzialek-tankowanie-drozsze-niz-w-piatek-7321785282455744a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a18e26551656",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/analiza/efectul-autostrazilor-harta-puterii-de-cumparare-arata-cum-prapastia-se-reduce-iar-moldova-cea-mai-saraca-regiune-a-romaniei-capata-tractiune-23222834",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Efectul autostrăzilor. Harta puterii de cumpărare arată cum prăpastia se reduce, iar Moldova, cea mai săracă regiune a României, capătă tracţiune",
+    "body_orig": "Harta puterii de cumpărare pe 2025 arată că decalajele în dezvoltare se reduc, iar Moldova, cea mai săracă regiune a României, se îmbogăţeşte, şi nu doar cu o autostradă.",
+    "published": "2026-08-23T21:08:00",
+    "fetched": "2026-08-24T05:08:04.923273",
+    "title_uk": "Молдова, найменш розвинена область Румунії, отримує нові можливості",
+    "summary_uk": "Прогноз на 2025 рік показує, що регіони Румунії, зокрема Молдова, покращують свою купівельну спроможність. Це відбувається завдяки розвитку інфраструктури, зокрема будівництву нових автострад. Очікується, що це сприятиме економічному зростанню регіону.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Молдова, найменш розвинена область Румунії, отримує нові можливості",
+    "summary": "Прогноз на 2025 рік показує, що регіони Румунії, зокрема Молдова, покращують свою купівельну спроможність. Це відбувається завдяки розвитку інфраструктури, зокрема будівництву нових автострад. Очікується, що це сприятиме економічному зростанню регіону.",
+    "link": "https://www.zf.ro/analiza/efectul-autostrazilor-harta-puterii-de-cumparare-arata-cum-prapastia-se-reduce-iar-moldova-cea-mai-saraca-regiune-a-romaniei-capata-tractiune-23222834",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c1fe193ee570",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-urmeaza-zf-piata-capital-editia-cincea-25-septembrie-pot-companiile-romanesti-transforma-maximele-bursa-finantare-crestere-testati-abilitatile-investitor-exercitiul-investitii-il-organizam-iar-23222697",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Urmează ZF Piaţa de capital, ediţia a cincea, pe 25 septembrie. Cum pot companiile româneşti transforma maximele de la bursă în finanţare pentru creştere? Testaţi-vă abilităţile de investitor în exerciţiul de investiţii pe care îl organizăm iar cu Estinvest",
+    "body_orig": "Contextul în care are loc conferinţa este unul cu două viteze. Pe de o parte, indicii BET şi BET-TR au atins maxime succesive, numărul investitorilor activi a ajuns la un nivel istoric, iar tranzacţiile de dimensiuni mari s-au înmulţit.",
+    "published": "2026-08-23T21:07:00",
+    "fetched": "2026-08-24T05:08:04.923284",
+    "title_uk": "Конференція ZF на ринку капіталу відбудеться 25 вересня",
+    "summary_uk": "На конференції ZF обговорять, як румунські компанії можуть використовувати рекордні максимуми на біржі для фінансування зростання. Індекси BET і BET-TR досягли історичних максимумів, а кількість активних інвесторів зросла до рекорду. Очікується зростання великих транзакцій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Конференція ZF на ринку капіталу відбудеться 25 вересня",
+    "summary": "На конференції ZF обговорять, як румунські компанії можуть використовувати рекордні максимуми на біржі для фінансування зростання. Індекси BET і BET-TR досягли історичних максимумів, а кількість активних інвесторів зросла до рекорду. Очікується зростання великих транзакцій.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-urmeaza-zf-piata-capital-editia-cincea-25-septembrie-pot-companiile-romanesti-transforma-maximele-bursa-finantare-crestere-testati-abilitatile-investitor-exercitiul-investitii-il-organizam-iar-23222697",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6b1e45db28ed",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/aeroporturile-locale-au-avut-cu-3-5-mai-multe-zboruri-in-acest-an-traficul-aerian-a-crescut-insa-ritmul-de-crestere-a-fost-mai-lent-23222815",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aeroporturile locale au avut cu 3,5% mai multe zboruri în acest an. Traficul aerian a crescut, însă ritmul de creştere a fost mai lent",
+    "body_orig": "Aeroporturile locale au numărat 136.000 de zboruri în perioada 1 ianuarie – 20 august, ceea ce înseamnă o creştere de 3,5% faţă de aceeaşi perioadă a anului trecut, potrivit datelor Eurocontrol.",
+    "published": "2026-08-23T21:07:00",
+    "fetched": "2026-08-24T05:08:04.923305",
+    "title_uk": "Зростання кількості рейсів в румунських аеропортах на 3.5%",
+    "summary_uk": "З 1 січня по 20 серпня 2026 року румунські аеропорти виконали 136 тисяч рейсів, що на 3.5% більше, ніж у 2025 році. Зростання трафіку відбулося, але темпи зростання сповільнилися. Дані надані Eurocontrol.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання кількості рейсів в румунських аеропортах на 3.5%",
+    "summary": "З 1 січня по 20 серпня 2026 року румунські аеропорти виконали 136 тисяч рейсів, що на 3.5% більше, ніж у 2025 році. Зростання трафіку відбулося, але темпи зростання сповільнилися. Дані надані Eurocontrol.",
+    "link": "https://www.zf.ro/companii/aeroporturile-locale-au-avut-cu-3-5-mai-multe-zboruri-in-acest-an-traficul-aerian-a-crescut-insa-ritmul-de-crestere-a-fost-mai-lent-23222815",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "59be866922ea",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-rompetrol-rafinare-actiunea-care-s-a-apreciat-cu-63-intr-o-saptamana-este-de-patru-ori-mai-ieftina-decat-omv-petrom-la-p-e-dar-mai-scumpa-la-ev-ebitda-23222817",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Finanţe personale. Rompetrol Rafinare, acţiunea care s-a apreciat cu 63% într-o săptămână, este de patru ori mai ieftină decât OMV Petrom la P/E, dar mai scumpă la EV/EBITDA",
+    "body_orig": "Capitalizarea companiei a ajuns astfel la circa 3,96 miliarde de lei, de la 2,43 miliarde de lei cât valora pe 14 august, ziua în care Rompetrol Rafinare a publicat rezultatele semestriale.",
+    "published": "2026-08-23T21:07:00",
+    "fetched": "2026-08-24T05:08:04.923315",
+    "title_uk": "Rompetrol Rafinare зросла на 63% за тиждень, капіталізація €0.8 млрд",
+    "summary_uk": "Акції Rompetrol Rafinare зросли на 63% за тиждень, капіталізація досягла €0.8 млрд. На 14 серпня компанія оцінювалася в €0.5 млрд. Вартість акцій Rompetrol нижча за OMV Petrom за P/E, але вища за EV/EBITDA.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Rompetrol Rafinare зросла на 63% за тиждень, капіталізація €0.8 млрд",
+    "summary": "Акції Rompetrol Rafinare зросли на 63% за тиждень, капіталізація досягла €0.8 млрд. На 14 серпня компанія оцінювалася в €0.5 млрд. Вартість акцій Rompetrol нижча за OMV Petrom за P/E, але вища за EV/EBITDA.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/bursa-finante-personale-rompetrol-rafinare-actiunea-care-s-a-apreciat-cu-63-intr-o-saptamana-este-de-patru-ori-mai-ieftina-decat-omv-petrom-la-p-e-dar-mai-scumpa-la-ev-ebitda-23222817",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9ddeea3e7868",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/sam-transport-din-sibiu-tinteste-dublarea-afacerilor-in-doi-ani-70-din-business-este-asigurat-pe-rute-internationale-23222821",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "SAM Transport din Sibiu ţinteşte dublarea afacerilor în doi ani: „70% din business este asigurat pe rute internaţionale“",
+    "body_orig": "Compania SAM  Transport din Sibiu, un business de familie, ţinteşte dublarea afacerilor în doi ani din transportul de mărfuri pe piaţa internă dar şi pe cele externe.",
+    "published": "2026-08-23T21:07:00",
+    "fetched": "2026-08-24T05:08:04.923334",
+    "title_uk": "SAM Transport планує подвоїти обсяги бізнесу за два роки",
+    "summary_uk": "Компанія SAM Transport з Сібіу має намір подвоїти обсяги бізнесу за два роки. 70% доходів компанії забезпечено міжнародними перевезеннями. Це свідчить про зростаючий попит на транспортні послуги на зовнішніх ринках.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "SAM Transport планує подвоїти обсяги бізнесу за два роки",
+    "summary": "Компанія SAM Transport з Сібіу має намір подвоїти обсяги бізнесу за два роки. 70% доходів компанії забезпечено міжнародними перевезеннями. Це свідчить про зростаючий попит на транспортні послуги на зовнішніх ринках.",
+    "link": "https://www.zf.ro/companii/sam-transport-din-sibiu-tinteste-dublarea-afacerilor-in-doi-ani-70-din-business-este-asigurat-pe-rute-internationale-23222821",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8d14baef62cf",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/masini-electrice-europa-iulie_970453.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Vehiculele electrice au trecut de 25% din piața europeană a mașinilor noi în iulie, un nou record",
+    "body_orig": "Ponderea vehiculelor electrice cu baterie (BEV) în înmatriculările de autoturisme noi din Europa a depășit 25% în luna iulie, în condițiile în care creșterea puternică de pe piețele din Franța și Germania a compensat evoluția mai slabă din alte țări.",
+    "published": "2026-08-24T04:39:46",
+    "fetched": "2026-08-24T05:08:08.068833",
+    "title_uk": "Частка електромобілів у нових авто в Європі перевищила 25%",
+    "summary_uk": "У липні частка електромобілів з батареєю в нових реєстраціях авто в Європі досягла 25%. Зростання попиту на електрокари в Франції та Німеччині компенсувало слабкі результати в інших країнах. Це новий рекорд для ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Частка електромобілів у нових авто в Європі перевищила 25%",
+    "summary": "У липні частка електромобілів з батареєю в нових реєстраціях авто в Європі досягла 25%. Зростання попиту на електрокари в Франції та Німеччині компенсувало слабкі результати в інших країнах. Це новий рекорд для ринку.",
+    "link": "https://www.economica.net/masini-electrice-europa-iulie_970453.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3ee223559d32",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/topul-primelor-cinci-credite-de-consum-pentru-refinantare-cu-dobanda-fixa-in-functie-de-nivelul-minim-al-dobanzii-anuale-efective_969284.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Topul primelor cinci credite de consum pentru refinanțare cu dobândă fixă în funcție de nivelul minim al dobânzii anuale efective",
+    "body_orig": "Topul primelor cinci credite de consum pentru refinanțare cu dobândă fixă în funcție de nivelul minim al dobânzii anuale efective (DAE) diferă foarte mult de același top făcut în funcție de nivelul dobânzilor afișate, chiar dacă băncile fruntașe sunt același. DAE arată practic costul efectiv al creditului. În funcție de cost, cel mai ieftin credit de refinanțare se găsește acum la CEC Bank, iar cel mai scump din top cinci la Intesa Sanpaolo Bank.",
+    "published": "2026-08-23T19:15:17",
+    "fetched": "2026-08-24T05:08:08.068860",
+    "title_uk": "Топ-5 кредитів для рефінансування з фіксованою ставкою в Румунії",
+    "summary_uk": "У Румунії опубліковано рейтинг п'яти кредитів для рефінансування з фіксованою ставкою. Найдешевший кредит пропонує CEC Bank, тоді як найдорожчий — Intesa Sanpaolo Bank. Рейтинг базується на мінімальному рівні ефективної річної ставки (DAE).",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Топ-5 кредитів для рефінансування з фіксованою ставкою в Румунії",
+    "summary": "У Румунії опубліковано рейтинг п'яти кредитів для рефінансування з фіксованою ставкою. Найдешевший кредит пропонує CEC Bank, тоді як найдорожчий — Intesa Sanpaolo Bank. Рейтинг базується на мінімальному рівні ефективної річної ставки (DAE).",
+    "link": "https://www.economica.net/topul-primelor-cinci-credite-de-consum-pentru-refinantare-cu-dobanda-fixa-in-functie-de-nivelul-minim-al-dobanzii-anuale-efective_969284.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
