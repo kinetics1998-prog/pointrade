@@ -379353,5 +379353,807 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "7628930f0246",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Jedna spółka zarabia na boomie AI znacznie więcej niż konkurenci. \"Może to potrwać do lat 30\"",
+    "body_orig": "Boom na sztuczną inteligencję przynosi producentom układów scalonych ogromne zyski, ale korzyści z inwestycyjnego szału rozkładają się nierównomiernie. Szczególnie wyróżnia się jedna spółka, która osiąga wyjątkowo wysoką rentowność. Pytanie brzmi, jak długo utrzyma się ta sytuacja.",
+    "published": "2026-10-11T05:00:00",
+    "fetched": "2026-10-11T10:55:26.083278",
+    "title_uk": "Одна компанія отримує високі прибутки від буму AI",
+    "summary_uk": "Бум штучного інтелекту приносить значні прибутки виробникам чіпів, але вигоди розподіляються нерівномірно. Одна компанія демонструє особливо високу рентабельність, ставлячи під питання, як довго це триватиме.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Одна компанія отримує високі прибутки від буму AI",
+    "summary": "Бум штучного інтелекту приносить значні прибутки виробникам чіпів, але вигоди розподіляються нерівномірно. Одна компанія демонструє особливо високу рентабельність, ставлячи під питання, як довго це триватиме.",
+    "link": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3d506b1af539",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/jak-zalozyc-podcast-i-na-nim-zarabiac-ekspertka-radzi-jak-zaczac/gf7gxe7",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tak stworzysz podcast i będziesz na nim zarabiać. Doświadczona ekspertka radzi, jak zacząć",
+    "body_orig": "Podcast kryminalny może przyciągać nawet 70—80 proc. słuchaczy do końca odcinka, a twórca programu biznesowego może liczyć na atrakcyjne stawki reklamowe mimo mniejszych zasięgów. Ile kosztuje uruchomienie podcastu i po ilu odsłuchach można zarabiać 10 tys. zł miesięcznie? O tym podczas BlastCast Podcast Festival na scenie BiznesLab opowiadała Marta Niemira, ekspertka rynku podcastowego, wskazując też najczęstszy błąd początkujących twórców.",
+    "published": "2026-10-11T07:45:43",
+    "fetched": "2026-10-11T10:55:27.117781",
+    "title_uk": "Експертка розповіла, як заробляти на подкастах",
+    "summary_uk": "На фестивалі BlastCast Podcast Festival експертка з подкастів Марта Нєміра поділилася порадами щодо запуску подкасту. Вона зазначила, що кримінальні подкасти можуть залучати до 80% слухачів до кінця епізоду. Також обговорювали, скільки потрібно прослуховувань для заробітку €2.2 тис. на місяць.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Експертка розповіла, як заробляти на подкастах",
+    "summary": "На фестивалі BlastCast Podcast Festival експертка з подкастів Марта Нєміра поділилася порадами щодо запуску подкасту. Вона зазначила, що кримінальні подкасти можуть залучати до 80% слухачів до кінця епізоду. Також обговорювали, скільки потрібно прослуховувань для заробітку €2.2 тис. на місяць.",
+    "link": "https://businessinsider.com.pl/biznes/jak-zalozyc-podcast-i-na-nim-zarabiac-ekspertka-radzi-jak-zaczac/gf7gxe7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d754ae416770",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/istanbul-generates-more-than-800-million-from-congress-tourism-since-2022-227974",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Istanbul generates more than $800 million from congress tourism since 2022",
+    "body_orig": "Congress tourism has generated more than $800 million in foreign currency revenue for Istanbul since 2022, according to Şekib Avdagiç, president of the Istanbul Chamber of Commerce (ITO) and the Istanbul Convention and Visitors Bureau (ICVB).",
+    "published": "2026-10-11T08:06:59",
+    "fetched": "2026-10-11T10:55:42.190688",
+    "title_uk": "Стамбул отримав понад $800 млн від конгресного туризму з 2022 року",
+    "summary_uk": "Конгресний туризм приніс Стамбулу більше ніж $800 млн іноземної валюти з 2022 року. Про це повідомив Шекіб Авдагіч, президент Торгово-промислової палати Стамбула та Бюро конгресів і відвідувачів. Цей сектор продовжує зростати, підкреслюючи важливість міста як міжнародного ділового центру.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про зростаючий потенціал Стамбула як ринку для нових продуктів. Рекомендується розглянути можливості для участі у конгресах та виставках.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Стамбул отримав понад $800 млн від конгресного туризму з 2022 року",
+    "summary": "Конгресний туризм приніс Стамбулу більше ніж $800 млн іноземної валюти з 2022 року. Про це повідомив Шекіб Авдагіч, президент Торгово-промислової палати Стамбула та Бюро конгресів і відвідувачів. Цей сектор продовжує зростати, підкреслюючи важливість міста як міжнародного ділового центру.",
+    "link": "https://www.hurriyetdailynews.com/istanbul-generates-more-than-800-million-from-congress-tourism-since-2022-227974",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "122711f5debf",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-fresh-vegetable-exports-top-822-million-in-january-september-227973",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s fresh vegetable exports top $822 million in January-September",
+    "body_orig": "Türkiye generated $822.7 million in revenue from fresh vegetable exports in the January-September period, exporting 651,087 tons of produce, according to data from the Turkish Exporters Assembly (TİM).",
+    "published": "2026-10-11T08:05:32",
+    "fetched": "2026-10-11T10:55:42.190704",
+    "title_uk": "Експорт свіжих овочів з Туреччини досяг $823 млн за 9 місяців",
+    "summary_uk": "Туреччина отримала $823 млн від експорту свіжих овочів у січні-вересні, експортувавши 651 тис. тонн продукції. Дані надані Турецькою асоціацією експортерів (TİM). Цей показник свідчить про стабільний попит на турецькі овочі на міжнародних ринках.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів це можливість розглянути турецькі овочі як альтернативу в умовах нестабільності на інших ринках. Рекомендується переглянути умови співпраці з турецькими постачальниками.",
+      "pl_distributor": "Польські дистриб'ютори можуть скористатися зростанням експорту з Туреччини, щоб диверсифікувати асортимент свіжих овочів. Це може підвищити конкурентоспроможність на ринку.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "логістика",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Експорт свіжих овочів з Туреччини досяг $823 млн за 9 місяців",
+    "summary": "Туреччина отримала $823 млн від експорту свіжих овочів у січні-вересні, експортувавши 651 тис. тонн продукції. Дані надані Турецькою асоціацією експортерів (TİM). Цей показник свідчить про стабільний попит на турецькі овочі на міжнародних ринках.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-fresh-vegetable-exports-top-822-million-in-january-september-227973",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dbdee69a9d26",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-watch-market-reaches-1-5-billion-227971",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s watch market reaches $1.5 billion",
+    "body_orig": "Türkiye’s watch market is estimated to be worth around $1.5 billion annually, with yearly sales reaching nearly 8 million units, according to data compiled from the All Watchmakers Businessmen Association (TÜSAD).",
+    "published": "2026-10-11T08:01:40",
+    "fetched": "2026-10-11T10:55:42.190715",
+    "title_uk": "Ринок годинників у Туреччині досяг $1.5 млрд",
+    "summary_uk": "Ринок годинників у Туреччині оцінюється в $1.5 млрд на рік. Щорічні продажі складають близько 8 млн одиниць. Дані надані асоціацією TÜSAD.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів, які працюють з Туреччиною, це можливість розширити асортимент годинників. Рекомендується вивчити турецькі бренди з високим попитом.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про стабільний попит на годинники в Туреччині. Виробники можуть розглянути можливість експорту до інших країн.",
+      "category_manager": "Зростання ринку годинників може вплинути на категорійні стратегії. Рекомендується переглянути асортимент годинників у рітейлі."
+    },
+    "tags": [
+      "ринок",
+      "імпорт",
+      "експорт",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ринок годинників у Туреччині досяг $1.5 млрд",
+    "summary": "Ринок годинників у Туреччині оцінюється в $1.5 млрд на рік. Щорічні продажі складають близько 8 млн одиниць. Дані надані асоціацією TÜSAD.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-watch-market-reaches-1-5-billion-227971",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7f558cb60d7d",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/parliament-set-for-busy-economic-agenda-as-fund-bill-take-center-stage-227970",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Parliament set for busy economic agenda as fund bill take center stage",
+    "body_orig": "Economic issues will dominate the Turkish Parliament’s agenda throughout October, with lawmakers set to begin deliberations this week on a bill concerning repayments to investors in liquidated funds and preparations for the 2027 central government budget.",
+    "published": "2026-10-11T07:58:00",
+    "fetched": "2026-10-11T10:55:42.190725",
+    "title_uk": "Турецький парламент розгляне законопроект про виплати інвесторам",
+    "summary_uk": "Протягом жовтня в турецькому парламенті обговорюватимуть законопроект про повернення коштів інвесторам ліквідованих фондів. Також розпочнуться підготовки до бюджету центрального уряду на 2027 рік. Очікується активна робота законодавців у цій сфері.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Турецький парламент розгляне законопроект про виплати інвесторам",
+    "summary": "Протягом жовтня в турецькому парламенті обговорюватимуть законопроект про повернення коштів інвесторам ліквідованих фондів. Також розпочнуться підготовки до бюджету центрального уряду на 2027 рік. Очікується активна робота законодавців у цій сфері.",
+    "link": "https://www.hurriyetdailynews.com/parliament-set-for-busy-economic-agenda-as-fund-bill-take-center-stage-227970",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "05b69ba34640",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/eu-seeks-budget-deal-with-smaller-plan-227969",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU seeks budget deal with smaller plan",
+    "body_orig": "Ireland, which holds the EU's rotating presidency, suggested on Oct. 10 slashing the bloc's next proposed budget by 140 billion euros ($155 billion), in a quest to bridge deep divisions and reach a deal by the end of the year.",
+    "published": "2026-10-11T07:10:55",
+    "fetched": "2026-10-11T10:55:42.190734",
+    "title_uk": "ЄС планує зменшити бюджет на €140 млрд",
+    "summary_uk": "Ірландія, яка головує в ЄС, запропонувала скоротити бюджет блоку на €140 млрд. Це рішення має на меті подолати глибокі розбіжності між країнами-членами та досягти угоди до кінця року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС планує зменшити бюджет на €140 млрд",
+    "summary": "Ірландія, яка головує в ЄС, запропонувала скоротити бюджет блоку на €140 млрд. Це рішення має на меті подолати глибокі розбіжності між країнами-членами та досягти угоди до кінця року.",
+    "link": "https://www.hurriyetdailynews.com/eu-seeks-budget-deal-with-smaller-plan-227969",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f8812ef28d00",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/malaysia-egypt-agree-to-deepen-trade-investment-227968",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Malaysia, Egypt agree to deepen trade, investment",
+    "body_orig": "Malaysian Prime Minister Anwar Ibrahim and Egypt’s President Abdel Fattah al-Sisi held bilateral talks on Oct. 10, focusing on expanding trade, investment, and strategic cooperation during the Egyptian leader’s first state visit to Malaysia since taking office in 2014.",
+    "published": "2026-10-11T07:08:02",
+    "fetched": "2026-10-11T10:55:42.190744",
+    "title_uk": "Малайзія та Єгипет домовились про поглиблення торгівлі та інвестицій",
+    "summary_uk": "Прем'єр Малайзії Анвар Ібрагім та президент Єгипту Абдель Фаттах ас-Сісі провели переговори 10 жовтня. Основна увага була приділена розширенню торгівлі, інвестицій та стратегічної співпраці. Це перший державний візит єгипетського лідера до Малайзії з 2014 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "можливість розширення ринків для турецьких виробників, які можуть розглянути співпрацю з Малайзією та Єгиптом.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Малайзія та Єгипет домовились про поглиблення торгівлі та інвестицій",
+    "summary": "Прем'єр Малайзії Анвар Ібрагім та президент Єгипту Абдель Фаттах ас-Сісі провели переговори 10 жовтня. Основна увага була приділена розширенню торгівлі, інвестицій та стратегічної співпраці. Це перший державний візит єгипетського лідера до Малайзії з 2014 року.",
+    "link": "https://www.hurriyetdailynews.com/malaysia-egypt-agree-to-deepen-trade-investment-227968",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "391172e0129b",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/emtia-piyasalarinda-altin-gumus-ve-enerji-fiyatlari-yukseldi/4084952",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Emtia piyasalarında altın, gümüş ve enerji fiyatları yükseldi",
+    "body_orig": "Çin'de açıklanan veriler, merkez bankasının eylülde altın alımlarını artırarak alım serisini üst üste 23. aya taşıdığını gösterdi.",
+    "published": "2026-10-11T08:16:41",
+    "fetched": "2026-10-11T10:55:45.824486",
+    "title_uk": "Ціни на золото, срібло та енергію зросли на ринку сировини",
+    "summary_uk": "У Китаї опубліковані дані, які свідчать про зростання закупівель золота центральним банком у вересні. Це продовжує серію зростання закупівель, яка триває вже 23 місяці. Зростання цін на золото, срібло та енергію відзначається на ринку сировини.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на золото та енергію може вплинути на імпорт товарів, пов'язаних з цими сировинами. Імпортерам слід переглянути свої закупівельні стратегії.",
+      "pl_distributor": "Зростання цін на енергію може вплинути на витрати дистриб'юторів. Рекомендується переглянути ціни на продукцію, що залежить від енергетичних витрат.",
+      "tr_manufacturer": "Зростання цін на сировину може підвищити витрати на виробництво. Виробникам слід розглянути можливість коригування цін на свою продукцію.",
+      "category_manager": "Зростання цін на сировину може вплинути на формування цінової політики в ритейлі. Рекомендується переглянути стратегії закупівель та промо-акцій."
+    },
+    "tags": [
+      "ціни-сировина",
+      "імпорт",
+      "експорт",
+      "ритейл"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Ціни на золото, срібло та енергію зросли на ринку сировини",
+    "summary": "У Китаї опубліковані дані, які свідчать про зростання закупівель золота центральним банком у вересні. Це продовжує серію зростання закупівель, яка триває вже 23 місяці. Зростання цін на золото, срібло та енергію відзначається на ринку сировини.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/emtia-piyasalarinda-altin-gumus-ve-enerji-fiyatlari-yukseldi/4084952",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "31664ef26fa8",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/sanayi-urunlerindeki-uygunsuzluklar-icin-9-ayda-287-5-milyon-lira-ceza/4084920",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Sanayi ürünlerindeki uygunsuzluklar için 9 ayda 287,5 milyon lira ceza",
+    "body_orig": "Sanayi ve Teknoloji Bakanlığı, bu yılın ocak-eylül döneminde 40 bin 201 sanayi ürününü denetledi, uygunsuzluklar için 287 milyon 473 bin 69 lira ceza uygulandı.",
+    "published": "2026-10-11T08:02:09",
+    "fetched": "2026-10-11T10:55:45.824506",
+    "title_uk": "Туреччина наклала штрафи на 287 млн лір за порушення в промисловості",
+    "summary_uk": "Міністерство промисловості та технологій Туреччини провело перевірку 40 тисяч промислових товарів у січні-вересні 2023 року. За виявлені порушення накладено штрафи на загальну суму 287 млн лір. Це свідчить про посилення контролю за якістю продукції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Посилення контролю може означати, що виробники в Туреччині повинні звернути увагу на якість продукції, щоб уникнути штрафів. Це може вплинути на конкурентоспроможність на зовнішніх ринках.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина наклала штрафи на 287 млн лір за порушення в промисловості",
+    "summary": "Міністерство промисловості та технологій Туреччини провело перевірку 40 тисяч промислових товарів у січні-вересні 2023 року. За виявлені порушення накладено штрафи на загальну суму 287 млн лір. Це свідчить про посилення контролю за якістю продукції.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-urunlerindeki-uygunsuzluklar-icin-9-ayda-287-5-milyon-lira-ceza/4084920",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "47abc1f892ff",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "e-Tebligat sistemine dahil olma şartları ve süreleri belirlendi",
+    "body_orig": "Kurumlar vergisi ve ticari, zirai, mesleki kazançları dolayısıyla gerçek usulde vergilendirilen gelir vergisi mükellefleri ile kolektif ve adi komandit şirketler gibi tüzel ve gerçek kişiler, elektronik tebligat sistemine dahil olacak.",
+    "published": "2026-10-11T06:11:26",
+    "fetched": "2026-10-11T10:55:45.824515",
+    "title_uk": "Визначено умови для участі в електронній системі повідомлень у Туреччині",
+    "summary_uk": "Туреччина запроваджує електронну систему повідомлень для платників податків, які підлягають оподаткуванню на основі реального доходу. Учасниками стануть юридичні та фізичні особи, що сплачують корпоративний податок і податок на доходи. Це дозволить спростити процес комунікації з податковими органами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Якщо ви плануєте працювати з турецьким ринком, враховуйте нові вимоги до електронної звітності, що можуть вплинути на вашу діяльність.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Визначено умови для участі в електронній системі повідомлень у Туреччині",
+    "summary": "Туреччина запроваджує електронну систему повідомлень для платників податків, які підлягають оподаткуванню на основі реального доходу. Учасниками стануть юридичні та фізичні особи, що сплачують корпоративний податок і податок на доходи. Це дозволить спростити процес комунікації з податковими органами.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/e-tebligat-sistemine-dahil-olma-sartlari-ve-sureleri-belirlendi/4084862",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "777e1bf3e940",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-fistik-ihracati-80-9-milyon-dolar-oldu/4084802",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye'nin 9 aylık fıstık ihracatı 80,9 milyon dolar oldu",
+    "body_orig": "Türkiye, yılın dokuz ayında 75 ülkeye 80 milyon 906 bin dolarlık fıstık ihraç etti.",
+    "published": "2026-10-10T21:13:34",
+    "fetched": "2026-10-11T10:55:45.824524",
+    "title_uk": "Туреччина експортувала фісташки на $81 млн за 9 місяців",
+    "summary_uk": "Протягом дев'яти місяців Туреччина експортувала фісташки на суму $80.9 млн до 75 країн. Основні ринки збуту залишаються в Європі та Азії. Зростання експорту свідчить про стабільний попит на турецькі горіхи.",
+    "what_it_means": {
+      "ua_importer": "Якщо ви імпортуєте фісташки з Туреччини, слідкуйте за змінами в ціновій політиці та попитом на ринку. Можливе підвищення цін через зростання експорту.",
+      "pl_distributor": "Польські дистриб'ютори можуть розглянути можливість збільшення закупівель фісташок з Туреччини, враховуючи стабільний попит.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина експортувала фісташки на $81 млн за 9 місяців",
+    "summary": "Протягом дев'яти місяців Туреччина експортувала фісташки на суму $80.9 млн до 75 країн. Основні ринки збуту залишаються в Європі та Азії. Зростання експорту свідчить про стабільний попит на турецькі горіхи.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-fistik-ihracati-80-9-milyon-dolar-oldu/4084802",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d5f10abc7514",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/de-la-raft-la-brand-cum-incearca-georgiana-rotaru-sa-si-faca-loc-in-industria-de-beauty-cu-platforma-b2b-skytree-cu-20-000-de-produse-de-la-mai-mult-de-500-de-branduri-23257446",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "De la raft la brand: Cum încearcă Georgiana Rotaru să-şi facă loc în industria de beauty cu platforma B2B SkyTree, cu 20.000 de produse de la mai mult de 500 de branduri",
+    "body_orig": "",
+    "published": "2026-10-11T10:15:00",
+    "fetched": "2026-10-11T10:55:47.962597",
+    "title_uk": "Georgiana Rotaru запускає платформу B2B SkyTree для beauty-індустрії",
+    "summary_uk": "Georgiana Rotaru представила платформу SkyTree, що пропонує 20 тис. продуктів від понад 500 брендів у сегменті краси. Платформа орієнтована на B2B-сегмент, спрощуючи доступ до продукції для бізнесу. Це може змінити ринок beauty в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Georgiana Rotaru запускає платформу B2B SkyTree для beauty-індустрії",
+    "summary": "Georgiana Rotaru представила платформу SkyTree, що пропонує 20 тис. продуктів від понад 500 брендів у сегменті краси. Платформа орієнтована на B2B-сегмент, спрощуючи доступ до продукції для бізнесу. Це може змінити ринок beauty в Румунії.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/de-la-raft-la-brand-cum-incearca-georgiana-rotaru-sa-si-faca-loc-in-industria-de-beauty-cu-platforma-b2b-skytree-cu-20-000-de-produse-de-la-mai-mult-de-500-de-branduri-23257446",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6b0adc2bdaf6",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/anuar-zf-top-100-companii-antreprenoriale-romanesti-2026/top-100-companii-antreprenoriale-din-romania-pasaport-de-crestere-cum-s-au-extins-companiile-antreprenoriale-romanesti-pe-pietele-externe-23255015",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Top 100 companii antreprenoriale din România. Paşaport de creştere. Cum s-au extins companiile antreprenoriale româneşti pe pieţele externe",
+    "body_orig": "Extinderea în afara graniţelor ţării înseamnă în ultimii ani mai mult decât activitatea de export. Sunt antreprenori care au făcut un pas în plus: au cumpărat fabrici în alte ţări, au deschis filiale şi au început să creeze echipe.",
+    "published": "2026-10-11T09:00:00",
+    "fetched": "2026-10-11T10:55:47.962664",
+    "title_uk": "Румунські компанії активно розширюються на міжнародних ринках",
+    "summary_uk": "Румунські підприємці розширюють свою діяльність за межі країни, купуючи фабрики та відкриваючи філії. Це свідчить про зростаючу тенденцію до міжнародної експансії. Компанії створюють нові команди, що підкреслює їхній намір інтегруватися в іноземні ринки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може бути можливістю для турецьких виробників, які шукають партнерів у Румунії. Розгляньте можливість співпраці з румунськими компаніями для виходу на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Румунські компанії активно розширюються на міжнародних ринках",
+    "summary": "Румунські підприємці розширюють свою діяльність за межі країни, купуючи фабрики та відкриваючи філії. Це свідчить про зростаючу тенденцію до міжнародної експансії. Компанії створюють нові команди, що підкреслює їхній намір інтегруватися в іноземні ринки.",
+    "link": "https://www.zf.ro/anuar-zf-top-100-companii-antreprenoriale-romanesti-2026/top-100-companii-antreprenoriale-din-romania-pasaport-de-crestere-cum-s-au-extins-companiile-antreprenoriale-romanesti-pe-pietele-externe-23255015",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d12630a5aa8b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/pentru-generatia-z-cum-arata-ambalajul-unui-produs-reprezinta-un-motiv-puternic-de-achizitie-81-dintre-membrii-generatiei-z-au-incercat-un-produs-din-cauza-ambalajului-23257429",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Pentru generaţia Z cum arată ambalajul unui produs reprezintă un motiv puternic de achiziţie: 81% dintre membrii generaţiei Z au încercat un produs din cauza ambalajului",
+    "body_orig": "",
+    "published": "2026-10-11T08:49:19",
+    "fetched": "2026-10-11T10:55:47.962673",
+    "title_uk": "81% молоді купують через привабливе пакування",
+    "summary_uk": "Дослідження показало, що 81% представників покоління Z купують продукти через їхнє пакування. Це свідчить про важливість дизайну упаковки для залучення молодих споживачів. Виробники повинні враховувати ці тенденції при розробці нових продуктів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Якщо плануєте вихід на ринок Румунії, враховуйте, що упаковка має велике значення для молоді. Інвестуйте в дизайн упаковки для залучення споживачів.",
+      "category_manager": "Зосередьтеся на упаковці ваших продуктів, особливо для молодіжних категорій. Це може підвищити продажі та залучити нових споживачів."
+    },
+    "tags": [
+      "виробництво",
+      "ритейл",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "81% молоді купують через привабливе пакування",
+    "summary": "Дослідження показало, що 81% представників покоління Z купують продукти через їхнє пакування. Це свідчить про важливість дизайну упаковки для залучення молодих споживачів. Виробники повинні враховувати ці тенденції при розробці нових продуктів.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/pentru-generatia-z-cum-arata-ambalajul-unui-produs-reprezinta-un-motiv-puternic-de-achizitie-81-dintre-membrii-generatiei-z-au-incercat-un-produs-din-cauza-ambalajului-23257429",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dca83649cbc0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cnair-lucrarile-la-tunelul-boita-1-de-pe-autostrada-sibiu-pitesti-au-ajuns-la-un-stadiu-fizic-de-4511_984562.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "CNAIR: Lucrările la tunelul Boiţa 1 de pe Autostrada Sibiu – Piteşti au ajuns la un stadiu fizic de 45,11%",
+    "body_orig": "Lucrările la tunelul Boiţa 1, situat pe secţiunea Boiţa - Cornetu a Autostrăzii Sibiu - Piteşti (A1), au ajuns la un stadiu fizic de 45,11%, după finalizarea străpungerii ambelor galerii, a anunţat, duminică, directorul general al Companiei Naţionale de Administrare a Infrastructurii Rutiere (CNAIR), Cristian Pistol.",
+    "published": "2026-10-11T09:48:56",
+    "fetched": "2026-10-11T10:55:50.053463",
+    "title_uk": "Будівництво тунелю Boiţa 1 на автостраді Сібіу – Пітешті досягло 45%",
+    "summary_uk": "Будівництво тунелю Boiţa 1 на автостраді Сібіу – Пітешті досягло 45% готовності. Завершено проходження обох галерей. Про це повідомив директор CNAIR, Cristian Pistol.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Будівництво тунелю Boiţa 1 на автостраді Сібіу – Пітешті досягло 45%",
+    "summary": "Будівництво тунелю Boiţa 1 на автостраді Сібіу – Пітешті досягло 45% готовності. Завершено проходження обох галерей. Про це повідомив директор CNAIR, Cristian Pistol.",
+    "link": "https://www.economica.net/cnair-lucrarile-la-tunelul-boita-1-de-pe-autostrada-sibiu-pitesti-au-ajuns-la-un-stadiu-fizic-de-4511_984562.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e195c2047507",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/vantul-bun-va-ajuta-sistemul-energetic-romanesc-toata-saptamana-viitoare-turbinele-eoliene-ar-urma-sa-produca-energie-cat-doua-centrale-de-la-cernavoda_984548.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Vântul bun va ajuta sistemul energetic românesc toată săptămâna viitoare. Turbinele eoliene ar urma să producă energie cât două centrale de la Cernavodă.",
+    "body_orig": "Sistemul energetic românesc ar urma să beneficieze de un aport substanțial al energiei eoline în săptămâna ce vine, potrivit prognozelor consultate de noi.",
+    "published": "2026-10-11T09:16:36",
+    "fetched": "2026-10-11T10:55:50.053483",
+    "title_uk": "Румунія отримає значну енергію від вітрових турбін",
+    "summary_uk": "Прогнози вказують на те, що вітрові турбіни в Румунії забезпечать енергію, еквівалентну двом атомним електростанціям у Чорноморському регіоні. Це позитивно вплине на енергетичну систему країни протягом наступного тижня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія отримає значну енергію від вітрових турбін",
+    "summary": "Прогнози вказують на те, що вітрові турбіни в Румунії забезпечать енергію, еквівалентну двом атомним електростанціям у Чорноморському регіоні. Це позитивно вплине на енергетичну систему країни протягом наступного тижня.",
+    "link": "https://www.economica.net/vantul-bun-va-ajuta-sistemul-energetic-romanesc-toata-saptamana-viitoare-turbinele-eoliene-ar-urma-sa-produca-energie-cat-doua-centrale-de-la-cernavoda_984548.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ecff8881f0c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ucraina-pregateste-o-centrala-geotermala-langa-romania-cu-ajutorul-britanicilor-tehnologia-care-ar-putea-accelera-constructia_984415.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ucraina pregătește o centrală geotermală lângă România, cu ajutorul britanicilor. Tehnologia care ar putea accelera construcția",
+    "body_orig": "Ucraina lucreză alături de cercetători britanici și polonezi la un proiect pilot de centrală geotermală, care se va construi în orașul Slatina din regiunea Transcarpația, chiar la graniță cu România, în apropiere de Sighetul Marmației.",
+    "published": "2026-10-11T08:33:16",
+    "fetched": "2026-10-11T10:55:50.053493",
+    "title_uk": "У Україні з'явиться геотермальна електростанція біля кордону з Румунією",
+    "summary_uk": "У Слатині, Закарпатська область, планують будівництво геотермальної електростанції. Проект реалізується за участі британських та польських дослідників. Це пілотний проект, який може прискорити розвиток геотермальної енергетики в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Україні з'явиться геотермальна електростанція біля кордону з Румунією",
+    "summary": "У Слатині, Закарпатська область, планують будівництво геотермальної електростанції. Проект реалізується за участі британських та польських дослідників. Це пілотний проект, який може прискорити розвиток геотермальної енергетики в регіоні.",
+    "link": "https://www.economica.net/ucraina-pregateste-o-centrala-geotermala-langa-romania-cu-ajutorul-britanicilor-tehnologia-care-ar-putea-accelera-constructia_984415.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7d88df267008",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/09/iaki-instrumenti-dopomozut-biznesu-znizuvati-energovitrati-doslidzennia/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як бізнесу зменшити енерговитрати та вуглецевий слід: інструкція",
+    "body_orig": "Українські компанії можуть скоротити вуглецевий слід і підготуватися до екологічних вимог ЄС за допомогою «зеленої» електроенергії, довгострокових договорів із її виробниками та систем накопичення енергії. Як це зробити?",
+    "published": "2026-10-11T10:30:00",
+    "fetched": "2026-10-11T10:55:31.222750",
+    "title_uk": "Як бізнесу зменшити енерговитрати та вуглецевий слід",
+    "summary_uk": "Українські компанії можуть зменшити вуглецевий слід, використовуючи «зелену» електроенергію та довгострокові контракти з виробниками. Впровадження систем накопичення енергії також допоможе знизити витрати. Це важливо для відповідності екологічним вимогам ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження екологічних практик може стати конкурентною перевагою. Розгляньте можливість співпраці з постачальниками «зеленої» електроенергії для зниження витрат."
+    },
+    "tags": [
+      "виробництво",
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Як бізнесу зменшити енерговитрати та вуглецевий слід",
+    "summary": "Українські компанії можуть зменшити вуглецевий слід, використовуючи «зелену» електроенергію та довгострокові контракти з виробниками. Впровадження систем накопичення енергії також допоможе знизити витрати. Це важливо для відповідності екологічним вимогам ЄС.",
+    "link": "https://ain.ua/2026/10/09/iaki-instrumenti-dopomozut-biznesu-znizuvati-energovitrati-doslidzennia/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e81cef3dd55",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/ryteyil-vidnovlennia-piat-arkhitekturnykh-rishen-iaki-varto-zaklasty-shche-do-vidkryttia-magazynu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Ритейл відновлення: п'ять архітектурних рішень, які варто закласти ще до відкриття магазину",
+    "body_orig": "Невдало розташована каса, неправильно спроєктоване освітлення чи вітрина без необхідної інфраструктури – помилки, які можуть дорого коштувати ритейлеру вже після відкриття магазину. Водночас більшості з них можна запобігти ще на етапі архітектурного проєкту. Чому візуальний мерчендайзинг має починат…",
+    "published": "2026-10-11T04:46:00",
+    "fetched": "2026-10-11T10:55:54.721436",
+    "title_uk": "П'ять архітектурних рішень для ритейлу перед відкриттям магазину",
+    "summary_uk": "Експерти радять уникати помилок у проєктуванні магазинів, які можуть призвести до втрат. Зокрема, важливо правильно розташувати каси та освітлення. Це допоможе підвищити ефективність роботи ритейлерів. Рекомендації стосуються етапу архітектурного проєкту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Рекомендації можуть бути корисними для категорійних менеджерів, які займаються плануванням нових магазинів. Важливо враховувати архітектурні рішення для підвищення продажів."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "П'ять архітектурних рішень для ритейлу перед відкриттям магазину",
+    "summary": "Експерти радять уникати помилок у проєктуванні магазинів, які можуть призвести до втрат. Зокрема, важливо правильно розташувати каси та освітлення. Це допоможе підвищити ефективність роботи ритейлерів. Рекомендації стосуються етапу архітектурного проєкту.",
+    "link": "https://rau.ua/news/ryteyil-vidnovlennia-piat-arkhitekturnykh-rishen-iaki-varto-zaklasty-shche-do-vidkryttia-magazynu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
