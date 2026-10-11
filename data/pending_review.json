@@ -380155,5 +380155,522 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "9ebc9d76cf20",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nastroje-na-GPW-gwaltownie-do-dolu-Byki-uciekaja-z-warszawskiej-gieldy-9210919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nastroje na GPW gwałtownie do dołu. Byki uciekają z warszawskiej giełdy?",
+    "body_orig": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 13 pkt. proc. i wyniósł 42,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 10,9 pkt. proc. i wynosi 30,5 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
+    "published": "2026-10-11T18:50:00",
+    "fetched": "2026-10-11T19:56:00.258017",
+    "title_uk": "Інвестори в Польщі очікують падіння на фондовому ринку",
+    "summary_uk": "Відсоток інвесторів, які прогнозують зростання на Варшавській фондовій біржі, знизився на 13% до 42%. Водночас кількість тих, хто очікує падіння, зросла на 11% до 31%. Це свідчить про песимізм на ринку, за даними щотижневого опитування Інституту настроїв інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори FMCG повинні бути обережними з новими закупівлями, оскільки зниження настроїв може вплинути на споживчий попит.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження настроїв інвесторів може призвести до зменшення інвестицій у ритейл, що варто врахувати при плануванні промо-акцій та закупівель."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Інвестори в Польщі очікують падіння на фондовому ринку",
+    "summary": "Відсоток інвесторів, які прогнозують зростання на Варшавській фондовій біржі, знизився на 13% до 42%. Водночас кількість тих, хто очікує падіння, зросла на 11% до 31%. Це свідчить про песимізм на ринку, за даними щотижневого опитування Інституту настроїв інвесторів.",
+    "link": "https://www.bankier.pl/wiadomosc/Nastroje-na-GPW-gwaltownie-do-dolu-Byki-uciekaja-z-warszawskiej-gieldy-9210919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e9af7a054143",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wiadomosci/pko-bp-zapowiada-prace-techniczne-sprawdz-kiedy-moga-wystapic-utrudnienia/hlg0n2x",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PKO BP zapowiada przerwę techniczną. Wtedy nie zrobisz przelewu",
+    "body_orig": "Planowane prace techniczne PKO BP 13 października mogą czasowo utrudnić korzystanie z IKO i bankowości internetowej, ale karty mają działać bez zakłóceń. Bank równolegle wprowadza też zmiany w kartach firmowych i odświeża wygląd aplikacji.",
+    "published": "2026-10-11T14:38:51",
+    "fetched": "2026-10-11T19:56:01.815025",
+    "title_uk": "PKO BP оголосив про технічну перерву 13 жовтня",
+    "summary_uk": "PKO BP запланував технічні роботи 13 жовтня, що можуть ускладнити доступ до IKO та інтернет-банкінгу. Картки працюватимуть без перебоїв. Також банк оновлює картки для бізнесу та зовнішній вигляд додатку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PKO BP оголосив про технічну перерву 13 жовтня",
+    "summary": "PKO BP запланував технічні роботи 13 жовтня, що можуть ускладнити доступ до IKO та інтернет-банкінгу. Картки працюватимуть без перебоїв. Також банк оновлює картки для бізнесу та зовнішній вигляд додатку.",
+    "link": "https://businessinsider.com.pl/wiadomosci/pko-bp-zapowiada-prace-techniczne-sprawdz-kiedy-moga-wystapic-utrudnienia/hlg0n2x",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1f4b33f916df",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/plus-traci-klientow-w-2026-roku-coraz-wiecej-polakow-zmienia-operatora/ssdfgfk",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ponad milion przeniesionych numerów. Jeden operator szczególnie stracił",
+    "body_orig": "Polacy coraz częściej zmieniają operatora, a największym przegranym jest Plus. Dane pokazują nie tylko rosnącą mobilność klientów, ale też wyraźną zmianę układu sił na rynku. Coraz więcej abonentów wybiera również mniejszych operatorów, którzy kuszą prostszymi ofertami i niższymi cenami.",
+    "published": "2026-10-11T13:27:25",
+    "fetched": "2026-10-11T19:56:01.815045",
+    "title_uk": "Польські абоненти активно змінюють операторів мобільного зв'язку",
+    "summary_uk": "У Польщі понад мільйон абонентів змінили мобільного оператора, найбільше втратив Plus. Клієнти обирають менших операторів з простішими пропозиціями та нижчими цінами. Це свідчить про зростаючу мобільність споживачів на ринку зв'язку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміна операторів може вплинути на попит на послуги зв'язку, що може позначитися на дистрибуції відповідних товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в уподобаннях споживачів може вимагати перегляду асортименту та цінової політики для категорій, пов'язаних із мобільними послугами."
+    },
+    "tags": [
+      "ринок",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські абоненти активно змінюють операторів мобільного зв'язку",
+    "summary": "У Польщі понад мільйон абонентів змінили мобільного оператора, найбільше втратив Plus. Клієнти обирають менших операторів з простішими пропозиціями та нижчими цінами. Це свідчить про зростаючу мобільність споживачів на ринку зв'язку.",
+    "link": "https://businessinsider.com.pl/finanse/plus-traci-klientow-w-2026-roku-coraz-wiecej-polakow-zmienia-operatora/ssdfgfk",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "13eeb83a68fd",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/su-urunleri-denetimlerinde-bu-yil-128-8-milyon-lira-ceza-kesildi/4085143",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Su ürünleri denetimlerinde bu yıl 128,8 milyon lira ceza kesildi",
+    "body_orig": "Tarım ve Orman Bakanı İbrahim Yumaklı, su ürünleri kaynaklarını korumak ve yasa dışı avcılığı önlemek amacıyla yürüttükleri denetimlerde kurallara uymayanlara bu yıl 128,8 milyon lira idari para cezası uyguladıklarını bildirdi.",
+    "published": "2026-10-11T12:15:49",
+    "fetched": "2026-10-11T19:56:21.844795",
+    "title_uk": "У Туреччині накладено штрафи на 128,8 млн лір за порушення у рибальстві",
+    "summary_uk": "Міністр сільського господарства Туреччини Ібрагім Юмакли повідомив про накладення адміністративних штрафів на суму 128,8 млн лір за порушення правил рибальства. Ці заходи спрямовані на захист водних ресурсів і боротьбу з незаконним виловом. Контроль за дотриманням правил триває.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може вплинути на виробників рибних продуктів, які працюють у Туреччині. Важливо дотримуватись правил, щоб уникнути штрафів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "У Туреччині накладено штрафи на 128,8 млн лір за порушення у рибальстві",
+    "summary": "Міністр сільського господарства Туреччини Ібрагім Юмакли повідомив про накладення адміністративних штрафів на суму 128,8 млн лір за порушення правил рибальства. Ці заходи спрямовані на захист водних ресурсів і боротьбу з незаконним виловом. Контроль за дотриманням правил триває.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/su-urunleri-denetimlerinde-bu-yil-128-8-milyon-lira-ceza-kesildi/4085143",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a7f499ee15a1",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-findik-ihracati-1-9-milyar-dolari-asti/4085117",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye'nin 9 aylık fındık ihracatı 1,9 milyar doları aştı",
+    "body_orig": "Türkiye'den ocak-eylül döneminde yapılan fındık ihracatı 1 milyar 919 milyon 691 bin dolara ulaştı.",
+    "published": "2026-10-11T11:34:05",
+    "fetched": "2026-10-11T19:56:21.844811",
+    "title_uk": "Експорт фундука з Туреччини перевищив $1.9 млрд за 9 місяців",
+    "summary_uk": "За січень-вересень 2026 року Туреччина експортувала фундук на суму $1.92 млрд. Це свідчить про стабільний попит на турецький горіх на міжнародних ринках. Основними імпортерами залишаються країни Європи та Азії.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту фундука відкриває можливості для турецьких виробників, які планують вихід на нові ринки, зокрема в Україні та Польщі.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Експорт фундука з Туреччини перевищив $1.9 млрд за 9 місяців",
+    "summary": "За січень-вересень 2026 року Туреччина експортувала фундук на суму $1.92 млрд. Це свідчить про стабільний попит на турецький горіх на міжнародних ринках. Основними імпортерами залишаються країни Європи та Азії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-findik-ihracati-1-9-milyar-dolari-asti/4085117",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1584bbf17458",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/daca-esti-tanar-si-cauti-de-munca-varsovia-te-vrea-23257230",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Dacă eşti tânăr şi cauţi de muncă, Varşovia te vrea",
+    "body_orig": "Declinul demografic din Polonia a dus la situaţia în care Varşovia, ca­pi­tala, înregistrează cea mai ridicată rată de ocupare a forţei de muncă din Europa, aceasta în timp ce ţara în sine are una dintre cele mai scăzute rate ale şomajului din UE, scrie zia­rul de business Rzeczpospolita.",
+    "published": "2026-10-11T17:22:00",
+    "fetched": "2026-10-11T19:56:24.555512",
+    "title_uk": "Варшава шукає молодих працівників через демографічний спад",
+    "summary_uk": "Варшава має найвищу в Європі зайнятість серед молоді на фоні демографічного спаду в Польщі. Країна демонструє одну з найнижчих рівнів безробіття в ЄС. Це створює можливості для молодих спеціалістів на ринку праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання попиту на молодих працівників може призвести до збільшення витрат на кадри. Розгляньте можливість адаптації пропозицій для нових співробітників.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами",
+      "ринок-робочої-сили"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Варшава шукає молодих працівників через демографічний спад",
+    "summary": "Варшава має найвищу в Європі зайнятість серед молоді на фоні демографічного спаду в Польщі. Країна демонструє одну з найнижчих рівнів безробіття в ЄС. Це створює можливості для молодих спеціалістів на ринку праці.",
+    "link": "https://www.zf.ro/business-international/daca-esti-tanar-si-cauti-de-munca-varsovia-te-vrea-23257230",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e71fb4f2ded2",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cata-ciocolata-vinde-leonidas-in-romania-60-de-tone-intr-un-an-si-3-mil-euro-romania-cea-mai-mare-piata-externa-dupa-zona-benefralux_983579.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Câtă ciocolată vinde Leonidas în România: 60 de tone într-un an si 3 mil. euro. România, cea mai mare piață externă după zona BeNeFraLux",
+    "body_orig": "Leonidas a vândut aproximativ 60 de tone de ciocolată în România în 2025 și a înregistrat o cifră de afaceri de circa 3 milioane de euro, piața locală devenind cea mai mare piață de export a producătorului belgian din afara regiunii BeNeFraLux. Ion Codreanu, cel care dezvoltă brandul Leonidas pe piața locală din 2009, a explicat, într-un interviu acordat Economica.net, cum a evoluat businessul în România, ce cumpără românii și prin ce se diferențiază aceștia de clienții de pe alte piețe europene.",
+    "published": "2026-10-11T18:27:19",
+    "fetched": "2026-10-11T19:56:28.085808",
+    "title_uk": "Leonidas продає 60 тонн шоколаду в Румунії за €3 млн",
+    "summary_uk": "Leonidas реалізував близько 60 тонн шоколаду в Румунії у 2025 році, заробивши приблизно €3 млн. Румунія стала найбільшим ринком для бельгійського виробника за межами регіону BeNeFraLux. Іон Кодреану, який розвиває бренд в Румунії з 2009 року, розповів про особливості місцевого споживання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Leonidas продає 60 тонн шоколаду в Румунії за €3 млн",
+    "summary": "Leonidas реалізував близько 60 тонн шоколаду в Румунії у 2025 році, заробивши приблизно €3 млн. Румунія стала найбільшим ринком для бельгійського виробника за межами регіону BeNeFraLux. Іон Кодреану, який розвиває бренд в Румунії з 2009 року, розповів про особливості місцевого споживання.",
+    "link": "https://www.economica.net/cata-ciocolata-vinde-leonidas-in-romania-60-de-tone-intr-un-an-si-3-mil-euro-romania-cea-mai-mare-piata-externa-dupa-zona-benefralux_983579.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ef1fcee435cd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cum-va-implementa-uber-masinile-autonome-in-europa-directorul-regional-explica-la-bucuresti-ce-se-va-intampla-cu-soferii_983938.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum va implementa Uber mașinile autonome în Europa. Directorul regional explică la București ce se va întâmpla cu șoferii",
+    "body_orig": "Uber pregătește introducerea mașinilor autonome în Europa într-un sistem în care acestea vor circula în paralel cu mașinile conduse de șoferi și nu le vor înlocui în totalitate, a anunțat Marcin Moczyróg, General Manager Uber pentru Europa Centrală și de Est.",
+    "published": "2026-10-11T18:25:52",
+    "fetched": "2026-10-11T19:56:28.085825",
+    "title_uk": "Uber планує впровадження автономних автомобілів в Європі",
+    "summary_uk": "Uber анонсував запуск автономних автомобілів у Європі. Генеральний директор компанії для Центральної та Східної Європи, Марцін Мочирог, зазначив, що ці автомобілі працюватимуть паралельно з водіями, не замінюючи їх повністю. Це дозволить зберегти робочі місця для водіїв на початковому етапі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Uber планує впровадження автономних автомобілів в Європі",
+    "summary": "Uber анонсував запуск автономних автомобілів у Європі. Генеральний директор компанії для Центральної та Східної Європи, Марцін Мочирог, зазначив, що ці автомобілі працюватимуть паралельно з водіями, не замінюючи їх повністю. Це дозволить зберегти робочі місця для водіїв на початковому етапі.",
+    "link": "https://www.economica.net/cum-va-implementa-uber-masinile-autonome-in-europa-directorul-regional-explica-la-bucuresti-ce-se-va-intampla-cu-soferii_983938.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ae9ad9620086",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cat-ajuta-acum-bateriile-sistemul-energetic-din-romania-in-varful-de-consum-de-seara-cifre-oficiale-si-un-record_984272.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cât ajută acum bateriile sistemul energetic din România în vârful de consum de seară. Cifre oficiale și un record",
+    "body_orig": "Deși încă este redusă în raport cu necesitățile sistemului energetic național, capacitate de stocare a energiei electrice în baterii se face din ce în ce mai mult simțită, mai ales în orele din vârful de consum de seară, potrivit datelor prezentate de Sorin Elisei, secretar general în Miniusterul Energiei, la evenimentul Green EPC. Recordul la minut: mai mult decât un reactor de la Cernavodă.",
+    "published": "2026-10-11T18:23:22",
+    "fetched": "2026-10-11T19:56:28.085836",
+    "title_uk": "Батареї в Румунії допомагають енергосистемі під час пікових навантажень",
+    "summary_uk": "Згідно з даними Міністерства енергетики Румунії, батареї починають відігравати важливу роль у енергосистемі, особливо під час вечірніх пікових навантажень. Вони забезпечують більше енергії, ніж один реактор на атомній станції в Чорнобилі. Проте, їхня потужність ще недостатня для повного задоволення потреб системи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Батареї в Румунії допомагають енергосистемі під час пікових навантажень",
+    "summary": "Згідно з даними Міністерства енергетики Румунії, батареї починають відігравати важливу роль у енергосистемі, особливо під час вечірніх пікових навантажень. Вони забезпечують більше енергії, ніж один реактор на атомній станції в Чорнобилі. Проте, їхня потужність ще недостатня для повного задоволення потреб системи.",
+    "link": "https://www.economica.net/cat-ajuta-acum-bateriile-sistemul-energetic-din-romania-in-varful-de-consum-de-seara-cifre-oficiale-si-un-record_984272.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5fef36595c9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fara-exceptii-la-plata-cass-schimba-radical-finantarea-in-sistem-excedent-de-17-miliarde-lei-dupa-6-ani-de-deficit-cele-mai-mici-subventii-primite-din-2020-efectele-legii-141-si-ale-altor_984183.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fără excepţii la plata CASS schimbă radical finanţarea în sistem: excedent de 1,7 miliarde lei după 6 ani de deficit, cele mai mici subvenţii primite din 2020 încoace – analiză exclusivă",
+    "body_orig": "Fondul Naţional Unic de Asigurări Sociale de Sănătate (FNUASS), din care e finanţat în mare parte sistemul asigurărilor sociale de sănătate, are excedent, în primele opt luni din 2026, după deficite semnificative în perioada analizată (ianuarie – august) a tuturor anilor din 2019 încoace, arată o amplă analiză Economica.net care a studiat, din nou, execuţiile FNUASS din 2019 încoace. Fondul Sănătăţii a obţinut excedent de 1,7 miliarde lei în primele 8 luni din 2026 cu cele mai mici subvenţii de la stat din 2020 încoace. Această informaţie ne arată că rezilienţa finanţării FNUASS a crescut semnificativ prin scăderea dependenţei faţă de subvenţii în pondere şi în valoare absolută, datorită Legii 296/2023, a OUG 34/2024, a OUG nr. 93/2023 şi a Legii 141 din 2025, aceasta din urmă aducând cele mai profunde schimbări finanţării sistemului asigurărilor sociale de sănătate din ultimii 27 de ani, potrivit analizei Economica.net.",
+    "published": "2026-10-11T18:22:27",
+    "fetched": "2026-10-11T19:56:28.085848",
+    "title_uk": "Фінансування системи охорони здоров'я Румунії виходить з дефіциту",
+    "summary_uk": "Фонд Національного Універсального Страхування Соціального Здоров'я Румунії отримав надлишок у €1.7 млрд за перші вісім місяців 2026 року. Це перший надлишок за шість років після значних дефіцитів. Зменшення залежності від державних субвенцій стало можливим завдяки новим законодавчим змінам.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фінансування системи охорони здоров'я Румунії виходить з дефіциту",
+    "summary": "Фонд Національного Універсального Страхування Соціального Здоров'я Румунії отримав надлишок у €1.7 млрд за перші вісім місяців 2026 року. Це перший надлишок за шість років після значних дефіцитів. Зменшення залежності від державних субвенцій стало можливим завдяки новим законодавчим змінам.",
+    "link": "https://www.economica.net/fara-exceptii-la-plata-cass-schimba-radical-finantarea-in-sistem-excedent-de-17-miliarde-lei-dupa-6-ani-de-deficit-cele-mai-mici-subventii-primite-din-2020-efectele-legii-141-si-ale-altor_984183.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2450c35f6e1a",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/09/dezkotrakti-u-ssa-2-castina/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Американський партнер, підтримка корпорації чи субконтракт: як українській компанії знайти замовлення у США",
+    "body_orig": "У другій частині матеріалу — про реєстрацію бізнесу, підготовку заявок, підтримку корпорацій і пошук субконтрактів.",
+    "published": "2026-10-11T12:30:00",
+    "fetched": "2026-10-11T19:56:07.864789",
+    "title_uk": "Як українським компаніям знайти замовлення у США",
+    "summary_uk": "У другій частині матеріалу розглядаються аспекти реєстрації бізнесу в США, підготовки заявок та пошуку субконтрактів. Також обговорюється підтримка американських корпорацій для українських компаній. Ці знання можуть бути корисними для підприємців, які прагнуть вийти на американський ринок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Як українським компаніям знайти замовлення у США",
+    "summary": "У другій частині матеріалу розглядаються аспекти реєстрації бізнесу в США, підготовки заявок та пошуку субконтрактів. Також обговорюється підтримка американських корпорацій для українських компаній. Ці знання можуть бути корисними для підприємців, які прагнуть вийти на американський ринок.",
+    "link": "https://ain.ua/2026/10/09/dezkotrakti-u-ssa-2-castina/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a7002b4867de",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/comu-biznes-dosi-zalezit-vid-excel-i-v-yakii-moment-tablic-staje-nedostatnyo-vz83wg",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Чому бізнес досі залежить від Excel і в який момент таблиць стає недостатньо",
+    "body_orig": "Microsoft Excel та Google Таблиці залишаються найпопулярнішим софтом для управління бізнесом у світі. Незважаючи на появу тисяч specialized-сервісів, CRM-систем та ERP-платформ, електронні таблиці досі формують фундаментальний каркас для фінансового обліку, аналітики, складських залишків та планування завдань як у дрібному ритейлі, так і у великих корпораціях.",
+    "published": "2026-10-11T15:53:00",
+    "fetched": "2026-10-11T19:56:09.743140",
+    "title_uk": "Бізнес досі залежить від Excel: причини та наслідки",
+    "summary_uk": "Microsoft Excel та Google Таблиці залишаються основними інструментами для управління бізнесом. Незважаючи на розвиток CRM та ERP-систем, електронні таблиці використовуються для фінансового обліку, аналітики та планування. Це стосується як малих, так і великих компаній.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Використання Excel може обмежувати ефективність управління категоріями. Рекомендується розглянути впровадження спеціалізованих рішень для покращення аналітики та управління даними."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Бізнес досі залежить від Excel: причини та наслідки",
+    "summary": "Microsoft Excel та Google Таблиці залишаються основними інструментами для управління бізнесом. Незважаючи на розвиток CRM та ERP-систем, електронні таблиці використовуються для фінансового обліку, аналітики та планування. Це стосується як малих, так і великих компаній.",
+    "link": "https://speka.ua/business/comu-biznes-dosi-zalezit-vid-excel-i-v-yakii-moment-tablic-staje-nedostatnyo-vz83wg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c5939845d18f",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/data-tsentry-yandeksa-defitsyt-chypiv-hbm-2028n44743-p15mrd",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Дата-центри Яндекса не відбудувати до 2028 року? Проблема в чипах",
+    "body_orig": "Українські дрони за чотири дні зупинили три з п'яти великих дата-центрів Яндекса, але справжній удар для компанії почнеться після того, як згасне пожежа. Ринок обладнання для ШІ зараз перевантажений замовленнями, а росії під санкціями доведеться стояти в кінці глобальної черги за чипами. Ряд медіа вже пише, що повністю відновити майданчики не вдасться щонайменше до 2028 року.",
+    "published": "2026-10-11T11:53:00",
+    "fetched": "2026-10-11T19:56:09.743157",
+    "title_uk": "Дата-центри Яндекса не відновлять до 2028 року через проблеми з чипами",
+    "summary_uk": "Українські дрони зупинили три з п'яти великих дата-центрів Яндекса. Ринок обладнання для ШІ перевантажений замовленнями, а Росія під санкціями опинилася в кінці черги за чипами. Відновлення майданчиків може затягнутися до 2028 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Дата-центри Яндекса не відновлять до 2028 року через проблеми з чипами",
+    "summary": "Українські дрони зупинили три з п'яти великих дата-центрів Яндекса. Ринок обладнання для ШІ перевантажений замовленнями, а Росія під санкціями опинилася в кінці черги за чипами. Відновлення майданчиків може затягнутися до 2028 року.",
+    "link": "https://speka.ua/news/data-tsentry-yandeksa-defitsyt-chypiv-hbm-2028n44743-p15mrd",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
