@@ -395303,5 +395303,1598 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "2fd5da1450c1",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/LOT-placi-1600-dolarow-a-ja-800-Tania-linia-punktuje-polskiego-przewoznika-9213636.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"LOT płaci 1600 dolarów, a ja 800!\" Tania linia punktuje polskiego przewoźnika",
+    "body_orig": "W rozmowie z Business Insider Polska prezes Wizz Aira, Jozsef Varadi, kreśli klarowny podział sił: podczas gdy węgierski przewoźnik szacuje skalę problemu na zaledwie 5-10 proc., dla linii sieciowych PLL LOT wstrząs może sięgnąć nawet 30 proc. Rachunek za drożejące paliwo ostatecznie trafi na bilety, lecz dzięki wyższej elastyczności operator zamierza oszczędzić swoim pasażerom drastycznych skoków cenowych, które według niego staną się nieuniknione u konkurencji.",
+    "published": "2026-10-16T07:45:00",
+    "fetched": "2026-10-16T09:08:42.241823",
+    "title_uk": "Wizz Air прогнозує менше впливу зростання цін на паливо, ніж LOT",
+    "summary_uk": "Президент Wizz Air Йожеф Варді вважає, що зростання цін на паливо вплине на його компанію лише на 5-10%, тоді як для LOT цей показник може досягти 30%. Wizz Air планує уникнути різких стрибків цін, завдяки більшій гнучкості в управлінні витратами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на паливо може вплинути на витрати перевізників, тому дистриб'юторам варто переглянути умови співпраці з авіаперевізниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Wizz Air прогнозує менше впливу зростання цін на паливо, ніж LOT",
+    "summary": "Президент Wizz Air Йожеф Варді вважає, що зростання цін на паливо вплине на його компанію лише на 5-10%, тоді як для LOT цей показник може досягти 30%. Wizz Air планує уникнути різких стрибків цін, завдяки більшій гнучкості в управлінні витратами.",
+    "link": "https://www.bankier.pl/wiadomosc/LOT-placi-1600-dolarow-a-ja-800-Tania-linia-punktuje-polskiego-przewoznika-9213636.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b012ce0888a1",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Polska-ucieka-unijnej-stagnacji-GUS-koryguje-dynamike-PKB-do-4-1-proc-9213680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska ucieka unijnej stagnacji. GUS koryguje dynamikę PKB do 4,1 proc.",
+    "body_orig": "GUS zrewidował szacunek wzrostu PKB w II kwartale '26 do 4,1 proc. z 3,9 proc. rdr oraz w I kwartale do 3,7 proc. z 3,5 proc. rdr.",
+    "published": "2026-10-16T08:40:00",
+    "fetched": "2026-10-16T09:08:42.241833",
+    "title_uk": "Польща коригує прогноз зростання ВВП до 4,1% у 2026 році",
+    "summary_uk": "Головне управління статистики Польщі підвищило прогноз зростання ВВП у II кварталі 2026 року до 4,1% з 3,9% рік до року. Аналогічно, прогноз для I кварталу зріс до 3,7% з 3,5%. Ці дані свідчать про позитивні тенденції в економіці Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання ВВП може позитивно вплинути на споживчий попит, що вигідно для дистриб'юторів FMCG. Рекомендується переглянути стратегії закупівель на наступні квартали.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання економіки може призвести до збільшення попиту на продукцію. Рекомендується адаптувати плани промо-акцій та переглянути KPI для категорій, що користуються попитом."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща коригує прогноз зростання ВВП до 4,1% у 2026 році",
+    "summary": "Головне управління статистики Польщі підвищило прогноз зростання ВВП у II кварталі 2026 року до 4,1% з 3,9% рік до року. Аналогічно, прогноз для I кварталу зріс до 3,7% з 3,5%. Ці дані свідчать про позитивні тенденції в економіці Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/Polska-ucieka-unijnej-stagnacji-GUS-koryguje-dynamike-PKB-do-4-1-proc-9213680.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f9018399c511",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-domow-jednorodzinnych-II-kw-2026-r-Raport-9212458.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kupić gotowy dom czy budować od zera? Oto najświeższe dane z rynku",
+    "body_orig": "Korekta na rynku domów jednorodzinnych powróciła równie szybko, co z niego zniknęła. Po wzrostach z początku roku, w II kw. 2026 r. średnie stawki transakcyjne wyraźnie się ustabilizowały – wynika z danych Bankier.pl udostępnionych przez Cenatorium. Spadki cen dotarły nawet do Warszawy i Łodzi, gdzie kupujący doczekali się ich po raz pierwszy od półtora roku.",
+    "published": "2026-10-16T05:00:00",
+    "fetched": "2026-10-16T09:08:42.241844",
+    "title_uk": "Ціни на житло в Польщі стабілізуються після зростання",
+    "summary_uk": "Ринок односімейних будинків у Польщі демонструє стабільність цін у II кварталі 2026 року. Після зростання на початку року, середні транзакційні ставки знизилися, включаючи Варшаву та Łódź, де ціни впали вперше за півтора року. Дані надані Bankier.pl та Cenatorium.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Стабільність цін може вплинути на попит на житло, що, в свою чергу, може зменшити обсяги продажів товарів для ремонту та будівництва.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Слідкуйте за змінами в попиті на товари для будівництва та ремонту. Стабільність цін може вплинути на стратегії закупівель."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ринок",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на житло в Польщі стабілізуються після зростання",
+    "summary": "Ринок односімейних будинків у Польщі демонструє стабільність цін у II кварталі 2026 року. Після зростання на початку року, середні транзакційні ставки знизилися, включаючи Варшаву та Łódź, де ціни впали вперше за півтора року. Дані надані Bankier.pl та Cenatorium.",
+    "link": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-domow-jednorodzinnych-II-kw-2026-r-Raport-9212458.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0814b3c8346",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/technologie/super-cena-na-plecak-nils-camp-plecy-sie-nie-spoca-a-w-srodku-zmiescisz-wszystko/jc97ksh",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Super cena na plecak Nils Camp. Plecy się nie spocą, a w środku zmieścisz wszystko",
+    "body_orig": "Wyprawa w góry, czy po prostu weekendowy wyjazd wymaga odpowiedniego przygotowania. Profesjonalne plecaki turystyczne z zaawansowaną wentylacją mogą kosztować sporo pieniędzy. Jesteśmy jednak od tego, by polecać tanie i dobre produkty i tak jest w tym przypadku. Pojawiła się świetna promocja, w której Nils Camp Kjolen NC1938 został przeceniony aż o ponad 140 zł, czyli o ponad połowę. W bardzo dobrej cenie dostajemy pełnowymiarowy, 40-litrowy plecak z siatką dystansującą Air Comfort, która zapobiega poceniu się pleców podczas marszu.",
+    "published": "2026-10-16T08:52:40",
+    "fetched": "2026-10-16T09:08:43.830331",
+    "title_uk": "Знижка на рюкзак Nils Camp перевищує 140 злотих",
+    "summary_uk": "Рюкзак Nils Camp Kjolen NC1938 отримав знижку більше ніж 140 злотих, що становить понад 50%. Цей 40-літровий рюкзак має систему вентиляції Air Comfort, яка запобігає потінню спини під час використання. Пропозиція актуальна для туристів, які шукають якісний, але доступний варіант.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця знижка може стимулювати попит на подібні товари в польських магазинах. Розгляньте можливість закупівлі рюкзаків для розширення асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Знижка на популярний рюкзак може вплинути на продажі в категорії туристичного спорядження. Рекомендується переглянути асортимент та акції на аналогічні товари."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Знижка на рюкзак Nils Camp перевищує 140 злотих",
+    "summary": "Рюкзак Nils Camp Kjolen NC1938 отримав знижку більше ніж 140 злотих, що становить понад 50%. Цей 40-літровий рюкзак має систему вентиляції Air Comfort, яка запобігає потінню спини під час використання. Пропозиція актуальна для туристів, які шукають якісний, але доступний варіант.",
+    "link": "https://businessinsider.com.pl/technologie/super-cena-na-plecak-nils-camp-plecy-sie-nie-spoca-a-w-srodku-zmiescisz-wszystko/jc97ksh",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c12460c72d3a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/gus-rewiduje-tempo-wzrostu-polskiego-pkb-nasza-gospodarka-przyspiesza/91zm99g",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "GUS podnosi tempo wzrostu PKB. Polska gospodarka zaskakuje na plus",
+    "body_orig": "Główny Urząd Statystyczny kolejny raz poinformował o rewizji w górę odczytów produktu krajowego brutto w Polsce. Tym razem dotyczy to danych kwartalnych.",
+    "published": "2026-10-16T08:32:04",
+    "fetched": "2026-10-16T09:08:43.830355",
+    "title_uk": "Польща підвищує прогноз зростання ВВП",
+    "summary_uk": "Головний статистичний офіс Польщі переглянув прогноз зростання ВВП на квартал. Нові дані свідчать про позитивні тенденції в економіці. Це може вплинути на інвестиційний клімат та споживчий попит.",
+    "what_it_means": {
+      "ua_importer": "Зростання ВВП Польщі може підвищити попит на імпортні товари, зокрема з України. Рекомендується переглянути стратегії постачання.",
+      "pl_distributor": "Зростання економіки може призвести до збільшення споживчого попиту. Дистриб'ютори повинні оцінити запаси та адаптувати асортимент.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання ВВП може позитивно вплинути на продажі. Рекомендується переглянути плани промо-акцій у найближчі квартали."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща підвищує прогноз зростання ВВП",
+    "summary": "Головний статистичний офіс Польщі переглянув прогноз зростання ВВП на квартал. Нові дані свідчать про позитивні тенденції в економіці. Це може вплинути на інвестиційний клімат та споживчий попит.",
+    "link": "https://businessinsider.com.pl/gospodarka/gus-rewiduje-tempo-wzrostu-polskiego-pkb-nasza-gospodarka-przyspiesza/91zm99g",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a4472af98f11",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/unicredit-potrzebuje-jeszcze-jednej-rzeczy-do-przejecia-co-dalej-z-wlascicielem/ve4mgs0",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Europejskie przejęcie coraz bliżej. Stawką kontrola nad mBankiem w Polsce",
+    "body_orig": "Europejski Bank Centralny (EBC) wyraził zgodę na przejęcie przez UniCredit kontroli nad Commerzbankiem. Włochom potrzebna jest jeszcze jedna decyzja europejskiego urzędu, aby zacząć zaprowadzać własne porządki u właściciela polskiego mBanku.",
+    "published": "2026-10-16T08:16:03",
+    "fetched": "2026-10-16T09:08:43.830384",
+    "title_uk": "UniCredit отримав згоду на контроль над Commerzbank у Польщі",
+    "summary_uk": "Європейський Центральний Банк дозволив UniCredit взяти контроль над Commerzbank. Це рішення наближає італійську компанію до впровадження своїх змін у власника польського mBank. Потрібно ще одне схвалення від європейського органу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Це може вплинути на конкуренцію на ринку фінансових послуг у Польщі, що варто врахувати при плануванні дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "UniCredit отримав згоду на контроль над Commerzbank у Польщі",
+    "summary": "Європейський Центральний Банк дозволив UniCredit взяти контроль над Commerzbank. Це рішення наближає італійську компанію до впровадження своїх змін у власника польського mBank. Потрібно ще одне схвалення від європейського органу.",
+    "link": "https://businessinsider.com.pl/finanse/unicredit-potrzebuje-jeszcze-jednej-rzeczy-do-przejecia-co-dalej-z-wlascicielem/ve4mgs0",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "144a464219aa",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/63-proc-polakow-wyrzuca-zywnosc-ale-sa-tez-lepsze-wiesci/rsqj9pt",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tak Polacy marnują żywność. Wiemy, które produkty najczęściej idą do kosza",
+    "body_orig": "Aż 63 proc. Polaków wciąż zdarza się wyrzucić jedzenie do kosza. Jednak dokładnie tyle samo osób przyznaje, że robi to rzadziej niż dwa lata temu — wynika z najnowszego raportu Lidl Polska i Federacji Polskich Banków Żywności.",
+    "published": "2026-10-16T07:54:11",
+    "fetched": "2026-10-16T09:08:43.830403",
+    "title_uk": "63% поляків викидають їжу, але частіше зменшують втрати",
+    "summary_uk": "Згідно з новим звітом Lidl Polska та Федерації польських банків їжі, 63% поляків викидають їжу, але стільки ж зізнаються, що роблять це рідше, ніж два роки тому. Це свідчить про зменшення харчових відходів у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення харчових відходів може вплинути на попит на певні категорії продуктів. Розгляньте адаптацію асортименту до змін у споживчих звичках.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення відходів може вплинути на плани промо та асортимент. Розгляньте можливість впровадження акцій на продукти з коротким терміном придатності."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "63% поляків викидають їжу, але частіше зменшують втрати",
+    "summary": "Згідно з новим звітом Lidl Polska та Федерації польських банків їжі, 63% поляків викидають їжу, але стільки ж зізнаються, що роблять це рідше, ніж два роки тому. Це свідчить про зменшення харчових відходів у країні.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/63-proc-polakow-wyrzuca-zywnosc-ale-sa-tez-lepsze-wiesci/rsqj9pt",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "94ae8220141a",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/polskie-biz-spadly-o-niemal-polowe-ale-firmy-wcale-nie-uciekaja-z-zagranicy",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polskie BIZ spadły o niemal połowę, ale firmy wcale nie uciekają z zagranicy",
+    "body_orig": "Polskie inwestycje zagraniczne skurczyły się w statystykach niemal o połowę. Mogłoby się wydawać, że krajowe firmy zaczęły hamować zagraniczną ekspansję, ale po zajrzeniu w strukturę danych obraz jest niemal odwrotny. Największą zmianę wywołało nie wycofywanie kapitału, lecz sposób, w jaki spółki finansują się wewnątrz swoich grup.\nPolski Instytut Ekonomiczny przeanalizował dane Narodowego Banku Polskiego dotyczące bezpośrednich inwestycji zagranicznych (BIZ). W 2025 r. wyniosły 2,3 mld dolarów amerykańskich i spadły o niemal połowę względem 2024 roku. Choć może to sugerować, że polskie firmy ograniczają działalność za granicą, eksperci PIE uspokajają: to efekt zmian w finansowaniu grup kapitałowych.\nZa spadkiem stoją rozliczenia wewnątrz grup\nW 2024 roku wartość polskich BIZ wyniosła 4,2 mld dolarów, czyli w ciągu roku spadła o 45,5 proc. Największy wpływ na wynik miało to, że duże grupy przedsiębiorstw zmieniły sposób pozyskiwania pieniędzy, m.in. poprzez pożyczki czy odroczone płatności za dostawy. Saldo tych operacji spadło z 2,1 mld dolarów do -0,3 mld dolarów. Na łącznym wyniku zaważył również spadek reinwestowanych zysków (o 0,9 mld dolarów), czyli zysków pozostawionych w zagranicznych spółkach. Jednocześnie wartość transakcji udziałowych, obejmujących m.in. przejęcia i dokapitalizowania, wzrosła o 1,4 mld dolarów.\nJak zwraca uwagę PIE, zmiana rozliczeń wewnątrz grup kapitałowych miała dwie przyczyny. Po pierwsze, polskie firmy-matki w mniejszym stopniu finansowały swoje spółki zależne. Po uwzględnieniu spłat i innych rozliczeń wartość tego finansowania wyniosła 0,5 mld dolarów wobec 2,1 mld rok wcześniej. Największe ujemne salda odnotowano w relacjach z podmiotami w Norwegii i na Litwie (łącznie 0,8 mld dolarów).\nPo drugie, zagraniczne spółki udzielały pożyczek firmom-matkom lub kupowały wyemitowane przez nich obligacje. Saldo tych operacji wyniosło 0,8 mld dolarów wobec niemal zera rok wcześniej. Na Litwie ujemnemu saldu rozliczeń dłużnych towarzyszyło 0,4 mld dolarów inwestycji w udziały. Może to częściowo odzwierciedlać opisaną w sprawozdaniu ORLEN Lietuva zamianę długu wobec ORLEN na kapitał.\nSpadek BIZ nie oznacza odwrotu z zagranicy\nJeśli wyłączymy instrumenty dłużne, odpływ kapitału z tytułu polskich BIZ wzrósł z 2,1 mld dolarów w 2024 r. do 2,6 mld w 2025 r. To łączny wzrost o 24 proc. Większą część (1,6 mld dolarów) stanowiły transakcje udziałowe obejmujące m.in. przejęcia i dokapitalizowania. Kolejny miliard to reinwestowane zyski. Wartość tych pierwszych była drugą najwyższą w latach 2021-2025, a około 81 proc. ich łącznego salda przypadało na Turcję, Litwę, Czechy i Niemcy. Inwestycje finansowane zyskami były natomiast niższe niż przed rokiem – skurczyły się z 1,9 mld dolarów do 1,0 mld dolarów. Przyczyną w dużej mierze były straty spółek z polskim kapitałem działających w Czechach.\nZdaniem PIE spadek wartości polskich inwestycji bezpośrednich za granicą nie oznacza zatem sam w sobie ani wycofywania się firm z rynków zagranicz",
+    "published": "2026-10-15T21:43:17",
+    "fetched": "2026-10-16T09:08:44.717245",
+    "title_uk": "Польські інвестиції за кордоном зменшились майже вдвічі",
+    "summary_uk": "Польські інвестиції за кордоном у 2025 році склали $2.3 млрд, що на 46% менше, ніж у 2024 році. Основна причина — зміна фінансування всередині груп компаній, а не виведення капіталу. Водночас, обсяг угод з участю, таких як поглинання, зріс на $1.4 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення інвестицій може свідчити про зменшення активності польських компаній на зовнішніх ринках, що може вплинути на дистрибуцію товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни у фінансуванні можуть вплинути на стратегії польських компаній, що працюють у категоріях з високою маржею. Рекомендується переглянути плани на 2026 рік."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські інвестиції за кордоном зменшились майже вдвічі",
+    "summary": "Польські інвестиції за кордоном у 2025 році склали $2.3 млрд, що на 46% менше, ніж у 2024 році. Основна причина — зміна фінансування всередині груп компаній, а не виведення капіталу. Водночас, обсяг угод з участю, таких як поглинання, зріс на $1.4 млрд.",
+    "link": "https://300gospodarka.pl/news/polskie-biz-spadly-o-niemal-polowe-ale-firmy-wcale-nie-uciekaja-z-zagranicy",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "982c38e44ade",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/zaskakujace-informacje-z-nbp-ponad-35-mld-zl-straty-a-teraz-zwrot-7340580700551200a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zaskakujące informacje z NBP. Ponad 35 mld zł straty, a teraz zwrot?",
+    "body_orig": "– Jest szansa, że NBP osiągnie zysk w 2026&nbsp;r. – poinformował w Programie I Polskiego Radia członek Rady Polityki Pieniężnej Ludwik Kotecki. Strata NBP w 2025 r. wyniosła 35,740 mld zł wobec 13,347 mld zł w 2024 r.",
+    "published": "2026-10-16T07:26:30",
+    "fetched": "2026-10-16T09:08:45.503733",
+    "title_uk": "Національний банк Польщі прогнозує прибуток у 2026 році",
+    "summary_uk": "Національний банк Польщі зазнав збитків у 2025 році на рівні €7.9 млрд, що більше, ніж €3.0 млрд у 2024 році. Член Ради політики грошового обігу Людвік Котецкі повідомив, що існує можливість отримання прибутку у 2026 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Національний банк Польщі прогнозує прибуток у 2026 році",
+    "summary": "Національний банк Польщі зазнав збитків у 2025 році на рівні €7.9 млрд, що більше, ніж €3.0 млрд у 2024 році. Член Ради політики грошового обігу Людвік Котецкі повідомив, що існує можливість отримання прибутку у 2026 році.",
+    "link": "https://www.money.pl/gospodarka/zaskakujace-informacje-z-nbp-ponad-35-mld-zl-straty-a-teraz-zwrot-7340580700551200a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d74b64916adf",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/new-home-sales-rise-4-percent-in-september-228206",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "New home sales rise 4 percent in September",
+    "body_orig": "New house sales in Türkiye rose 3.9 percent year-on-year to 51,519 in September, according to official data released on Oct. 16.",
+    "published": "2026-10-16T08:49:54",
+    "fetched": "2026-10-16T09:08:50.288186",
+    "title_uk": "Продажі нових будинків у Туреччині зросли на 4% у вересні",
+    "summary_uk": "У вересні 2026 року продажі нових будинків у Туреччині зросли на 4% порівняно з минулим роком, досягнувши 51,5 тис. одиниць. Офіційні дані оприлюднені 16 жовтня. Це свідчить про відновлення інтересу до житлової нерухомості в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання продажів нових будинків може свідчити про підвищення попиту на будівельні матеріали. Виробники, які постачають матеріали для будівництва, можуть розглянути можливість розширення виробництва.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Продажі нових будинків у Туреччині зросли на 4% у вересні",
+    "summary": "У вересні 2026 року продажі нових будинків у Туреччині зросли на 4% порівняно з минулим роком, досягнувши 51,5 тис. одиниць. Офіційні дані оприлюднені 16 жовтня. Це свідчить про відновлення інтересу до житлової нерухомості в країні.",
+    "link": "https://www.hurriyetdailynews.com/new-home-sales-rise-4-percent-in-september-228206",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ae7acf220fc1",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-year-end-inflation-expectations-hold-steady-at-29-6-percent-survey-228201",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s year-end inflation expectations hold steady at 29.6 percent: Survey",
+    "body_orig": "Market participants’ expectations for inflation at the end of 2026 remained broadly unchanged in October, while forecasts for inflation over the next 12 months edged higher, according to the Central Bank’s latest Survey of Market Participants.",
+    "published": "2026-10-16T08:17:08",
+    "fetched": "2026-10-16T09:08:50.288204",
+    "title_uk": "Очікування інфляції в Туреччині залишаються на рівні 29.6%",
+    "summary_uk": "У жовтні учасники ринку прогнозують інфляцію в Туреччині на кінець 2026 року на рівні 29.6%. Прогнози на наступні 12 місяців зросли. Дані надані Центральним банком Туреччини.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Збереження високих очікувань інфляції може вплинути на ціноутворення. Рекомендується переглянути стратегії ціноутворення для підтримки конкурентоспроможності.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "ціни-сировина",
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Очікування інфляції в Туреччині залишаються на рівні 29.6%",
+    "summary": "У жовтні учасники ринку прогнозують інфляцію в Туреччині на кінець 2026 року на рівні 29.6%. Прогнози на наступні 12 місяців зросли. Дані надані Центральним банком Туреччини.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-year-end-inflation-expectations-hold-steady-at-29-6-percent-survey-228201",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e1ca548a85b6",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-textile-sector-exports-nearly-7-2-billion-in-january-september-228198",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish textile sector exports nearly $7.2 billion in January-September",
+    "body_orig": "Türkiye’s textile sector exported goods worth $7.16 billion in the January-September period of 2026, according to data from the Southeastern Anatolia Exporters’ Associations.",
+    "published": "2026-10-16T06:30:16",
+    "fetched": "2026-10-16T09:08:50.288215",
+    "title_uk": "Турецький текстильний сектор експортував $7.16 млрд за 9 місяців 2026",
+    "summary_uk": "Турецький текстильний сектор за період січень-вересень 2026 року експортував товари на суму $7.16 млрд. Дані надані Асоціацією експортерів Південно-Східної Анатолії. Це свідчить про стабільний попит на турецькі текстильні вироби на міжнародному ринку.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів, які працюють з текстилем з Туреччини, це може означати стабільність постачань. Рекомендується переглянути контракти на наступний рік.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це підтверджує потенціал експорту для турецьких виробників. Рекомендується активніше шукати нові ринки в Україні.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Турецький текстильний сектор експортував $7.16 млрд за 9 місяців 2026",
+    "summary": "Турецький текстильний сектор за період січень-вересень 2026 року експортував товари на суму $7.16 млрд. Дані надані Асоціацією експортерів Південно-Східної Анатолії. Це свідчить про стабільний попит на турецькі текстильні вироби на міжнародному ринку.",
+    "link": "https://www.hurriyetdailynews.com/turkish-textile-sector-exports-nearly-7-2-billion-in-january-september-228198",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9ea13f61eb75",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/indias-reliance-says-welcomes-starlink-competition-228196",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "India's Reliance says welcomes Starlink competition",
+    "body_orig": "India's Reliance Industries rejected on Oct. 16 suggestions it was blocking Elon Musk's Starlink satellite internet service in the country, saying it welcomed competition and had \"never feared\" rivals.",
+    "published": "2026-10-16T06:26:45",
+    "fetched": "2026-10-16T09:08:50.288236",
+    "title_uk": "Reliance Industries заперечує блокування Starlink в Індії",
+    "summary_uk": "Reliance Industries відкинула звинувачення у блокуванні Starlink в Індії. Компанія заявила, що вітає конкуренцію і ніколи не боялася суперників. Це може свідчити про зростаючу конкуренцію на ринку супутникового інтернету в Індії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Reliance Industries заперечує блокування Starlink в Індії",
+    "summary": "Reliance Industries відкинула звинувачення у блокуванні Starlink в Індії. Компанія заявила, що вітає конкуренцію і ніколи не боялася суперників. Це може свідчити про зростаючу конкуренцію на ринку супутникового інтернету в Індії.",
+    "link": "https://www.hurriyetdailynews.com/indias-reliance-says-welcomes-starlink-competition-228196",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "df69bef9ab94",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/let-us-build-world-bank-chief-outlines-jobs-led-development-agenda-228194",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "'Let us build': World Bank chief outlines jobs-led development agenda",
+    "body_orig": "World Bank President Ajay Banga laid out a vision on Friday for how his multilateral development giant should operate, focusing primarily on creating jobs, expanding economic opportunity and connecting private capital to developing nations that need investment.",
+    "published": "2026-10-16T06:22:12",
+    "fetched": "2026-10-16T09:08:50.288255",
+    "title_uk": "Президент Світового банку представив план розвитку через створення робочих місць",
+    "summary_uk": "Президент Світового банку Аджай Банга озвучив нову стратегію, спрямовану на створення робочих місць та розширення економічних можливостей у країнах, що розвиваються. Основна мета — залучити приватний капітал для інвестицій у ці країни. Цей підхід має на меті підтримати економічний розвиток через створення нових робочих місць.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця стратегія може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні та Польщі, через залучення інвестицій у розвиток інфраструктури.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Президент Світового банку представив план розвитку через створення робочих місць",
+    "summary": "Президент Світового банку Аджай Банга озвучив нову стратегію, спрямовану на створення робочих місць та розширення економічних можливостей у країнах, що розвиваються. Основна мета — залучити приватний капітал для інвестицій у ці країни. Цей підхід має на меті підтримати економічний розвиток через створення нових робочих місць.",
+    "link": "https://www.hurriyetdailynews.com/let-us-build-world-bank-chief-outlines-jobs-led-development-agenda-228194",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b3e93e3349f7",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/istanbul-airport-ranks-as-europes-busiest-228189",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Istanbul Airport ranks as Europe’s busiest",
+    "body_orig": "Istanbul Airport ranked as Europe’s busiest airport during the week of Oct. 5-11, averaging 1,530 arriving and departing flights a day, according to EUROCONTROL.",
+    "published": "2026-10-16T05:50:07",
+    "fetched": "2026-10-16T09:08:50.288265",
+    "title_uk": "Аеропорт Стамбула став найбільш завантаженим в Європі",
+    "summary_uk": "Аеропорт Стамбула посів перше місце в Європі за кількістю рейсів. У період з 5 по 11 жовтня середня кількість рейсів на день становила 1 530. Ці дані наводить EUROCONTROL.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Аеропорт Стамбула став найбільш завантаженим в Європі",
+    "summary": "Аеропорт Стамбула посів перше місце в Європі за кількістю рейсів. У період з 5 по 11 жовтня середня кількість рейсів на день становила 1 530. Ці дані наводить EUROCONTROL.",
+    "link": "https://www.hurriyetdailynews.com/istanbul-airport-ranks-as-europes-busiest-228189",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2f6b544df454",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/global-markets-rally-as-tech-stocks-gain-despite-hotter-than-expected-us-producer-inflation/4090707",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Global markets rally as tech stocks gain despite hotter-than-expected US producer inflation",
+    "body_orig": "Tech stocks recover as US annual producer inflation surges to 6.3%, retail sales beat expectations, while oil prices dip as new diesel stock released into market, offsetting geopolitical concerns",
+    "published": "2026-10-16T08:26:35",
+    "fetched": "2026-10-16T09:08:52.764176",
+    "title_uk": "Технологічні акції зростають на фоні високої інфляції в США",
+    "summary_uk": "Технологічні акції відновилися, незважаючи на річну інфляцію виробників у США на рівні 6.3%. Продажі в роздріб перевищили очікування, а ціни на нафту знизилися через нові запаси дизельного пального, що зменшило геополітичні ризики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання технологічних акцій може свідчити про покращення економічної ситуації, що може відкрити нові можливості для експорту до США.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Технологічні акції зростають на фоні високої інфляції в США",
+    "summary": "Технологічні акції відновилися, незважаючи на річну інфляцію виробників у США на рівні 6.3%. Продажі в роздріб перевищили очікування, а ціни на нафту знизилися через нові запаси дизельного пального, що зменшило геополітичні ризики.",
+    "link": "https://www.aa.com.tr/en/economy/global-markets-rally-as-tech-stocks-gain-despite-hotter-than-expected-us-producer-inflation/4090707",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d2173d6055d3",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/new-house-sales-in-turkiye-rise-39-in-september/4090652",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "New house sales in Türkiye rise 3.9% in September",
+    "body_orig": "New homes account for 36.2% of total sales, while overall housing transactions fall 9.3% year-on-year",
+    "published": "2026-10-16T07:54:31",
+    "fetched": "2026-10-16T09:08:52.764192",
+    "title_uk": "Продаж нових будинків у Туреччині зросли на 4% у вересні",
+    "summary_uk": "У вересні 2026 року продаж нових будинків у Туреччині зріс на 4% у порівнянні з попереднім місяцем. Нові будинки становлять 36% від загальної кількості продажів, тоді як загальні операції з нерухомістю впали на 9% у річному вимірі. Це свідчить про зміни в попиті на ринку житла.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання продажів нових будинків може свідчити про відновлення попиту на житло, що може відкрити нові можливості для виробників будівельних матеріалів. Рекомендується моніторити ринок для адаптації виробництв.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Продаж нових будинків у Туреччині зросли на 4% у вересні",
+    "summary": "У вересні 2026 року продаж нових будинків у Туреччині зріс на 4% у порівнянні з попереднім місяцем. Нові будинки становлять 36% від загальної кількості продажів, тоді як загальні операції з нерухомістю впали на 9% у річному вимірі. Це свідчить про зміни в попиті на ринку житла.",
+    "link": "https://www.aa.com.tr/en/economy/new-house-sales-in-turkiye-rise-39-in-september/4090652",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6ce24edbdcff",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/fed-chair-reaffirms-price-stability-commitment-avoids-signaling-next-rate-move/4090551",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Fed chair reaffirms price stability commitment, avoids signaling next rate move",
+    "body_orig": "Kevin Warsh says US investment surge supports growth, sees AI boosting supply over medium term",
+    "published": "2026-10-16T06:57:45",
+    "fetched": "2026-10-16T09:08:52.764211",
+    "title_uk": "Голова Федрезерву підтвердив зобов'язання щодо стабільності цін",
+    "summary_uk": "Кевін Варш зазначив, що зростання інвестицій у США підтримує економічний розвиток. Він також вважає, що штучний інтелект може підвищити пропозицію в середньостроковій перспективі. Однак, жодних сигналів щодо наступного підвищення відсоткових ставок не було.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Голова Федрезерву підтвердив зобов'язання щодо стабільності цін",
+    "summary": "Кевін Варш зазначив, що зростання інвестицій у США підтримує економічний розвиток. Він також вважає, що штучний інтелект може підвищити пропозицію в середньостроковій перспективі. Однак, жодних сигналів щодо наступного підвищення відсоткових ставок не було.",
+    "link": "https://www.aa.com.tr/en/economy/fed-chair-reaffirms-price-stability-commitment-avoids-signaling-next-rate-move/4090551",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "484bf6e3c46d",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/europe/eu-leaders-urge-urgent-action-on-energy-prices-single-market-reforms/4090463",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU leaders urge urgent action on energy prices, single market reforms",
+    "body_orig": "European Council calls for lower energy costs, reduced regulatory burdens and progress on bloc's next long-term budget and enlargement process",
+    "published": "2026-10-16T00:17:55",
+    "fetched": "2026-10-16T09:08:52.764231",
+    "title_uk": "Лідери ЄС закликають до дій щодо цін на енергію та реформ ринку",
+    "summary_uk": "Європейська Рада закликала знизити витрати на енергію та зменшити регуляторні бар'єри. Обговорюються також питання довгострокового бюджету блоку та процесу розширення. Лідери країн ЄС підкреслили важливість швидких дій у цих сферах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Лідери ЄС закликають до дій щодо цін на енергію та реформ ринку",
+    "summary": "Європейська Рада закликала знизити витрати на енергію та зменшити регуляторні бар'єри. Обговорюються також питання довгострокового бюджету блоку та процесу розширення. Лідери країн ЄС підкреслили важливість швидких дій у цих сферах.",
+    "link": "https://www.aa.com.tr/en/europe/eu-leaders-urge-urgent-action-on-energy-prices-single-market-reforms/4090463",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3e1d744dcc00",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/new-york-stock-exchanges-close-higher/4090407",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "New York stock exchanges close higher",
+    "body_orig": "- Dow Jones earns 1.08%, S&amp;P 500 0.33%, Nasdaq 0.08%, as European indexes end day mixed",
+    "published": "2026-10-15T20:51:18",
+    "fetched": "2026-10-16T09:08:52.764240",
+    "title_uk": "Фондові біржі Нью-Йорка закриваються з ростом",
+    "summary_uk": "Фондові індекси Нью-Йорка показали позитивну динаміку: Dow Jones зріс на 1%, S&P 500 на 0.3%, а Nasdaq на 0.1%. Європейські індекси завершили день змішано. Це свідчить про стабільність на ринках після коливань.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Фондові біржі Нью-Йорка закриваються з ростом",
+    "summary": "Фондові індекси Нью-Йорка показали позитивну динаміку: Dow Jones зріс на 1%, S&P 500 на 0.3%, а Nasdaq на 0.1%. Європейські індекси завершили день змішано. Це свідчить про стабільність на ринках після коливань.",
+    "link": "https://www.aa.com.tr/en/economy/new-york-stock-exchanges-close-higher/4090407",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7655473a508f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-485-bini-gecti/4090670",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye yollarındaki elektrikli otomobil sayısı 485 bini geçti",
+    "body_orig": "Türkiye'de trafiğe kayıtlı elektrikli otomobil sayısı, eylül itibarıyla yıllık bazda yüzde 52,4 artarak 486 bin 359'a yükseldi.",
+    "published": "2026-10-16T08:05:33",
+    "fetched": "2026-10-16T09:08:54.059972",
+    "title_uk": "Кількість електромобілів у Туреччині перевищила 486 тисяч",
+    "summary_uk": "Станом на вересень 2026 року, кількість зареєстрованих електричних автомобілів у Туреччині зросла на 52% в річному вимірі, досягнувши 486 тисяч. Це свідчить про зростаючий інтерес до електромобілів у країні. Зростання ринку може вплинути на інфраструктуру зарядних станцій.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання попиту на електромобілі в Туреччині може створити можливості для виробників, які планують вихід на ринок електромобілів. Рекомендується вивчити потреби споживачів у цій категорії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кількість електромобілів у Туреччині перевищила 486 тисяч",
+    "summary": "Станом на вересень 2026 року, кількість зареєстрованих електричних автомобілів у Туреччині зросла на 52% в річному вимірі, досягнувши 486 тисяч. Це свідчить про зростаючий інтерес до електромобілів у країні. Зростання ринку може вплинути на інфраструктуру зарядних станцій.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-yollarindaki-elektrikli-otomobil-sayisi-485-bini-gecti/4090670",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "23aa96a870b5",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-brics-ulkelerine-ihracati-ocak-eylul-doneminde-18-2-milyar-dolari-asti/4090705",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye'nin BRICS ülkelerine ihracatı ocak-eylül döneminde 18,2 milyar doları aştı",
+    "body_orig": "Türkiye'nin BRICS üyesi 10 ülkeye ihracatı, bu yılın ocak-eylül döneminde 18 milyar 232 milyon 391 bin dolara ulaşırken değer bazında en fazla dış satım 4 milyar 113 milyon 545 bin dolarla Rusya'ya gerçekleştirildi.",
+    "published": "2026-10-16T08:25:59",
+    "fetched": "2026-10-16T09:08:54.059982",
+    "title_uk": "Туреччина збільшила експорт до BRICS до $18.2 млрд",
+    "summary_uk": "Експорт Туреччини до країн BRICS у січні-вересні 2023 року перевищив $18.2 млрд. Найбільша частка припала на Росію — $4.1 млрд. Це свідчить про зростання економічних зв'язків між Туреччиною та BRICS.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту до BRICS відкриває нові можливості для турецьких виробників. Рекомендується розглянути можливість виходу на ці ринки.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина збільшила експорт до BRICS до $18.2 млрд",
+    "summary": "Експорт Туреччини до країн BRICS у січні-вересні 2023 року перевищив $18.2 млрд. Найбільша частка припала на Росію — $4.1 млрд. Це свідчить про зростання економічних зв'язків між Туреччиною та BRICS.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-brics-ulkelerine-ihracati-ocak-eylul-doneminde-18-2-milyar-dolari-asti/4090705",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c30c64737384",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/5g-abone-sayisi-6-ayda-48-milyona-yaklasti/4090700",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "5G abone sayısı 6 ayda 48 milyona yaklaştı",
+    "body_orig": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, tam bir yıl önce ihalesi yapılan ve 6 ay önce kullanıma sunulan 5G'de abone sayısının eylül sonu itibarıyla 47 milyon 661 bin 726'ya ulaştığını bildirdi.",
+    "published": "2026-10-16T08:21:43",
+    "fetched": "2026-10-16T09:08:54.059991",
+    "title_uk": "Кількість абонентів 5G у Туреччині досягла 48 млн",
+    "summary_uk": "Міністр транспорту та інфраструктури Туреччини повідомив, що кількість абонентів 5G зросла до 47.7 млн станом на кінець вересня. Технологія була запущена 6 місяців тому, після тендеру, що відбувся рік тому. Це свідчить про швидкий розвиток мобільних технологій у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання кількості абонентів 5G відкриває нові можливості для виробників, які планують впроваджувати технології IoT у своїх продуктах. Рекомендується розглянути адаптацію товарів до нових технологій.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кількість абонентів 5G у Туреччині досягла 48 млн",
+    "summary": "Міністр транспорту та інфраструктури Туреччини повідомив, що кількість абонентів 5G зросла до 47.7 млн станом на кінець вересня. Технологія була запущена 6 місяців тому, після тендеру, що відбувся рік тому. Це свідчить про швидкий розвиток мобільних технологій у країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/5g-abone-sayisi-6-ayda-48-milyona-yaklasti/4090700",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c688af887a14",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tuketim-harcamalarinda-en-yuksek-pay-istanbulun/4090646",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Tüketim harcamalarında en yüksek pay İstanbul'un",
+    "body_orig": "Türkiye'de geçen yıl toplam tüketim harcamalarının yüzde 25,6'sı İstanbul'daki hane halklarınca yapıldı.",
+    "published": "2026-10-16T07:52:14",
+    "fetched": "2026-10-16T09:08:54.059999",
+    "title_uk": "Іstanbul отримує найбільшу частку споживчих витрат у Туреччині",
+    "summary_uk": "Минулого року 25% споживчих витрат у Туреччині припадало на домогосподарства в Стамбулі. Це свідчить про значну концентрацію споживчої активності в найбільшому місті країни, що може вплинути на ринок товарів та послуг.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Високий рівень споживчих витрат в Істанбулі відкриває можливості для турецьких виробників, які планують розширення на внутрішньому ринку. Рекомендується зосередитися на продуктах, які користуються попитом у цьому регіоні.",
+      "category_manager": "Зосередьтеся на категоріях, які мають високий попит у Стамбулі. Це може вплинути на стратегії розміщення товарів та промо-акції в ритейлі."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Іstanbul отримує найбільшу частку споживчих витрат у Туреччині",
+    "summary": "Минулого року 25% споживчих витрат у Туреччині припадало на домогосподарства в Стамбулі. Це свідчить про значну концентрацію споживчої активності в найбільшому місті країни, що може вплинути на ринок товарів та послуг.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tuketim-harcamalarinda-en-yuksek-pay-istanbulun/4090646",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b953e38b1e94",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-eylulde-yuzde-1-2-artti/4090631",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Konut Fiyat Endeksi eylülde yüzde 1,2 arttı",
+    "body_orig": "Konut Fiyat Endeksi (KFE), eylülde aylık bazda yüzde 1,2, yıllık bazda ise yüzde 22,3 arttı.",
+    "published": "2026-10-16T07:41:21",
+    "fetched": "2026-10-16T09:08:54.060008",
+    "title_uk": "Ціни на житло в Туреччині зросли на 1,2% у вересні",
+    "summary_uk": "Індекс цін на житло (KFE) у Туреччині зріс на 1,2% у вересні порівняно з серпнем. У річному вимірі зростання склало 22,3%. Це свідчить про продовження тенденції підвищення цін на нерухомість у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання цін на житло може вплинути на купівельну спроможність споживачів. Якщо плануєте вихід на ринок, враховуйте можливе зниження попиту на ваші товари.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на житло в Туреччині зросли на 1,2% у вересні",
+    "summary": "Індекс цін на житло (KFE) у Туреччині зріс на 1,2% у вересні порівняно з серпнем. У річному вимірі зростання склало 22,3%. Це свідчить про продовження тенденції підвищення цін на нерухомість у країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-eylulde-yuzde-1-2-artti/4090631",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cb3ca8fd0c02",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiyede-eylulde-142-bin-390-konut-satildi/4090610",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye'de eylülde 142 bin 390 konut satıldı",
+    "body_orig": "Türkiye genelinde eylülde satılan toplam konut sayısı, geçen yılın aynı ayına göre yüzde 9,3 azalışla 142 bin 390 olarak hesaplandı.",
+    "published": "2026-10-16T07:28:34",
+    "fetched": "2026-10-16T09:08:54.060017",
+    "title_uk": "У Туреччині у вересні продано 142 тисячі квартир",
+    "summary_uk": "У вересні в Туреччині було продано 142 390 квартир, що на 9% менше, ніж у вересні минулого року. Це свідчить про зниження активності на ринку нерухомості. Основні причини — економічні фактори та підвищення процентних ставок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження продажів квартир може вказувати на зменшення попиту на будівельні матеріали. Виробникам слід переглянути свої стратегії виходу на ринок.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "У Туреччині у вересні продано 142 тисячі квартир",
+    "summary": "У вересні в Туреччині було продано 142 390 квартир, що на 9% менше, ніж у вересні минулого року. Це свідчить про зниження активності на ринку нерухомості. Основні причини — економічні фактори та підвищення процентних ставок.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-eylulde-142-bin-390-konut-satildi/4090610",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "69aa808f3626",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-live/zf-live-radu-pavel-avocat-coordonator-pavel-margarit-asociatii-activitatile-economice-reclasificate-trecerea-caen-3-imagine-clara-economiei-s-simtit-nevoia-unor-detalieri-23255971",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Live. Radu Pavel, avocat coordonator, Pavel, Mărgărit şi Asociaţii: Activităţile economice sunt reclasificate prin trecerea la CAEN 3 pentru o imagine mai clară a economiei. S-a simţit nevoia unor detalieri",
+    "body_orig": "Trecerea la CAEN Rev. 3 nu reprezintă doar o schimbare administrativă a unor coduri de activitate, ci o reclasificare prin care activităţile economice sunt împărţite mai detaliat, unele clase fiind divizate, altele reunite sau reorganizate, astfel încât clasificarea să ofere o imagine mai clară asupra economiei, susţine Radu Pavel, avocat coordonator în cadrul casei de avocatură Pavel, Mărgărit şi Asociaţii.",
+    "published": "2026-10-16T09:00:00",
+    "fetched": "2026-10-16T09:08:55.998113",
+    "title_uk": "Рекласифікація економічних діяльностей у Румунії",
+    "summary_uk": "Румунія переходить на нову класифікацію CAEN Rev. 3, що детальніше розподіляє економічні діяльності. Це не просто зміна кодів, а спроба створити більш ясну картину економіки. Раду Павел, адвокат, зазначає, що деякі класи діяльностей були об'єднані або розділені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Рекласифікація економічних діяльностей у Румунії",
+    "summary": "Румунія переходить на нову класифікацію CAEN Rev. 3, що детальніше розподіляє економічні діяльності. Це не просто зміна кодів, а спроба створити більш ясну картину економіки. Раду Павел, адвокат, зазначає, що деякі класи діяльностей були об'єднані або розділені.",
+    "link": "https://www.zf.ro/zf-live/zf-live-radu-pavel-avocat-coordonator-pavel-margarit-asociatii-activitatile-economice-reclasificate-trecerea-caen-3-imagine-clara-economiei-s-simtit-nevoia-unor-detalieri-23255971",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d068029bc1e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/program-guvernare-primarii-fara-hartii-comunicarea-dintre-administratiile-centrala-si-locala-devine-exclusiv-electronica_986296.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Program guvernare – „Primării fără hârtii”. Comunicarea dintre administraţiile centrală şi locală devine exclusiv electronică",
+    "body_orig": "Serviciile publice vor fi reproiectate pe \"evenimente de viaţă\", livrate prin portalul unic al statului (Single Digital Gateway): pentru cetăţeni, de la naştere la pensionare, iar pentru firme, de la înfiinţare la dizolvare, iar prin programul \"Primării fără hârtii\", comunicarea dintre administraţia centrală şi cea locală devine exclusiv electronică şi UAT-urile vor primi vouchere de până la 50.000 de euro pentru arhivarea digitală a documentelor, potrivit Programului de guvernare 2026 - 2028 depus joi seara la Parlament de premierul desemnat, Luca Niculescu.",
+    "published": "2026-10-16T08:18:39",
+    "fetched": "2026-10-16T09:08:58.469043",
+    "title_uk": "Румунія переходить на електронну комунікацію в адміністрації",
+    "summary_uk": "У Румунії запроваджують програму ",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунія переходить на електронну комунікацію в адміністрації",
+    "summary": "У Румунії запроваджують програму ",
+    "link": "https://www.economica.net/program-guvernare-primarii-fara-hartii-comunicarea-dintre-administratiile-centrala-si-locala-devine-exclusiv-electronica_986296.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "757fe4fd67f5",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/program-guvernare-guvernul-vrea-sa-investeasca-pana-la-15-miliarde-de-euro-pentru-reducerea-pierderilor-de-apa_986288.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Program guvernare – Guvernul vrea să investească până la 1,5 miliarde de euro pentru reducerea pierderilor de apă",
+    "body_orig": "Guvernul intenţionează să investească până la 1,5 miliarde de euro pentru lucrări de retenţie, protecţie şi reducerea pierderilor de apă şi 800 de milioane de euro pentru canalizare şi epurarea apelor uzate, potrivit Programului de guvernare 2026 - 2028 depus joi seara la Parlament de premierul desemnat, Luca Niculescu.",
+    "published": "2026-10-16T08:14:51",
+    "fetched": "2026-10-16T09:08:58.469052",
+    "title_uk": "Румунія інвестує €1.5 млрд у зменшення втрат води",
+    "summary_uk": "Уряд Румунії планує інвестувати до €1.5 млрд у роботи з утримання та зменшення втрат води. Додатково виділено €800 млн на каналізацію та очищення стічних вод. Ці заходи передбачені в програмі уряду на 2026-2028 роки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія інвестує €1.5 млрд у зменшення втрат води",
+    "summary": "Уряд Румунії планує інвестувати до €1.5 млрд у роботи з утримання та зменшення втрат води. Додатково виділено €800 млн на каналізацію та очищення стічних вод. Ці заходи передбачені в програмі уряду на 2026-2028 роки.",
+    "link": "https://www.economica.net/program-guvernare-guvernul-vrea-sa-investeasca-pana-la-15-miliarde-de-euro-pentru-reducerea-pierderilor-de-apa_986288.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1f6fbb9cd4ca",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/profiles1/whoss-news/one-united-properties-appoints-catalin-jaloba-as-group-cfo-302054",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "One United Properties appoints Cătălin Jalobă as Group CFO",
+    "body_orig": "Real estate investment and development company One United Properties (BVB: ONE) has appointed Cătălin Jalobă as Group Chief Financial Officer. The appointment was approved by the Board of Directors on 16 October 2026, and he will take office on 17 December 2026. In this role, Jalobă will lead the Group’s finance function, including financial strategy [&#8230;]\nThe post One United Properties appoints Cătălin Jalobă as Group CFO appeared first on Business Review.",
+    "published": "2026-10-16T08:58:13",
+    "fetched": "2026-10-16T09:09:01.490502",
+    "title_uk": "One United Properties призначила Кătălina Jalobă фінансовим директором",
+    "summary_uk": "Компанія One United Properties призначила Кătălina Jalobă на посаду фінансового директора. Рішення було ухвалене 16 жовтня 2026 року, а Jalobă почне виконувати обов'язки з 17 грудня 2026 року. Він відповідатиме за фінансову стратегію групи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "One United Properties призначила Кătălina Jalobă фінансовим директором",
+    "summary": "Компанія One United Properties призначила Кătălina Jalobă на посаду фінансового директора. Рішення було ухвалене 16 жовтня 2026 року, а Jalobă почне виконувати обов'язки з 17 грудня 2026 року. Він відповідатиме за фінансову стратегію групи.",
+    "link": "https://business-review.eu/profiles1/whoss-news/one-united-properties-appoints-catalin-jaloba-as-group-cfo-302054",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7d32102670d8",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+    "body_orig": "Unravel Health, a London-based startup developing technology to measure hormones at home daily, has raised €2.96 million (£2.5 million) to develop the Micro Lab, a palm-sized device that reads multiple hormones from a saliva sample in minutes. The round was led by Conduit EIS Impact Fund and Wrightwood, joined by Leo Capital, Embryo Ventures, Hermesa [&#8230;]\nThe post London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab appeared first on EU-Startups.",
+    "published": "2026-10-16T08:52:14",
+    "fetched": "2026-10-16T09:08:41.273969",
+    "title_uk": "Unravel Health залучила €3 млн для домашнього моніторингу гормонів",
+    "summary_uk": "Лондонський стартап Unravel Health отримав €2.96 млн для розробки Micro Lab — компактного пристрою, що аналізує гормони за зразком слини. Інвестиційний раунд очолили Conduit EIS Impact Fund та Wrightwood. Пристрій дозволить жінкам щоденно контролювати рівень гормонів вдома.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Unravel Health залучила €3 млн для домашнього моніторингу гормонів",
+    "summary": "Лондонський стартап Unravel Health отримав €2.96 млн для розробки Micro Lab — компактного пристрою, що аналізує гормони за зразком слини. Інвестиційний раунд очолили Conduit EIS Impact Fund та Wrightwood. Пристрій дозволить жінкам щоденно контролювати рівень гормонів вдома.",
+    "link": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3ae0e0ec5207",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform",
+    "body_orig": "LearnUpon, a Dublin-based enterprise learning platform, has secured a €44.5 million ($50 million) growth financing facility. The financing came from Claret Capital Partners, a London-based independent growth debt fund manager, which has deployed over €1.5 billion across more than 210 companies in the technology, life sciences, and impact sectors. Since its founding in 2013, the [&#8230;]\nThe post Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform appeared first on EU-Startups.",
+    "published": "2026-10-16T07:11:17",
+    "fetched": "2026-10-16T09:08:41.273987",
+    "title_uk": "LearnUpon отримала €44.5 млн для розширення платформи навчання",
+    "summary_uk": "Компанія LearnUpon з Дубліна залучила €44.5 млн для розвитку своєї платформи навчання. Інвестиції надала Claret Capital Partners, яка вже інвестувала понад €1.5 млрд у технологічні компанії. LearnUpon була заснована у 2013 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "LearnUpon отримала €44.5 млн для розширення платформи навчання",
+    "summary": "Компанія LearnUpon з Дубліна залучила €44.5 млн для розвитку своєї платформи навчання. Інвестиції надала Claret Capital Partners, яка вже інвестувала понад €1.5 млрд у технологічні компанії. LearnUpon була заснована у 2013 році.",
+    "link": "https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0be1631502ba",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+    "body_orig": "Goodweek, a Los Angeles-headquartered French startup positioning itself as a one-stop AI management platform for small and medium-sized businesses, has raised a €10.69 million ($12 million) Seed round. The funding round was led by Spanish venture capital firm Adara Ventures, which previously backed Goodweek co-founder Nicolas Stehle at his earlier venture, Scalefast, sold in 2022. [&#8230;]\nThe post Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs appeared first on EU-Startups.",
+    "published": "2026-10-16T06:28:13",
+    "fetched": "2026-10-16T09:08:41.274000",
+    "title_uk": "Французький стартап Goodweek залучив €10.7 млн для управління малим бізнесом",
+    "summary_uk": "Goodweek, стартап з Лос-Анджелеса, отримав €10.7 млн у раунді Seed. Інвестиції очолила іспанська компанія Adara Ventures. Goodweek позиціонує себе як платформа управління для малих і середніх підприємств, використовуючи штучний інтелект.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Французький стартап Goodweek залучив €10.7 млн для управління малим бізнесом",
+    "summary": "Goodweek, стартап з Лос-Анджелеса, отримав €10.7 млн у раунді Seed. Інвестиції очолила іспанська компанія Adara Ventures. Goodweek позиціонує себе як платформа управління для малих і середніх підприємств, використовуючи штучний інтелект.",
+    "link": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f089dc3cc878",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/15/ukrayinska-december1-ta-litovska-pekkla-stvoriuiut-spilne-oboronne-pidprijemstvo-u-litvi-vipuskatimut-reb-sistemi-damba/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українська December1 і литовська Pekkla створюють спільне підприємство в Литві: випускатимуть РЕБ-системи «Дамба»",
+    "body_orig": "Завод запрацює у 2027 році за підтримки уряду Литви в межах програми Build with Ukraine. Усю вироблену продукцію постачатимуть Силам оборони України.",
+    "published": "2026-10-16T05:35:00",
+    "fetched": "2026-10-16T09:08:48.256111",
+    "title_uk": "December1 та Pekkla створюють спільне підприємство в Литві",
+    "summary_uk": "Українська компанія December1 та литовська Pekkla оголосили про створення спільного підприємства для виробництва РЕБ-систем «Дамба». Завод запрацює у 2027 році за підтримки уряду Литви в межах програми Build with Ukraine. Вся продукція буде постачатися Силам оборони України.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "December1 та Pekkla створюють спільне підприємство в Литві",
+    "summary": "Українська компанія December1 та литовська Pekkla оголосили про створення спільного підприємства для виробництва РЕБ-систем «Дамба». Завод запрацює у 2027 році за підтримки уряду Литви в межах програми Build with Ukraine. Вся продукція буде постачатися Силам оборони України.",
+    "link": "https://ain.ua/2026/10/15/ukrayinska-december1-ta-litovska-pekkla-stvoriuiut-spilne-oboronne-pidprijemstvo-u-litvi-vipuskatimut-reb-sistemi-damba/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eaf2abdbefc0",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/artificial-intelligence/si-agenti-i-agentna-komerciya-yak-boti-vitracayut-milioni-na-base-v4ye5w",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ШІ-агенти й агентна комерція: як боти витрачають мільйони на Base",
+    "body_orig": "Автономні алгоритми штучного інтелекту більше не обмежуються генеруванням тексту чи аналізом даних — вони активно купують обчислювальні ресурси, свіжі вебдані та інструменти безпеки. Стрімкий розвиток агентної комерції перетворює програмних ботів на повноцінних учасників ринку з власними бюджетами.",
+    "published": "2026-10-16T09:00:00",
+    "fetched": "2026-10-16T09:08:48.896935",
+    "title_uk": "Штучний інтелект стає активним учасником ринку",
+    "summary_uk": "Алгоритми штучного інтелекту тепер активно купують обчислювальні ресурси та вебдані. Розвиток агентної комерції перетворює ботів на учасників ринку з власними бюджетами. Це свідчить про нові можливості для автоматизації бізнес-процесів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Штучний інтелект стає активним учасником ринку",
+    "summary": "Алгоритми штучного інтелекту тепер активно купують обчислювальні ресурси та вебдані. Розвиток агентної комерції перетворює ботів на учасників ринку з власними бюджетами. Це свідчить про нові можливості для автоматизації бізнес-процесів.",
+    "link": "https://speka.ua/artificial-intelligence/si-agenti-i-agentna-komerciya-yak-boti-vitracayut-milioni-na-base-v4ye5w",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bd8e9f721a37",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/miltech/vid-ukrayinskogo-frontu-do-zamovlen-pentagonu-yak-vitciznyanii-defense-tech-pidkoryuje-svitovii-rinok-py1oqg",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Від українського фронту до замовлень Пентагону: як вітчизняний Defense Tech підкорює світовий ринок",
+    "body_orig": "Український сектор оборонних технологій стрімко перетворюється із волонтерських ініціатив на глобально конкурентоспроможний бізнес. Проте дефіцит державного бюджету та короткі контракти не дозволяють завантажити вітчизняні потужності на 100%. За таких умов єдиним шляхом для збереження темпів розвитку технологій стає вихід на ринки союзників.",
+    "published": "2026-10-16T08:00:00",
+    "fetched": "2026-10-16T09:08:48.896952",
+    "title_uk": "Український Defense Tech виходить на світовий ринок",
+    "summary_uk": "Сектор оборонних технологій в Україні стає глобально конкурентоспроможним бізнесом. Проте, через дефіцит бюджету та короткі контракти, вітчизняні потужності не завантажені на 100%. Вихід на ринки союзників стає ключовим для розвитку технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Український Defense Tech виходить на світовий ринок",
+    "summary": "Сектор оборонних технологій в Україні стає глобально конкурентоспроможним бізнесом. Проте, через дефіцит бюджету та короткі контракти, вітчизняні потужності не завантажені на 100%. Вихід на ринки союзників стає ключовим для розвитку технологій.",
+    "link": "https://speka.ua/miltech/vid-ukrayinskogo-frontu-do-zamovlen-pentagonu-yak-vitciznyanii-defense-tech-pidkoryuje-svitovii-rinok-py1oqg",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c9e69d7c0e40",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/asus-predstavila-proart-p16-iz-128-gb-pamyati-cina-v-ukrayini-320-tisyac-grn-v71jl7",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ASUS представила ProArt P16 із 128 ГБ пам’яті: ціна в Україні — 320 тисяч грн",
+    "body_orig": "ASUS представила нове покоління комп’ютерів ProArt на платформі NVIDIA RTX Spark, розрахованих на роботу зі штучним інтелектом без постійного підключення до хмарних сервісів. До лінійки увійшли ноутбуки ProArt P16 і P14 та компактний комп’ютер ProArt GR1X. В Україні ProArt P16 із 128 ГБ уніфікованої пам’яті та SSD на 1 ТБ доступний для замовлення за 319 999 грн.",
+    "published": "2026-10-16T07:59:00",
+    "fetched": "2026-10-16T09:08:48.896963",
+    "title_uk": "ASUS представила нові комп'ютери ProArt P16 та P14",
+    "summary_uk": "ASUS анонсувала нове покоління комп'ютерів ProArt на платформі NVIDIA RTX Spark. Лінійка включає ноутбуки ProArt P16 і P14, а також компактний комп'ютер ProArt GR1X. В Україні ProArt P16 з 128 ГБ пам'яті та SSD на 1 ТБ доступний за ціною €8.5 тис.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ASUS представила нові комп'ютери ProArt P16 та P14",
+    "summary": "ASUS анонсувала нове покоління комп'ютерів ProArt на платформі NVIDIA RTX Spark. Лінійка включає ноутбуки ProArt P16 і P14, а також компактний комп'ютер ProArt GR1X. В Україні ProArt P16 з 128 ГБ пам'яті та SSD на 1 ТБ доступний за ціною €8.5 тис.",
+    "link": "https://speka.ua/news/asus-predstavila-proart-p16-iz-128-gb-pamyati-cina-v-ukrayini-320-tisyac-grn-v71jl7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c550f60eafb4",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/miltech/v-ukrayini-kodifikuvali-dron-bebradron-letit-na-45-km-ta-nese-75-kg-vibuxivki-9x1mkw",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "В Україні кодифікували дрон «Бебрадрон»: летить на 45 км та несе 7,5 кг вибухівки",
+    "body_orig": "Міністерство оборони України офіційно завершило процедуру кодифікації та допустило до експлуатації у підрозділах ЗСУ новий літаковий безпілотний комплекс «Бебрадрон» від вітчизняного розробника Bluebird Tech.",
+    "published": "2026-10-16T07:03:00",
+    "fetched": "2026-10-16T09:08:48.896993",
+    "title_uk": "В Україні кодифікували дрон «Бебрадрон» для ЗСУ",
+    "summary_uk": "Міністерство оборони України завершило кодифікацію нового дрону «Бебрадрон» від Bluebird Tech. Дрон здатен літати на відстань до 45 км і нести 7,5 кг вибухівки. Це дозволить підвищити ефективність бойових операцій ЗСУ.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Україні кодифікували дрон «Бебрадрон» для ЗСУ",
+    "summary": "Міністерство оборони України завершило кодифікацію нового дрону «Бебрадрон» від Bluebird Tech. Дрон здатен літати на відстань до 45 км і нести 7,5 кг вибухівки. Це дозволить підвищити ефективність бойових операцій ЗСУ.",
+    "link": "https://speka.ua/miltech/v-ukrayini-kodifikuvali-dron-bebradron-letit-na-45-km-ta-nese-75-kg-vibuxivki-9x1mkw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "68b56494c37e",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/syrne-korolivstvo-prypyniaye-robotu-merezhi-pislia-13-rokiv-na-rynku/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Мережа Сирне королівство зупиняє роботу магазинів після 13 років на ринку",
+    "body_orig": "Мережа Сирне королівство, що спеціалізується на продажі сирів з різних країн світу, оголосила про зупинення роботи магазинів. Про це йдеться на сайті компанії. Причиною такого рішення стало погіршення безпекової ситуації. Водночас, кілька торгових точок, що належать партнерам-франчайзі продовжать ро…",
+    "published": "2026-10-16T05:41:51",
+    "fetched": "2026-10-16T09:09:02.837645",
+    "title_uk": "Мережа Сирне королівство зупиняє роботу магазинів після 13 років",
+    "summary_uk": "Мережа Сирне королівство оголосила про закриття своїх магазинів через погіршення безпекової ситуації. Компанія працювала на ринку 13 років, спеціалізуючись на продажу сирів з різних країн. Деякі торгові точки, що належать партнерам-франчайзі, продовжать роботу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Мережа Сирне королівство зупиняє роботу магазинів після 13 років",
+    "summary": "Мережа Сирне королівство оголосила про закриття своїх магазинів через погіршення безпекової ситуації. Компанія працювала на ринку 13 років, спеціалізуючись на продажу сирів з різних країн. Деякі торгові точки, що належать партнерам-франчайзі, продовжать роботу.",
+    "link": "https://rau.ua/news/syrne-korolivstvo-prypyniaye-robotu-merezhi-pislia-13-rokiv-na-rynku/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e21b284cf21",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/bezpekovi-ryzyky-zrostaiut-iak-ukrayinski-ceo-perebudovuiut-biznes/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Стійкість без паузи в розвитку: як українські CEO балансують ризики, інвестиції та масштабування",
+    "body_orig": "На панельній дискусії «Стійкість без паузи в розвитку: як CEO балансують ризики, інвестиції та масштабування», що відбулася в ході RAU Workshop у Львові, шестеро керівників бізнесу в різних сегментах ритейлу та девелопменту поділилися практичними рішеннями, які допомагають їхнім компаніям працювати…",
+    "published": "2026-10-16T04:50:01",
+    "fetched": "2026-10-16T09:09:02.837662",
+    "title_uk": "CEO українських компаній обговорили стійкість та інвестиції",
+    "summary_uk": "На панельній дискусії у Львові шість CEO з ритейлу та девелопменту поділилися практичними рішеннями для бізнесу. Обговорювали ризики, інвестиції та масштабування. Учасники представили різні стратегії для адаптації до змінюваного ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Обговорені стратегії можуть надати нові ідеї для управління ризиками та інвестиціями в ритейлі."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "CEO українських компаній обговорили стійкість та інвестиції",
+    "summary": "На панельній дискусії у Львові шість CEO з ритейлу та девелопменту поділилися практичними рішеннями для бізнесу. Обговорювали ризики, інвестиції та масштабування. Учасники представили різні стратегії для адаптації до змінюваного ринку.",
+    "link": "https://rau.ua/news/bezpekovi-ryzyky-zrostaiut-iak-ukrayinski-ceo-perebudovuiut-biznes/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
