@@ -400085,5 +400085,524 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "117a544e6091",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wielkie-pieniadze-plyna-w-kosmos-Polskie-firmy-maja-apetyt-na-wiecej-9214243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Miliony euro w kosmos. Wojna zmieniła reguły gry",
+    "body_orig": "Rosnące wydatki na bezpieczeństwo otworzyły nowy rozdział dla polskiego przemysłu kosmicznego. Podczas panelu „Przemysł kosmiczny – nowy silnik gospodarki”, odbywającego się w trakcie Europejskiego Forum Nowych Idei w Sopocie, przedstawiciele branży wskazywali, że potrzebny jest nie tylko dalszy intensywny rozwój technologii, ale również kontrola nad danymi, ciągłość inwestycji i kształcenie specjalistów, którzy pozwolą wykorzystać potencjał sektora.",
+    "published": "2026-10-17T12:00:00",
+    "fetched": "2026-10-17T18:11:07.341601",
+    "title_uk": "Польща інвестує в космічну галузь через зростання витрат на безпеку",
+    "summary_uk": "Зростання витрат на безпеку відкриває нові можливості для польського космічного сектора. На панелі під час Європейського форуму нових ідей обговорювали потребу в розвитку технологій, контролі даних та підготовці фахівців. Інвестиції в цю галузь стають пріоритетом для економіки Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інвестицій у космічну галузь може створити нові можливості для дистриб'юторів, які працюють з технологічними продуктами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща інвестує в космічну галузь через зростання витрат на безпеку",
+    "summary": "Зростання витрат на безпеку відкриває нові можливості для польського космічного сектора. На панелі під час Європейського форуму нових ідей обговорювали потребу в розвитку технологій, контролі даних та підготовці фахівців. Інвестиції в цю галузь стають пріоритетом для економіки Польщі.",
+    "link": "https://www.bankier.pl/wiadomosc/Wielkie-pieniadze-plyna-w-kosmos-Polskie-firmy-maja-apetyt-na-wiecej-9214243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5a9dc7ce5237",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/co-kupujemy-w-pepco-action-i-spolce-jest-raport/jb7n0qn",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Co właściwie Polacy kupują w Pepco i Action? Znamy odpowiedź",
+    "body_orig": "Dyskonty niespożywcze powstają w Polsce jak grzyby po deszczu. Po co jednak właściwie Polacy chodzą tam na zakupy? Nowy raport YouGov daje odpowiedzi. Action wygrywa na przykład jeśli chodzi o dekoracje.",
+    "published": "2026-10-17T14:15:46",
+    "fetched": "2026-10-17T18:11:08.702550",
+    "title_uk": "Польські споживачі обирають Pepco та Action для покупок",
+    "summary_uk": "У Польщі зростає популярність дискаунтерів, зокрема Pepco та Action. Згідно з новим звітом YouGov, Action лідирує за продажем декору. Споживачі обирають ці магазини за доступність та різноманітність товарів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності дискаунтерів вказує на зміну споживчих звичок. Дистриб'юторам варто переглянути асортимент, щоб відповідати новим запитам.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна вподобань споживачів може вплинути на категорійні стратегії. Рекомендується аналізувати асортимент декору та недорогих товарів для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція",
+      "категорійний-менеджмент"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські споживачі обирають Pepco та Action для покупок",
+    "summary": "У Польщі зростає популярність дискаунтерів, зокрема Pepco та Action. Згідно з новим звітом YouGov, Action лідирує за продажем декору. Споживачі обирають ці магазини за доступність та різноманітність товарів.",
+    "link": "https://businessinsider.com.pl/gospodarka/co-kupujemy-w-pepco-action-i-spolce-jest-raport/jb7n0qn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cbe760d8ffde",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/fala-kradziezy-na-budowach-eksperci-wskazuja-na-dwie-rzeczy/8bzzp16",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Fala kradzieży na budowach. Eksperci wskazują na najgorszy okres",
+    "body_orig": "Polskie place budowy wchodzą właśnie w najbardziej ryzykowną część roku. Jesień i zima to okres, w którym najczęściej dochodzi na nich do kradzieży i wtargnięć — wskazuje 56 proc. firm, które doświadczyły takich zdarzeń. Najczęściej giną dwie rzeczy: paliwo i stal.",
+    "published": "2026-10-17T13:38:49",
+    "fetched": "2026-10-17T18:11:08.702560",
+    "title_uk": "Крадіжки на будовах у Польщі досягають піку восени та взимку",
+    "summary_uk": "Польські будівельні майданчики стають найбільш вразливими до крадіжок восени та взимку. 56% компаній зазнали крадіжок, найчастіше викрадають паливо та сталь. Цей період вважається найгіршим для безпеки на будівництві.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори повинні враховувати ризики крадіжок при плануванні логістики та складу. Рекомендується посилити охорону та контроль на будівельних майданчиках.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Крадіжки на будовах у Польщі досягають піку восени та взимку",
+    "summary": "Польські будівельні майданчики стають найбільш вразливими до крадіжок восени та взимку. 56% компаній зазнали крадіжок, найчастіше викрадають паливо та сталь. Цей період вважається найгіршим для безпеки на будівництві.",
+    "link": "https://businessinsider.com.pl/gospodarka/fala-kradziezy-na-budowach-eksperci-wskazuja-na-dwie-rzeczy/8bzzp16",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d257bea48a54",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/morawiecki-uderza-w-banki-czwarty-rok-z-rzedu-siedza-na-workach-zlota-7341010122004512a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Morawiecki uderza w Orlen: Kupuje w USA za 100 zł, sprzedaje za 300",
+    "body_orig": "Mateusz Morawiecki podczas sobotniej konwencji Rozwoju Plus przedstawił kilka gospodarczych założeń stowarzyszenia. – Nie może być tak, żeby faktyczny monopolista, jakim jest Orlen, sprzedawał gaz dzisiaj po 300-350 zł za megawatogodzinę, a sam płaci za ten gaz z USA 100 zł za megawatogodzinę - mówił były premier.",
+    "published": "2026-10-17T12:11:38",
+    "fetched": "2026-10-17T18:11:10.923475",
+    "title_uk": "Морawiecki критикує Orlen за ціни на газ",
+    "summary_uk": "Прем'єр-міністр Польщі Mateusz Morawiecki звинуватив Orlen у завищенні цін на газ. Він зазначив, що компанія купує газ з США за €100 за мегават-годину, а продає його за €300-350. Це викликало обурення серед споживачів та політиків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця ситуація може вплинути на дистриб'юторів, які працюють з Orlen, оскільки підвищення цін на газ може призвести до зростання витрат на енергію в усіх категоріях товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Морawiecki критикує Orlen за ціни на газ",
+    "summary": "Прем'єр-міністр Польщі Mateusz Morawiecki звинуватив Orlen у завищенні цін на газ. Він зазначив, що компанія купує газ з США за €100 за мегават-годину, а продає його за €300-350. Це викликало обурення серед споживачів та політиків.",
+    "link": "https://www.money.pl/gospodarka/morawiecki-uderza-w-banki-czwarty-rok-z-rzedu-siedza-na-workach-zlota-7341010122004512a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "951ccc11d07a",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/black-sea-gas-output-set-to-double-with-new-platform-228242",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Black Sea gas output set to double with new platform",
+    "body_orig": "The Osman Gazi floating production platform was sent off to the Sakarya Gas Field on Oct. 17, with President Recep Tayyip Erdoğan saying it would double Türkiye’s natural gas output in the Black Sea.",
+    "published": "2026-10-17T10:18:47",
+    "fetched": "2026-10-17T18:11:15.428466",
+    "title_uk": "Видобуток газу в Чорному морі подвоїться завдяки новій платформі",
+    "summary_uk": "Плавуча платформа Osman Gazi відправлена до газового родовища Сакарія 17 жовтня. Президент Туреччини Реджеп Тайїп Ердоган заявив, що це дозволить подвоїти видобуток природного газу в Чорному морі. Очікується, що нові обсяги газу суттєво вплинуть на енергетичний сектор країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Збільшення видобутку газу може призвести до зниження цін на енергоносії в регіоні, що вигідно для виробників, які залежать від енергетичних витрат.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Видобуток газу в Чорному морі подвоїться завдяки новій платформі",
+    "summary": "Плавуча платформа Osman Gazi відправлена до газового родовища Сакарія 17 жовтня. Президент Туреччини Реджеп Тайїп Ердоган заявив, що це дозволить подвоїти видобуток природного газу в Чорному морі. Очікується, що нові обсяги газу суттєво вплинуть на енергетичний сектор країни.",
+    "link": "https://www.hurriyetdailynews.com/black-sea-gas-output-set-to-double-with-new-platform-228242",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "02cd383c9dba",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/bayraktar-hints-at-new-oil-discovery-in-gabar-228241",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Energy minister hints at new oil discovery in Gabar",
+    "body_orig": "Türkiye could soon announce a new oil discovery in Gabar, Energy and Natural Resources Minister Alparslan Bayraktar has said.",
+    "published": "2026-10-17T09:16:00",
+    "fetched": "2026-10-17T18:11:15.428482",
+    "title_uk": "Туреччина може оголосити про нову нафтову знахідку в Габарі",
+    "summary_uk": "Міністр енергетики Туреччини Алпарслан Байракта повідомив про можливу нову нафтову знахідку в регіоні Габар. Офіційне оголошення може відбутися найближчим часом. Це може вплинути на енергетичний ринок країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця новина може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, якщо зросте видобуток нафти.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина може оголосити про нову нафтову знахідку в Габарі",
+    "summary": "Міністр енергетики Туреччини Алпарслан Байракта повідомив про можливу нову нафтову знахідку в регіоні Габар. Офіційне оголошення може відбутися найближчим часом. Це може вплинути на енергетичний ринок країни.",
+    "link": "https://www.hurriyetdailynews.com/bayraktar-hints-at-new-oil-discovery-in-gabar-228241",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1fed562be4e9",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092176",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Savunma ve havacılık sanayisi 2026'da 15 milyar dolarlık yeni iş aldı",
+    "body_orig": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, 2026 içinde sektördeki firmalarla 15 milyar dolarlık yeni sözleşme imzaladığını, yıl sonuna kadar bu rakamın 20 milyar dolara ulaşmasını öngördüklerini bildirdi.",
+    "published": "2026-10-17T16:45:00",
+    "fetched": "2026-10-17T18:11:19.280332",
+    "title_uk": "Турецька оборонна промисловість уклала контракти на $15 млрд",
+    "summary_uk": "Турецька оборонна промисловість підписала нові контракти на суму $15 млрд до 2026 року. Очікується, що до кінця року ця сума зросте до $20 млрд. Угоду підтвердив голова Турецької оборонної промисловості Халюк Гергюн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, зокрема в секторі оборони.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Турецька оборонна промисловість уклала контракти на $15 млрд",
+    "summary": "Турецька оборонна промисловість підписала нові контракти на суму $15 млрд до 2026 року. Очікується, що до кінця року ця сума зросте до $20 млрд. Угоду підтвердив голова Турецької оборонної промисловості Халюк Гергюн.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-sanayisi-2026da-15-milyar-dolarlik-yeni-is-aldi/4092176",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "abb341d0ddf2",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/genclerin-ilgisiyle-istanbulda-berber-ve-kuafor-isletmelerinin-sayisi-17-bini-asti/4091902",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Gençlerin ilgisiyle İstanbul'da berber ve kuaför işletmelerinin sayısı 17 bini aştı",
+    "body_orig": "İstanbul'da berber ve kuaför işletmelerinin sayısı, gençlerin kendi işini kurma isteği ve mesleğe olan ilgisiyle yıl başından bu yana 886 artarak 17 bin 198'e ulaştı.",
+    "published": "2026-10-17T10:49:37",
+    "fetched": "2026-10-17T18:11:19.280368",
+    "title_uk": "Кількість перукарень в Стамбулі перевищила 17 тисяч",
+    "summary_uk": "У Стамбулі кількість перукарень та барбер-шопів зросла на 886 з початку року, досягнувши 17 198. Це пов'язано з інтересом молоді до підприємництва та бажанням відкривати власні бізнеси.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це свідчить про зростання попиту на послуги краси в Туреччині. Виробники косметики та засобів для догляду можуть розглянути можливість розширення дистрибуції в цьому сегменті.",
+      "category_manager": "Зростання кількості перукарень може вплинути на попит на косметичні продукти. Рекомендується переглянути асортимент та акції для залучення нових клієнтів."
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кількість перукарень в Стамбулі перевищила 17 тисяч",
+    "summary": "У Стамбулі кількість перукарень та барбер-шопів зросла на 886 з початку року, досягнувши 17 198. Це пов'язано з інтересом молоді до підприємництва та бажанням відкривати власні бізнеси.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/genclerin-ilgisiyle-istanbulda-berber-ve-kuafor-isletmelerinin-sayisi-17-bini-asti/4091902",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d14c75ca776a",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/editorii-europeni-presa-cer-interventia-comisiei-europene-disputa-meta-privind-folosirea-stirilor-antrenarea-meta-pur-simplu-isi-acorde-singura-permisiunea-prelua-aceasta-munca-redactiilor-news-23262198",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Editorii europeni de presă cer intervenţia Comisiei Europene în disputa cu Meta privind folosirea ştirilor pentru antrenarea AI: „Meta nu poate pur şi simplu să îşi acorde singură permisiunea de a prelua această muncă a redacţiilor”. News/Media Alliance din SUA: termeni „scandaloşi şi probabil ilegali”",
+    "body_orig": "Meta, grupul american care deţine Facebook şi Instagram, se confruntă cu criticile organizaţiilor de presă din Europa şi SUA din cauza unor condiţii comerciale despre care editorii avertizează că ar putea permite folosirea articolelor de pe propriile site-uri pentru antrenarea inteligenţei artificiale, fără licenţe negociate separat. European Publishers Council (EPC) a cerut examinarea urgentă a prevederilor de către Comisia Europeană.",
+    "published": "2026-10-17T17:04:00",
+    "fetched": "2026-10-17T18:11:21.247487",
+    "title_uk": "Європейські видавці просять Єврокомісію втрутитися в справу з Meta",
+    "summary_uk": "Meta піддається критиці з боку європейських та американських організацій через умови, які можуть дозволити використання новин для навчання штучного інтелекту без окремих ліцензій. Європейська рада видавців закликала до термінового розгляду цієї ситуації Комісією Європейською.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Європейські видавці просять Єврокомісію втрутитися в справу з Meta",
+    "summary": "Meta піддається критиці з боку європейських та американських організацій через умови, які можуть дозволити використання новин для навчання штучного інтелекту без окремих ліцензій. Європейська рада видавців закликала до термінового розгляду цієї ситуації Комісією Європейською.",
+    "link": "https://www.zf.ro/business-hi-tech/editorii-europeni-presa-cer-interventia-comisiei-europene-disputa-meta-privind-folosirea-stirilor-antrenarea-meta-pur-simplu-isi-acorde-singura-permisiunea-prelua-aceasta-munca-redactiilor-news-23262198",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3df1faad7771",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/apple-cererea-iphone-duo-extraordinara-dupa-30-minute-deschiderea-precomenzilor-sua-estimarile-expediere-ajunsesera-ianuarie-2027-preturi-estimari-livrare-afiseaza-magazinele-romania-primul-23262124",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Apple: cererea pentru iPhone Duo este „extraordinară”. După 30 de minute de la deschiderea precomenzilor din SUA estimările de expediere ajunseseră deja în ianuarie 2027. Ce preţuri şi estimări de livrare afişează magazinele din România pentru primul smartphone pliabil al Apple",
+    "body_orig": "Gigantul american Apple a descris drept „extraordinară” cererea pentru iPhone Duo, primul său smartphone pliabil, după ce estimările de expediere pentru noile precomenzi au ajuns până la sfârşitul lunii ianuarie 2027, la scurt timp după deschiderea comenzilor de vineri, 16 octombrie, scrie presa internaţională.",
+    "published": "2026-10-17T13:52:00",
+    "fetched": "2026-10-17T18:11:21.247548",
+    "title_uk": "Попит на iPhone Duo перевищує очікування, доставки до 2027 року",
+    "summary_uk": "Apple повідомила про високий попит на iPhone Duo, перший смартфон компанії з гнучким екраном. Після відкриття попередніх замовлень 16 жовтня, терміни доставки вже досягли січня 2027 року. Це свідчить про значний інтерес споживачів до новинки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Попит на iPhone Duo перевищує очікування, доставки до 2027 року",
+    "summary": "Apple повідомила про високий попит на iPhone Duo, перший смартфон компанії з гнучким екраном. Після відкриття попередніх замовлень 16 жовтня, терміни доставки вже досягли січня 2027 року. Це свідчить про значний інтерес споживачів до новинки.",
+    "link": "https://www.zf.ro/business-hi-tech/apple-cererea-iphone-duo-extraordinara-dupa-30-minute-deschiderea-precomenzilor-sua-estimarile-expediere-ajunsesera-ianuarie-2027-preturi-estimari-livrare-afiseaza-magazinele-romania-primul-23262124",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4a636fd25852",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/edf-colosul-nuclear-el-europei-va-accelera-planul-de-adaprate-la-schimbarile-climatice-dupa-opririle-reactoarelor-din-acest-an-cauzate-de-temperaturile-foarte-mari-15-twh-de-energie-electrica-nu-a_986719.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "EdF, colosul nuclear el Europei, va accelera planul de adaptare la schimbările climatice, după opririle reactoarelor din acest an cauzate de temperaturile foarte mari. 15 TWh de energie electrică nu au fost produși",
+    "body_orig": "Compania franceză EdF, cel mai mare producător de energie electrică din nuclear din Europa, își va accelera planul de adaptare la schimbările climatice pentru parcul său de reactoare, după ce temperaturile extreme din această vară au provocat perturbări-record la centralele nucleare din Franța, a declarat pentru Reuters Xavier Ursat, director în cadrul EdF, în această săptămână.",
+    "published": "2026-10-17T17:26:29",
+    "fetched": "2026-10-17T18:11:23.316579",
+    "title_uk": "EdF прискорює адаптацію до змін клімату після рекордних зупинок",
+    "summary_uk": "Французька компанія EdF, найбільший виробник ядерної енергії в Європі, планує пришвидшити адаптацію своїх реакторів до змін клімату. Цього року через високі температури не було вироблено 15 ТВт·год електроенергії. Зміни пов'язані з рекордними перебоями на ядерних станціях у Франції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "EdF прискорює адаптацію до змін клімату після рекордних зупинок",
+    "summary": "Французька компанія EdF, найбільший виробник ядерної енергії в Європі, планує пришвидшити адаптацію своїх реакторів до змін клімату. Цього року через високі температури не було вироблено 15 ТВт·год електроенергії. Зміни пов'язані з рекордними перебоями на ядерних станціях у Франції.",
+    "link": "https://www.economica.net/edf-colosul-nuclear-el-europei-va-accelera-planul-de-adaprate-la-schimbarile-climatice-dupa-opririle-reactoarelor-din-acest-an-cauzate-de-temperaturile-foarte-mari-15-twh-de-energie-electrica-nu-a_986719.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8029404e3c2e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/onrc-57-272-de-firme-au-fost-radiate-in-primele-opt-luni-din-2026_986703.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ONRC: 57.272 de firme au fost radiate în primele opt luni din 2026",
+    "body_orig": "Un număr de 57.272 de firme au fost radiate la nivel naţional, în primele opt luni din 2026, cu 1,31% mai multe faţă de perioada similară din anul anterior, conform statisticilor Oficiului Naţional al Registrului Comerţului (ONRC), relatează Agerpres.",
+    "published": "2026-10-17T14:22:34",
+    "fetched": "2026-10-17T18:11:23.316628",
+    "title_uk": "В Румунії за вісім місяців 2026 року ліквідовано 57 тисяч компаній",
+    "summary_uk": "У Румунії за перші вісім місяців 2026 року було ліквідовано 57.272 компанії, що на 1% більше, ніж за аналогічний період минулого року. Ці дані наводить Національний офіс реєстрації торгівлі (ONRC). Зростання ліквідацій може свідчити про складнощі в бізнес-середовищі.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Румунії за вісім місяців 2026 року ліквідовано 57 тисяч компаній",
+    "summary": "У Румунії за перші вісім місяців 2026 року було ліквідовано 57.272 компанії, що на 1% більше, ніж за аналогічний період минулого року. Ці дані наводить Національний офіс реєстрації торгівлі (ONRC). Зростання ліквідацій може свідчити про складнощі в бізнес-середовищі.",
+    "link": "https://www.economica.net/onrc-57-272-de-firme-au-fost-radiate-in-primele-opt-luni-din-2026_986703.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c531cd87ebd6",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/16/ukrayini-potribno-91-mlrd-na-vidnovlennia-energetiki-protiagom-nastupnix-10-rokiv/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Україні потрібно $91 млрд на відновлення енергетики протягом наступних 10 років",
+    "body_orig": "Водночас непрямі втрати енергетичного сектору внаслідок війни оцінюють у майже $40,4 млрд, із яких $39,9 млрд припадає на втрачені доходи енергетичних компаній.",
+    "published": "2026-10-17T17:15:00",
+    "fetched": "2026-10-17T18:11:13.072682",
+    "title_uk": "Україні потрібно $91 млрд на відновлення енергетики",
+    "summary_uk": "Для відновлення енергетичного сектору Україні необхідно $91 млрд протягом 10 років. Непрямі втрати через війну оцінюють у $40 млрд, з яких $40 млрд — втрачені доходи енергетичних компаній. Ці дані підкреслюють критичну потребу в інвестиціях для стабілізації енергетичної інфраструктури.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Україні потрібно $91 млрд на відновлення енергетики",
+    "summary": "Для відновлення енергетичного сектору Україні необхідно $91 млрд протягом 10 років. Непрямі втрати через війну оцінюють у $40 млрд, з яких $40 млрд — втрачені доходи енергетичних компаній. Ці дані підкреслюють критичну потребу в інвестиціях для стабілізації енергетичної інфраструктури.",
+    "link": "https://ain.ua/2026/10/16/ukrayini-potribno-91-mlrd-na-vidnovlennia-energetiki-protiagom-nastupnix-10-rokiv/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
