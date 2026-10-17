@@ -399083,5 +399083,1007 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "306dcaa67cfc",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Inflacja-przyspiesza-Polacy-szukaja-bezpieczenstwa-w-obligacjach-9212967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Inflacja przyspiesza, Polacy szukają bezpieczeństwa w obligacjach",
+    "body_orig": "Wrześniowy szok paliwowy podbił inflację w Polsce i Europie, a ceny na stacjach rosły mimo obniżonego VAT-u. Jednocześnie Polacy masowo ogłaszają bankructwo, miliardy złotych płyną na rynek obligacji, a azjatyckie giełdy boleśnie odczuwają obawy o trwałość boomu na sztuczną inteligencję. W najnowszych „Wykresach tygodnia” przyglądam się także rynkowi nieruchomości i zmianom w strategii zakupów złota.",
+    "published": "2026-10-17T05:00:00",
+    "fetched": "2026-10-17T08:40:47.572660",
+    "title_uk": "В Україні зростає інфляція, поляки шукають безпеку в облігаціях",
+    "summary_uk": "В Україні спостерігається зростання інфляції через підвищення цін на паливо. Поляки активно інвестують у облігації, оскільки багато з них оголошують банкрутство. Це свідчить про зростаючі фінансові труднощі в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інфляції може вплинути на купівельну спроможність споживачів у Польщі, що слід врахувати при плануванні закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в інфляції можуть вплинути на ціноутворення та стратегії промо-акцій у Польщі. Рекомендується переглянути плани на Q1 2027."
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Україні зростає інфляція, поляки шукають безпеку в облігаціях",
+    "summary": "В Україні спостерігається зростання інфляції через підвищення цін на паливо. Поляки активно інвестують у облігації, оскільки багато з них оголошують банкрутство. Це свідчить про зростаючі фінансові труднощі в регіоні.",
+    "link": "https://www.bankier.pl/wiadomosc/Inflacja-przyspiesza-Polacy-szukaja-bezpieczenstwa-w-obligacjach-9212967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e048081deac1",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Koniec-ryczaltu-dla-czesci-przedsiebiorcow-MF-chce-obnizyc-limit-9214216.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koniec ryczałtu dla części przedsiębiorców? MF chce obniżyć limit",
+    "body_orig": "Zmniejszenie z 2 mln euro do 250 tys. euro limitu, powyżej którego podatnik nie może się rozliczać ryczałtem, ogranicza dysproporcje między różnymi rodzajami opodatkowania działalności gospodarczej - powiedział PAP wiceminister finansów Jarosław Neneman.",
+    "published": "2026-10-17T07:01:00",
+    "fetched": "2026-10-17T08:40:47.572693",
+    "title_uk": "Польща знижує ліміт для підприємців, що працюють на рицарському податку",
+    "summary_uk": "Польське Міністерство фінансів планує зменшити ліміт для застосування рицарського податку з €2 млн до €250 тис. Це рішення має на меті зменшити диспропорції між різними формами оподаткування. Віце-міністр фінансів зазначив, що зміни допоможуть вирівняти умови для підприємців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення ліміту може призвести до збільшення кількості підприємців, які обиратимуть рицарський податок. Це може вплинути на конкуренцію в дистрибуції, оскільки нові гравці можуть з'явитися на ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща знижує ліміт для підприємців, що працюють на рицарському податку",
+    "summary": "Польське Міністерство фінансів планує зменшити ліміт для застосування рицарського податку з €2 млн до €250 тис. Це рішення має на меті зменшити диспропорції між різними формами оподаткування. Віце-міністр фінансів зазначив, що зміни допоможуть вирівняти умови для підприємців.",
+    "link": "https://www.bankier.pl/wiadomosc/Koniec-ryczaltu-dla-czesci-przedsiebiorcow-MF-chce-obnizyc-limit-9214216.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8085fbfdb679",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/wydatki-polakow-pod-lupa-najwiecej-idzie-na-zywnosc-i-mieszkanie/kssld4y",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ile wydajesz co miesiąc na podstawowe towary i usługi? Porównaj się z sąsiadami",
+    "body_orig": "Każdego miesiąca statystyczny Polak najwięcej pieniędzy wydaje na żywność. W przeliczeniu na osobę wychodzi ponad 500 zł. To mniej więcej jedna czwarta wszystkich wydatków. W Business Insider Polska dokładnie przeanalizowaliśmy badanie budżetów gospodarstw domowych. Pokazujemy konkretne kwoty w zależności od wielkości rodziny i miejsca zamieszkania. Różnice bywają bardzo duże.",
+    "published": "2026-10-17T06:49:33",
+    "fetched": "2026-10-17T08:40:49.312181",
+    "title_uk": "Польські домогосподарства витрачають 25% на їжу",
+    "summary_uk": "Статистичні дані показують, що середні витрати польських домогосподарств на їжу перевищують 500 зл на особу, що складає близько 25% усіх витрат. Аналіз враховує різні розміри родин та регіони, вказуючи на значні відмінності у витратах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на їжу може вплинути на попит на продукти харчування. Дистриб'юторам варто переглянути асортимент та ціни на основні товари.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни у витратах споживачів можуть вплинути на стратегії категорійного менеджменту. Рекомендується адаптувати пропозиції відповідно до змін у споживчих звичках."
+    },
+    "tags": [
+      "FMCG",
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польські домогосподарства витрачають 25% на їжу",
+    "summary": "Статистичні дані показують, що середні витрати польських домогосподарств на їжу перевищують 500 зл на особу, що складає близько 25% усіх витрат. Аналіз враховує різні розміри родин та регіони, вказуючи на значні відмінності у витратах.",
+    "link": "https://businessinsider.com.pl/finanse/wydatki-polakow-pod-lupa-najwiecej-idzie-na-zywnosc-i-mieszkanie/kssld4y",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "062192ed7d5c",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/97-proc-programistow-korzysta-z-ai-szkoly-i-uczelnie-zostaly-z-tylu",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "97 proc. programistów korzysta z AI. Szkoły i uczelnie zostały z tyłu",
+    "body_orig": "Jak uczelnie i szkoły uczą informatyki? W przestarzały sposób – tak uważa niemal 8 na 10 polskich programistów ankietowanych na zlecenie Amazon Web Services. Według 78 proc. z nich programy nauczania wymagają szybszej reformy, bo obecnie nie nadążają za rozwojem sztucznej inteligencji w branży IT.\n68 proc. respondentów postuluje, by kompetencje związane z AI wprowadzano już w szkołach średnich. Najważniejszą, a jednocześnie najtrudniejszą kompetencją przyszłości jest krytyczne myślenie i umiejętność oceny tego, co generuje sztuczna inteligencja, na co wskazuje 77 proc. ankietowanych. Obecny system edukacji, gdzie zadania rozwiązuje się „pod klucz”, wcale nie zachęca do rozwijania takiego sposobu myślenia.\nMłodym ludziom sztuczna inteligencja może się przydać na start kariery. 74 proc. badanych potwierdza, że dzięki AI początkujący programiści szybciej wnoszą wartość do pracy zespołu. Co więcej, aż 76 proc. twórców oprogramowania poleciłoby młodemu człowiekowi karierę w tej branży. Głównym argumentem są wynagrodzenia i perspektywy rozwoju, które wskazuje 44 proc.\nKrytyczne myślenie ważniejsze niż znajomość Pythona\nW badaniu zapytano też, które umiejętności będą najważniejsze za 5 lat. Najwięcej wskazań miało krytyczne myślenie (57 proc.), architektura systemów (55 proc.) i zarządzanie systemami AI (53 proc.). Zaledwie co dziewiąty programista uważa, że ręczne pisanie kodu nadal będzie kluczowe.\nOczekiwania pracodawców nie są już takie same jak kilka lat wcześniej. Bardziej niż lata doświadczenia z konkretnym językiem kodowania (5 proc.) cenią ciekawość i gotowość do eksperymentowania (33 proc.).\nJak bardzo zmieniła się praca w branży IT, pokazują deklaracje badanych. Prawie połowa (45 proc.) z nich musiała w ciągu ostatnich dwóch lat znacząco rozwinąć swoje kompetencje z powodu AI. Zatem choć sztuczna inteligencja może pomóc młodym specjalistom na początku kariery, to muszą za nią nadążyć.\nProgramiści masowo korzystają z AI\nProgramiści są grupą zawodową, która jest bardzo otwarta na pracę z narzędziami AI. 97 proc. z nich korzysta z nich co najmniej raz w tygodniu. Codziennie robi to 87 proc. W ten sposób wyróżniają się na tle średniej dla świata, bo według „Stack Overflow Developer Survey 2025” nieco ponad połowa (51 proc.) programistów na świecie korzysta z AI codziennie.\nDzięki AI aż 17 na 20 twórców oprogramowania odnotowało wzrost produktywności, a średnio oszczędzają 7,3 godziny tygodniowo. Ten czas mogą przeznaczyć na inne zadania: 32 proc. rozwiązuje wtedy trudniejsze problemy techniczne, 28 proc. przeprowadza weryfikację wyników AI, a 27 proc. projektuje architekturę. Dodatkowo wykorzystanie sztucznej inteligencji przekłada się na przewagę konkurencyjną – aż 78 proc. programistów uważa, że tak się dzieje w ich firmie.\nSztuczna inteligencja to miecz obosieczny\n4 na 5 badanych sądzi, że w ciągu najbliższych pięciu lat znacznie zwiększy się rola agentów AI – staną się standardową częścią zespołów programistycznych. 78 proc. przewiduje, że zm",
+    "published": "2026-10-16T21:59:10",
+    "fetched": "2026-10-17T08:40:50.674649",
+    "title_uk": "97% програмістів використовують AI, школи відстають у навчанні",
+    "summary_uk": "78% польських програмістів вважають, що навчальні програми потребують реформ. 68% пропонують впровадження AI-компетенцій у середніх школах. 97% програмістів використовують AI щонайменше раз на тиждень, 87% — щодня. Завдяки AI 85% програмістів відзначають підвищення продуктивності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно враховувати, що AI може змінити вимоги до навичок програмістів, що вплине на підбір кадрів у дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в освіті можуть вплинути на доступність кваліфікованих кадрів у майбутньому. Рекомендується переглянути стратегії набору та навчання персоналу."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "97% програмістів використовують AI, школи відстають у навчанні",
+    "summary": "78% польських програмістів вважають, що навчальні програми потребують реформ. 68% пропонують впровадження AI-компетенцій у середніх школах. 97% програмістів використовують AI щонайменше раз на тиждень, 87% — щодня. Завдяки AI 85% програмістів відзначають підвищення продуктивності.",
+    "link": "https://300gospodarka.pl/news/97-proc-programistow-korzysta-z-ai-szkoly-i-uczelnie-zostaly-z-tylu",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "903211e1a5a8",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/ageizm-w-firmach-poglebia-luke-kadrowa",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Metryka wygrywa z kompetencjami. Firmy same tracą doświadczonych ludzi",
+    "body_orig": "Ponad jedna trzecia badanych pracowników w wieku 45-59 lat doświadczyła w ostatnich trzech latach dyskryminacji ze względu na wiek. Najczęściej problem pojawiał się przy awansach – 30 proc. badanych deklaruje, że pominięto ich mimo odpowiednich kwalifikacji. To wyniki badania GeeX przeprowadzonego na blisko 13 tys. osób. Autorzy raportu ostrzegają, że ageizm, czyli gorsze traktowanie ze względu na wiek, może nie tylko obniżać zaangażowanie, lecz także przyspieszać decyzje o odejściu z rynku pracy.\nBadanie objęło osoby aktywne zawodowo w wieku 45-59 lat, czyli przedstawicieli pokolenia X. Dane zbierano od października 2025 r. do kwietnia 2026 r. w 85 organizacjach oraz przez otwarty link rekrutacyjny. Do końcowej analizy trafiły 12 983 ankiety pracowników sektora publicznego i prywatnego.\nSkala problemu ma znaczenie także poza pojedynczymi firmami. Osoby w tym wieku stanowią ponad jedną trzecią polskiego rynku pracy, a kraj jednocześnie szybko się starzeje. Według danych przytoczonych przez prof. Agnieszkę Chłoń-Domińczak z SGH udział osób w wieku co najmniej 65 lat wzrósł w ciągu dekady z 15,4 do 21 proc.\nZa starzy na awans?\nNajczęstszym doświadczeniem dyskryminacji było pomijanie przy awansie mimo posiadanych kwalifikacji. Dotyczyło to 30 proc. respondentów. Kolejne 7 proc. mówiło o trudnościach ze znalezieniem nowej pracy, 6 proc. o dyskryminacji podczas rekrutacji, a 3 proc. o zwolnieniu z przyczyn organizacyjnych.\n64 proc. badanych nie doświadczyło żadnej z wymienionych sytuacji. Oznacza to, że ageizm nie dotyczy większości pracowników pokolenia X, ale jego skala jest na tyle duża, że autorzy badania traktują go jako zjawisko systemowe.\nW przypadku awansów dysproporcje są widoczne również między sektorami. Raport podaje, że problem częściej pojawia się w sektorze publicznym, gdzie dotyczy 30 proc. badanych, niż w firmach prywatnych, gdzie odsetek wynosi 23 proc.\nCo ciekawe, osoby najczęściej zgłaszające pomijanie przy awansach nie należą do grup o najniższych kwalifikacjach. Według autorów badania szczególnie często mówią o tym pracownicy z wyższym wykształceniem, sektora publicznego oraz osoby o najwyższych kompetencjach cyfrowych. Problemem może więc być nie faktyczna luka kompetencyjna, lecz stereotyp dotyczący starszych pracowników.\nLiczy się nie metryka, lecz emerytura\nTrzeba zwrócić uwagę na jeszcze jeden mechanizm. Postawy wobec pracowników nie układają się wyłącznie według wieku biologicznego, lecz mocno wiążą się z tym, ile czasu zostało danej osobie do osiągnięcia ustawowego wieku emerytalnego.\n– Wiek, który organizuje postawy pokolenia X wobec pracy, nie jest wiekiem metrykalnym – jest wiekiem ustawowym. Kiedy w danych GeeX zastąpiliśmy wiek jedną zmienną: „ile lat zostało do emerytury”, cały wzorzec różnic między rocznikami i między kobietami a mężczyznami dał się do niej sprowadzić bez straty dopasowania modelu. Obawy o zdrowie układają się dokładnie odwrotnie, według wieku biologicznego. Mówimy zatem o zegarze instytucjonalnym, ",
+    "published": "2026-10-16T20:54:02",
+    "fetched": "2026-10-17T08:40:50.674697",
+    "title_uk": "Більше третини працівників у Польщі стикаються з дискримінацією за віком",
+    "summary_uk": "Дослідження показало, що 30% працівників віком 45-59 років не отримали підвищення, незважаючи на відповідні кваліфікації. Загалом, 64% респондентів не стикалися з дискримінацією. Проблема є системною, оскільки ця вікова група становить понад третину польського ринку праці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні враховувати вікові упередження при формуванні команд, щоб уникнути втрати досвідчених працівників.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Менеджери категорій повинні враховувати, що дискримінація за віком може впливати на мотивацію працівників, тому важливо підтримувати інклюзивність у командах."
+    },
+    "tags": [
+      "мотивація-ТП",
+      "робота-з-байєрами"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Більше третини працівників у Польщі стикаються з дискримінацією за віком",
+    "summary": "Дослідження показало, що 30% працівників віком 45-59 років не отримали підвищення, незважаючи на відповідні кваліфікації. Загалом, 64% респондентів не стикалися з дискримінацією. Проблема є системною, оскільки ця вікова група становить понад третину польського ринку праці.",
+    "link": "https://300gospodarka.pl/news/ageizm-w-firmach-poglebia-luke-kadrowa",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7894b5f65b84",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/drozyzna-wroci-w-roku-wyborczym-pokazali-wyliczenia-7340679104198688a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Drożyzna wróci w roku wyborczym. Ekspert pokazał wyliczenia",
+    "body_orig": "Po rocznej deflacji, ceny żywności w 2027 r. pójdą w górę. Z analizy Credit Agricole wynika, że drogi olej napędowy przełoży się na sklepowe ceny z opóźnieniem, ale trwale. Autor opracowania uspokaja, że to nie skala z 2022 r., choć w roku wyborczym liczby i tak staną się argumentem politycznym i zapewne wróci debata o drożyźnie.",
+    "published": "2026-10-17T07:38:34",
+    "fetched": "2026-10-17T08:40:52.279864",
+    "title_uk": "Ціни на продукти зростуть у 2027 році через дорожнечу пального",
+    "summary_uk": "Згідно з аналізом Credit Agricole, після року дефляції ціни на продукти в Польщі зростуть у 2027 році. Дорожнеча пального вплине на ціни в магазинах з затримкою, але тривало. Хоча зростання не буде таким, як у 2022 році, воно стане політичним аргументом у виборчий рік.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Очікуйте зростання цін на продукти у 2027 році. Це може вплинути на ваші закупівлі та стратегії ціноутворення.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Плануйте підвищення цін на категорії продуктів у 2027 році. Розгляньте можливість адаптації асортименту до нових цінових реалій."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на продукти зростуть у 2027 році через дорожнечу пального",
+    "summary": "Згідно з аналізом Credit Agricole, після року дефляції ціни на продукти в Польщі зростуть у 2027 році. Дорожнеча пального вплине на ціни в магазинах з затримкою, але тривало. Хоча зростання не буде таким, як у 2022 році, воно стане політичним аргументом у виборчий рік.",
+    "link": "https://www.money.pl/gospodarka/drozyzna-wroci-w-roku-wyborczym-pokazali-wyliczenia-7340679104198688a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad751183d8a0",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/firma/polak-wegier-dwa-bratanki-i-do-handlu-i-do-ekspansji-dane-z-budapesztu-nie-klamia-7340707314833440a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polak Węgier, dwa bratanki. I do handlu, i do ekspansji. Dane z Budapesztu nie kłamią",
+    "body_orig": "Węgry próbują wydostać się z gospodarczej stagnacji, a polskie firmy coraz mocniej zaznaczają tam swoją obecność. Szyldy znad Wisły opanowują ulice Budapesztu, a handel z Węgrami przynosi Polsce miliardową nadwyżkę. Czy na naszych oczach zmienia się handlowy układ sił w Europie Środkowej?",
+    "published": "2026-10-17T04:42:20",
+    "fetched": "2026-10-17T08:40:52.279894",
+    "title_uk": "Польські компанії активніше входять на угорський ринок",
+    "summary_uk": "Польські фірми нарощують присутність в Угорщині, що допомагає Україні отримувати мільярдну надвищку в торгівлі. Угорщина намагається подолати економічну стагнацію, а польські бренди заповнюють вулиці Будапешта. Це може змінити торговий баланс у Центральній Європі.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Зростання польських брендів в Угорщині може відкрити нові можливості для дистриб'юторів, які шукають партнерів у сусідніх країнах.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Польські компанії активніше входять на угорський ринок",
+    "summary": "Польські фірми нарощують присутність в Угорщині, що допомагає Україні отримувати мільярдну надвищку в торгівлі. Угорщина намагається подолати економічну стагнацію, а польські бренди заповнюють вулиці Будапешта. Це може змінити торговий баланс у Центральній Європі.",
+    "link": "https://www.money.pl/firma/polak-wegier-dwa-bratanki-i-do-handlu-i-do-ekspansji-dane-z-budapesztu-nie-klamia-7340707314833440a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eae3022b06ef",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/ai-driven-profits-concentrated-at-top-despite-widespread-global-ai-adoption/4091613",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "AI-driven profits concentrated at top despite widespread global AI adoption",
+    "body_orig": "Developing countries provide critical raw materials, assemble parts for servers running AI models, companies controlling technology design enjoy vast majority of profits, while direct production workers earn meager 4.3%, UNCTAD report shows",
+    "published": "2026-10-17T05:10:44",
+    "fetched": "2026-10-17T08:41:13.963579",
+    "title_uk": "Прибутки від штучного інтелекту зосереджені у великих компаній",
+    "summary_uk": "Згідно з доповіддю UNCTAD, країни, що розвиваються, постачають сировину та компоненти для серверів, але більшість прибутків отримують компанії, що контролюють технології. Прямі працівники в виробництві отримують лише 4% від загальних прибутків. Це свідчить про нерівномірний розподіл вигод від AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прибутки від штучного інтелекту зосереджені у великих компаній",
+    "summary": "Згідно з доповіддю UNCTAD, країни, що розвиваються, постачають сировину та компоненти для серверів, але більшість прибутків отримують компанії, що контролюють технології. Прямі працівники в виробництві отримують лише 4% від загальних прибутків. Це свідчить про нерівномірний розподіл вигод від AI.",
+    "link": "https://www.aa.com.tr/en/economy/ai-driven-profits-concentrated-at-top-despite-widespread-global-ai-adoption/4091613",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3e23e18fdff9",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s export value per kilogram surges as high-tech sectors boost revenue: Trade minister",
+    "body_orig": "Despite global economic, regional instability, Türkiye maintains 16 years of growth, while high-tech sectors like defense generate $61.5 per kilogram in exports, Omer Bolat says at Türkiye Innovation Week",
+    "published": "2026-10-16T22:17:46",
+    "fetched": "2026-10-17T08:41:13.963597",
+    "title_uk": "Туреччина демонструє зростання експорту завдяки високим технологіям",
+    "summary_uk": "Туреччина продовжує 16 років зростання експорту, незважаючи на глобальні виклики. Високі технології, зокрема оборонний сектор, забезпечують $61.5 за кілограм експорту. Міністр торгівлі Омер Болат озвучив ці дані на Тижні інновацій у Туреччині.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про зростаючий попит на високі технології, що може відкрити нові можливості для експорту в UA/PL/RO.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина демонструє зростання експорту завдяки високим технологіям",
+    "summary": "Туреччина продовжує 16 років зростання експорту, незважаючи на глобальні виклики. Високі технології, зокрема оборонний сектор, забезпечують $61.5 за кілограм експорту. Міністр торгівлі Омер Болат озвучив ці дані на Тижні інновацій у Туреччині.",
+    "link": "https://www.aa.com.tr/en/turkiye/turkiye-s-export-value-per-kilogram-surges-as-high-tech-sectors-boost-revenue-trade-minister/4091585",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6a139b111bee",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bütçeden tarımsal desteklere gelecek yıl için 235 milyar lira ayrıldı",
+    "body_orig": "Türkiye Büyük Millet Meclisine (TBMM) sunulan 2027 yılı bütçe teklifiyle, tarımsal destekler için 235 milyar lira ve tarım sektörü yatırımları için 268 milyar lira ödenek öngörüldü.",
+    "published": "2026-10-17T08:37:42",
+    "fetched": "2026-10-17T08:41:15.111639",
+    "title_uk": "Туреччина виділить €8.5 млрд на аграрні підтримки у 2027 році",
+    "summary_uk": "У бюджеті Туреччини на 2027 рік передбачено €8.5 млрд на аграрні підтримки та €9.5 млрд на інвестиції в агросектор. Ці кошти мають на меті підтримати розвиток сільського господарства в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі або Румунії, оскільки зростання інвестицій в агросектор може підвищити конкурентоспроможність продукції.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина виділить €8.5 млрд на аграрні підтримки у 2027 році",
+    "summary": "У бюджеті Туреччини на 2027 рік передбачено €8.5 млрд на аграрні підтримки та €9.5 млрд на інвестиції в агросектор. Ці кошти мають на меті підтримати розвиток сільського господарства в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi/4091734",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6040e5a7cd13",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/devlet-tasinmazlardan-gelecek-yil-143-8-milyar-lira-gelir-bekliyor/4091728",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Devlet taşınmazlardan gelecek yıl 143,8 milyar lira gelir bekliyor",
+    "body_orig": "Devlet, gelecek yıl aralarında lojman, sosyal tesis ve arazilerin de bulunduğu taşınmazların satış ve kiralarından yaklaşık 143,8 milyar lira gelir elde etmeyi hedefliyor.",
+    "published": "2026-10-17T08:33:50",
+    "fetched": "2026-10-17T08:41:15.111655",
+    "title_uk": "Туреччина очікує €5 млрд доходу від продажу нерухомості у 2024",
+    "summary_uk": "Уряд Туреччини планує отримати близько €5 млрд від продажу та оренди державних нерухомостей у 2024 році. До складу активів входять житлові приміщення, соціальні об'єкти та земельні ділянки. Ця ініціатива має на меті поповнити державний бюджет.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які хочуть залучити інвесторів у нерухомість. Рекомендується вивчити ринок і можливості співпраці з державними структурами.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина очікує €5 млрд доходу від продажу нерухомості у 2024",
+    "summary": "Уряд Туреччини планує отримати близько €5 млрд від продажу та оренди державних нерухомостей у 2024 році. До складу активів входять житлові приміщення, соціальні об'єкти та земельні ділянки. Ця ініціатива має на меті поповнити державний бюджет.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/devlet-tasinmazlardan-gelecek-yil-143-8-milyar-lira-gelir-bekliyor/4091728",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "67d1c22a2f08",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/eylulde-elektrikli-araclara-3-milyonun-uzerinde-sarj-islemi-yapildi/4091726",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Eylülde elektrikli araçlara 3 milyonun üzerinde şarj işlemi yapıldı",
+    "body_orig": "Türkiye'de eylülde elektrikli araçlara 3 milyon 152 bin 733 şarj işlemi gerçekleştirilirken şarj hizmeti piyasasındaki toplam elektrik tüketimi 83 bin 253 megavatsaat oldu.",
+    "published": "2026-10-17T08:29:14",
+    "fetched": "2026-10-17T08:41:15.111666",
+    "title_uk": "В Туреччині у вересні зарядили понад 3 млн електромобілів",
+    "summary_uk": "У вересні в Туреччині було здійснено 3.15 млн заряджань електромобілів. Загальне споживання електроенергії для зарядки склало 83 тис. МВт·год. Це свідчить про зростання популярності електромобілів у країні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання заряджань електромобілів може свідчити про збільшення попиту на електромобілі в Туреччині. Це відкриває можливості для виробників, які планують вихід на ринок електромобілів.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Туреччині у вересні зарядили понад 3 млн електромобілів",
+    "summary": "У вересні в Туреччині було здійснено 3.15 млн заряджань електромобілів. Загальне споживання електроенергії для зарядки склало 83 тис. МВт·год. Це свідчить про зростання популярності електромобілів у країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/eylulde-elektrikli-araclara-3-milyonun-uzerinde-sarj-islemi-yapildi/4091726",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d6a4823e2951",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ipard-iii-programi-11-basvuru-sonuclari-aciklandi/4091687",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "IPARD III Programı 11. başvuru sonuçları açıklandı",
+    "body_orig": "Bakan Yumaklı, IPARD III Programı'nın 11. başvuru sonuçlarının açıklandığını bildirerek, \"Et, süt, yumurta, su ürünleri ile meyve-sebze işlenmesi ve soğuk hava depoları yatırımlarında 95 proje, 1,2 milyar lira hibe almaya hak kazandı.\" dedi.",
+    "published": "2026-10-17T07:47:16",
+    "fetched": "2026-10-17T08:41:15.111693",
+    "title_uk": "В Туреччині оголосили результати 11-го етапу програми IPARD III",
+    "summary_uk": "Міністр Yumaklı повідомив про результати 11-го етапу програми IPARD III. 95 проектів у сферах обробки м'яса, молока, яєць, рибних продуктів, а також фруктів і овочів отримали €1.2 млрд грантів. Це інвестиції в холодні склади та обробку сільськогосподарської продукції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це можливість для турецьких виробників залучити фінансування для модернізації та розширення виробництв. Важливо врахувати, що програма підтримує інвестиції в обробку сільгосппродукції.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "В Туреччині оголосили результати 11-го етапу програми IPARD III",
+    "summary": "Міністр Yumaklı повідомив про результати 11-го етапу програми IPARD III. 95 проектів у сферах обробки м'яса, молока, яєць, рибних продуктів, а також фруктів і овочів отримали €1.2 млрд грантів. Це інвестиції в холодні склади та обробку сільськогосподарської продукції.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ipard-iii-programi-11-basvuru-sonuclari-aciklandi/4091687",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d3a8f3e375d8",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Anonim ve limited şirketlerin asgari sermaye uyum süresi 2027 sonuna uzatıldı",
+    "body_orig": "Anonim ve limited şirketlerin yeni asgari sermaye tutarlarına uyum süresinin 31 Aralık 2027'ye kadar uzatılması kararlaştırıldı.",
+    "published": "2026-10-17T05:08:46",
+    "fetched": "2026-10-17T08:41:15.111702",
+    "title_uk": "Термін для відповідності новим мінімальним капіталам компаній у Туреччині продовжено",
+    "summary_uk": "Уряд Туреччини ухвалив рішення продовжити термін для компаній відповідати новим мінімальним вимогам до капіталу до 31 грудня 2027 року. Це стосується як анонімних, так і обмежених компаній. Таке рішення має на меті підтримати бізнес у період економічних змін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це рішення може полегшити вихід на ринок для нових компаній у Туреччині, оскільки дає більше часу для накопичення капіталу. Виробники можуть розглянути можливість інвестування в нові проекти.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Термін для відповідності новим мінімальним капіталам компаній у Туреччині продовжено",
+    "summary": "Уряд Туреччини ухвалив рішення продовжити термін для компаній відповідати новим мінімальним вимогам до капіталу до 31 грудня 2027 року. Це стосується як анонімних, так і обмежених компаній. Таке рішення має на меті підтримати бізнес у період економічних змін.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "65a891d94f38",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/bucovineanul-plecat-londra-acte-1998-construit-acolo-grup-afaceri-zeci-milioane-lire-lanseaza-bucovina-connect-proiect-turism-investitii-regiunea-natala-23261994",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bucovineanul care a plecat la Londra fără acte în 1998 şi a construit acolo un grup cu afaceri de zeci de milioane de lire lansează Bucovina Connect, un proiect pentru turism şi investiţii în regiunea natală",
+    "body_orig": "",
+    "published": "2026-10-17T06:44:00",
+    "fetched": "2026-10-17T08:41:17.399342",
+    "title_uk": "Підприємець з Буковини запускає проект для туризму в рідному краї",
+    "summary_uk": "Підприємець, який емігрував до Лондона без документів у 1998 році, заснував групу з бізнесом на десятки мільйонів фунтів стерлінгів. Він анонсував запуск Bucovina Connect, проекту, що сприятиме розвитку туризму та інвестицій у Буковині. Це може залучити нові ресурси та підвищити інтерес до регіону.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Підприємець з Буковини запускає проект для туризму в рідному краї",
+    "summary": "Підприємець, який емігрував до Лондона без документів у 1998 році, заснував групу з бізнесом на десятки мільйонів фунтів стерлінгів. Він анонсував запуск Bucovina Connect, проекту, що сприятиме розвитку туризму та інвестицій у Буковині. Це може залучити нові ресурси та підвищити інтерес до регіону.",
+    "link": "https://www.zf.ro/eveniment/bucovineanul-plecat-londra-acte-1998-construit-acolo-grup-afaceri-zeci-milioane-lire-lanseaza-bucovina-connect-proiect-turism-investitii-regiunea-natala-23261994",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "17d198a9c9d8",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/topul-bancilor-mari-dupa-profiturile-s1-2026-banca-transilvania-bcr-raiffeisen-podium-topul-profiturilor-castiguri-cumulate-peste-4-mld-lei-adica-aproape-60-profitul-sistemului-bancar-romanesc-23261044",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Topul băncilor mari după profiturile din S1/2026. Banca Transilvania, BCR şi Raiffeisen sunt pe podium în topul profiturilor, cu câştiguri cumulate de peste 4 mld. lei, adică aproape 60% din profitul sistemului bancar românesc",
+    "body_orig": "Băncile mari au fost pe plus în primul semestru (S1) din 2026, dar rezultatele au fost amestecate, unele reuşind să obţină profituri mai mari faţă de S1/2025, în timp ce alte instituţii de credit au înregistrat câştiguri în scădere.",
+    "published": "2026-10-16T21:07:00",
+    "fetched": "2026-10-17T08:41:17.399363",
+    "title_uk": "Банки Румунії показали змішані результати за перше півріччя 2026",
+    "summary_uk": "У першому півріччі 2026 року великі банки Румунії отримали прибуток понад 4 млрд. леїв, що становить близько 60% від загального прибутку банківської системи. Banca Transilvania, BCR та Raiffeisen лідирують за цими показниками. Деякі банки покращили результати в порівнянні з аналогічним періодом 2025 року, тоді як інші зазнали зниження прибутків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Банки Румунії показали змішані результати за перше півріччя 2026",
+    "summary": "У першому півріччі 2026 року великі банки Румунії отримали прибуток понад 4 млрд. леїв, що становить близько 60% від загального прибутку банківської системи. Banca Transilvania, BCR та Raiffeisen лідирують за цими показниками. Деякі банки покращили результати в порівнянні з аналогічним періодом 2025 року, тоді як інші зазнали зниження прибутків.",
+    "link": "https://www.zf.ro/banci-si-asigurari/topul-bancilor-mari-dupa-profiturile-s1-2026-banca-transilvania-bcr-raiffeisen-podium-topul-profiturilor-castiguri-cumulate-peste-4-mld-lei-adica-aproape-60-profitul-sistemului-bancar-romanesc-23261044",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f16f435f1381",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-live/zf-live-miruna-neagu-sefa-promotie-finante-banci-ase-bucuresti-andreea-dumitrache-sefa-promotie-masteratul-bancas-ase-bucuresti-cariera-industria-bancara-atragatoare-tineri-2004-primul-salariu-banca-23251008",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Live. Miruna Neagu, şefă de promoţie la Finanţe-Bănci, ASE Bucureşti, şi Andreea Dumitrache, şefă de promoţie la masteratul BANCAS, ASE Bucureşti: Cariera în industria bancară este încă atrăgătoare pentru tineri. În 2004, primul salariu în bancă era de 1.080 de lei, acum un tânăr porneşte de la circa 5.000 de lei net",
+    "body_orig": "Sistemul bancar rămâne una dintre cele mai atractive destinaţii de carieră pentru absolvenţii de top ai ASE, chiar dacă piaţa muncii a devenit mai dificilă pentru tineri, iar distanţa dintre ce se predă la facultate şi ce se cere în bănci este mai mică decât se crede, spun Miruna Neagu, şefă de promoţie la Facultatea de Finanţe, Asigurări, Bănci şi Burse de Valori din ASE Bucureşti, şi Andreea Dumitrache, şefă de promoţie la programul de masterat BANCAS al ASE, care lucrează de peste două decenii în sistemul bancar.",
+    "published": "2026-10-16T21:06:00",
+    "fetched": "2026-10-17T08:41:17.399374",
+    "title_uk": "Кар'єра в банківській сфері залишається привабливою для молоді",
+    "summary_uk": "Банківська індустрія залишається популярною серед випускників ASE. У 2004 році перше зарплата становила 1.080 леїв, тепер — близько 5.000 леїв. Експерти відзначають зменшення розриву між навчанням та вимогами ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кар'єра в банківській сфері залишається привабливою для молоді",
+    "summary": "Банківська індустрія залишається популярною серед випускників ASE. У 2004 році перше зарплата становила 1.080 леїв, тепер — близько 5.000 леїв. Експерти відзначають зменшення розриву між навчанням та вимогами ринку.",
+    "link": "https://www.zf.ro/zf-live/zf-live-miruna-neagu-sefa-promotie-finante-banci-ase-bucuresti-andreea-dumitrache-sefa-promotie-masteratul-bancas-ase-bucuresti-cariera-industria-bancara-atragatoare-tineri-2004-primul-salariu-banca-23251008",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c26c629a72fa",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/lantul-asiatic-de-magazine-mr-diy-cu-produse-ieftine-pentru-casa-intra-in-patru-orase-din-romania-ofera-salarii-de-la-2-700-de-lei-la-6-000-de-lei-net_986448.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Lanțul asiatic de magazine MR. DIY, cu produse ieftine pentru casă, intră în patru oraşe din România. Oferă salarii de la 2.700 de lei la 6.000 de lei net",
+    "body_orig": "Retailerul de articole pentru casă MR. DIY, originar din Malaezia, pregăteşte intrarea în Timişoara, Brăila, Oradea, Bacău, unde face angajări.",
+    "published": "2026-10-17T07:36:36",
+    "fetched": "2026-10-17T08:41:20.686305",
+    "title_uk": "MR. DIY відкриває магазини в чотирьох містах Румунії",
+    "summary_uk": "MR. DIY, малайзійський ритейлер товарів для дому, розширює свою присутність в Румунії. Нові магазини з'являться в Тімішоарі, Браїлі, Орадеа та Бакеу. Компанія пропонує зарплати від 2.700 до 6.000 леїв нетто.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "MR. DIY відкриває магазини в чотирьох містах Румунії",
+    "summary": "MR. DIY, малайзійський ритейлер товарів для дому, розширює свою присутність в Румунії. Нові магазини з'являться в Тімішоарі, Браїлі, Орадеа та Бакеу. Компанія пропонує зарплати від 2.700 до 6.000 леїв нетто.",
+    "link": "https://www.economica.net/lantul-asiatic-de-magazine-mr-diy-cu-produse-ieftine-pentru-casa-intra-in-patru-orase-din-romania-ofera-salarii-de-la-2-700-de-lei-la-6-000-de-lei-net_986448.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "76aa0aeeffd7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/programul-fiscal-al-guvernului-luca-niculescu-are-directia-corecta-dar-cifrele-pe-2027-nu-se-leaga-analiza-cc-tax-advisory_986631.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Programul fiscal al Guvernului Luca Niculescu are direcția corectă, dar cifrele pe 2027 nu se leagă – analiză CC Tax Advisory",
+    "body_orig": "Programul de guvernare depus în Parlament promite ceva ce mediul de afaceri nu a mai auzit de mult: predictibilitate. Ni se promite că nu mai vin taxe surpriză, cota unică rămâne, IMCA dispare de la 1 ianuarie 2027, iar contribuabilul corect devine „partener”.",
+    "published": "2026-10-17T07:22:10",
+    "fetched": "2026-10-17T08:41:20.686326",
+    "title_uk": "Програма уряду Румунії обіцяє податкову стабільність до 2027 року",
+    "summary_uk": "Уряд Румунії обіцяє податкову стабільність, зокрема відсутність нових несподіваних податків. З 1 січня 2027 року планується скасування IMCA. Програма також передбачає партнерство з добросовісними платниками податків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Програма уряду Румунії обіцяє податкову стабільність до 2027 року",
+    "summary": "Уряд Румунії обіцяє податкову стабільність, зокрема відсутність нових несподіваних податків. З 1 січня 2027 року планується скасування IMCA. Програма також передбачає партнерство з добросовісними платниками податків.",
+    "link": "https://www.economica.net/programul-fiscal-al-guvernului-luca-niculescu-are-directia-corecta-dar-cifrele-pe-2027-nu-se-leaga-analiza-cc-tax-advisory_986631.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "159a6dcd2f6f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ministerul-finantelor-romania-mai-are-de-incasat-643-de-miliarde-de-euro-din-pnrr-comisia-eurpeana-va-decide-pana-pe-20-noiembrie-ce-se-va-intampla-cu-banii_986626.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ministerul Finanțelor: România mai are de încasat 6,43 de miliarde de euro din PNRR. Comisia Eurpeană va decide până pe 20 noiembrie ce se va întâmpla cu banii",
+    "body_orig": "Încasarea celor 6,43 de miliarde de euro rămase din Planul Naţional de Redresare şi Rezilienţă (PNRR) este esenţială pentru respectarea ţintei de deficit bugetar, în condiţiile în care plăţile deja efectuate pentru proiecte finanţate prin PNRR, dar nevalidate de Comisia Europeană, vor trebui suportate de la bugetul naţional, a anunșat, vineri, Ministerul Finanţelor.",
+    "published": "2026-10-17T06:27:13",
+    "fetched": "2026-10-17T08:41:20.686346",
+    "title_uk": "Румунія має отримати €6.43 млрд з PNRR до 20 листопада",
+    "summary_uk": "Румунський Міністр фінансів повідомив, що країна ще має отримати €6.43 млрд з Плану національного відновлення та стійкості (PNRR). Ці кошти критично важливі для дотримання бюджетного дефіциту. Платежі за проектами, які не були верифіковані Європейською комісією, повинні бути покриті з національного бюджету.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія має отримати €6.43 млрд з PNRR до 20 листопада",
+    "summary": "Румунський Міністр фінансів повідомив, що країна ще має отримати €6.43 млрд з Плану національного відновлення та стійкості (PNRR). Ці кошти критично важливі для дотримання бюджетного дефіциту. Платежі за проектами, які не були верифіковані Європейською комісією, повинні бути покриті з національного бюджету.",
+    "link": "https://www.economica.net/ministerul-finantelor-romania-mai-are-de-incasat-643-de-miliarde-de-euro-din-pnrr-comisia-eurpeana-va-decide-pana-pe-20-noiembrie-ce-se-va-intampla-cu-banii_986626.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "be6100d7d45d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/fondul-suveran-al-norvegiei-de-2-300-de-miliarde-de-dolari-ar-putea-investi-in-mari-companii-occidentale-din-industria-de-aparare_986621.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Fondul suveran al Norvegiei, de 2.300 de miliarde de dolari, ar putea investi în mari companii occidentale din industria de apărare",
+    "body_orig": "Fondul suveran al Norvegiei, cel mai mare din lume, ar putea primi permisiunea de a investi în mari companii occidentale din industria de apărare, inclusiv Lockheed Martin, Boeing şi Airbus, în urma unei propuneri de modificare a regulilor etice care îi guvernează investiţiile, relatează CNBC, citată de News.ro",
+    "published": "2026-10-17T05:08:50",
+    "fetched": "2026-10-17T08:41:20.686355",
+    "title_uk": "Норвезький суверенний фонд може інвестувати в оборонні компанії",
+    "summary_uk": "Норвезький суверенний фонд, найбільший у світі з активами €2.3 трлн, може отримати дозвіл на інвестиції в оборонні компанії, такі як Lockheed Martin, Boeing та Airbus. Це стане можливим завдяки пропозиції змінити етичні правила інвестування фонду. Зміни можуть вплинути на структуру інвестицій фонду.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Норвезький суверенний фонд може інвестувати в оборонні компанії",
+    "summary": "Норвезький суверенний фонд, найбільший у світі з активами €2.3 трлн, може отримати дозвіл на інвестиції в оборонні компанії, такі як Lockheed Martin, Boeing та Airbus. Це стане можливим завдяки пропозиції змінити етичні правила інвестування фонду. Зміни можуть вплинути на структуру інвестицій фонду.",
+    "link": "https://www.economica.net/fondul-suveran-al-norvegiei-de-2-300-de-miliarde-de-dolari-ar-putea-investi-in-mari-companii-occidentale-din-industria-de-aparare_986621.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1677460adf91",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/16/18-mln-z-15-mln-zaplanovanogo-kapitalu-shho-vidomo-pro-novii-investiciinii-fond-wildfield-ventures-shho-sukaje-ukrayinski-dual-use-startapi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Новий WildField Ventures, зібрав уже $1,8 млн з $15 млн цільового капіталу, дізнався AIN",
+    "body_orig": "WildField Ventures планує вкласти $10-15 млн в українські dual-use стартапи. Третину капіталу планують спрямувати на Україну, решту — на ринки країн-союзників.",
+    "published": "2026-10-17T05:20:00",
+    "fetched": "2026-10-17T08:40:56.111061",
+    "title_uk": "WildField Ventures залучив $1.8 млн для інвестицій в стартапи",
+    "summary_uk": "WildField Ventures оголосив про залучення $1.8 млн з цільових $15 млн. Фонд планує інвестувати $10-15 млн в українські dual-use стартапи, з яких третину капіталу спрямують на Україну, а решту — на ринки союзників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "WildField Ventures залучив $1.8 млн для інвестицій в стартапи",
+    "summary": "WildField Ventures оголосив про залучення $1.8 млн з цільових $15 млн. Фонд планує інвестувати $10-15 млн в українські dual-use стартапи, з яких третину капіталу спрямують на Україну, а решту — на ринки союзників.",
+    "link": "https://ain.ua/2026/10/16/18-mln-z-15-mln-zaplanovanogo-kapitalu-shho-vidomo-pro-novii-investiciinii-fond-wildfield-ventures-shho-sukaje-ukrayinski-dual-use-startapi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3295777a1710",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/17-zovtnya-v-ukrayini-diyatimut-grafiki-vidklyucen-svitla-9w76w0",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "17 жовтня в Україні діятимуть графіки відключень світла",
+    "body_orig": "У суботу, 17 жовтня, в Україні застосовуватимуть графіки обмеження потужності для промисловості та бізнесу, а в частині областей — погодинні відключення електроенергії для всіх категорій споживачів, повідомляє Укренерго.",
+    "published": "2026-10-16T20:30:00",
+    "fetched": "2026-10-17T08:41:08.726947",
+    "title_uk": "В Україні запроваджують графіки відключень електроенергії",
+    "summary_uk": "17 жовтня в Україні діятимуть графіки обмеження потужності для промисловості та бізнесу. У деяких областях запровадять погодинні відключення електроенергії для всіх споживачів. Це рішення ухвалене Укренерго у зв'язку з потребою в економії ресурсів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "В Україні запроваджують графіки відключень електроенергії",
+    "summary": "17 жовтня в Україні діятимуть графіки обмеження потужності для промисловості та бізнесу. У деяких областях запровадять погодинні відключення електроенергії для всіх споживачів. Це рішення ухвалене Укренерго у зв'язку з потребою в економії ресурсів.",
+    "link": "https://speka.ua/news/17-zovtnya-v-ukrayini-diyatimut-grafiki-vidklyucen-svitla-9w76w0",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b9d8e34ee519",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/yak-vprovaditi-okr-bez-byurokratiyi-pyat-risen-dlya-ceo-i-komandi-plql1d",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як впровадити OKR без бюрократії: п’ять рішень для CEO і команди",
+    "body_orig": "OKR часто починають із таблиці. Команди формулюють Objectives, додають Key Results, призначають відповідальних — і вже за кілька тижнів система перетворюється на ще один звіт, який потрібно оновлювати перед зустріччю.",
+    "published": "2026-10-16T20:03:00",
+    "fetched": "2026-10-17T08:41:08.726973",
+    "title_uk": "Як впровадити OKR без бюрократії: п’ять рішень для CEO і команди",
+    "summary_uk": "Стаття пропонує п’ять рішень для CEO та команд щодо впровадження системи OKR без бюрократії. Часто OKR перетворюється на формальність, тому важливо уникати цього. Пропонуються практичні підходи для ефективного використання OKR.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження OKR може покращити управління категоріями, якщо використовувати його для визначення цілей і результатів. Рекомендується адаптувати систему до специфіки ринку."
+    },
+    "tags": [
+      "управління-полицею",
+      "KPI-команди",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Як впровадити OKR без бюрократії: п’ять рішень для CEO і команди",
+    "summary": "Стаття пропонує п’ять рішень для CEO та команд щодо впровадження системи OKR без бюрократії. Часто OKR перетворюється на формальність, тому важливо уникати цього. Пропонуються практичні підходи для ефективного використання OKR.",
+    "link": "https://speka.ua/business/yak-vprovaditi-okr-bez-byurokratiyi-pyat-risen-dlya-ceo-i-komandi-plql1d",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "955a26180cd1",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/meta-staty-booking-u-sferi-dozvillia-iak-bodo-zminiuye-biznes-model/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Мета – стати Booking у сфері дозвілля: як Bodo змінює бізнес-модель",
+    "body_orig": "2026 рік став для Bodo періодом наймасштабніших змін за 17 років роботи. Компанія закрила всі офлайн-точки, переглянула рекламну стратегію та взялася за переосмислення самого бізнесу: від продажу подарункових сертифікатів — до організації дозвілля. Навіщо лідеру ринку відмовлятися від моделі, що рок…",
+    "published": "2026-10-17T03:01:00",
+    "fetched": "2026-10-17T08:41:26.308766",
+    "title_uk": "Bodo змінює бізнес-модель на організацію дозвілля",
+    "summary_uk": "Компанія Bodo закрила всі офлайн-точки та змінила рекламну стратегію. Вона переходить від продажу подарункових сертифікатів до організації дозвілля, прагнучи стати лідером у цій сфері. Це найбільші зміни за 17 років роботи компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на категорійних менеджерів, які працюють з дозвіллям. Рекомендується переглянути асортимент та стратегії просування в цій категорії."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Bodo змінює бізнес-модель на організацію дозвілля",
+    "summary": "Компанія Bodo закрила всі офлайн-точки та змінила рекламну стратегію. Вона переходить від продажу подарункових сертифікатів до організації дозвілля, прагнучи стати лідером у цій сфері. Це найбільші зміни за 17 років роботи компанії.",
+    "link": "https://rau.ua/news/meta-staty-booking-u-sferi-dozvillia-iak-bodo-zminiuye-biznes-model/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
