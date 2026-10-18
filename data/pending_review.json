@@ -401443,5 +401443,683 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "2b7328dbd397",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Krakow-pelen-nowych-mieszkan-Deweloperzy-ruszyli-do-dzielnic-ktore-omijali-9214123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kraków pełen nowych mieszkań. Deweloperzy ruszyli do dzielnic, które omijali",
+    "body_orig": "Po trzech kwartałach 2026 r. oferta nowych mieszkań w Krakowie przekracza 12,1 tys. lokali, a średnia cena metra kwadratowego wzrosła w ciągu roku o 4 proc. Za tym pozornie spokojnym obrazem rynku kryją się jednak istotne zmiany. Deweloperzy coraz śmielej inwestują w dzielnicach, które jeszcze niedawno miały marginalne znaczenie na rynku pierwotnym.",
+    "published": "2026-10-18T11:00:00",
+    "fetched": "2026-10-18T18:28:01.905175",
+    "title_uk": "Краків заповнюється новими квартирами, забудовники активізуються",
+    "summary_uk": "Пропозиція нових квартир у Кракові перевищує 12 тис. одиниць, а середня ціна квадратного метра зросла на 4% за рік. Забудовники почали інвестувати в райони, які раніше не були популярні на первинному ринку. Це свідчить про зміни в попиті та пропозиції на ринку житла.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання пропозиції нових квартир може вплинути на попит на будівельні матеріали та послуги. Розгляньте можливість співпраці з новими забудовниками.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в ринку нерухомості можуть вплинути на попит на товари для дому. Рекомендується переглянути асортимент і стратегії просування в категорії."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Краків заповнюється новими квартирами, забудовники активізуються",
+    "summary": "Пропозиція нових квартир у Кракові перевищує 12 тис. одиниць, а середня ціна квадратного метра зросла на 4% за рік. Забудовники почали інвестувати в райони, які раніше не були популярні на первинному ринку. Це свідчить про зміни в попиті та пропозиції на ринку житла.",
+    "link": "https://www.bankier.pl/wiadomosc/Krakow-pelen-nowych-mieszkan-Deweloperzy-ruszyli-do-dzielnic-ktore-omijali-9214123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2ccfed339bf2",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/wideo/jak-firmy-moga-obnizyc-koszty-ai-mniejsze-modele-zamiast-drogich-tokenow/7e0dw0v",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Firmy przepłacają za AI? Jest inny sposób na obniżenie kosztów",
+    "body_orig": "Firmy wydają miliardy na rozwój sztucznej inteligencji, ale coraz ważniejsze staje się pytanie, jak ograniczyć koszty jej wykorzystania. Zdaniem Lightning AI odpowiedzią nie musi być polowanie na tańsze tokeny. Znacznie większe oszczędności może przynieść budowanie mniejszych modeli, precyzyjnie dostosowanych do danych i konkretnych zadań przedsiębiorstwa.",
+    "published": "2026-10-18T17:00:00",
+    "fetched": "2026-10-18T18:28:03.801219",
+    "title_uk": "Компанії переплачують за штучний інтелект: є інші варіанти",
+    "summary_uk": "Фірми витрачають мільярди на розвиток штучного інтелекту, але виникає питання, як знизити витрати. Lightning AI пропонує альтернативу: створення менших моделей, адаптованих до конкретних даних і завдань. Це може призвести до значних заощаджень.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Розгляньте можливість впровадження менших моделей AI для оптимізації витрат. Це може знизити загальні витрати на технології.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження менших моделей AI може допомогти в оптимізації управління категоріями та зниженні витрат на технології."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Компанії переплачують за штучний інтелект: є інші варіанти",
+    "summary": "Фірми витрачають мільярди на розвиток штучного інтелекту, але виникає питання, як знизити витрати. Lightning AI пропонує альтернативу: створення менших моделей, адаптованих до конкретних даних і завдань. Це може призвести до значних заощаджень.",
+    "link": "https://businessinsider.com.pl/wideo/jak-firmy-moga-obnizyc-koszty-ai-mniejsze-modele-zamiast-drogich-tokenow/7e0dw0v",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ec3b26617087",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/zaczyna-sie-sezon-wynikow-spolek-z-sandp-500-trzeci-kwartal-zaskakuje-inwestorow/s1de097",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Amerykańskie spółki zaskakują wzrostem zysków. To już ósmy taki kwartał",
+    "body_orig": "W USA rozpoczął się sezon publikacji wyników przez giełdowe spółki. Spośród z tych, które już podały dane, 84 proc. zanotowało EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej wynoszącej 78 proc. i powyżej 10-letniej średniej 77 proc. — poinformował FactSet.",
+    "published": "2026-10-18T13:30:24",
+    "fetched": "2026-10-18T18:28:03.801250",
+    "title_uk": "Американські компанії демонструють зростання прибутків",
+    "summary_uk": "У США розпочався сезон звітності компаній. 84% з них перевищили прогнози по EPS, що вище 5-річної середньої в 78% та 10-річної в 77%. Це вже восьмий квартал поспіль зростання прибутків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Американські компанії демонструють зростання прибутків",
+    "summary": "У США розпочався сезон звітності компаній. 84% з них перевищили прогнози по EPS, що вище 5-річної середньої в 78% та 10-річної в 77%. Це вже восьмий квартал поспіль зростання прибутків.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/zaczyna-sie-sezon-wynikow-spolek-z-sandp-500-trzeci-kwartal-zaskakuje-inwestorow/s1de097",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "49ad27dc9fe0",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/rekordowe-wyniki-lidla-w-polsce-przychody-i-zyski-nie-byly-jeszcze-tak-wysokie/xxph8h4",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rekordowe żniwa Lidla w Polsce. Wzrost zysku podąża za rozwojem sieci sklepów",
+    "body_orig": "Polski oddział Lidla ma za sobą najlepszy rok finansowy w historii swojej obecności nad Wisłą. Przychody sieci urosły do 43,4 mld zł, a zysk netto pierwszy raz zbliżył się do okrągłej bariery.",
+    "published": "2026-10-18T11:47:43",
+    "fetched": "2026-10-18T18:28:03.801266",
+    "title_uk": "Lidl Польща звітує про рекордний прибуток у 2026 році",
+    "summary_uk": "Польський Lidl оголосив про найкращий фінансовий рік з доходами €9.5 млрд. Чистий прибуток вперше наблизився до значної позначки. Розширення мережі магазинів сприяло зростанню фінансових показників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання доходів Lidl може свідчити про підвищений попит на FMCG. Дистриб'юторам варто переглянути свої стратегії співпраці з мережею.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання Lidl може вплинути на конкуренцію в категоріях. Рекомендується переглянути асортимент і цінову політику для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Lidl Польща звітує про рекордний прибуток у 2026 році",
+    "summary": "Польський Lidl оголосив про найкращий фінансовий рік з доходами €9.5 млрд. Чистий прибуток вперше наблизився до значної позначки. Розширення мережі магазинів сприяло зростанню фінансових показників.",
+    "link": "https://businessinsider.com.pl/biznes/rekordowe-wyniki-lidla-w-polsce-przychody-i-zyski-nie-byly-jeszcze-tak-wysokie/xxph8h4",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bf81f4e2ea7f",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/obligacje-skarbowe-kusza-rekordowymi-rentownosciami-inwestorzy-ruszyli-na-zakupy/lesyv77",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Obligacje skarbowe kuszą zyskiem i przyciągają potężny kapitał. Tak można zarobić",
+    "body_orig": "Choć nagłówki mediów zdominowane są ostatnio przez alarmujące tytuły o wzroście rentowności obligacji skarbowych do poziomów najwyższych od wielu lat, to w tle i bez wielkiego rozgłosu płyną na ten rynek miliardy. Szansa inwestycyjna pojawia się też dla inwestorów indywidualnych.",
+    "published": "2026-10-18T10:11:16",
+    "fetched": "2026-10-18T18:28:03.801274",
+    "title_uk": "Облігації в Польщі приваблюють інвесторів завдяки високій прибутковості",
+    "summary_uk": "Висока прибутковість польських облігацій державного боргу привертає мільярди євро інвестицій. Це створює можливості для індивідуальних інвесторів. Ринок облігацій демонструє зростання, що не залишає без уваги фінансові установи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інтересу до облігацій може вплинути на фінансування дистриб'юторів. Розгляньте можливості для інвестування в облігації для покращення фінансової стабільності.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Облігації в Польщі приваблюють інвесторів завдяки високій прибутковості",
+    "summary": "Висока прибутковість польських облігацій державного боргу привертає мільярди євро інвестицій. Це створює можливості для індивідуальних інвесторів. Ринок облігацій демонструє зростання, що не залишає без уваги фінансові установи.",
+    "link": "https://businessinsider.com.pl/finanse/obligacje-skarbowe-kusza-rekordowymi-rentownosciami-inwestorzy-ruszyli-na-zakupy/lesyv77",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0ae7a1c9983e",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/polska-w-top-20-gospodarek-swiata-the-guardian-koniec-taniej-sily-roboczej-7341447002568736a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska w top 20 gospodarek świata. \"The Guardian\": Koniec taniej siły roboczej",
+    "body_orig": "Polska gospodarka przekroczyła barierę biliona dolarów i znalazła się w dwudziestce największych na świecie. Zmieniają się trendy migracyjne, a Polacy masowo wracają z emigracji. Rosną jednak koszty życia, a Warszawa stała się droższa od Rzymu czy Lizbony.",
+    "published": "2026-10-18T17:51:51",
+    "fetched": "2026-10-18T18:28:06.320887",
+    "title_uk": "Польща увійшла до топ-20 найбільших економік світу",
+    "summary_uk": "Польська економіка перевищила трильйон доларів і потрапила до двадцятки найбільших у світі. Зміни в міграційних трендах призвели до повернення багатьох поляків з-за кордону. Водночас зростають витрати на життя, і Варшава стала дорожчою за Рим і Лісабон.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання витрат на життя може вплинути на споживчий попит. Розгляньте коригування цін на продукцію.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в економіці можуть вплинути на споживчі звички. Рекомендується переглянути асортимент з урахуванням нових трендів."
+    },
+    "tags": [
+      "економіка",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща увійшла до топ-20 найбільших економік світу",
+    "summary": "Польська економіка перевищила трильйон доларів і потрапила до двадцятки найбільших у світі. Зміни в міграційних трендах призвели до повернення багатьох поляків з-за кордону. Водночас зростають витрати на життя, і Варшава стала дорожчою за Рим і Лісабон.",
+    "link": "https://www.money.pl/gospodarka/polska-w-top-20-gospodarek-swiata-the-guardian-koniec-taniej-sily-roboczej-7341447002568736a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aec43559e522",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/biznes/demografia-uderza-w-rynek-mieszkaniowy-pustoszenie-polski-i-problem-sloikow-opinia-7341280572471328a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Mieszkania po seniorach na rynku. Wielki problem młodych [OPINIA]",
+    "body_orig": "Na rynek nieruchomości będzie trafiać coraz więcej lokali odziedziczonych po seniorach. Może to wywołać znaczące spadki cen. \"Problemem będzie jednak to, że spora część nieruchomości znajduje się w miejscach, w których niewiele osób chce mieszkać\" – pisze w opinii dla money.pl Kamil Fejfer.",
+    "published": "2026-10-18T08:07:13",
+    "fetched": "2026-10-18T18:28:06.320932",
+    "title_uk": "Зростання кількості квартир після пенсіонерів може знизити ціни",
+    "summary_uk": "На ринку нерухомості Польщі очікується збільшення пропозиції квартир, успадкованих від пенсіонерів. Це може призвести до зниження цін, особливо в регіонах з низьким попитом. Експерт Кamil Fejfer зазначає, що багато таких об'єктів розташовані в малопривабливих місцях.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання кількості квартир після пенсіонерів може знизити ціни",
+    "summary": "На ринку нерухомості Польщі очікується збільшення пропозиції квартир, успадкованих від пенсіонерів. Це може призвести до зниження цін, особливо в регіонах з низьким попитом. Експерт Кamil Fejfer зазначає, що багато таких об'єктів розташовані в малопривабливих місцях.",
+    "link": "https://www.money.pl/biznes/demografia-uderza-w-rynek-mieszkaniowy-pustoszenie-polski-i-problem-sloikow-opinia-7341280572471328a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f61febc8ed43",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kuyumculardan-ikinci-baski-altin-uyarisi/4092614",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Kuyumculardan \"ikinci baskı altın\" uyarısı",
+    "body_orig": "Ankara Kuyumcular ve Saatçiler Odası Başkanı Sönmez, piyasada daha düşük fiyata satılan ve orijinalinden ayırt edilmesi zor olan ikinci baskı altınlara karşı tüketicileri dikkatli olmaları konusunda uyardı.",
+    "published": "2026-10-18T11:30:42",
+    "fetched": "2026-10-18T18:28:24.236965",
+    "title_uk": "Туреччина попереджає про небезпеку підробленого золота",
+    "summary_uk": "Голова Анкарської асоціації ювелірів Сьонмез закликав споживачів бути обережними з 'другим тиражем' золота, яке важко відрізнити від оригіналу. Цей товар продається за нижчими цінами, що може призвести до фінансових втрат. Споживачам рекомендують перевіряти сертифікати якості.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може вплинути на репутацію виробників, якщо споживачі почнуть сумніватися в якості продукції. Важливо забезпечити прозорість у сертифікації.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Туреччина попереджає про небезпеку підробленого золота",
+    "summary": "Голова Анкарської асоціації ювелірів Сьонмез закликав споживачів бути обережними з 'другим тиражем' золота, яке важко відрізнити від оригіналу. Цей товар продається за нижчими цінами, що може призвести до фінансових втрат. Споживачам рекомендують перевіряти сертифікати якості.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kuyumculardan-ikinci-baski-altin-uyarisi/4092614",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ea700d5aeff",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Güneydoğu'nun tekstil ihracatında kumaş zirvede yer aldı",
+    "body_orig": "Güneydoğu Anadolu Bölgesi'nden yılın 9 ayında gerçekleştirilen tekstil ihracatında kumaş, yüzde 5,3 artış ve 731 milyon 861 bin dolarla ilk sırada yer aldı.",
+    "published": "2026-10-18T11:27:42",
+    "fetched": "2026-10-18T18:28:24.236973",
+    "title_uk": "Текстильний експорт Туреччини: зростання на 5.3% за 9 місяців",
+    "summary_uk": "У південно-східному регіоні Туреччини за 9 місяців 2026 року експорт текстилю зріс на 5%. Найбільшу частку займає експорт тканини, що склав $732 млн. Це свідчить про стабільний попит на текстильні вироби з цього регіону.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту тканини вказує на стабільний попит. Виробники можуть розглянути можливість збільшення виробництва або виходу на нові ринки.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Текстильний експорт Туреччини: зростання на 5.3% за 9 місяців",
+    "summary": "У південно-східному регіоні Туреччини за 9 місяців 2026 року експорт текстилю зріс на 5%. Найбільшу частку займає експорт тканини, що склав $732 млн. Це свідчить про стабільний попит на текстильні вироби з цього регіону.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "697f5b880b02",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/opinii/cristina-dumitrescu-director-dezvoltare-hotspot-spatiile-flex-office-componenta-strategica-pietei-birouri-urmatoarea-etapa-dezvoltare-pietei-definita-cati-operatori-flex-office-exista-ci-capacitatea-23262181",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cristina Dumitrescu, director de dezvoltare, Hotspot: Spaţiile flex office, o componentă strategică a pieţei de birouri. Următoarea etapă de dezvoltare a pieţei nu va fi definită de câţi operatori flex office există, ci de capacitatea acestora de a oferi o experienţă comparabilă cu cea a unui sediu propriu",
+    "body_orig": "",
+    "published": "2026-10-18T17:00:00",
+    "fetched": "2026-10-18T18:28:26.793407",
+    "title_uk": "Hotspot: гнучкі офіси стають стратегічними для ринку",
+    "summary_uk": "Кристина Думітреску, директор з розвитку Hotspot, зазначила, що ринок гнучких офісів буде визначатися не кількістю операторів, а їхньою здатністю забезпечити досвід, подібний до власного офісу. Це свідчить про зміну фокусу в індустрії, що може вплинути на конкурентоспроможність компаній.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зміни в попиті на гнучкі офіси. Це може вплинути на стратегії розміщення товарів у ритейлі."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Hotspot: гнучкі офіси стають стратегічними для ринку",
+    "summary": "Кристина Думітреску, директор з розвитку Hotspot, зазначила, що ринок гнучких офісів буде визначатися не кількістю операторів, а їхньою здатністю забезпечити досвід, подібний до власного офісу. Це свідчить про зміну фокусу в індустрії, що може вплинути на конкурентоспроможність компаній.",
+    "link": "https://www.zf.ro/opinii/cristina-dumitrescu-director-dezvoltare-hotspot-spatiile-flex-office-componenta-strategica-pietei-birouri-urmatoarea-etapa-dezvoltare-pietei-definita-cati-operatori-flex-office-exista-ci-capacitatea-23262181",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "db80f67d78e9",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/constructii-imobiliare/chiriile-au-crescut-cu-39-intr-un-an-de-7-ori-mai-repede-decat-salariile-dupa-rata-si-cosul-zilnic-la-un-salariu-mediu-raman-47-de-euro-23262619",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Chiriile au crescut cu 39% într-un an, de 7 ori mai repede decât salariile. După rată şi coşul zilnic, la un salariu mediu rămân 47 de euro",
+    "body_orig": "",
+    "published": "2026-10-18T16:53:00",
+    "fetched": "2026-10-18T18:28:26.793428",
+    "title_uk": "Орендна плата в Румунії зросла на 39% за рік",
+    "summary_uk": "Орендна плата в Румунії зросла на 39% за рік, що в 7 разів перевищує зростання зарплат. Середня зарплата після витрат на житло та продукти складає лише €47. Це свідчить про зростаючий тиск на споживачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання орендної плати може вплинути на споживчі витрати, що варто врахувати при плануванні промоакцій та цінової політики."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Орендна плата в Румунії зросла на 39% за рік",
+    "summary": "Орендна плата в Румунії зросла на 39% за рік, що в 7 разів перевищує зростання зарплат. Середня зарплата після витрат на житло та продукти складає лише €47. Це свідчить про зростаючий тиск на споживачів.",
+    "link": "https://www.zf.ro/constructii-imobiliare/chiriile-au-crescut-cu-39-intr-un-an-de-7-ori-mai-repede-decat-salariile-dupa-rata-si-cosul-zilnic-la-un-salariu-mediu-raman-47-de-euro-23262619",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dad7e200de4f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/cum-a-ajuns-corrado-cazacu-cu-dentop-in-topul-clinicilor-stomatologice-din-romania-cu-un-business-de-aproape-100-mil-lei-23262179",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum a ajuns Corrado Cazacu cu DentOP în topul clinicilor stomatologice din România, cu un business de aproape 100 mil. lei",
+    "body_orig": "",
+    "published": "2026-10-18T15:00:00",
+    "fetched": "2026-10-18T18:28:26.793446",
+    "title_uk": "DentOP під керівництвом Corrado Cazacu досягла €100 млн в Румунії",
+    "summary_uk": "DentOP, стоматологічна клініка під керівництвом Corrado Cazacu, стала однією з провідних у Румунії з бізнесом майже €100 млн. Клініка зосереджена на наданні якісних стоматологічних послуг та розширенні мережі. Успіх DentOP демонструє зростаючий попит на стоматологічні послуги в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "DentOP під керівництвом Corrado Cazacu досягла €100 млн в Румунії",
+    "summary": "DentOP, стоматологічна клініка під керівництвом Corrado Cazacu, стала однією з провідних у Румунії з бізнесом майже €100 млн. Клініка зосереджена на наданні якісних стоматологічних послуг та розширенні мережі. Успіх DentOP демонструє зростаючий попит на стоматологічні послуги в країні.",
+    "link": "https://www.zf.ro/eveniment/cum-a-ajuns-corrado-cazacu-cu-dentop-in-topul-clinicilor-stomatologice-din-romania-cu-un-business-de-aproape-100-mil-lei-23262179",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0e5da09abc90",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/orange-anunta-extra-optiuni-noi-valabile-pentru-toti-abonatii_986415.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Anunț de la Orange pentru toți clienții din România. Extra opțiuni noi",
+    "body_orig": "Orange Romania anunță o nouă extra opțiune, disponibilă abonaților săi începând cu 15 octombrie. Prin parteneriatul cu CANAL+ CONTENT Benelux &#038; Central Europe, operatorul le oferă utilizatorilor acces la un catalog variat de filme și seriale, inclusiv producții turcești populare, precum și la numeroase canale live și SMART TV.",
+    "published": "2026-10-18T15:02:34",
+    "fetched": "2026-10-18T18:28:29.140533",
+    "title_uk": "Orange Romania запускає нову опцію для абонентів",
+    "summary_uk": "Orange Romania оголосила про запуск нової додаткової опції для абонентів з 15 жовтня. У партнерстві з CANAL+ CONTENT Benelux & Central Europe користувачі отримають доступ до різноманітного каталогу фільмів і серіалів, включаючи популярні турецькі виробництва, а також до численних каналів у прямому ефірі та SMART TV.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Orange Romania запускає нову опцію для абонентів",
+    "summary": "Orange Romania оголосила про запуск нової додаткової опції для абонентів з 15 жовтня. У партнерстві з CANAL+ CONTENT Benelux & Central Europe користувачі отримають доступ до різноманітного каталогу фільмів і серіалів, включаючи популярні турецькі виробництва, а також до численних каналів у прямому ефірі та SMART TV.",
+    "link": "https://www.economica.net/orange-anunta-extra-optiuni-noi-valabile-pentru-toti-abonatii_986415.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c87446bc370c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/zile-decisive-pentru-noul-guvern-ce-le-a-cerut-premierul-desemnat-luca-niculescu-ministrilor-inaintea-votului-de-investitura_986884.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Zile decisive pentru noul Guvern: Ce le-a cerut premierul desemnat Luca Niculescu miniștrilor înaintea votului de învestitură",
+    "body_orig": "Luca Niculescu, propus pentru funcția de prim-ministru, s-a întâlnit duminică, 18 octombrie, cu membrii echipei propuse pentru viitorul Guvern, înaintea audierilor din Parlament. Acesta a anunțat că diplomația economică va reprezenta una dintre prioritățile viitorului Executiv, obiectivul fiind atragerea de investiții, identificarea de noi piețe pentru companiile românești și crearea de locuri de muncă.",
+    "published": "2026-10-18T15:01:34",
+    "fetched": "2026-10-18T18:28:29.140543",
+    "title_uk": "Лука Нікулеску визначив пріоритети нового уряду Румунії",
+    "summary_uk": "Лука Нікулеску, кандидат на посаду прем'єр-міністра Румунії, зустрівся з членами майбутнього уряду перед голосуванням у парламенті. Він підкреслив важливість економічної дипломатії, зокрема залучення інвестицій, пошук нових ринків для румунських компаній та створення нових робочих місць.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Лука Нікулеску визначив пріоритети нового уряду Румунії",
+    "summary": "Лука Нікулеску, кандидат на посаду прем'єр-міністра Румунії, зустрівся з членами майбутнього уряду перед голосуванням у парламенті. Він підкреслив важливість економічної дипломатії, зокрема залучення інвестицій, пошук нових ринків для румунських компаній та створення нових робочих місць.",
+    "link": "https://www.economica.net/zile-decisive-pentru-noul-guvern-ce-le-a-cerut-premierul-desemnat-luca-niculescu-ministrilor-inaintea-votului-de-investitura_986884.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8de502fd12e7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/apare-un-nou-razboi-al-resurselor-china-restrictioneaza-exportul-tehnologiilor-pentru-panouri-solare-si-blocheaza-extinderea-productiei-in-sua-si-india_986865.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Apare un nou război al resurselor: China restricționează exportul tehnologiilor pentru panouri solare și blochează extinderea producției în SUA și India",
+    "body_orig": "China vrea controlul exporturilor unui număr de 12 tehnologii folosite pentru producerea echipamentelor solare, citând îngrijorări legate de securitatea naţională, ca parte a unei revizuiri mai ample ce acoperă AI şi biotehnologia, transmite Reuters.",
+    "published": "2026-10-18T13:20:19",
+    "fetched": "2026-10-18T18:28:29.140567",
+    "title_uk": "Китай обмежує експорт технологій для сонячних панелей",
+    "summary_uk": "Китай вводить контроль за експортом 12 технологій для виробництва сонячних панелей через загрози національній безпеці. Це частина ширшої ревізії, що охоплює штучний інтелект і біотехнології. Обмеження можуть вплинути на виробництво в США та Індії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Китай обмежує експорт технологій для сонячних панелей",
+    "summary": "Китай вводить контроль за експортом 12 технологій для виробництва сонячних панелей через загрози національній безпеці. Це частина ширшої ревізії, що охоплює штучний інтелект і біотехнології. Обмеження можуть вплинути на виробництво в США та Індії.",
+    "link": "https://www.economica.net/apare-un-nou-razboi-al-resurselor-china-restrictioneaza-exportul-tehnologiilor-pentru-panouri-solare-si-blocheaza-extinderea-productiei-in-sua-si-india_986865.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a1088b6bd5c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/carrefour-estimeaza-pierderi-de-zeci-de-milioane-de-euro-dupa-protestele-violente-din-franta-1-500-de-comercianti-afectati_986859.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Carrefour estimează pierderi de zeci de milioane de euro după protestele violente din Franța. 1.500 de comercianți afectați",
+    "body_orig": "Alexandre Bompard, directorul general al grupului Carrefour și președintele Federației Comerțului și Distribuției (FCD), estimează că pagubele ar putea ajunge la „sute de milioane de euro” și solicită accelerarea procedurilor de despăgubire. Camerele de comerț și industrie se tem că acesta ar putea fi „lovitura finală” pentru unele afaceri, potrivit postului de televiziune BFM Business.",
+    "published": "2026-10-18T13:08:03",
+    "fetched": "2026-10-18T18:28:29.140575",
+    "title_uk": "Carrefour прогнозує значні втрати через протести у Франції",
+    "summary_uk": "Генеральний директор Carrefour оцінює збитки в сотні мільйонів євро через насильницькі протести у Франції. 1.500 торговців постраждали від наслідків. Компанія закликає прискорити процедури компенсації для бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Carrefour прогнозує значні втрати через протести у Франції",
+    "summary": "Генеральний директор Carrefour оцінює збитки в сотні мільйонів євро через насильницькі протести у Франції. 1.500 торговців постраждали від наслідків. Компанія закликає прискорити процедури компенсації для бізнесу.",
+    "link": "https://www.economica.net/carrefour-estimeaza-pierderi-de-zeci-de-milioane-de-euro-dupa-protestele-violente-din-franta-1-500-de-comercianti-afectati_986859.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c3757f92c86",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/16/monetizaciiu-video-ta-platni-konsultaciyi-linkedin-zapuskaje-novi-instrumenti-u-zastosunku/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Монетизація відео та платні консультації: LinkedIn запускає нові інструменти у застосунку",
+    "body_orig": "Серед інших новинок — цифрові візитівки та окрема стрічка публікацій від професійних контактів.",
+    "published": "2026-10-18T15:40:00",
+    "fetched": "2026-10-18T18:28:08.921525",
+    "title_uk": "LinkedIn запускає нові інструменти для монетизації контенту",
+    "summary_uk": "LinkedIn представив нові функції, зокрема монетизацію відео та платні консультації. Також з'являться цифрові візитівки та окрема стрічка публікацій від професійних контактів. Ці зміни можуть вплинути на спосіб взаємодії користувачів з платформою.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "LinkedIn запускає нові інструменти для монетизації контенту",
+    "summary": "LinkedIn представив нові функції, зокрема монетизацію відео та платні консультації. Також з'являться цифрові візитівки та окрема стрічка публікацій від професійних контактів. Ці зміни можуть вплинути на спосіб взаємодії користувачів з платформою.",
+    "link": "https://ain.ua/2026/10/16/monetizaciiu-video-ta-platni-konsultaciyi-linkedin-zapuskaje-novi-instrumenti-u-zastosunku/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
