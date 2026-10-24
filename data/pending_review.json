@@ -424359,5 +424359,805 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "3c22c9b1cdf2",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Inwestor-Janusz-Krypto-i-jego-goscie-ze-swiata-kryptoaktywow-9217825.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Bitcoin znów powyżej 100 tys. dolarów? Eksperci wskazali warunki i ostrzegli przed jednym błędem",
+    "body_orig": "Bitcoin może wrócić powyżej 100 tys. dolarów jeszcze przed końcem roku, a w dłuższej perspektywie osiągnąć nawet milion dolarów – oceniali uczestnicy panelu „Inwestor Janusz Krypto i jego goście ze świata kryptoaktywów” podczas Forum Finansów Bankier.pl. Eksperci podkreślali jednak, że rynek kryptowalut coraz silniej reaguje na te same czynniki co tradycyjne aktywa, a historyczne cykle nie dają gwarancji przyszłych zysków. Wśród najważniejszych wyzwań dla branży w Polsce wskazali również brak wdrożenia unijnych regulacji MiCA.",
+    "published": "2026-10-24T09:30:00",
+    "fetched": "2026-10-24T08:58:19.541092",
+    "title_uk": "Експерти прогнозують зростання Bitcoin до $100 тис.",
+    "summary_uk": "На форумі фінансів Bankier.pl обговорили можливість повернення Bitcoin вище $100 тис. до кінця року. Учасники панелі вважають, що в довгостроковій перспективі криптовалюта може досягти $1 млн. Проте вони застерегли, що ринок криптовалют стає чутливим до традиційних економічних факторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Експерти прогнозують зростання Bitcoin до $100 тис.",
+    "summary": "На форумі фінансів Bankier.pl обговорили можливість повернення Bitcoin вище $100 тис. до кінця року. Учасники панелі вважають, що в довгостроковій перспективі криптовалюта може досягти $1 млн. Проте вони застерегли, що ринок криптовалют стає чутливим до традиційних економічних факторів.",
+    "link": "https://www.bankier.pl/wiadomosc/Inwestor-Janusz-Krypto-i-jego-goscie-ze-swiata-kryptoaktywow-9217825.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "594decca8a72",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Budzet-na-2027-rok-pod-presja-Wiceminister-wskazuje-na-koniecznosc-ciec-9217818.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Budżet na 2027 rok pod presją. Wiceminister wskazuje na konieczność cięć",
+    "body_orig": "Rezygnacja z podwyżki stawek CIT dla największych firm oznacza konieczność szukania oszczędności w budżecie na 2027 rok – powiedział PAP wiceminister finansów Jarosław Neneman.",
+    "published": "2026-10-24T08:07:00",
+    "fetched": "2026-10-24T08:58:19.541116",
+    "title_uk": "Польща шукає економії в бюджеті на 2027 рік",
+    "summary_uk": "Віце-міністр фінансів Польщі повідомив про необхідність скорочення витрат у бюджеті на 2027 рік через відмову від підвищення ставок CIT для великих компаній. Це може вплинути на фінансування різних державних програм. Уряд шукає способи зменшення витрат.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення державних витрат може призвести до зниження споживчого попиту, що вплине на обсяги продажів у дистрибуції. Рекомендується переглянути стратегії закупівель.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польща шукає економії в бюджеті на 2027 рік",
+    "summary": "Віце-міністр фінансів Польщі повідомив про необхідність скорочення витрат у бюджеті на 2027 рік через відмову від підвищення ставок CIT для великих компаній. Це може вплинути на фінансування різних державних програм. Уряд шукає способи зменшення витрат.",
+    "link": "https://www.bankier.pl/wiadomosc/Budzet-na-2027-rok-pod-presja-Wiceminister-wskazuje-na-koniecznosc-ciec-9217818.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "731afc18f8a5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/podatki/sejm-zatrzymal-podwyzke-cit-budzet-czeka-trudny-rok/p1wk69h",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Sejm odrzucił podwyżkę CIT, a zatwierdził obniżkę PIT. Budżet w jeszcze większym kryzysie",
+    "body_orig": "Posłowie odrzucili planowaną podwyżkę podatku CIT dla największych przedsiębiorstw. Decyzja Sejmu wymusi poszukiwanie oszczędności w przyszłorocznym budżecie. W grę wchodzą także inne istotne zmiany w systemie podatkowym.",
+    "published": "2026-10-24T07:37:10",
+    "fetched": "2026-10-24T08:58:20.494151",
+    "title_uk": "Сейм Польщі відхилив підвищення CIT, затвердив зниження PIT",
+    "summary_uk": "Польський Сейм відхилив план підвищення податку на прибуток для великих компаній. Це рішення призведе до необхідності шукати нові джерела економії в бюджеті на наступний рік. Також можливі інші зміни в податковій системі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження PIT може стимулювати споживчий попит, що позитивно вплине на продажі в дистрибуції. Розгляньте можливість адаптації асортименту до змін у споживчих звичках.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Сейм Польщі відхилив підвищення CIT, затвердив зниження PIT",
+    "summary": "Польський Сейм відхилив план підвищення податку на прибуток для великих компаній. Це рішення призведе до необхідності шукати нові джерела економії в бюджеті на наступний рік. Також можливі інші зміни в податковій системі.",
+    "link": "https://businessinsider.com.pl/gospodarka/podatki/sejm-zatrzymal-podwyzke-cit-budzet-czeka-trudny-rok/p1wk69h",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1dd3e143c02f",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-car-market-holds-sixth-place-despite-sales-decline-228540",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish car market holds sixth place despite sales decline",
+    "body_orig": "Türkiye remained Europe’s sixth-largest passenger car market in the first nine months of 2026 despite a 15.45 percent decline in sales, while also retaining sixth place in battery-electric car sales.",
+    "published": "2026-10-24T06:28:08",
+    "fetched": "2026-10-24T08:58:46.045468",
+    "title_uk": "Туреччина зберігає шосте місце на ринку легкових автомобілів Європи",
+    "summary_uk": "У першій половині 2026 року Туреччина залишилася шостим найбільшим ринком легкових автомобілів у Європі, незважаючи на зниження продажів на 15%. Також країна утримує шосту позицію за продажами електромобілів. Це свідчить про стійкість ринку в умовах економічних викликів.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зниження продажів може свідчити про зменшення конкуренції на ринку. Це може бути можливістю для турецьких виробників, які шукають нові ринки в Україні, Польщі або Румунії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина зберігає шосте місце на ринку легкових автомобілів Європи",
+    "summary": "У першій половині 2026 року Туреччина залишилася шостим найбільшим ринком легкових автомобілів у Європі, незважаючи на зниження продажів на 15%. Також країна утримує шосту позицію за продажами електромобілів. Це свідчить про стійкість ринку в умовах економічних викликів.",
+    "link": "https://www.hurriyetdailynews.com/turkish-car-market-holds-sixth-place-despite-sales-decline-228540",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "48c1df89821b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/imf-cites-gains-in-turkiyes-fiscal-transparency-228539",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "IMF cites gains in Türkiye’s fiscal transparency",
+    "body_orig": "Türkiye has made significant progress in fiscal transparency over the past decade, placing it among the leading countries assessed by the International Monetary Fund, according to an updated report.",
+    "published": "2026-10-24T06:26:31",
+    "fetched": "2026-10-24T08:58:46.045484",
+    "title_uk": "Туреччина покращила фінансову прозорість за версією МВФ",
+    "summary_uk": "Туреччина досягла значного прогресу у фінансовій прозорості за останнє десятиліття. Це підвищило її позиції серед країн, оцінених Міжнародним валютним фондом. Оновлений звіт підтверджує позитивні зміни у фінансовій політиці країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Покращення фінансової прозорості може сприяти залученню іноземних інвестицій, що вигідно для турецьких виробників, які шукають нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина покращила фінансову прозорість за версією МВФ",
+    "summary": "Туреччина досягла значного прогресу у фінансовій прозорості за останнє десятиліття. Це підвищило її позиції серед країн, оцінених Міжнародним валютним фондом. Оновлений звіт підтверджує позитивні зміни у фінансовій політиці країни.",
+    "link": "https://www.hurriyetdailynews.com/imf-cites-gains-in-turkiyes-fiscal-transparency-228539",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "caba884e5744",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/lower-inflation-helps-turkish-banks-withstand-shocks-s-p-228537",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Lower inflation helps Turkish banks withstand shocks: S&P",
+    "body_orig": "Progress in reducing inflation is helping Türkiye’s banks withstand global and regional shocks, keeping the risks manageable despite pressure from high financing costs, an S&amp;P Global Ratings director said.",
+    "published": "2026-10-24T06:23:36",
+    "fetched": "2026-10-24T08:58:46.045493",
+    "title_uk": "Зниження інфляції допомагає турецьким банкам витримувати шоки",
+    "summary_uk": "Зниження інфляції в Туреччині дозволяє банкам краще справлятися з глобальними та регіональними шоками. Це зменшує ризики, незважаючи на високі витрати на фінансування. За словами директора S&P Global Ratings, ситуація залишається контрольованою.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження інфляції може сприяти стабільності фінансування для турецьких виробників, що шукають нові ринки. Це може полегшити вихід на ринки UA/PL/RO.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Зниження інфляції допомагає турецьким банкам витримувати шоки",
+    "summary": "Зниження інфляції в Туреччині дозволяє банкам краще справлятися з глобальними та регіональними шоками. Це зменшує ризики, незважаючи на високі витрати на фінансування. За словами директора S&P Global Ratings, ситуація залишається контрольованою.",
+    "link": "https://www.hurriyetdailynews.com/lower-inflation-helps-turkish-banks-withstand-shocks-s-p-228537",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0dbca0d92c25",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/energy-financial-connectivity-take-center-stage-at-verona-eurasian-economic-forum/4099169",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Energy, financial connectivity take center stage at Verona Eurasian Economic Forum",
+    "body_orig": "Turkish Energy Minister Alparslan Bayraktar outlines plans to expand renewables, nuclear power, electricity infrastructure as Ankara seeks to strengthen its role as regional energy hub",
+    "published": "2026-10-24T04:58:32",
+    "fetched": "2026-10-24T08:58:48.655291",
+    "title_uk": "Туреччина планує розширення відновлювальної енергетики та ядерної енергетики",
+    "summary_uk": "Міністр енергетики Туреччини Алпарслан Байрактарай оголосив про плани розширення відновлювальних джерел енергії та ядерної енергетики. Це частина зусиль Анкари зміцнити свою роль регіонального енергетичного хабу. Конкретні цифри не наводяться.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі або Румунії, зокрема в енергетичному секторі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина планує розширення відновлювальної енергетики та ядерної енергетики",
+    "summary": "Міністр енергетики Туреччини Алпарслан Байрактарай оголосив про плани розширення відновлювальних джерел енергії та ядерної енергетики. Це частина зусиль Анкари зміцнити свою роль регіонального енергетичного хабу. Конкретні цифри не наводяться.",
+    "link": "https://www.aa.com.tr/en/economy/energy-financial-connectivity-take-center-stage-at-verona-eurasian-economic-forum/4099169",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b5f1f053bf2a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/yakit-maliyetlerindeki-keskin-artis-abdli-hava-yolu-sirketlerinin-karliligini-baskiliyor/4099272",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Yakıt maliyetlerindeki keskin artış ABD'li hava yolu şirketlerinin karlılığını baskılıyor",
+    "body_orig": "Yükselen uçak yakıtı maliyetlerinin hava yolu şirketlerinin operasyonel giderlerini artırması, ABD'nin önde gelen hava yolu şirketlerinin yıl sonu kazanç beklentilerini olumsuz etkiliyor.",
+    "published": "2026-10-24T08:09:21",
+    "fetched": "2026-10-24T08:58:50.134138",
+    "title_uk": "Зростання витрат на паливо тисне на прибутки американських авіакомпаній",
+    "summary_uk": "Зростання цін на авіаційне паливо підвищує операційні витрати авіакомпаній США. Це негативно вплине на їхні фінансові результати в кінці року. Очікується зниження прибутків у провідних гравців ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зростання витрат на паливо тисне на прибутки американських авіакомпаній",
+    "summary": "Зростання цін на авіаційне паливо підвищує операційні витрати авіакомпаній США. Це негативно вплине на їхні фінансові результати в кінці року. Очікується зниження прибутків у провідних гравців ринку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/yakit-maliyetlerindeki-keskin-artis-abdli-hava-yolu-sirketlerinin-karliligini-baskiliyor/4099272",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "643f46bca587",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bugday-uretiminin-bu-yil-kisi-basina-288-kilogramla-yillik-ihtiyaci-asmasi-bekleniyor/4099271",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Buğday üretiminin bu yıl kişi başına 288 kilogramla yıllık ihtiyacı aşması bekleniyor",
+    "body_orig": "Türk Ziraat Yüksek Mühendisleri Birliği Genel Başkanı Fehmi Kiraz, buğday üretiminin bu yıl kişi başına 288 kilogramla yıllık ihtiyacın üzerine çıkmasının beklendiğini belirtti.",
+    "published": "2026-10-24T08:09:13",
+    "fetched": "2026-10-24T08:58:50.134155",
+    "title_uk": "Виробництво пшениці в Туреччині перевищить річну потребу",
+    "summary_uk": "У 2026 році очікується, що виробництво пшениці в Туреччині складе 288 кг на особу, що перевищує річну потребу. Про це повідомив президент Турецької асоціації агрономів Фехмі Кіраз. Це може вплинути на ринок пшениці в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Збільшення виробництва пшениці в Туреччині може знизити ціни на імпортовану пшеницю в Україні. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання виробництва може відкрити нові можливості для експорту турецької пшениці в сусідні країни. Рекомендується активізувати маркетингові кампанії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Виробництво пшениці в Туреччині перевищить річну потребу",
+    "summary": "У 2026 році очікується, що виробництво пшениці в Туреччині складе 288 кг на особу, що перевищує річну потребу. Про це повідомив президент Турецької асоціації агрономів Фехмі Кіраз. Це може вплинути на ринок пшениці в регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bugday-uretiminin-bu-yil-kisi-basina-288-kilogramla-yillik-ihtiyaci-asmasi-bekleniyor/4099271",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "32ff3e2532fa",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/karabuk-universitesi-sifir-atik-uygulamalariyla-cevreye-ve-ekonomiye-katki-sagliyor/4099270",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Karabük Üniversitesi, sıfır atık uygulamalarıyla çevreye ve ekonomiye katkı sağlıyor",
+    "body_orig": "Karabük Üniversitesi, yıllık 2,5 ton atık yağı geri dönüşüme kazandırmanın yanı sıra su ve enerji tasarrufuna yönelik uygulamalarla çevrenin korunmasına ve ekonomiye katkıda bulunuyor.",
+    "published": "2026-10-24T08:09:10",
+    "fetched": "2026-10-24T08:58:50.134167",
+    "title_uk": "Університет Карабюк впроваджує нульові відходи для економії ресурсів",
+    "summary_uk": "Університет Карабюк щорічно переробляє 2.5 тонни відходів олії. Вони також реалізують заходи для економії води та енергії, що позитивно впливає на екологію та економіку. Ці ініціативи сприяють зменшенню негативного впливу на навколишнє середовище.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може стати прикладом для турецьких виробників, які прагнуть впроваджувати екологічні практики. Впровадження подібних ініціатив може підвищити конкурентоспроможність на міжнародних ринках.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "екологія"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Університет Карабюк впроваджує нульові відходи для економії ресурсів",
+    "summary": "Університет Карабюк щорічно переробляє 2.5 тонни відходів олії. Вони також реалізують заходи для економії води та енергії, що позитивно впливає на екологію та економіку. Ці ініціативи сприяють зменшенню негативного впливу на навколишнє середовище.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/karabuk-universitesi-sifir-atik-uygulamalariyla-cevreye-ve-ekonomiye-katki-sagliyor/4099270",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "72debe4a780e",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/sanayi-ve-teknoloji-bakanligina-uc-yil-icin-881-2-milyar-liralik-kaynak-ongoruldu/4099262",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Sanayi ve Teknoloji Bakanlığına üç yıl için 881,2 milyar liralık kaynak öngörüldü",
+    "body_orig": "Türkiye'nin kritik ihtiyaçlarını karşılayacak, arz güvenliğini sağlayacak ve dışa bağımlılığını azaltacak yatırımları desteklemeyi hedefleyen Sanayi ve Teknoloji Bakanlığı için gelecek üç yıl için toplam 881,2 milyar liralık bütçe öngörüldü.",
+    "published": "2026-10-24T08:05:48",
+    "fetched": "2026-10-24T08:58:50.134178",
+    "title_uk": "Туреччина виділить €881 млрд на інвестиції в промисловість",
+    "summary_uk": "Міністерство промисловості та технологій Туреччини планує виділити €881 млрд на три роки для підтримки інвестицій, що зменшать залежність від імпорту та забезпечать безпеку постачань. Ці кошти будуть спрямовані на критичні потреби країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії, оскільки зменшення залежності від імпорту може стимулювати попит на внутрішні продукти.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина виділить €881 млрд на інвестиції в промисловість",
+    "summary": "Міністерство промисловості та технологій Туреччини планує виділити €881 млрд на три роки для підтримки інвестицій, що зменшать залежність від імпорту та забезпечать безпеку постачань. Ці кошти будуть спрямовані на критичні потреби країни.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-ve-teknoloji-bakanligina-uc-yil-icin-881-2-milyar-liralik-kaynak-ongoruldu/4099262",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "760afc1668be",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tigem-211-9-ton-yaglik-aycicegi-satacak/4099201",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TİGEM 211,9 ton yağlık ayçiçeği satacak",
+    "body_orig": "Tarım İşletmeleri Genel Müdürlüğü (TİGEM) Altınova Tarım İşletmesi Müdürlüğü, 211,9 ton yağlık ayçiçeği satışı yapacak.",
+    "published": "2026-10-24T06:56:33",
+    "fetched": "2026-10-24T08:58:50.134196",
+    "title_uk": "TİGEM продає 212 тонн олійного соняшнику",
+    "summary_uk": "Турецька державна компанія TİGEM оголосила про продаж 212 тонн олійного соняшнику. Продукція буде доступна через Altınova Tarım İşletmesi. Ця угода може вплинути на ринок олійних культур у регіоні.",
+    "what_it_means": {
+      "ua_importer": "Це може створити можливості для імпортерів олійних культур з Туреччини. Рекомендується стежити за цінами на олійний соняшник.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "TİGEM продає 212 тонн олійного соняшнику",
+    "summary": "Турецька державна компанія TİGEM оголосила про продаж 212 тонн олійного соняшнику. Продукція буде доступна через Altınova Tarım İşletmesi. Ця угода може вплинути на ринок олійних культур у регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tigem-211-9-ton-yaglik-aycicegi-satacak/4099201",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9c837b97c38f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-live/video-zf-live-kuba-fast-ceo-revolut-europe-revolut-5-milioane-clienti-locali-vrea-fie-banca-principala-clienti-reusi-fintech-ul-britanic-obtina-increderea-banca-nici-marile-banci-top-10-au-intregime-23257637",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "VIDEO ZF Live. Kuba Fast, CEO Revolut Europe. Revolut are 5 milioane de clienţi locali şi vrea să fie banca principală pentru clienţi. Va reuşi fintech-ul britanic sa obţină încrederea de bancă, pe care nici marile bănci din top 10 nu o au în întregime?",
+    "body_orig": "Revolut, fintech-ul britanic care a captat în ultimii ani atenţia şi un număr consis­tent de clienţi români, în continuare, cu atât mai mult cu cât a devenit bancă în toată regula, vrea să devină bancă principală pentru clienţii săi, după ce ani de zile Revolut a fost întotdeauna aplicaţia secundară de transfer pentru majoritatea românilor. Kuba Fast, CEO, Revolut Bank UAB, a spus în cadrul emisiunii ZF Live că România este o piaţă strategică şi importantă.",
+    "published": "2026-10-24T08:01:00",
+    "fetched": "2026-10-24T08:58:52.159673",
+    "title_uk": "Revolut планує стати основною банківською установою в Румунії",
+    "summary_uk": "Revolut має 5 млн клієнтів у Румунії та прагне стати основним банком для них. CEO Kuba Fast зазначив, що Румунія є стратегічно важливою для компанії. Revolut отримала банківську ліцензію і тепер конкурує з великими банками.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Revolut планує стати основною банківською установою в Румунії",
+    "summary": "Revolut має 5 млн клієнтів у Румунії та прагне стати основним банком для них. CEO Kuba Fast зазначив, що Румунія є стратегічно важливою для компанії. Revolut отримала банківську ліцензію і тепер конкурує з великими банками.",
+    "link": "https://www.zf.ro/zf-live/video-zf-live-kuba-fast-ceo-revolut-europe-revolut-5-milioane-clienti-locali-vrea-fie-banca-principala-clienti-reusi-fintech-ul-britanic-obtina-increderea-banca-nici-marile-banci-top-10-au-intregime-23257637",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "390d35de2c6d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/reportaj-inima-financiara-uniunii-europene-luxemburg-financial-valley-tara-unde-locuitor-27-milioane-euro-umeri-unde-s-mutat-jumatate-city-ul-alocat-ue-dupa-brexit-vrea-devina-inima-sistemului-start-23262650",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Reportaj din noua inimă financiară a Uniunii Europene, Luxemburg. „Financial Valley“, ţara unde fiecare locuitor are 27 milioane de euro „pe umeri“ şi unde s-a mutat jumătate din City-ul alocat UE după Brexit, vrea să devină şi inima sistemului de start-up-uri europene",
+    "body_orig": "Cele mai luminate şi cele mai îndrăzneţe minţi ale Europei şi nu numai s-au adunat pentru trei zile la Luxemburg Ventures Days, un forum de investiţii de capital de risc şi private equity",
+    "published": "2026-10-24T07:58:00",
+    "fetched": "2026-10-24T08:58:52.159683",
+    "title_uk": "Люксембург стає новим центром стартапів Європи",
+    "summary_uk": "У Люксембурзі пройшов форум Luxembourg Ventures Days, де зібралися інвестори з Європи. Місто прагне стати важливим гравцем у сфері стартапів, адже після Brexit сюди переїхала частина фінансових установ з Лондона. Кожен житель Люксембургу має в середньому €27 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Люксембург стає новим центром стартапів Європи",
+    "summary": "У Люксембурзі пройшов форум Luxembourg Ventures Days, де зібралися інвестори з Європи. Місто прагне стати важливим гравцем у сфері стартапів, адже після Brexit сюди переїхала частина фінансових установ з Лондона. Кожен житель Люксембургу має в середньому €27 млн.",
+    "link": "https://www.zf.ro/business-hi-tech/reportaj-inima-financiara-uniunii-europene-luxemburg-financial-valley-tara-unde-locuitor-27-milioane-euro-umeri-unde-s-mutat-jumatate-city-ul-alocat-ue-dupa-brexit-vrea-devina-inima-sistemului-start-23262650",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "70c7b09f1a00",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/h-m-intra-oficial-pe-piata-second-hand-din-romania-23264923",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "H&M intră oficial pe piaţa second-hand din România",
+    "body_orig": "",
+    "published": "2026-10-24T07:01:00",
+    "fetched": "2026-10-24T08:58:52.159716",
+    "title_uk": "H&M виходить на ринок second-hand в Румунії",
+    "summary_uk": "H&M оголосила про запуск лінії second-hand в Румунії, що дозволить споживачам купувати вживаний одяг. Це частина глобальної стратегії компанії щодо сталого розвитку та зменшення відходів. Очікується, що нова ініціатива приверне увагу молодих покупців, які цікавляться екологічними рішеннями.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на категорійні стратегії в ритейлі, оскільки зростає попит на sustainable products. Рекомендується переглянути асортимент та включити в нього екологічні альтернативи."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "H&M виходить на ринок second-hand в Румунії",
+    "summary": "H&M оголосила про запуск лінії second-hand в Румунії, що дозволить споживачам купувати вживаний одяг. Це частина глобальної стратегії компанії щодо сталого розвитку та зменшення відходів. Очікується, що нова ініціатива приверне увагу молодих покупців, які цікавляться екологічними рішеннями.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/h-m-intra-oficial-pe-piata-second-hand-din-romania-23264923",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4f774662fc9c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/politia-romana-a-confiscat-aproape-70-de-milioane-de-tigarete-de-contrabanda-in-primele-noua-luni-din-2026_988888.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Poliția Română a confiscat aproape 70 de milioane de țigarete de contrabandă în primele nouă luni din 2026",
+    "body_orig": "Aproximativ 70 de milioane de ţigarete şi 9,8 tone de tutun au fost descoperite de poliţişti, în primele nouă luni ale anului, în urma activităţilor desfăşurate de Poliţia Română pentru combaterea contrabandei cu tutun şi produse din tutun, relatează Agerpres.",
+    "published": "2026-10-24T08:35:00",
+    "fetched": "2026-10-24T08:58:54.681278",
+    "title_uk": "Румунська поліція вилучила 70 млн контрабандних сигарет за 9 місяців",
+    "summary_uk": "Протягом перших дев'яти місяців 2026 року румунська поліція виявила 70 млн сигарет та 10 тонн тютюну. Це результат зусиль правоохоронців у боротьбі з контрабандою тютюнових виробів. Вилучення відбулося в рамках спеціальних операцій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунська поліція вилучила 70 млн контрабандних сигарет за 9 місяців",
+    "summary": "Протягом перших дев'яти місяців 2026 року румунська поліція виявила 70 млн сигарет та 10 тонн тютюну. Це результат зусиль правоохоронців у боротьбі з контрабандою тютюнових виробів. Вилучення відбулося в рамках спеціальних операцій.",
+    "link": "https://www.economica.net/politia-romana-a-confiscat-aproape-70-de-milioane-de-tigarete-de-contrabanda-in-primele-noua-luni-din-2026_988888.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d7b7ddf280fd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/asociatiile-mari-de-presa-cer-meta-sa-renunte-la-colectarea-automata-a-continutului-de-pe-site-urile-de-stiri_988877.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Asociațiile mari de presă cer Meta să renunțe la colectarea automată a conținutului de pe site-urile de știri",
+    "body_orig": "EANA, WAN-IFRA şi Asociaţiile Editorilor Germani avertizează că noile condiţii comerciale ale Meta, revizuite la 16 octombrie, ar putea permite colectarea automată a conţinutului de pe site-urile publicaţiilor, inclusiv a materialelor care nu sunt distribuite pe platformele companiei, cu posibile consecinţe pentru întregul ecosistem media. Organizaţiile cer respectarea drepturilor de autor prin garanţii contractuale şi un cadru în care utilizarea conţinutului jurnalistic să se facă pe baza acordului publicaţiilor şi cu remunerarea acestora, fără ca instituţiile media să fie obligate să aleagă între protejarea propriului conţinut şi accesul la public.",
+    "published": "2026-10-24T06:58:04",
+    "fetched": "2026-10-24T08:58:54.681312",
+    "title_uk": "Великі асоціації ЗМІ просять Meta змінити умови збору контенту",
+    "summary_uk": "Асоціації EANA, WAN-IFRA та німецькі видавці закликають Meta переглянути нові умови, що дозволяють автоматичний збір контенту з новинних сайтів. Вони вимагають дотримання авторських прав і компенсації за використання матеріалів. Це може вплинути на весь медіа-екосистему.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Великі асоціації ЗМІ просять Meta змінити умови збору контенту",
+    "summary": "Асоціації EANA, WAN-IFRA та німецькі видавці закликають Meta переглянути нові умови, що дозволяють автоматичний збір контенту з новинних сайтів. Вони вимагають дотримання авторських прав і компенсації за використання матеріалів. Це може вплинути на весь медіа-екосистему.",
+    "link": "https://www.economica.net/asociatiile-mari-de-presa-cer-meta-sa-renunte-la-colectarea-automata-a-continutului-de-pe-site-urile-de-stiri_988877.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b9a96f9f9f82",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/diyacity-zvyazok-na-zimu-i-rux-do-agentivnoyi-derzavi-fercuk-nazvala-golovni-rezultati-100-dniv-uryadu-9w76mn",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Дія.City, зв'язок на зиму і рух до агентивної держави: Ферчук назвала головні результати 100 днів уряду",
+    "body_orig": "За 100 днів роботи уряду Дія.City отримав 487 нових резидентів, 76 із них працюють у сфері defence tech. Державні реєстри перенесли в захищені локації, а мобільний зв'язок підготували до зими з кількома рівнями резерву. Про п'ять ключових результатів розповіла міністерка цифрової трансформації Оксана Ферчук.",
+    "published": "2026-10-24T05:00:00",
+    "fetched": "2026-10-24T08:58:44.290329",
+    "title_uk": "Дія.City отримав 487 нових резидентів за 100 днів",
+    "summary_uk": "Протягом 100 днів роботи уряду Дія.City зареєстрував 487 нових резидентів, з яких 76 займаються defence tech. Державні реєстри були перенесені в захищені локації, а мобільний зв'язок підготовлений до зими з кількома рівнями резерву. Міністерка цифрової трансформації Оксана Ферчук підкреслила ці досягнення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Дія.City отримав 487 нових резидентів за 100 днів",
+    "summary": "Протягом 100 днів роботи уряду Дія.City зареєстрував 487 нових резидентів, з яких 76 займаються defence tech. Державні реєстри були перенесені в захищені локації, а мобільний зв'язок підготовлений до зими з кількома рівнями резерву. Міністерка цифрової трансформації Оксана Ферчук підкреслила ці досягнення.",
+    "link": "https://speka.ua/news/diyacity-zvyazok-na-zimu-i-rux-do-agentivnoyi-derzavi-fercuk-nazvala-golovni-rezultati-100-dniv-uryadu-9w76mn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "649b3212f90b",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/allo-onovyv-ayidentyku-razom-iz-taktika/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Алло оновив айдентику разом із Taktika: від логотипа й типографіки до фірмової графіки",
+    "body_orig": "Алло — маркетплейс інноваційних товарів та один із провідних гравців українського e-commerce. З роками екосистема бренду масштабувалася: з'являлися нові сервіси, розширювалися лінійки товарів, а до створення комунікацій залучалося все більше різних команд. З розвитком бізнесу виникла потреба система…",
+    "published": "2026-10-24T04:00:20",
+    "fetched": "2026-10-24T08:58:59.130875",
+    "title_uk": "Алло оновив айдентику разом із Taktika",
+    "summary_uk": "Алло, український маркетплейс, оновив свою айдентику, включаючи логотип, типографіку та графіку. Це пов'язано з розширенням бізнесу та появою нових сервісів. Оновлення має на меті покращити комунікацію з клієнтами та партнерами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Алло оновив айдентику разом із Taktika",
+    "summary": "Алло, український маркетплейс, оновив свою айдентику, включаючи логотип, типографіку та графіку. Це пов'язано з розширенням бізнесу та появою нових сервісів. Оновлення має на меті покращити комунікацію з клієнтами та партнерами.",
+    "link": "https://rau.ua/news/allo-onovyv-ayidentyku-razom-iz-taktika/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1567164e77ee",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/stiyikist-innovatciyi-ta-8-rokiv-rozvytku-ekosystemy-glovo-dilytsia-rezultatamy-roboty-v-ukrayini-ta-spriamovuye-3-mln-grn/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Стійкість, інновації та 8 років розвитку екосистеми: Glovo ділиться результатами роботи в Україні",
+    "body_orig": "Технологічна платформа Glovo відзначає восьму річницю своєї роботи в Україні. За ці роки компанія пройшла еволюцію від нішевого стартапу до невіддільної частини повсякденного життя українців, інфраструктурного елемента міської екосистеми та масштабного цифрового середовища для бізнесів, які розвиваю…",
+    "published": "2026-10-24T03:02:27",
+    "fetched": "2026-10-24T08:58:59.130890",
+    "title_uk": "Glovo відзначає 8 років роботи в Україні з інноваціями та розвитком",
+    "summary_uk": "Glovo святкує восьму річницю в Україні, ставши важливою частиною міської екосистеми. Компанія розвинула інфраструктуру для бізнесу та впровадила нові технології. За цей час Glovo зміцнив свої позиції на ринку доставки, адаптуючи сервіси до потреб українців.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Glovo відзначає 8 років роботи в Україні з інноваціями та розвитком",
+    "summary": "Glovo святкує восьму річницю в Україні, ставши важливою частиною міської екосистеми. Компанія розвинула інфраструктуру для бізнесу та впровадила нові технології. За цей час Glovo зміцнив свої позиції на ринку доставки, адаптуючи сервіси до потреб українців.",
+    "link": "https://rau.ua/news/stiyikist-innovatciyi-ta-8-rokiv-rozvytku-ekosystemy-glovo-dilytsia-rezultatamy-roboty-v-ukrayini-ta-spriamovuye-3-mln-grn/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
