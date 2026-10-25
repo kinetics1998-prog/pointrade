@@ -427315,5 +427315,685 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "21df98057b2e",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-w-Europie-i-poszukiwanie-okazji-w-USA-Co-mowi-Wall-Street-9217985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Widmo kryzysu w Europie i poszukiwanie okazji w USA. Co mówi Wall Street?",
+    "body_orig": "W kończącym się tygodniu do obaw na rynkach finansowych związanych ze spółkami sztucznej inteligencji dołączyły zawirowania polityczne w Europie. Mimo to stratedzy inwestycyjni już rozglądają się za okazjami do zakupów na największym rynku akcji na świecie.",
+    "published": "2026-10-25T11:25:00",
+    "fetched": "2026-10-25T18:44:30.352380",
+    "title_uk": "Інвестори шукають можливості на ринку США amid політичні ризики в Європі",
+    "summary_uk": "На фінансових ринках зросли побоювання через політичні зрушення в Європі, що додалося до занепокоєння щодо компаній у сфері штучного інтелекту. Інвестори вже почали шукати можливості для покупок на ринку акцій США, який залишається найбільшим у світі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Інвестори шукають можливості на ринку США amid політичні ризики в Європі",
+    "summary": "На фінансових ринках зросли побоювання через політичні зрушення в Європі, що додалося до занепокоєння щодо компаній у сфері штучного інтелекту. Інвестори вже почали шукати можливості для покупок на ринку акцій США, який залишається найбільшим у світі.",
+    "link": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-w-Europie-i-poszukiwanie-okazji-w-USA-Co-mowi-Wall-Street-9217985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "57b9977e8cae",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Polska-meblarskim-potentatem-Jedna-trzecia-eksportu-trafia-do-Niemiec-9217974.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska meblarskim potentatem. Jedna trzecia eksportu trafia do Niemiec",
+    "body_orig": "Polska jest 3. na świecie eksporterem mebli, a 1/3 produktów wysyłanych z Polski trafia do Niemiec, które pozostają największym odbiorcą - wynika z raportu departamentu analiz PKO BP. Światowy eksport zdominowały Chiny, skąd pochodzi blisko 38 proc. mebli sprzedawanych w obrocie międzynarodowym.",
+    "published": "2026-10-25T11:50:00",
+    "fetched": "2026-10-25T18:44:30.352412",
+    "title_uk": "Польща третій у світі експортер меблів, 1/3 йде до Німеччини",
+    "summary_uk": "Польща займає третє місце у світі за експортом меблів. Згідно з даними PKO BP, близько третини польських меблів постачається до Німеччини, яка залишається найбільшим імпортером. Лідером за обсягами експорту є Китай, що контролює 38% світового ринку меблів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання експорту меблів з Польщі може створити можливості для дистриб'юторів, які працюють з меблевими брендами. Рекомендується переглянути асортимент і укріпити партнерства з польськими виробниками.",
+      "tr_manufacturer": "Якщо ви виробник меблів і плануєте вихід на ринок Польщі, враховуйте конкуренцію з боку польських постачальників, які мають сильні позиції на європейському ринку.",
+      "category_manager": "Зростання експорту меблів з Польщі може вплинути на ціни та асортимент у ритейлі. Рекомендується аналізувати нові тренди та адаптувати стратегії закупівель."
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща третій у світі експортер меблів, 1/3 йде до Німеччини",
+    "summary": "Польща займає третє місце у світі за експортом меблів. Згідно з даними PKO BP, близько третини польських меблів постачається до Німеччини, яка залишається найбільшим імпортером. Лідером за обсягами експорту є Китай, що контролює 38% світового ринку меблів.",
+    "link": "https://www.bankier.pl/wiadomosc/Polska-meblarskim-potentatem-Jedna-trzecia-eksportu-trafia-do-Niemiec-9217974.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0e1ee91e03b7",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/polexit-polska-stracilaby-90-mld-euro-rocznie-zpp-podaje-wyliczenia/szv7v2r",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polexit kosztowałby Polskę 90 mld euro rocznie. Znamy wyliczenia",
+    "body_orig": "Polska odnotowała 58,7 mld euro nadwyżki w finansowym bilansie członkostwa w Unii Europejskiej, a wyjście ze wspólnoty mogłoby oznaczać stratę ok. 90 mld euro rocznie. Tak wynika z raportu Związku Przedsiębiorców i Pracodawców (ZPP). Eksperci oceniają, że dotychczasowy model rozwoju gospodarki wymaga zmian.",
+    "published": "2026-10-25T18:21:51",
+    "fetched": "2026-10-25T18:44:31.905182",
+    "title_uk": "Вихід Польщі з ЄС може коштувати €90 млрд щорічно",
+    "summary_uk": "Згідно з дослідженням, вихід Польщі з ЄС призведе до щорічних втрат близько €90 млрд. Наразі країна отримує €58.7 млрд надлишку від членства в ЄС. Експерти вважають, що модель розвитку економіки потребує змін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Втрата фінансування з ЄС може зменшити інвестиції в інфраструктуру, що вплине на дистрибуцію товарів. Дистриб'юторам варто переглянути свої стратегії на випадок економічної нестабільності.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Вихід Польщі з ЄС може коштувати €90 млрд щорічно",
+    "summary": "Згідно з дослідженням, вихід Польщі з ЄС призведе до щорічних втрат близько €90 млрд. Наразі країна отримує €58.7 млрд надлишку від членства в ЄС. Експерти вважають, що модель розвитку економіки потребує змін.",
+    "link": "https://businessinsider.com.pl/biznes/polexit-polska-stracilaby-90-mld-euro-rocznie-zpp-podaje-wyliczenia/szv7v2r",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fdc5d389ced4",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/firma/zdobyl-klientow-i-ruszyl-po-pieniadze-potem-uslyszal-to-pytanie/g8dbjr6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Myślał, że ma prawa do aplikacji stworzonej z AI. Prawnik brutalnie sprowadził go na ziemię",
+    "body_orig": "Przez sześć miesięcy rozwijał aplikację z pomocą sztucznej inteligencji. Zdobył użytkowników i zaczął rozmowy z inwestorami o pieniądzach. Wtedy usłyszał pytanie, które może zatrzymać niejeden start-up: kto jest autorem kodu? Odpowiedź radcy prawnego Krzysztofa Wójcika była zaskakująca, ale otworzyła drogę do zarabiania. Wyjaśniamy, jak nie dać się oszukać.",
+    "published": "2026-10-25T14:38:36",
+    "fetched": "2026-10-25T18:44:31.905229",
+    "title_uk": "Проблеми з авторськими правами на AI-додаток зупинили стартап",
+    "summary_uk": "Підприємець розробляв AI-додаток шість місяців, здобувши користувачів та інтерес інвесторів. Проте, питання про авторство коду від юриста стало вирішальним. Це спонукало його переглянути бізнес-модель та шукати нові можливості для заробітку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця ситуація підкреслює важливість правової перевірки продуктів, розроблених з використанням AI. Категорійні менеджери повинні бути обережними з новими технологіями та їх правовими аспектами."
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Проблеми з авторськими правами на AI-додаток зупинили стартап",
+    "summary": "Підприємець розробляв AI-додаток шість місяців, здобувши користувачів та інтерес інвесторів. Проте, питання про авторство коду від юриста стало вирішальним. Це спонукало його переглянути бізнес-модель та шукати нові можливості для заробітку.",
+    "link": "https://businessinsider.com.pl/prawo/firma/zdobyl-klientow-i-ruszyl-po-pieniadze-potem-uslyszal-to-pytanie/g8dbjr6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "503bb764031b",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/oki-w-mbanku-ma-zmienic-podejscie-polakow-do-inwestowania-wiceprezes-wyjasnia/vhcf790",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "OKI pozwoli uniknąć podatku Belki. Tak mBank buduje ofertę pod nowe narzędzie",
+    "body_orig": "Już od początku 2027 r. będzie można założyć Osobiste Konto Inwestycyjne, które pozwala uniknąć podatku Belki. Zdaniem Krzysztofa Bratosa, wiceprezesa mBanku, sam nowy produkt raczej nie zmieni nagle podejścia Polaków do inwestowania. — Problem nie polega dzisiaj na tym, że brakuje możliwości. Tych jest sporo. Często większym wyzwaniem jest to, że wiele osób nie wie jeszcze, po co w ogóle ma inwestować i jak to wpisuje się w ich codzienne finanse — mówi w rozmowie z Business Insider Polska.",
+    "published": "2026-10-25T12:50:57",
+    "fetched": "2026-10-25T18:44:31.905248",
+    "title_uk": "mBank запускає особистий інвестиційний рахунок без податку Белки",
+    "summary_uk": "З початку 2027 року в Польщі з'явиться Особисте Konto Inwestycyjne, яке дозволить уникнути податку Белки. За словами вице-президента mBank, новий продукт не змінить ставлення поляків до інвестування, оскільки багато людей не знають, чому їм варто інвестувати. Це свідчить про потребу в освіті в цій сфері.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "mBank запускає особистий інвестиційний рахунок без податку Белки",
+    "summary": "З початку 2027 року в Польщі з'явиться Особисте Konto Inwestycyjne, яке дозволить уникнути податку Белки. За словами вице-президента mBank, новий продукт не змінить ставлення поляків до інвестування, оскільки багато людей не знають, чому їм варто інвестувати. Це свідчить про потребу в освіті в цій сфері.",
+    "link": "https://businessinsider.com.pl/finanse/oki-w-mbanku-ma-zmienic-podejscie-polakow-do-inwestowania-wiceprezes-wyjasnia/vhcf790",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "369826a80f7c",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/rewolucja-w-podatkach-kto-zyska-na-nowych-progach-w-pit-mamy-wyliczenia-7343931582548064a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rewolucja w podatkach. Kto zyska na nowych progach w PIT? Mamy wyliczenia",
+    "body_orig": "Sejm przyjął 22 października nowelizację przepisów podatkowych. Wprowadza ona nowy próg podatkowy od przyszłego roku. Kto zyska na zmianie? \"Nie nazywałbym jej wsparciem całej klasy średniej. To przede wszystkim ulga dla osób, które w ostatnich latach przez zamrożony próg wpadły w 32 proc. podatku\" – ocenia Piotr Juszczyk, główny doradca podatkowy InFaktu.",
+    "published": "2026-10-25T18:41:55",
+    "fetched": "2026-10-25T18:44:33.957589",
+    "title_uk": "Польща змінює податкові пороги з 2024 року",
+    "summary_uk": "22 жовтня Сейм Польщі ухвалив нову податкову реформу, яка вводить новий податковий поріг. Зміни стосуються переважно тих, хто через заморожений поріг потрапив у 32% податкову ставку. Експерти вважають, що це не є підтримкою всієї середнього класу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на купівельну спроможність споживачів, що, в свою чергу, може позначитися на обсягах продажів. Розгляньте коригування асортименту відповідно до нових податкових умов.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в податковій політиці можуть вплинути на споживчі витрати, тому перегляньте плани промо та асортимент для адаптації до нових умов ринку."
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща змінює податкові пороги з 2024 року",
+    "summary": "22 жовтня Сейм Польщі ухвалив нову податкову реформу, яка вводить новий податковий поріг. Зміни стосуються переважно тих, хто через заморожений поріг потрапив у 32% податкову ставку. Експерти вважають, що це не є підтримкою всієї середнього класу.",
+    "link": "https://www.money.pl/podatki/rewolucja-w-podatkach-kto-zyska-na-nowych-progach-w-pit-mamy-wyliczenia-7343931582548064a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c1c618a16624",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ile kosztowałby polexit? Wystawili \"rachunek\"",
+    "body_orig": "Polska zyskała na członkostwie w Unii Europejskiej niemal 59 mld euro, a wyjście ze wspólnoty oznaczałoby stratę ok. 90 mld euro rocznie – wynika z raportu Związku Przedsiębiorców i Pracodawców. Jego autorzy ostrzegają, że potencjalny polexit byłby bardziej dotkliwy niż brexit dla Wielkiej Brytanii.",
+    "published": "2026-10-25T14:05:13",
+    "fetched": "2026-10-25T18:44:33.957607",
+    "title_uk": "Польща може втратити €90 млрд щорічно через вихід з ЄС",
+    "summary_uk": "Згідно з дослідженням Зв'язку підприємців і роботодавців, Польща отримала €59 млрд від членства в ЄС. Вихід з ЄС призведе до щорічних втрат близько €90 млрд. Автори звіту вважають, що наслідки polexit будуть гіршими, ніж brexit для Великої Британії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Втрата фінансової підтримки з ЄС може вплинути на ринок, зокрема на ціни та закупівлі. Дистриб'юторам слід переглянути свої стратегії на випадок економічної нестабільності.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща може втратити €90 млрд щорічно через вихід з ЄС",
+    "summary": "Згідно з дослідженням Зв'язку підприємців і роботодавців, Польща отримала €59 млрд від членства в ЄС. Вихід з ЄС призведе до щорічних втрат близько €90 млрд. Автори звіту вважають, що наслідки polexit будуть гіршими, ніж brexit для Великої Британії.",
+    "link": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b41f65eb6fa1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/opinii/dragos-damian-terapia-cluj-florin-manole-8-9-10-inflatie-2026-venit-vremea-urca-salariul-minim-economie-5-000-lei-incepand-1-ianuarie-2027-iata-10-masuri-propuse-asistentul-privire-modul-23267684",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Dragoş Damian, Terapia Cluj: Florin Manole, la încă 8-9-10% inflaţie în 2026, a venit vremea, urcă salariul minim pe economie la 5.000 lei, începând cu 1 ianuarie 2027! Iată 10 măsuri propuse de asistentul AI cu privire la modul de implementare a salariului minim de 5.000 lei",
+    "body_orig": "Florin Manole, ceream acelaşi lucru şi în urma cu un exact un an; am primit multe mesaje ”prietenoase” din cauza asta.",
+    "published": "2026-10-25T18:20:49",
+    "fetched": "2026-10-25T18:45:01.197224",
+    "title_uk": "В Румунії підвищать мінімальну зарплату до 5.000 леїв з 2027 року",
+    "summary_uk": "Florin Manole анонсував підвищення мінімальної зарплати до 5.000 леїв, яке вступить в силу з 1 січня 2027 року. Це рішення пов'язане з прогнозованою інфляцією на рівні 8-10% у 2026 році. Запропоновано 10 заходів для реалізації цього підвищення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "В Румунії підвищать мінімальну зарплату до 5.000 леїв з 2027 року",
+    "summary": "Florin Manole анонсував підвищення мінімальної зарплати до 5.000 леїв, яке вступить в силу з 1 січня 2027 року. Це рішення пов'язане з прогнозованою інфляцією на рівні 8-10% у 2026 році. Запропоновано 10 заходів для реалізації цього підвищення.",
+    "link": "https://www.zf.ro/opinii/dragos-damian-terapia-cluj-florin-manole-8-9-10-inflatie-2026-venit-vremea-urca-salariul-minim-economie-5-000-lei-incepand-1-ianuarie-2027-iata-10-masuri-propuse-asistentul-privire-modul-23267684",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2b8a1a7148b4",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/compania-romaneasca-footprints-opereaza-platforma-retail-media-incheiat-parteneriat-spar-international-retea-peste-13-500-magazine-50-tari-pune-platforma-dispozitia-retailerilor-grup-23267656",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Compania românească Footprints AI, care operează o platformă de retail media, a încheiat un parteneriat cu SPAR International, reţea cu peste 13.500 de magazine în 50 de ţări, care va pune platforma la dispoziţia retailerilor din grup",
+    "body_orig": "Compania românească Footprints AI, care operează o platformă de retail media (publicitate difuzată pe canalele proprii ale retailerilor, de la ecranele şi radioul din magazine până la site-uri şi aplicaţii, targetată pe baza datelor de cumpărare), a încheiat un parteneriat strategic cu SPAR International, reţeaua de retail alimentar cu peste 13.500 de magazine în 50 de ţări. Platforma urmează să fie pusă la dispoziţie pe mai multe pieţe din reţeaua SPAR şi să devină disponibilă pentru toţi licenţiaţii grupului, astfel încât organizaţiile naţionale SPAR să poată planifica, cumpăra, optimiza şi măsura campanii de retail media dintr-un singur loc.",
+    "published": "2026-10-25T17:41:27",
+    "fetched": "2026-10-25T18:45:01.197237",
+    "title_uk": "Footprints AI уклала угоду з SPAR International для ритейл-медіа",
+    "summary_uk": "Румунська компанія Footprints AI підписала партнерство з SPAR International, що має понад 13.500 магазинів у 50 країнах. Платформа ритейл-медіа буде доступна для всіх ліцензіатів SPAR, що дозволить їм планувати та оптимізувати рекламні кампанії з одного місця.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це партнерство може стати прикладом для українських ритейлерів у впровадженні ритейл-медіа. Рекомендується вивчити досвід SPAR для оптимізації рекламних кампаній."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Footprints AI уклала угоду з SPAR International для ритейл-медіа",
+    "summary": "Румунська компанія Footprints AI підписала партнерство з SPAR International, що має понад 13.500 магазинів у 50 країнах. Платформа ритейл-медіа буде доступна для всіх ліцензіатів SPAR, що дозволить їм планувати та оптимізувати рекламні кампанії з одного місця.",
+    "link": "https://www.zf.ro/business-hi-tech/compania-romaneasca-footprints-opereaza-platforma-retail-media-incheiat-parteneriat-spar-international-retea-peste-13-500-magazine-50-tari-pune-platforma-dispozitia-retailerilor-grup-23267656",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4c476c81f08b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/efectul-cresterii-accizei-in-industria-berii-germania-bulgaria-spania-luxemburg-si-romania-reprezinta-impreuna-peste-40-din-productia-de-bere-la-nivel-european-singura-tara-care-scade-este-romania-23265293",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Efectul creşterii accizei în industria berii. Germania, Bulgaria, Spania, Luxemburg şi România reprezintă împreună peste 40% din producţia de bere la nivel european. Singura ţară care scade este România",
+    "body_orig": "Germania, Bulgaria, Spania, Luxemburg şi România reprezintă împreună peste 40% din producţia de bere la nivel european, singura diferenţă majoră fiind că toate, în afară de România, înregistrează creşteri ale producţiei, potrivit datelor Asociaţiei Berarii României.",
+    "published": "2026-10-25T16:35:00",
+    "fetched": "2026-10-25T18:45:01.197276",
+    "title_uk": "Румунія єдина країна Європи, що знижує виробництво пива",
+    "summary_uk": "Німеччина, Болгарія, Іспанія, Люксембург і Румунія виробляють понад 40% пива в Європі. Всі ці країни, окрім Румунії, демонструють зростання виробництва. Дані надає Асоціація пивоварів Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунія єдина країна Європи, що знижує виробництво пива",
+    "summary": "Німеччина, Болгарія, Іспанія, Люксембург і Румунія виробляють понад 40% пива в Європі. Всі ці країни, окрім Румунії, демонструють зростання виробництва. Дані надає Асоціація пивоварів Румунії.",
+    "link": "https://www.zf.ro/companii/efectul-cresterii-accizei-in-industria-berii-germania-bulgaria-spania-luxemburg-si-romania-reprezinta-impreuna-peste-40-din-productia-de-bere-la-nivel-european-singura-tara-care-scade-este-romania-23265293",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b6e4627913a4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/deficitul-comercial-cu-mancare-s-a-diminuat-cu-peste-13-in-primele-sapte-luni-ale-anului-care-este-categoria-cu-cea-mai-semnificativa-crestere-a-exporturilor_987808.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Deficitul comercial cu mâncare s-a diminuat cu peste 13% în primele șapte luni ale anului. Care este categoria cu cea mai semnificativă creștere a exporturilor",
+    "body_orig": "România a cumpărat în primele șapte luni ale anului alimente și animale vii în valoare de peste 6,7 miliarde de euro, cu 1,4% mai puțin decât în perioada similară a anul trecut și a exportat de 4,5 miliarde de euro, cu 8,1% peste nivelul anului trecut. Deficitul comercial pe acest segment a ajuns astfel la 2,2 miliarde de euro.",
+    "published": "2026-10-25T18:14:37",
+    "fetched": "2026-10-25T18:45:04.764315",
+    "title_uk": "Румунія зменшила дефіцит торгівлі продуктами харчування на 13%",
+    "summary_uk": "У січні-липні Румунія імпортувала продукти на €6.7 млрд, що на 1% менше, ніж торік. Експорт зріс на 8% до €4.5 млрд. Дефіцит у цій категорії становить €2.2 млрд.",
+    "what_it_means": {
+      "ua_importer": "Зменшення дефіциту може свідчити про зростання конкуренції на ринку Румунії. Українські імпортери повинні враховувати це при плануванні поставок.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунія зменшила дефіцит торгівлі продуктами харчування на 13%",
+    "summary": "У січні-липні Румунія імпортувала продукти на €6.7 млрд, що на 1% менше, ніж торік. Експорт зріс на 8% до €4.5 млрд. Дефіцит у цій категорії становить €2.2 млрд.",
+    "link": "https://www.economica.net/deficitul-comercial-cu-mancare-s-a-diminuat-cu-peste-13-in-primele-sapte-luni-ale-anului-care-este-categoria-cu-cea-mai-semnificativa-crestere-a-exporturilor_987808.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0dfca9ba3b9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/zf-friedrichshafen-continua-reducerea-costurilor_989064.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF Friedrichshafen, cu 5.000 de angajați în România, continuă reducerea costurilor",
+    "body_orig": "Măsurile de reducere a costurilor și succesele înregistrate în America de Nord, au ajutat marele furnizor auto ZF Friedrichshafen, cu activități în România la Timișoara, București, Roman, Oravița, Lupeni și Marghita, să prezinte rezultate financiare încurajatoare. Cu toate acestea, nivelul datoriilor rămâne ridicat.",
+    "published": "2026-10-25T17:23:53",
+    "fetched": "2026-10-25T18:45:04.764364",
+    "title_uk": "ZF Friedrichshafen продовжує скорочення витрат в Румунії",
+    "summary_uk": "ZF Friedrichshafen, великий постачальник автокомпонентів, скорочує витрати в Румунії, де має 5 тисяч працівників. Компанія досягла позитивних фінансових результатів завдяки успіхам у Північній Америці, але рівень боргів залишається високим.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ZF Friedrichshafen продовжує скорочення витрат в Румунії",
+    "summary": "ZF Friedrichshafen, великий постачальник автокомпонентів, скорочує витрати в Румунії, де має 5 тисяч працівників. Компанія досягла позитивних фінансових результатів завдяки успіхам у Північній Америці, але рівень боргів залишається високим.",
+    "link": "https://www.economica.net/zf-friedrichshafen-continua-reducerea-costurilor_989064.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "285c7184896d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/kaufland-angajeaza-lucrator-comercial-cu-3-300-lei-net-sef-de-raion-cu-4-300-lei-si-tichete-de-masa_987866.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Kaufland angajează lucrător comercial cu 3.300 lei net, şef de raion cu 4.300 lei şi tichete de masă",
+    "body_orig": "Kaufland e una dintre puţinele companii din retailul alimentar care a ales să transparentizeze informaţii despre grilele salariale oferite pentru unele dintre posturile vacante. Salariul net oferit de Kaufland pentru lucrător comercial cu normă întreagă se apropie de 3.300 de lei, iar cel pentru cadru tehnic PSI, cu program de lucru de patru ore pe zi, e de aproape 2.100 de lei, arată anunţurile de angajare consultate de Economica.net.",
+    "published": "2026-10-25T16:41:32",
+    "fetched": "2026-10-25T18:45:04.764375",
+    "title_uk": "Kaufland публікує зарплати для працівників в Румунії",
+    "summary_uk": "Kaufland оголосив про зарплати для працівників у Румунії: 3.300 грн для торгових працівників та 4.300 грн для керівників відділів. Це перший випадок, коли компанія відкрито ділиться інформацією про зарплати. Також пропонуються обікові талони.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця інформація може бути корисною для планування зарплат у ритейлі. Зверніть увагу на конкурентоспроможність пропозицій для залучення кадрів."
+    },
+    "tags": [
+      "ритейл",
+      "KPI-команди",
+      "мотивація-ТП"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Kaufland публікує зарплати для працівників в Румунії",
+    "summary": "Kaufland оголосив про зарплати для працівників у Румунії: 3.300 грн для торгових працівників та 4.300 грн для керівників відділів. Це перший випадок, коли компанія відкрито ділиться інформацією про зарплати. Також пропонуються обікові талони.",
+    "link": "https://www.economica.net/kaufland-angajeaza-lucrator-comercial-cu-3-300-lei-net-sef-de-raion-cu-4-300-lei-si-tichete-de-masa_987866.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "326b3db80070",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-aproape-patru-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_989095.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la Bucureşti a pierdut aproape patru miliarde de lei la capitalizare în această săptămână",
+    "body_orig": "Bursa de Valori Bucureşti (BVB) a pierdut, în această săptămână, 3,86 miliarde de lei la capitalizare (-0,55%), în timp ce valoarea tranzacţiilor cu acţiuni a crescut cu 9,65 milioane de lei (+2,47%), potrivit datelor publicate de BVB şi consultate de Agerpres.",
+    "published": "2026-10-25T16:06:37",
+    "fetched": "2026-10-25T18:45:04.764385",
+    "title_uk": "Бухарестська біржа втратила майже 4 млрд леїв за тиждень",
+    "summary_uk": "Біржа у Бухаресті знизилася на 0,55%, втративши капіталізацію в 3,86 млрд леїв. Водночас обсяг торгів акціями зріс на 9,65 млн леїв, що становить 2,47%. Ці дані опубліковані біржею та підтверджені Agerpres.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа втратила майже 4 млрд леїв за тиждень",
+    "summary": "Біржа у Бухаресті знизилася на 0,55%, втративши капіталізацію в 3,86 млрд леїв. Водночас обсяг торгів акціями зріс на 9,65 млн леїв, що становить 2,47%. Ці дані опубліковані біржею та підтверджені Agerpres.",
+    "link": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-aproape-patru-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_989095.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "83fd22390220",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/magazinele-bipa-cu-preturi-mici-intra-in-patru-orase-din-romania-si-fac-angajari_988598.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Magazinele BIPA, cu preţuri mici, intră în patru oraşe din România şi fac angajări",
+    "body_orig": "Grupul REWE, care a intrat în România în 2001 cu lanțul de supermarketuri tip discount Penny, a adus în România şi brandul său de drogherii BIPA. Compania Bipa Romania Drogherie, subsidiara din ţara noastră a companiei BIPA, pregăteşte intrarea în Popeşti Leordeni (Ilfov), Craiova, Păuleştii Noi (în judeţul Prahova), Sânpetru (judeţul Braşov).",
+    "published": "2026-10-25T14:51:22",
+    "fetched": "2026-10-25T18:45:04.764395",
+    "title_uk": "BIPA відкриває нові магазини в чотирьох містах Румунії",
+    "summary_uk": "Група REWE розширює мережу магазинів BIPA в Румунії. Нові точки продажу з'являться в Popești Leordeni, Крайові, Păulești Noi та Sânpetru. Компанія також планує нові набори працівників для цих магазинів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Розширення мережі BIPA може створити нові можливості для постачальників у румунському ритейлі. Рекомендується моніторити асортимент та цінову політику нових магазинів."
+    },
+    "tags": [
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "BIPA відкриває нові магазини в чотирьох містах Румунії",
+    "summary": "Група REWE розширює мережу магазинів BIPA в Румунії. Нові точки продажу з'являться в Popești Leordeni, Крайові, Păulești Noi та Sânpetru. Компанія також планує нові набори працівників для цих магазинів.",
+    "link": "https://www.economica.net/magazinele-bipa-cu-preturi-mici-intra-in-patru-orase-din-romania-si-fac-angajari_988598.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e8ef92d893ca",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/tech/online/romania-ranks-last-in-eu-for-online-interaction-with-public-authorities-302277",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Romania ranks last in EU for online interaction with public authorities",
+    "body_orig": "Romania has internet access in 95.5% of households, yet fewer than a quarter of its citizens interact with public authorities online, according to SeeNext’s Digitalisation in Southeast Europe 2026 report. The country also records the EU’s lowest corporate adoption of artificial intelligence, revealing persistent gaps between connectivity and the use of digital technology. Romania scores [&#8230;]\nThe post Romania ranks last in EU for online interaction with public authorities appeared first on Business Review.",
+    "published": "2026-10-25T14:55:53",
+    "fetched": "2026-10-25T18:45:09.288202",
+    "title_uk": "Румунія займає останнє місце в ЄС за онлайн-взаємодією з владою",
+    "summary_uk": "У Румунії 95% домогосподарств мають доступ до інтернету, але менше 25% громадян взаємодіють з державними органами онлайн. Країна також демонструє найнижчий рівень впровадження штучного інтелекту серед компаній ЄС, що свідчить про розрив між підключенням та використанням цифрових технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія займає останнє місце в ЄС за онлайн-взаємодією з владою",
+    "summary": "У Румунії 95% домогосподарств мають доступ до інтернету, але менше 25% громадян взаємодіють з державними органами онлайн. Країна також демонструє найнижчий рівень впровадження штучного інтелекту серед компаній ЄС, що свідчить про розрив між підключенням та використанням цифрових технологій.",
+    "link": "https://business-review.eu/tech/online/romania-ranks-last-in-eu-for-online-interaction-with-public-authorities-302277",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c496e1757518",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/23/naskilki-ukrayinske-zakonodavstvo-2026-roku-vstigaje-za-texnologiiami/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Промислові акумулятори в Україні: наскільки українське законодавство 2026 року встигає за технологіями",
+    "body_orig": "Українське законодавство передбачає пільговий порядок розрахунку мережевих тарифів для систем зберігання енергії. Проте підприємства досі стикаються зі складнощами під час підключення обладнання та розрахунку платежів.",
+    "published": "2026-10-25T15:05:34",
+    "fetched": "2026-10-25T18:44:38.089937",
+    "title_uk": "Проблеми з підключенням промислових акумуляторів в Україні",
+    "summary_uk": "В Україні запроваджено пільговий порядок розрахунку мережевих тарифів для систем зберігання енергії. Однак підприємства стикаються зі складнощами при підключенні обладнання та розрахунках. Це може вплинути на розвиток ринку акумуляторних технологій.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Складнощі з підключенням можуть затримати впровадження нових технологій у ритейлі. Рекомендується слідкувати за змінами в законодавстві для адаптації бізнес-процесів."
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Проблеми з підключенням промислових акумуляторів в Україні",
+    "summary": "В Україні запроваджено пільговий порядок розрахунку мережевих тарифів для систем зберігання енергії. Однак підприємства стикаються зі складнощами при підключенні обладнання та розрахунках. Це може вплинути на розвиток ринку акумуляторних технологій.",
+    "link": "https://ain.ua/2026/10/23/naskilki-ukrayinske-zakonodavstvo-2026-roku-vstigaje-za-texnologiiami/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
