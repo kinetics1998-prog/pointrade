@@ -449800,5 +449800,639 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "5b4ba9770907",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Rzez-etatow-w-europejskich-fabrykach-Zniknie-prawie-19-tys-miejsc-pracy-w-samej-motoryzacji-9221593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rzeź etatów w europejskich fabrykach. Zniknie prawie 19 tys. miejsc pracy w samej motoryzacji",
+    "body_orig": "W pierwszej połowie 2026 r. producenci części w Europie zapowiedzieli likwidację prawie 19 tysięcy etatów - wynika z raportu przygotowanego przez SDCM. Wartość unijnego eksportu w pierwszym półroczu w tym sektorze spadła do 24,4 mld euro z 28,9 mld euro analogicznym okresie dwa lata wcześniej.",
+    "published": "2026-10-31T08:16:00",
+    "fetched": "2026-10-31T19:44:18.837981",
+    "title_uk": "У Європі зникне майже 19 тисяч робочих місць у автомобільній промисловості",
+    "summary_uk": "У першій половині 2026 року виробники автомобільних частин в Європі планують скоротити майже 19 тисяч робочих місць. Вартість експорту в цьому секторі знизилася до €24.4 млрд з €28.9 млрд за аналогічний період два роки тому.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Скорочення робочих місць може призвести до зменшення попиту на автомобільні запчастини, що вплине на дистрибуцію в Польщі.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Скорочення в автомобільній промисловості може вплинути на плани закупівель і продажів у категоріях, пов'язаних з автомобільними частинами."
+    },
+    "tags": [
+      "виробництво",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У Європі зникне майже 19 тисяч робочих місць у автомобільній промисловості",
+    "summary": "У першій половині 2026 року виробники автомобільних частин в Європі планують скоротити майже 19 тисяч робочих місць. Вартість експорту в цьому секторі знизилася до €24.4 млрд з €28.9 млрд за аналогічний період два роки тому.",
+    "link": "https://www.bankier.pl/wiadomosc/Rzez-etatow-w-europejskich-fabrykach-Zniknie-prawie-19-tys-miejsc-pracy-w-samej-motoryzacji-9221593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "92daaedf27da",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/emerytury/oskar-sobolewski/wplata-powitalna-w-ppk-121-tys-osob-dostanie-przelew-7345899201870272a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wpłata powitalna w PPK. 121 tys. osób dostanie przelew",
+    "body_orig": "Do 16 listopada 2026&nbsp;r., na rachunki 121 tysięcy uczestników PPK trafią wpłaty powitalne. W sumie za pierwszy, drugi oraz trzeci kwartał 2026&nbsp;r. do niemal 408 tysięcy uczestników PPK zostało przekazanych 101,9 mln zł z tytułu wpłat. \"To sygnał rosnącej świadomości finansowej Polaków i coraz większego przekonania, że na emeryturę warto oszczędzać\" – mówi Marta Damm‑Świerkocka, członkini zarządu PFR Portal PPK.",
+    "published": "2026-10-31T12:26:47",
+    "fetched": "2026-10-31T19:44:22.862827",
+    "title_uk": "121 тисяча учасників PPK отримають вітальні виплати",
+    "summary_uk": "До 16 листопада 2026 року 121 тисяча учасників PPK отримають вітальні виплати. Загалом за перші три квартали 2026 року на рахунки майже 408 тисяч учасників було перераховано €22.5 млн. Це свідчить про зростання фінансової свідомості поляків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання фінансової свідомості може підвищити попит на фінансові продукти, що стосуються пенсійних накопичень.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "121 тисяча учасників PPK отримають вітальні виплати",
+    "summary": "До 16 листопада 2026 року 121 тисяча учасників PPK отримають вітальні виплати. Загалом за перші три квартали 2026 року на рахунки майже 408 тисяч учасників було перераховано €22.5 млн. Це свідчить про зростання фінансової свідомості поляків.",
+    "link": "https://www.money.pl/emerytury/oskar-sobolewski/wplata-powitalna-w-ppk-121-tys-osob-dostanie-przelew-7345899201870272a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9edb83087f96",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/asia-pacific/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market/4107573",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market",
+    "body_orig": "Feature to launch with official iOS 27.3 release in December",
+    "published": "2026-10-31T17:35:45",
+    "fetched": "2026-10-31T19:44:33.338504",
+    "title_uk": "Alibaba та Apple інтегрують Qwen AI для китайського ринку",
+    "summary_uk": "Alibaba уклала партнерство з Apple для інтеграції моделі Qwen AI в Apple Intelligence. Ця функція буде запущена з офіційним релізом iOS 27.3 у грудні 2026 року. Очікується, що це підвищить конкурентоспроможність Apple на китайському ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це партнерство може створити нові можливості для турецьких виробників, які прагнуть виходу на китайський ринок, через підвищення технологічності продуктів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Alibaba та Apple інтегрують Qwen AI для китайського ринку",
+    "summary": "Alibaba уклала партнерство з Apple для інтеграції моделі Qwen AI в Apple Intelligence. Ця функція буде запущена з офіційним релізом iOS 27.3 у грудні 2026 року. Очікується, що це підвищить конкурентоспроможність Apple на китайському ринку.",
+    "link": "https://www.aa.com.tr/en/asia-pacific/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market/4107573",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "977b596bb3aa",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladığını bildirdi",
+    "body_orig": "Kripto para borsası Binance, siber saldırıda çalınan varlıklardan kaynaklanan kayıpların yüzde 90'ını karşıladığını, kalan kısmı da tamamlamak için piyasa ve tezgah üstü (OTC) kanallarından alımlarını sürdürdüğünü duyurdu.",
+    "published": "2026-10-31T17:20:24",
+    "fetched": "2026-10-31T19:44:34.353125",
+    "title_uk": "Binance компенсує 90% втрат від кібератаки",
+    "summary_uk": "Криптобіржа Binance оголосила, що відшкодувала 90% активів, вкрадених під час кібератаки. Решту суми компанія планує компенсувати через покупки на ринку та позабіржових каналах. Це свідчить про стабільність Binance у кризових ситуаціях.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Binance компенсує 90% втрат від кібератаки",
+    "summary": "Криптобіржа Binance оголосила, що відшкодувала 90% активів, вкрадених під час кібератаки. Решту суми компанія планує компенсувати через покупки на ринку та позабіржових каналах. Це свідчить про стабільність Binance у кризових ситуаціях.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9be79dcc7b3e",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-sapanca-golu-eylem-plani-5-yil-icinde-25-5-milyar-liralik-yatirim-yapilacak/4107421",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Yumaklı: (Sapanca Gölü Eylem Planı) 5 yıl içinde 25,5 milyar liralık yatırım yapılacak",
+    "body_orig": "Bakan Yumaklı, Sapanca Gölü Eylem Planı'nda 6 ana eylem ve 12 tedbir bulunduğunu belirterek \"Bu tedbirlere ilişkin 5 yıl içinde yaklaşık 25,5 milyar liralık yatırım sadece bu eylemin içindeki hususları hayata geçirmek için yapılmış olacak.\" dedi.",
+    "published": "2026-10-31T14:30:23",
+    "fetched": "2026-10-31T19:44:34.353147",
+    "title_uk": "Туреччина інвестує €1.25 млрд у план дій для озера Сапанча",
+    "summary_uk": "Уряд Туреччини планує інвестувати приблизно €1.25 млрд у проект, що передбачає 6 основних дій та 12 заходів для захисту озера Сапанча. Інвестиції будуть спрямовані на реалізацію заходів протягом наступних 5 років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, зокрема в сфері екологічних технологій.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина інвестує €1.25 млрд у план дій для озера Сапанча",
+    "summary": "Уряд Туреччини планує інвестувати приблизно €1.25 млрд у проект, що передбачає 6 основних дій та 12 заходів для захисту озера Сапанча. Інвестиції будуть спрямовані на реалізацію заходів протягом наступних 5 років.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-sapanca-golu-eylem-plani-5-yil-icinde-25-5-milyar-liralik-yatirim-yapilacak/4107421",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cb74afcae45e",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-indirdik/4107262",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Uraloğlu: Dallıkavak Tüneli ile yolumuzu 20 dakikadan 5 dakikaya indirdik",
+    "body_orig": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Dallıkavak Tüneli'ne ilişkin \"Yolumuzu yaklaşık 4,5 kilometre kısaltarak 20 dakikadan sadece 5 dakikaya indirdik. Bu sayede toplam 103 milyon lira da yıllık buradan tasarruf elde etmiş olacağız.\" dedi.",
+    "published": "2026-10-31T11:12:23",
+    "fetched": "2026-10-31T19:44:34.353155",
+    "title_uk": "Тунель Dallıkavak скорочує час у дорозі до 5 хвилин",
+    "summary_uk": "Міністр транспорту Туреччини Абдулкадір Уралоґлу оголосив про відкриття тунелю Dallıkavak, що скорочує маршрут на 4,5 км. Тепер час у дорозі зменшився з 20 до 5 хвилин. Очікується, що це принесе економію в €4 млн щорічно.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може покращити логістику для турецьких виробників, зменшуючи витрати на транспортування. Рекомендується переглянути маршрути доставки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Тунель Dallıkavak скорочує час у дорозі до 5 хвилин",
+    "summary": "Міністр транспорту Туреччини Абдулкадір Уралоґлу оголосив про відкриття тунелю Dallıkavak, що скорочує маршрут на 4,5 км. Тепер час у дорозі зменшився з 20 до 5 хвилин. Очікується, що це принесе економію в €4 млн щорічно.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-indirdik/4107262",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "692c12b9c24b",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
+    "body_orig": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
+    "published": "2026-10-31T11:21:05",
+    "fetched": "2026-10-31T19:44:34.353164",
+    "title_uk": "Росія продовжила заборону на експорт дизельного пального до січня 2027",
+    "summary_uk": "Уряд Росії продовжив заборону на експорт дизельного пального, суднового пального та гасу до 31 січня 2027 року. Це рішення вплине на ринок пального в регіоні, оскільки Росія є значним постачальником. Заборона може призвести до зростання цін на дизель в інших країнах.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "експорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Росія продовжила заборону на експорт дизельного пального до січня 2027",
+    "summary": "Уряд Росії продовжив заборону на експорт дизельного пального, суднового пального та гасу до 31 січня 2027 року. Це рішення вплине на ринок пального в регіоні, оскільки Росія є значним постачальником. Заборона може призвести до зростання цін на дизель в інших країнах.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5c55db1bb317",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/bnr-romanii-sunt-pe-primul-loc-in-ue-la-interesul-pentru-cripto-portofoliile-ar-putea-ajunge-la-12-miliarde-de-euro-23271649",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "BNR: românii sunt pe primul loc în UE la interesul pentru cripto. Portofoliile ar putea ajunge la 12 miliarde de euro",
+    "body_orig": "",
+    "published": "2026-10-31T16:36:26",
+    "fetched": "2026-10-31T19:44:38.495641",
+    "title_uk": "Румунія лідирує в ЄС за інтересом до криптовалют",
+    "summary_uk": "Румунський центральний банк повідомив, що інтерес до криптовалют серед румунів є найвищим в ЄС. Очікується, що загальні портфелі криптоактивів румунів досягнуть €12 млрд. Це свідчить про зростаючу популярність цифрових валют у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія лідирує в ЄС за інтересом до криптовалют",
+    "summary": "Румунський центральний банк повідомив, що інтерес до криптовалют серед румунів є найвищим в ЄС. Очікується, що загальні портфелі криптоактивів румунів досягнуть €12 млрд. Це свідчить про зростаючу популярність цифрових валют у країні.",
+    "link": "https://www.zf.ro/banci-si-asigurari/bnr-romanii-sunt-pe-primul-loc-in-ue-la-interesul-pentru-cripto-portofoliile-ar-putea-ajunge-la-12-miliarde-de-euro-23271649",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a25e9f520c01",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/binance-anunta-ca-a-acoperit-90-din-fondurile-afectate-de-atacul-cibernetic-de-6-3-miliarde-de-dolari-compania-promite-ca-utilizatorii-nu-vor-suporta-pierderile-23271639",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Binance anunţă că a acoperit 90% din fondurile afectate de atacul cibernetic de 6,3 miliarde de dolari. Compania promite că utilizatorii nu vor suporta pierderile",
+    "body_orig": "",
+    "published": "2026-10-31T15:54:27",
+    "fetched": "2026-10-31T19:44:38.495664",
+    "title_uk": "Binance відновила 90% коштів після кібератаки на $6.3 млрд",
+    "summary_uk": "Binance оголосила, що відшкодувала 90% з $6.3 млрд, втрачених під час кібератаки. Компанія запевняє, що користувачі не зазнають фінансових втрат. Відновлення коштів відбулося завдяки внутрішнім резервам та страховим механізмам.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Binance відновила 90% коштів після кібератаки на $6.3 млрд",
+    "summary": "Binance оголосила, що відшкодувала 90% з $6.3 млрд, втрачених під час кібератаки. Компанія запевняє, що користувачі не зазнають фінансових втрат. Відновлення коштів відбулося завдяки внутрішнім резервам та страховим механізмам.",
+    "link": "https://www.zf.ro/eveniment/binance-anunta-ca-a-acoperit-90-din-fondurile-afectate-de-atacul-cibernetic-de-6-3-miliarde-de-dolari-compania-promite-ca-utilizatorii-nu-vor-suporta-pierderile-23271639",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "be215f013d02",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/guvernul-renunta-la-taxa-de-25-de-lei-pe-coletele-temu-shein-si-aliexpress-dar-este-inlocuita-in-schimb-de-doua-taxe-de-la-ue-una-de-3-euro-si-una-de-2-euro-23271551",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Guvernul renunţă la taxa de 25 de lei pe coletele Temu, Shein şi AliExpress, dar este înlocuită în schimb de două taxe de la UE: una de 3 euro şi una de 2 euro",
+    "body_orig": "",
+    "published": "2026-10-31T13:54:00",
+    "fetched": "2026-10-31T19:44:38.495672",
+    "title_uk": "Румунія скасовує податок на імпорт товарів з Temu, Shein та AliExpress",
+    "summary_uk": "Уряд Румунії скасував податок у 25 леїв на імпорт товарів з платформ Temu, Shein та AliExpress. Натомість вводяться дві нові збори від ЄС: по €3 та €2. Це рішення вплине на вартість товарів для споживачів у Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Румунія скасовує податок на імпорт товарів з Temu, Shein та AliExpress",
+    "summary": "Уряд Румунії скасував податок у 25 леїв на імпорт товарів з платформ Temu, Shein та AliExpress. Натомість вводяться дві нові збори від ЄС: по €3 та €2. Це рішення вплине на вартість товарів для споживачів у Румунії.",
+    "link": "https://www.zf.ro/eveniment/guvernul-renunta-la-taxa-de-25-de-lei-pe-coletele-temu-shein-si-aliexpress-dar-este-inlocuita-in-schimb-de-doua-taxe-de-la-ue-una-de-3-euro-si-una-de-2-euro-23271551",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f58392d0591c",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/senatorul-aur-petrisor-peiu-actionar-la-20-de-companii-listate-la-bursa-propune-ca-impozitul-pe-castigurile-prin-brokeri-din-ue-sa-scada-de-la-16-la-3-sau-6-la-fel-ca-prin-brokerii-romani-23271559",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Senatorul AUR Petrişor Peiu, acţionar la 20 de companii listate la bursă, propune ca impozitul pe câştigurile prin brokeri din UE să scadă de la 16% la 3% sau 6%, la fel ca prin brokerii români",
+    "body_orig": "",
+    "published": "2026-10-31T11:42:34",
+    "fetched": "2026-10-31T19:44:38.495681",
+    "title_uk": "Пропозиція зниження податку на прибуток для брокерів в Румунії",
+    "summary_uk": "Сенатор Petrişor Peiu пропонує знизити податок на прибуток від угод через брокерів з 16% до 3% або 6%. Це стосується брокерів з ЄС, щоб зрівняти умови з румунськими. Зміни можуть стимулювати інвестиції на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Пропозиція зниження податку на прибуток для брокерів в Румунії",
+    "summary": "Сенатор Petrişor Peiu пропонує знизити податок на прибуток від угод через брокерів з 16% до 3% або 6%. Це стосується брокерів з ЄС, щоб зрівняти умови з румунськими. Зміни можуть стимулювати інвестиції на ринку.",
+    "link": "https://www.zf.ro/zf-24/senatorul-aur-petrisor-peiu-actionar-la-20-de-companii-listate-la-bursa-propune-ca-impozitul-pe-castigurile-prin-brokeri-din-ue-sa-scada-de-la-16-la-3-sau-6-la-fel-ca-prin-brokerii-romani-23271559",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "37e19e38eebe",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/franta-primeste-lovitura-economica-fitch-inrautateste-perspectiva-ratingului-tara-dupa-scaderea-neasteptata-economiei-datoria-publica-apropie-120-pib-iar-costurile-imprumut-explodeaza-23271556",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Franţa primeşte o nouă lovitură economică: Fitch înrăutăţeşte perspectiva ratingului de ţară după scăderea neaşteptată a economiei. Datoria publică se apropie de 120% din PIB, iar costurile de împrumut explodează",
+    "body_orig": "",
+    "published": "2026-10-31T11:11:27",
+    "fetched": "2026-10-31T19:44:38.495688",
+    "title_uk": "Франція отримала негативний прогноз від Fitch через економічний спад",
+    "summary_uk": "Агентство Fitch погіршило прогноз рейтингу Франції через несподіване зниження економіки. Державний борг країни наближається до 120% від ВВП, що призводить до зростання витрат на запозичення. Ці фактори можуть негативно вплинути на інвестиційний клімат у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Франція отримала негативний прогноз від Fitch через економічний спад",
+    "summary": "Агентство Fitch погіршило прогноз рейтингу Франції через несподіване зниження економіки. Державний борг країни наближається до 120% від ВВП, що призводить до зростання витрат на запозичення. Ці фактори можуть негативно вплинути на інвестиційний клімат у країні.",
+    "link": "https://www.zf.ro/eveniment/franta-primeste-lovitura-economica-fitch-inrautateste-perspectiva-ratingului-tara-dupa-scaderea-neasteptata-economiei-datoria-publica-apropie-120-pib-iar-costurile-imprumut-explodeaza-23271556",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "38a58554d700",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/drumul-expres-braila-galati-3_991084.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "VIDEO Drumul Expres Brăila – Galați: A început montarea cablurilor la hobanele podului peste Siret",
+    "body_orig": "Grupul UMB, cel mai mare constructor de drumuri din România, a început montarea cablurilor de la hobane la podul peste râul Siret, din cadrul proiectului Drumului Expres Brăila - Galați, potrivit imaginilor postate sâmbătă de pasionații de infrastructură.",
+    "published": "2026-10-31T18:29:08",
+    "fetched": "2026-10-31T19:44:41.726361",
+    "title_uk": "Розпочато монтаж кабелів на мосту через Сiret у Румунії",
+    "summary_uk": "Grupul UMB розпочав монтаж кабелів на мосту через річку Сiret у рамках проекту Drumului Expres Brăila - Galați. Цей проект має на меті покращення транспортної інфраструктури між Браїлою та Галацом. Встановлення кабелів є важливим етапом у будівництві.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Розпочато монтаж кабелів на мосту через Сiret у Румунії",
+    "summary": "Grupul UMB розпочав монтаж кабелів на мосту через річку Сiret у рамках проекту Drumului Expres Brăila - Galați. Цей проект має на меті покращення транспортної інфраструктури між Браїлою та Галацом. Встановлення кабелів є важливим етапом у будівництві.",
+    "link": "https://www.economica.net/drumul-expres-braila-galati-3_991084.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "17d65c06d6cc",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/30/pislia-viini-z-tisiac-oboronnix-kompanii-zalisatsia-sotni-roman-sulzik-pro-zrostannia-investicii-ta-maibutnje-oboronnogo-rinku/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Після війни з тисяч оборонних компаній залишаться сотні»: Роман Сульжик — про зростання інвестицій та майбутнє оборонного ринку",
+    "body_orig": "Чому інвестори вкладають мільярди в оборонні технології, які ризики має український Defense Tech і як зміниться ринок після війни.",
+    "published": "2026-10-31T13:13:21",
+    "fetched": "2026-10-31T19:44:26.530001",
+    "title_uk": "Зростання інвестицій в оборонні технології в Україні",
+    "summary_uk": "Інвестори активно вкладають у оборонні технології в Україні, незважаючи на ризики. Очікується, що після війни з тисяч оборонних компаній залишиться лише кілька сотень. Це свідчить про потенційний ріст ринку та можливості для інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зростання інвестицій в оборонні технології в Україні",
+    "summary": "Інвестори активно вкладають у оборонні технології в Україні, незважаючи на ризики. Очікується, що після війни з тисяч оборонних компаній залишиться лише кілька сотень. Це свідчить про потенційний ріст ринку та можливості для інвесторів.",
+    "link": "https://ain.ua/2026/10/30/pislia-viini-z-tisiac-oboronnix-kompanii-zalisatsia-sotni-roman-sulzik-pro-zrostannia-investicii-ta-maibutnje-oboronnogo-rinku/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4a2c9284e2ea",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/yak-ne-vtratiti-grosi-na-aliexpress-i-temu-pid-cas-rozprodaziv-v5m33k",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як не втратити гроші на AliExpress і Temu під час розпродажів",
+    "body_orig": "Великі розпродажі на AliExpress і Temu — час, коли покупці полюють на знижки, а шахраї використовують ажіотаж, щоб виманювати гроші та персональні дані. Підроблені сторінки магазинів, фальшиві повідомлення про доставку, підозрілі посилання на оплату й товари з нереалістичними цінами — лише частина ризиків, з якими можна зіткнутися під час онлайн-шопінгу.",
+    "published": "2026-10-31T15:30:00",
+    "fetched": "2026-10-31T19:44:28.253557",
+    "title_uk": "Як не втратити гроші на AliExpress і Temu під час розпродажів",
+    "summary_uk": "Під час розпродажів на AliExpress і Temu покупці стикаються з ризиками шахрайства. Підроблені сайти, фальшиві повідомлення про доставку та підозрілі посилання можуть призвести до втрати грошей і даних. Важливо бути обережними під час онлайн-шопінгу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Як не втратити гроші на AliExpress і Temu під час розпродажів",
+    "summary": "Під час розпродажів на AliExpress і Temu покупці стикаються з ризиками шахрайства. Підроблені сайти, фальшиві повідомлення про доставку та підозрілі посилання можуть призвести до втрати грошей і даних. Важливо бути обережними під час онлайн-шопінгу.",
+    "link": "https://speka.ua/news/yak-ne-vtratiti-grosi-na-aliexpress-i-temu-pid-cas-rozprodaziv-v5m33k",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8bbc34eddfc6",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/fire-point-navcilasya-zaversuvati-dalekobiini-misiyi-bez-starlink-pn4121",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Fire Point навчилася завершувати далекобійні місії без Starlink",
+    "body_orig": "Українська Fire Point розробила рішення, які дозволяють її системам завершувати далекобійні ударні місії без супутникового зв’язку. Водночас вони лише частково компенсують можливості, недоступні через обмеження сервісів SpaceX. Про це пише Reuters із посиланням на генеральну директорку компанії Ірину Терех.",
+    "published": "2026-10-31T11:40:00",
+    "fetched": "2026-10-31T19:44:28.253593",
+    "title_uk": "Fire Point завершила місії без Starlink",
+    "summary_uk": "Українська компанія Fire Point розробила рішення для завершення далекобійних ударних місій без супутникового зв’язку. Це частково компенсує обмеження сервісів SpaceX. Генеральна директорка Ірина Терех повідомила про нововведення, яке може вплинути на військові операції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Fire Point завершила місії без Starlink",
+    "summary": "Українська компанія Fire Point розробила рішення для завершення далекобійних ударних місій без супутникового зв’язку. Це частково компенсує обмеження сервісів SpaceX. Генеральна директорка Ірина Терех повідомила про нововведення, яке може вплинути на військові операції.",
+    "link": "https://speka.ua/news/fire-point-navcilasya-zaversuvati-dalekobiini-misiyi-bez-starlink-pn4121",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
