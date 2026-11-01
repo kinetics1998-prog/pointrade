@@ -451511,5 +451511,961 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "e61acab0aafd",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Kiedy-spadna-stopy-procentowe-i-raty-kredytow-Eksperci-wskazuja-konkretny-termin-9220354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Kiedy spadną stopy procentowe i raty kredytów? Eksperci wskazują konkretny termin",
+    "body_orig": "Szczyt cyklu gospodarczego w Polsce już minął i dynamika PKB będzie stopniowo hamować – prognozuje kierowniczka zespołu analiz makroekonomicznych PKO BP, Marta Petka-Zagajewska. Jej zdaniem, w połowie przyszłego roku inflacja CPI powinna powrócić w zakres odchyleń od celu NBP, a pierwszym ruchem Rady Polityki Pieniężnej będzie obniżka stóp.",
+    "published": "2026-11-01T13:00:00",
+    "fetched": "2026-11-01T20:14:01.035535",
+    "title_uk": "Експерти прогнозують зниження ставок у Польщі в 2024 році",
+    "summary_uk": "Згідно з прогнозами, економічний пік у Польщі вже минув, і динаміка ВВП сповільниться. Очікується, що в середині 2024 року інфляція повернеться в межі цілей НБП, що призведе до зниження процентних ставок. Це стане першим кроком Ради Політики Пенієї.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження ставок може зменшити витрати на кредитування для дистриб'юторів, що позитивно вплине на фінансові показники.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Експерти прогнозують зниження ставок у Польщі в 2024 році",
+    "summary": "Згідно з прогнозами, економічний пік у Польщі вже минув, і динаміка ВВП сповільниться. Очікується, що в середині 2024 року інфляція повернеться в межі цілей НБП, що призведе до зниження процентних ставок. Це стане першим кроком Ради Політики Пенієї.",
+    "link": "https://www.bankier.pl/wiadomosc/Kiedy-spadna-stopy-procentowe-i-raty-kredytow-Eksperci-wskazuja-konkretny-termin-9220354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "80270b760e7b",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Warszawa-coraz-drozsza-Juz-niemal-co-trzecie-nowe-mieszkanie-kosztuje-ponad-20-tys-zl-za-metr-kwadratowy-9221108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Warszawa coraz droższa. Już niemal co trzecie nowe mieszkanie kosztuje ponad 20 tys. zł za metr kwadratowy",
+    "body_orig": "Jeszcze rok temu mieszkania kosztujące poniżej 15 tys. zł za metr kwadratowy stanowiły blisko jedną trzecią oferty deweloperów w Warszawie. Dziś udział takich mieszkań spadł do niespełna jednej czwartej. Jednocześnie szybko przybywa lokali z górnej półki cenowej. To właśnie ta zmiana struktury rynku sprawia, że mimo rekordowo dużej oferty średnia cena nowych mieszkań w stolicy nadal rośnie.",
+    "published": "2026-11-01T11:00:00",
+    "fetched": "2026-11-01T20:14:01.035550",
+    "title_uk": "Ціни на нові квартири у Варшаві зростають",
+    "summary_uk": "У Варшаві частка нових квартир, що коштують понад 20 тис. злотих за квадратний метр, зросла до 1/3. Рік тому таких квартир було близько 1/4. Зростання цін відбувається на фоні великої пропозиції новобудов.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на житло може вплинути на попит на товари для дому. Розгляньте адаптацію асортименту під нові цінові реалії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на житло може вплинути на купівельну спроможність споживачів. Перегляньте стратегії промо та цін для категорій, що залежать від споживчих витрат."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нові квартири у Варшаві зростають",
+    "summary": "У Варшаві частка нових квартир, що коштують понад 20 тис. злотих за квадратний метр, зросла до 1/3. Рік тому таких квартир було близько 1/4. Зростання цін відбувається на фоні великої пропозиції новобудов.",
+    "link": "https://www.bankier.pl/wiadomosc/Warszawa-coraz-drozsza-Juz-niemal-co-trzecie-nowe-mieszkanie-kosztuje-ponad-20-tys-zl-za-metr-kwadratowy-9221108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "57eb90b5ea77",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/W-centrum-Warszawy-dramatycznie-brakuje-biur-Takiej-sytuacji-nie-bylo-od-2008-roku-9221553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "W centrum Warszawy dramatycznie brakuje biur. Takiej sytuacji nie było od 2008 roku",
+    "body_orig": "Popyt na biura w Warszawie wyniósł w III kwartale br. 175,3 tys. mkw. - wynika z danych firmy Cushman &amp; Wakefield. W centrum miasta do wynajęcia pozostawało niecałe 5 proc. powierzchni biurowej. Analitycy firmy podkreślili, że to najmniejsza dostępność od 2008 r.",
+    "published": "2026-11-01T15:08:00",
+    "fetched": "2026-11-01T20:14:01.035575",
+    "title_uk": "У Варшаві спостерігається рекордний дефіцит офісних приміщень",
+    "summary_uk": "У третьому кварталі 2026 року попит на офіси у Варшаві склав 175 тис. м². У центрі міста доступно менше 5% офісних площ, що є найнижчим показником з 2008 року. Це свідчить про зростаючу конкуренцію за офісні приміщення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "В умовах обмеженої доступності офісів, дистриб'ютори можуть розглянути можливість укладення угод на довгострокову оренду, щоб уникнути підвищення цін.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростаючий попит на офіси може вплинути на стратегії розміщення товарів у ритейлі, оскільки компанії можуть шукати нові локації для розширення."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "У Варшаві спостерігається рекордний дефіцит офісних приміщень",
+    "summary": "У третьому кварталі 2026 року попит на офіси у Варшаві склав 175 тис. м². У центрі міста доступно менше 5% офісних площ, що є найнижчим показником з 2008 року. Це свідчить про зростаючу конкуренцію за офісні приміщення.",
+    "link": "https://www.bankier.pl/wiadomosc/W-centrum-Warszawy-dramatycznie-brakuje-biur-Takiej-sytuacji-nie-bylo-od-2008-roku-9221553.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0b2e16a8d03e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/polska-jest-potega-w-produkcji-zniczy-branza-zatrudnia-100-tys-osob/bxglev6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ta branża zatrudnia 100 tys. osób. Polska jest w niej światową potęgą",
+    "body_orig": "Branża producentów zniczy i świec w Polsce obejmuje dziesiątki zakładów produkcyjnych, ale też dostawców surowców, wśród których jest m.in. koncern Orlen. To ogromny rynek pracy, skupiający ok. 100 tys. pracowników — informuje portal WNP.pl. Jednak w ostatnim czasie w tym sektorze nie brakuje problemów.",
+    "published": "2026-11-01T12:07:21",
+    "fetched": "2026-11-01T20:14:02.251435",
+    "title_uk": "Польща лідирує у виробництві свічок та свічок",
+    "summary_uk": "Виробництво свічок і свічок у Польщі налічує близько 100 тис. працівників. Сектор включає численні виробничі підприємства та постачальників, зокрема компанію Orlen. Однак галузь стикається з проблемами, які потребують вирішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Сектор виробництва свічок в Польщі є великим ринком. Дистриб'ютори можуть розглянути можливості для співпраці з виробниками, щоб задовольнити попит.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща лідирує у виробництві свічок та свічок",
+    "summary": "Виробництво свічок і свічок у Польщі налічує близько 100 тис. працівників. Сектор включає численні виробничі підприємства та постачальників, зокрема компанію Orlen. Однак галузь стикається з проблемами, які потребують вирішення.",
+    "link": "https://businessinsider.com.pl/biznes/polska-jest-potega-w-produkcji-zniczy-branza-zatrudnia-100-tys-osob/bxglev6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "63c595f995b5",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/miliardowy-majatek-oddal-fundacji-mozna-sie-wypisac-z-klubu-rodzina-7344230537024065v.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Miliardowy majątek oddał fundacji. \"Można się wypisać z klubu rodzina\"",
+    "body_orig": "Współtwórca LPP, spółki wycenianej na giełdzie na blisko 50 miliardów złotych, przekazał swój majątek fundacji rodzinnej. W \"Biznes Klasie\" Marek Piechocki mówi, że jego spadkobiercy nie będą mogli sprzedać akcji firmy ani podzielić się majątkiem. Zobacz fragment rozmowy.",
+    "published": "2026-11-01T11:41:25",
+    "fetched": "2026-11-01T20:14:04.197304",
+    "title_uk": "Співзасновник LPP передав мільярдний актив родинній фонді",
+    "summary_uk": "Марк Пєхоцкі, співзасновник LPP, передав свій мільярдний актив родинній фонді. Це означає, що його спадкоємці не зможуть продавати акції компанії або ділити майно. LPP оцінюється на біржі приблизно в €10.5 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Співзасновник LPP передав мільярдний актив родинній фонді",
+    "summary": "Марк Пєхоцкі, співзасновник LPP, передав свій мільярдний актив родинній фонді. Це означає, що його спадкоємці не зможуть продавати акції компанії або ділити майно. LPP оцінюється на біржі приблизно в €10.5 млрд.",
+    "link": "https://www.money.pl/gospodarka/miliardowy-majatek-oddal-fundacji-mozna-sie-wypisac-z-klubu-rodzina-7344230537024065v.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2019ee167b47",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/zgasili-swiatlo-po-100-latach-to-byl-ostatni-dzien-fabryki-zarowek-7346264381045216a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Działali ponad 100 lat. Zwolniono setki osób, koniec fabryki",
+    "body_orig": "Po ponad stu latach zamknięto pabianicką fabrykę żarówek. Likwidacja zakładu oznacza zwolnienia grupowe 474 pracowników, a część załogi wciąż czeka na zaległe wynagrodzenia – podaje lokalny serwis epainfo.pl.",
+    "published": "2026-11-01T09:27:58",
+    "fetched": "2026-11-01T20:14:04.197326",
+    "title_uk": "Закриття фабрики в Польщі призвело до масових звільнень",
+    "summary_uk": "У Польщі закрили фабрику ламп, що працювала понад 100 років. Це призвело до звільнення 474 працівників, частина з яких ще чекає на виплату заробітної плати. Заклад закрився через економічні труднощі, які вплинули на виробництво.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Звільнення працівників може вплинути на постачання продукції в регіоні. Дистриб'юторам варто переглянути запаси та плани на майбутнє.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Закриття фабрики в Польщі призвело до масових звільнень",
+    "summary": "У Польщі закрили фабрику ламп, що працювала понад 100 років. Це призвело до звільнення 474 працівників, частина з яких ще чекає на виплату заробітної плати. Заклад закрився через економічні труднощі, які вплинули на виробництво.",
+    "link": "https://www.money.pl/gospodarka/zgasili-swiatlo-po-100-latach-to-byl-ostatni-dzien-fabryki-zarowek-7346264381045216a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "09bfcb6759e7",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/ankara-seeks-to-expand-economic-cooperation-with-seoul-228869",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Ankara seeks to expand economic cooperation with Seoul",
+    "body_orig": "Türkiye and South Korea are looking to deepen cooperation across a range of sectors, including trade, tourism, investment and defense, as the two countries pursue a goal of increasing their bilateral trade volume to $15 billion",
+    "published": "2026-11-01T10:00:00",
+    "fetched": "2026-11-01T20:14:09.691027",
+    "title_uk": "Туреччина та Південна Корея планують збільшити торгівлю до $15 млрд",
+    "summary_uk": "Туреччина та Південна Корея прагнуть поглибити співпрацю в торгівлі, туризмі, інвестиціях та обороні. Обидві країни мають на меті підвищити обсяг двосторонньої торгівлі до $15 млрд. Це свідчить про намір розширити економічні зв'язки між державами.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це відкриває нові можливості для турецьких виробників, які можуть шукати партнерів у Південній Кореї для розширення ринків збуту.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина та Південна Корея планують збільшити торгівлю до $15 млрд",
+    "summary": "Туреччина та Південна Корея прагнуть поглибити співпрацю в торгівлі, туризмі, інвестиціях та обороні. Обидві країни мають на меті підвищити обсяг двосторонньої торгівлі до $15 млрд. Це свідчить про намір розширити економічні зв'язки між державами.",
+    "link": "https://www.hurriyetdailynews.com/ankara-seeks-to-expand-economic-cooperation-with-seoul-228869",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ce2ae192d832",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-guney-kore-yeni-ekonomik-isbirliklerine-odaklaniyor/4107983",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye ve Güney Kore yeni ekonomik işbirliklerine odaklanıyor",
+    "body_orig": "Ticaret, turizm gibi birçok alanda işbirliğini geliştirmeye odaklanan Türkiye ile Güney Kore arasındaki ticaret hacmi, geçen yıl 11,4 milyar doları, bu yılın 9 ayında da 8,7 milyar doları yakaladı.",
+    "published": "2026-11-01T12:23:30",
+    "fetched": "2026-11-01T20:14:13.326158",
+    "title_uk": "Туреччина та Південна Корея розвивають економічну співпрацю",
+    "summary_uk": "Торговий обсяг між Туреччиною та Південною Кореєю досяг $11.4 млрд минулого року та $8.7 млрд за перші дев'ять місяців цього року. Країни зосереджуються на розвитку співпраці в торгівлі та туризмі.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина та Південна Корея розвивають економічну співпрацю",
+    "summary": "Торговий обсяг між Туреччиною та Південною Кореєю досяг $11.4 млрд минулого року та $8.7 млрд за перші дев'ять місяців цього року. Країни зосереджуються на розвитку співпраці в торгівлі та туризмі.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-guney-kore-yeni-ekonomik-isbirliklerine-odaklaniyor/4107983",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6617d13307fd",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/avertisment-sumbru-din-partea-producatorilor-de-sicrie-din-europa-importurile-chinezesti-ar-putea-aduce-moartea-industriei-23271951",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Avertisment sumbru din partea producătorilor de sicrie din Europa: importurile chinezesti ar putea aduce moartea industriei",
+    "body_orig": "Producătorii europeni de sicrie îşi unesc forţele pentru a cere Bruxelles-ului să ancheteze importurile chinezeşti, avertizând că preţurile scăzute şi potenţialele lacune vamale ameninţă o industrie clădită în jurul uneia dintre cele mai previzibile pieţe ale continentului: moartea.",
+    "published": "2026-11-01T19:24:00",
+    "fetched": "2026-11-01T20:14:14.791416",
+    "title_uk": "Європейські виробники трун просять розслідування імпорту з Китаю",
+    "summary_uk": "Виробники трун в Європі закликали Єврокомісію перевірити імпорт з Китаю. Вони попереджають, що низькі ціни та можливі митні прогалини загрожують їхній індустрії. Європейський ринок трун вважається стабільним, але конкуренція з Китаю може змінити ситуацію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "імпорт",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Європейські виробники трун просять розслідування імпорту з Китаю",
+    "summary": "Виробники трун в Європі закликали Єврокомісію перевірити імпорт з Китаю. Вони попереджають, що низькі ціни та можливі митні прогалини загрожують їхній індустрії. Європейський ринок трун вважається стабільним, але конкуренція з Китаю може змінити ситуацію.",
+    "link": "https://www.zf.ro/business-international/avertisment-sumbru-din-partea-producatorilor-de-sicrie-din-europa-importurile-chinezesti-ar-putea-aduce-moartea-industriei-23271951",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e6c48dc92d69",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/exporturile-de-petrol-din-golf-abunda-si-atunci-de-ce-se-mentin-preturile-la-peste-100-de-dolari-pe-baril-23271944",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Exporturile de petrol din Golf abundă. Şi atunci de ce se menţin preţurile la peste 100 de dolari pe baril?",
+    "body_orig": "Exporturile de petrol din Golful Persic şi-au revenit semnificativ, uneori reatingând sau chiar depăşind volumele de dinaintea războiului. Şi totuşi, preţurile petrolului Brent au urcat şi se menţin în jurul a 110 dolari pe baril, un nivel înregistrat ultima dată la finalul lunii aprilie, când exporturile erau aproximativ la jumătatea celor actuale, scrie The Wall Street Journal.",
+    "published": "2026-11-01T19:23:00",
+    "fetched": "2026-11-01T20:14:14.791434",
+    "title_uk": "Експорт нафти з Перської затоки зріс, але ціни залишаються високими",
+    "summary_uk": "Експорт нафти з Перської затоки відновився до обсягів, що перевищують довоєнні. Проте ціни на нафту Brent залишаються на рівні близько $110 за барель, що є вищим, ніж у квітні, коли експорт був значно нижчим. Це викликає питання щодо причин високих цін на нафту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Експорт нафти з Перської затоки зріс, але ціни залишаються високими",
+    "summary": "Експорт нафти з Перської затоки відновився до обсягів, що перевищують довоєнні. Проте ціни на нафту Brent залишаються на рівні близько $110 за барель, що є вищим, ніж у квітні, коли експорт був значно нижчим. Це викликає питання щодо причин високих цін на нафту.",
+    "link": "https://www.zf.ro/business-international/exporturile-de-petrol-din-golf-abunda-si-atunci-de-ce-se-mentin-preturile-la-peste-100-de-dolari-pe-baril-23271944",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "58c56922a3e7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/gigantul-taiwanez-tehnologie-foxconn-unde-fac-iphone-urile-mac-urile-apple-ajuta-ungaria-polonia-cehia-unde-construi-fabrici-unde-investeste-miliarde-euro-profite-revolutia-romania-lipseste-planuri-23271925",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Gigantul taiwanez de tehnologie Foxconn, unde se fac iPhone-urile şi Mac-urile Apple, ajută Ungaria, Polonia şi Cehia, unde are deja sau va construi fabrici şi unde investeşte miliarde de euro, să profite de revoluţia AI. România lipseşte din planuri",
+    "body_orig": "Până anul trecut, Cloud Network Technology era o com­panie necunoscută în Ungaria, deşi este prezentă de mult timp acolo. Însă, propulsată pe locul patru în rândul corporaţiilor maghiare de o cifră de afaceri de 7,8 miliarde de dolari în 2025, aceasta a ajuns brusc în centrul atenţiei.",
+    "published": "2026-11-01T19:22:00",
+    "fetched": "2026-11-01T20:14:14.791446",
+    "title_uk": "Foxconn інвестує в Польщу, Чехію та Угорщину, але не в Румунію",
+    "summary_uk": "Foxconn планує інвестиції в мільярди євро в Польщі, Чехії та Угорщині для розвитку AI. Компанія Cloud Network Technology, яка має обіг $7.8 млрд, стала четвертою за величиною в Угорщині. Румунія не включена в ці плани.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Інвестиції Foxconn можуть створити нові можливості для польських дистриб'юторів у сфері технологій та AI. Рекомендується стежити за новими проектами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Foxconn інвестує в Польщу, Чехію та Угорщину, але не в Румунію",
+    "summary": "Foxconn планує інвестиції в мільярди євро в Польщі, Чехії та Угорщині для розвитку AI. Компанія Cloud Network Technology, яка має обіг $7.8 млрд, стала четвертою за величиною в Угорщині. Румунія не включена в ці плани.",
+    "link": "https://www.zf.ro/business-international/gigantul-taiwanez-tehnologie-foxconn-unde-fac-iphone-urile-mac-urile-apple-ajuta-ungaria-polonia-cehia-unde-construi-fabrici-unde-investeste-miliarde-euro-profite-revolutia-romania-lipseste-planuri-23271925",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "72cc9634de68",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/ajuns-olga-draguinea-cfo-lidl-cel-puternic-retailer-romania-unde-ii-trec-mana-peste-27-mld-lei-una-dintre-cele-bune-decizii-ramanem-romania-altii-au-ales-retraga-23271829",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum a ajuns Olga Drăguinea CFO la Lidl, cel mai puternic retailer din România, unde îi trec prin mână peste 27 mld. lei. ”Una dintre cele mai bune decizii a fost să rămânem în România, când alţii au ales să se retragă",
+    "body_orig": "",
+    "published": "2026-11-01T15:00:00",
+    "fetched": "2026-11-01T20:14:14.791476",
+    "title_uk": "Ольга Драгуніна стала CFO Lidl у Румунії з обігом понад 27 млрд леїв",
+    "summary_uk": "Ольга Драгуніна призначена фінансовим директором Lidl у Румунії, де компанія має обіг понад €5.5 млрд. Вона зазначила, що однією з ключових рішень було залишитися на ринку, коли інші компанії вирішили піти. Lidl продовжує зміцнювати свої позиції в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ольга Драгуніна стала CFO Lidl у Румунії з обігом понад 27 млрд леїв",
+    "summary": "Ольга Драгуніна призначена фінансовим директором Lidl у Румунії, де компанія має обіг понад €5.5 млрд. Вона зазначила, що однією з ключових рішень було залишитися на ринку, коли інші компанії вирішили піти. Lidl продовжує зміцнювати свої позиції в країні.",
+    "link": "https://www.zf.ro/eveniment/ajuns-olga-draguinea-cfo-lidl-cel-puternic-retailer-romania-unde-ii-trec-mana-peste-27-mld-lei-una-dintre-cele-bune-decizii-ramanem-romania-altii-au-ales-retraga-23271829",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "42ccfb5018d9",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ladoipasi-extra-lantul-de-magazine-operate-direct-de-nemtii-de-la-metro-se-indreapta-spre-pragul-de-90-de-magazine-si-primeste-bani-de-la-grup_990856.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "LaDoiPași Extra, lanțul de magazine operate direct de nemții de la Metro, se îndreaptă spre pragul de 90 de magazine și primește bani de la grup",
+    "body_orig": "Metro Convenience Romania SRL, compania controlată de grupul german Metro care operează direct lanțul de magazine de proximitate urbane LaDoiPași Extra, a primit o infuzie de capital din partea companiei mame din Germania.",
+    "published": "2026-11-01T19:51:04",
+    "fetched": "2026-11-01T20:14:17.341897",
+    "title_uk": "Metro інвестує в LaDoiPași Extra, мережу магазинів у Румунії",
+    "summary_uk": "Metro Convenience Romania отримала капітал від материнської компанії Metro з Німеччини. Мережа LaDoiPași Extra наближається до 90 магазинів. Це свідчить про розширення присутності Metro на румунському ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Metro інвестує в LaDoiPași Extra, мережу магазинів у Румунії",
+    "summary": "Metro Convenience Romania отримала капітал від материнської компанії Metro з Німеччини. Мережа LaDoiPași Extra наближається до 90 магазинів. Це свідчить про розширення присутності Metro на румунському ринку.",
+    "link": "https://www.economica.net/ladoipasi-extra-lantul-de-magazine-operate-direct-de-nemtii-de-la-metro-se-indreapta-spre-pragul-de-90-de-magazine-si-primeste-bani-de-la-grup_990856.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a63c727066d3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/mugur-pantaia-directorul-gigantului-hp-in-romania-suntem-o-exceptie-de-la-valul-de-disponibilizari-din-it-bucurestiul-are-prioritate-pentru-investitiile-grupului_990025.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Mugur Pantaia, directorul gigantului HP în România: Suntem o excepție de la valul de disponibilizări din IT. Bucureștiul are prioritate pentru investițiile grupului",
+    "body_orig": "În timp ce mai multe companii din industria IT au anunțat disponibilizări, HP Inc. România a reușit să își mențină relativ stabil numărul de angajați, iar operațiunile din București continuă să aibă un statut strategic în cadrul grupului american, a declarat Mugur Pantaia, director general HP Inc România.",
+    "published": "2026-11-01T19:46:14",
+    "fetched": "2026-11-01T20:14:17.341916",
+    "title_uk": "HP в Румунії зберігає стабільність в умовах скорочень в IT",
+    "summary_uk": "HP Inc. в Румунії не скорочує штат, на відміну від інших IT-компаній. Операції в Бухаресті залишаються стратегічними для групи. Директор HP в Румунії, Мугур Пантая, підкреслив важливість інвестицій у регіон.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "HP в Румунії зберігає стабільність в умовах скорочень в IT",
+    "summary": "HP Inc. в Румунії не скорочує штат, на відміну від інших IT-компаній. Операції в Бухаресті залишаються стратегічними для групи. Директор HP в Румунії, Мугур Пантая, підкреслив важливість інвестицій у регіон.",
+    "link": "https://www.economica.net/mugur-pantaia-directorul-gigantului-hp-in-romania-suntem-o-exceptie-de-la-valul-de-disponibilizari-din-it-bucurestiul-are-prioritate-pentru-investitiile-grupului_990025.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "314a9ff14daf",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ceo-sameday-livrarile-de-la-magazinele-romanesti-si-din-ue-au-crescut-dupa-introducerea-taxei-temu_990474.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "CEO Sameday: Livrările de la magazinele românești și din UE au crescut după introducerea ”taxei Temu”",
+    "body_orig": "Livrările Sameday pentru magazinele online românești și europene au crescut cu aproximativ 10% față de anul trecut, după introducerea, la 1 iulie, a taxei de 25 de lei pentru coletele din afara Uniunii Europene. În același timp, volumul livrărilor extracomunitare procesate de companie s-a înjumătățit, a declarat Lucian Baltaru, CEO al Sameday Group.",
+    "published": "2026-11-01T19:44:40",
+    "fetched": "2026-11-01T20:14:17.341928",
+    "title_uk": "Sameday повідомляє про зростання доставок після введення нової податки",
+    "summary_uk": "Компанія Sameday зафіксувала зростання доставок для румунських та європейських онлайн-магазинів на 10% у порівнянні з минулим роком. Це сталося після введення податку у розмірі 25 леїв на посилки з-за меж ЄС з 1 липня. Водночас обсяги доставок з країн, що не входять до ЄС, зменшилися вдвічі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Sameday повідомляє про зростання доставок після введення нової податки",
+    "summary": "Компанія Sameday зафіксувала зростання доставок для румунських та європейських онлайн-магазинів на 10% у порівнянні з минулим роком. Це сталося після введення податку у розмірі 25 леїв на посилки з-за меж ЄС з 1 липня. Водночас обсяги доставок з країн, що не входять до ЄС, зменшилися вдвічі.",
+    "link": "https://www.economica.net/ceo-sameday-livrarile-de-la-magazinele-romanesti-si-din-ue-au-crescut-dupa-introducerea-taxei-temu_990474.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dd268aab3625",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/despagubiri-pentru-creditele-raportate-la-robor-ce-prevede-proiectul-de-lege-pozitia-bnr-ce-pot-face-consumatorii-si-care-este-rolul-unui-avocat_990841.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Despăgubiri pentru creditele raportate la ROBOR: ce prevede proiectul de lege, poziția BNR, ce pot face consumatorii și care este rolul unui avocat",
+    "body_orig": "Investigația privind stabilirea indicelui ROBOR a readus în atenție impactul acestuia asupra costului creditelor cu dobândă variabilă și posibilitatea recuperării eventualelor prejudicii suferite de consumatori. În urma investigației Consiliului Concurenței și a sancțiunilor aplicate unor instituții de credit pentru comportamente anticoncurențiale în cadrul procedurii de fixing ROBOR, a fost propus și un mecanism legislativ distinct de compensare a consumatorilor, proiect care a generat poziții diferite din partea autorităților.",
+    "published": "2026-11-01T19:44:02",
+    "fetched": "2026-11-01T20:14:17.341941",
+    "title_uk": "Законопроект про компенсації за кредити з прив'язкою до ROBOR",
+    "summary_uk": "В Україні розглядають законопроект, що передбачає компенсації споживачам за кредити з прив'язкою до індексу ROBOR. Це стало можливим після розслідування, яке виявило антиконкурентні практики банків. Позиції державних органів щодо цього питання розділилися, що може вплинути на подальші рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Законопроект про компенсації за кредити з прив'язкою до ROBOR",
+    "summary": "В Україні розглядають законопроект, що передбачає компенсації споживачам за кредити з прив'язкою до індексу ROBOR. Це стало можливим після розслідування, яке виявило антиконкурентні практики банків. Позиції державних органів щодо цього питання розділилися, що може вплинути на подальші рішення.",
+    "link": "https://www.economica.net/despagubiri-pentru-creditele-raportate-la-robor-ce-prevede-proiectul-de-lege-pozitia-bnr-ce-pot-face-consumatorii-si-care-este-rolul-unui-avocat_990841.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f73c9fbb2e17",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/hidroelectrica-intra-in-iarna-cu-lacurile-pline-sub-50-printre-cele-mai-mici-niveluri-din-ultimele-trei-decenii_991284.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Hidroelectrica intră în iarnă cu lacurile pline sub 50%, printre cele mai mici niveluri din ultimele trei decenii",
+    "body_orig": "Pe fondul debitului mic al Dunării, care a afectat și propria sa producție de energie pe lângă oprirea ambelor unități nucleare, Hidroelectrica, cel mai mare producător de energie electrică din România, dar și unul dintre marii furnizori, a fost nevoită să utilizeze mai multă apă pentru hidrocentralele de pe râurile interioare.",
+    "published": "2026-11-01T19:42:19",
+    "fetched": "2026-11-01T20:14:17.341951",
+    "title_uk": "Hidroelectrica має низький рівень води перед зимою",
+    "summary_uk": "Hidroelectrica, найбільший виробник електроенергії в Румунії, входить в зиму з рівнем води в своїх водоймах нижче 50%, що є одним з найнижчих показників за останні 30 років. Низький рівень води в Дунаї вплинув на виробництво електроенергії, змусивши компанію використовувати більше води з внутрішніх річок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Hidroelectrica має низький рівень води перед зимою",
+    "summary": "Hidroelectrica, найбільший виробник електроенергії в Румунії, входить в зиму з рівнем води в своїх водоймах нижче 50%, що є одним з найнижчих показників за останні 30 років. Низький рівень води в Дунаї вплинув на виробництво електроенергії, змусивши компанію використовувати більше води з внутрішніх річок.",
+    "link": "https://www.economica.net/hidroelectrica-intra-in-iarna-cu-lacurile-pline-sub-50-printre-cele-mai-mici-niveluri-din-ultimele-trei-decenii_991284.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "741aeb1048d7",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/top-constructori-autostrazi-25_990095.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Top constructori autostrăzi: Makyol, Danlin XXL și Pizzarotti – Retter au avut cele mai mari progese în ultimele două luni",
+    "body_orig": "Turcii de la Makyol domină topul constructorilor de autostrăzi din România, după progresele din șantiere din lunile august și septembrie. Pe podium urmează un constructor român nou-intrat în clasament și asocierea Pizzarotti - Retter.",
+    "published": "2026-11-01T16:40:44",
+    "fetched": "2026-11-01T20:14:17.341980",
+    "title_uk": "Makyol, Danlin XXL та Pizzarotti – Retter лідирують у будівництві автошляхів",
+    "summary_uk": "Makyol займає перше місце серед будівельників автошляхів у Румунії, зростаючи в серпні та вересні. На другому місці новий румунський підрядник, а на третьому — асоціація Pizzarotti та Retter. Конкретні цифри прогресу не наводяться.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця новина підкреслює можливості для турецьких компаній у Румунії. Якщо плануєте вихід на ринок, зверніть увагу на успіхи Makyol.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Makyol, Danlin XXL та Pizzarotti – Retter лідирують у будівництві автошляхів",
+    "summary": "Makyol займає перше місце серед будівельників автошляхів у Румунії, зростаючи в серпні та вересні. На другому місці новий румунський підрядник, а на третьому — асоціація Pizzarotti та Retter. Конкретні цифри прогресу не наводяться.",
+    "link": "https://www.economica.net/top-constructori-autostrazi-25_990095.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c6ddccf786d1",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/30/100-mln-grn-na-rozrobku-raket-i-radariv-mincifri-ogolosili-pro-novii-grantovii-konkurs/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "100 млн грн на розробку ракет і радарів. Мінцифри оголосили про новий грантовий конкурс",
+    "body_orig": "",
+    "published": "2026-11-01T17:05:00",
+    "fetched": "2026-11-01T20:14:06.666458",
+    "title_uk": "Мінцифри запускає грантовий конкурс на розробку ракет і радарів",
+    "summary_uk": "Міністерство цифрової трансформації України оголосило про новий грантовий конкурс на суму 100 млн грн для підтримки розробки ракет і радарів. Конкурс спрямований на залучення стартапів та інноваційних компаній у сфері оборонних технологій. Заявки прийматимуть до кінця року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Мінцифри запускає грантовий конкурс на розробку ракет і радарів",
+    "summary": "Міністерство цифрової трансформації України оголосило про новий грантовий конкурс на суму 100 млн грн для підтримки розробки ракет і радарів. Конкурс спрямований на залучення стартапів та інноваційних компаній у сфері оборонних технологій. Заявки прийматимуть до кінця року.",
+    "link": "https://ain.ua/2026/10/30/100-mln-grn-na-rozrobku-raket-i-radariv-mincifri-ogolosili-pro-novii-grantovii-konkurs/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6886c0572b3b",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/10/30/ukrayinskii-startap-portal-vdruge-zminiv-produkt/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ШІ-стартап Portal двічі змінив продукт за два роки і тепер розвиває персонального ШІ-асистента",
+    "body_orig": "",
+    "published": "2026-11-01T13:03:01",
+    "fetched": "2026-11-01T20:14:06.666475",
+    "title_uk": "ШІ-стартап Portal розвиває персонального асистента",
+    "summary_uk": "Стартап Portal за два роки двічі змінив свій продукт і тепер зосереджується на розробці персонального ШІ-асистента. Компанія адаптує свої рішення відповідно до потреб ринку. Це свідчить про гнучкість стартапу в умовах швидко змінюваного технологічного середовища.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ШІ-стартап Portal розвиває персонального асистента",
+    "summary": "Стартап Portal за два роки двічі змінив свій продукт і тепер зосереджується на розробці персонального ШІ-асистента. Компанія адаптує свої рішення відповідно до потреб ринку. Це свідчить про гнучкість стартапу в умовах швидко змінюваного технологічного середовища.",
+    "link": "https://ain.ua/2026/10/30/ukrayinskii-startap-portal-vdruge-zminiv-produkt/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0b1e1db17310",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/ukrayinskii-biznes-pereplacuje-za-ekvairing-i-fiskalizaciyu-comu-desevsa-alternativa-dosi-ne-stala-masovoyu-vmd3y7",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Український бізнес переплачує за еквайринг і фіскалізацію. Чому дешевша альтернатива досі не стала масовою?",
+    "body_orig": "Український бізнес може приймати оплату через QR-код без комісії карткового еквайрингу та без фіскального чека. Для цього покупець переказує гроші безпосередньо на рахунок продавця за IBAN. Причому сканувати QR-код необов'язково: достатньо натиснути кнопку оплати для відкриття банківського застосунку з уже заповненими реквізитами та підтвердити переказ. Національний банк уже стандартизував цю технологію. Чому ж українські магазини досі платять за еквайринг і фіскалізацію?",
+    "published": "2026-11-01T18:21:00",
+    "fetched": "2026-11-01T20:14:08.111600",
+    "title_uk": "Український бізнес переплачує за еквайринг та фіскалізацію",
+    "summary_uk": "Українські підприємці можуть приймати оплату через QR-код без комісії еквайрингу. Покупець переказує гроші на рахунок продавця за IBAN, що спрощує процес. Незважаючи на це, багато магазинів продовжують використовувати традиційні методи оплати.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця інформація може вплинути на рішення щодо впровадження нових методів оплати в магазинах, що може знизити витрати на еквайринг."
+    },
+    "tags": [
+      "ритейл",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Український бізнес переплачує за еквайринг та фіскалізацію",
+    "summary": "Українські підприємці можуть приймати оплату через QR-код без комісії еквайрингу. Покупець переказує гроші на рахунок продавця за IBAN, що спрощує процес. Незважаючи на це, багато магазинів продовжують використовувати традиційні методи оплати.",
+    "link": "https://speka.ua/business/ukrayinskii-biznes-pereplacuje-za-ekvairing-i-fiskalizaciyu-comu-desevsa-alternativa-dosi-ne-stala-masovoyu-vmd3y7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cc4da03b3aea",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/lenovo-thinkplus-fu100-nezashyfrovana-sd-karta-usb-vrazlyvostin45713-9w72gq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Захищена» флешка Lenovo з відбитком пальця виявилася звичайною SD-карткою без шифрування",
+    "body_orig": "Дослідник з безпеки Xusheng Li з'ясував, що флешка Lenovo ThinkPlus FU100 з відбитком пальця, яку продавали як пристрій з шифруванням AES-256, всередині є звичайною SD-карткою. Про це пише Tom's Hardware, посилаючись на HackingPassion. Сканер лише вмикав USB-з'єднання, а самі дані на картці не шифрувалися.",
+    "published": "2026-11-01T13:21:00",
+    "fetched": "2026-11-01T20:14:08.111619",
+    "title_uk": "Флешка Lenovo з відбитком пальця не має шифрування",
+    "summary_uk": "Дослідник Xusheng Li виявив, що флешка Lenovo ThinkPlus FU100, яку позиціонували як захищену, насправді є звичайною SD-карткою без шифрування даних. Сканер відбитків пальців лише активує USB-з'єднання. Це викликало занепокоєння серед користувачів щодо безпеки даних.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Флешка Lenovo з відбитком пальця не має шифрування",
+    "summary": "Дослідник Xusheng Li виявив, що флешка Lenovo ThinkPlus FU100, яку позиціонували як захищену, насправді є звичайною SD-карткою без шифрування даних. Сканер відбитків пальців лише активує USB-з'єднання. Це викликало занепокоєння серед користувачів щодо безпеки даних.",
+    "link": "https://speka.ua/news/lenovo-thinkplus-fu100-nezashyfrovana-sd-karta-usb-vrazlyvostin45713-9w72gq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3a9dc486deb7",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/spacex-vidmovliaietsia-vid-nasa-crew-dragon-ain45711-plq02z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "SpaceX відмовляється від NASA: чому Маск міняє космос на ШІ",
+    "body_orig": "SpaceX поступово згортає співпрацю з урядом США, від якої колись залежало її виживання. Компанія Ілона Маска попередила NASA, що припинить польоти Crew Dragon не пізніше 2030 року, перестала продавати комерційні запуски Falcon 9 на період після 2028 року і відмовилася возити на Місяць вантажі для лунної бази NASA. Причина в тому, що майбутні прибутки SpaceX тепер пов'язані зі штучним інтелектом, а не з державними контрактами.",
+    "published": "2026-11-01T12:01:00",
+    "fetched": "2026-11-01T20:14:08.111666",
+    "title_uk": "SpaceX згортає співпрацю з NASA на користь ШІ",
+    "summary_uk": "SpaceX оголосила про припинення польотів Crew Dragon до 2030 року. Компанія також зупинила продаж комерційних запусків Falcon 9 після 2028 року та відмовилася від перевезення вантажів на Місяць для NASA. Основна причина — нові прибутки пов'язані зі штучним інтелектом, а не з державними контрактами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "SpaceX згортає співпрацю з NASA на користь ШІ",
+    "summary": "SpaceX оголосила про припинення польотів Crew Dragon до 2030 року. Компанія також зупинила продаж комерційних запусків Falcon 9 після 2028 року та відмовилася від перевезення вантажів на Місяць для NASA. Основна причина — нові прибутки пов'язані зі штучним інтелектом, а не з державними контрактами.",
+    "link": "https://speka.ua/news/spacex-vidmovliaietsia-vid-nasa-crew-dragon-ain45711-plq02z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "62f9aef84768",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/shtuchnyi-bilok-supermyo-nadmitsni-voloknan45710-9ez083",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Вчені створили штучний білок, з якого виходять надміцні волокна",
+    "body_orig": "Китайські вчені спроєктували на комп'ютері штучний білок SuperMyo і отримали з нього волокна з міцністю на розрив до 372 МПа. Головна несподіванка в тому, що для такої міцності знадобилося лише чотири повтори білкового блоку, тоді як для порівнянних матеріалів раніше потрібні були білки з десятками повторів. Розробка може здешевити виробництво біосумісних хірургічних ниток і штучних м'язів.",
+    "published": "2026-11-01T11:29:00",
+    "fetched": "2026-11-01T20:14:08.111679",
+    "title_uk": "Китайські вчені створили штучний білок для надміцних волокон",
+    "summary_uk": "Вчені з Китаю розробили штучний білок SuperMyo, з якого отримали волокна з міцністю на розрив до 372 МПа. Для досягнення такої міцності знадобилося лише чотири повтори білкового блоку, що значно менше, ніж у традиційних матеріалах. Ця розробка може знизити витрати на виробництво біосумісних хірургічних ниток і штучних м'язів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китайські вчені створили штучний білок для надміцних волокон",
+    "summary": "Вчені з Китаю розробили штучний білок SuperMyo, з якого отримали волокна з міцністю на розрив до 372 МПа. Для досягнення такої міцності знадобилося лише чотири повтори білкового блоку, що значно менше, ніж у традиційних матеріалах. Ця розробка може знизити витрати на виробництво біосумісних хірургічних ниток і штучних м'язів.",
+    "link": "https://speka.ua/news/shtuchnyi-bilok-supermyo-nadmitsni-voloknan45710-9ez083",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
