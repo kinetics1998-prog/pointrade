@@ -460135,5 +460135,1995 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "4c713b5e7621",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Orlen-analizuje-celowosc-inwestycji-BoB-w-Mozejkach-alternatywa-zamkniecie-rafinerii-prezes-9222807.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Fąfara: Inwestycja w Możejkach nigdy się nie zwróci. Orlen analizuje scenariusze",
+    "body_orig": "Orlen analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach - poinformował PAP Biznes prezes Orlenu Ireneusz Fąfara. Alternatywą jest rezygnacja z inwestycji i ryzyko zamknięcia litewskiej rafinerii. Według nieoficjalnych informacji na inwestycję brakuje 600-700 mln USD.",
+    "published": "2026-11-03T13:08:00",
+    "fetched": "2026-11-03T21:30:59.319134",
+    "title_uk": "Orlen розглядає інвестиції в литовську рафінерію",
+    "summary_uk": "Orlen аналізує доцільність додаткових витрат на завершення інвестицій в установку BoB у Моżejках. Компанія повідомила, що для завершення проекту необхідно ще €600-700 млн. В іншому випадку існує ризик закриття литовської рафінерії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Orlen розглядає інвестиції в литовську рафінерію",
+    "summary": "Orlen аналізує доцільність додаткових витрат на завершення інвестицій в установку BoB у Моżejках. Компанія повідомила, що для завершення проекту необхідно ще €600-700 млн. В іншому випадку існує ризик закриття литовської рафінерії.",
+    "link": "https://www.bankier.pl/wiadomosc/Orlen-analizuje-celowosc-inwestycji-BoB-w-Mozejkach-alternatywa-zamkniecie-rafinerii-prezes-9222807.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e720e0505aa",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/MediaMark-bedzie-chinskie-Zielone-swiatlo-od-KE-ale-z-10-letnimi-rygorami-9222964.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "MediaMark będzie chińskie. Zielone światło od KE, ale z 10-letnimi rygorami",
+    "body_orig": "Komisja Europejska zgodziła się we wtorek na przejęcie niemieckiej spółki Ceconomy, właściciela sieci MediaMarkt i Saturn, przez chińską platformę e-commerce JD.com. Warunkiem jest jednak zakaz przekazywania wsparcia finansowego przejętej spółce oraz zapewnienie dostępu do magazynów i technologii innym firmom.",
+    "published": "2026-11-03T15:32:00",
+    "fetched": "2026-11-03T21:30:59.319168",
+    "title_uk": "JD.com купує MediaMarkt з умовами від Єврокомісії",
+    "summary_uk": "Єврокомісія погодилася на придбання німецької компанії Ceconomy, яка володіє мережами MediaMarkt і Saturn, китайською платформою JD.com. Угода передбачає заборону на фінансову підтримку придбаної компанії та забезпечення доступу до складів і технологій для інших компаній.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ця угода може вплинути на конкуренцію в польському ритейлі, особливо в електроніці. Дистриб'ютори повинні бути готові до змін у ринкових умовах.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в управлінні MediaMarkt можуть вплинути на асортимент і ціни в категорії електроніки. Рекомендується стежити за новими умовами співпраці з JD.com."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "JD.com купує MediaMarkt з умовами від Єврокомісії",
+    "summary": "Єврокомісія погодилася на придбання німецької компанії Ceconomy, яка володіє мережами MediaMarkt і Saturn, китайською платформою JD.com. Угода передбачає заборону на фінансову підтримку придбаної компанії та забезпечення доступу до складів і технологій для інших компаній.",
+    "link": "https://www.bankier.pl/wiadomosc/MediaMark-bedzie-chinskie-Zielone-swiatlo-od-KE-ale-z-10-letnimi-rygorami-9222964.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "050e971258be",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/byly-czlonek-zarzadu-pzu-pod-lupa-akcjonariusze-zgodzili-sie-na-dochodzenie/9v7xm7z",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PZU będzie dochodzić roszczeń od Ernesta Bejdy. Walne zgromadzenie zdecydowało",
+    "body_orig": "Nadzwyczajne Walne Zgromadzenie Powszechnego Zakładu Ubezpieczeń podjęło we wtorek decyzję o dochodzeniu odszkodowania od byłego członka zarządu. Sprawa dotyczy ugody, która doprowadziła do wypłaty odszkodowania mimo przedawnienia roszczenia. Akcjonariusze wyrazili również zgodę na emisję obligacji.",
+    "published": "2026-11-03T17:52:44",
+    "fetched": "2026-11-03T21:31:01.208472",
+    "title_uk": "PZU вимагає компенсацію від Ернеста Бейди",
+    "summary_uk": "Надзвичайне загальне збори PZU вирішило вимагати відшкодування від колишнього члена правління. Справа стосується угоди, яка призвела до виплати компенсації, незважаючи на терміни давності. Акціонери також погодилися на випуск облігацій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PZU вимагає компенсацію від Ернеста Бейди",
+    "summary": "Надзвичайне загальне збори PZU вирішило вимагати відшкодування від колишнього члена правління. Справа стосується угоди, яка призвела до виплати компенсації, незважаючи на терміни давності. Акціонери також погодилися на випуск облігацій.",
+    "link": "https://businessinsider.com.pl/gielda/byly-czlonek-zarzadu-pzu-pod-lupa-akcjonariusze-zgodzili-sie-na-dochodzenie/9v7xm7z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7244da5c5408",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/tylko-w-300gospodarce/747722",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tylko 1 na 100 warsztatów bez zastrzeżeń zamontuje najtańszą część do samochodu",
+    "body_orig": "Klient chce zaoszczędzić na części, ale rachunek może wrócić przy kolejnej wizycie w warsztacie. Niemal wszystkie badane warsztaty przyznają, że tanie komponenty mogą prowadzić do ponownych napraw, reklamacji i dodatkowych kosztów. Mimo to presja na najniższą cenę wciąż jest bardzo silna.\nW 91 proc. badanych warsztatów samochodowych cena to często lub nawet zawsze najważniejsze kryterium, jakim kierują się osoby zamawiający części zamienne. Jednak 97 proc. z nich uważa, że negatywne doświadczenia z tanimi częściami wpływają na późniejsze decyzje zakupowe warsztatów. Trudno więc pogodzić oczekiwania finansowe klientów i doświadczenie mechaników, którzy przecież są odpowiedzialni za jakość wykonanych napraw. To wynika z badania „Jakość części samochodowych. Świadomość i praktyka”, przeprowadzonego na zlecenie stowarzyszenia AAMPACT.\nCenę dyktuje klient, ale to mechanik ponosi odpowiedzialność\nNie tylko cena i parametry techniczne – na wybór części samochodowych wpływają też inne czynniki. Aż 58 proc. respondentów zdecydowanie zgadza się ze stwierdzeniem, że negatywne doświadczenia z tanimi częściami wpływają na przyszłe decyzje zakupowe, a kolejne 39 proc. raczej się z nim zgadza.\nTo jednak nie jest równoznaczne z tym, że warsztaty wcale nie używają takich części. Zaledwie 22 proc. warsztatów samochodowych deklaruje, że zawsze lub prawie zawsze stosuje części jakości premium. Gros mechaników – 68 proc. wskazań – używa ich często.\nO wyborze komponentów decyduje zwykle rodzaj naprawy, oczekiwania klienta i jego możliwości finansowe. A mechanicy nie zawsze się zgadzają na wybór najtańszego rozwiązania. Gdy klient żąda, aby zastosowań tani zamiennik, aż 55 proc. mechaników się zgadza, ale dopiero po poinformowaniu o potencjalnym ryzyku. 35 proc. odradza ten wybór i proponuje lepszą alternatywę. 9 proc. całkowicie odmawia montażu najtańszych części. Zaledwie 1 na 100 warsztatów bez żadnych zastrzeżeń zgadza się na taką usługę.\nCo ważne, w połowie badanych warsztatów wybór jakości części to decyzja i mechanika, i kierowcy. W kolejnych 44 proc. przypadków należy do właściciela warsztatu lub osoby, która dokonuje naprawy. Tylko w 6 proc. warsztatów klient może samodzielnie zadecydować, czy w jego samochodzie zostanie zamontowana część premium, czy tani zamiennik.\nOszczędność na częściach wraca jako koszt\nProblemy związane z jakością komponentów pojawiają się przy średnio 11,4 na 100 napraw. A stosowanie niskiej jakości zamienników może spowodować konieczność ponownego wykonania naprawy. Z takim stwierdzeniem zgadza się aż 99 proc. badanych. Inne negatywne konsekwencje wskazywane przez respondentów to reklamacje ze strony klientów (97 proc.) i dodatkowe koszty dla warsztatu (93 proc.). W efekcie oszczędzanie na jakości części prowadzi do wyższych wydatków dla usługodawców w dłuższej perspektywie – z tym zgadza się 95 proc. badanych.\n– Wyniki badania pokazują, że warsztaty bardzo dobrze rozumieją konsekwencje oszczędzania na jakości części. Problem polega na",
+    "published": "2026-11-03T21:16:39",
+    "fetched": "2026-11-03T21:31:02.332868",
+    "title_uk": "Тільки 1 з 100 майстерень без зауважень встановить найдешевшу деталь",
+    "summary_uk": "Дослідження показало, що 91% автосервісів вважають ціну найважливішим критерієм при виборі запчастин. Проте 97% механіків відзначають, що негативний досвід з дешевими частинами впливає на їхні подальші рішення. Лише 22% майстерень завжди використовують деталі преміум-якості, а 68% роблять це часто.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Це дослідження підкреслює важливість якості запчастин для автосервісів. Категорійні менеджери повинні враховувати цю інформацію при переговорах з постачальниками, щоб уникнути проблем з якістю та витратами."
+    },
+    "tags": [
+      "виробництво",
+      "дистрибуція",
+      "KPI-команди"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Тільки 1 з 100 майстерень без зауважень встановить найдешевшу деталь",
+    "summary": "Дослідження показало, що 91% автосервісів вважають ціну найважливішим критерієм при виборі запчастин. Проте 97% механіків відзначають, що негативний досвід з дешевими частинами впливає на їхні подальші рішення. Лише 22% майстерень завжди використовують деталі преміум-якості, а 68% роблять це часто.",
+    "link": "https://300gospodarka.pl/tylko-w-300gospodarce/747722",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "60241d17b7e7",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/patenty-i-znaki-towarowe-w-jednej-bazie-uprp-uruchomil-portos",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Patenty i znaki towarowe w jednej bazie. UPRP uruchomił PORTOS",
+    "body_orig": "Chcesz sprawdzić, jak Urząd Patentowy rozstrzygał wcześniej sprawę podobną do Twojej? Nie trzeba już samodzielnie szukać takich informacji w rozproszonych źródłach. Ruszył PORTOS – platforma, która pozwala przeglądać, filtrować i analizować orzeczenia UPRP. To ważne dla przedsiębiorców, profesjonalnych pełnomocników i naukowców, bo dzięki temu będą mieli ułatwiony dostęp do rozstrzygnięć Urzędu Patentowego – co pozwoli im lepiej poznać praktykę orzeczniczą dotyczącą własności przemysłowej.\nPrzedsiębiorcy, uczelnie, instytuty badawcze i osoby fizyczne co roku składają tysiące zgłoszeń do Urzędu Patentowego. Dotyczą one wynalazków, wzorów użytkowych, znaków towarowych i wzorów przemysłowych. W toku postępowań Urząd wydaje rozstrzygnięcia w konkretnych sprawach. To ma znaczenie nie tylko dla bezpośrednich uczestników. Stanowią źródło wiedzy o praktyce orzeczniczej i sposobie stosowania przepisów.\n– Dotychczas samodzielne dotarcie do tych informacji mogło być czasochłonne. PORTOS powstaje po to, by dorobek orzeczniczy Urzędu był szerzej dostępny, uporządkowany i możliwy do samodzielnego analizowania. Nie chodzi wyłącznie o udostępnienie dokumentów, ale o ułatwienie użytkownikom poznawania praktyki orzeczniczej – mówi Ewa Skrzydło-Tefelska, Prezes UPRP.\nPORTOS pokaże, jak rozstrzygał Urząd Patentowy\nCo daje nowa platforma? Orzeczenia będzie można tematycznie wyszukiwać, filtrować i przeglądać. Możliwe będzie zarówno proste, jak i zaawansowane wyszukiwanie zawierające więcej kryteriów. Użytkownicy będą mogli sprawdzić, czy Urząd Patentowy wcześniej rozstrzygał podobne sprawy i jak się one zakończyły. Trzeba jednak pamiętać, że wcześniejsze orzeczenia nie przesądzają o wyniku kolejnych spraw, bo każda jest rozpatrywana indywidualnie – urzędnicy biorą pod uwagę stan faktyczny i prawny.\nOprócz tego platforma zaoferuje usługi subskrypcyjne. Obejmą m.in. informacje o sprzeciwach wobec zgłoszeń znaków towarowych, wnioskach rozpatrywanych w trybie spornym oraz terminach rozpraw.\nUrząd dodaje, że publikacja orzeczeń uwzględnia zasady ochrony danych. Dokumenty mają być odpowiednio zanonimizowane. Zwiększanie wiedzy nie może się odbywać kosztem prywatności i bezpieczeństwa informacji.\nCyfryzacja ma ujednolicić praktykę Urzędu\nZ tak udostępnionego dorobku orzeczniczego będą korzystać także eksperci UPRP. Analizowanie wcześniejszych rozstrzygnięć dotyczących podobnych zagadnień i stanów faktycznych sprzyja spójności praktyki orzeczniczej.\n– Cyfrowa transformacja sektora publicznego otwiera przed instytucjami nowe możliwości reagowania na zmieniające się potrzeby obywateli i przedsiębiorców. Pozwala rozwijać już istniejące usługi, tworzyć nowe rozwiązania i coraz szerzej wykorzystywać potencjał technologii w realizacji zadań publicznych. Łączymy w ten sposób rozwój technologiczny z eksperckim charakterem Urzędu i jego rolą w systemie ochrony własności przemysłowej. PORTOS jest kolejnym elementem tego procesu i pokazuje sposób, w jaki chcemy wykorzystywać technologi",
+    "published": "2026-11-03T16:49:40",
+    "fetched": "2026-11-03T21:31:02.332899",
+    "title_uk": "Польський патентний офіс запустив платформу PORTOS для аналізу рішень",
+    "summary_uk": "У Польщі запустили платформу PORTOS, що дозволяє переглядати та аналізувати рішення УПРП. Це спростить доступ до інформації про патенти, товарні знаки та інші рішення. Платформа пропонує можливості тематичного пошуку та підписки на новини про спори. УПРП планує забезпечити анонімність даних.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори можуть використовувати PORTOS для аналізу рішень, що стосуються товарних знаків, що допоможе в уникненні правових спорів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Доступ до практики УПРП через PORTOS може допомогти категорійним менеджерам у формуванні стратегії щодо товарних знаків та патентів, що підвищить ефективність переговорів з постачальниками."
+    },
+    "tags": [
+      "регуляція",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польський патентний офіс запустив платформу PORTOS для аналізу рішень",
+    "summary": "У Польщі запустили платформу PORTOS, що дозволяє переглядати та аналізувати рішення УПРП. Це спростить доступ до інформації про патенти, товарні знаки та інші рішення. Платформа пропонує можливості тематичного пошуку та підписки на новини про спори. УПРП планує забезпечити анонімність даних.",
+    "link": "https://300gospodarka.pl/news/patenty-i-znaki-towarowe-w-jednej-bazie-uprp-uruchomil-portos",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "833701825e28",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/rzad-startuje-od-nowa-ze-zmianami-w-podatkach-mamy-sytuacje-bez-precedensu-7347076316015040a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rząd startuje od nowa ze zmianami w podatkach. \"Mamy sytuację bez precedensu\"",
+    "body_orig": "Rząd chce od początku przeprowadzić przez parlament ustawę nowelizującą przepisy o PIT i CIT. – Ustawa zmieniająca skalę podatkową dla trzech i pół miliona podatników przechodzi przez rząd bez żadnego z etapów, które normalnie wyłapują błędy – zwraca uwagę w rozmowie z money.pl Piotr Juszczyk, główny doradca podatkowy InFaktu.",
+    "published": "2026-11-03T16:15:43",
+    "fetched": "2026-11-03T21:31:03.887493",
+    "title_uk": "Польський уряд планує нові зміни в податковому законодавстві",
+    "summary_uk": "Уряд Польщі розпочав процес ухвалення нової законодавчої ініціативи щодо змін у податках на доходи фізичних осіб (PIT) та юридичних осіб (CIT). Зміни торкнуться 3.5 млн платників податків. Експерти вказують на ризики через відсутність звичних етапів перевірки законопроекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни в податковій політиці можуть вплинути на витрати дистриб'юторів, тому варто переглянути фінансові прогнози на наступні роки.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Польський уряд планує нові зміни в податковому законодавстві",
+    "summary": "Уряд Польщі розпочав процес ухвалення нової законодавчої ініціативи щодо змін у податках на доходи фізичних осіб (PIT) та юридичних осіб (CIT). Зміни торкнуться 3.5 млн платників податків. Експерти вказують на ризики через відсутність звичних етапів перевірки законопроекту.",
+    "link": "https://www.money.pl/podatki/rzad-startuje-od-nowa-ze-zmianami-w-podatkach-mamy-sytuacje-bez-precedensu-7347076316015040a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0b7f85f998c",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/panstwo-placi-za-znalezienie-luk-nawet-20-tys-zl-nagrody-7347016894740960a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Państwo płaci za znalezienie luk. Nawet 20 tys. zł nagrody",
+    "body_orig": "NASK przeznaczył milion złotych na nagrody za wykrywanie luk w państwowych systemach. Etyczni hakerzy mogą otrzymać jednorazowo nawet 20 tys. zł. Program obejmuje m.in. portal gov.pl.",
+    "published": "2026-11-03T12:11:46",
+    "fetched": "2026-11-03T21:31:03.887522",
+    "title_uk": "Польща виплатить до 20 тис. злотих за виявлення вразливостей",
+    "summary_uk": "NASK виділив €0.25 млн на нагороди для етичних хакерів за виявлення вразливостей у державних системах, зокрема на порталі gov.pl. Нагорода за одну вразливість може сягати 20 тис. злотих.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цей програм може зацікавити польських дистриб'юторів, які працюють з технологічними рішеннями, адже виявлення вразливостей може підвищити безпеку їхніх систем.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща виплатить до 20 тис. злотих за виявлення вразливостей",
+    "summary": "NASK виділив €0.25 млн на нагороди для етичних хакерів за виявлення вразливостей у державних системах, зокрема на порталі gov.pl. Нагорода за одну вразливість може сягати 20 тис. злотих.",
+    "link": "https://www.money.pl/gospodarka/panstwo-placi-za-znalezienie-luk-nawet-20-tys-zl-nagrody-7347016894740960a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eeca99c72fd1",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/fund-repayments-reach-97-3-billion-liras-228982",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Fund repayments reach 97.3 billion liras",
+    "body_orig": "Payments under Türkiye’s fund liquidation process reached 97.3 billion Turkish Liras by Oct. 30, covering 247,839 investors across 100 funds, the Communications Directorate said on Nov. 3.",
+    "published": "2026-11-03T13:56:59",
+    "fetched": "2026-11-03T21:31:53.746932",
+    "title_uk": "Виплати за фондовою ліквідацією в Туреччині досягли 97.3 млрд лір",
+    "summary_uk": "Виплати в рамках ліквідації фондів у Туреччині досягли 97.3 млрд лір до 30 жовтня. Ці кошти охоплюють 247,839 інвесторів у 100 фондах. Інформацію оприлюднила Дирекція зв'язків з громадськістю 3 листопада.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Виплати за фондовою ліквідацією в Туреччині досягли 97.3 млрд лір",
+    "summary": "Виплати в рамках ліквідації фондів у Туреччині досягли 97.3 млрд лір до 30 жовтня. Ці кошти охоплюють 247,839 інвесторів у 100 фондах. Інформацію оприлюднила Дирекція зв'язків з громадськістю 3 листопада.",
+    "link": "https://www.hurriyetdailynews.com/fund-repayments-reach-97-3-billion-liras-228982",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9f97b6c2aef3",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/binance-says-hackers-used-fake-job-interviews-in-634b-crypto-theft/4110401",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Binance says hackers used fake job interviews in $6.34B crypto theft",
+    "body_orig": "Exchange says it replenished 98% of affected tokens by Oct. 31 and helped freeze or intercept about $2.85B in stolen assets",
+    "published": "2026-11-03T17:37:40",
+    "fetched": "2026-11-03T21:31:57.238876",
+    "title_uk": "Binance повідомляє про крадіжку криптовалюти на $6.34 млрд",
+    "summary_uk": "Біржа Binance заявила, що зловмисники використали підроблені співбесіди для крадіжки криптовалюти на $6.34 млрд. До 31 жовтня компанія відновила 98% постраждалих токенів і допомогла заморозити або перехопити близько $2.85 млрд вкрадених активів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Binance повідомляє про крадіжку криптовалюти на $6.34 млрд",
+    "summary": "Біржа Binance заявила, що зловмисники використали підроблені співбесіди для крадіжки криптовалюти на $6.34 млрд. До 31 жовтня компанія відновила 98% постраждалих токенів і допомогла заморозити або перехопити близько $2.85 млрд вкрадених активів.",
+    "link": "https://www.aa.com.tr/en/economy/binance-says-hackers-used-fake-job-interviews-in-634b-crypto-theft/4110401",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a472bc17c652",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/oil-prices-extend-losses-as-hopes-grow-for-us-iran-deal/4110398",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Oil prices extend losses as hopes grow for US-Iran deal",
+    "body_orig": "Brent trades near $103 a barrel as Qatar says Washington and Tehran are reviewing mediators' proposals, though differences remain",
+    "published": "2026-11-03T17:35:12",
+    "fetched": "2026-11-03T21:31:57.238892",
+    "title_uk": "Ціни на нафту продовжують падіння через можливу угоду США та Ірану",
+    "summary_uk": "Ціна на нафту марки Brent знизилася до $103 за барель. Катар повідомив, що США та Іран розглядають пропозиції посередників, хоча існують розбіжності. Це може вплинути на глобальні ціни на нафту.",
+    "what_it_means": {
+      "ua_importer": "Зниження цін на нафту може зменшити витрати на імпорт нафтопродуктів в Україну. Рекомендується переглянути контракти на постачання.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін на нафту може призвести до зменшення витрат на логістику. Розгляньте можливість зниження цін на паливні категорії."
+    },
+    "tags": [
+      "ціни-сировина",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на нафту продовжують падіння через можливу угоду США та Ірану",
+    "summary": "Ціна на нафту марки Brent знизилася до $103 за барель. Катар повідомив, що США та Іран розглядають пропозиції посередників, хоча існують розбіжності. Це може вплинути на глобальні ціни на нафту.",
+    "link": "https://www.aa.com.tr/en/economy/oil-prices-extend-losses-as-hopes-grow-for-us-iran-deal/4110398",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3a1756c5014f",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkish-stock-exchange-ends-tuesday-in-positive-territory/4110312",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish stock exchange ends Tuesday in positive territory",
+    "body_orig": "Benchmark BIST 100 index rises 61.88 points at closing session",
+    "published": "2026-11-03T16:05:24",
+    "fetched": "2026-11-03T21:31:57.238902",
+    "title_uk": "Турецька фондова біржа закрилася з позитивним результатом",
+    "summary_uk": "Індекс BIST 100 зріс на 62 пункти на закритті сесії. Це свідчить про позитивні настрої на ринку. Інвестори відзначають зростання акцій у різних секторах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання фондового ринку може свідчити про покращення економічних умов, що позитивно вплине на попит на продукцію. Рекомендується моніторити ринок для можливих інвестицій.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Турецька фондова біржа закрилася з позитивним результатом",
+    "summary": "Індекс BIST 100 зріс на 62 пункти на закритті сесії. Це свідчить про позитивні настрої на ринку. Інвестори відзначають зростання акцій у різних секторах.",
+    "link": "https://www.aa.com.tr/en/economy/turkish-stock-exchange-ends-tuesday-in-positive-territory/4110312",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b3a2ee713cf0",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/americas/-us-job-openings-rise-to-752m-in-september-exceeding-expectations/4110307",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US job openings rise to 7.52M in September, exceeding expectations",
+    "body_orig": "Vacancies increase 333,000 from August; 3.4M workers quit",
+    "published": "2026-11-03T16:02:00",
+    "fetched": "2026-11-03T21:31:57.238911",
+    "title_uk": "Кількість вакансій у США зросла до 7.52 млн у вересні",
+    "summary_uk": "У вересні кількість вакансій у США зросла на 333 тис. до 7.52 млн. Водночас 3.4 млн працівників звільнилися. Ці дані перевищують очікування аналітиків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання вакансій може свідчити про активізацію ринку праці в США, що може вплинути на попит на імпортні товари. Виробникам варто стежити за цими тенденціями.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Кількість вакансій у США зросла до 7.52 млн у вересні",
+    "summary": "У вересні кількість вакансій у США зросла на 333 тис. до 7.52 млн. Водночас 3.4 млн працівників звільнилися. Ці дані перевищують очікування аналітиків.",
+    "link": "https://www.aa.com.tr/en/americas/-us-job-openings-rise-to-752m-in-september-exceeding-expectations/4110307",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e61d64b92186",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/turkiye-becomes-world-bank-s-top-beneficiary-with-new-investments/4110242",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye becomes World Bank’s top beneficiary with new investments",
+    "body_orig": "World Bank, IFC inject $11.1B in recent funding, targeting transportation, energy, water, logistics, and industrial production capacity",
+    "published": "2026-11-03T15:02:27",
+    "fetched": "2026-11-03T21:31:57.238923",
+    "title_uk": "Туреччина стала найбільшим отримувачем інвестицій від Світового банку",
+    "summary_uk": "Світовий банк та IFC інвестували $11.1 млрд у Туреччину, зосередившись на транспорті, енергетиці, водопостачанні, логістиці та промисловості. Ці інвестиції мають на меті підвищення виробничих потужностей. Туреччина тепер є провідним бенефіціаром Світового банку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це відкриває нові можливості для турецьких виробників, які можуть розширити свою продукцію в Україні, Польщі та Румунії завдяки підвищенню інвестицій у промисловість.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина стала найбільшим отримувачем інвестицій від Світового банку",
+    "summary": "Світовий банк та IFC інвестували $11.1 млрд у Туреччину, зосередившись на транспорті, енергетиці, водопостачанні, логістиці та промисловості. Ці інвестиції мають на меті підвищення виробничих потужностей. Туреччина тепер є провідним бенефіціаром Світового банку.",
+    "link": "https://www.aa.com.tr/en/economy/turkiye-becomes-world-bank-s-top-beneficiary-with-new-investments/4110242",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "06904d58395d",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/europe/german-metalworkers-continue-warning-strikes-over-wages-job-security/4110163",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "German metalworkers continue warning strikes over wages, job security",
+    "body_orig": "Around 1,000 workers join rally in Stuttgart as IG Metall demands 5% pay increase ahead of Thursday's negotiations",
+    "published": "2026-11-03T14:08:16",
+    "fetched": "2026-11-03T21:31:57.238932",
+    "title_uk": "Німецькі металурги продовжують страйки через зарплати та безпеку праці",
+    "summary_uk": "Близько 1,000 працівників взяли участь у мітингу в Штутгарті. Профспілка IG Metall вимагає підвищення зарплати на 5% перед переговорами, що відбудуться в четвер. Страйки тривають через занепокоєння щодо умов праці та безпеки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Німецькі металурги продовжують страйки через зарплати та безпеку праці",
+    "summary": "Близько 1,000 працівників взяли участь у мітингу в Штутгарті. Профспілка IG Metall вимагає підвищення зарплати на 5% перед переговорами, що відбудуться в четвер. Страйки тривають через занепокоєння щодо умов праці та безпеки.",
+    "link": "https://www.aa.com.tr/en/europe/german-metalworkers-continue-warning-strikes-over-wages-job-security/4110163",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "82c53126cf39",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/asia-pacific/china-s-reserve-requirement-hike-to-slow-but-not-halt-yuan-s-rapid-rise/4110124",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "China’s reserve requirement hike to slow but not halt yuan’s rapid rise",
+    "body_orig": "People’s Bank of China pulls $24B from financial system to ease pressure on exporters, says expert",
+    "published": "2026-11-03T13:47:10",
+    "fetched": "2026-11-03T21:31:57.238942",
+    "title_uk": "Китай підвищує резервні вимоги для стабілізації юаня",
+    "summary_uk": "Народний банк Китаю вилучив $24 млрд з фінансової системи для підтримки експортерів. Це рішення має на меті зменшити тиск на юань, який швидко зростає. Експерти вважають, що підвищення резервних вимог сповільнить, але не зупинить його зростання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зміни в Китаї можуть вплинути на валютні курси, тому варто стежити за коливаннями юаня при плануванні експортних угод.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китай підвищує резервні вимоги для стабілізації юаня",
+    "summary": "Народний банк Китаю вилучив $24 млрд з фінансової системи для підтримки експортерів. Це рішення має на меті зменшити тиск на юань, який швидко зростає. Експерти вважають, що підвищення резервних вимог сповільнить, але не зупинить його зростання.",
+    "link": "https://www.aa.com.tr/en/asia-pacific/china-s-reserve-requirement-hike-to-slow-but-not-halt-yuan-s-rapid-rise/4110124",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fc579b370d53",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/bitcoin-hits-investors-with-74-drop-in-october-following-binance-cyberattack/4110094",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bitcoin hits investors with 7.4% drop in October following Binance cyberattack",
+    "body_orig": "Leading cryptocurrency slips to $77,437, wiping $265B from total crypto market capitalization",
+    "published": "2026-11-03T13:32:23",
+    "fetched": "2026-11-03T21:31:57.238951",
+    "title_uk": "Біткойн впав на 7% після кібератаки на Binance",
+    "summary_uk": "Біткойн знизився до $77,437, що призвело до втрат у $265 млрд на ринку криптовалют. Це сталося після кібератаки на біржу Binance, що викликало занепокоєння серед інвесторів. Загальна капіталізація ринку криптовалют зменшилася через цю подію.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Біткойн впав на 7% після кібератаки на Binance",
+    "summary": "Біткойн знизився до $77,437, що призвело до втрат у $265 млрд на ринку криптовалют. Це сталося після кібератаки на біржу Binance, що викликало занепокоєння серед інвесторів. Загальна капіталізація ринку криптовалют зменшилася через цю подію.",
+    "link": "https://www.aa.com.tr/en/economy/bitcoin-hits-investors-with-74-drop-in-october-following-binance-cyberattack/4110094",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a02600cfdee5",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
+    "body_orig": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi imkanı sunulacağını bildirdi.",
+    "published": "2026-11-03T19:21:08",
+    "fetched": "2026-11-03T21:31:58.453515",
+    "title_uk": "Туреччина надасть кредити постраждалим від повені бізнесам",
+    "summary_uk": "Міністр промисловості та технологій Туреччини оголосив про підтримку для малих і середніх підприємств, які постраждали від повеней. Кредити становитимуть до 1 млн лір для КМП та до 500 тис. лір для мікробізнесів. Це рішення стосується підприємств у різних містах, зокрема в Стамбулі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити можливості для турецьких виробників, які постачають товари в постраждалі регіони, оскільки відновлення бізнесу може підвищити попит на продукцію.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина надасть кредити постраждалим від повені бізнесам",
+    "summary": "Міністр промисловості та технологій Туреччини оголосив про підтримку для малих і середніх підприємств, які постраждали від повеней. Кредити становитимуть до 1 млн лір для КМП та до 500 тис. лір для мікробізнесів. Це рішення стосується підприємств у різних містах, зокрема в Стамбулі.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "35348662b5c7",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4110273",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Borsa günü yükselişle tamamladı",
+    "body_orig": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,56 değer kazanarak 11.023,55 puandan tamamladı.",
+    "published": "2026-11-03T15:24:21",
+    "fetched": "2026-11-03T21:31:58.453545",
+    "title_uk": "BIST 100 зріс на 0,56% до 11.024 пунктів",
+    "summary_uk": "Індекс BIST 100 на біржі Стамбула зріс на 0,56% і закрився на рівні 11.024 пунктів. Це свідчить про позитивні настрої на ринку, що може бути наслідком стабільності економічної ситуації в Туреччині.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання індексу може свідчити про покращення інвестиційного клімату в Туреччині. Це може бути позитивним сигналом для виробників, які планують розширення на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "BIST 100 зріс на 0,56% до 11.024 пунктів",
+    "summary": "Індекс BIST 100 на біржі Стамбула зріс на 0,56% і закрився на рівні 11.024 пунктів. Це свідчить про позитивні настрої на ринку, що може бути наслідком стабільності економічної ситуації в Туреччині.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4110273",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "42fef89ec4ad",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/biontech-ucuncu-ceyrekte-kara-gecti-yil-sonu-hedeflerini-yukseltti/4110234",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "BioNTech üçüncü çeyrekte kara geçti, yıl sonu hedeflerini yükseltti",
+    "body_orig": "Alman biyoteknoloji firması BioNTech, yılın üçüncü çeyreğinde yeniden karlılığa geçerek yıl sonu gelir hedeflerini yukarı yönlü revize etti.",
+    "published": "2026-11-03T14:52:15",
+    "fetched": "2026-11-03T21:31:58.453555",
+    "title_uk": "BioNTech відновлює прибутковість та підвищує прогнози на 2026",
+    "summary_uk": "BioNTech повернувся до прибутковості в третьому кварталі 2026 року. Компанія підвищила свої прогнози доходів на кінець року, що свідчить про позитивні результати діяльності. Це може вплинути на ринок біотехнологій та інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Позитивні результати BioNTech можуть свідчити про зростання інтересу до біотехнологій, що може відкрити нові можливості для турецьких виробників у цій галузі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "BioNTech відновлює прибутковість та підвищує прогнози на 2026",
+    "summary": "BioNTech повернувся до прибутковості в третьому кварталі 2026 року. Компанія підвищила свої прогнози доходів на кінець року, що свідчить про позитивні результати діяльності. Це може вплинути на ринок біотехнологій та інвесторів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/biontech-ucuncu-ceyrekte-kara-gecti-yil-sonu-hedeflerini-yukseltti/4110234",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "be349a8c90c0",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-bayraktar-yeka-ges-2026-yarismalariyla-2-bin-285-megavatlik-kapasite-tahsisi-gerceklestirdik/4110165",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Bayraktar: YEKA GES-2026 yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdik",
+    "body_orig": "Bakan Bayraktar, 18 ayrı saha için düzenlenen rüzgar ve güneş enerjisi yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdiklerini belirterek \"Bu sayede yıllık 1 milyar 220 milyon metreküp doğal gaz ithalatının önüne geçeceğiz\" dedi.",
+    "published": "2026-11-03T14:09:36",
+    "fetched": "2026-11-03T21:31:58.453564",
+    "title_uk": "Туреччина виділить 2 285 МВт для відновлювальної енергетики",
+    "summary_uk": "Туреччина оголосила про виділення 2 285 МВт потужності через конкурси на відновлювальні джерела енергії. Це дозволить зменшити імпорт природного газу на 1.22 млрд кубометрів на рік. Конкурси охоплюють 18 різних майданчиків для вітрової та сонячної енергії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які постачають обладнання для відновлювальної енергетики. Рекомендується слідкувати за результатами конкурсів для можливого виходу на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина виділить 2 285 МВт для відновлювальної енергетики",
+    "summary": "Туреччина оголосила про виділення 2 285 МВт потужності через конкурси на відновлювальні джерела енергії. Це дозволить зменшити імпорт природного газу на 1.22 млрд кубометрів на рік. Конкурси охоплюють 18 різних майданчиків для вітрової та сонячної енергії.",
+    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-bayraktar-yeka-ges-2026-yarismalariyla-2-bin-285-megavatlik-kapasite-tahsisi-gerceklestirdik/4110165",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1c93fd6ac6ce",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-grubu-turkiye-deki-yatirimlarini-derinlestiriyor/4110057",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Dünya Bankası Grubu Türkiye’deki yatırımlarını derinleştiriyor",
+    "body_orig": "Dünya Bankası Türkiye Ülke Direktörü Carret, “Haziran sonunda tamamlanan son mali yılımızda 5,6 milyar dolar finansman sağladık. Bu mali yıl içinde yaklaşık 4 milyar dolarlık yeni finansman daha sağlamaya yönelik çalışmalarımız devam ediyor.\" dedi.",
+    "published": "2026-11-03T13:15:29",
+    "fetched": "2026-11-03T21:31:58.453572",
+    "title_uk": "Світовий банк розширює інвестиції в Туреччині",
+    "summary_uk": "Світовий банк оголосив про фінансування в розмірі $5.6 млрд у Туреччині за минулий фінансовий рік. У планах — ще $4 млрд нового фінансування в поточному році. Ці інвестиції спрямовані на підтримку економічного розвитку країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Збільшення інвестицій може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Світовий банк розширює інвестиції в Туреччині",
+    "summary": "Світовий банк оголосив про фінансування в розмірі $5.6 млрд у Туреччині за минулий фінансовий рік. У планах — ще $4 млрд нового фінансування в поточному році. Ці інвестиції спрямовані на підтримку економічного розвитку країни.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-grubu-turkiye-deki-yatirimlarini-derinlestiriyor/4110057",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3bddc8620e56",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/apple-sufera-din-cauza-crizei-cipurilor-de-memorie-gigantul-avertizeaza-ca-profitul-va-avea-de-suferit-chiar-in-perioada-sezonului-de-iarna-23273788",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Apple suferă din cauza crizei cipurilor de memorie. Gigantul avertizează că profitul va avea de suferit chiar în perioada sezonului de iarnă",
+    "body_orig": "",
+    "published": "2026-11-03T19:11:47",
+    "fetched": "2026-11-03T21:32:01.509765",
+    "title_uk": "Apple прогнозує зниження прибутку через дефіцит чипів",
+    "summary_uk": "Apple повідомила про очікуване зниження прибутку через кризу з чипами пам'яті. Компанія попередила, що це вплине на результати в зимовий сезон. Виробництво нових моделей iPhone також може бути під загрозою через нестачу компонентів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ситуація з Apple може вплинути на попит на електроніку в ритейлі. Рекомендується переглянути асортимент і запаси на зимовий сезон."
+    },
+    "tags": [
+      "виробництво",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Apple прогнозує зниження прибутку через дефіцит чипів",
+    "summary": "Apple повідомила про очікуване зниження прибутку через кризу з чипами пам'яті. Компанія попередила, що це вплине на результати в зимовий сезон. Виробництво нових моделей iPhone також може бути під загрозою через нестачу компонентів.",
+    "link": "https://www.zf.ro/business-international/apple-sufera-din-cauza-crizei-cipurilor-de-memorie-gigantul-avertizeaza-ca-profitul-va-avea-de-suferit-chiar-in-perioada-sezonului-de-iarna-23273788",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "62b0b4d9367d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/sesiune-rosie-la-bursa-de-valori-indicele-bet-coboara-cu-0-8-iar-medlife-si-electrica-inchid-ziua-cu-cele-mai-mari-scaderi-tranzactie-speciala-de-45-mil-lei-cu-actiuni-independenta-sibiu-23273651",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Sesiune roşie la Bursa de Valori: Indicele BET coboară cu 0,8%, iar MedLife şi Electrica închid ziua cu cele mai mari scăderi. Tranzacţie specială de 45 mil. lei cu acţiuni Independenţa Sibiu",
+    "body_orig": "",
+    "published": "2026-11-03T16:28:25",
+    "fetched": "2026-11-03T21:32:01.509799",
+    "title_uk": "Індекс BET на румунській біржі знизився на 0,8%",
+    "summary_uk": "Румунська біржа зафіксувала падіння індексу BET на 0,8%. Найбільші втрати понесли акції MedLife та Electrica. Також відбулася спеціальна транзакція на суму 45 млн леїв з акціями Independenţa Sibiu.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Індекс BET на румунській біржі знизився на 0,8%",
+    "summary": "Румунська біржа зафіксувала падіння індексу BET на 0,8%. Найбільші втрати понесли акції MedLife та Electrica. Також відбулася спеціальна транзакція на суму 45 млн леїв з акціями Independenţa Sibiu.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/sesiune-rosie-la-bursa-de-valori-indicele-bet-coboara-cu-0-8-iar-medlife-si-electrica-inchid-ziua-cu-cele-mai-mari-scaderi-tranzactie-speciala-de-45-mil-lei-cu-actiuni-independenta-sibiu-23273651",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8f9f564dae7a",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/raiffeisen-bank-romania-incheiat-primele-luni-an-35-multi-clienti-active-aproape-100-mld-lei-crestere-21-an-an-ne-consolidam-banca-ci-rolul-nostru-consultant-financiar-23273646",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Raiffeisen Bank România a încheiat primele nouă luni din an cu 35% mai mulţi clienţi şi active de aproape 100 mld. lei, în creştere cu 21% an/an: „Ne consolidăm nu doar ca bancă, ci şi în rolul nostru de consultant financiar”",
+    "body_orig": "",
+    "published": "2026-11-03T16:18:21",
+    "fetched": "2026-11-03T21:32:01.509819",
+    "title_uk": "Raiffeisen Bank România збільшив клієнтську базу на 35% за 9 місяців",
+    "summary_uk": "Raiffeisen Bank România повідомив про зростання кількості клієнтів на 35% у порівнянні з минулим роком. Активи банку досягли майже 100 млрд леїв, що на 21% більше, ніж торік. Банк підкреслює свою роль не лише як фінансової установи, а й як консультанта для клієнтів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Raiffeisen Bank România збільшив клієнтську базу на 35% за 9 місяців",
+    "summary": "Raiffeisen Bank România повідомив про зростання кількості клієнтів на 35% у порівнянні з минулим роком. Активи банку досягли майже 100 млрд леїв, що на 21% більше, ніж торік. Банк підкреслює свою роль не лише як фінансової установи, а й як консультанта для клієнтів.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/raiffeisen-bank-romania-incheiat-primele-luni-an-35-multi-clienti-active-aproape-100-mld-lei-crestere-21-an-an-ne-consolidam-banca-ci-rolul-nostru-consultant-financiar-23273646",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "95d7315999cf",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/arctic-stream-integrator-it-listat-pe-bursa-a-semnat-un-contract-de-aproximativ-5-mil-euro-cu-un-client-din-zona-central-guvernamentala-pentru-o-platforma-de-comunicatii-securizate-23273644",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Arctic Stream, integrator IT listat pe bursă, a semnat un contract de aproximativ 5 mil. euro cu un client din zona central guvernamentală pentru o platformă de comunicaţii securizate",
+    "body_orig": "",
+    "published": "2026-11-03T16:16:38",
+    "fetched": "2026-11-03T21:32:01.509829",
+    "title_uk": "Arctic Stream підписала контракт на €5 млн для урядової платформи",
+    "summary_uk": "Arctic Stream, IT-інтегратор, уклала угоду на €5 млн з клієнтом з центральної урядової сфери. Контракт передбачає розробку платформи для забезпечення безпечних комунікацій. Це підтверджує зростаючий попит на IT-рішення в державному секторі Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Arctic Stream підписала контракт на €5 млн для урядової платформи",
+    "summary": "Arctic Stream, IT-інтегратор, уклала угоду на €5 млн з клієнтом з центральної урядової сфери. Контракт передбачає розробку платформи для забезпечення безпечних комунікацій. Це підтверджує зростаючий попит на IT-рішення в державному секторі Румунії.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/arctic-stream-integrator-it-listat-pe-bursa-a-semnat-un-contract-de-aproximativ-5-mil-euro-cu-un-client-din-zona-central-guvernamentala-pentru-o-platforma-de-comunicatii-securizate-23273644",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a2d1d587f8a3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ce-face-ikea-cu-lemnul-din-padurile-pe-care-le-detine-in-romania-ulf-johansson-nu-exista-suficient-lemn-in-padurile-din-intreaga-lume-trebuie-sa-oprim-aceasta-dezvoltare-liniara990770_990770.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce face IKEA cu lemnul din pădurile pe care le deține în România. Ulf Johansson: Nu există suficient lemn în pădurile din întreaga lume. Trebuie să oprim această dezvoltare liniară”",
+    "body_orig": "Ingka Investments, vehiculul de investiții al celui mai mare francizat IKEA, și-a crescut deținerile de pădure din România cu 400 de hectare în ultimii trei ani, până la aproximativ 51.000 de hectare.  Economica a discutat despre ce se întâmplă cu lemnul românesc cu Ulf Johansson, managerul global pentru aprovizionare cu lemn și silvicultură Inter IKEA Group.",
+    "published": "2026-11-03T20:26:56",
+    "fetched": "2026-11-03T21:32:05.570951",
+    "title_uk": "IKEA розширює лісові володіння в Румунії на 400 гектарів",
+    "summary_uk": "Ingka Investments, інвестиційний підрозділ IKEA, збільшив свої лісові володіння в Румунії до 51 тисячі гектарів. За словами Ульфа Йоханссона, глобального менеджера з постачання деревини, світові запаси деревини недостатні, і необхідно зупинити лінійний розвиток. Це свідчить про зростаючу увагу IKEA до сталого управління ресурсами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "IKEA розширює лісові володіння в Румунії на 400 гектарів",
+    "summary": "Ingka Investments, інвестиційний підрозділ IKEA, збільшив свої лісові володіння в Румунії до 51 тисячі гектарів. За словами Ульфа Йоханссона, глобального менеджера з постачання деревини, світові запаси деревини недостатні, і необхідно зупинити лінійний розвиток. Це свідчить про зростаючу увагу IKEA до сталого управління ресурсами.",
+    "link": "https://www.economica.net/ce-face-ikea-cu-lemnul-din-padurile-pe-care-le-detine-in-romania-ulf-johansson-nu-exista-suficient-lemn-in-padurile-din-intreaga-lume-trebuie-sa-oprim-aceasta-dezvoltare-liniara990770_990770.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a7c6b54e0079",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/deficitul-mare-amenintarea-ratingului-si-inflatia-ne-condamna-la-dobanzi-mari-executia-bugetara-s-a-imbunatatit-dar-nu-am-trecut-hopul-chiar-daca-90-din-banii-din-pnrr-vor-intra-pana-la-sfarsitul_991913.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Deficitul mare, amenințarea ratingului și inflația ne condamnă la dobânzi mari. Execuția bugetară s-a îmbunătățit, dar nu am trecut hopul, chiar dacă 90% din banii din PNRR vor intra până la sfârșitul anului – analiști",
+    "body_orig": "Inflația este cel mai mare dușman al macroeconmiei românești, conjugată cu deficitul bugetar mare, iar retrogradarea așteaptă după colț. Este opinia lui Adrian Codîrlașu, președinte CFA România și a lui Valentin Tătaru, economist șef al ING Bank. ”Chiar dacă ultimii bani care trebuie să vină din PNRR vor intra în propoție de 90% până la sfârșitul anului, ca să îndeplinim ținta de deficit bugetar, nu cred că am trecut hopul”, spune Adrian Codîrlașu, președinte CFA.",
+    "published": "2026-11-03T20:18:39",
+    "fetched": "2026-11-03T21:32:05.570962",
+    "title_uk": "Румунія стикається з високими процентними ставками через інфляцію",
+    "summary_uk": "Експерти вважають, що інфляція та великий дефіцит бюджету загрожують економіці Румунії. Хоча 90% коштів з PNRR надійдуть до кінця року, аналітики вважають, що країна не подолала всі труднощі. Високі процентні ставки можуть залишитися на тривалий час.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "економіка",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія стикається з високими процентними ставками через інфляцію",
+    "summary": "Експерти вважають, що інфляція та великий дефіцит бюджету загрожують економіці Румунії. Хоча 90% коштів з PNRR надійдуть до кінця року, аналітики вважають, що країна не подолала всі труднощі. Високі процентні ставки можуть залишитися на тривалий час.",
+    "link": "https://www.economica.net/deficitul-mare-amenintarea-ratingului-si-inflatia-ne-condamna-la-dobanzi-mari-executia-bugetara-s-a-imbunatatit-dar-nu-am-trecut-hopul-chiar-daca-90-din-banii-din-pnrr-vor-intra-pana-la-sfarsitul_991913.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "796bce57324f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/renault-a-prezentat-o-drona-concept_991983.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul Renault a prezentat o dronă-concept care permite executarea de la distanță a misiunilor în zone cu risc",
+    "body_orig": "Renault Group și John Cockerill au prezentat Forefront Concept, o dronă terestră polivalentă telecomandată care deschide calea către noi capabilități de intervenție atât în domeniul apărării, cât și în cel civil, echioamentul permițând executarea de la distanță a misiunilor în zone cu risc ridicat sau greu accesibile.",
+    "published": "2026-11-03T20:10:42",
+    "fetched": "2026-11-03T21:32:05.570972",
+    "title_uk": "Renault представила концепт дрону для виконання місій у небезпечних зонах",
+    "summary_uk": "Renault Group та John Cockerill презентували Forefront Concept — безпілотну наземну платформу. Дрон дозволяє виконувати місії в зонах з високим ризиком. Це відкриває нові можливості для оборонних та цивільних застосувань.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Renault представила концепт дрону для виконання місій у небезпечних зонах",
+    "summary": "Renault Group та John Cockerill презентували Forefront Concept — безпілотну наземну платформу. Дрон дозволяє виконувати місії в зонах з високим ризиком. Це відкриває нові можливості для оборонних та цивільних застосувань.",
+    "link": "https://www.economica.net/renault-a-prezentat-o-drona-concept_991983.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eae85c6f0e89",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/sase-proiecte-feroviare_991914.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "HARTA Șase proiecte feroviare la granițele României. În ce stadiu se află și când vor fi gata",
+    "body_orig": "Prioritățile României în materie de investiții feroviare se extind tot mai mult către conexiunile transfrontaliere, transmite un director din cadrul Ministerului Transporturilor și Infrastructurii (MTI). Acesta detaliază stadiul în care se află șase proiecte, precum și termene de finalizare pentru cele unde au început deja lucrările.",
+    "published": "2026-11-03T20:03:11",
+    "fetched": "2026-11-03T21:32:05.570990",
+    "title_uk": "Румунія розвиває шість залізничних проектів на кордонах",
+    "summary_uk": "Румунія зосереджується на інвестиціях у залізничні зв'язки з сусідніми країнами. Міністерство транспорту повідомило про шість проектів, які перебувають у різних стадіях реалізації. Деякі з них вже мають терміни завершення, що підвищить транскордонну мобільність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія розвиває шість залізничних проектів на кордонах",
+    "summary": "Румунія зосереджується на інвестиціях у залізничні зв'язки з сусідніми країнами. Міністерство транспорту повідомило про шість проектів, які перебувають у різних стадіях реалізації. Деякі з них вже мають терміни завершення, що підвищить транскордонну мобільність.",
+    "link": "https://www.economica.net/sase-proiecte-feroviare_991914.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a3ab32c48238",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/money/banking/raiffeisen-bank-romania-reports-35-more-new-customers-in-the-first-nine-months-of-2026-302692",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Raiffeisen Bank Romania reports 35% more new customers in the first nine months of 2026",
+    "body_orig": "Raiffeisen Bank Romania maintained its sustainable growth momentum in the first nine months of the year, delivering solid results supported by strong lending activity, an expanded customer base, and an active presence in the market. Total assets reached RON 98.6 billion at the end of September 2026, up 21% compared with the same period last [&#8230;]\nThe post Raiffeisen Bank Romania reports 35% more new customers in the first nine months of 2026 appeared first on Business Review.",
+    "published": "2026-11-03T17:31:50",
+    "fetched": "2026-11-03T21:32:09.182714",
+    "title_uk": "Raiffeisen Bank Romania отримав на 35% більше нових клієнтів за 9 місяців",
+    "summary_uk": "Raiffeisen Bank Romania продовжує зростати, збільшивши кількість нових клієнтів на 35% у першій половині 2026 року. Загальні активи банку досягли RON 98.6 млрд, що на 21% більше в порівнянні з аналогічним періодом минулого року. Зростання підтримується активною кредитною діяльністю та розширенням клієнтської бази.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Raiffeisen Bank Romania отримав на 35% більше нових клієнтів за 9 місяців",
+    "summary": "Raiffeisen Bank Romania продовжує зростати, збільшивши кількість нових клієнтів на 35% у першій половині 2026 року. Загальні активи банку досягли RON 98.6 млрд, що на 21% більше в порівнянні з аналогічним періодом минулого року. Зростання підтримується активною кредитною діяльністю та розширенням клієнтської бази.",
+    "link": "https://business-review.eu/money/banking/raiffeisen-bank-romania-reports-35-more-new-customers-in-the-first-nine-months-of-2026-302692",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d741445b7849",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/bellemonde-opens-the-first-ready-to-move-in-showroom-in-northern-bucharest-302689",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Bellemonde opens the first Ready to Move In showroom in northern Bucharest",
+    "body_orig": "Bellemonde Development opened the Bellemonde Residence showroom today, a fully furnished apartment designed by Hype Project in the Warm Nature collection, which presents to the public for the first time the Ready to Move In concept: homes delivered fully furnished and available exclusively to future Bellemonde owners. The showroom is located in Bellemonde Residence, a [&#8230;]\nThe post Bellemonde opens the first Ready to Move In showroom in northern Bucharest appeared first on Business Review.",
+    "published": "2026-11-03T17:28:47",
+    "fetched": "2026-11-03T21:32:09.182731",
+    "title_uk": "Bellemonde відкриває перший шоурум Ready to Move In у Бухаресті",
+    "summary_uk": "Bellemonde Development презентувала шоурум Bellemonde Residence, де вперше представлено концепцію Ready to Move In. Квартири постачаються повністю мебльованими та доступні лише для власників Bellemonde. Шоурум розташований у північному Бухаресті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Bellemonde відкриває перший шоурум Ready to Move In у Бухаресті",
+    "summary": "Bellemonde Development презентувала шоурум Bellemonde Residence, де вперше представлено концепцію Ready to Move In. Квартири постачаються повністю мебльованими та доступні лише для власників Bellemonde. Шоурум розташований у північному Бухаресті.",
+    "link": "https://business-review.eu/property/bellemonde-opens-the-first-ready-to-move-in-showroom-in-northern-bucharest-302689",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aff3f2c6da2c",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/sports/esx-accelerates-b2b-growth-with-a-dedicated-corporate-platform-while-revenue-rises-10-in-the-first-nine-months-of-2026-302682",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "ESX accelerates B2B growth with a dedicated corporate platform while revenue rises 10% in the first nine months of 2026",
+    "body_orig": "ESX, Romania’s largest aggregator of gyms and sports activities, has launched a self-service platform for companies, enabling them to manage employee sports memberships more efficiently as part of its strategy to accelerate growth in the corporate segment in 2027. Next year, the company also aims to add 150 new partners to its network and broaden [&#8230;]\nThe post ESX accelerates B2B growth with a dedicated corporate platform while revenue rises 10% in the first nine months of 2026 appeared first on Business Review.",
+    "published": "2026-11-03T17:23:42",
+    "fetched": "2026-11-03T21:32:09.182745",
+    "title_uk": "ESX запускає платформу для корпоративних клієнтів, зростання доходів на 10%",
+    "summary_uk": "ESX, найбільший агрегатор спортзалів у Румунії, запустив платформу самообслуговування для компаній. Це дозволить ефективніше управляти спортивними абонементами працівників. У 2026 році компанія планує залучити 150 нових партнерів та продовжити зростання в корпоративному сегменті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ESX запускає платформу для корпоративних клієнтів, зростання доходів на 10%",
+    "summary": "ESX, найбільший агрегатор спортзалів у Румунії, запустив платформу самообслуговування для компаній. Це дозволить ефективніше управляти спортивними абонементами працівників. У 2026 році компанія планує залучити 150 нових партнерів та продовжити зростання в корпоративному сегменті.",
+    "link": "https://business-review.eu/business/sports/esx-accelerates-b2b-growth-with-a-dedicated-corporate-platform-while-revenue-rises-10-in-the-first-nine-months-of-2026-302682",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dfed10982580",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/legal/filip-company-assists-the-banking-consortium-involved-in-electricas-bond-issuance-program-totaling-up-to-eur-1-billion-302679",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Filip & Company assists the banking consortium involved in Electrica’s bond issuance program totaling up to EUR 1 billion",
+    "body_orig": "Filip &#38; Company law firm, alongside the international law firm Linklaters, has provided legal assistance to the banking consortium involved in establishing the Euro Medium-Term Note (EMTN) program, worth up to EUR 1 billion, for Societatea Energetică Electrica S.A., one of the leading players in Romania’s energy sector. Under the program, Banca Comercială Română (BCR), [&#8230;]\nThe post Filip &#038; Company assists the banking consortium involved in Electrica&#8217;s bond issuance program totaling up to EUR 1 billion appeared first on Business Review.",
+    "published": "2026-11-03T15:19:32",
+    "fetched": "2026-11-03T21:32:09.182759",
+    "title_uk": "Фірма Filip & Company допомагає у випуску облігацій Electrica на €1 млрд",
+    "summary_uk": "Фірма Filip & Company разом з Linklaters надала юридичну допомогу банківському консорціуму, що працює над програмою Euro Medium-Term Note (EMTN) для Societatea Energetică Electrica S.A. Програма передбачає випуск облігацій на суму до €1 млрд. Electrica є одним з провідних гравців на ринку енергетики Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фірма Filip & Company допомагає у випуску облігацій Electrica на €1 млрд",
+    "summary": "Фірма Filip & Company разом з Linklaters надала юридичну допомогу банківському консорціуму, що працює над програмою Euro Medium-Term Note (EMTN) для Societatea Energetică Electrica S.A. Програма передбачає випуск облігацій на суму до €1 млрд. Electrica є одним з провідних гравців на ринку енергетики Румунії.",
+    "link": "https://business-review.eu/business/legal/filip-company-assists-the-banking-consortium-involved-in-electricas-bond-issuance-program-totaling-up-to-eur-1-billion-302679",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af256257ac52",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/investments/inafaceri-ro-launches-an-eligibility-assessment-portal-to-help-companies-identify-funding-opportunities-302675",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "InAfaceri.ro launches an eligibility assessment portal to help companies identify funding opportunities",
+    "body_orig": "Companies exploring funding opportunities can now use a new online eligibility portal developed by InAfaceri.ro to assess their preliminary eligibility for various investment support programmes. In the first three months since its launch, the platform has attracted more than 25,000 unique visitors and recorded over 3,200 completed eligibility questionnaires, reflecting entrepreneurs’ strong interest in identifying [&#8230;]\nThe post InAfaceri.ro launches an eligibility assessment portal to help companies identify funding opportunities appeared first on Business Review.",
+    "published": "2026-11-03T15:16:03",
+    "fetched": "2026-11-03T21:32:09.182771",
+    "title_uk": "InAfaceri.ro запустив портал для оцінки можливостей фінансування",
+    "summary_uk": "InAfaceri.ro представив онлайн-портал для оцінки попередньої відповідності компаній різним програмам фінансування. За три місяці з моменту запуску платформа залучила понад 25 тисяч унікальних відвідувачів і зафіксувала більше 3 тисяч заповнених анкет. Це свідчить про високий інтерес підприємців до можливостей інвестиційної підтримки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "InAfaceri.ro запустив портал для оцінки можливостей фінансування",
+    "summary": "InAfaceri.ro представив онлайн-портал для оцінки попередньої відповідності компаній різним програмам фінансування. За три місяці з моменту запуску платформа залучила понад 25 тисяч унікальних відвідувачів і зафіксувала більше 3 тисяч заповнених анкет. Це свідчить про високий інтерес підприємців до можливостей інвестиційної підтримки.",
+    "link": "https://business-review.eu/investments/inafaceri-ro-launches-an-eligibility-assessment-portal-to-help-companies-identify-funding-opportunities-302675",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c04dd82bc0e0",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/money/banking/garanti-bbva-romania-becomes-part-of-raiffeisen-bank-international-rbi-group-302685",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Garanti BBVA Romania becomes part of Raiffeisen Bank International Group",
+    "body_orig": "Following receipt of all necessary approvals from the competent authorities, Raiffeisen Bank has completed the acquisition of 100% of the shares of Garanti BBVA Group Romania, comprising Garanti Bank S.A., the financial leasing company Motoractive IFN S.A., under the brand name Garanti BBVA Leasing, and the operational leasing company Motoractive Multiservices S.R.L., under the brand [&#8230;]\nThe post Garanti BBVA Romania becomes part of Raiffeisen Bank International Group appeared first on Business Review.",
+    "published": "2026-11-03T12:23:37",
+    "fetched": "2026-11-03T21:32:09.182795",
+    "title_uk": "Garanti BBVA Romania приєднується до Raiffeisen Bank International Group",
+    "summary_uk": "Raiffeisen Bank завершив придбання 100% акцій Garanti BBVA Group Romania, включаючи Garanti Bank S.A. та Motoractive IFN S.A. Угода отримала всі необхідні схвалення від компетентних органів. Це розширює присутність Raiffeisen на ринку Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Garanti BBVA Romania приєднується до Raiffeisen Bank International Group",
+    "summary": "Raiffeisen Bank завершив придбання 100% акцій Garanti BBVA Group Romania, включаючи Garanti Bank S.A. та Motoractive IFN S.A. Угода отримала всі необхідні схвалення від компетентних органів. Це розширює присутність Raiffeisen на ринку Румунії.",
+    "link": "https://business-review.eu/money/banking/garanti-bbva-romania-becomes-part-of-raiffeisen-bank-international-rbi-group-302685",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b557fa78ae30",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Tallia raises €4 million to bring AI-powered research and review to tax firms",
+    "body_orig": "London-based AI startup Tallia, formerly known as Revax, has secured €4 million ($4.5 million) in Seed funding to expand its AI-powered research and drafting platform for tax and accountancy professionals. The round was co-led by Outward VC and the Institute of Chartered Accountants in England and Wales (ICAEW), with participation from Portfolio Ventures, Expedite Capital, [&#8230;]\nThe post Tallia raises €4 million to bring AI-powered research and review to tax firms appeared first on EU-Startups.",
+    "published": "2026-11-03T16:10:48",
+    "fetched": "2026-11-03T21:30:58.612201",
+    "title_uk": "Tallia залучила €4 млн для AI-досліджень у податковій сфері",
+    "summary_uk": "Лондонський стартап Tallia, раніше відомий як Revax, отримав €4 млн на початкове фінансування для розширення платформи AI-досліджень для податкових фірм. Раунд фінансування спільно очолили Outward VC та ICAEW, з участю інших інвесторів. Кошти підуть на розвиток технологій для податкових та бухгалтерських професіоналів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Tallia залучила €4 млн для AI-досліджень у податковій сфері",
+    "summary": "Лондонський стартап Tallia, раніше відомий як Revax, отримав €4 млн на початкове фінансування для розширення платформи AI-досліджень для податкових фірм. Раунд фінансування спільно очолили Outward VC та ICAEW, з участю інших інвесторів. Кошти підуть на розвиток технологій для податкових та бухгалтерських професіоналів.",
+    "link": "https://www.eu-startups.com/2026/11/london-based-tallia-raises-e4-million-to-bring-ai-powered-research-and-review-to-tax-firms/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4ba744302f49",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste",
+    "body_orig": "Viridi, a British DeepTech that enables the transformation of waste carbon dioxide into chemical products, has closed a €2.6 million (£2.2 million) round to scale their technology, strengthen its team and support its expansion into Asia and the US. The round was led by Odyssey Ventures, with co-investment from Alphatron Impact Ventures and follow-on commitments [&#8230;]\nThe post Turning pollution into everyday products &#8211; Southampton&#8217;s Virdi raises €2.6 million to transform waste appeared first on EU-Startups.",
+    "published": "2026-11-03T12:35:55",
+    "fetched": "2026-11-03T21:30:58.612234",
+    "title_uk": "Британський стартап Viridi залучив €2.6 млн для перетворення вуглецю",
+    "summary_uk": "Viridi, британський DeepTech стартап, залучив €2.6 млн для масштабування технології перетворення вуглекислого газу на хімічні продукти. Кошти підуть на зміцнення команди та розширення на ринки Азії та США. Раунд фінансування очолила Odyssey Ventures.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Британський стартап Viridi залучив €2.6 млн для перетворення вуглецю",
+    "summary": "Viridi, британський DeepTech стартап, залучив €2.6 млн для масштабування технології перетворення вуглекислого газу на хімічні продукти. Кошти підуть на зміцнення команди та розширення на ринки Азії та США. Раунд фінансування очолила Odyssey Ventures.",
+    "link": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2d9ad21fc021",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/03/vyriy-industries-viisla-z-projektu-udarnogo-bpla-blyskavka-comu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Vyriy Industries вийшла з проєкту ударного БпЛА Blyskavka: чому",
+    "body_orig": "Компанія допомогла налагодити серійне виробництво безпілотника, але тепер зосередиться на власних розробках.",
+    "published": "2026-11-03T15:35:00",
+    "fetched": "2026-11-03T21:31:35.289991",
+    "title_uk": "Vyriy Industries виходить з проєкту БпЛА Blyskavka",
+    "summary_uk": "Vyriy Industries завершила співпрацю у проєкті серійного виробництва БпЛА Blyskavka. Компанія планує зосередитися на власних розробках. Відомо, що Blyskavka є важливим проєктом у сфері безпілотних технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Vyriy Industries виходить з проєкту БпЛА Blyskavka",
+    "summary": "Vyriy Industries завершила співпрацю у проєкті серійного виробництва БпЛА Blyskavka. Компанія планує зосередитися на власних розробках. Відомо, що Blyskavka є важливим проєктом у сфері безпілотних технологій.",
+    "link": "https://ain.ua/2026/11/03/vyriy-industries-viisla-z-projektu-udarnogo-bpla-blyskavka-comu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "487113f7e2f4",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/03/55-golosovogo-trafiku-ponad-104-mln-abonentiv-kiyivstar-koristuiutsia-volte-ta-abo-vowifi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Більше 55% голосового трафіку: понад 10,4 млн абонентів Київстар користуються VoLTE та/або VoWiFi",
+    "body_orig": "В умовах частих знеструмлень VoWiFi є ефективним інструментом для підтримання зв’язку. Навіть якщо сигнал мобільної мережі слабкий, для здійснення дзвінка достатньо мати резервне живлення для роутера та доступ до домашнього інтернету.",
+    "published": "2026-11-03T14:03:00",
+    "fetched": "2026-11-03T21:31:35.290016",
+    "title_uk": "Більше 10,4 млн абонентів Київстар користуються VoLTE та VoWiFi",
+    "summary_uk": "Київстар повідомив, що понад 10,4 млн абонентів користуються технологіями VoLTE та VoWiFi. Це складає більше 55% голосового трафіку оператора. VoWiFi дозволяє здійснювати дзвінки навіть при слабкому мобільному сигналі, використовуючи домашній інтернет.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Більше 10,4 млн абонентів Київстар користуються VoLTE та VoWiFi",
+    "summary": "Київстар повідомив, що понад 10,4 млн абонентів користуються технологіями VoLTE та VoWiFi. Це складає більше 55% голосового трафіку оператора. VoWiFi дозволяє здійснювати дзвінки навіть при слабкому мобільному сигналі, використовуючи домашній інтернет.",
+    "link": "https://ain.ua/2026/11/03/55-golosovogo-trafiku-ponad-104-mln-abonentiv-kiyivstar-koristuiutsia-volte-ta-abo-vowifi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b0f1152a0916",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/03/apple-rozprodala-skladani-iphone-duo-ta-zitknulasia-z-deficitom/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Apple розпродала складані iPhone Duo та зіткнулася з дефіцитом",
+    "body_orig": "Новий смартфон розкупили невдовзі після старту продажів. Компанія поки не знає, коли зможе забезпечити достатню кількість пристроїв.",
+    "published": "2026-11-03T12:55:00",
+    "fetched": "2026-11-03T21:31:35.290026",
+    "title_uk": "Apple розпродала складані iPhone Duo, дефіцит на ринку",
+    "summary_uk": "Apple швидко розпродала нові складані iPhone Duo після старту продажів. Компанія наразі не може визначити терміни, коли зможе забезпечити достатню кількість пристроїв для ринку. Це може вплинути на попит та ціни на смартфони в найближчий час.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на попит на смартфони в ритейлі. Рекомендується переглянути асортимент та запаси, щоб врахувати можливий підвищений попит на альтернативні моделі."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Apple розпродала складані iPhone Duo, дефіцит на ринку",
+    "summary": "Apple швидко розпродала нові складані iPhone Duo після старту продажів. Компанія наразі не може визначити терміни, коли зможе забезпечити достатню кількість пристроїв для ринку. Це може вплинути на попит та ціни на смартфони в найближчий час.",
+    "link": "https://ain.ua/2026/11/03/apple-rozprodala-skladani-iphone-duo-ta-zitknulasia-z-deficitom/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3cc90ce24497",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/konkurent-dlya-tesla-bmw-navcit-avto-samostiino-yizditi-mistom-p08qe2",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Конкурент для Tesla: BMW навчить авто самостійно їздити містом",
+    "body_orig": "BMW з 2027 року навчить свої авто більше допомагати водієві в місті. Компанія оголосила, що розширить функції асистента водіння: машина зможе сама проходити повороти, перестроюватися в міському потоці, враховувати право проїзду й долати кругові перехрестя. Спочатку це запрацює в Німеччині.&nbsp;",
+    "published": "2026-11-03T16:58:00",
+    "fetched": "2026-11-03T21:31:50.761744",
+    "title_uk": "BMW розширює функції асистента водіння для міських умов",
+    "summary_uk": "BMW планує з 2027 року впровадити нові функції асистента водіння, які дозволять автомобілям самостійно проходити повороти, перестроюватися в міському потоці та долати кругові перехрестя. Ці зміни спочатку запрацюють у Німеччині. Компанія прагне конкурувати з Tesla в сегменті автономного водіння.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "BMW розширює функції асистента водіння для міських умов",
+    "summary": "BMW планує з 2027 року впровадити нові функції асистента водіння, які дозволять автомобілям самостійно проходити повороти, перестроюватися в міському потоці та долати кругові перехрестя. Ці зміни спочатку запрацюють у Німеччині. Компанія прагне конкурувати з Tesla в сегменті автономного водіння.",
+    "link": "https://speka.ua/news/konkurent-dlya-tesla-bmw-navcit-avto-samostiino-yizditi-mistom-p08qe2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5a9a4af87505",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/shhe-odin-si-konsultant-dlya-biznesu-yak-pracyuje-kairos-vid-cody-solutions-pn41kr",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Ще один ШІ-консультант для бізнесу: як працює Kairos від Cody Solutions",
+    "body_orig": "Українська IT-компанія Cody Solutions вийшла на європейський ринок із власним ШІ-продуктом Kairos. Система для фінансових директорів шукає, де компанія втрачає гроші, прогнозує рух коштів на 90 днів і допомагає заробляти. Продукт уже презентували фінансистам у Норвегії під час Oslo Innovation Week, а зараз розгортають у першого клієнта у США, повідомили в компанії.",
+    "published": "2026-11-03T16:32:00",
+    "fetched": "2026-11-03T21:31:50.761763",
+    "title_uk": "Cody Solutions запускає ШІ-продукт Kairos для бізнесу",
+    "summary_uk": "Українська компанія Cody Solutions представила ШІ-систему Kairos, яка допомагає фінансовим директорам виявляти втрати та прогнозувати рух коштів на 90 днів. Продукт вже презентували в Норвегії та розгортають у США. Це новий крок компанії на європейському ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей продукт може стати корисним інструментом для категорійних менеджерів, які працюють з фінансовими показниками. Розгляньте можливість інтеграції подібних технологій для оптимізації управління категоріями."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Cody Solutions запускає ШІ-продукт Kairos для бізнесу",
+    "summary": "Українська компанія Cody Solutions представила ШІ-систему Kairos, яка допомагає фінансовим директорам виявляти втрати та прогнозувати рух коштів на 90 днів. Продукт вже презентували в Норвегії та розгортають у США. Це новий крок компанії на європейському ринку.",
+    "link": "https://speka.ua/news/shhe-odin-si-konsultant-dlya-biznesu-yak-pracyuje-kairos-vid-cody-solutions-pn41kr",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "33202326dd80",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/brave1-zapustiv-platformu-shho-zvodit-oboronni-startapi-z-investorami-9q4onk",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Brave1 запустив платформу, що зводить оборонні стартапи з інвесторами",
+    "body_orig": "Державний кластер оборонних технологій Brave1 запустив платформу Brave1 Invest. Вона має звести українські оборонні стартапи з інвесторами. Розробники зможуть знайти фінансування, а інвестори, пройшовши перевірку, отримають доступ до каталогу перевірених deftech-компаній, які шукають гроші, пише Defender Media.",
+    "published": "2026-11-03T15:10:00",
+    "fetched": "2026-11-03T21:31:50.761801",
+    "title_uk": "Brave1 запустив платформу для оборонних стартапів та інвесторів",
+    "summary_uk": "Brave1 запустив платформу Brave1 Invest для зв'язку українських оборонних стартапів з інвесторами. Розробники можуть знайти фінансування, а інвестори отримають доступ до перевірених компаній у сфері оборонних технологій. Платформа має на меті підтримати розвиток оборонного сектору в Україні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Brave1 запустив платформу для оборонних стартапів та інвесторів",
+    "summary": "Brave1 запустив платформу Brave1 Invest для зв'язку українських оборонних стартапів з інвесторами. Розробники можуть знайти фінансування, а інвестори отримають доступ до перевірених компаній у сфері оборонних технологій. Платформа має на меті підтримати розвиток оборонного сектору в Україні.",
+    "link": "https://speka.ua/news/brave1-zapustiv-platformu-shho-zvodit-oboronni-startapi-z-investorami-9q4onk",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2eb8956ba6f5",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/godinnik-shho-pidsluxovuje-z-koristyu-apple-testuje-si-perekaz-rozmov-na-apple-watch-pkkrxw",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Годинник, що підслуховує з користю: Apple тестує ШІ-переказ розмов на Apple Watch",
+    "body_orig": "Apple почала тестувати на Apple Watch нові ШІ-функції, які вміють переказувати й «перемотувати» ваші реальні розмови. Годинник зможе коротко підсумувати почуте або показати текстом те, що щойно пролунало. Поки що це закрита бета для розробників у складі оновлення iOS 27.3. Працюватимуть функції на Apple Watch Series 12 та Ultra 4 у парі з iPhone, пише TechCrunch.",
+    "published": "2026-11-03T14:47:00",
+    "fetched": "2026-11-03T21:31:50.761823",
+    "title_uk": "Apple тестує ШІ-функції для переказу розмов на Apple Watch",
+    "summary_uk": "Apple розпочала тестування нових ШІ-функцій для Apple Watch, які можуть переказувати та підсумовувати розмови. Функції доступні в закритій бета-версії для розробників в оновленні iOS 27.3. Годинник працюватиме з моделями Apple Watch Series 12 та Ultra 4 у парі з iPhone.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Apple тестує ШІ-функції для переказу розмов на Apple Watch",
+    "summary": "Apple розпочала тестування нових ШІ-функцій для Apple Watch, які можуть переказувати та підсумовувати розмови. Функції доступні в закритій бета-версії для розробників в оновленні iOS 27.3. Годинник працюватиме з моделями Apple Watch Series 12 та Ultra 4 у парі з iPhone.",
+    "link": "https://speka.ua/news/godinnik-shho-pidsluxovuje-z-koristyu-apple-testuje-si-perekaz-rozmov-na-apple-watch-pkkrxw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bffb514f3af6",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ukrayinskii-biznes-ekonomit-ale-ne-pospisaje-skorocuvati-pracivnikiv-py1elq",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Український бізнес економить, але не поспішає скорочувати працівників",
+    "body_orig": "Українські компанії переглядають бюджети, шукають дешевші рішення та оптимізують витрати. Але універсального рецепта економії немає: умови великого підприємства на заході країни та малого бізнесу поблизу фронту суттєво відрізняються.",
+    "published": "2026-11-03T14:45:00",
+    "fetched": "2026-11-03T21:31:50.761833",
+    "title_uk": "Українські компанії оптимізують витрати, але не звільняють працівників",
+    "summary_uk": "Українські підприємства переглядають бюджети та шукають дешевші рішення для економії. В умовах війни бізнеси адаптуються до різних викликів, які залежать від їхнього розташування. Універсального підходу до економії не існує.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "економія",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Українські компанії оптимізують витрати, але не звільняють працівників",
+    "summary": "Українські підприємства переглядають бюджети та шукають дешевші рішення для економії. В умовах війни бізнеси адаптуються до різних викликів, які залежать від їхнього розташування. Універсального підходу до економії не існує.",
+    "link": "https://speka.ua/news/ukrayinskii-biznes-ekonomit-ale-ne-pospisaje-skorocuvati-pracivnikiv-py1elq",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "35ea7fde2a60",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/perfect-store-framework-dlia-vyrobnykiv-na-onlayin-rynku-novyyi-pidkhid-do-zbilshennia-prodazhiv/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Perfect Store Framework для виробників на онлайн-ринку: новий підхід до збільшення продажів",
+    "body_orig": "Perfect Store, або «ідеальний магазин», — це підхід, який виробники товарів повсякденного вжитку використовують останню чверть століття, щоб збільшити продажі.\nПідхід реалізовано в офлайні. Він передбачає чекліст показників, які мають виконуватися в кожному магазині, де розміщені товари виробника.\nП…",
+    "published": "2026-11-03T12:10:16",
+    "fetched": "2026-11-03T21:32:11.347238",
+    "title_uk": "Perfect Store Framework для виробників на онлайн-ринку",
+    "summary_uk": "Perfect Store, або «ідеальний магазин», — це концепція, що допомагає виробникам FMCG збільшити продажі. Вона реалізується через чекліст показників для магазинів, де представлені товари. Цей підхід, що використовувався в офлайні, тепер адаптується для онлайн-ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей підхід може стати корисним для категорійних менеджерів ритейлу, які прагнуть оптимізувати викладку товарів в онлайн-магазинах, використовуючи перевірені методи з офлайну."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Perfect Store Framework для виробників на онлайн-ринку",
+    "summary": "Perfect Store, або «ідеальний магазин», — це концепція, що допомагає виробникам FMCG збільшити продажі. Вона реалізується через чекліст показників для магазинів, де представлені товари. Цей підхід, що використовувався в офлайні, тепер адаптується для онлайн-ринку.",
+    "link": "https://rau.ua/news/perfect-store-framework-dlia-vyrobnykiv-na-onlayin-rynku-novyyi-pidkhid-do-zbilshennia-prodazhiv/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e1768d8f1f52",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/done-ta-akademiia-dtek-rozpochynaiut-doslidzhennia-faktoriv-stiyikosti-ukrayinskogo-biznesu-v-umovakh-viyiny/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Done та Академія ДТЕК розпочинають дослідження факторів стійкості українського бізнесу в умовах війни",
+    "body_orig": "Done спільно з Академією ДТЕК запускають дослідження, покликане з’ясувати, які рішення, управлінські практики та організаційні зміни допомагають українським компаніям зберігати стійкість і розвиватися в умовах повномасштабної війни. До участі запрошено провідні компанії, які роблять вагомий внесок в…",
+    "published": "2026-11-03T11:30:01",
+    "fetched": "2026-11-03T21:32:11.347258",
+    "title_uk": "Done та Академія ДТЕК досліджують стійкість українського бізнесу",
+    "summary_uk": "Done разом з Академією ДТЕК запускають дослідження для вивчення управлінських практик, які допомагають українським компаніям залишатися стійкими під час війни. Участь беруть провідні компанії, що роблять значний внесок в економіку. Дослідження має на меті з'ясувати ефективні рішення для розвитку бізнесу в умовах кризи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Done та Академія ДТЕК досліджують стійкість українського бізнесу",
+    "summary": "Done разом з Академією ДТЕК запускають дослідження для вивчення управлінських практик, які допомагають українським компаніям залишатися стійкими під час війни. Участь беруть провідні компанії, що роблять значний внесок в економіку. Дослідження має на меті з'ясувати ефективні рішення для розвитку бізнесу в умовах кризи.",
+    "link": "https://rau.ua/news/done-ta-akademiia-dtek-rozpochynaiut-doslidzhennia-faktoriv-stiyikosti-ukrayinskogo-biznesu-v-umovakh-viyiny/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c021c8c0d9df",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "At Home taps former CFO as new chief executive",
+    "body_orig": "Judd Nystrom returns to the company's C-suite several years after supporting its move into the public trading market.",
+    "published": "2026-11-03T16:36:00",
+    "fetched": "2026-11-03T21:32:18.271051",
+    "title_uk": "At Home призначає колишнього CFO новим генеральним директором",
+    "summary_uk": "Judd Nystrom повертається на посаду генерального директора компанії At Home. Раніше він підтримував перехід компанії на публічний ринок. Це призначення відбулося через кілька років після його відходу з C-suite.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "At Home призначає колишнього CFO новим генеральним директором",
+    "summary": "Judd Nystrom повертається на посаду генерального директора компанії At Home. Раніше він підтримував перехід компанії на публічний ринок. Це призначення відбулося через кілька років після його відходу з C-suite.",
+    "link": "https://www.retaildive.com/news/at-home-former-cfo-new-chief-executive/873593/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6a3aa3e6a3d7",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "With new ownership, Lee eyes activewear and workwear",
+    "body_orig": "The denim label is officially part of the Authentic Brands Group stable and will expand into adjacent &ldquo;lifestyle offerings.&rdquo;",
+    "published": "2026-11-03T16:28:00",
+    "fetched": "2026-11-03T21:32:18.271066",
+    "title_uk": "Lee переходить до активного одягу та робочого одягу під новим власником",
+    "summary_uk": "Бренд Lee став частиною Authentic Brands Group і планує розширити асортимент. Компанія зосередиться на активному та робочому одязі, а також інших стильових пропозиціях. Це стратегічний крок для залучення нових споживачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Lee переходить до активного одягу та робочого одягу під новим власником",
+    "summary": "Бренд Lee став частиною Authentic Brands Group і планує розширити асортимент. Компанія зосередиться на активному та робочому одязі, а також інших стильових пропозиціях. Це стратегічний крок для залучення нових споживачів.",
+    "link": "https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5fcd8790dda7",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Bed Bath & Beyond’s strategy needs a reset",
+    "body_orig": "The company, now known as Neighborhood Intelligence, relied on acquisitions to expand its business beyond retail. With two deals called off, where does that leave its turnaround?",
+    "published": "2026-11-03T15:35:00",
+    "fetched": "2026-11-03T21:32:18.271090",
+    "title_uk": "Bed Bath & Beyond потребує перегляду стратегії після скасування угод",
+    "summary_uk": "Компанія, тепер відома як Neighborhood Intelligence, намагалася розширити бізнес через придбання, але два угоди були скасовані. Це ставить під загрозу її плани з відновлення. Інвестори стурбовані подальшими кроками компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Bed Bath & Beyond потребує перегляду стратегії після скасування угод",
+    "summary": "Компанія, тепер відома як Neighborhood Intelligence, намагалася розширити бізнес через придбання, але два угоди були скасовані. Це ставить під загрозу її плани з відновлення. Інвестори стурбовані подальшими кроками компанії.",
+    "link": "https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
