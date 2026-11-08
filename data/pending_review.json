@@ -477944,5 +477944,844 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "6836b8eca773",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-we-Wroclawiu-wystrzelily-Jeden-segment-rosnie-w-sile-9223507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny mieszkań we Wrocławiu wystrzeliły. Jeden segment rośnie w siłę",
+    "body_orig": "Po kilku miesiącach względnej stabilizacji średnia cena metra kwadratowego mieszkań oferowanych przez deweloperów we Wrocławiu wyraźnie wzrosła. W październiku osiągnęła 16,3 tys. zł, czyli o 7 proc. więcej niż przed rokiem. Problem w tym, że coraz większą część deweloperskiej oferty stanowią mieszkania z wyższej półki cenowej.",
+    "published": "2026-11-08T05:00:00",
+    "fetched": "2026-11-08T11:24:24.478767",
+    "title_uk": "Ціни на житло у Вроцлаві зросли на 7% за рік",
+    "summary_uk": "Середня ціна квадратного метра квартир у Вроцлаві досягла 16.3 тис. злотих, що на 7% більше, ніж минулого року. Зростання цін спостерігається на фоні стабільності ринку. Збільшується частка квартир преміум-класу в пропозиціях забудовників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання цін на житло може вплинути на попит на меблі та побутову техніку. Розгляньте можливість адаптації асортименту до нових потреб споживачів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна цін на житло може вплинути на споживчі звички. Рекомендується переглянути стратегії просування товарів для нових покупців житла."
+    },
+    "tags": [
+      "ціни-сировина",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на житло у Вроцлаві зросли на 7% за рік",
+    "summary": "Середня ціна квадратного метра квартир у Вроцлаві досягла 16.3 тис. злотих, що на 7% більше, ніж минулого року. Зростання цін спостерігається на фоні стабільності ринку. Збільшується частка квартир преміум-класу в пропозиціях забудовників.",
+    "link": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-we-Wroclawiu-wystrzelily-Jeden-segment-rosnie-w-sile-9223507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9eb1432013f0",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/chiny-stawiaja-na-zielona-energie-rekordowe-inwestycje-w-2026-r/lwp14g9",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Chiny przyspieszają zieloną transformację. Gigantyczne inwestycje w OZE",
+    "body_orig": "Chiny będą w 2026 r. największym inwestorem w energetyce na świecie — pisze serwis Bloomberg. Według danych prezentowanych przez agencję Global Energy Transition Report, przygotowanych przez China Enterprise Reform and Development Society, wartość chińskich inwestycji w sektor energetyczny sięgnie około 940 mld dol.",
+    "published": "2026-11-08T09:54:03",
+    "fetched": "2026-11-08T11:24:25.379733",
+    "title_uk": "Китай стане найбільшим інвестором в енергетику до 2026 року",
+    "summary_uk": "Китай планує стати найбільшим інвестором у світовій енергетиці до 2026 року, інвестуючи близько $940 млрд у відновлювальні джерела енергії. Це підтверджується даними з Global Energy Transition Report. Такі інвестиції можуть суттєво вплинути на глобальний ринок енергетики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Китай стане найбільшим інвестором в енергетику до 2026 року",
+    "summary": "Китай планує стати найбільшим інвестором у світовій енергетиці до 2026 року, інвестуючи близько $940 млрд у відновлювальні джерела енергії. Це підтверджується даними з Global Energy Transition Report. Такі інвестиції можуть суттєво вплинути на глобальний ринок енергетики.",
+    "link": "https://businessinsider.com.pl/gospodarka/chiny-stawiaja-na-zielona-energie-rekordowe-inwestycje-w-2026-r/lwp14g9",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1a721dd959fd",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/kantory-zaskakuja-kursami-kilku-walut-turysci-moga-sporo-zyskac-ale-jest-haczyk/h534dvt",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Anomalia w prywatnych kantorach. Te kursy walut wyglądają jak superokazja, ale jest haczyk",
+    "body_orig": "Normą jest, że w kantorach kursy walut są odpowiednio wyższe i niższe od foreksowych, co jest z niekorzyścią dla klientów. Popularna waluta wśród sporej części polskich emigrantów zarobkowych (korona norweska) w wielu przypadkach wymyka się tej prostej regule na korzyść tych, którzy chcą ją kupić. Warto znać tę nietypową zasadę, żeby nie dać się naciągnąć, ale też nie zostać z cenną w teorii, ale w praktyce niechcianą przez banki gotówką.",
+    "published": "2026-11-08T07:00:00",
+    "fetched": "2026-11-08T11:24:25.379771",
+    "title_uk": "Аномалія в польських обмінниках: курс корони вигідний, але є нюанс",
+    "summary_uk": "В обмінниках Польщі курс корони норвезької іноді нижчий за ринковий, що вигідно для покупців. Це відхилення від звичайної практики, де курси завжди вищі або нижчі за форекс. Клієнти повинні бути обережні, щоб не залишитися з непотрібною валютою.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори, які працюють з норвезькою короною, можуть скористатися вигідними курсами для закупівель. Рекомендується перевіряти курси в різних обмінниках.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Аномалія в польських обмінниках: курс корони вигідний, але є нюанс",
+    "summary": "В обмінниках Польщі курс корони норвезької іноді нижчий за ринковий, що вигідно для покупців. Це відхилення від звичайної практики, де курси завжди вищі або нижчі за форекс. Клієнти повинні бути обережні, щоб не залишитися з непотрібною валютою.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/kantory-zaskakuja-kursami-kilku-walut-turysci-moga-sporo-zyskac-ale-jest-haczyk/h534dvt",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7ef38a0a3808",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/podatki/zabraknie-tych-ktorzy-placa-najwiecej-bedzie-problem-z-podatkami-7348714096740800a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zabraknie tych, którzy płacą najwięcej. Będzie problem z podatkami",
+    "body_orig": "Polska może stracić część wpływów podatkowych w relacji do PKB. Jak wskazuje Polski Instytut Ekonomiczny, winna będzie demografia. Do 2060 r. gwałtownie zmniejszy się liczba osób, w wieku 35-60 lat, które dziś płacą najwięcej podatków. Eksperci wskazują, gdzie budżet odczuje to najmocniej.",
+    "published": "2026-11-08T07:10:50",
+    "fetched": "2026-11-08T11:24:27.529756",
+    "title_uk": "Польща може втратити податкові надходження через демографію",
+    "summary_uk": "За прогнозами Польського Інституту Економічного, до 2060 року кількість платників податків у віці 35-60 років зменшиться. Це призведе до зниження податкових надходжень у відношенні до ВВП. Експерти вказують на потенційні проблеми для бюджету.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зменшення податкових надходжень може призвести до зростання цін на товари, що вплине на попит у дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща може втратити податкові надходження через демографію",
+    "summary": "За прогнозами Польського Інституту Економічного, до 2060 року кількість платників податків у віці 35-60 років зменшиться. Це призведе до зниження податкових надходжень у відношенні до ВВП. Експерти вказують на потенційні проблеми для бюджету.",
+    "link": "https://www.money.pl/podatki/zabraknie-tych-ktorzy-placa-najwiecej-bedzie-problem-z-podatkami-7348714096740800a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "46feb315c036",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/finanse/miliony-gosci-odwiedzaja-krakow-tak-turystyka-napedza-miasto-7348698643524064a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Miliony gości odwiedzają Kraków. Tak turystyka napędza miasto",
+    "body_orig": "Wstrząsająca strzelanina na krakowskim Rynku rozegrała się w sercu miasta, którego gospodarka w dużym stopniu korzysta z turystyki. W 2025 r. odwiedzający wydali tu około 15,4 mld zł, z czego 9,5 mld zł pozostało bezpośrednio w mieście. Oto, jak duże znaczenie mają turyści dla Krakowa.",
+    "published": "2026-11-08T06:09:42",
+    "fetched": "2026-11-08T11:24:27.529767",
+    "title_uk": "Краків отримує €3.5 млрд від туризму у 2025 році",
+    "summary_uk": "Краків, залежний від туризму, очікує витрат від відвідувачів на рівні €3.5 млрд у 2025 році. З цієї суми €2.2 млрд залишиться в місті, підкреслюючи важливість туристів для місцевої економіки. Інцидент на Ринку може вплинути на туристичну привабливість.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання туристичного потоку може підвищити попит на продукти в сегменті HoReCa. Розгляньте можливість розширення асортименту для задоволення потреб туристів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання витрат туристів може стимулювати попит на певні категорії товарів. Рекомендується переглянути асортимент, щоб включити продукти, популярні серед туристів."
+    },
+    "tags": [
+      "туризм",
+      "HoReCa",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Краків отримує €3.5 млрд від туризму у 2025 році",
+    "summary": "Краків, залежний від туризму, очікує витрат від відвідувачів на рівні €3.5 млрд у 2025 році. З цієї суми €2.2 млрд залишиться в місті, підкреслюючи важливість туристів для місцевої економіки. Інцидент на Ринку може вплинути на туристичну привабливість.",
+    "link": "https://www.money.pl/finanse/miliony-gosci-odwiedzaja-krakow-tak-turystyka-napedza-miasto-7348698643524064a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "024547e29f66",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/biznes/lista-wstydu-rafala-brzoski-jest-za-krotka-setki-duzych-firm-nie-placa-podatkow-analiza-7348507767966176a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Lista wstydu Rafała Brzoski jest za krótka. Setki dużych firm nie płacą podatków [ANALIZA]",
+    "body_orig": "Co dziesiąte duże przedsiębiorstwo w Polsce w 2025 r. nie zapłaciło podatku CIT mimo tego, że było dochodowe. Wśród firm rodzimych było to częstsze niż wśród zagranicznych, wbrew popularnej tezie, że te drugie powszechnie uchylają się od płacenia nad Wisłą podatków. Planowana przez rząd podwyżka stawki CIT nie uderzy więc bardziej w polski kapitał.",
+    "published": "2026-11-08T04:49:24",
+    "fetched": "2026-11-08T11:24:27.529786",
+    "title_uk": "У Польщі сотні компаній не платять податки",
+    "summary_uk": "У 2025 році 10% великих польських підприємств не сплатили податок на прибуток, незважаючи на прибутковість. Частіше це трапляється серед місцевих компаній, ніж серед іноземних. Заплановане підвищення ставки податку не вплине на польський капітал.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Польщі сотні компаній не платять податки",
+    "summary": "У 2025 році 10% великих польських підприємств не сплатили податок на прибуток, незважаючи на прибутковість. Частіше це трапляється серед місцевих компаній, ніж серед іноземних. Заплановане підвищення ставки податку не вплине на польський капітал.",
+    "link": "https://www.money.pl/biznes/lista-wstydu-rafala-brzoski-jest-za-krotka-setki-duzych-firm-nie-placa-podatkow-analiza-7348507767966176a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dccdbda55446",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/universitelerin-yenilenebilir-enerji-yatirimlari-turkiyenin-yesil-donusumune-katki-sunuyor/4115821",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Üniversitelerin yenilenebilir enerji yatırımları Türkiye'nin yeşil dönüşümüne katkı sunuyor",
+    "body_orig": "YÖK Başkanı Prof. Dr. Erol Özvar, üniversitelerin yenilenebilir enerji yatırımlarının Türkiye'nin yeşil dönüşümüne ve COP31 sürecine önemli katkı sağladığını bildirdi.",
+    "published": "2026-11-08T09:53:15",
+    "fetched": "2026-11-08T11:24:35.520571",
+    "title_uk": "Університети Туреччини інвестують у відновлювальну енергетику",
+    "summary_uk": "Президент YÖK, професор Ерол Озвар, повідомив про інвестиції університетів у відновлювальну енергетику. Ці проекти мають значний вплив на зелений перехід Туреччини та процес COP31. Конкретні цифри інвестицій не наводяться.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Інвестиції в відновлювальну енергетику можуть створити нові можливості для виробників, які пропонують технології або обладнання для таких проектів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Університети Туреччини інвестують у відновлювальну енергетику",
+    "summary": "Президент YÖK, професор Ерол Озвар, повідомив про інвестиції університетів у відновлювальну енергетику. Ці проекти мають значний вплив на зелений перехід Туреччини та процес COP31. Конкретні цифри інвестицій не наводяться.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/universitelerin-yenilenebilir-enerji-yatirimlari-turkiyenin-yesil-donusumune-katki-sunuyor/4115821",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "83191b476b36",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Otomotiv endüstrisinin ekim ihracatı 4 milyar dolar oldu",
+    "body_orig": "Türkiye otomotiv endüstrisi, geçen ay 4 milyar 32 milyon dolarlık ihracata imza attı.",
+    "published": "2026-11-08T09:37:53",
+    "fetched": "2026-11-08T11:24:35.520589",
+    "title_uk": "Експорт автомобільної промисловості Туреччини досяг $4 млрд",
+    "summary_uk": "Турецька автомобільна промисловість у жовтні експортувала продукції на $4.03 млрд. Це свідчить про стабільний попит на автомобілі з Туреччини. Основними ринками залишаються Європа та Північна Америка.",
+    "what_it_means": {
+      "ua_importer": "Для українських імпортерів, які працюють з турецькими автомобілями, це може означати стабільність постачань та можливість укладення нових контрактів.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту відкриває нові можливості для турецьких виробників, які можуть розширити ринки збуту в Україні та Польщі.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Експорт автомобільної промисловості Туреччини досяг $4 млрд",
+    "summary": "Турецька автомобільна промисловість у жовтні експортувала продукції на $4.03 млрд. Це свідчить про стабільний попит на автомобілі з Туреччини. Основними ринками залишаються Європа та Північна Америка.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-ekim-ihracati-4-milyar-dolar-oldu/4115806",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b43c4f3483ee",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/gumruklerdeki-tasfiyelik-esyalarin-e-ihaleyle-satisindan-10-ayda-5-7-milyar-lira-gelir/4115794",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Gümrüklerdeki tasfiyelik eşyaların e-ihaleyle satışından 10 ayda 5,7 milyar lira gelir",
+    "body_orig": "Ticaret Bakanlığının, gümrüklerdeki tasfiyelik araç ve eşyaların ülke ekonomisine kazandırılması amacıyla uygulamaya aldığı e-İhale Sistemi ile bu yılın 10 ayında 5,7 milyar liralık hasılat sağlandı.",
+    "published": "2026-11-08T09:20:13",
+    "fetched": "2026-11-08T11:24:35.520608",
+    "title_uk": "Туреччина отримала €5.7 млрд від продажу конфіскованих товарів",
+    "summary_uk": "Міністерство торгівлі Туреччини запровадило систему електронних аукціонів для продажу конфіскованих товарів. За 10 місяців 2026 року було отримано €5.7 млрд. Ця ініціатива має на меті покращити економічну ситуацію в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця ініціатива може створити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, оскільки зростання доходів може покращити економічну стабільність.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "митниця",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина отримала €5.7 млрд від продажу конфіскованих товарів",
+    "summary": "Міністерство торгівлі Туреччини запровадило систему електронних аукціонів для продажу конфіскованих товарів. За 10 місяців 2026 року було отримано €5.7 млрд. Ця ініціатива має на меті покращити економічну ситуацію в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/gumruklerdeki-tasfiyelik-esyalarin-e-ihaleyle-satisindan-10-ayda-5-7-milyar-lira-gelir/4115794",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c42ed8e1b290",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/aselsan-iki-yeni-ges-yatirimiyla-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak/4115726",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ASELSAN, iki yeni GES yatırımıyla enerji ihtiyacının tamamını güneşten karşılayacak",
+    "body_orig": "ASELSAN, üretim faaliyetlerinde kullanılan enerjinin tamamının yenilenebilir kaynaklardan karşılanması amacıyla kurduğu Güneş Enerjisi Santrallerini (GES) devreye aldığını bildirdi.",
+    "published": "2026-11-08T08:03:39",
+    "fetched": "2026-11-08T11:24:35.520618",
+    "title_uk": "ASELSAN переходить на повністю сонячну енергію для виробництва",
+    "summary_uk": "Турецька компанія ASELSAN запустила нові сонячні електростанції для забезпечення всіх своїх виробничих потреб енергією з відновлювальних джерел. Це дозволить компанії зменшити залежність від традиційних джерел енергії та знизити вуглецевий слід. Інвестиції в проєкт сприятимуть розвитку зеленої енергетики в Туреччині.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може стати прикладом для турецьких виробників, які шукають способи зменшення витрат на енергію. Впровадження подібних технологій може підвищити конкурентоспроможність на ринку.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ASELSAN переходить на повністю сонячну енергію для виробництва",
+    "summary": "Турецька компанія ASELSAN запустила нові сонячні електростанції для забезпечення всіх своїх виробничих потреб енергією з відновлювальних джерел. Це дозволить компанії зменшити залежність від традиційних джерел енергії та знизити вуглецевий слід. Інвестиції в проєкт сприятимуть розвитку зеленої енергетики в Туреччині.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-iki-yeni-ges-yatirimiyla-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak/4115726",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "915cbeaf2861",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-bitkisel-cesitliligiyle-bitki-bazli-gida-pazarinda-yeni-urun-potansiyeli-bulunduruyor/4115787",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye bitkisel çeşitliliğiyle bitki bazlı gıda pazarında yeni ürün potansiyeli bulunduruyor",
+    "body_orig": "Küresel bitki bazlı gıda pazarının 2034'e kadar 491 milyar dolara ulaşması beklenirken, Türkiye'deki pazarın da yaklaşık 2 kat büyüyeceği ve bitkisel çeşitlilik sayesinde yeni ürünlerin sektöre kazandırılacağı öngörülüyor.",
+    "published": "2026-11-08T09:03:57",
+    "fetched": "2026-11-08T11:24:35.520626",
+    "title_uk": "Туреччина має потенціал для зростання ринку рослинних продуктів",
+    "summary_uk": "Очікується, що глобальний ринок рослинних продуктів до 2034 року досягне $491 млрд. Туреччина має потенціал подвоїти свій ринок завдяки рослинній різноманітності, що відкриває можливості для нових продуктів.",
+    "what_it_means": {
+      "ua_importer": "Зростання ринку рослинних продуктів у Туреччині може створити нові можливості для імпортерів, які працюють з цими товарами.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання ринку відкриває нові можливості для турецьких виробників, які можуть експортувати нові рослинні продукти в інші країни.",
+      "category_manager": "Зверніть увагу на нові рослинні продукти, які можуть з'явитися на ринку, це може вплинути на асортимент і стратегії закупівель."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина має потенціал для зростання ринку рослинних продуктів",
+    "summary": "Очікується, що глобальний ринок рослинних продуктів до 2034 року досягне $491 млрд. Туреччина має потенціал подвоїти свій ринок завдяки рослинній різноманітності, що відкриває можливості для нових продуктів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-bitkisel-cesitliligiyle-bitki-bazli-gida-pazarinda-yeni-urun-potansiyeli-bulunduruyor/4115787",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f134f868c74b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/s-p-retrogradeaza-perspectiva-ratingului-poloniei-la-negativa-si-reduce-calificativul-datoriei-in-zloti-deficitul-bugetar-va-depasi-6-din-pib-iar-datoria-publica-se-apropie-de-70-23277150",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "S&P retrogradează perspectiva ratingului Poloniei la negativă şi reduce calificativul datoriei în zloţi. Deficitul bugetar va depăşi 6% din PIB, iar datoria publică se apropie de 70%",
+    "body_orig": "",
+    "published": "2026-11-08T11:01:27",
+    "fetched": "2026-11-08T11:24:37.461225",
+    "title_uk": "S&P знизило рейтинг Польщі до негативного",
+    "summary_uk": "Агентство S&P знизило прогноз рейтингу Польщі до негативного та зменшило рейтинг державного боргу в злотих. Очікується, що бюджетний дефіцит перевищить 6% від ВВП, а державний борг наблизиться до 70%. Ці зміни можуть вплинути на інвестиційний клімат у країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження рейтингу може ускладнити фінансування для дистриб'юторів, що працюють з імпортом. Рекомендується переглянути фінансові плани на найближчі квартали.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "S&P знизило рейтинг Польщі до негативного",
+    "summary": "Агентство S&P знизило прогноз рейтингу Польщі до негативного та зменшило рейтинг державного боргу в злотих. Очікується, що бюджетний дефіцит перевищить 6% від ВВП, а державний борг наблизиться до 70%. Ці зміни можуть вплинути на інвестиційний клімат у країні.",
+    "link": "https://www.zf.ro/business-international/s-p-retrogradeaza-perspectiva-ratingului-poloniei-la-negativa-si-reduce-calificativul-datoriei-in-zloti-deficitul-bugetar-va-depasi-6-din-pib-iar-datoria-publica-se-apropie-de-70-23277150",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a66c853eb2f2",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/harta-gazelor-romania-intrarea-iarna-inainte-neptun-deep-le-scoate-le-transporta-le-aduce-pana-aragaz-aproape-tot-lantul-listat-bursa-valori-oricine-deveni-actionar-23274655",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Harta gazelor din România la intrarea în iarnă şi înainte de Neptun Deep: cine le scoate, cine le transportă şi cine le aduce până la aragaz. Aproape tot lanţul este listat la Bursa de Valori şi oricine poate deveni acţionar",
+    "body_orig": "Gazele ajung în aragaz şi centrale după un drum în patru etape, iar la fiecare etapă sunt alţi jucători şi alte reguli. Acest drum este cel mai aglomerat acum, la început de iarnă, când România intră în sezonul rece cu depozitele umplute în proporţie de aproape 90%.",
+    "published": "2026-11-08T09:31:00",
+    "fetched": "2026-11-08T11:24:37.461296",
+    "title_uk": "Газовий ланцюг в Румунії: учасники та правила",
+    "summary_uk": "Газ у Румунії проходить чотири етапи до споживача, зокрема видобуток, транспортування та постачання. Запаси газу заповнені на 90% перед зимою. Усі учасники ринку представлені на біржі, що дозволяє стати акціонером.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Газовий ланцюг в Румунії: учасники та правила",
+    "summary": "Газ у Румунії проходить чотири етапи до споживача, зокрема видобуток, транспортування та постачання. Запаси газу заповнені на 90% перед зимою. Усі учасники ринку представлені на біржі, що дозволяє стати акціонером.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/harta-gazelor-romania-intrarea-iarna-inainte-neptun-deep-le-scoate-le-transporta-le-aduce-pana-aragaz-aproape-tot-lantul-listat-bursa-valori-oricine-deveni-actionar-23274655",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4e4370e63664",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/bursa-premier-energy-va-analiza-plata-unui-dividend-la-inceputul-lui-2027-dupa-pauza-din-acest-an-determinata-de-preluarea-evryo-spune-peter-stohr-cfo-al-companiei-23272338",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursă. Premier Energy va analiza plata unui dividend la începutul lui 2027 după pauza din acest an determinată de preluarea Evryo, spune Peter Stohr, CFO al companiei",
+    "body_orig": "",
+    "published": "2026-11-08T08:31:45",
+    "fetched": "2026-11-08T11:24:37.461327",
+    "title_uk": "Premier Energy розгляне виплату дивідендів у 2027 році",
+    "summary_uk": "Premier Energy планує проаналізувати можливість виплати дивідендів на початку 2027 року. Ця пауза у виплатах пов'язана з придбанням компанії Evryo. CFO Peter Stohr зазначив, що рішення буде ухвалено після завершення інтеграції нової компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Premier Energy розгляне виплату дивідендів у 2027 році",
+    "summary": "Premier Energy планує проаналізувати можливість виплати дивідендів на початку 2027 року. Ця пауза у виплатах пов'язана з придбанням компанії Evryo. CFO Peter Stohr зазначив, що рішення буде ухвалено після завершення інтеграції нової компанії.",
+    "link": "https://www.zf.ro/zf-24/bursa-premier-energy-va-analiza-plata-unui-dividend-la-inceputul-lui-2027-dupa-pauza-din-acest-an-determinata-de-preluarea-evryo-spune-peter-stohr-cfo-al-companiei-23272338",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "44febf8837bb",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-aproape-245-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_993294.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la Bucureşti a pierdut aproape 24,5 miliarde de lei la capitalizare în această săptămână",
+    "body_orig": "Bursa de Valori Bucureşti (BVB) a pierdut, în această săptămână, 24,46 miliarde de lei la capitalizare (-3,41%), în timp ce valoarea tranzacţiilor cu acţiuni a crescut cu 143,60 milioane de lei (+45,87%), potrivit datelor publicate de BVB şi consultate de Agerpres.",
+    "published": "2026-11-08T11:22:14",
+    "fetched": "2026-11-08T11:24:39.585799",
+    "title_uk": "Бухарестська біржа втратила €5 мільярдів за тиждень",
+    "summary_uk": "Біржа у Бухаресті знизилася на 3% за тиждень, втративши €5 мільярдів капіталізації. Водночас обсяги торгів акціями зросли на €30 мільйонів, що становить 46%. Ці дані оприлюднені Біржею цінних паперів Бухареста.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа втратила €5 мільярдів за тиждень",
+    "summary": "Біржа у Бухаресті знизилася на 3% за тиждень, втративши €5 мільярдів капіталізації. Водночас обсяги торгів акціями зросли на €30 мільйонів, що становить 46%. Ці дані оприлюднені Біржею цінних паперів Бухареста.",
+    "link": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-aproape-245-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_993294.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9826b553bea0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/kristalina-georgieva-fmi-orice-incetinire-a-cresterii-impulsionate-de-ai-trebuie-evaluata-la-adoptarea-masurile-anti-inflatie_993291.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Kristalina Georgieva (FMI): Orice încetinire a creşterii impulsionate de AI trebuie evaluată la adoptarea măsurile anti-inflaţie",
+    "body_orig": "Băncile centrale din întreaga lume vor trebui să ia în considerare orice încetinire a creşterii determinate de AI când evaluează primii paşi în lupta lor pentru contracararea inflaţiei, a avertizat directorul general al Fondului Monetar Internaţional (FMI), Kristalina Georgieva, transmite Reuters.",
+    "published": "2026-11-08T11:14:45",
+    "fetched": "2026-11-08T11:24:39.585815",
+    "title_uk": "Кристаліна Георгієва: AI вплине на боротьбу з інфляцією",
+    "summary_uk": "Кристаліна Георгієва, директорка МВФ, зазначила, що центральні банки мають враховувати уповільнення зростання, викликане штучним інтелектом, при розробці заходів проти інфляції. Це може вплинути на економічні прогнози та стратегії регулювання. Зміни в політиці можуть торкнутися глобальних фінансових ринків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Кристаліна Георгієва: AI вплине на боротьбу з інфляцією",
+    "summary": "Кристаліна Георгієва, директорка МВФ, зазначила, що центральні банки мають враховувати уповільнення зростання, викликане штучним інтелектом, при розробці заходів проти інфляції. Це може вплинути на економічні прогнози та стратегії регулювання. Зміни в політиці можуть торкнутися глобальних фінансових ринків.",
+    "link": "https://www.economica.net/kristalina-georgieva-fmi-orice-incetinire-a-cresterii-impulsionate-de-ai-trebuie-evaluata-la-adoptarea-masurile-anti-inflatie_993291.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2d146127f7d0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/unde-pierde-romania-competitia-cu-polonia-si-cehia-pentru-dezvoltarea-startup-urilor-tehnologice-interviu-cu-ovidiu-mihaila-fondator-fundingloop-nu-este-suficient-sa-avem-ingineri-foarte-b_992270.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Unde pierde România competiția cu Polonia și Cehia pentru dezvoltarea startup-urilor tehnologice. Interviu cu Ovidiu Mihăilă, fondator fundingloop: ”Nu este suficient să avem ingineri foarte buni sau idei inovatoare”",
+    "body_orig": "Deși România are acces la aceleași programe europene de finanțare pentru startup-uri tehnologice ca Polonia și Cehia, ecosistemul local de inovare este mai puțin conectat la rețelele europene de cercetare, iar colaborarea dintre universități, companii și investitori rămâne insuficient dezvoltată. Aceste diferențe limitează capacitatea startup-urilor românești de a atrage fonduri pentru dezvoltarea unor tehnologii competitive internațional, explică într-un interviu pentru Economica.net, Ovidiu Mihăilă, fondator al fundingloop, platformă de consultanţă pentru atragerea de fonduri europene.",
+    "published": "2026-11-08T10:34:17",
+    "fetched": "2026-11-08T11:24:39.585845",
+    "title_uk": "Румунія відстає від Польщі та Чехії у розвитку технологічних стартапів",
+    "summary_uk": "Румунія має доступ до тих же європейських програм фінансування, що й Польща та Чехія, але її екосистема інновацій менш інтегрована в європейські дослідницькі мережі. Співпраця між університетами, компаніями та інвесторами залишається недостатньо розвинутою. Це обмежує можливості румунських стартапів у залученні коштів для конкурентоспроможних технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія відстає від Польщі та Чехії у розвитку технологічних стартапів",
+    "summary": "Румунія має доступ до тих же європейських програм фінансування, що й Польща та Чехія, але її екосистема інновацій менш інтегрована в європейські дослідницькі мережі. Співпраця між університетами, компаніями та інвесторами залишається недостатньо розвинутою. Це обмежує можливості румунських стартапів у залученні коштів для конкурентоспроможних технологій.",
+    "link": "https://www.economica.net/unde-pierde-romania-competitia-cu-polonia-si-cehia-pentru-dezvoltarea-startup-urilor-tehnologice-interviu-cu-ovidiu-mihaila-fondator-fundingloop-nu-este-suficient-sa-avem-ingineri-foarte-b_992270.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9bd78f3de9b6",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/unul-dintre-cei-mai-bogati-oameni-din-lume-a-cumparat-lantul-de-magazine-marionnaud_993280.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Unul dintre cei mai bogați oameni din lume a cumpărat lanțul de magazine Marionnaud",
+    "body_orig": "BEHN, o companie a lui David Konckier, acționarul majoritar al Bogart, un gigant al industriei de parfumuri și cosmetice listat la bursa Euronext de la Paris, a cumpărat grupului Marionnaud, un lider pe piața parfumeriilor din Europa.",
+    "published": "2026-11-08T09:18:08",
+    "fetched": "2026-11-08T11:24:39.585872",
+    "title_uk": "David Konckier купив мережу магазинів Marionnaud",
+    "summary_uk": "Компанія BEHN, що належить David Konckier, придбала Marionnaud, одного з лідерів ринку парфумерії в Європі. Ця угода зміцнить позиції BEHN у сегменті косметики та парфумерії. Marionnaud має значну присутність на європейському ринку, що відкриває нові можливості для зростання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "David Konckier купив мережу магазинів Marionnaud",
+    "summary": "Компанія BEHN, що належить David Konckier, придбала Marionnaud, одного з лідерів ринку парфумерії в Європі. Ця угода зміцнить позиції BEHN у сегменті косметики та парфумерії. Marionnaud має значну присутність на європейському ринку, що відкриває нові можливості для зростання.",
+    "link": "https://www.economica.net/unul-dintre-cei-mai-bogati-oameni-din-lume-a-cumparat-lantul-de-magazine-marionnaud_993280.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "195e8690d426",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/06/v-ukrayini-vze-testuiut-alternativu-starlink-na-yiyi-zakupivliu-ogolosiat-velikii-zbir-anonsuvali-u-fondi-sergiia-prituli/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "В Україні вже тестують альтернативу Starlink, на її закупівлю оголосять великий збір, анонсували у Фонді Сергія Притули",
+    "body_orig": "Замість створення супутникового угрупування на заміну Starlink, що обійдеться в мільярди доларів та займе роки, вже тестується рішення, яке Україна зможе виробити самостійно, швидко та масово.",
+    "published": "2026-11-08T10:35:17",
+    "fetched": "2026-11-08T11:24:29.919957",
+    "title_uk": "В Україні тестують альтернативу Starlink",
+    "summary_uk": "В Україні розпочато тестування вітчизняної альтернативи Starlink. Це рішення дозволить швидко та масово забезпечити населення доступом до супутникового інтернету без мільярдних витрат. Фонд Сергія Притули анонсував великий збір на закупівлю нової технології.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Україні тестують альтернативу Starlink",
+    "summary": "В Україні розпочато тестування вітчизняної альтернативи Starlink. Це рішення дозволить швидко та масово забезпечити населення доступом до супутникового інтернету без мільярдних витрат. Фонд Сергія Притули анонсував великий збір на закупівлю нової технології.",
+    "link": "https://ain.ua/2026/11/06/v-ukrayini-vze-testuiut-alternativu-starlink-na-yiyi-zakupivliu-ogolosiat-velikii-zbir-anonsuvali-u-fondi-sergiia-prituli/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0009c52c1e56",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/06/inozemnii-defense-tech-startap-moze-kostuvati-vpiatero-dorozce-za-ukrayinskii-analog-partner-fondu-wildfield-ventures/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Іноземний Defense Tech стартап може коштувати вп’ятеро дорожче за український аналог — партнер фонду WildField Ventures",
+    "body_orig": "Українські DefTech-стартапи можуть коштувати до п’яти разів дешевше за іноземні компанії зі схожими технологіями. Що впливає на оцінку?",
+    "published": "2026-11-08T09:16:00",
+    "fetched": "2026-11-08T11:24:29.919974",
+    "title_uk": "Оцінка українських DefTech-стартапів нижча за іноземні",
+    "summary_uk": "Українські DefTech-стартапи можуть коштувати до п’яти разів дешевше за іноземні аналоги. Це пов'язано з різними факторами, такими як інвестиційний клімат та доступ до фінансування. Партнер фонду WildField Ventures зазначає, що це створює можливості для інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Оцінка українських DefTech-стартапів нижча за іноземні",
+    "summary": "Українські DefTech-стартапи можуть коштувати до п’яти разів дешевше за іноземні аналоги. Це пов'язано з різними факторами, такими як інвестиційний клімат та доступ до фінансування. Партнер фонду WildField Ventures зазначає, що це створює можливості для інвесторів.",
+    "link": "https://ain.ua/2026/11/06/inozemnii-defense-tech-startap-moze-kostuvati-vpiatero-dorozce-za-ukrayinskii-analog-partner-fondu-wildfield-ventures/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "addc78eda713",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/tryvozhnyyi-spozhyvach-iak-vizualnyyi-merchendayizyng-dopomagaye-magazynam-pratciuvaty-pid-chas-viyiny/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Тривожний споживач: як візуальний мерчендайзинг допомагає магазинам працювати під час війни",
+    "body_orig": "Український покупець уже кілька років живе в умовах постійного стресу, повітряних тривог та економічної невизначеності. Це впливає не лише на його купівельну спроможність, а й на сприйняття торгового простору, вибір товарів і лояльність до брендів. Ольга Павлова, експертка з візуального мерчендайзин…",
+    "published": "2026-11-08T05:30:33",
+    "fetched": "2026-11-08T11:24:43.933596",
+    "title_uk": "Візуальний мерчендайзинг як відповідь на стрес споживачів",
+    "summary_uk": "Українські споживачі переживають стрес через війну та економічну невизначеність, що впливає на їх купівельну спроможність і лояльність до брендів. Експерти радять використовувати візуальний мерчендайзинг для покращення сприйняття торгових просторів. Це може допомогти магазинам адаптуватися до нових умов ринку.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Використовуйте візуальний мерчендайзинг для покращення сприйняття товарів у магазинах. Це може підвищити лояльність споживачів і продажі."
+    },
+    "tags": [
+      "ритейл",
+      "категорійний-менеджмент",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Візуальний мерчендайзинг як відповідь на стрес споживачів",
+    "summary": "Українські споживачі переживають стрес через війну та економічну невизначеність, що впливає на їх купівельну спроможність і лояльність до брендів. Експерти радять використовувати візуальний мерчендайзинг для покращення сприйняття торгових просторів. Це може допомогти магазинам адаптуватися до нових умов ринку.",
+    "link": "https://rau.ua/news/tryvozhnyyi-spozhyvach-iak-vizualnyyi-merchendayizyng-dopomagaye-magazynam-pratciuvaty-pid-chas-viyiny/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
