@@ -478783,5 +478783,715 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "d7e1f326a75b",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/podatki/ugoda-z-bankiem-bez-podatku-dochodowego-sprawdz-kto-skorzysta/b0pjgzw",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ugoda z bankiem w sprawie kredytu. Co z podatkiem? Jest projekt rozporządzenia",
+    "body_orig": "Podatnik, który podpisze ugodę dotyczącą kredytu hipotecznego i uzyska w związku z tym dochód lub przychód, nie zapłaci podatku dochodowego. Tak przewiduje projekt nowelizacji rozporządzenia ministra finansów, wydłużający preferencję do końca 2028 r.",
+    "published": "2026-11-08T16:38:18",
+    "fetched": "2026-11-08T20:13:28.043611",
+    "title_uk": "Польща продовжує податкові пільги для позичальників до 2028 року",
+    "summary_uk": "Проект нової редакції розпорядження міністра фінансів Польщі передбачає, що позичальники, які підпишуть угоду щодо іпотечного кредиту, не сплачуватимуть податок на доходи. Пільги діятимуть до кінця 2028 року. Це рішення може вплинути на фінансову ситуацію багатьох позичальників у Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Можливе збільшення попиту на іпотечні кредити, що може позитивно вплинути на ринок нерухомості та пов'язані з ним послуги.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польща продовжує податкові пільги для позичальників до 2028 року",
+    "summary": "Проект нової редакції розпорядження міністра фінансів Польщі передбачає, що позичальники, які підпишуть угоду щодо іпотечного кредиту, не сплачуватимуть податок на доходи. Пільги діятимуть до кінця 2028 року. Це рішення може вплинути на фінансову ситуацію багатьох позичальників у Польщі.",
+    "link": "https://businessinsider.com.pl/prawo/podatki/ugoda-z-bankiem-bez-podatku-dochodowego-sprawdz-kto-skorzysta/b0pjgzw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "40710c9b4d6a",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/produkcja-pradu-rosnie-lawinowo-wielkopolska-i-pomorze-w-czolowce/en8cm9x",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gdzie powstaje energia w Polsce. To szybko się zmienia [MAPA]",
+    "body_orig": "Od 2020 r. moce energetyki słonecznej w Polsce wzrosły aż 16-krotnie, a niemal podwoiły się moce wiatraków. OZE wypierają energetykę węglową. Przy okazji zmieniają się miejsca, gdzie powstaje prąd trafiający do naszych gniazdek. Dlatego konieczna jest przebudowa całego systemu.",
+    "published": "2026-11-08T14:00:00",
+    "fetched": "2026-11-08T20:13:28.043636",
+    "title_uk": "Польща швидко переходить на відновлювальні джерела енергії",
+    "summary_uk": "З 2020 року потужності сонячної енергетики в Польщі зросли в 16 разів, а вітрової — майже вдвічі. Відновлювальні джерела енергії витісняють вугільну енергетику, що вимагає перебудови енергетичної системи країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання використання відновлювальних джерел енергії може зменшити витрати на електроенергію в довгостроковій перспективі, що вплине на собівартість товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в енергетичному секторі можуть вплинути на витрати на електроенергію для виробництв, що важливо враховувати при плануванні бюджету."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польща швидко переходить на відновлювальні джерела енергії",
+    "summary": "З 2020 року потужності сонячної енергетики в Польщі зросли в 16 разів, а вітрової — майже вдвічі. Відновлювальні джерела енергії витісняють вугільну енергетику, що вимагає перебудови енергетичної системи країни.",
+    "link": "https://businessinsider.com.pl/gospodarka/produkcja-pradu-rosnie-lawinowo-wielkopolska-i-pomorze-w-czolowce/en8cm9x",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b890e10d5eb2",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/emerytury/emerytury-w-polsce-jestesmy-w-czolowce-niechlubnego-rankingu/bk5tn0t",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowe prognozy dla przyszłych emerytów. Tyle trzeba odkładać co miesiąc",
+    "body_orig": "Aby w przyszłości mieć emeryturę na poziomie 70 proc. dotychczasowych zarobków, Polacy zarabiający średnią krajową musieliby odkładać dodatkowo ok. 1600 zł miesięcznie. Według danych OECD Polska należy do krajów z największą luką emerytalną.",
+    "published": "2026-11-08T11:48:48",
+    "fetched": "2026-11-08T20:13:28.043652",
+    "title_uk": "Польщі потрібно відкладати €350 щомісяця для пенсії 70% зарплати",
+    "summary_uk": "Щоб отримувати пенсію на рівні 70% від середньої зарплати, полякам потрібно відкладати додатково близько €350 щомісяця. Польща має одну з найбільших пенсійних прогалин в Європі за даними OECD. Це може вплинути на фінансове планування громадян.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польщі потрібно відкладати €350 щомісяця для пенсії 70% зарплати",
+    "summary": "Щоб отримувати пенсію на рівні 70% від середньої зарплати, полякам потрібно відкладати додатково близько €350 щомісяця. Польща має одну з найбільших пенсійних прогалин в Європі за даними OECD. Це може вплинути на фінансове планування громадян.",
+    "link": "https://businessinsider.com.pl/praca/emerytury/emerytury-w-polsce-jestesmy-w-czolowce-niechlubnego-rankingu/bk5tn0t",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d5a2456335b6",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/pieniadze/zbudowal-znana-polska-marke-mowi-o-wojnie-cenowej-7348852289288640v.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zbudował znaną polską markę. Mówi o wojnie cenowej",
+    "body_orig": "Kazar od 35 lat sprzedaje Polakom buty, torebki i dodatki – liczone w milionach par. Artur Kazienko, założyciel marki, opowiada o wojnie cenowej, która wymiotła rynek, i o wejściu Kazara w odzież. Zobacz najnowszy odcinek Biznes Klasy.",
+    "published": "2026-11-08T15:59:18",
+    "fetched": "2026-11-08T20:13:30.457392",
+    "title_uk": "Засновник Kazar говорить про цінову війну на ринку",
+    "summary_uk": "Artur Kazienko, засновник бренду Kazar, розповів про цінову війну, яка вплинула на ринок взуття та аксесуарів у Польщі. Бренд, що існує 35 років, планує розширення в сегмент одягу. Kazar реалізує мільйони пар взуття щорічно.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цінова війна може призвести до зниження маржі для дистриб'юторів. Розгляньте можливість укладення контрактів з новими брендами для збереження конкурентоспроможності.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на цінову політику Kazar та адаптуйте свої стратегії для збереження конкурентоспроможності в умовах цінової війни."
+    },
+    "tags": [
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Засновник Kazar говорить про цінову війну на ринку",
+    "summary": "Artur Kazienko, засновник бренду Kazar, розповів про цінову війну, яка вплинула на ринок взуття та аксесуарів у Польщі. Бренд, що існує 35 років, планує розширення в сегмент одягу. Kazar реалізує мільйони пар взуття щорічно.",
+    "link": "https://www.money.pl/pieniadze/zbudowal-znana-polska-marke-mowi-o-wojnie-cenowej-7348852289288640v.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "27865b20aa51",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Deprem sonrası yeniden yapılanan Malatya, çevreci yatırımlarla geleceğe hazırlanıyor",
+    "body_orig": "Depremlerin ardından konut ve iş yerlerinin yanı sıra altyapı ve üstyapı yatırımlarıyla yeniden şekillenen Malatya'da atık su arıtma tesisleri ile yenilenebilir enerji projeleri hayata geçiriliyor.",
+    "published": "2026-11-08T13:19:59",
+    "fetched": "2026-11-08T20:13:39.347142",
+    "title_uk": "Малатія відновлюється з екологічними інвестиціями після землетрусу",
+    "summary_uk": "Малатія реалізує проекти з очищення стічних вод та відновлювальної енергії після землетрусів. Інвестиції спрямовані на модернізацію інфраструктури, включаючи будівництво нових очисних споруд. Це частина ширшої програми відновлення міста.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити можливості для турецьких виробників, які спеціалізуються на екологічних технологіях. Розгляньте участь у тендерах на постачання обладнання для нових проектів.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Малатія відновлюється з екологічними інвестиціями після землетрусу",
+    "summary": "Малатія реалізує проекти з очищення стічних вод та відновлювальної енергії після землетрусів. Інвестиції спрямовані на модернізацію інфраструктури, включаючи будівництво нових очисних споруд. Це частина ширшої програми відновлення міста.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "34a338d4b559",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-cop31in-teknoloji-altyapisinin-sorumlulugunu-ustlendi/4116032",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türk Telekom COP31'in teknoloji altyapısının sorumluluğunu üstlendi",
+    "body_orig": "Türk Telekom, COP31'in teknoloji altyapısını uçtan uca üstlenerek ulusal ve uluslararası katılımcılar, ülke delegasyonları, basın mensupları ve ziyaretçilerin iletişim ihtiyaçlarını karşılayacak kapsamlı bir dijital altyapı kurdu.",
+    "published": "2026-11-08T12:39:59",
+    "fetched": "2026-11-08T20:13:39.347158",
+    "title_uk": "Türk Telekom забезпечить технологічну інфраструктуру COP31",
+    "summary_uk": "Türk Telekom взяв на себе відповідальність за технологічну інфраструктуру COP31, забезпечуючи зв'язок для учасників, делегацій, журналістів та відвідувачів. Компанія створила комплексну цифрову платформу для задоволення комунікаційних потреб. Це включає як національних, так і міжнародних учасників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Türk Telekom забезпечить технологічну інфраструктуру COP31",
+    "summary": "Türk Telekom взяв на себе відповідальність за технологічну інфраструктуру COP31, забезпечуючи зв'язок для учасників, делегацій, журналістів та відвідувачів. Компанія створила комплексну цифрову платформу для задоволення комунікаційних потреб. Це включає як національних, так і міжнародних учасників.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-cop31in-teknoloji-altyapisinin-sorumlulugunu-ustlendi/4116032",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "41598497bc33",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-ekonomisine-katki-sunmasi-bekleniyor-/4115919",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "COP31'in Antalya ekonomisine katkı sunması bekleniyor",
+    "body_orig": "Türkiye'nin ev sahipliğinde 9-20 Kasım'da Antalya'da düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nın (COP31) kentte ekonomik hareketlilik oluşturması ve yeni yatırım fırsatları sunması bekleniyor.",
+    "published": "2026-11-08T11:58:56",
+    "fetched": "2026-11-08T20:13:39.347168",
+    "title_uk": "COP31 в Анталії може стимулювати економіку Туреччини",
+    "summary_uk": "З 9 по 20 листопада в Анталії відбудеться COP31, що може створити нові інвестиційні можливості. Очікується, що конференція сприятиме економічному зростанню регіону. Участь візьмуть представники з усього світу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Конференція може відкрити нові можливості для інвестицій у Туреччині. Виробники, які планують розширення, можуть скористатися цим шансом.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "COP31 в Анталії може стимулювати економіку Туреччини",
+    "summary": "З 9 по 20 листопада в Анталії відбудеться COP31, що може створити нові інвестиційні можливості. Очікується, що конференція сприятиме економічному зростанню регіону. Участь візьмуть представники з усього світу.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-ekonomisine-katki-sunmasi-bekleniyor-/4115919",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c78fc33c16cb",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tuketicilere-sadakat-kartlarindaki-kullanilmayan-para-puanlar-icin-yil-sonu-uyarisi/4115892",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Tüketicilere sadakat kartlarındaki kullanılmayan para puanlar için yıl sonu uyarısı",
+    "body_orig": "Tüketici dernekleri, sadakat kartlarında biriken puanların yıl sonunda geçerliliğini yitirebileceğine dikkati çekerek, tüketicilere mevcut puanlarını süreleri dolmadan kullanmaları tavsiyesinde bulunuyor.",
+    "published": "2026-11-08T11:28:19",
+    "fetched": "2026-11-08T20:13:39.347191",
+    "title_uk": "Споживачів попереджають про термін дії балів на лояльність",
+    "summary_uk": "Споживчі асоціації в Туреччині нагадують, що бали на лояльність можуть втратити свою дійсність до кінця року. Вони закликають споживачів використовувати накопичені бали до закінчення терміну їх дії. Це стосується всіх програм лояльності, які мають обмежений термін дії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на стратегії промоцій у ритейлі, оскільки споживачі можуть активніше використовувати бали, що може змінити попит на певні категорії товарів."
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Споживачів попереджають про термін дії балів на лояльність",
+    "summary": "Споживчі асоціації в Туреччині нагадують, що бали на лояльність можуть втратити свою дійсність до кінця року. Вони закликають споживачів використовувати накопичені бали до закінчення терміну їх дії. Це стосується всіх програм лояльності, які мають обмежений термін дії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tuketicilere-sadakat-kartlarindaki-kullanilmayan-para-puanlar-icin-yil-sonu-uyarisi/4115892",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "97d3a23e297a",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/realizare-istorica-polonia-isi-atinge-obiectivul-magnific-ambitios-acumula-700-tone-aur-rezerve-continua-achizitiile-aurul-ajuta-intarirea-credibilitatii-tarii-scut-fata-turbulentelor-geopolitice-23277076",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "„Realizare istorică”. Polonia îşi atinge obiectivul „magnific şi ambiţios” de a acumula 700 de tone de aur în rezerve. Continuă achiziţiile? Aurul ajută la întărirea credibilităţii ţării şi este scut în faţa turbulenţelor geopolitice, consideră polonezii",
+    "body_orig": "",
+    "published": "2026-11-08T19:40:00",
+    "fetched": "2026-11-08T20:13:41.259241",
+    "title_uk": "Польща накопичила 700 тонн золота для зміцнення резервів",
+    "summary_uk": "Польща досягла цілі у 700 тонн золота в резерві, що підвищує її фінансову стабільність. Уряд вважає, що золото допоможе захистити країну від геополітичних ризиків. Придбання золота продовжуються.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща накопичила 700 тонн золота для зміцнення резервів",
+    "summary": "Польща досягла цілі у 700 тонн золота в резерві, що підвищує її фінансову стабільність. Уряд вважає, що золото допоможе захистити країну від геополітичних ризиків. Придбання золота продовжуються.",
+    "link": "https://www.zf.ro/business-international/realizare-istorica-polonia-isi-atinge-obiectivul-magnific-ambitios-acumula-700-tone-aur-rezerve-continua-achizitiile-aurul-ajuta-intarirea-credibilitatii-tarii-scut-fata-turbulentelor-geopolitice-23277076",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9eb16bcc8220",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-international/problemele-din-industria-europeana-a-bicicletelor-continua-legendarul-producator-italian-bianchi-in-criza-23277082",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Problemele din industria europeană a bicicletelor continuă: legendarul producător italian Bianchi, în criză",
+    "body_orig": "Legendarul producător italian de biciclete Bianchi se află într-o criză financiară gravă şi se restructurează.",
+    "published": "2026-11-08T19:40:00",
+    "fetched": "2026-11-08T20:13:41.259258",
+    "title_uk": "Bianchi переживає фінансову кризу та реструктуризацію",
+    "summary_uk": "Італійський виробник велосипедів Bianchi стикається з серйозними фінансовими труднощами і проводить реструктуризацію. Компанія відома своєю історією, але нині її майбутнє під загрозою через фінансові проблеми.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Bianchi переживає фінансову кризу та реструктуризацію",
+    "summary": "Італійський виробник велосипедів Bianchi стикається з серйозними фінансовими труднощами і проводить реструктуризацію. Компанія відома своєю історією, але нині її майбутнє під загрозою через фінансові проблеми.",
+    "link": "https://www.zf.ro/business-international/problemele-din-industria-europeana-a-bicicletelor-continua-legendarul-producator-italian-bianchi-in-criza-23277082",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "35a7f438c533",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/well-wealth/investitii-da-riscuri-nu-prea-romanii-incep-sa-isi-puna-economiile-la-treaba-dar-nu-cu-orice-pret-23277267",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Investiţii da, riscuri nu prea. Românii încep să îşi pună economiile la treabă, dar nu cu orice preţ",
+    "body_orig": "",
+    "published": "2026-11-08T15:31:10",
+    "fetched": "2026-11-08T20:13:41.259313",
+    "title_uk": "Румуни починають інвестувати, але обережно",
+    "summary_uk": "Румунський ринок показує зростання інвестицій, але споживачі стають обережнішими у виборі. Багато румунів починають використовувати свої заощадження, але не готові ризикувати. Це свідчить про зміну споживчих настроїв на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румуни починають інвестувати, але обережно",
+    "summary": "Румунський ринок показує зростання інвестицій, але споживачі стають обережнішими у виборі. Багато румунів починають використовувати свої заощадження, але не готові ризикувати. Це свідчить про зміну споживчих настроїв на ринку.",
+    "link": "https://www.zf.ro/well-wealth/investitii-da-riscuri-nu-prea-romanii-incep-sa-isi-puna-economiile-la-treaba-dar-nu-cu-orice-pret-23277267",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "211e43dbcef0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/sameday-livreaza-cele-mai-multe-colete-fan-courier-incaseaza-cei-mai-multi-bani-cum-s-a-schimbat-piata-de-curierat-in-trei-ani_992490.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Sameday livrează cele mai multe colete, FAN Courier încasează cei mai mulți bani. Cum s-a schimbat piața de curierat în trei ani",
+    "body_orig": "Piața coletelor din România a continuat să crească în 2025, când operatorii au procesat 372,3 de milioane de trimiteri, cu 10% mai multe decât în anul precedent, la o medie de 20 de colete pe an pentru fiecare locuitor. Ritmul de creștere a încetinit însă considerabil față de 2024, când volumul coletelor avansase cu 27%, arată cel mai recent raport al ANCOM.",
+    "published": "2026-11-08T19:20:45",
+    "fetched": "2026-11-08T20:13:43.690244",
+    "title_uk": "Ринок кур'єрських послуг у Румунії зріс на 10% у 2025 році",
+    "summary_uk": "У 2025 році ринок кур'єрських послуг в Румунії зріс до 372 млн відправлень, що на 10% більше, ніж у 2024 році. Середній показник становить 20 посилок на рік на кожного жителя. Проте темпи зростання сповільнилися в порівнянні з 27% у 2024 році.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання ринку кур'єрських послуг може вплинути на логістику та дистрибуцію товарів. Розгляньте можливість оптимізації витрат на доставку в умовах зростаючого попиту."
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ринок кур'єрських послуг у Румунії зріс на 10% у 2025 році",
+    "summary": "У 2025 році ринок кур'єрських послуг в Румунії зріс до 372 млн відправлень, що на 10% більше, ніж у 2024 році. Середній показник становить 20 посилок на рік на кожного жителя. Проте темпи зростання сповільнилися в порівнянні з 27% у 2024 році.",
+    "link": "https://www.economica.net/sameday-livreaza-cele-mai-multe-colete-fan-courier-incaseaza-cei-mai-multi-bani-cum-s-a-schimbat-piata-de-curierat-in-trei-ani_992490.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "09a1cb3082be",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/gyorgy-birtolon-accenture-romania-daca-incercam-sa-concuram-cu-fabricile-din-polonia-sau-cehia-pierdem-suntem-in-urma-si-nu-vom-concura-prin-cei-mai-multi-roboti-ci-prin-cat-de-rapid-putem-adapta_989046.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "György Birtolon, Accenture România: Dacă încercăm să concurăm cu fabricile din Polonia sau Cehia, pierdem. Suntem în urmă și nu vom concura prin cei mai mulți roboți, ci prin cât de rapid putem adapta producția la ce cere piața",
+    "body_orig": "România riscă să piardă competiția cu Polonia și Cehia pentru atragerea investițiilor industriale dacă va continua să mizeze pe producția cu costuri reduse, în condițiile în care cele două țări au deja avantaje logistice și capacități de producție consolidate. În schimb, România are șanse să atragă investiții cu valoare adăugată mai mare, în cercetare și dezvoltare, inginerie de produs și software industrial, consideră György Birtolon, Supply Chain &#038; Engineering Lead în cadrul Accenture România.",
+    "published": "2026-11-08T19:20:27",
+    "fetched": "2026-11-08T20:13:43.690262",
+    "title_uk": "Румунія ризикує втратити інвестиції через низькі витрати на виробництво",
+    "summary_uk": "Румунія може програти конкуренцію з Польщею та Чехією в залученні інвестицій. György Birtolon з Accenture Romania зазначає, що країна повинна зосередитися на інвестиціях у дослідження та розробки, а не на дешевій продукції. Польща та Чехія мають переваги в логістиці та виробничих потужностях.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Румунія може стати перспективним ринком для інвестицій у високотехнологічні продукти. Виробники з Туреччини можуть розглянути можливість виходу на ринок через партнерства з румунськими компаніями.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Румунія ризикує втратити інвестиції через низькі витрати на виробництво",
+    "summary": "Румунія може програти конкуренцію з Польщею та Чехією в залученні інвестицій. György Birtolon з Accenture Romania зазначає, що країна повинна зосередитися на інвестиціях у дослідження та розробки, а не на дешевій продукції. Польща та Чехія мають переваги в логістиці та виробничих потужностях.",
+    "link": "https://www.economica.net/gyorgy-birtolon-accenture-romania-daca-incercam-sa-concuram-cu-fabricile-din-polonia-sau-cehia-pierdem-suntem-in-urma-si-nu-vom-concura-prin-cei-mai-multi-roboti-ci-prin-cat-de-rapid-putem-adapta_989046.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "751c45be0b0e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ceo-ul-span-furnizor-it-pentru-mcdonalds-si-starbucks-am-venit-in-romania-cu-planuri-mari-si-avem-nevoie-de-ingineri-buni-ne-au-contactat-deja-peste-20-de-agentii-de-recrutare-nu-am-gasit-o-agen_992807.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "CEO-ul Span, furnizor IT pentru McDonald’s și Starbucks: Am venit în România cu planuri mari și avem nevoie de ingineri buni. Ne-au contactat deja peste 20 de agenții de recrutare, nu am găsit o agenție cu adevărat specializată în recrutarea inginerilor de elită",
+    "body_orig": "Grupul croat Span, care furnizează servicii IT pentru companii internaționale precum McDonald's și Starbucks, are planuri de extindere pe termen lung în România. Compania, care și-a început operațiunile la București în septembrie, intenționează să ajungă la aproximativ 50 de angajați până la sfârșitul anului viitor. Nikola Dujmović, CEO-ul Span, și Corneliu Asiraf Pandele, directorul general al Span România, au explicat, într-un interviu pentru Economica.net, cum vor să dezvolte afacerea locală, ce oportunități văd pe piața românească și cum decurge recrutarea primilor angajați.",
+    "published": "2026-11-08T19:19:30",
+    "fetched": "2026-11-08T20:13:43.690272",
+    "title_uk": "Span планує розширення в Румунії та шукає інженерів",
+    "summary_uk": "Компанія Span, постачальник IT-послуг для McDonald's і Starbucks, розпочала діяльність у Румунії з планами досягти 50 співробітників до кінця 2024 року. CEO Nikola Dujmović зазначив, що вже отримали запити від понад 20 рекрутингових агенцій, але не знайшли спеціалізованої на елітних інженерах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Span планує розширення в Румунії та шукає інженерів",
+    "summary": "Компанія Span, постачальник IT-послуг для McDonald's і Starbucks, розпочала діяльність у Румунії з планами досягти 50 співробітників до кінця 2024 року. CEO Nikola Dujmović зазначив, що вже отримали запити від понад 20 рекрутингових агенцій, але не знайшли спеціалізованої на елітних інженерах.",
+    "link": "https://www.economica.net/ceo-ul-span-furnizor-it-pentru-mcdonalds-si-starbucks-am-venit-in-romania-cu-planuri-mari-si-avem-nevoie-de-ingineri-buni-ne-au-contactat-deja-peste-20-de-agentii-de-recrutare-nu-am-gasit-o-agen_992807.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e7b223ceb9ff",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/aqua-carpatica-ajunge-mlultinationala-compania-romaneasca-controlata-de-jean-valvis-exporta-in-aproape-30-de-tari-si-vrea-sa-dubleze-numarul-acestora_993043.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aqua Carpatica ajunge multinațională. Compania românească controlată de Jean Valvis exportă în aproape 30 de țări și vrea să dubleze numărul acestora",
+    "body_orig": "O apă minerală românească, extrasă din zona Bucovinei, în regiunea Vatra Dornei, a ajuns să exporte apa din munții României în 28 de țări și patru continente. Apa minerală românească este printre cele mai bune din lume, atât ca nivel de mineralizare, cât și ca puritate absolută.",
+    "published": "2026-11-08T19:17:53",
+    "fetched": "2026-11-08T20:13:43.690281",
+    "title_uk": "Aqua Carpatica розширює експорт до 30 країн",
+    "summary_uk": "Румунська компанія Aqua Carpatica, що спеціалізується на видобутку мінеральної води, експортує продукцію в 28 країн. Вона планує подвоїти цей показник. Вода видобувається в регіоні Ватра-Дорней і відзначається високою якістю та чистотою.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Aqua Carpatica розширює експорт до 30 країн",
+    "summary": "Румунська компанія Aqua Carpatica, що спеціалізується на видобутку мінеральної води, експортує продукцію в 28 країн. Вона планує подвоїти цей показник. Вода видобувається в регіоні Ватра-Дорней і відзначається високою якістю та чистотою.",
+    "link": "https://www.economica.net/aqua-carpatica-ajunge-mlultinationala-compania-romaneasca-controlata-de-jean-valvis-exporta-in-aproape-30-de-tari-si-vrea-sa-dubleze-numarul-acestora_993043.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fcf33c4e5aab",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/08/grosi-je-postacalnikiv-brakuje-iak-regioni-ukrayini-zakupovuiut-energoobladnannia/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Гроші є, постачальників бракує: як регіони України закуповують енергообладнання",
+    "body_orig": "Безпекова ситуація та доступ до капіталу визначають, яке обладнання шукають у регіонах і чи можуть замовники знайти постачальників. Як це відображається у різних регіонах?",
+    "published": "2026-11-08T12:30:00",
+    "fetched": "2026-11-08T20:13:32.833078",
+    "title_uk": "Регioni України шукають постачальників енергообладнання",
+    "summary_uk": "В Україні спостерігається нестача постачальників енергообладнання через безпекову ситуацію. Замовники стикаються з труднощами у закупівлі, що впливає на різні регіони. Доступ до капіталу також визначає можливості закупівель.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "інвестиції",
+      "логістика",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Регioni України шукають постачальників енергообладнання",
+    "summary": "В Україні спостерігається нестача постачальників енергообладнання через безпекову ситуацію. Замовники стикаються з труднощами у закупівлі, що впливає на різні регіони. Доступ до капіталу також визначає можливості закупівель.",
+    "link": "https://ain.ua/2026/11/08/grosi-je-postacalnikiv-brakuje-iak-regioni-ukrayini-zakupovuiut-energoobladnannia/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ad8ffef248c9",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/artificial-intelligence/yak-zrozumiti-de-zastryagla-vasa-si-transformaciya-v4y0re",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Як зрозуміти, де застрягла ваша ШI-трансформація?",
+    "body_orig": "Сьогодні\nмайже кожна компанія має ШІ-стратегію, ШІ-пілот або хоча б презентацію про те,\nяк штучний інтелект змінить її бізнес. У дослідженні McKinsey 2026 року, 9 із\n10 респондентів говорять, що їхні компанії системно використовують ШІ принаймні\nв одній бізнес-функції, а 44% уже масштабують його на рівні всієї організації.",
+    "published": "2026-11-08T14:16:00",
+    "fetched": "2026-11-08T20:13:33.561052",
+    "title_uk": "Більшість компаній вже використовують ШІ у бізнесі",
+    "summary_uk": "Дослідження McKinsey показує, що 90% компаній мають ШІ-стратегію, а 44% масштабують її на всю організацію. Це свідчить про зростаючу роль штучного інтелекту в бізнес-процесах. Компанії активно інтегрують ШІ у різні функції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Впровадження ШІ може змінити підходи до управління категоріями. Рекомендується вивчити можливості автоматизації процесів для підвищення ефективності."
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Більшість компаній вже використовують ШІ у бізнесі",
+    "summary": "Дослідження McKinsey показує, що 90% компаній мають ШІ-стратегію, а 44% масштабують її на всю організацію. Це свідчить про зростаючу роль штучного інтелекту в бізнес-процесах. Компанії активно інтегрують ШІ у різні функції.",
+    "link": "https://speka.ua/artificial-intelligence/yak-zrozumiti-de-zastryagla-vasa-si-transformaciya-v4y0re",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dc9206bb3f38",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ponad-100-tisyac-zastosunkiv-adaptuvali-dlya-iphone-duo-yakix-populyarnix-program-dosi-brakuje-9gwkm8",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Понад 100 тисяч застосунків адаптували для iPhone Duo: яких популярних програм досі бракує",
+    "body_orig": "Apple повідомила, що понад 100 тисяч застосунків уже оптимізували для нового складаного смартфона iPhone Duo. Водночас частина популярних сервісів досі не адаптувала інтерфейс до його внутрішнього та зовнішнього дисплеїв.",
+    "published": "2026-11-08T13:54:00",
+    "fetched": "2026-11-08T20:13:33.561063",
+    "title_uk": "Понад 100 тисяч застосунків адаптували для iPhone Duo",
+    "summary_uk": "Apple повідомила про оптимізацію понад 100 тисяч застосунків для iPhone Duo. Проте деякі популярні сервіси ще не адаптували свої інтерфейси до нового смартфона. Це може вплинути на користувачів, які очікують повної функціональності від своїх улюблених програм.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Понад 100 тисяч застосунків адаптували для iPhone Duo",
+    "summary": "Apple повідомила про оптимізацію понад 100 тисяч застосунків для iPhone Duo. Проте деякі популярні сервіси ще не адаптували свої інтерфейси до нового смартфона. Це може вплинути на користувачів, які очікують повної функціональності від своїх улюблених програм.",
+    "link": "https://speka.ua/news/ponad-100-tisyac-zastosunkiv-adaptuvali-dlya-iphone-duo-yakix-populyarnix-program-dosi-brakuje-9gwkm8",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
