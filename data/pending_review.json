@@ -500768,5 +500768,966 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "605402fe8dbc",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Gospodarka-hamuje-upadek-szefa-Nvidii-a-cena-Drwala-zamrozona-Tydzien-na-wykresach-9228305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gospodarka hamuje, upadek szefa Nvidii, a cena Drwala zamrożona",
+    "body_orig": "Cześć, tu Inwestor Wojtek. Polska gospodarka nieco zdejmuje nogę z gazu, inflacja spada do 3,5%, a Burger Drwala niespodziewanie trzyma cenę z poprzedniego sezonu. W tym samym czasie za oceanem Fed szykuje kolejną podwyżkę stóp, miedź drożeje na fali boomu na centra danych, a na polskim rynku nieruchomości deweloperzy notują najlepszy miesiąc w tym roku. Jak co tydzień, zebrałem dla Was najważniejsze wykresy mijającego tygodnia.",
+    "published": "2026-11-14T05:00:00",
+    "fetched": "2026-11-14T11:38:25.624630",
+    "title_uk": "Польська економіка сповільнюється, інфляція знижується до 3.5%",
+    "summary_uk": "Польська економіка демонструє ознаки сповільнення, інфляція знизилася до 3.5%. У той же час, ціна на Burger Drwala залишається незмінною. На ринку нерухомості польські девелопери відзначають найкращий місяць цього року. В США Федеральна резервна система готує нове підвищення ставок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Ситуація з інфляцією може вплинути на ціни закупівлі. Рекомендується переглянути стратегії цінової політики.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження інфляції може дозволити переглянути цінову політику на товари. Рекомендується аналізувати запаси та адаптувати промо-акції."
+    },
+    "tags": [
+      "економіка",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська економіка сповільнюється, інфляція знижується до 3.5%",
+    "summary": "Польська економіка демонструє ознаки сповільнення, інфляція знизилася до 3.5%. У той же час, ціна на Burger Drwala залишається незмінною. На ринку нерухомості польські девелопери відзначають найкращий місяць цього року. В США Федеральна резервна система готує нове підвищення ставок.",
+    "link": "https://www.bankier.pl/wiadomosc/Gospodarka-hamuje-upadek-szefa-Nvidii-a-cena-Drwala-zamrozona-Tydzien-na-wykresach-9228305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9d49dd759bbb",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nvidia bez steru, Anthropic z potężną stratą i wyceną w kosmos. Wall Street ostrzega przed \"drenażem mózgów\"",
+    "body_orig": "Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J. Huanga w związku ze skandalem obyczajowym. Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI. Równolegle uwaga analityków przenosi się na nadchodzące debiuty w branży sztucznej inteligencji.",
+    "published": "2026-11-14T05:00:00",
+    "fetched": "2026-11-14T11:38:25.624649",
+    "title_uk": "Nvidia зазнає втрат через відставку CEO, ринок AI в очікуванні",
+    "summary_uk": "Акції Nvidia впали після несподіваної відставки CEO Дж. Хуана через скандал. Частина інвесторів переглядає оцінки компанії, інші шукають можливості для інвестицій у секторі штучного інтелекту. Аналітики звертають увагу на майбутні дебюти в цій галузі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ця ситуація може вплинути на плани щодо інвестицій у технології AI. Рекомендується слідкувати за змінами в ринкових оцінках та адаптувати стратегії закупівель."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Nvidia зазнає втрат через відставку CEO, ринок AI в очікуванні",
+    "summary": "Акції Nvidia впали після несподіваної відставки CEO Дж. Хуана через скандал. Частина інвесторів переглядає оцінки компанії, інші шукають можливості для інвестицій у секторі штучного інтелекту. Аналітики звертають увагу на майбутні дебюти в цій галузі.",
+    "link": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8867b47d67b8",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/pkb-polski-wyraznie-spowalnia-w-trzecim-kwartale-analitycy-wytykaja-dwoch-winnych/kmzqqlz",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polska gospodarka zwalnia, ale jest odporna. Wnioski po najnowszych danych o PKB",
+    "body_orig": "Najnowsze odczyty polskiego produktu krajowego brutto (PKB) przyniosły wyhamowanie, a analitycy wskazują już \"dwóch głównych podejrzanych\". Choć na pierwszy rzut oka liczby mogą niepokoić, na tle sąsiadów wciąż gramy w zupełnie innej lidze. Spowolnienie wzrostu, które może nadejść w przyszłym roku, będzie nieznaczne.",
+    "published": "2026-11-14T09:07:23",
+    "fetched": "2026-11-14T11:38:27.825679",
+    "title_uk": "Польська економіка сповільнюється, але залишається стійкою",
+    "summary_uk": "Останні дані про ВВП Польщі показали уповільнення зростання. Аналітики вказують на два основні фактори, які вплинули на цю тенденцію. Незважаючи на це, Польща залишається в кращій позиції порівняно з сусідами, а сповільнення у 2026 році очікується незначним.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Сповільнення економіки може вплинути на обсяги продажів. Розгляньте корекцію асортименту та акційні пропозиції для підтримки попиту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення темпів зростання може вимагати перегляду стратегій просування та цінової політики для підтримки конкурентоспроможності на ринку."
+    },
+    "tags": [
+      "економіка",
+      "ритейл",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Польська економіка сповільнюється, але залишається стійкою",
+    "summary": "Останні дані про ВВП Польщі показали уповільнення зростання. Аналітики вказують на два основні фактори, які вплинули на цю тенденцію. Незважаючи на це, Польща залишається в кращій позиції порівняно з сусідами, а сповільнення у 2026 році очікується незначним.",
+    "link": "https://businessinsider.com.pl/gospodarka/pkb-polski-wyraznie-spowalnia-w-trzecim-kwartale-analitycy-wytykaja-dwoch-winnych/kmzqqlz",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5f1b15432ff7",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/tani-prad-na-papierze-drozszy-rachunek-pozniej-gdzie-kryja-sie-koszty",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Tani prąd na papierze, droższy rachunek później. Gdzie kryją się koszty?",
+    "body_orig": "Nie tylko cena za megawatogodzinę powinna interesować firmy, które porównują oferty zakupu energii na 2027 rok. Podobne stawki nie zawsze oznaczają podobne warunki, bo jedna oferta może zawierać część kosztów w cenie, a inna naliczać je osobno. Różnice mogą się pojawić także przy odchyleniach od prognozowanego zużycia. Direct4Energy wskazuje pięć elementów, które mogą przesądzić o tym, ile przedsiębiorstwo faktycznie zapłaci za energię.\n– Zanim przedsiębiorca zapyta, ile kosztuje megawatogodzina, powinien wiedzieć, ile energii potrzebuje, kiedy ją zużywa i jak może zmienić się jego działalność. Bez tych informacji łatwo wybrać ofertę, która dobrze wygląda w zestawieniu, ale gorzej sprawdza się w praktyce – mówi Jarosław Fabiański, prezes Direct4Energy.\nCena nie obejmuje wszystkiego\nPierwszy problem pojawia się już przy samej stawce. Firma powinna sprawdzić, czy cena obejmuje m.in. opłaty handlowe, koszty bilansowania oraz ewentualne mechanizmy zmiany ceny. Trzeba też oddzielić koszt energii czynnej od pozostałych elementów rachunku. Stała cena za samą energię nie zamraża kosztów dystrybucji ani innych opłat przypisanych do konkretnego punktu poboru.\n– Jeśli oferta mówi o stałej cenie, sprawdźmy, czego dokładnie ta gwarancja dotyczy i jakie przewidziano wyjątki. Przedsiębiorca powinien rozumieć, które pozycje ma zabezpieczone, a które mogą się zmienić. Dopiero wtedy może rzetelnie zaplanować wydatki – wyjaśnia Jarosław Fabiański.\nZużycie może odbiegać od prognozy\nKolejna kwestia to wolumen, czyli ilość energii, którą firma deklaruje kupić. Prognoza powinna uwzględniać zarówno dotychczasowe zużycie, jak i plany na kolejny rok. Nowa linia produkcyjna, dodatkowa zmiana, zamknięcie placówki czy własna instalacja fotowoltaiczna mogą mocno zmienić zapotrzebowanie na energię z sieci.\nW umowie trzeba więc sprawdzić, jakie odchylenia od deklarowanego wolumenu są dopuszczalne, co dzieje się po przekroczeniu tych granic i czy prognozę można później aktualizować. Poszczególni sprzedawcy mogą stosować tu różne zasady.\n– Przy porównywaniu ofert warto zadać bardzo konkretne pytanie: ile zapłacimy, jeśli zużycie będzie inne, niż zakładaliśmy? Firma planująca rozwój albo własną instalację fotowoltaiczną powinna sprawdzić ten scenariusz jeszcze przed podpisaniem umowy – mówi prezes Direct4Energy.\nStała cena czy rynek?\nFirmy mogą też wybierać między różnymi modelami zakupu energii. Stała cena daje większą przewidywalność, model indeksowany uzależnia rozliczenia od sytuacji rynkowej, a zakup w transzach rozkłada moment ustalania ceny na kilka etapów.\nNie ma jednego rozwiązania dobrego dla wszystkich. Wybór zależy od stabilności zużycia, sytuacji finansowej przedsiębiorstwa i jego gotowości do zaakceptowania zmian cen. Model powinien być też zrozumiały dla osób odpowiedzialnych później za budżet firmy.\n– Nie obiecywałbym przedsiębiorcom, że da się bezbłędnie trafić w najniższą cenę na rynku. Można natomiast uporządkować proces zakupu, określić akceptowalny poziom ryzy",
+    "published": "2026-11-13T22:14:03",
+    "fetched": "2026-11-14T11:38:28.921584",
+    "title_uk": "Порівняння цін на енергію: що врахувати підприємцям",
+    "summary_uk": "Підприємці повинні враховувати не лише ціну за мегават-годину, а й інші витрати при виборі постачальника енергії на 2027 рік. Важливо знати, скільки енергії потрібно, коли вона споживається та які можуть бути зміни у витратах. Компанії можуть вибирати між фіксованою ціною та ринковими моделями, що вплине на їх бюджет.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "При виборі постачальника енергії важливо враховувати не лише ціну, а й можливі зміни у витратах. Рекомендується перевірити умови контракту на предмет відхилень у споживанні енергії."
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Порівняння цін на енергію: що врахувати підприємцям",
+    "summary": "Підприємці повинні враховувати не лише ціну за мегават-годину, а й інші витрати при виборі постачальника енергії на 2027 рік. Важливо знати, скільки енергії потрібно, коли вона споживається та які можуть бути зміни у витратах. Компанії можуть вибирати між фіксованою ціною та ринковими моделями, що вплине на їх бюджет.",
+    "link": "https://300gospodarka.pl/news/tani-prad-na-papierze-drozszy-rachunek-pozniej-gdzie-kryja-sie-koszty",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "eb842bd99577",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/polacy-zbuduja-anteny-dla-kosmicznego-straznika-slonca-poleci-150-mln-km-od-ziemi",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Polacy zbudują anteny dla kosmicznego „strażnika” Słońca. Poleci 150 mln km od Ziemi",
+    "body_orig": "Sener Polska podpisała drugi kontrakt w ramach misji Vigil Europejskiej Agencji Kosmicznej. Warszawski zespół przygotuje trzy anteny komunikacyjne, które trafią na pokład satelity monitorującego aktywność Słońca i pogodę kosmiczną. Vigil ma ruszyć w 2031 r. i dostarczać ostrzeżenia przed zjawiskami, które mogą zakłócać działanie satelitów, telekomunikacji czy sieci energetycznych.\nNowa umowa obejmuje dwie anteny niskiego zysku (LGA) oraz jedną antenę średniego zysku (MGA), wszystkie w wersji lotnej. Sener Polska odpowiada za część mechaniczną urządzeń, przygotowanie rozwiązań pozwalających zintegrować je z satelitą oraz wsparcie testów i weryfikacji projektu.\nTo drugi udział polskiej spółki w programie Vigil. Pierwszy kontrakt firma podpisała w 2024 r. i dotyczył mechanizmu otwierania osłon jednego z instrumentów naukowych satelity.\nAnteny muszą przetrwać start\nZanim urządzenia trafią w przestrzeń kosmiczną, inżynierowie sprawdzą, jak ich konstrukcja zachowa się podczas startu i początkowej fazy lotu satelity. Zespół przeprowadzi analizy strukturalne, które pozwolą ocenić odporność anten na obciążenia występujące podczas startu.\nRównolegle badane będzie zachowanie elementów przy zmieniających się temperaturach w przestrzeni kosmicznej. Dopiero na podstawie tych wyników projekt przejdzie do kolejnych etapów: produkcji modeli lotnych i testów.\n– Nawet najbardziej zaawansowana sonda nie może wykorzystać swoich możliwości bez sprawnej komunikacji. Dlatego odpowiednie zaprojektowanie i działanie anten jest jednym z najważniejszych elementów powodzenia misji. W przypadku Vigil szczególnie ważne jest przełożenie wymagań misji na rozwiązania konstrukcyjne oraz przygotowanie ich do procesu weryfikacji – tłumaczy Przemysław Roguski, kierownik projektu w Sener Polska.\n\nPolecamy także: 44 proc. zaskoczyły podatki. Największym problemem nowych firm jest jednak coś innego\n\nKażdy typ anteny ma inne zadanie. LGA, czyli antena niskiego zysku, ma szeroki kąt promieniowania i może utrzymywać łączność nawet wtedy, gdy satelita nie jest precyzyjnie ustawiony względem stacji naziemnej. Płaci za to mniejszą przepływowością danych. Tego rodzaju antena służy przede wszystkim do przesyłania podstawowych informacji, takich jak telemetria opisująca stan statku kosmicznego.\nTaka charakterystyka jest szczególnie cenna w sytuacji awaryjnej. Jeśli satelita straci możliwość dokładnego kontrolowania położenia i orientacji, LGA może nadal zapewniać podstawowy kanał komunikacji z Ziemią.\nDruga konstrukcja, MGA, jest rozwiązaniem pośrednim między antenami niskiego i wysokiego zysku. Pozwala przesyłać więcej danych niż LGA, ale nie wymaga tak dokładnego nakierowania jak antena HGA. W misji Vigil MGA będzie służyć podczas podróży satelity do miejsca docelowego. Później ma pełnić funkcję zapasowego kanału łączności dla anteny wysokiego zysku.\nDrugi kontrakt dla polskiej spółki\nPrzy projekcie pracować będzie także zespół Communication Division, odpowiedzialny za techniczne zarządzanie c",
+    "published": "2026-11-13T21:51:59",
+    "fetched": "2026-11-14T11:38:28.921623",
+    "title_uk": "Польська компанія Sener Polska розробить антени для космічного супутника",
+    "summary_uk": "Sener Polska підписала контракт на виготовлення трьох антен для місії Vigil Європейської космічної агенції. Антени будуть використовуватися для моніторингу активності Сонця та космічної погоди. Місія стартує у 2031 році. Компанія вже брала участь у проекті раніше, розробляючи механізм для наукового інструменту супутника.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польська компанія Sener Polska розробить антени для космічного супутника",
+    "summary": "Sener Polska підписала контракт на виготовлення трьох антен для місії Vigil Європейської космічної агенції. Антени будуть використовуватися для моніторингу активності Сонця та космічної погоди. Місія стартує у 2031 році. Компанія вже брала участь у проекті раніше, розробляючи механізм для наукового інструменту супутника.",
+    "link": "https://300gospodarka.pl/news/polacy-zbuduja-anteny-dla-kosmicznego-straznika-slonca-poleci-150-mln-km-od-ziemi",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e8e13949c7f5",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/banki/obroncy-konsumentow-czy-handlarze-spokojem-ujawniamy-jak-roszczenia-klientow-staly-sie-karta-przetargowa-helpfind-7349898314176992a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Obrońcy konsumentów czy handlarze spokojem? Ujawniamy, jak roszczenia klientów stały się kartą przetargową Helpfind",
+    "body_orig": "Dla klientów to szansa na szybką gotówkę, dla pożyczkodawcy – groźba lawiny przegranych procesów. Money.pl ujawnia kulisy negocjacji dwóch firm stojących po przeciwnych stronach sporów o pieniądze konsumentów. Pokazujemy, jak setki roszczeń Polaków posłużyły za argument w próbie dobicia sześcioletniego targu.",
+    "published": "2026-11-14T05:40:41",
+    "fetched": "2026-11-14T11:38:30.201079",
+    "title_uk": "Спори споживачів стали важелем у переговорах Helpfind",
+    "summary_uk": "Клієнти отримують можливість швидкого отримання грошей, тоді як кредитори стикаються з ризиком численних програшів у судах. У переговорах між двома компаніями, які представляють протилежні сторони у спорах про гроші споживачів, використано сотні претензій поляків. Це стало аргументом у спробі укласти угоду на шість років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "переговори-з-мережами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Спори споживачів стали важелем у переговорах Helpfind",
+    "summary": "Клієнти отримують можливість швидкого отримання грошей, тоді як кредитори стикаються з ризиком численних програшів у судах. У переговорах між двома компаніями, які представляють протилежні сторони у спорах про гроші споживачів, використано сотні претензій поляків. Це стало аргументом у спробі укласти угоду на шість років.",
+    "link": "https://www.money.pl/banki/obroncy-konsumentow-czy-handlarze-spokojem-ujawniamy-jak-roszczenia-klientow-staly-sie-karta-przetargowa-helpfind-7349898314176992a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bba540af1ccc",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-targets-initial-akkuyu-reactor-startup-within-weeks-229388",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye targets initial Akkuyu reactor startup within weeks",
+    "body_orig": "Türkiye aims to begin the initial startup of its first nuclear reactor at Akkuyu within weeks, Energy and Natural Resources Minister Alparslan Bayraktar said at the COP31 climate summit on Nov. 13.",
+    "published": "2026-11-14T07:10:00",
+    "fetched": "2026-11-14T11:38:38.721434",
+    "title_uk": "Туреччина планує запуск першого ядерного реактора в Akkuyu",
+    "summary_uk": "Туреччина має намір розпочати початковий запуск свого першого ядерного реактора в Akkuyu протягом кількох тижнів. Про це повідомив міністр енергетики та природних ресурсів Алпарслан Байрактар на кліматичному саміті COP31 13 листопада. Реактор стане важливим кроком у розвитку енергетичної інфраструктури країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії, оскільки зростання енергетичного сектору може стимулювати попит на промислові товари.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина планує запуск першого ядерного реактора в Akkuyu",
+    "summary": "Туреччина має намір розпочати початковий запуск свого першого ядерного реактора в Akkuyu протягом кількох тижнів. Про це повідомив міністр енергетики та природних ресурсів Алпарслан Байрактар на кліматичному саміті COP31 13 листопада. Реактор стане важливим кроком у розвитку енергетичної інфраструктури країни.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-targets-initial-akkuyu-reactor-startup-within-weeks-229388",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4b0e043588e4",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/trade-minister-urges-cooperation-on-critical-minerals-green-finance-229386",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Trade minister urges cooperation on critical minerals, green finance",
+    "body_orig": "Trade Minister Ömer Bolat called for stronger cooperation on critical mineral supplies and affordable financing to support the green transition at the COP31 climate summit in Antalya on Nov. 13.",
+    "published": "2026-11-14T07:04:44",
+    "fetched": "2026-11-14T11:38:38.721452",
+    "title_uk": "Міністр торгівлі Туреччини закликає до співпраці у сфері критичних мінералів",
+    "summary_uk": "На кліматичному саміті COP31 у Анталії міністр торгівлі Туреччини Ömer Bolat закликав до посилення співпраці в постачанні критичних мінералів та доступному фінансуванні для підтримки зеленої трансформації. Ці ініціативи мають на меті сприяти переходу до екологічно чистих технологій.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Співпраця в сфері критичних мінералів може відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі та Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Міністр торгівлі Туреччини закликає до співпраці у сфері критичних мінералів",
+    "summary": "На кліматичному саміті COP31 у Анталії міністр торгівлі Туреччини Ömer Bolat закликав до посилення співпраці в постачанні критичних мінералів та доступному фінансуванні для підтримки зеленої трансформації. Ці ініціативи мають на меті сприяти переходу до екологічно чистих технологій.",
+    "link": "https://www.hurriyetdailynews.com/trade-minister-urges-cooperation-on-critical-minerals-green-finance-229386",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d4be0968bc6b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-seeks-industrial-growth-with-lower-emissions-229380",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye seeks industrial growth with lower emissions",
+    "body_orig": "Türkiye aims to reduce emissions while expanding industrial production and technological capacity, Industry and Technology Minister Mehmet Fatih Kacır said on Nov. 13.",
+    "published": "2026-11-14T06:54:25",
+    "fetched": "2026-11-14T11:38:38.721481",
+    "title_uk": "Туреччина прагне зростання промисловості з меншими викидами",
+    "summary_uk": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про плани зменшення викидів при розширенні промислового виробництва та технологічних можливостей. Це ініціатива спрямована на поєднання екологічності та економічного зростання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для турецьких виробників, які шукають екологічні рішення, що можуть бути конкурентоспроможними на міжнародних ринках.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина прагне зростання промисловості з меншими викидами",
+    "summary": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про плани зменшення викидів при розширенні промислового виробництва та технологічних можливостей. Це ініціатива спрямована на поєднання екологічності та економічного зростання.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-seeks-industrial-growth-with-lower-emissions-229380",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f7553ea15fa7",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/americas/us-stocks-close-mixed-as-tech-losses-weigh-on-nasdaq-europe-mostly-up/4124808",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks close mixed as tech losses weigh on Nasdaq, Europe mostly up",
+    "body_orig": "Dow inches up 0.1%, while S&amp;P 500 slips 0.4% and Nasdaq drops 0.91% as fear index climbs 3.48%",
+    "published": "2026-11-13T22:30:36",
+    "fetched": "2026-11-14T11:38:41.800446",
+    "title_uk": "Американські акції закриваються змішано, технології тягнуть Nasdaq вниз",
+    "summary_uk": "Індекс Dow зріс на 0.1%, S&P 500 знизився на 0.4%, а Nasdaq впав на 0.9%. Індекс страху піднявся на 3.5%. Технологічний сектор продовжує демонструвати слабкі результати, що впливає на загальний ринок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Американські акції закриваються змішано, технології тягнуть Nasdaq вниз",
+    "summary": "Індекс Dow зріс на 0.1%, S&P 500 знизився на 0.4%, а Nasdaq впав на 0.9%. Індекс страху піднявся на 3.5%. Технологічний сектор продовжує демонструвати слабкі результати, що впливає на загальний ринок.",
+    "link": "https://www.aa.com.tr/en/americas/us-stocks-close-mixed-as-tech-losses-weigh-on-nasdaq-europe-mostly-up/4124808",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "88bb1d3fd81a",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/devlet-destekli-tesis-trabzon-hurmasina-deger-katacak/4124996",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Devlet destekli tesis Trabzon hurmasına değer katacak",
+    "body_orig": "Kahramanmaraş'ın Türkoğlu ilçesinde geçmişte kısa hasat dönemi ve uygun kurutma koşullarının bulunmaması nedeniyle değerinde satılamayan Trabzon hurması, devlet destekli kurulan kurutma tesisiyle ekonomiye kazandırılacak.",
+    "published": "2026-11-14T09:24:17",
+    "fetched": "2026-11-14T11:38:43.067283",
+    "title_uk": "Держава відкриває курортний завод для обробки хурми в Туреччині",
+    "summary_uk": "У Туреччині в окрузі Тюркогу відкривається новий завод для сушіння хурми, що раніше не могла реалізовуватися через короткий сезон збору. Державна підтримка дозволить покращити економічну ситуацію в регіоні. Очікується, що це підвищить цінність продукції на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це можливість для турецьких виробників хурми збільшити обсяги експорту завдяки покращеній обробці. Рекомендується розглянути нові контракти з міжнародними дистриб'юторами.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Держава відкриває курортний завод для обробки хурми в Туреччині",
+    "summary": "У Туреччині в окрузі Тюркогу відкривається новий завод для сушіння хурми, що раніше не могла реалізовуватися через короткий сезон збору. Державна підтримка дозволить покращити економічну ситуацію в регіоні. Очікується, що це підвищить цінність продукції на ринку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/devlet-destekli-tesis-trabzon-hurmasina-deger-katacak/4124996",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e00fd09e0ee",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/emlak-katilimdan-2026nin-9-ayinda-13-milyar-lira-net-kar/4124992",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Emlak Katılım'dan 2026'nın 9 ayında 13 milyar lira net kar",
+    "body_orig": "Emlak Katılım, 2026'nın üçüncü çeyreğinde 13 milyar lira net kar elde etti.",
+    "published": "2026-11-14T09:14:30",
+    "fetched": "2026-11-14T11:38:43.067292",
+    "title_uk": "Emlak Katılım отримала прибуток у 13 млрд лір за третій квартал 2026",
+    "summary_uk": "Emlak Katılım оголосила про чистий прибуток у 13 млрд лір за третій квартал 2026 року. Це свідчить про стабільність компанії на ринку. Фінансові результати можуть вплинути на інвесторів та партнерів компанії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання прибутку Emlak Katılım може свідчити про стабільність ринку нерухомості в Туреччині, що може бути позитивним сигналом для виробників, які планують інвестиції в цю сферу.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Emlak Katılım отримала прибуток у 13 млрд лір за третій квартал 2026",
+    "summary": "Emlak Katılım оголосила про чистий прибуток у 13 млрд лір за третій квартал 2026 року. Це свідчить про стабільність компанії на ринку. Фінансові результати можуть вплинути на інвесторів та партнерів компанії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/emlak-katilimdan-2026nin-9-ayinda-13-milyar-lira-net-kar/4124992",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c192bbeebea5",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/caykur-ureticiden-740-bin-tonu-askin-yas-cay-aldi/4124975",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ÇAYKUR üreticiden 740 bin tonu aşkın yaş çay aldı",
+    "body_orig": "Çay İşletmeleri (ÇAYKUR) Genel Müdürü Yusuf Ziya Alim, bu yıl aldıkları 740 bin tonu aşkın yaş çayın bedeli olarak üreticilere yaklaşık 26 milyar lira ödeme yaptıklarını söyledi.",
+    "published": "2026-11-14T08:45:00",
+    "fetched": "2026-11-14T11:38:43.067310",
+    "title_uk": "ÇAYKUR закупила понад 740 тисяч тонн чаю у виробників",
+    "summary_uk": "Çay İşletmeleri (ÇAYKUR) повідомила про закупівлю понад 740 тисяч тонн свіжого чаю. Вартість закупівлі склала близько 26 мільярдів лір, які були виплачені виробникам. Це свідчить про стабільний попит на чай у Туреччині.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Стабільний попит на чай в Туреччині може відкрити можливості для виробників, які планують вихід на ринок. Рекомендується дослідити потенційні партнерства з ÇAYKUR.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "ÇAYKUR закупила понад 740 тисяч тонн чаю у виробників",
+    "summary": "Çay İşletmeleri (ÇAYKUR) повідомила про закупівлю понад 740 тисяч тонн свіжого чаю. Вартість закупівлі склала близько 26 мільярдів лір, які були виплачені виробникам. Це свідчить про стабільний попит на чай у Туреччині.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/caykur-ureticiden-740-bin-tonu-askin-yas-cay-aldi/4124975",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "98cdd4004c2b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/un-kilogram-de-unt-costa-in-medie-61-de-lei-la-raft-fata-de-46-de-lei-acum-cinci-ani-un-singur-grup-controleaza-jumatate-din-piata-23281780",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Un kilogram de unt costă în medie 61 de lei la raft, faţă de 46 de lei acum cinci ani. Un singur grup controlează jumătate din piaţă",
+    "body_orig": "",
+    "published": "2026-11-14T08:09:29",
+    "fetched": "2026-11-14T11:38:45.661174",
+    "title_uk": "Ціни на масло в Румунії зросли на 33% за 5 років",
+    "summary_uk": "Середня ціна на кілограм масла в Румунії становить 61 лею, що на 15 леїв більше, ніж п'ять років тому. Один з великих гравців контролює 50% ринку. Це свідчить про зростання цін у секторі продуктів харчування.",
+    "what_it_means": {
+      "ua_importer": "Зростання цін на масло в Румунії може вплинути на імпортні ціни в Україні. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на масло може вплинути на планування категорії та ціноутворення в ритейлі. Рекомендується переглянути асортимент і стратегії просування."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на масло в Румунії зросли на 33% за 5 років",
+    "summary": "Середня ціна на кілограм масла в Румунії становить 61 лею, що на 15 леїв більше, ніж п'ять років тому. Один з великих гравців контролює 50% ринку. Це свідчить про зростання цін у секторі продуктів харчування.",
+    "link": "https://www.zf.ro/zf-24/un-kilogram-de-unt-costa-in-medie-61-de-lei-la-raft-fata-de-46-de-lei-acum-cinci-ani-un-singur-grup-controleaza-jumatate-din-piata-23281780",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f263549bb381",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/salariul-mediu-net-a-ajuns-la-5-717-lei-dar-romanii-pot-cumpara-mai-putin-decat-acum-un-an-a-15-a-luna-la-rand-de-scadere-a-salariului-real-23281777",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Salariul mediu net a ajuns la 5.717 lei, dar românii pot cumpăra mai puţin decât acum un an. A 15-a lună la rând de scădere a salariului real",
+    "body_orig": "",
+    "published": "2026-11-14T07:56:16",
+    "fetched": "2026-11-14T11:38:45.661196",
+    "title_uk": "Реальні зарплати в Румунії знижуються 15-й місяць поспіль",
+    "summary_uk": "Середня чиста зарплата в Румунії досягла 5.717 леїв, але купівельна спроможність населення зменшилася. Це вже 15-й місяць поспіль, коли реальні зарплати падають. Економічна ситуація в країні викликає занепокоєння серед населення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Реальні зарплати в Румунії знижуються 15-й місяць поспіль",
+    "summary": "Середня чиста зарплата в Румунії досягла 5.717 леїв, але купівельна спроможність населення зменшилася. Це вже 15-й місяць поспіль, коли реальні зарплати падають. Економічна ситуація в країні викликає занепокоєння серед населення.",
+    "link": "https://www.zf.ro/eveniment/salariul-mediu-net-a-ajuns-la-5-717-lei-dar-romanii-pot-cumpara-mai-putin-decat-acum-un-an-a-15-a-luna-la-rand-de-scadere-a-salariului-real-23281777",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a66a4c6f5050",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/cum-mai-arata-portofelele-romanilor-chiriile-s-au-scumpit-cu-38-intr-un-an-motorina-cu-43-inflatia-a-urcat-la-7-in-octombrie-23281774",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum mai arată portofelele românilor: Chiriile s-au scumpit cu 38% într-un an, motorina cu 43%. Inflaţia a urcat la 7% în octombrie",
+    "body_orig": "",
+    "published": "2026-11-14T07:55:59",
+    "fetched": "2026-11-14T11:38:45.661206",
+    "title_uk": "В Румунії зросли ціни на оренду та паливо, інфляція досягла 7%",
+    "summary_uk": "У Румунії оренда житла зросла на 38%, а ціна на дизельне паливо — на 43% за рік. Інфляція у жовтні 2026 року досягла 7%. Це впливає на купівельну спроможність населення та загальний економічний клімат.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "В Румунії зросли ціни на оренду та паливо, інфляція досягла 7%",
+    "summary": "У Румунії оренда житла зросла на 38%, а ціна на дизельне паливо — на 43% за рік. Інфляція у жовтні 2026 року досягла 7%. Це впливає на купівельну спроможність населення та загальний економічний клімат.",
+    "link": "https://www.zf.ro/eveniment/cum-mai-arata-portofelele-romanilor-chiriile-s-au-scumpit-cu-38-intr-un-an-motorina-cu-43-inflatia-a-urcat-la-7-in-octombrie-23281774",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "212738241141",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/autostrada-a3-transilvania-29_995211.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "VIDEO Autostrada A3 Transilvania: Se așterne ultimul strat de asfalt pe cel mai lung viaduct",
+    "body_orig": "Asocierea condusă de turcii de la Ozaltin așterne ultimul strat de asfalt pe cel mai lung viaduct de autostradă din România, respectiv cel de la Topa Mică (doi kilometri) din Autostrada A3 Transilvania, potrivit celor mai recente imagini din șantier. Noile prognoze oficiale indică a doua parte a lunii viitoare pentru inaugurarea acestui tronson.",
+    "published": "2026-11-14T11:20:28",
+    "fetched": "2026-11-14T11:38:49.484667",
+    "title_uk": "Завершується укладання асфальту на найдовшому віадуку Румунії",
+    "summary_uk": "Компанія Ozaltin завершує укладання останнього шару асфальту на віадуку в Topa Mică, що є частиною А3 Transilvania. Довжина віадуку складає 2 км. Офіційна дата відкриття запланована на другу половину наступного місяця.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Завершується укладання асфальту на найдовшому віадуку Румунії",
+    "summary": "Компанія Ozaltin завершує укладання останнього шару асфальту на віадуку в Topa Mică, що є частиною А3 Transilvania. Довжина віадуку складає 2 км. Офіційна дата відкриття запланована на другу половину наступного місяця.",
+    "link": "https://www.economica.net/autostrada-a3-transilvania-29_995211.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0fc2762ba66b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/discutii-kazmunaygas-omv-pentru-extinderea-cooperarii-titeiul-kazah-a-devenit-vital-si-pentru-austria_995375.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Discuții KazMunayGas-OMV pentru extinderea cooperării. Țițeiul kazah a devenit vital și pentru Austria",
+    "body_orig": "Compania națională de petrol și gaze a Kazahstanului, KazMunayGas (KMG), și grupul energetic austriac OMV au discutat despre potențiale domenii de extindere a cooperării în sectorul petrolului și gazelor, potrivit KMG, citată de publicația Trend",
+    "published": "2026-11-14T10:53:07",
+    "fetched": "2026-11-14T11:38:49.484688",
+    "title_uk": "KazMunayGas та OMV обговорюють розширення співпраці",
+    "summary_uk": "KazMunayGas і OMV провели переговори щодо можливостей співпраці у нафтовій та газовій галузі. Обидві компанії розглядають нові напрямки для розширення, оскільки казахська нафта стає важливою для Австрії. Деталі обговорень поки що не розголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "KazMunayGas та OMV обговорюють розширення співпраці",
+    "summary": "KazMunayGas і OMV провели переговори щодо можливостей співпраці у нафтовій та газовій галузі. Обидві компанії розглядають нові напрямки для розширення, оскільки казахська нафта стає важливою для Австрії. Деталі обговорень поки що не розголошені.",
+    "link": "https://www.economica.net/discutii-kazmunaygas-omv-pentru-extinderea-cooperarii-titeiul-kazah-a-devenit-vital-si-pentru-austria_995375.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e72f3dbfe9e3",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/aglomeratie-la-granita-cu-ucraina-360-de-camioane-asteapta-la-coada_995372.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aglomerație la granița cu Ucraina. 360 de camioane așteaptă la coadă",
+    "body_orig": "Poliţia de Frontieră avertizează că aproximativ 360 de camioane aşteaptă să iasă din ţară, prin Punctul de Trecere a Frontierei Siret. Aglomeraţia este generată de perioada premergătoare sărbătorilor şi de capacitatea redusă de preluare a automarfarelor pe partea ucraineană, potrivit News.ro.",
+    "published": "2026-11-14T10:22:32",
+    "fetched": "2026-11-14T11:38:49.484697",
+    "title_uk": "На кордоні з Україною черга з 360 вантажівок",
+    "summary_uk": "Прикордонники повідомляють про чергу з 360 вантажівок на пункті пропуску Сірет. Аномальна ситуація викликана святковим періодом та обмеженою пропускною здатністю на українській стороні. Очікування вантажівок може вплинути на терміни доставки товарів.",
+    "what_it_means": {
+      "ua_importer": "Затримки на кордоні можуть призвести до збільшення термінів доставки імпортних товарів. Рекомендується планувати закупівлі з урахуванням можливих затримок.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "логістика",
+      "митниця"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "На кордоні з Україною черга з 360 вантажівок",
+    "summary": "Прикордонники повідомляють про чергу з 360 вантажівок на пункті пропуску Сірет. Аномальна ситуація викликана святковим періодом та обмеженою пропускною здатністю на українській стороні. Очікування вантажівок може вплинути на терміни доставки товарів.",
+    "link": "https://www.economica.net/aglomeratie-la-granita-cu-ucraina-360-de-camioane-asteapta-la-coada_995372.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "709f5215e19d",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/10/fond-ruslana-linnika-majinx-capital-zminiuje-investiciinu-strategiiu-shho-vidbuvajetsia-z-kriptoportfelem-fondu-ta-kudi-vin-planuje-investuvatime-dali-interviu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Фонд Руслана Линника Majinx Capital змінює інвестиційну стратегію: що відбувається з криптопортфелем фонду та куди він планує інвестувати далі — інтерв’ю",
+    "body_orig": "Інвестиційний фонд Majinx Capital, заснований Русланом Линником у 2024 році, змінює стратегію та розширює її за межі криптоактивів і Web3. Чому?",
+    "published": "2026-11-14T08:56:00",
+    "fetched": "2026-11-14T11:38:33.663722",
+    "title_uk": "Фонд Majinx Capital змінює інвестиційну стратегію",
+    "summary_uk": "Majinx Capital, заснований Русланом Линником, розширює інвестиційну стратегію за межі криптоактивів і Web3. Фонд планує інвестувати в нові технології та стартапи, що можуть принести стабільніший дохід. Зміни відбуваються на фоні коливань ринку криптовалют.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фонд Majinx Capital змінює інвестиційну стратегію",
+    "summary": "Majinx Capital, заснований Русланом Линником, розширює інвестиційну стратегію за межі криптоактивів і Web3. Фонд планує інвестувати в нові технології та стартапи, що можуть принести стабільніший дохід. Зміни відбуваються на фоні коливань ринку криптовалют.",
+    "link": "https://ain.ua/2026/11/10/fond-ruslana-linnika-majinx-capital-zminiuje-investiciinu-strategiiu-shho-vidbuvajetsia-z-kriptoportfelem-fondu-ta-kudi-vin-planuje-investuvatime-dali-interviu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "06355b888f20",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/limiti-na-perekazi-dlya-fop-znizili-do-400-tis-i-1-mln-grn-kogo-ce-stosujetsya-vmdy87",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Ліміти на перекази для ФОП знизили до 400 тис. і 1 млн грн: кого це стосується",
+    "body_orig": "З 14 листопада банки знизили ліміти на перекази для окремих ФОП. Для другої та третьої груп поріг упав утричі. Про це повідомляє Ощадбанк.",
+    "published": "2026-11-14T10:19:00",
+    "fetched": "2026-11-14T11:38:35.580367",
+    "title_uk": "Ліміти на перекази для ФОП знижено до 400 тис. і 1 млн грн",
+    "summary_uk": "З 14 листопада банки знизили ліміти на перекази для ФОП другої та третьої груп. Нові пороги становлять 400 тис. грн і 1 млн грн відповідно. Це рішення ухвалив Ощадбанк.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Ліміти на перекази для ФОП знижено до 400 тис. і 1 млн грн",
+    "summary": "З 14 листопада банки знизили ліміти на перекази для ФОП другої та третьої груп. Нові пороги становлять 400 тис. грн і 1 млн грн відповідно. Це рішення ухвалив Ощадбанк.",
+    "link": "https://speka.ua/news/limiti-na-perekazi-dlya-fop-znizili-do-400-tis-i-1-mln-grn-kogo-ce-stosujetsya-vmdy87",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "86df7d180c7d",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/biznes-yide-za-lyudmi-shho-ukrayina-vtracaje-koli-pidprijemci-obirayut-jevropu-v5m8qn",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Бізнес їде за людьми: що Україна втрачає, коли підприємці обирають Європу?",
+    "body_orig": "Українці за кордоном поступово переходять від пошуку роботи до створення власних компаній. Для України це ставить питання ширше за повернення громадян: де вони розвиватимуть свої справи, найматимуть працівників і вкладатимуть зароблене?",
+    "published": "2026-11-14T09:38:00",
+    "fetched": "2026-11-14T11:38:35.580399",
+    "title_uk": "Українці за кордоном створюють компанії, впливаючи на економіку",
+    "summary_uk": "Все більше українців за кордоном переходять від пошуку роботи до відкриття власних бізнесів. Це ставить питання про те, де вони вкладатимуть зароблене та найматимуть працівників. Для України це означає потенційні втрати в інвестиціях та робочих місцях.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Українці за кордоном створюють компанії, впливаючи на економіку",
+    "summary": "Все більше українців за кордоном переходять від пошуку роботи до відкриття власних бізнесів. Це ставить питання про те, де вони вкладатимуть зароблене та найматимуть працівників. Для України це означає потенційні втрати в інвестиціях та робочих місцях.",
+    "link": "https://speka.ua/business/biznes-yide-za-lyudmi-shho-ukrayina-vtracaje-koli-pidprijemci-obirayut-jevropu-v5m8qn",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "50cca9179308",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/gadgets/reiting-noutbukiv-zamist-dorogogo-pk-8-aktualnix-modelei-iz-rtx-5000-v-ukrayini-vr12d2",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Рейтинг ноутбуків замість дорогого ПК: 8 актуальних моделей із RTX 5000 в Україні",
+    "body_orig": "Збірка настільного комп'ютера&nbsp;стала нішевим заняттям через глобальний дефіцит чипів та високу вартість комплектуючих. Натомість готові лептопи пропонують вигіднішу вартість завдяки попереднім контрактам виробників.&nbsp;",
+    "published": "2026-11-14T07:00:00",
+    "fetched": "2026-11-14T11:38:35.580423",
+    "title_uk": "Ноутбуки з RTX 5000 стають альтернативою дорогим ПК в Україні",
+    "summary_uk": "Глобальний дефіцит чипів та висока вартість комплектуючих призвели до зменшення інтересу до збору настільних комп'ютерів. Готові ноутбуки з RTX 5000 пропонують вигіднішу ціну завдяки попереднім контрактам виробників. Це може змінити споживчі вподобання на ринку комп'ютерної техніки.",
+    "what_it_means": {
+      "ua_importer": "Зростання попиту на ноутбуки може відкрити нові можливості для імпортерів комп'ютерної техніки в Україні. Рекомендується переглянути асортимент наявних моделей.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна споживчих вподобань може вплинути на категорійні стратегії. Рекомендується переглянути асортимент ноутбуків у ритейлі."
+    },
+    "tags": [
+      "ритейл",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ноутбуки з RTX 5000 стають альтернативою дорогим ПК в Україні",
+    "summary": "Глобальний дефіцит чипів та висока вартість комплектуючих призвели до зменшення інтересу до збору настільних комп'ютерів. Готові ноутбуки з RTX 5000 пропонують вигіднішу ціну завдяки попереднім контрактам виробників. Це може змінити споживчі вподобання на ринку комп'ютерної техніки.",
+    "link": "https://speka.ua/gadgets/reiting-noutbukiv-zamist-dorogogo-pk-8-aktualnix-modelei-iz-rtx-5000-v-ukrayini-vr12d2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "25c02e923a37",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/vid-dvokh-mopediv-do-vyrobnytctva-u-dvokh-krayinakh-iak-oleksandr-gudkov-rozvyvaye-gudfood/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Від двох мопедів до виробництва у двох країнах: як Олександр Гудков розвиває GudFood",
+    "body_orig": "Під час перших відключень електроенергії замовлення заморожених страв GudFood впали втричі. У відповідь компанія змінила асортимент і посилила резервне живлення виробництва. У Варшаві їй теж довелося переглянути початкову модель: замість ставки переважно на українських покупців компанія почала залуч…",
+    "published": "2026-11-14T05:00:29",
+    "fetched": "2026-11-14T11:38:55.306259",
+    "title_uk": "Олександр Гудков адаптує GudFood до нових умов ринку",
+    "summary_uk": "Компанія GudFood зазнала тричі зниження замовлень заморожених страв через відключення електроенергії. У відповідь на це змінено асортимент та посилено резервне живлення. У Варшаві компанія також переглянула свою бізнес-модель, зосередившись на залученні нових покупців.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Адаптація асортименту GudFood може стати прикладом для українських ритейлерів у кризових умовах. Рекомендується переглянути асортимент та запровадити резервні рішення для підтримки бізнесу."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Олександр Гудков адаптує GudFood до нових умов ринку",
+    "summary": "Компанія GudFood зазнала тричі зниження замовлень заморожених страв через відключення електроенергії. У відповідь на це змінено асортимент та посилено резервне живлення. У Варшаві компанія також переглянула свою бізнес-модель, зосередившись на залученні нових покупців.",
+    "link": "https://rau.ua/news/vid-dvokh-mopediv-do-vyrobnytctva-u-dvokh-krayinakh-iak-oleksandr-gudkov-rozvyvaye-gudfood/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
