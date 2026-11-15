@@ -503245,5 +503245,923 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "8c9d60840b62",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Autopay-Spolka-ostrzega-klientow-i-wysyla-bezposrednie-powiadomienia-9229072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Cyberatak na Autopay. Spółka ostrzega klientów i wysyła bezpośrednie powiadomienia",
+    "body_orig": "Każda osoba, której dane mogły wyciec w wyniku cyberataku, otrzymuje od nas bezpośrednią informację z konkretnymi zaleceniami - poinformowała PAP Zuzanna Szybisty z Biura Prasowego Autopay. Dodała, że do tej pory nie potwierdzono skopiowania ani wykorzystania danych, ale nie można tego wykluczyć.",
+    "published": "2026-11-15T19:00:00",
+    "fetched": "2026-11-15T20:50:29.077795",
+    "title_uk": "Автопей попереджає про витік даних через кібератаку",
+    "summary_uk": "Компанія Autopay повідомила про кібератаку, внаслідок якої можуть бути скомпрометовані дані клієнтів. Кожен, чиї дані могли постраждати, отримує рекомендації щодо захисту. Поки що не підтверджено використання даних, але це не виключено.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "warning",
+    "title": "Автопей попереджає про витік даних через кібератаку",
+    "summary": "Компанія Autopay повідомила про кібератаку, внаслідок якої можуть бути скомпрометовані дані клієнтів. Кожен, чиї дані могли постраждати, отримує рекомендації щодо захисту. Поки що не підтверджено використання даних, але це не виключено.",
+    "link": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Autopay-Spolka-ostrzega-klientow-i-wysyla-bezposrednie-powiadomienia-9229072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "664515ec4d68",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/wiadomosci/gpw-bije-rekordy-ale-debiutow-wciaz-niewiele-czy-hossa-pobudzi-rynek-ipo/d4bw712",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Mimo rekordów na GPW pewna część rynku tkwi w marazmie. Problem z podstawowym celem giełdy",
+    "body_orig": "Stopy zwrotu na warszawskiej giełdzie ostatnio rozpieszczają inwestorów, indeksy biją rekordy, a wskaźniki wyceny się podniosły. Pomimo tego strategiczni właściciele spółek rzadko korzystają z giełdy do pozyskania pieniędzy na rozwój. Widać jednak pierwsze sygnały poprawy.",
+    "published": "2026-11-15T16:52:00",
+    "fetched": "2026-11-15T20:50:31.200804",
+    "title_uk": "Незважаючи на рекорди, частина ринку у стагнації",
+    "summary_uk": "Варшавська фондова біржа демонструє рекордні показники, але стратегічні власники компаній рідко залучають капітал через ринок для розвитку. Перші ознаки покращення все ж помітні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Незважаючи на рекорди, частина ринку у стагнації",
+    "summary": "Варшавська фондова біржа демонструє рекордні показники, але стратегічні власники компаній рідко залучають капітал через ринок для розвитку. Перші ознаки покращення все ж помітні.",
+    "link": "https://businessinsider.com.pl/gielda/wiadomosci/gpw-bije-rekordy-ale-debiutow-wciaz-niewiele-czy-hossa-pobudzi-rynek-ipo/d4bw712",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "76ef87e49b1c",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/jest-premia-za-ryzyko-rozmawiamy-o-inwestowaniu-w-trudnych-czasach/5d1mq5d",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Jest premia za ryzyko\". Rozmawiamy o inwestowaniu w trudnych czasach",
+    "body_orig": "Geopolityczne wstrząsy mocno wpływają na gospodarkę naszego regionu. Odczuwa to Polska, ale jeszcze bardziej — na przykład Litwa. Jak się rozwijać w tym klimacie? Dyrektor generalny INVL Asset Management, kluczowej grupy inwestycyjnej na Litwie, przyznaje, że jest \"podwyższony koszt ryzyka geopolitycznego\". Ale — jak mówi — jest też druga strona medalu. Na przykład inwestycje związane z obronnością. Coraz większe znaczenie mają też aktywa zamożnych Polaków czy Litwinów.",
+    "published": "2026-11-15T15:55:38",
+    "fetched": "2026-11-15T20:50:31.200812",
+    "title_uk": "Інвестиції в оборонні активи зростають через геополітичні ризики",
+    "summary_uk": "Геополітичні потрясіння впливають на економіку регіону, зокрема Польщі та Литви. Генеральний директор INVL Asset Management зазначає підвищений ризик, але також зростання інвестицій в оборону. Активи заможних поляків і литвинів стають все більш важливими.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання інвестицій в оборонні активи може призвести до збільшення попиту на відповідні товари. Розгляньте можливість співпраці з постачальниками в цій категорії.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростаючий інтерес до оборонних товарів. Можливо, варто адаптувати асортимент для задоволення попиту на цю категорію."
+    },
+    "tags": [
+      "інвестиції",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Інвестиції в оборонні активи зростають через геополітичні ризики",
+    "summary": "Геополітичні потрясіння впливають на економіку регіону, зокрема Польщі та Литви. Генеральний директор INVL Asset Management зазначає підвищений ризик, але також зростання інвестицій в оборону. Активи заможних поляків і литвинів стають все більш важливими.",
+    "link": "https://businessinsider.com.pl/gospodarka/jest-premia-za-ryzyko-rozmawiamy-o-inwestowaniu-w-trudnych-czasach/5d1mq5d",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e3b8ae3bf21d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/gta-vi-rozgrzewa-rynek-eksperci-ostrzegaja-przed-zbyt-duzymi-oczekiwaniami/60yt7wx",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nadchodzi GTA VI. Jak zarobić na tym fenomenie? Dwie firmy na pierwszym planie",
+    "body_orig": "Wielkie wyczekiwanie dobiega końca. 19 listopada, po 13 latach, ukaże się szósta część \"Grand Theft Auto\", w skrócie \"GTA VI\". To może być największa premiera gry wszech czasów. Niemal co trzeci gracz konsolowy i pecetowy w USA chce kupić tę gangsterską przygodę. Jeszcze przed premierą, według firmy analitycznej Sensor Tower, klienci zamówili w przedsprzedaży 7,7 mln egzemplarzy o wartości 751 mln dol.",
+    "published": "2026-11-15T15:16:36",
+    "fetched": "2026-11-15T20:50:31.200819",
+    "title_uk": "GTA VI виходить 19 листопада: попередні замовлення на €750 млн",
+    "summary_uk": "19 листопада відбудеться реліз шостої частини гри 'Grand Theft Auto'. За даними Sensor Tower, вже замовлено 7.7 млн копій на суму €750 млн. Це може стати найбільшою прем'єрою в історії ігор, оскільки третина гравців у США планує її купити.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "GTA VI виходить 19 листопада: попередні замовлення на €750 млн",
+    "summary": "19 листопада відбудеться реліз шостої частини гри 'Grand Theft Auto'. За даними Sensor Tower, вже замовлено 7.7 млн копій на суму €750 млн. Це може стати найбільшою прем'єрою в історії ігор, оскільки третина гравців у США планує її купити.",
+    "link": "https://businessinsider.com.pl/biznes/gta-vi-rozgrzewa-rynek-eksperci-ostrzegaja-przed-zbyt-duzymi-oczekiwaniami/60yt7wx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "efe495b51ccc",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/firmy/szef-asseco-ostrzega-przed-ai-moze-wyrzadzic-ogromne-zlo-ma-rade-dla-polski/s5rdbfk",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Mentor polskiego IT odsłania tajemnice branży wartej miliardy. \"Musimy lepiej edukować ludzi\"",
+    "body_orig": "— Staniemy się wyłącznie dystrybutorami cudzych rozwiązań. Będziemy pracowali dla kogoś innego, bez realnego wpływu na technologię. Uzależnimy się od niej i będziemy zarabiali tylko tyle, ile jej właściciel łaskawie pozwoli nam zarobić — mówi Adam Góral, prezes i założyciel Grupy Asseco, pytany, co się stanie, jeśli polskie firmy nie zdobędą wiedzy, która będzie je wyróżniać.",
+    "published": "2026-11-15T14:40:13",
+    "fetched": "2026-11-15T20:50:31.200827",
+    "title_uk": "Експерт польського IT закликає до кращої освіти в галузі",
+    "summary_uk": "Адам Горал, президент Grupy Asseco, попереджає про ризики для польських IT-компаній, якщо вони не здобудуть унікальні знання. Він вважає, що без цього компанії стануть лише дистриб'юторами чужих технологій, залежними від їхніх власників. Це може призвести до обмеження прибутків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно звернути увагу на освітні програми для підвищення кваліфікації співробітників у сфері IT, щоб залишатися конкурентоспроможними.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Експерт польського IT закликає до кращої освіти в галузі",
+    "summary": "Адам Горал, президент Grupy Asseco, попереджає про ризики для польських IT-компаній, якщо вони не здобудуть унікальні знання. Він вважає, що без цього компанії стануть лише дистриб'юторами чужих технологій, залежними від їхніх власників. Це може призвести до обмеження прибутків.",
+    "link": "https://businessinsider.com.pl/firmy/szef-asseco-ostrzega-przed-ai-moze-wyrzadzic-ogromne-zlo-ma-rade-dla-polski/s5rdbfk",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "93a9bec024e5",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/agentka-sprzedaje-domy-na-wlasny-rachunek-zarobki-zaskakuja/0bcdmh7",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Agentka sprzedaje domy na własny rachunek. Jej zarobki wzrosły kilkukrotnie",
+    "body_orig": "Październik był dobrym miesiącem dla brytyjskiej agentki nieruchomości Nicole Beales. Otrzymała siedem ofert na nieruchomości, które sprzedawała, z czego trzy zostały już zaakceptowane, gdy rozmawiała z \"The Telegraph\". \"Nigdy w życiu nie byłabym w stanie zarobić takich pieniędzy w agencji, bez względu na to, jak wysoką prowizję bym dostawała\" — przyznaje.",
+    "published": "2026-11-15T14:13:15",
+    "fetched": "2026-11-15T20:50:31.200834",
+    "title_uk": "Британська агентка нерухомості збільшила заробітки у кілька разів",
+    "summary_uk": "Агентка нерухомості Ніколь Білс отримала сім пропозицій на продаж, три з яких були прийняті. Вона зазначає, що не могла б заробити такі гроші, працюючи в агентстві. Цей успіх відбувся в жовтні, коли ринок нерухомості демонструє активність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Британська агентка нерухомості збільшила заробітки у кілька разів",
+    "summary": "Агентка нерухомості Ніколь Білс отримала сім пропозицій на продаж, три з яких були прийняті. Вона зазначає, що не могла б заробити такі гроші, працюючи в агентстві. Цей успіх відбувся в жовтні, коли ринок нерухомості демонструє активність.",
+    "link": "https://businessinsider.com.pl/praca/agentka-sprzedaje-domy-na-wlasny-rachunek-zarobki-zaskakuja/0bcdmh7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "298914afa65f",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gospodarka/aleksandra-majda/oszczedzamy-na-rachunkach-polska-firma-mowi-o-przejsciu-na-oze-7351235448072192a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "\"Oszczędzamy na rachunkach\". Polska firma mówi o przejściu na OZE",
+    "body_orig": "Świat rozmawia o zwiększeniu udziału energii elektrycznej w globalnym zużyciu. Biznes, w tym polski, coraz wyraźniej dostrzega w elektryfikacji szansę na niższe koszty i większe bezpieczeństwo. Nasz kraj ma tu jednak sporo do nadrobienia. – Oszczędzamy na rachunkach 35 proc. w skali roku – mówi firma Avionic.",
+    "published": "2026-11-15T13:03:32",
+    "fetched": "2026-11-15T20:50:33.874679",
+    "title_uk": "Польська компанія Avionic економить 35% на рахунках завдяки ОЗЕ",
+    "summary_uk": "Avionic повідомила про перехід на відновлювальні джерела енергії, що дозволяє знизити витрати на 35% на рік. Компанія акцентує увагу на можливостях електрифікації для зменшення витрат і підвищення безпеки. Польща має потенціал для покращення у цій сфері.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Економія на енергетичних витратах може вплинути на ціни товарів. Розгляньте можливість співпраці з постачальниками, які використовують ОЗЕ.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зниження витрат у категоріях, де енергетичні витрати мають значний вплив на собівартість. Перегляньте стратегії закупівель з урахуванням нових тенденцій."
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польська компанія Avionic економить 35% на рахунках завдяки ОЗЕ",
+    "summary": "Avionic повідомила про перехід на відновлювальні джерела енергії, що дозволяє знизити витрати на 35% на рік. Компанія акцентує увагу на можливостях електрифікації для зменшення витрат і підвищення безпеки. Польща має потенціал для покращення у цій сфері.",
+    "link": "https://www.money.pl/gospodarka/aleksandra-majda/oszczedzamy-na-rachunkach-polska-firma-mowi-o-przejsciu-na-oze-7351235448072192a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b0fd08d006b5",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sanayide-karbonsuzlasma-yatirimini-desteklemek/4125972",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Kacır: Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek",
+    "body_orig": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Sanayide Karbonsuzlaşma Yatırım Platformu'na ilişkin, \"Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek.\" ifadesini kullandı.",
+    "published": "2026-11-15T17:34:42",
+    "fetched": "2026-11-15T20:50:47.290066",
+    "title_uk": "Туреччина планує інвестиції у карбонову нейтральність до €5 млрд",
+    "summary_uk": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про плани підтримати інвестиції у карбонову нейтральність в промисловості на суму понад €5 млрд до 2030 року. Це ініціатива спрямована на зменшення викидів вуглецю в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це відкриває можливості для турецьких виробників, які шукають нові ринки в Україні, Польщі та Румунії, оскільки зростання інвестицій у сталий розвиток може підвищити конкурентоспроможність продукції.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Туреччина планує інвестиції у карбонову нейтральність до €5 млрд",
+    "summary": "Міністр промисловості та технологій Туреччини Мехмет Фатіх Качир оголосив про плани підтримати інвестиції у карбонову нейтральність в промисловості на суму понад €5 млрд до 2030 року. Це ініціатива спрямована на зменшення викидів вуглецю в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sanayide-karbonsuzlasma-yatirimini-desteklemek/4125972",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2a5931c82767",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/ureticilere-ekimde-2-milyar-lira-hasar-tazminati-odendi/4125842",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Üreticilere ekimde 2 milyar lira hasar tazminatı ödendi",
+    "body_orig": "Tarım ve Orman Bakanı İbrahim Yumaklı, 1-31 Ekim tarihlerinde, Devlet Destekli Tarım Sigortası kapsamında ödenen 2 milyar lira hasar tazminatıyla üreticinin yanında olduklarını bildirdi.",
+    "published": "2026-11-15T14:09:27",
+    "fetched": "2026-11-15T20:50:47.290087",
+    "title_uk": "Виробники Туреччини отримали €2 млрд компенсації за збитки",
+    "summary_uk": "Міністр сільського господарства Туреччини повідомив про виплату €2 млрд компенсації виробникам за збитки, понесені в жовтні. Виплати здійснені в рамках державної програми страхування сільського господарства. Це підтримка для аграріїв у складний період.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це свідчить про підтримку аграрного сектору в Туреччині, що може позитивно вплинути на стабільність ринку. Виробники можуть розраховувати на державну підтримку у випадку збитків.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Виробники Туреччини отримали €2 млрд компенсації за збитки",
+    "summary": "Міністр сільського господарства Туреччини повідомив про виплату €2 млрд компенсації виробникам за збитки, понесені в жовтні. Виплати здійснені в рамках державної програми страхування сільського господарства. Це підтримка для аграріїв у складний період.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/ureticilere-ekimde-2-milyar-lira-hasar-tazminati-odendi/4125842",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1c0bc9a6e77f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kutahyada-genc-cift-tkdk-destegiyle-hayal-ettikleri-ciftligi-kurdu/4125774",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Kütahya'da genç çift TKDK desteğiyle hayal ettikleri çiftliği kurdu",
+    "body_orig": "Kütahya'nın Hisarcık ilçesinde yaşayan Halil (28) ve Ayşe Nur Özçelik (26) çifti, hayalini kurdukları büyükbaş hayvan çiftliğini, Tarım ve Kırsal Kalkınmayı Destekleme Kurumunun (TKDK) sağladığı destekle kurdu.",
+    "published": "2026-11-15T12:12:57",
+    "fetched": "2026-11-15T20:50:47.290094",
+    "title_uk": "Молоде подружжя в Туреччині відкриває ферму за підтримки держави",
+    "summary_uk": "Халіл та Айше Нур Озчелік з району Хісарчик у Кютахії створили ферму великої рогатої худоби за підтримки Турецького агентства з розвитку сільського господарства (TKDK). Пара реалізувала свою мрію про фермерство завдяки державному фінансуванню, що свідчить про зростаючу підтримку аграрного сектору в Туреччині.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця новина демонструє можливості для турецьких виробників, які хочуть отримати державну підтримку для розвитку агробізнесу. Рекомендується вивчити програми фінансування для розширення бізнесу.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Молоде подружжя в Туреччині відкриває ферму за підтримки держави",
+    "summary": "Халіл та Айше Нур Озчелік з району Хісарчик у Кютахії створили ферму великої рогатої худоби за підтримки Турецького агентства з розвитку сільського господарства (TKDK). Пара реалізувала свою мрію про фермерство завдяки державному фінансуванню, що свідчить про зростаючу підтримку аграрного сектору в Туреччині.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kutahyada-genc-cift-tkdk-destegiyle-hayal-ettikleri-ciftligi-kurdu/4125774",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "79b1cc8fa4a1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/un-lant-romanesc-de-cafenele-a-urcat-pe-locul-4-in-europa-5-to-go-a-pornit-de-la-o-cafenea-de-12-metri-patrati-si-are-acum-peste-800-23282181",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Un lanţ românesc de cafenele a urcat pe locul 4 în Europa. 5 to go a pornit de la o cafenea de 12 metri pătraţi şi are acum peste 800",
+    "body_orig": "",
+    "published": "2026-11-15T14:41:25",
+    "fetched": "2026-11-15T20:50:49.854130",
+    "title_uk": "Мережа кав'ярень 5 to go стала четвертою в Європі",
+    "summary_uk": "Румунська мережа кав'ярень 5 to go зросла з 12 м² до понад 800 локацій. Це дозволило їй зайняти четверте місце в Європі за кількістю кав'ярень. Мережа продовжує розширюватися, демонструючи успішну бізнес-модель.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Мережа кав'ярень 5 to go стала четвертою в Європі",
+    "summary": "Румунська мережа кав'ярень 5 to go зросла з 12 м² до понад 800 локацій. Це дозволило їй зайняти четверте місце в Європі за кількістю кав'ярень. Мережа продовжує розширюватися, демонструючи успішну бізнес-модель.",
+    "link": "https://www.zf.ro/zf-24/un-lant-romanesc-de-cafenele-a-urcat-pe-locul-4-in-europa-5-to-go-a-pornit-de-la-o-cafenea-de-12-metri-patrati-si-are-acum-peste-800-23282181",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5c4f91f65873",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/aproape-un-milion-de-clienti-salt-bank-pot-cumpara-actiuni-la-bursa-direct-din-aplicatie-fara-suma-minima-si-cu-comision-zero-pana-pe-27-noiembrie-23282179",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aproape un milion de clienţi Salt Bank pot cumpăra acţiuni la Bursă direct din aplicaţie, fără sumă minimă şi cu comision zero până pe 27 noiembrie",
+    "body_orig": "",
+    "published": "2026-11-15T14:38:46",
+    "fetched": "2026-11-15T20:50:49.854138",
+    "title_uk": "Клієнти Salt Bank можуть купувати акції без комісій до 27 листопада",
+    "summary_uk": "Salt Bank надає можливість майже мільйону клієнтів купувати акції на біржі через додаток без мінімальної суми та комісій до 27 листопада. Це спрощує доступ до інвестицій для широкого кола користувачів. Відкриття ринку акцій може стимулювати інтерес до фінансових інструментів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Клієнти Salt Bank можуть купувати акції без комісій до 27 листопада",
+    "summary": "Salt Bank надає можливість майже мільйону клієнтів купувати акції на біржі через додаток без мінімальної суми та комісій до 27 листопада. Це спрощує доступ до інвестицій для широкого кола користувачів. Відкриття ринку акцій може стимулювати інтерес до фінансових інструментів.",
+    "link": "https://www.zf.ro/banci-si-asigurari/aproape-un-milion-de-clienti-salt-bank-pot-cumpara-actiuni-la-bursa-direct-din-aplicatie-fara-suma-minima-si-cu-comision-zero-pana-pe-27-noiembrie-23282179",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cf0a1953f229",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/cum-se-fac-croissantele-7-days-si-milka-in-fabrica-de-la-clinceni-lucreaza-peste-800-de-oameni-iar-peste-60-din-productie-ramane-in-romania-23282175",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cum se fac croissantele 7 Days şi Milka. În fabrica de la Clinceni lucrează peste 800 de oameni, iar peste 60% din producţie rămâne în România",
+    "body_orig": "",
+    "published": "2026-11-15T14:37:13",
+    "fetched": "2026-11-15T20:50:49.854145",
+    "title_uk": "Фабрика 7 Days та Milka в Румунії: 800 працівників та 60% продукції на місцевому ринку",
+    "summary_uk": "На фабриці 7 Days та Milka в Клінчени працює понад 800 людей. Більше 60% продукції залишається в Румунії, що підкреслює важливість місцевого ринку для компанії. Це свідчить про стабільний попит на продукцію в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фабрика 7 Days та Milka в Румунії: 800 працівників та 60% продукції на місцевому ринку",
+    "summary": "На фабриці 7 Days та Milka в Клінчени працює понад 800 людей. Більше 60% продукції залишається в Румунії, що підкреслює важливість місцевого ринку для компанії. Це свідчить про стабільний попит на продукцію в країні.",
+    "link": "https://www.zf.ro/companii/cum-se-fac-croissantele-7-days-si-milka-in-fabrica-de-la-clinceni-lucreaza-peste-800-de-oameni-iar-peste-60-din-productie-ramane-in-romania-23282175",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e60f8deebd7a",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/autostrada-ruse-veliko-tarnovo_995650.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "FOTO Autostrada Ruse – Veliko Târnovo: Cine sunt românii care construiesc drumuri la bulgari",
+    "body_orig": "Un constructor român execută lucrări pentru Autostrada Ruse - Veliko Târnovo din Bulgaria, probabil ca subcontractor. Vecinii de la sud de Dunăre au dat startul proiectului care va scurta inclusiv drumul românilor către Grecia.",
+    "published": "2026-11-15T19:51:54",
+    "fetched": "2026-11-15T20:50:54.060919",
+    "title_uk": "Румунський підрядник працює над автострадою в Болгарії",
+    "summary_uk": "Румунська компанія виконує роботи на автостраді Русе - Велико-Тирново в Болгарії. Проект скоротить шлях для румунів до Греції. Роботи виконуються, ймовірно, як субпідрядник.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунський підрядник працює над автострадою в Болгарії",
+    "summary": "Румунська компанія виконує роботи на автостраді Русе - Велико-Тирново в Болгарії. Проект скоротить шлях для румунів до Греції. Роботи виконуються, ймовірно, як субпідрядник.",
+    "link": "https://www.economica.net/autostrada-ruse-veliko-tarnovo_995650.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d06baff4ca4d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/grecii-de-la-jumbo-iau-inapoi-peste-300-de-milioane-lei-din-cat-au-adus-la-capitalul-firmei-lor-din-romania_995092.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grecii de la Jumbo iau înapoi peste 300 de milioane lei din cât au adus la capitalul firmei lor din România",
+    "body_orig": "La 22 iulie 2026, compania-mamă Jumbo societate comercială anonimă din Grecia a decis reducerea capitalului social al subsidiarei sale din România cu peste 359 de milioane de lei, arată o decizie a companiei obţinută de Economica.net.",
+    "published": "2026-11-15T19:50:08",
+    "fetched": "2026-11-15T20:50:54.060927",
+    "title_uk": "Jumbo з Греції зменшує капітал у Румунії на 359 млн леїв",
+    "summary_uk": "Грецька компанія Jumbo зменшила капітал своєї румунської філії на понад 359 млн леїв. Це рішення було ухвалене 22 липня 2026 року. Компанія не уточнила причини такого кроку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Jumbo з Греції зменшує капітал у Румунії на 359 млн леїв",
+    "summary": "Грецька компанія Jumbo зменшила капітал своєї румунської філії на понад 359 млн леїв. Це рішення було ухвалене 22 липня 2026 року. Компанія не уточнила причини такого кроку.",
+    "link": "https://www.economica.net/grecii-de-la-jumbo-iau-inapoi-peste-300-de-milioane-lei-din-cat-au-adus-la-capitalul-firmei-lor-din-romania_995092.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4b00e6e81438",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/grupul-ikea-a-renuntat-la-peste-800-de-oameni-in-acest-an-financiar-procentual-in-romania-a-fost-cea-mai-mare-reducere-de-posturi_995045.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul IKEA a renunțat la peste 800 de oameni în acest an financiar. Procentual, în România a fost cea mai mare reducere de posturi",
+    "body_orig": "Inter IKEA Group, compania responsabilă pentru sistemul de franciză IKEA, dezvoltarea gamei de produse și rețeaua globală de aprovizionare, a renunțat la 11% dintre posturile pe care le avea în România.",
+    "published": "2026-11-15T19:49:53",
+    "fetched": "2026-11-15T20:50:54.060934",
+    "title_uk": "IKEA скоротила 11% працівників в Румунії",
+    "summary_uk": "Inter IKEA Group звільнила 11% своїх працівників у Румунії, що становить понад 800 осіб. Це найбільше скорочення в країні за цей фінансовий рік. Компанія відповідає за франшизу, розвиток продукції та глобальну мережу постачання.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "IKEA скоротила 11% працівників в Румунії",
+    "summary": "Inter IKEA Group звільнила 11% своїх працівників у Румунії, що становить понад 800 осіб. Це найбільше скорочення в країні за цей фінансовий рік. Компанія відповідає за франшизу, розвиток продукції та глобальну мережу постачання.",
+    "link": "https://www.economica.net/grupul-ikea-a-renuntat-la-peste-800-de-oameni-in-acest-an-financiar-procentual-in-romania-a-fost-cea-mai-mare-reducere-de-posturi_995045.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5cf2d978a658",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/vom-avea-nevoie-de-mai-putini-ingineri-in-urmatorii-ani-gyorgy-birtolon-accenture-riscul-ai-este-real-dar-solutia-nu-este-sa-incetinim-adoptia-de-ai_991848.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Vom avea nevoie de mai puțini ingineri în următorii ani? György Birtolon, Accenture: Riscul AI este real, dar soluția nu este să încetinim adopția de AI",
+    "body_orig": "Inteligența artificială va transforma profesia de inginer, preluând activitățile repetitive și permițând specialiștilor să lucreze la proiecte mai complexe, fără ca acest lucru să însemne neapărat reducerea numărului de angajați, consideră György Birtolon, Supply Chain &#038; Engineering Lead în cadrul Accenture România. Într-un interviu pentru Economica.net, acesta a explicat cum va schimba AI activitatea inginerilor, ce riscuri apar pentru tinerii aflați la început de carieră și de ce companiile trebuie să regândească modul în care își pregătesc viitorii specialiști.",
+    "published": "2026-11-15T19:47:31",
+    "fetched": "2026-11-15T20:50:54.060942",
+    "title_uk": "AI змінить професію інженера, але не скоротить робочі місця",
+    "summary_uk": "György Birtolon з Accenture вважає, що штучний інтелект трансформує роботу інженерів, автоматизуючи рутинні завдання. Це дозволить фахівцям зосередитися на складніших проектах. Він підкреслює, що компанії повинні переосмислити підготовку нових спеціалістів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "AI змінить професію інженера, але не скоротить робочі місця",
+    "summary": "György Birtolon з Accenture вважає, що штучний інтелект трансформує роботу інженерів, автоматизуючи рутинні завдання. Це дозволить фахівцям зосередитися на складніших проектах. Він підкреслює, що компанії повинні переосмислити підготовку нових спеціалістів.",
+    "link": "https://www.economica.net/vom-avea-nevoie-de-mai-putini-ingineri-in-urmatorii-ani-gyorgy-birtolon-accenture-riscul-ai-este-real-dar-solutia-nu-este-sa-incetinim-adoptia-de-ai_991848.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "afff01ba0b31",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/recesiune-sau-nu-dupa-cresterea-economica-de-21-in-t3-bancile-au-inceput-sa-vada-diferit-evolutia-romaniei-de-la-revizuiri-de-prognoze-la-stagnari-sau-reduceri-usoare_995146.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Recesiune sau nu? După creșterea economică de 2,1% în T3, băncile au început să vadă diferit evoluția României: de la revizuiri de prognoze la stagnări sau reduceri ușoare",
+    "body_orig": "Creșterea economică a României din trimestrul III dă peste cap prognozele economice ale analiștilor financiari. Unii dintre ei (BCR) au revizuit prognoza de recesiune de la -0,7% cât era inițial la -0,1%, ING este de acord că prognoza sa pare ușor pesimistă acum, dar nu se grăbește să modifice previziunile pe 2026, iar CFA rămâne în expectativă și își menține opinia că economia României va termina anul 2026 cu minus, ușor, dar totuși un minus.",
+    "published": "2026-11-15T19:42:27",
+    "fetched": "2026-11-15T20:50:54.060950",
+    "title_uk": "Румунія зростає на 2% у третьому кварталі, прогнози змінюються",
+    "summary_uk": "Економіка Румунії зросла на 2% у третьому кварталі, що змусило аналітиків переглянути прогнози. BCR знизила прогноз рецесії з -0,7% до -0,1%, тоді як ING поки не планує змінювати свої прогнози на 2026 рік. CFA залишається песимістичним, очікуючи незначне зниження економіки до кінця 2026 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "економіка"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунія зростає на 2% у третьому кварталі, прогнози змінюються",
+    "summary": "Економіка Румунії зросла на 2% у третьому кварталі, що змусило аналітиків переглянути прогнози. BCR знизила прогноз рецесії з -0,7% до -0,1%, тоді як ING поки не планує змінювати свої прогнози на 2026 рік. CFA залишається песимістичним, очікуючи незначне зниження економіки до кінця 2026 року.",
+    "link": "https://www.economica.net/recesiune-sau-nu-dupa-cresterea-economica-de-21-in-t3-bancile-au-inceput-sa-vada-diferit-evolutia-romaniei-de-la-revizuiri-de-prognoze-la-stagnari-sau-reduceri-usoare_995146.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b1f444175d33",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/speedwell-terenuri-fabrici_995582.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "De la fabrici de bocanci și pălării, la imperiu imobiliar: Orașele din România unde Speedwell caută noi platforme industriale",
+    "body_orig": "De la fosta fabrică de pălării PALTIM din Timișoara, de la TINO, cea mai veche fabrică de încălțăminte made în România la Brașov și până fosta uzină Griro din București, marii dezvoltatori imobiliari mizează tot mai mult pe reconversia fostelor platforme industriale. Cu noi proiecte în pregătire, Speedwell apasă pe accelerație și pregătește noi achizții în orașe precum Cluj-Napoca, Sibiu și Iași.",
+    "published": "2026-11-15T19:39:54",
+    "fetched": "2026-11-15T20:50:54.060958",
+    "title_uk": "Speedwell розширює інвестиції в промислову нерухомість Румунії",
+    "summary_uk": "Speedwell планує нові проекти з реконверсії промислових об'єктів в Румунії. Компанія розглядає можливості в містах, таких як Клуж-Напока, Сібіу та Ясси. Серед об'єктів — колишні фабрики взуття та головних уборів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Speedwell розширює інвестиції в промислову нерухомість Румунії",
+    "summary": "Speedwell планує нові проекти з реконверсії промислових об'єктів в Румунії. Компанія розглядає можливості в містах, таких як Клуж-Напока, Сібіу та Ясси. Серед об'єктів — колишні фабрики взуття та головних уборів.",
+    "link": "https://www.economica.net/speedwell-terenuri-fabrici_995582.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2b1e5fc5a368",
+    "source": "Sifted (FT-backed)",
+    "source_url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "Starling founder Anne Boden plots new AI-powered bank",
+    "body_orig": "",
+    "published": "2026-11-15T16:33:09",
+    "fetched": "2026-11-15T20:50:28.265906",
+    "title_uk": "Анне Боден планує новий банк на базі штучного інтелекту",
+    "summary_uk": "Анне Боден, засновниця Starling, анонсувала створення нового банку, що використовуватиме технології штучного інтелекту. Банк має на меті покращити фінансові послуги та підвищити ефективність обслуговування клієнтів. Інвестиції в проект вже залучені, але точна сума не розголошена.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Анне Боден планує новий банк на базі штучного інтелекту",
+    "summary": "Анне Боден, засновниця Starling, анонсувала створення нового банку, що використовуватиме технології штучного інтелекту. Банк має на меті покращити фінансові послуги та підвищити ефективність обслуговування клієнтів. Інвестиції в проект вже залучені, але точна сума не розголошена.",
+    "link": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a2ff69952bf8",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/13/energetika-zalisajetsia-odnim-iz-naiprivablivisix-napriamiv-dlia-investicii-v-ukrayini-doslidzennia-ain/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Енергетика залишається одним із найпривабливіших напрямів для інвестицій в Україні — дослідження AIN",
+    "body_orig": "Бізнес активно вкладає кошти в альтернативну генерацію, системи накопичення енергії та автономні джерела живлення, а додатковим драйвером попиту стає державне фінансування.",
+    "published": "2026-11-15T16:49:00",
+    "fetched": "2026-11-15T20:50:38.380325",
+    "title_uk": "Енергетика — привабливий напрям для інвестицій в Україні",
+    "summary_uk": "Бізнес активно інвестує в альтернативну генерацію та системи накопичення енергії. Державне фінансування підвищує попит на автономні джерела живлення. Це створює нові можливості для інвесторів у секторі енергетики.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Енергетика — привабливий напрям для інвестицій в Україні",
+    "summary": "Бізнес активно інвестує в альтернативну генерацію та системи накопичення енергії. Державне фінансування підвищує попит на автономні джерела живлення. Це створює нові можливості для інвесторів у секторі енергетики.",
+    "link": "https://ain.ua/2026/11/13/energetika-zalisajetsia-odnim-iz-naiprivablivisix-napriamiv-dlia-investicii-v-ukrayini-doslidzennia-ain/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e41f88569560",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/13/jes-ta-ifc-zapuskaiut-programu-na-ponad-eur146-mln-dlia-malogo-i-serednyogo-biznesu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "ЄС та IFC запускають програму на понад €146 млн для малого й середнього бізнесу",
+    "body_orig": "Програма орієнтована на підприємства, які постраждали від війни, бізнеси ветеранів і компанії, що працевлаштовують ветеранів.",
+    "published": "2026-11-15T13:39:56",
+    "fetched": "2026-11-15T20:50:38.380339",
+    "title_uk": "ЄС та IFC запускають програму для малого бізнесу на €146 млн",
+    "summary_uk": "Європейський Союз та Міжнародна фінансова корпорація оголосили про запуск програми на суму понад €146 млн. Вона спрямована на підтримку підприємств, які постраждали від війни, а також бізнесів ветеранів і компаній, що їх працевлаштовують. Програма має на меті відновлення та розвиток малого і середнього бізнесу в Україні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС та IFC запускають програму для малого бізнесу на €146 млн",
+    "summary": "Європейський Союз та Міжнародна фінансова корпорація оголосили про запуск програми на суму понад €146 млн. Вона спрямована на підтримку підприємств, які постраждали від війни, а також бізнесів ветеранів і компаній, що їх працевлаштовують. Програма має на меті відновлення та розвиток малого і середнього бізнесу в Україні.",
+    "link": "https://ain.ua/2026/11/13/jes-ta-ifc-zapuskaiut-programu-na-ponad-eur146-mln-dlia-malogo-i-serednyogo-biznesu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "37bcbe39ce00",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/work-in-it/kozna-dvanadcyata-it-vakansiya-nazivaje-si-instrument-platyat-za-ce-stilki-z-9x1gn3",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Кожна дванадцята IT-вакансія називає ШІ-інструмент. Платять за це стільки ж",
+    "body_orig": "У 543 із 6 692 активних IT-вакансій роботодавець називає серед інструментів щось із ШІ: Claude, Cursor, ChatGPT, Midjourney. Це кожна дванадцята вакансія, і йдеться про звичайні ролі, без інженерів, які самі будують ШІ-системи. Я чекав, що за таку вимогу доплачують. Медіанна пропозиція виявилась однаковою: $2 742 для middle і $5 000 для senior, з ШІ-інструментом у вакансії чи без нього.",
+    "published": "2026-11-15T19:41:00",
+    "fetched": "2026-11-15T20:50:40.158381",
+    "title_uk": "Кожна дванадцята IT-вакансія в Україні вимагає знання ШІ-інструментів",
+    "summary_uk": "У 543 з 6 692 активних IT-вакансій в Україні згадуються ШІ-інструменти, що становить 12%. Медіанна зарплата для middle спеціалістів залишається на рівні $2 742, а для senior — $5 000, незалежно від вимог щодо ШІ. Це свідчить про стабільність ринку праці в IT-секторі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на попит на спеціалістів з навичками роботи з ШІ. Це може вплинути на формування команди та підбір кадрів у IT-проектах."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Кожна дванадцята IT-вакансія в Україні вимагає знання ШІ-інструментів",
+    "summary": "У 543 з 6 692 активних IT-вакансій в Україні згадуються ШІ-інструменти, що становить 12%. Медіанна зарплата для middle спеціалістів залишається на рівні $2 742, а для senior — $5 000, незалежно від вимог щодо ШІ. Це свідчить про стабільність ринку праці в IT-секторі.",
+    "link": "https://speka.ua/work-in-it/kozna-dvanadcyata-it-vakansiya-nazivaje-si-instrument-platyat-za-ce-stilki-z-9x1gn3",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
