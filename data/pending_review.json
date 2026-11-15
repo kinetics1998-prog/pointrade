@@ -502448,5 +502448,802 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "b3f719be0f11",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gielda/surowce/afera-naftowa-w-iraku-premier-usuwa-dziewieciu-urzednikow-po-dochodzeniu/p6hmj3k",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Afera z ropą znikającą z rurociągów. Straty Iraku sięgały milionów dolarów",
+    "body_orig": "Premier Iraku Ali al-Zaidi zdymisjonował dziewięciu urzędników po ujawnieniu wyników dochodzenia dotyczącego przemytu ropy w Dżurf as-Sachr, bastionie wspieranej przez Iran milicji Kataib Hezbollah. Według doniesień Al-Dżaziry nielegalny proceder mógł przynosić nawet 30 mln dol. miesięcznie. Sprawa jest szczególnie dotkliwa dla kraju, którego finanse publiczne w ogromnym stopniu zależą od sprzedaży surowca.",
+    "published": "2026-11-15T11:48:12",
+    "fetched": "2026-11-15T12:05:19.761626",
+    "title_uk": "Ірак звільнив дев'ять чиновників через контрабанду нафти",
+    "summary_uk": "Прем'єр Іраку звільнив дев'ять чиновників після розслідування контрабанди нафти в Джурф ас-Сахр. За оцінками, незаконний бізнес приносив до $30 млн щомісяця. Це серйозно впливає на фінансову стабільність країни, яка залежить від продажу нафти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ірак звільнив дев'ять чиновників через контрабанду нафти",
+    "summary": "Прем'єр Іраку звільнив дев'ять чиновників після розслідування контрабанди нафти в Джурф ас-Сахр. За оцінками, незаконний бізнес приносив до $30 млн щомісяця. Це серйозно впливає на фінансову стабільність країни, яка залежить від продажу нафти.",
+    "link": "https://businessinsider.com.pl/gielda/surowce/afera-naftowa-w-iraku-premier-usuwa-dziewieciu-urzednikow-po-dochodzeniu/p6hmj3k",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fe429c9b59bb",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/czestochowa-moze-wprowadzic-oplate-dla-pielgrzymow-decyzja-jest-w-jego-rekach/4q5bg54",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ważą się losy opłaty pielgrzymkowej. Wiadomo, jaka jest maksymalna stawka",
+    "body_orig": "Częstochowa może od 2027 r. pobierać opłatę miejscową, potocznie nazywaną pielgrzymkową. Maksymalna stawka mogłaby sięgać nawet 5,03 zł od osoby za każdą dobę pobytu. Komisarz miasta Łukasz Pabiś chce jednak poznać stanowisko mieszkańców oraz branży turystycznej, zanim podejmie ostateczną decyzję.",
+    "published": "2026-11-15T10:42:35",
+    "fetched": "2026-11-15T12:05:19.761656",
+    "title_uk": "У Ченстохові можуть ввести плату за проживання для паломників",
+    "summary_uk": "З 2027 року в Ченстохові планують запровадити місцеву плату за проживання, відому як паломницька. Максимальна ставка може становити до 5 zł з особи за добу. Міський комісар хоче дізнатися думку мешканців та туристичної галузі перед ухваленням рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Якщо ви працюєте в туристичному сегменті, слід врахувати можливий вплив нової плати на попит на послуги в Ченстохові.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "У Ченстохові можуть ввести плату за проживання для паломників",
+    "summary": "З 2027 року в Ченстохові планують запровадити місцеву плату за проживання, відому як паломницька. Максимальна ставка може становити до 5 zł з особи за добу. Міський комісар хоче дізнатися думку мешканців та туристичної галузі перед ухваленням рішення.",
+    "link": "https://businessinsider.com.pl/biznes/czestochowa-moze-wprowadzic-oplate-dla-pielgrzymow-decyzja-jest-w-jego-rekach/4q5bg54",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bf1e591d8613",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/koszty-dlugu-publicznego-bija-rekordy-sprawdz-gdzie-trafiaja-odsetki/stdbm4g",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Rekordowe koszty obsługi polskiego długu. Tam trafiają odsetki",
+    "body_orig": "Kombinacja wysokich stóp procentowych, przeceny obligacji skarbowych i wzrostu zadłużenia oznacza, że koszty obsługi długu przebiją w tym roku rekordowe 100 mld zł. Sprawdzamy, dokąd płyną odsetki płacone przez Polskę. Spora część zostaje w kraju.",
+    "published": "2026-11-15T10:07:18",
+    "fetched": "2026-11-15T12:05:19.761666",
+    "title_uk": "Польща витратить рекордні 100 млрд злотих на обслуговування боргу",
+    "summary_uk": "Високі процентні ставки та зростання боргу призведуть до рекордних витрат на обслуговування державного боргу Польщі, які перевищать €22 млрд. Значна частина відсотків залишиться в країні. Це вплине на фінансову стабільність держави.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Необхідно враховувати можливе зростання податків через високі витрати на обслуговування боргу, що може вплинути на ціни товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "податки"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Польща витратить рекордні 100 млрд злотих на обслуговування боргу",
+    "summary": "Високі процентні ставки та зростання боргу призведуть до рекордних витрат на обслуговування державного боргу Польщі, які перевищать €22 млрд. Значна частина відсотків залишиться в країні. Це вплине на фінансову стабільність держави.",
+    "link": "https://businessinsider.com.pl/finanse/koszty-dlugu-publicznego-bija-rekordy-sprawdz-gdzie-trafiaja-odsetki/stdbm4g",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bae20facd5ba",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-singapore-sign-jetco-protocol-to-deepen-economic-ties-229412",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye, Singapore sign JETCO protocol to deepen economic ties",
+    "body_orig": "Türkiye and Singapore signed a Joint Economic and Trade Committee (JETCO) protocol aimed at strengthening bilateral cooperation in trade, investment and other economic sectors.",
+    "published": "2026-11-15T08:47:37",
+    "fetched": "2026-11-15T12:05:41.504591",
+    "title_uk": "Туреччина та Сінгапур підписали протокол JETCO для зміцнення економічних зв'язків",
+    "summary_uk": "Туреччина та Сінгапур підписали протокол Спільного економічного та торгового комітету (JETCO). Документ спрямований на зміцнення співпраці в торгівлі, інвестиціях та інших економічних секторах. Угода відкриває нові можливості для бізнесу обох країн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може створити нові можливості для турецьких виробників, які шукають ринки в Сінгапурі та інших країнах Азії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "deal",
+    "title": "Туреччина та Сінгапур підписали протокол JETCO для зміцнення економічних зв'язків",
+    "summary": "Туреччина та Сінгапур підписали протокол Спільного економічного та торгового комітету (JETCO). Документ спрямований на зміцнення співпраці в торгівлі, інвестиціях та інших економічних секторах. Угода відкриває нові можливості для бізнесу обох країн.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-singapore-sign-jetco-protocol-to-deepen-economic-ties-229412",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "afc4d2010307",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/no-budget-money-used-in-payments-to-affected-fund-investors-vp-yilmaz-229405",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "No budget money used in payments to affected fund investors: VP Yılmaz",
+    "body_orig": "Some 161 billion Turkish Liras have been paid to affected fund investors without using any money from the central government budget, Vice-President Cevdet Yılmaz said.",
+    "published": "2026-11-15T07:56:00",
+    "fetched": "2026-11-15T12:05:41.504614",
+    "title_uk": "Виплати інвесторам фондів в Туреччині не з бюджету",
+    "summary_uk": "Віце-президент Туреччини Чевдет Йилмаз повідомив, що 161 млрд турецьких лір виплачено інвесторам фондів без використання коштів з державного бюджету. Це рішення має на меті підтримати постраждалих інвесторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Виплати інвесторам фондів в Туреччині не з бюджету",
+    "summary": "Віце-президент Туреччини Чевдет Йилмаз повідомив, що 161 млрд турецьких лір виплачено інвесторам фондів без використання коштів з державного бюджету. Це рішення має на меті підтримати постраждалих інвесторів.",
+    "link": "https://www.hurriyetdailynews.com/no-budget-money-used-in-payments-to-affected-fund-investors-vp-yilmaz-229405",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9ae38df1552e",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkish-defense-industry-targets-talent-in-europe-229403",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish defense industry targets talent in Europe",
+    "body_orig": "Türkiye’s Presidency of Defence Industries (SSB) is stepping up efforts to attract Turkish engineers, academics and entrepreneurs based in Europe to the country’s defense industry.",
+    "published": "2026-11-15T07:46:51",
+    "fetched": "2026-11-15T12:05:41.504636",
+    "title_uk": "Туреччина залучає таланти з Європи до оборонної промисловості",
+    "summary_uk": "Президентство оборонних промислів Туреччини активізує зусилля щодо залучення турецьких інженерів, науковців та підприємців з Європи до оборонної галузі країни. Це може підвищити інноваційний потенціал та конкурентоспроможність турецької оборонки.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це може створити нові можливості для співпраці з європейськими фахівцями, що може підвищити якість продукції. Рекомендується слідкувати за змінами в галузі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина залучає таланти з Європи до оборонної промисловості",
+    "summary": "Президентство оборонних промислів Туреччини активізує зусилля щодо залучення турецьких інженерів, науковців та підприємців з Європи до оборонної галузі країни. Це може підвищити інноваційний потенціал та конкурентоспроможність турецької оборонки.",
+    "link": "https://www.hurriyetdailynews.com/turkish-defense-industry-targets-talent-in-europe-229403",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "644bdd1d9d95",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/hybrids-make-gains-in-us-auto-market-amid-high-gasoline-prices-229402",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Hybrids make gains in US auto market amid high gasoline prices",
+    "body_orig": "Electric vehicle growth has hit a speed bump in the United States, but hybrid autos are gaining market share thanks to the jump in fuel prices due to the Iran war.",
+    "published": "2026-11-15T06:36:45",
+    "fetched": "2026-11-15T12:05:41.504646",
+    "title_uk": "Гібридні авто здобувають популярність у США через високі ціни на паливо",
+    "summary_uk": "Продажі електромобілів у США сповільнилися, але гібридні автомобілі нарощують частку ринку. Це пов'язано з підвищенням цін на паливо через війну в Ірані. Зростання попиту на гібриди відзначається на фоні зростання цін на бензин.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання популярності гібридів може відкрити нові можливості для турецьких виробників, які планують експансію на ринки з високими цінами на паливо.",
+      "category_manager": "Зверніть увагу на зростання попиту на гібридні автомобілі. Це може вплинути на асортимент автомобільних товарів у ритейлі."
+    },
+    "tags": [
+      "виробництво",
+      "логістика",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Гібридні авто здобувають популярність у США через високі ціни на паливо",
+    "summary": "Продажі електромобілів у США сповільнилися, але гібридні автомобілі нарощують частку ринку. Це пов'язано з підвищенням цін на паливо через війну в Ірані. Зростання попиту на гібриди відзначається на фоні зростання цін на бензин.",
+    "link": "https://www.hurriyetdailynews.com/hybrids-make-gains-in-us-auto-market-amid-high-gasoline-prices-229402",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e9e86e927e5",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/italy-fines-meta-880-mn-over-photo-privacy-authority-229401",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Italy fines Meta $880 mln over photo privacy: authority",
+    "body_orig": "Italian regulators fined Facebook parent company Meta 805 million euros ($880 million) for accessing users' photos without their \"specific\" consent, the country's data protection authority said on Nov. 14.",
+    "published": "2026-11-15T06:34:00",
+    "fetched": "2026-11-15T12:05:41.504655",
+    "title_uk": "Італія оштрафувала Meta на €805 млн за порушення приватності",
+    "summary_uk": "Італійські регулятори наклали штраф на компанію Meta у розмірі €805 млн за доступ до фотографій користувачів без їхньої конкретної згоди. Це рішення ухвалене 14 листопада. Штраф став одним з найбільших у Європі за порушення правил захисту даних.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Італія оштрафувала Meta на €805 млн за порушення приватності",
+    "summary": "Італійські регулятори наклали штраф на компанію Meta у розмірі €805 млн за доступ до фотографій користувачів без їхньої конкретної згоди. Це рішення ухвалене 14 листопада. Штраф став одним з найбільших у Європі за порушення правил захисту даних.",
+    "link": "https://www.hurriyetdailynews.com/italy-fines-meta-880-mn-over-photo-privacy-authority-229401",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ed4339211f33",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/qnb-leasing-ile-proparcodan-75-milyon-avroluk-surdurulebilir-enerji-anlasmasi/4125664",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "QNB Leasing ile Proparco'dan 75 milyon avroluk sürdürülebilir enerji anlaşması",
+    "body_orig": "QNB Leasing, COP31 kapsamında, Fransız Kalkınma Ajansı (AFD) Grubu bünyesinde faaliyet gösteren Proparco ile Türkiye'deki sürdürülebilir enerji yatırımlarını desteklemek üzere 75 milyon avroluk finansman anlaşması imzaladı.",
+    "published": "2026-11-15T09:42:58",
+    "fetched": "2026-11-15T12:05:45.895843",
+    "title_uk": "QNB Leasing підписав угоду на €75 млн для сталого енергетичного розвитку",
+    "summary_uk": "QNB Leasing уклав фінансову угоду на €75 млн з Proparco для підтримки сталих енергетичних інвестицій у Туреччині. Угода була підписана в рамках COP31. Proparco є частиною Французької агенції розвитку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може відкрити нові можливості для турецьких виробників у сфері сталих технологій, які шукають партнерів в Україні, Польщі чи Румунії.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "QNB Leasing підписав угоду на €75 млн для сталого енергетичного розвитку",
+    "summary": "QNB Leasing уклав фінансову угоду на €75 млн з Proparco для підтримки сталих енергетичних інвестицій у Туреччині. Угода була підписана в рамках COP31. Proparco є частиною Французької агенції розвитку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/qnb-leasing-ile-proparcodan-75-milyon-avroluk-surdurulebilir-enerji-anlasmasi/4125664",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0d57c4138ffd",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/kuresel-lojistik-devi-dp-world-avrupa-korfez-ticaret-hattinda-turk-firmalariyla-isbirligi-hedefliyor/4125574",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Küresel lojistik devi DP World, Avrupa-Körfez ticaret hattında Türk firmalarıyla işbirliği hedefliyor",
+    "body_orig": "DP World'ün Avrupa Sürdürülebilirlik Başkan Yardımcısı Nicholas Mazzei, Avrupa'dan Türkiye, Irak ve Birleşik Arap Emirlikleri'ne uzanan ticaret rotalarına Türk firmalarından iş ortakları aradıklarını söyledi.",
+    "published": "2026-11-15T08:06:11",
+    "fetched": "2026-11-15T12:05:45.895882",
+    "title_uk": "DP World шукає партнерів у Туреччині для торгівлі з Європою",
+    "summary_uk": "DP World планує співпрацю з турецькими компаніями для розвитку торгових маршрутів з Європи до Туреччини, Іраку та ОАЕ. Представник компанії зазначив, що це відкриває нові можливості для бізнесу в регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це можливість для турецьких виробників знайти нових партнерів у Європі. Рекомендується активізувати пошук партнерів для розширення ринків збуту.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "DP World шукає партнерів у Туреччині для торгівлі з Європою",
+    "summary": "DP World планує співпрацю з турецькими компаніями для розвитку торгових маршрутів з Європи до Туреччини, Іраку та ОАЕ. Представник компанії зазначив, що це відкриває нові можливості для бізнесу в регіоні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-lojistik-devi-dp-world-avrupa-korfez-ticaret-hattinda-turk-firmalariyla-isbirligi-hedefliyor/4125574",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a45b4bbba85e",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/h2der-baskani-gunay-hidrojen-sektorunun-gelisimi-icin-duzenleme-ve-tesvike-ihtiyac-oldugunu-belirtti/4125569",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "H2DER Başkanı Günay, hidrojen sektörünün gelişimi için düzenleme ve teşvike ihtiyaç olduğunu belirtti",
+    "body_orig": "Yeşil Hidrojen Üreticileri Derneği (H2DER) Başkanı Yusuf Günay, Türkiye'de yeşil hidrojen yatırımlarının hızlanması için üretimin yanı sıra yatırımcıya güvenilir pazar ve alım garantisi sağlayacak düzenlemelerin oluşturulması gerektiğini belirtti.",
+    "published": "2026-11-15T08:04:22",
+    "fetched": "2026-11-15T12:05:45.895892",
+    "title_uk": "В Туреччині потрібні регуляції для розвитку зеленого водню",
+    "summary_uk": "Президент асоціації H2DER Юсуф Гюнай заявив про необхідність регуляцій для стимулювання інвестицій у зелений водень в Туреччині. Він підкреслив важливість забезпечення надійного ринку та гарантій закупівлі для інвесторів. Це може прискорити розвиток сектора в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Регуляції можуть створити нові можливості для виробників водню в Туреччині. Інвестори можуть отримати більше впевненості у ринку, що може призвести до зростання попиту.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "регуляція",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "В Туреччині потрібні регуляції для розвитку зеленого водню",
+    "summary": "Президент асоціації H2DER Юсуф Гюнай заявив про необхідність регуляцій для стимулювання інвестицій у зелений водень в Туреччині. Він підкреслив важливість забезпечення надійного ринку та гарантій закупівлі для інвесторів. Це може прискорити розвиток сектора в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/h2der-baskani-gunay-hidrojen-sektorunun-gelisimi-icin-duzenleme-ve-tesvike-ihtiyac-oldugunu-belirtti/4125569",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "40abfbbaf9cf",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tse-onaylanmis-laboratuvar-hizmeti-verdigi-ulke-sayisini-2029da-12ye-cikarmayi-hedefliyor/4125608",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TSE \"onaylanmış laboratuvar\" hizmeti verdiği ülke sayısını 2029'da 12'ye çıkarmayı hedefliyor",
+    "body_orig": "Türk Standardları Enstitüsü (TSE), uluslararası alanda sunduğu \"onaylanmış laboratuvar\" hizmetleri kapsamında, 2026 itibarıyla 7 olan hizmet verdiği ülke sayısını 2027'de 10'a, 2028'de 11'e ve 2029'da 12'ye çıkarmayı hedefliyor.",
+    "published": "2026-11-15T08:35:22",
+    "fetched": "2026-11-15T12:05:45.895901",
+    "title_uk": "TSE планує розширити послуги до 12 країн до 2029 року",
+    "summary_uk": "Турецький стандартний інститут (TSE) має намір збільшити кількість країн, де надає послуги 'акредитованих лабораторій', з 7 у 2026 році до 12 у 2029 році. У 2027 році планується досягти 10 країн, у 2028 — 11. Це розширення підкреслює зростаючу роль TSE на міжнародному ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Розширення TSE може створити нові можливості для турецьких виробників, які прагнуть виходу на міжнародні ринки. Важливо слідкувати за змінами в акредитації і сертифікації.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "TSE планує розширити послуги до 12 країн до 2029 року",
+    "summary": "Турецький стандартний інститут (TSE) має намір збільшити кількість країн, де надає послуги 'акредитованих лабораторій', з 7 у 2026 році до 12 у 2029 році. У 2027 році планується досягти 10 країн, у 2028 — 11. Це розширення підкреслює зростаючу роль TSE на міжнародному ринку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tse-onaylanmis-laboratuvar-hizmeti-verdigi-ulke-sayisini-2029da-12ye-cikarmayi-hedefliyor/4125608",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bcd6c1fda848",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-comunicate/comunicate-constructii/business-magazin-ionut-negoita-cel-mare-dezvoltator-estul-capitalei-facut-pana-acum-12-000-locuinte-zi-incercam-fim-fata-joc-ne-adaptam-realitatile-urbanistice-sociale-economice-peste-10-ani-cred-23281902",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Business MAGAZIN. Ionuţ Negoiţă, cel mai mare dezvoltator din estul Capitalei, care a făcut până acum 12.000 de locuinţe: În fiecare zi încercăm să fim cu faţa la joc, să ne adaptăm la realităţile urbanistice, sociale şi economice. Peste 10 ani eu cred că preţul pe metrul pătrat util în Bucureşti în segmentul rezidenţial va fi de 3.500 euro",
+    "body_orig": "",
+    "published": "2026-11-15T10:00:00",
+    "fetched": "2026-11-15T12:05:48.848635",
+    "title_uk": "Девелопер прогнозує зростання цін на житло в Бухаресті",
+    "summary_uk": "Ionuţ Negoiţă, найбільший девелопер у східній частині Бухареста, повідомив про будівництво 12 тисяч житлових одиниць. Він прогнозує, що через 10 років ціна за квадратний метр у сегменті житла досягне €3.5 тисяч. Компанія активно адаптується до змін у міському середовищі та економіці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Девелопер прогнозує зростання цін на житло в Бухаресті",
+    "summary": "Ionuţ Negoiţă, найбільший девелопер у східній частині Бухареста, повідомив про будівництво 12 тисяч житлових одиниць. Він прогнозує, що через 10 років ціна за квадратний метр у сегменті житла досягне €3.5 тисяч. Компанія активно адаптується до змін у міському середовищі та економіці.",
+    "link": "https://www.zf.ro/zf-comunicate/comunicate-constructii/business-magazin-ionut-negoita-cel-mare-dezvoltator-estul-capitalei-facut-pana-acum-12-000-locuinte-zi-incercam-fim-fata-joc-ne-adaptam-realitatile-urbanistice-sociale-economice-peste-10-ani-cred-23281902",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "372b3fb5ee70",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/super-bulgaria-regina-bateriilor-cum-schimba-traseul-de-noapte-balanta-importurilor-si-exporturilor-de-energie-intre-vecinii-de-la-sud-de-dunare-si-grecia_995550.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Super-Bulgaria, regina bateriilor – Cum schimbă „traseul de noapte”  balanţa importurilor și exporturilor de energie între vecinii de la Sud de Dunăre şi Grecia",
+    "body_orig": "Grecia furnizează Bulgariei din ce în ce mai multă energie electrică în timpul zilei, doar pentru a primi înapoi electricitate seara, stocarea energiei în baterii transformând fluxurile transfrontaliere de energie şi ajutând la reducerea fluctuaţiilor de preţ, conform unei analize a Comisiei Europene, informează publicaţia Kathimerini.",
+    "published": "2026-11-15T11:55:48",
+    "fetched": "2026-11-15T12:05:53.303469",
+    "title_uk": "Болгарія отримує електрику від Греції вдень, повертає ввечері",
+    "summary_uk": "Греція постачає Болгарії все більше електроенергії вдень, щоб отримати її назад ввечері. Це змінює потоки електроенергії між країнами та допомагає знизити коливання цін. Аналіз Єврокомісії підкреслює роль батарей у зберіганні енергії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "експорт",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Болгарія отримує електрику від Греції вдень, повертає ввечері",
+    "summary": "Греція постачає Болгарії все більше електроенергії вдень, щоб отримати її назад ввечері. Це змінює потоки електроенергії між країнами та допомагає знизити коливання цін. Аналіз Єврокомісії підкреслює роль батарей у зберіганні енергії.",
+    "link": "https://www.economica.net/super-bulgaria-regina-bateriilor-cum-schimba-traseul-de-noapte-balanta-importurilor-si-exporturilor-de-energie-intre-vecinii-de-la-sud-de-dunare-si-grecia_995550.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bd3d914815df",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cate-firme-au-fost-radiate-in-primele-noua-luni-din-2026-in-romania-si-care-este-topul-judetelor-date-onrc_995546.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Câte firme au fost radiate în primele nouă luni din 2026 în România şi care este topul judeţelor – date ONRC",
+    "body_orig": "Un număr de 61.181 de firme au fost radiate la nivel naţional, în primele nouă luni din 2026, cu 2,2% mai puţine faţă de perioada similară din anul anterior, conform statisticilor Oficiului Naţional al Registrului Comerţului (ONRC).",
+    "published": "2026-11-15T11:05:23",
+    "fetched": "2026-11-15T12:05:53.303486",
+    "title_uk": "У Румунії за дев'ять місяців 2026 року закрили 61 тисячу компаній",
+    "summary_uk": "Протягом перших дев'яти місяців 2026 року в Румунії було закрито 61.181 компаній, що на 2% менше, ніж у аналогічний період 2025 року. Ці дані надає Національний офіс реєстрації торгівлі (ONRC). Зниження кількості закриттів може свідчити про стабілізацію бізнес-середовища.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "У Румунії за дев'ять місяців 2026 року закрили 61 тисячу компаній",
+    "summary": "Протягом перших дев'яти місяців 2026 року в Румунії було закрито 61.181 компаній, що на 2% менше, ніж у аналогічний період 2025 року. Ці дані надає Національний офіс реєстрації торгівлі (ONRC). Зниження кількості закриттів може свідчити про стабілізацію бізнес-середовища.",
+    "link": "https://www.economica.net/cate-firme-au-fost-radiate-in-primele-noua-luni-din-2026-in-romania-si-care-este-topul-judetelor-date-onrc_995546.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f1dbe9536f25",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/record-pentru-posta-romana-cele-mai-mari-venituri-brute-si-profit-brut-din-istorie-din-istoria-recenta-in-primele-zece-luni-din-2026_995513.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Record pentru Poşta Română – Cele mai mari venituri brute şi profit brut din istorie din istoria recentă, în primele zece luni din 2026",
+    "body_orig": "Compania Naţională Poşta Română a înregistrat, în primele zece luni ale acestui an, un profit brut record de 117 milioane de lei, semnificativ peste nivelul din 2024, când a raportat cel mai mare venit brut din istoria sa recentă, de 85 de milioane de lei, a anunţat operatorul naţional de servicii poştale, într-un comunicat.",
+    "published": "2026-11-15T08:53:50",
+    "fetched": "2026-11-15T12:05:53.303549",
+    "title_uk": "Poşta Română досягла рекордного прибутку за 10 місяців 2026 року",
+    "summary_uk": "Національний оператор поштових послуг Poşta Română повідомив про рекордний прибуток у 117 млн леїв за перші десять місяців 2026 року. Це значно перевищує попередній рекорд 2024 року, коли прибуток становив 85 млн леїв. Компанія продовжує демонструвати зростання фінансових показників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Poşta Română досягла рекордного прибутку за 10 місяців 2026 року",
+    "summary": "Національний оператор поштових послуг Poşta Română повідомив про рекордний прибуток у 117 млн леїв за перші десять місяців 2026 року. Це значно перевищує попередній рекорд 2024 року, коли прибуток становив 85 млн леїв. Компанія продовжує демонструвати зростання фінансових показників.",
+    "link": "https://www.economica.net/record-pentru-posta-romana-cele-mai-mari-venituri-brute-si-profit-brut-din-istorie-din-istoria-recenta-in-primele-zece-luni-din-2026_995513.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c180f16dccfa",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/zakon-pro-sproshhennya-pdv-uxvaleno-shho-zminitsya-dlya-platnikiv-9q468k",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Закон про спрощення ПДВ ухвалено: що зміниться для платників?",
+    "body_orig": "Верховна Рада України днями прийняла проєкт Закону №16037 «Про спрощення ПДВ». Тепер ми маємо об'єднання податкових накладних для регулярних та безперервних поставок, можливість вибору звітного періоду для ФОП, зареєстрованих платниками ПДВ, та підвищення порогу для документальної перевірки повернення ПДВ до 1 мільйона гривень. Залишилося лише дочекатися підписання закону президентом. SPEKA поспілкувалася з податковою консультанткою Київського центру підтримки бізнесу та розвитку Олександрою Томашевською та дізналася, чи спростить це роботу підприємців?",
+    "published": "2026-11-15T11:34:00",
+    "fetched": "2026-11-15T12:05:39.505509",
+    "title_uk": "Закон про спрощення ПДВ ухвалено: зміни для платників",
+    "summary_uk": "Верховна Рада України ухвалила законопроєкт №16037, що спрощує ПДВ. Передбачено об'єднання податкових накладних для регулярних поставок, вибір звітного періоду для ФОП та підвищення порогу для перевірки повернення ПДВ до 1 млн гривень. Закон очікує підписання президента.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зміни можуть спростити облік ПДВ для категорійних менеджерів, що працюють з ФОП, але загалом не впливають на стратегії управління полицями."
+    },
+    "tags": [
+      "регуляція",
+      "податки"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Закон про спрощення ПДВ ухвалено: зміни для платників",
+    "summary": "Верховна Рада України ухвалила законопроєкт №16037, що спрощує ПДВ. Передбачено об'єднання податкових накладних для регулярних поставок, вибір звітного періоду для ФОП та підвищення порогу для перевірки повернення ПДВ до 1 млн гривень. Закон очікує підписання президента.",
+    "link": "https://speka.ua/news/zakon-pro-sproshhennya-pdv-uxvaleno-shho-zminitsya-dlya-platnikiv-9q468k",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2da021aaa5db",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/omnikanalnii-marketing-v-e-commerce-yak-objednati-vsi-kanali-komunikaciyi-navkolo-pokupcya-9380kx",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Омніканальний маркетинг в e-commerce: як об'єднати всі канали комунікації навколо покупця",
+    "body_orig": "Сучасний покупець рідко взаємодіє з брендом лише через один канал. Він може вперше побачити товар у рекламі Instagram, перейти на сайт, порівняти пропозиції в Google, прочитати відгуки, поставити запитання в месенджері, а оформити замовлення вже через кілька днів. Після покупки він може отримати email із підтвердженням, повідомлення про доставку та персональну пропозицію на наступне замовлення.",
+    "published": "2026-11-15T11:30:00",
+    "fetched": "2026-11-15T12:05:39.505528",
+    "title_uk": "Омніканальний маркетинг в e-commerce: об'єднання каналів комунікації",
+    "summary_uk": "Сучасні покупці взаємодіють з брендами через кілька каналів, таких як Instagram, Google та месенджери. Це вимагає від компаній інтеграції всіх комунікаційних каналів для покращення досвіду покупців. Важливо враховувати, що покупка може відбуватися через різні етапи, включаючи отримання підтвердження замовлення через email.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Інтеграція омніканального маркетингу може покращити взаємодію з покупцями та підвищити ефективність промо-акцій. Розгляньте можливість впровадження таких стратегій у своїй категорії."
+    },
+    "tags": [
+      "ритейл",
+      "трейд-маркетинг"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Омніканальний маркетинг в e-commerce: об'єднання каналів комунікації",
+    "summary": "Сучасні покупці взаємодіють з брендами через кілька каналів, таких як Instagram, Google та месенджери. Це вимагає від компаній інтеграції всіх комунікаційних каналів для покращення досвіду покупців. Важливо враховувати, що покупка може відбуватися через різні етапи, включаючи отримання підтвердження замовлення через email.",
+    "link": "https://speka.ua/business/omnikanalnii-marketing-v-e-commerce-yak-objednati-vsi-kanali-komunikaciyi-navkolo-pokupcya-9380kx",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2812a54ccbda",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/novi-pravila-dlya-bankiv-z-2027-roku-cogo-cekati-p6w6nw",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Нові правила для банків з 2027 року: чого чекати?",
+    "body_orig": "Національний банк змінив інструкцію про\nпорядок регулювання діяльності банків в Україні. Мінімальний розмір\nрегулятивного капіталу банку зросте з 200 до 250 млн гривень. Відповідну постанову Правління\nНБУ від 13.10.2026 № 121 офіційно опубліковано 14 жовтня. Паралельно регулятор\nпом'якшує окремі вимоги до оцінювання кредитних ризиків для підприємств\nстратегічних галузей.",
+    "published": "2026-11-15T07:05:00",
+    "fetched": "2026-11-15T12:05:39.505564",
+    "title_uk": "Зростання мінімального капіталу банків в Україні з 2027 року",
+    "summary_uk": "Національний банк України підвищив мінімальний розмір регулятивного капіталу банків з 200 до 250 млн гривень. Постанова набирає чинності з 2027 року. Одночасно пом'якшуються вимоги до оцінювання кредитних ризиків для стратегічних галузей.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Зростання мінімального капіталу банків в Україні з 2027 року",
+    "summary": "Національний банк України підвищив мінімальний розмір регулятивного капіталу банків з 200 до 250 млн гривень. Постанова набирає чинності з 2027 року. Одночасно пом'якшуються вимоги до оцінювання кредитних ризиків для стратегічних галузей.",
+    "link": "https://speka.ua/news/novi-pravila-dlya-bankiv-z-2027-roku-cogo-cekati-p6w6nw",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3772c09335f5",
+    "source": "RAU (Retail Association UA)",
+    "source_url": "https://rau.ua/news/investytciyi-1-mln-iak-ukrayintci-vidkryly-lanas-cafe-v-ostini-ssha/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "distribution",
+    "title_orig": "Інвестиції – $1 млн: як українці відкрили Lana’s Cafe в Остіні (США)",
+    "body_orig": "Відкрити ресторан у США без досвіду роботи на місцевому ринку може здатися майже нездійсненним завданням. Як українці відкрили Lana’s Cafe в Остіні на 200 кв. м з борщем, бургерами та сирниками, витративши 2 роки на пошуки приміщення та вклавши $1 млн.\nВласники Лана й Максим та керівник будівельних…",
+    "published": "2026-11-15T06:00:08",
+    "fetched": "2026-11-15T12:05:59.912144",
+    "title_uk": "Українці відкрили Lana’s Cafe в Остіні за $1 млн",
+    "summary_uk": "В Остіні відкрили ресторан Lana’s Cafe площею 200 кв. м, витративши $1 млн. Власники Лана й Максим провели 2 роки на пошуки приміщення. Меню включає борщ, бургери та сирники.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "HoReCa",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Українці відкрили Lana’s Cafe в Остіні за $1 млн",
+    "summary": "В Остіні відкрили ресторан Lana’s Cafe площею 200 кв. м, витративши $1 млн. Власники Лана й Максим провели 2 роки на пошуки приміщення. Меню включає борщ, бургери та сирники.",
+    "link": "https://rau.ua/news/investytciyi-1-mln-iak-ukrayintci-vidkryly-lanas-cafe-v-ostini-ssha/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
