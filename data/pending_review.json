@@ -523602,5 +523602,1156 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "58060f25d36f",
+    "source": "Politico Europe",
+    "source_url": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Costa cuts proposed EU budget by €44B",
+    "body_orig": "Brussels plans a tax on Big Tech to raise billions for the next budget cycle.",
+    "published": "2026-11-21T10:44:05",
+    "fetched": "2026-11-21T12:51:30.667396",
+    "title_uk": "Коста зменшує запропонований бюджет ЄС на €44 млрд",
+    "summary_uk": "Європейська комісія планує зменшити бюджет на наступний цикл на €44 млрд. Для покриття витрат планується ввести податок на великі технологічні компанії. Це рішення вплине на фінансування різних програм ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Коста зменшує запропонований бюджет ЄС на €44 млрд",
+    "summary": "Європейська комісія планує зменшити бюджет на наступний цикл на €44 млрд. Для покриття витрат планується ввести податок на великі технологічні компанії. Це рішення вплине на фінансування різних програм ЄС.",
+    "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e34d72b81e61",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalsza-wyprzedaz-S-P-500-i-DJI-w-strefie-korekty-9232919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Na Wall Street dalsza wyprzedaż. S&P 500 i DJI w strefie korekty",
+    "body_orig": "Piątkowa sesja na Wall Street przyniosła kolejne, mocne spadki głównych indeksów, zamykając trudny tydzień dla rynków. Oferta publiczna firmy Anthropic skłoniła inwestorów do realizacji zysków po hossie napędzanej sztuczną inteligencją. S&amp;P 500 i DJIA weszły w fazę korekty.",
+    "published": "2026-11-20T22:58:00",
+    "fetched": "2026-11-21T12:51:31.836316",
+    "title_uk": "На Уолл-стріт триває падіння, S&P 500 і DJIA в стадії корекції",
+    "summary_uk": "На Уолл-стріт відбулися значні падіння основних індексів. Після IPO компанії Anthropic інвестори почали фіксувати прибутки. S&P 500 і DJIA потрапили в зону корекції.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "На Уолл-стріт триває падіння, S&P 500 і DJIA в стадії корекції",
+    "summary": "На Уолл-стріт відбулися значні падіння основних індексів. Після IPO компанії Anthropic інвестори почали фіксувати прибутки. S&P 500 і DJIA потрапили в зону корекції.",
+    "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-dalsza-wyprzedaz-S-P-500-i-DJI-w-strefie-korekty-9232919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "bb4f92356000",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Koniec-wieloletniej-batalii-Bayera-Sad-zatwierdzil-ugode-na-7-25-mld-dolarow-9232926.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koniec wieloletniej batalii Bayera? Sąd zatwierdził ugodę na 7,25 mld dolarów",
+    "body_orig": "Niemiecki koncern farmaceutyczny, chemiczny i rolniczy Bayer wypłaci 7,25 mld dolarów w ramach ugody kończącej wieloletnie  spory sądowe o środek chwastobójczy Roundup.",
+    "published": "2026-11-21T08:00:00",
+    "fetched": "2026-11-21T12:51:31.836324",
+    "title_uk": "Bayer виплатить $7.25 млрд за угодою щодо Roundup",
+    "summary_uk": "Німецька компанія Bayer погодилася виплатити $7.25 млрд для завершення судових спорів, пов'язаних із пестицидом Roundup. Ця угода закриває багаторічні судові процеси, які стосувалися шкоди, завданої здоров'ю людей. Bayer сподівається, що це дозволить зосередитися на інших аспектах бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Bayer виплатить $7.25 млрд за угодою щодо Roundup",
+    "summary": "Німецька компанія Bayer погодилася виплатити $7.25 млрд для завершення судових спорів, пов'язаних із пестицидом Roundup. Ця угода закриває багаторічні судові процеси, які стосувалися шкоди, завданої здоров'ю людей. Bayer сподівається, що це дозволить зосередитися на інших аспектах бізнесу.",
+    "link": "https://www.bankier.pl/wiadomosc/Koniec-wieloletniej-batalii-Bayera-Sad-zatwierdzil-ugode-na-7-25-mld-dolarow-9232926.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6b60d816ff34",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/dlaczego-zloto-traci-na-wartosci-eksperci-wskazuja-kluczowe-powody/215079h",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Ceny złota zanurkowały. To druga taka przecena w ostatnim ćwierćwieczu",
+    "body_orig": "Umacniający się dolar, wysokie rentowności amerykańskich obligacji skarbowych i oczekiwania na podwyżki stóp procentowych uderzają w ceny złota. Eksperci wskazują poziomy, do których mogą dotrzeć notowania w pozytywnym i negatywnym scenariuszu.",
+    "published": "2026-11-21T10:09:46",
+    "fetched": "2026-11-21T12:51:33.286569",
+    "title_uk": "Ціни на золото впали через зміцнення долара та ставки",
+    "summary_uk": "Ціни на золото знизилися через зміцнення долара та високі прибутковості американських облігацій. Експерти прогнозують можливі рівні цін у позитивному та негативному сценаріях. Це вже друга така знижка за останні 25 років.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на золото впали через зміцнення долара та ставки",
+    "summary": "Ціни на золото знизилися через зміцнення долара та високі прибутковості американських облігацій. Експерти прогнозують можливі рівні цін у позитивному та негативному сценаріях. Це вже друга така знижка за останні 25 років.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/dlaczego-zloto-traci-na-wartosci-eksperci-wskazuja-kluczowe-powody/215079h",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3f300c31d996",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/bitcoin-zaliczyl-rekordowy-spadek-to-najnizszy-poziom-od-dwoch-lat/hs9p0w8",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Koniec z bezpiecznymi inwestycjami w bitcoina? Rekordowy spadek kursu",
+    "body_orig": "Kurs bitcoina — najważniejszej kryptowaluty na świecie pod względem wartości rynkowej — spadł w piątek do najniższego poziomu od dwóch lat — informuje Reuters. Powodem są m.in. rosnące obawy o opłacalność inwestycji w sztuczną inteligencję, które wytrąciły z równowagi inwestorów.",
+    "published": "2026-11-21T09:58:21",
+    "fetched": "2026-11-21T12:51:33.286575",
+    "title_uk": "Курс біткоїна впав до найнижчого рівня за два роки",
+    "summary_uk": "Курс біткоїна знизився до найнижчого рівня за два роки через зростаючі побоювання щодо інвестицій у штучний інтелект. Інвестори почали переосмислювати свої стратегії, що призвело до рекордного падіння. Це може вплинути на ринок криптовалют у найближчому майбутньому.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Курс біткоїна впав до найнижчого рівня за два роки",
+    "summary": "Курс біткоїна знизився до найнижчого рівня за два роки через зростаючі побоювання щодо інвестицій у штучний інтелект. Інвестори почали переосмислювати свої стратегії, що призвело до рекордного падіння. Це може вплинути на ринок криптовалют у найближчому майбутньому.",
+    "link": "https://businessinsider.com.pl/gospodarka/bitcoin-zaliczyl-rekordowy-spadek-to-najnizszy-poziom-od-dwoch-lat/hs9p0w8",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e24740b9080e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/finanse/handel/jest-nowy-raport-o-cenach-w-polskich-sklepach-te-produkty-zdrozaly-najbardziej/zpbqqv6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Drożeją słodycze i chemia gospodarcza. Eksperci wyjaśniają powody podwyżek",
+    "body_orig": "W październiku w polskich sklepach widać duże zróżnicowanie dynamiki cen — część produktów wyraźnie podrożała, z kolei w innych grupach widać spadki. Tak wynika z raportu UCE Research i Uniwersytetu WSB Merito. Liderem podwyżek, podobnie jak w poprzednim miesiącu, wciąż są słodycze.",
+    "published": "2026-11-21T09:30:33",
+    "fetched": "2026-11-21T12:51:33.286580",
+    "title_uk": "В Польщі зростають ціни на солодощі та побутову хімію",
+    "summary_uk": "У жовтні в польських магазинах спостерігається різниця в динаміці цін. Солодощі залишаються лідерами за підвищенням цін, як і в попередньому місяці. Згідно з дослідженням UCE Research та університету WSB Merito, частина товарів подорожчала, в той час як інші групи демонструють зниження цін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Польські дистриб'ютори FMCG повинні враховувати підвищення цін на солодощі при плануванні закупівель. Це може вплинути на маржинальність товарів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання цін на солодощі може вплинути на стратегії управління полицею. Рекомендується переглянути асортимент та ціноутворення в категорії солодощів."
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Польщі зростають ціни на солодощі та побутову хімію",
+    "summary": "У жовтні в польських магазинах спостерігається різниця в динаміці цін. Солодощі залишаються лідерами за підвищенням цін, як і в попередньому місяці. Згідно з дослідженням UCE Research та університету WSB Merito, частина товарів подорожчала, в той час як інші групи демонструють зниження цін.",
+    "link": "https://businessinsider.com.pl/finanse/handel/jest-nowy-raport-o-cenach-w-polskich-sklepach-te-produkty-zdrozaly-najbardziej/zpbqqv6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "89f0a8095103",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gielda/czerwony-tydzien-na-gieldzie-wall-street-traci-najmocniej-od-pandemii-7353333428803616a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Czerwony tydzień na giełdzie. Wall Street traci najmocniej od pandemii",
+    "body_orig": "Piątek zakończył najgorszy od czasu pandemii koronawirusa tydzień na Wall Street. Spadki szczególnie mocno dotknęły producentów półprzewodników oraz spółki związane ze sztuczną inteligencją. Inwestorzy obawiają się, że kończy się trwająca od czterech lat hossa napędzana rozwojem AI.",
+    "published": "2026-11-21T08:22:54",
+    "fetched": "2026-11-21T12:51:35.403769",
+    "title_uk": "Спад на Wall Street — найгірший тиждень з початку пандемії",
+    "summary_uk": "Тиждень завершився найбільшими втратами на Wall Street з початку пандемії. Виробники напівпровідників і компанії, пов'язані зі штучним інтелектом, зазнали найбільших збитків. Інвестори стурбовані закінченням чотирирічного зростання, що було зумовлене розвитком AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Спад на Wall Street — найгірший тиждень з початку пандемії",
+    "summary": "Тиждень завершився найбільшими втратами на Wall Street з початку пандемії. Виробники напівпровідників і компанії, пов'язані зі штучним інтелектом, зазнали найбільших збитків. Інвестори стурбовані закінченням чотирирічного зростання, що було зумовлене розвитком AI.",
+    "link": "https://www.money.pl/gielda/czerwony-tydzien-na-gieldzie-wall-street-traci-najmocniej-od-pandemii-7353333428803616a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "33a8256db41a",
+    "source": "Економічна Правда",
+    "source_url": "https://epravda.com.ua/biznes/deficit-vagoniv-obmezhuye-perevalku-zerna-na-zahidnomu-kordoni-agroeksporteri-827896/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "general",
+    "title_orig": "Дефіцит вагонів обмежує перевалку зерна на західному кордоні – агроекспортери",
+    "body_orig": "Нестача вагонів європейської колії обмежує експортні можливості зернових терміналів на західному кордоні України.",
+    "published": "2026-11-21T12:32:00",
+    "fetched": "2026-11-21T12:51:38.645595",
+    "title_uk": "Дефіцит вагонів обмежує експорт зерна з України",
+    "summary_uk": "Агроекспортери повідомляють про нестачу вагонів європейської колії, що ускладнює перевалку зерна на західному кордоні України. Це обмежує експортні можливості зернових терміналів. Відсутність вагонів може призвести до зниження обсягів експорту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Нестача вагонів може вплинути на доступність зернових продуктів у ритейлі. Рекомендується переглянути запаси та планування закупівель."
+    },
+    "tags": [
+      "логістика",
+      "експорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Дефіцит вагонів обмежує експорт зерна з України",
+    "summary": "Агроекспортери повідомляють про нестачу вагонів європейської колії, що ускладнює перевалку зерна на західному кордоні України. Це обмежує експортні можливості зернових терміналів. Відсутність вагонів може призвести до зниження обсягів експорту.",
+    "link": "https://epravda.com.ua/biznes/deficit-vagoniv-obmezhuye-perevalku-zerna-na-zahidnomu-kordoni-agroeksporteri-827896/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "62c97cc3dbf4",
+    "source": "Liga.Бізнес",
+    "source_url": "https://biz.liga.net/other-industries/news/es-zapretil-eksport-plastikovyh-othodov-v-strany-ne-vhodyashtie-v-oesr-chto-eto-znachit-dlya-ukrainy",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "general",
+    "title_orig": "ЕС запретил экспорт пластиковых отходов в страны, не входящие в ОЭСР: что это значит для Украины",
+    "body_orig": "Запрет, введенный с 21 ноября, будет действовать не менее 2,5 лет",
+    "published": "2026-11-21T11:59:22",
+    "fetched": "2026-11-21T12:51:42.291100",
+    "title_uk": "ЄС заборонив експорт пластикових відходів в країни поза ОЕСР",
+    "summary_uk": "З 21 листопада 2026 року ЄС забороняє експорт пластикових відходів до країн, які не є членами ОЕСР. Заборона триватиме не менше 2,5 років. Це рішення вплине на ринок вторинних сировин та екологічну ситуацію в регіоні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "ЄС заборонив експорт пластикових відходів в країни поза ОЕСР",
+    "summary": "З 21 листопада 2026 року ЄС забороняє експорт пластикових відходів до країн, які не є членами ОЕСР. Заборона триватиме не менше 2,5 років. Це рішення вплине на ринок вторинних сировин та екологічну ситуацію в регіоні.",
+    "link": "https://biz.liga.net/other-industries/news/es-zapretil-eksport-plastikovyh-othodov-v-strany-ne-vhodyashtie-v-oesr-chto-eto-znachit-dlya-ukrainy",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5807503811f2",
+    "source": "Liga.Бізнес",
+    "source_url": "https://biz.liga.net/transport/news/avtostrada-poluchila-rekordnuyu-partiyu-mashin-dlya-zimnego-soderzhaniya-dorog",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "general",
+    "title_orig": "Автострада получила рекордную партию машин для зимнего содержания дорог – фото",
+    "body_orig": "Группа компаний \"Будшляхмаш\" передала крупнейшей дорожно-инфраструктурной компании технику на шасси JAC N350",
+    "published": "2026-11-21T07:51:08",
+    "fetched": "2026-11-21T12:51:42.291128",
+    "title_uk": "Будшляхмаш передав техніку для зимового утримання доріг",
+    "summary_uk": "Група компаній 'Будшляхмаш' передала техніку на шасси JAC N350 найбільшій дорожно-інфраструктурній компанії. Це найбільша партія машин для зимового утримання доріг в Україні. Техніка допоможе покращити стан доріг у зимовий період.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Будшляхмаш передав техніку для зимового утримання доріг",
+    "summary": "Група компаній 'Будшляхмаш' передала техніку на шасси JAC N350 найбільшій дорожно-інфраструктурній компанії. Це найбільша партія машин для зимового утримання доріг в Україні. Техніка допоможе покращити стан доріг у зимовий період.",
+    "link": "https://biz.liga.net/transport/news/avtostrada-poluchila-rekordnuyu-partiyu-mashin-dlya-zimnego-soderzhaniya-dorog",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "90355221d716",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-blocks-1-95-bln-lira-share-transfer-in-fund-probe-229678",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye blocks 1.95 bln lira share transfer in fund probe",
+    "body_orig": "Türkiye’s financial crimes watchdog has blocked a transfer of shares worth 1.95 billion Turkish Liras involving London-based brokerage Gildencrest Capital, Istanbul prosecutors said on Nov. 21.",
+    "published": "2026-11-21T12:38:04",
+    "fetched": "2026-11-21T12:51:43.577774",
+    "title_uk": "Туреччина блокує передачу акцій на 1.95 млрд лір у справі про шахрайство",
+    "summary_uk": "Фінансовий нагляд Туреччини заборонив передачу акцій на суму 1.95 млрд лір, пов'язану з лондонською брокерською компанією Gildencrest Capital. Це рішення ухвалено прокуратурою Стамбула 21 листопада. Справу розслідують у зв'язку з фінансовими злочинами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина блокує передачу акцій на 1.95 млрд лір у справі про шахрайство",
+    "summary": "Фінансовий нагляд Туреччини заборонив передачу акцій на суму 1.95 млрд лір, пов'язану з лондонською брокерською компанією Gildencrest Capital. Це рішення ухвалено прокуратурою Стамбула 21 листопада. Справу розслідують у зв'язку з фінансовими злочинами.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-blocks-1-95-bln-lira-share-transfer-in-fund-probe-229678",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b0bfab90dccc",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/simsek-pledges-to-sustain-gains-in-external-balance-229673",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Şimşek pledges to sustain gains in external balance",
+    "body_orig": "Treasury and Finance Minister Mehmet Şimşek said on Nov. 20 that Türkiye’s gross external debt was expected to equal 31.1 percent of GDP for the third quarter, well below the long-term average of 44.5 percent.",
+    "published": "2026-11-21T07:52:29",
+    "fetched": "2026-11-21T12:51:43.577787",
+    "title_uk": "Туреччина знижує зовнішній борг до 31.1% ВВП",
+    "summary_uk": "Міністр фінансів Туреччини Мехмет Шимшек заявив, що валовий зовнішній борг країни очікується на рівні 31.1% ВВП за третій квартал. Це значно нижче довгострокового середнього показника у 44.5%. Зниження боргового навантаження може позитивно вплинути на економічну стабільність.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зниження зовнішнього боргу може свідчити про покращення економічної ситуації в Туреччині, що може бути позитивним сигналом для виробників, які планують експансію на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "валюта"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина знижує зовнішній борг до 31.1% ВВП",
+    "summary": "Міністр фінансів Туреччини Мехмет Шимшек заявив, що валовий зовнішній борг країни очікується на рівні 31.1% ВВП за третій квартал. Це значно нижче довгострокового середнього показника у 44.5%. Зниження боргового навантаження може позитивно вплинути на економічну стабільність.",
+    "link": "https://www.hurriyetdailynews.com/simsek-pledges-to-sustain-gains-in-external-balance-229673",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "efbf560b4c22",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/turkiye/turkish-defense-firm-dasal-delivers-sumru-surveillance-drone/4132950",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Turkish defense firm Dasal delivers ‘Sumru’ surveillance drone",
+    "body_orig": "Lightweight drone needs no runway, can be set up in 7 minutes and can stay airborne for up to 2.5 hours",
+    "published": "2026-11-21T12:38:11",
+    "fetched": "2026-11-21T12:51:45.712193",
+    "title_uk": "Турецька компанія Dasal представила дрон спостереження 'Sumru'",
+    "summary_uk": "Компанія Dasal випустила легкий дрон 'Sumru', який не потребує злітної смуги. Дрон може бути встановлений за 7 хвилин і залишатися в повітрі до 2.5 годин. Це нововведення може знайти застосування в різних сферах, зокрема в безпеці.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це відкриває нові можливості для турецьких виробників, які шукають ринки для дронів. Можливість швидкого розгортання може бути конкурентною перевагою.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Турецька компанія Dasal представила дрон спостереження 'Sumru'",
+    "summary": "Компанія Dasal випустила легкий дрон 'Sumru', який не потребує злітної смуги. Дрон може бути встановлений за 7 хвилин і залишатися в повітрі до 2.5 годин. Це нововведення може знайти застосування в різних сферах, зокрема в безпеці.",
+    "link": "https://www.aa.com.tr/en/turkiye/turkish-defense-firm-dasal-delivers-sumru-surveillance-drone/4132950",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5e3c01b3caff",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Fed ve yapay zeka kaynaklı satış dalgası değerli metalleri vurdu",
+    "body_orig": "Değerli metaller, ABD Merkez Bankasının (Fed) para politikalarında sıkılaşmayı hızlandırabileceği endişeleri ve dolardaki güçlenmenin etkisiyle haftalık bazda son 34 haftanın en sert değer kaybını yaşadı.",
+    "published": "2026-11-21T10:50:32",
+    "fetched": "2026-11-21T12:51:46.781533",
+    "title_uk": "Ціни на дорогоцінні метали знизилися через політику ФРС",
+    "summary_uk": "Дорогоцінні метали зазнали найбільшого тижневого падіння за 34 тижні через побоювання щодо посилення монетарної політики ФРС та зміцнення долара. Це викликало значний тиск на ринок, впливаючи на ціни на золото та срібло.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін на дорогоцінні метали може вплинути на категорії товарів, що містять ці метали. Розгляньте коригування цін на відповідні SKU."
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ціни на дорогоцінні метали знизилися через політику ФРС",
+    "summary": "Дорогоцінні метали зазнали найбільшого тижневого падіння за 34 тижні через побоювання щодо посилення монетарної політики ФРС та зміцнення долара. Це викликало значний тиск на ринок, впливаючи на ціни на золото та срібло.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/fed-ve-yapay-zeka-kaynakli-satis-dalgasi-degerli-metalleri-vurdu/4132852",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9bbf3860ba5c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bursayi-yuksek-hizli-tren-agina-baglayacak-projede-test-calismalari-basladi/4132773",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bursa'yı yüksek hızlı tren ağına bağlayacak projede test çalışmaları başladı",
+    "body_orig": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Bandırma–Bursa–Yenişehir–Osmaneli Hızlı Tren Projesi'nde Bursa'yı hızlı tren ağına bağlayacak Osmaneli–Bursa kesiminde altyapı ve üstyapı çalışmalarını tamamladıklarını belirtti.",
+    "published": "2026-11-21T08:38:09",
+    "fetched": "2026-11-21T12:51:46.781540",
+    "title_uk": "Розпочато тестування швидкісного потяга до Бурси",
+    "summary_uk": "Міністр транспорту Туреччини Абдулкадір Уралоґлу оголосив про завершення робіт на ділянці Османелі–Бурса швидкісного потяга. Проект з'єднає Бурсу з мережею швидкісних потягів. Тестування розпочато в рамках проекту Bandırma–Bursa–Yenişehir–Osmaneli.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Проект може поліпшити логістику в регіоні, що позитивно вплине на постачання товарів. Рекомендується стежити за розвитком інфраструктури.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Розпочато тестування швидкісного потяга до Бурси",
+    "summary": "Міністр транспорту Туреччини Абдулкадір Уралоґлу оголосив про завершення робіт на ділянці Османелі–Бурса швидкісного потяга. Проект з'єднає Бурсу з мережею швидкісних потягів. Тестування розпочато в рамках проекту Bandırma–Bursa–Yenişehir–Osmaneli.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bursayi-yuksek-hizli-tren-agina-baglayacak-projede-test-calismalari-basladi/4132773",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "672d54cad9f7",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhandan-sigorta-prim-tesvikine-iliskin-paylasim/4132775",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Bakan Işıkhan'dan \"sigorta prim teşviki\"ne ilişkin paylaşım",
+    "body_orig": "Çalışma ve Sosyal Güvenlik Bakanı Işıkhan, 15 farklı sigorta primi teşviki, destek ve indirimleriyle kayıtlı istihdamı güçlendirdiklerini belirterek, bu yılın ocak-ağustos ayları arasında 301,3 milyar liradan fazla teşvik sağladıklarını bildirdi.",
+    "published": "2026-11-21T08:39:02",
+    "fetched": "2026-11-21T12:51:46.781552",
+    "title_uk": "Туреччина запровадила 15 нових стимулів для страхових внесків",
+    "summary_uk": "Міністр праці та соціального забезпечення Туреччини Ішикхан повідомив про 15 нових стимулів для страхових внесків, які зміцнюють зареєстровану зайнятість. У період з січня по серпень цього року було надано понад 301 млрд лір стимулів. Це ініціатива спрямована на підтримку ринку праці в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зміцнення зареєстрованої зайнятості може призвести до збільшення споживчого попиту в Туреччині. Виробники, які планують вихід на ринок, можуть розраховувати на зростання попиту на свої товари.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Туреччина запровадила 15 нових стимулів для страхових внесків",
+    "summary": "Міністр праці та соціального забезпечення Туреччини Ішикхан повідомив про 15 нових стимулів для страхових внесків, які зміцнюють зареєстровану зайнятість. У період з січня по серпень цього року було надано понад 301 млрд лір стимулів. Це ініціатива спрямована на підтримку ринку праці в країні.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhandan-sigorta-prim-tesvikine-iliskin-paylasim/4132775",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "baa8d34a54e1",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/gida-kayiplarini-azaltacak-nanolif-kaplama-cop31de-tanitildi/4132740",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Gıda kayıplarını azaltacak nanolif kaplama COP31'de tanıtıldı",
+    "body_orig": "Van Yüzüncü Yıl Üniversitesinde (YYÜ) gıdaların raf ömrünün uzatılması ve gıda kayıplarının azaltılması amacıyla doğal biyoaktif bileşenler içeren biyobozunur nanolif kaplama geliştirildi.",
+    "published": "2026-11-21T08:10:50",
+    "fetched": "2026-11-21T12:51:46.781558",
+    "title_uk": "В університеті Туреччини розробили біопокриття для продуктів",
+    "summary_uk": "Університет Ван Юзюнджі Йіл розробив біопокриття з натуральними бioактивними компонентами для продовження терміну зберігання продуктів. Технологія спрямована на зменшення втрат їжі. Вона має потенціал для використання в харчовій промисловості.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Ця технологія може стати конкурентною перевагою для турецьких виробників, які експортують продукти в UA/PL/RO, зменшуючи втрати під час транспортування.",
+      "category_manager": "Впровадження таких технологій може підвищити термін зберігання товарів на полицях, що позитивно вплине на KPI продажів у категоріях свіжих продуктів."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "В університеті Туреччини розробили біопокриття для продуктів",
+    "summary": "Університет Ван Юзюнджі Йіл розробив біопокриття з натуральними бioактивними компонентами для продовження терміну зберігання продуктів. Технологія спрямована на зменшення втрат їжі. Вона має потенціал для використання в харчовій промисловості.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/gida-kayiplarini-azaltacak-nanolif-kaplama-cop31de-tanitildi/4132740",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "dbe09cab91ff",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-10-aylik-makine-ihracati-23-7-milyar-dolarla-rekor-kirdi/4132758",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye'nin 10 aylık makine ihracatı 23,7 milyar dolarla rekor kırdı",
+    "body_orig": "Türkiye'nin makine ihracatı, yılın 10 ayında 2025'in aynı dönemine göre yüzde 0,8 artışla 23,7 milyar dolara ulaşarak rekor kırdı.",
+    "published": "2026-11-21T08:16:22",
+    "fetched": "2026-11-21T12:51:46.781568",
+    "title_uk": "Туреччина встановила рекорд з експорту машин за 10 місяців",
+    "summary_uk": "Експорт машин з Туреччини за 10 місяців 2026 року досяг €23.7 млрд, що на 1% більше, ніж за аналогічний період 2025 року. Це новий рекорд для країни. Основні ринки збуту залишаються в Європі та Азії.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Це свідчить про зростаючий попит на турецькі машини, що може відкрити нові можливості для виробників, які планують вихід на іноземні ринки.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина встановила рекорд з експорту машин за 10 місяців",
+    "summary": "Експорт машин з Туреччини за 10 місяців 2026 року досяг €23.7 млрд, що на 1% більше, ніж за аналогічний період 2025 року. Це новий рекорд для країни. Основні ринки збуту залишаються в Європі та Азії.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-10-aylik-makine-ihracati-23-7-milyar-dolarla-rekor-kirdi/4132758",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "31ea15858006",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/industria-face-inca-un-pas-inapoi-cu-minus-6-in-septembrie-si-minus-3-7-pe-primele-noua-luni-an-an-industria-poate-ajunge-in-2026-la-sub-16-ca-pondere-in-pib-23283216",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Industria face încă un pas înapoi. Cu minus 6% în septembrie şi minus 3,7% pe primele nouă luni, an/an, industria poate ajunge în 2026 la sub 16% ca pondere în PIB",
+    "body_orig": "Potrivit datelor INS, în septembrie, producţia industrială a fost mai mică faţă de septembrie 2025 cu 6%, în vreme ce pe primele nouă luni a scăzut cu 3,7%, an/an.",
+    "published": "2026-11-21T11:49:00",
+    "fetched": "2026-11-21T12:51:48.833571",
+    "title_uk": "Румунська промисловість скорочується: -6% у вересні",
+    "summary_uk": "У вересні 2026 року промислове виробництво в Румунії знизилось на 6% в порівнянні з вереснем 2025 року. За перші дев'ять місяців падіння склало 3,7%. Прогнозується, що до 2026 року частка промисловості в ВВП може зменшитися до менш ніж 16%.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румунська промисловість скорочується: -6% у вересні",
+    "summary": "У вересні 2026 року промислове виробництво в Румунії знизилось на 6% в порівнянні з вереснем 2025 року. За перші дев'ять місяців падіння склало 3,7%. Прогнозується, що до 2026 року частка промисловості в ВВП може зменшитися до менш ніж 16%.",
+    "link": "https://www.zf.ro/eveniment/industria-face-inca-un-pas-inapoi-cu-minus-6-in-septembrie-si-minus-3-7-pe-primele-noua-luni-an-an-industria-poate-ajunge-in-2026-la-sub-16-ca-pondere-in-pib-23283216",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4f23b29fc530",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-24/din-decembrie-se-deschide-tunelul-momaia-de-pe-a1-cu-cat-se-scurteaza-drumul-pitesti-sibiu-dupa-deschiderea-sectiunii-tigveni-curtea-de-arges-a-a1-23284189",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Din decembrie se deschide tunelul Momaia de pe A1: Cu cât se scurtează drumul Piteşti – Sibiu după deschiderea secţiunii Tigveni – Curtea de Argeş a A1",
+    "body_orig": "",
+    "published": "2026-11-21T10:34:00",
+    "fetched": "2026-11-21T12:51:48.833592",
+    "title_uk": "Відкриття тунелю Момаїя скоротить шлях Пітешт – Сібіу",
+    "summary_uk": "З грудня 2026 року відкриється тунель Момаїя на автомагістралі A1. Це дозволить скоротити час у дорозі між Пітештом і Сібіу на 30 хвилин. Відкриття нової секції між Тигвені та Куртеа-де-Арджеш також покращить транспортну інфраструктуру регіону.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Відкриття тунелю Момаїя скоротить шлях Пітешт – Сібіу",
+    "summary": "З грудня 2026 року відкриється тунель Момаїя на автомагістралі A1. Це дозволить скоротити час у дорозі між Пітештом і Сібіу на 30 хвилин. Відкриття нової секції між Тигвені та Куртеа-де-Арджеш також покращить транспортну інфраструктуру регіону.",
+    "link": "https://www.zf.ro/zf-24/din-decembrie-se-deschide-tunelul-momaia-de-pe-a1-cu-cat-se-scurteaza-drumul-pitesti-sibiu-dupa-deschiderea-sectiunii-tigveni-curtea-de-arges-a-a1-23284189",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f49fc0e4098f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/signal-restrictioneaza-posibilitatea-de-a-face-capturi-de-ecran-pentru-a-impiedica-agentii-ai-sa-citeasca-conversatiile-private_997923.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Signal restricţionează posibilitatea de a face capturi de ecran pentru a împiedica agenţii AI să citească conversaţiile private",
+    "body_orig": "Serviciul de mesagerie criptată Signal a anunţat vineri că va restricţiona posibilitatea de a face capturi de ecran pentru a împiedica agenţii de inteligenţă artificială (AI) să citească conversaţiile private de pe telefoane, avertizând că eforturile industriei tehnologice de a integra AI în dispozitivele utilizatorilor îi afectează capacitatea de a garanta confidenţialitatea, relatează Reuters, transmite News.ro.",
+    "published": "2026-11-21T12:46:16",
+    "fetched": "2026-11-21T12:51:51.761162",
+    "title_uk": "Signal обмежує можливість скріншотів для захисту конфіденційності",
+    "summary_uk": "Signal оголосив про обмеження на знімки екрана, щоб запобігти доступу AI до приватних розмов. Це рішення пов'язане з побоюваннями щодо конфіденційності в умовах інтеграції AI в технології. Компанія підкреслює, що це необхідний крок для захисту даних користувачів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Signal обмежує можливість скріншотів для захисту конфіденційності",
+    "summary": "Signal оголосив про обмеження на знімки екрана, щоб запобігти доступу AI до приватних розмов. Це рішення пов'язане з побоюваннями щодо конфіденційності в умовах інтеграції AI в технології. Компанія підкреслює, що це необхідний крок для захисту даних користувачів.",
+    "link": "https://www.economica.net/signal-restrictioneaza-posibilitatea-de-a-face-capturi-de-ecran-pentru-a-impiedica-agentii-ai-sa-citeasca-conversatiile-private_997923.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ecc71472ed0f",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/resto-constanta-nibiru-si-beach-please-au-adus-un-impact-major-asupra-reconfigurarii-produsului-turistic-litoral-romania-astfel-de-evenimente-cu-impact-international-pot-atrage-turistii-strain_997915.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "RESTO Constanţa: NIBIRU şi „Beach, Please!” au adus un impact major asupra reconfigurării produsului turistic Litoral România. Astfel de evenimente cu impact internațional pot atrage turiștii străini",
+    "body_orig": "Evenimentele de anvergură internaţională sunt unul dintre motivele pentru care turiştii străini pot alege litoralul românesc, iar turiştii atraşi de aceste evenimente nu sunt doar participanţi la festivaluri, ci pot deveni vizitatori ai întregii regiuni, consumatori de servicii turistice şi ambasadori ai destinaţiei România, susţine Asociaţia Patronală RESTO Constanţa, transmite Agerpres.",
+    "published": "2026-11-21T11:28:55",
+    "fetched": "2026-11-21T12:51:51.761189",
+    "title_uk": "Міжнародні події на румунському узбережжі приваблюють туристів",
+    "summary_uk": "Події, такі як NIBIRU та „Beach, Please!”, сприяють залученню іноземних туристів до румунського узбережжя. Вони не лише беруть участь у фестивалях, а й стають споживачами туристичних послуг у регіоні. Це підкреслює важливість міжнародних заходів для розвитку туристичної інфраструктури Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Міжнародні події на румунському узбережжі приваблюють туристів",
+    "summary": "Події, такі як NIBIRU та „Beach, Please!”, сприяють залученню іноземних туристів до румунського узбережжя. Вони не лише беруть участь у фестивалях, а й стають споживачами туристичних послуг у регіоні. Це підкреслює важливість міжнародних заходів для розвитку туристичної інфраструктури Румунії.",
+    "link": "https://www.economica.net/resto-constanta-nibiru-si-beach-please-au-adus-un-impact-major-asupra-reconfigurarii-produsului-turistic-litoral-romania-astfel-de-evenimente-cu-impact-international-pot-atrage-turistii-strain_997915.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c75ae274fe85",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cristian-barhalescu-anat-nivelul-real-al-voucherelor-de-vacanta-ar-trebui-sa-fie-de-2-500-de-lei_997908.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cristian Bărhălescu (ANAT): Nivelul real al voucherelor de vacanță ar trebui să fie de 2.500 de lei",
+    "body_orig": "Nivelul real al voucherelor de vacanţă ar trebui să fie la 2.500 de lei, sumă care reprezintă media pachetului turistic pe care îl achiziţionează românii prin agenţiile de turism, consideră Cristian Bărhălescu, preşedintele Asociaţiei Naţionale a Agenţiilor de Turism din România (ANAT).",
+    "published": "2026-11-21T11:09:42",
+    "fetched": "2026-11-21T12:51:51.761202",
+    "title_uk": "Вартість ваучерів на відпочинок в Румунії має зрости до 2.500 леїв",
+    "summary_uk": "Крістіан Баргалеаску, президент ANAT, вважає, що реальний рівень ваучерів на відпочинок має становити 2.500 леїв. Ця сума відповідає середній вартості туристичного пакету, який купують румуни через туристичні агентства. Зростання вартості ваучерів може позитивно вплинути на туристичний сектор.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Підвищення вартості ваучерів може стимулювати попит на туристичні послуги. Розгляньте можливість адаптації пропозицій для румунського ринку."
+    },
+    "tags": [
+      "туризм",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Вартість ваучерів на відпочинок в Румунії має зрости до 2.500 леїв",
+    "summary": "Крістіан Баргалеаску, президент ANAT, вважає, що реальний рівень ваучерів на відпочинок має становити 2.500 леїв. Ця сума відповідає середній вартості туристичного пакету, який купують румуни через туристичні агентства. Зростання вартості ваучерів може позитивно вплинути на туристичний сектор.",
+    "link": "https://www.economica.net/cristian-barhalescu-anat-nivelul-real-al-voucherelor-de-vacanta-ar-trebui-sa-fie-de-2-500-de-lei_997908.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fac9349c5c6c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/directorul-adjunct-al-fmi-din-europa-anunt-pentru-toti-romanii-cu-credite-trebuie-sa-fie-pregatiti-de-cresterea-dobanzilor_997904.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Directorul adjunct al FMI din Europa, anunț pentru toți românii cu credite: Trebuie să fie pregătiți de creșterea dobânzilor",
+    "body_orig": "”Urgența absolută este reducerea deficitului bugetar” al României, a declarat Helge Berger, directorul adjunct al Departamentului European al FMI.",
+    "published": "2026-11-21T10:24:20",
+    "fetched": "2026-11-21T12:51:51.761208",
+    "title_uk": "Фонд МВФ попереджає румунів про підвищення ставок за кредитами",
+    "summary_uk": "Helge Berger, заступник директора Європейського департаменту МВФ, закликав Румунію терміново зменшити бюджетний дефіцит. Він зазначив, що зростання відсоткових ставок може вплинути на боргові зобов'язання громадян. Важливою є стабільність фінансової системи країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фонд МВФ попереджає румунів про підвищення ставок за кредитами",
+    "summary": "Helge Berger, заступник директора Європейського департаменту МВФ, закликав Румунію терміново зменшити бюджетний дефіцит. Він зазначив, що зростання відсоткових ставок може вплинути на боргові зобов'язання громадян. Важливою є стабільність фінансової системи країни.",
+    "link": "https://www.economica.net/directorul-adjunct-al-fmi-din-europa-anunt-pentru-toti-romanii-cu-credite-trebuie-sa-fie-pregatiti-de-cresterea-dobanzilor_997904.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "033618c56c4e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cartoful-dulce-arahidele-si-fasolea-africana-ar-putea-deveni-culturi-obisnuite-pentru-fermierii-romani-cercetatorii-au-ajuns-la-randamente-de-70-de-tone-la-hectar997729_997729.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cartoful dulce, arahidele și „fasolea africană” ar putea deveni culturi obișnuite pentru fermierii români. Cercetătorii au ajuns la randamente de 70 de tone la hectar",
+    "body_orig": "Cercetătorii Universității de Științe Agricole și Medicină Veterinară (USAMV) Cluj-Napoca au testat, începând din ianuarie 2025, în ce măsură cartoful dulce, arahidele și fasolița, o fasole originară din Africa, se pot cultiva pe arii extinse în România. S-au obținut experimental și 70 de tone de cartofi dulci la hectar, față de o medie de 17 tone la hectar cât au recoltat fermierii care au cultivat cartof obișnuit.",
+    "published": "2026-11-21T10:08:49",
+    "fetched": "2026-11-21T12:51:51.761214",
+    "title_uk": "В Румунії тестують нові культури: картоплю солодку та арахіс",
+    "summary_uk": "Дослідники з USAMV Cluj-Napoca вивчають можливість вирощування картоплі солодкої, арахісу та африканської фасолі в Румунії. Експериментальні врожаї досягли 70 тонн на гектар для картоплі солодкої, що значно перевищує середні показники звичайного картоплі в 17 тонн на гектар.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Тестування нових культур може вплинути на асортимент в ритейлі. Варто слідкувати за розвитком цієї теми для можливих нових продуктів на полицях."
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "В Румунії тестують нові культури: картоплю солодку та арахіс",
+    "summary": "Дослідники з USAMV Cluj-Napoca вивчають можливість вирощування картоплі солодкої, арахісу та африканської фасолі в Румунії. Експериментальні врожаї досягли 70 тонн на гектар для картоплі солодкої, що значно перевищує середні показники звичайного картоплі в 17 тонн на гектар.",
+    "link": "https://www.economica.net/cartoful-dulce-arahidele-si-fasolea-africana-ar-putea-deveni-culturi-obisnuite-pentru-fermierii-romani-cercetatorii-au-ajuns-la-randamente-de-70-de-tone-la-hectar997729_997729.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9772acf2f8a7",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/exclusive/south-koreas-k-culture-data-space-seeks-european-partners-to-protect-creative-rights-in-the-ai-era-303505",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "South Korea’s K-Culture Data Space seeks European partners to protect creative rights in the AI era",
+    "body_orig": "At the Gaia-X Summit 2026 in Vienna, Cheol-Ho Shin, CEO of OGQ Corp., presented a Korean cultural and media data space model designed to address two growing challenges in artificial intelligence: the misrepresentation of cultural heritage and the difficulty creators face tracking how their work is used, licensed and monetised. What happens when an AI [&#8230;]\nThe post South Korea&#8217;s K-Culture Data Space seeks European partners to protect creative rights in the AI era appeared first on Business Review.",
+    "published": "2026-11-21T07:08:15",
+    "fetched": "2026-11-21T12:51:53.759639",
+    "title_uk": "Південна Корея шукає європейських партнерів для захисту прав творчості",
+    "summary_uk": "На саміті Gaia-X у Відні CEO OGQ Corp. Чеол-Хо Шин представив модель корейського культурного та медійного простору даних. Мета — вирішення проблеми спотворення культурної спадщини та відстеження використання творів у епоху штучного інтелекту. Партнерство з європейськими країнами має на меті захист прав авторів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Південна Корея шукає європейських партнерів для захисту прав творчості",
+    "summary": "На саміті Gaia-X у Відні CEO OGQ Corp. Чеол-Хо Шин представив модель корейського культурного та медійного простору даних. Мета — вирішення проблеми спотворення культурної спадщини та відстеження використання творів у епоху штучного інтелекту. Партнерство з європейськими країнами має на меті захист прав авторів.",
+    "link": "https://business-review.eu/exclusive/south-koreas-k-culture-data-space-seeks-european-partners-to-protect-creative-rights-in-the-ai-era-303505",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b7983a142669",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/20/vitorg-lenovo-u-drugomu-kvartali-siagnuv-rekordnix-302-mlrd-a-doxid-vid-si-vperse-perevishhiv-10-mlrd/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Загальний дохід Lenovo у другому кварталі сягнув рекордних $30,2 млрд, а дохід від ШІ вперше перевищив $10 млрд",
+    "body_orig": "Lenovo відзвітувала про рекордний другий квартал фінансового року: загальний дохід компанії зріс на 48% — до $30,2 млрд, а чистий прибуток підскочив на 166% — до $1,4 млрд. Понад третину всіх надходжень ($10 млрд) компанії вперше принесли продукти та сервіси у сфері штучного інтелекту",
+    "published": "2026-11-21T12:01:00",
+    "fetched": "2026-11-21T12:51:39.417272",
+    "title_uk": "Дохід Lenovo у Q2 зріс до $30,2 млрд, ШІ приніс $10 млрд",
+    "summary_uk": "Lenovo оголосила про рекордний дохід у другому кварталі — $30,2 млрд, що на 48% більше, ніж минулого року. Чистий прибуток зріс на 166% до $1,4 млрд. Вперше дохід від продуктів і сервісів у сфері штучного інтелекту перевищив $10 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Дохід Lenovo у Q2 зріс до $30,2 млрд, ШІ приніс $10 млрд",
+    "summary": "Lenovo оголосила про рекордний дохід у другому кварталі — $30,2 млрд, що на 48% більше, ніж минулого року. Чистий прибуток зріс на 166% до $1,4 млрд. Вперше дохід від продуктів і сервісів у сфері штучного інтелекту перевищив $10 млрд.",
+    "link": "https://ain.ua/2026/11/20/vitorg-lenovo-u-drugomu-kvartali-siagnuv-rekordnix-302-mlrd-a-doxid-vid-si-vperse-perevishhiv-10-mlrd/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "19845f62b15f",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/20/shhe-6-ukrayinskix-droniv-na-zaminu-mavic-proisli-viprobuvannia-comu-yix-vazlivo-zrobiti-vzajemozaminnimi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Не допустити «зоопарку» несумісних аналогів Mavic: ще 6 виробників пройшли випробування, але зразки невзаємозамінні, розповіли у Brave1",
+    "body_orig": "Шість із девʼяти виробників успішно завершили випробування та перейшли до кодифікації. Нові зразки на заміну Mavic будуть приблизно в ціновому сегменті своїх китайських аналогів. Скільки аналогів Mavic уже розробили українці та чи потрібні вони всі — у матеріалі.",
+    "published": "2026-11-21T09:45:00",
+    "fetched": "2026-11-21T12:51:39.417288",
+    "title_uk": "Шість виробників успішно пройшли випробування аналогів Mavic",
+    "summary_uk": "Шість з дев'яти виробників завершили випробування та перейшли до кодифікації нових зразків, які замінять Mavic. Ці продукти будуть в ціновому сегменті китайських аналогів. Матеріал також розглядає потребу в розробці всіх аналогів Mavic.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця новина може бути цікавою для турецьких виробників, які шукають можливості на ринку дронів в Україні, але без конкретних деталей про ринок важко оцінити вплив.",
+      "category_manager": "Це може вплинути на категорійних менеджерів, які працюють з технологічними продуктами, оскільки нові аналоги можуть змінити конкурентне середовище на полицях."
+    },
+    "tags": [
+      "виробництво",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Шість виробників успішно пройшли випробування аналогів Mavic",
+    "summary": "Шість з дев'яти виробників завершили випробування та перейшли до кодифікації нових зразків, які замінять Mavic. Ці продукти будуть в ціновому сегменті китайських аналогів. Матеріал також розглядає потребу в розробці всіх аналогів Mavic.",
+    "link": "https://ain.ua/2026/11/20/shhe-6-ukrayinskix-droniv-na-zaminu-mavic-proisli-viprobuvannia-comu-yix-vazlivo-zrobiti-vzajemozaminnimi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d984baad1353",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/andrii-cumacenko-tix-xto-dilitsya-lyublyat-super-board-2026-pjze71",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Андрій Чумаченко: «Тих, хто ділиться, люблять. А тих, хто не ділиться, просто не помічають»",
+    "body_orig": "Понад 120 заявок, 59 фіналістів і шість номінацій – так виглядав Super Board 2026 у цифрах. За ними стоять години, які журі провело над анкетами українських C-level. Один із суддів – Андрій Чумаченко, співзасновник Netpeak і CEO агенції BASE. Він шукав у кандидатах не гучні посади, а сигнали: чи видно людину в професійних медіа, чи стоїть за нею сильна команда і чи готова вона брати відповідальність.",
+    "published": "2026-11-21T05:00:00",
+    "fetched": "2026-11-21T12:51:41.331875",
+    "title_uk": "Андрій Чумаченко про важливість відповідальності у бізнесі",
+    "summary_uk": "На конкурсі Super Board 2026 було подано понад 120 заявок, з яких 59 стали фіналістами. Суддя Андрій Чумаченко акцентує увагу на важливості професійної репутації та команди кандидатів. Він шукає не лише посади, а й готовність до відповідальності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Андрій Чумаченко про важливість відповідальності у бізнесі",
+    "summary": "На конкурсі Super Board 2026 було подано понад 120 заявок, з яких 59 стали фіналістами. Суддя Андрій Чумаченко акцентує увагу на важливості професійної репутації та команди кандидатів. Він шукає не лише посади, а й готовність до відповідальності.",
+    "link": "https://speka.ua/business/andrii-cumacenko-tix-xto-dilitsya-lyublyat-super-board-2026-pjze71",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
