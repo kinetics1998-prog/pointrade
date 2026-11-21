@@ -524753,5 +524753,646 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "18b313dbabae",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Strach-i-niepewnosc-na-Wall-Street-Co-dalej-z-Nvidia-dokad-zmierza-inflacja-9233028.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Strach i niepewność na Wall Street. Co dalej z Nvidią, dokąd zmierza inflacja?",
+    "body_orig": "Na Wall Street nie milkną dyskusje wokół Nvidii oraz spadających notowań innych firm związanych ze sztuczną inteligencją. Część ekspertów zastanawia się nad wyceną akcji producenta chipów, inni krytykują pochopne decyzje rady dyrektorów po odejściu Jensena Huanga. W tym samym czasie bankierzy centralni i analitycy ostrzegają przed nową falą inflacji napędzaną polityką monetarną oraz zjawiskiem El Niño.",
+    "published": "2026-11-21T19:00:00",
+    "fetched": "2026-11-21T21:27:42.690871",
+    "title_uk": "Невизначеність на Wall Street через Nvidia та інфляцію",
+    "summary_uk": "На Wall Street обговорюють падіння акцій Nvidia та інших компаній у сфері штучного інтелекту. Експерти критикують рішення ради директорів після відходу засновника. Центральні банки попереджають про можливу нову хвилю інфляції через монетарну політику та явище El Niño.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Невизначеність на Wall Street через Nvidia та інфляцію",
+    "summary": "На Wall Street обговорюють падіння акцій Nvidia та інших компаній у сфері штучного інтелекту. Експерти критикують рішення ради директорів після відходу засновника. Центральні банки попереджають про можливу нову хвилю інфляції через монетарну політику та явище El Niño.",
+    "link": "https://www.bankier.pl/wiadomosc/Strach-i-niepewnosc-na-Wall-Street-Co-dalej-z-Nvidia-dokad-zmierza-inflacja-9233028.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af51102b07ec",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/firma-od-dlugow-tnie-zatrudnienie-150-osob-bez-pracy-po-nowym-roku/w7p25wh",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Gigant finansowy tnie zatrudnienie. 150 osób bez pracy po Nowym Roku",
+    "body_orig": "Jedna z największych polskich firm specjalizujących się w zarządzaniu wierzytelnościami i odzyskiwaniu długów zapowiedziała grupowe zwolnienia. Zatrudnienie straci 150 pracowników Grupy Kruk. To ok. 10 proc. całej załogi — podaje portal PulsHR.",
+    "published": "2026-11-21T15:52:23",
+    "fetched": "2026-11-21T21:27:44.821482",
+    "title_uk": "Група Kruk скорочує 150 працівників у Польщі",
+    "summary_uk": "Польська компанія Kruk, що спеціалізується на управлінні боргами, оголосила про масові звільнення. Під скорочення потраплять 150 співробітників, що становить близько 10% від загальної чисельності працівників. Це рішення пов'язане з оптимізацією витрат.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Скорочення працівників може вплинути на обслуговування клієнтів та швидкість реагування на запити. Розгляньте можливість зміни умов співпраці.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Група Kruk скорочує 150 працівників у Польщі",
+    "summary": "Польська компанія Kruk, що спеціалізується на управлінні боргами, оголосила про масові звільнення. Під скорочення потраплять 150 співробітників, що становить близько 10% від загальної чисельності працівників. Це рішення пов'язане з оптимізацією витрат.",
+    "link": "https://businessinsider.com.pl/praca/firma-od-dlugow-tnie-zatrudnienie-150-osob-bez-pracy-po-nowym-roku/w7p25wh",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0e12e4d779d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/black-friday-napedza-rekrutacje-firmy-kusza-premiami-i-elastycznym-grafikiem/vzslgz6",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Pieniądze na wyciągnięcie ręki. Tak płacą operatorzy magazynów",
+    "body_orig": "Przed Black Friday magazyny i firmy logistyczne przyspieszają rekrutacje, bo rośnie liczba zamówień do obsługi. Jak pisze branżowy serwis pulsHR, rywalizacja o pracowników nie kończy się na stawkach godzinowych: coraz większe znaczenie mają premie, zwrot kosztów dojazdów i elastyczny grafik.",
+    "published": "2026-11-21T14:40:32",
+    "fetched": "2026-11-21T21:27:44.821496",
+    "title_uk": "Логістичні компанії Польщі підвищують зарплати для залучення працівників",
+    "summary_uk": "Перед Чорним П'ятницею логістичні компанії в Польщі активізують набір персоналу через зростання замовлень. Конкуренція за працівників виходить за межі годинних ставок: важливими стають премії, компенсації за проїзд та гнучкий графік роботи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання зарплат та додаткових виплат може підвищити витрати на логістику. Розгляньте перегляд контрактів з постачальниками, щоб зберегти маржу.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна в умовах праці в логістиці може вплинути на терміни доставки товарів. Перегляньте плани постачання на період перед Чорним П'ятницею."
+    },
+    "tags": [
+      "логістика",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Логістичні компанії Польщі підвищують зарплати для залучення працівників",
+    "summary": "Перед Чорним П'ятницею логістичні компанії в Польщі активізують набір персоналу через зростання замовлень. Конкуренція за працівників виходить за межі годинних ставок: важливими стають премії, компенсації за проїзд та гнучкий графік роботи.",
+    "link": "https://businessinsider.com.pl/praca/black-friday-napedza-rekrutacje-firmy-kusza-premiami-i-elastycznym-grafikiem/vzslgz6",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e7e0d7e169d6",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/biznes/pegasus-ma-plan-dla-smartwings-chodzi-o-wakacje-bez-biur-podrozy/tj5zwe7",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Czesi chcą mieć swojego Ryanaira. Czarterowy gigant zmienia strategię i stawia na tanie loty",
+    "body_orig": "Smartwings, kojarzony w Polsce głównie z wakacyjnymi czarterami, może mocniej wejść w segment tanich regularnych połączeń — pisze branżowy serwis Fly4Free. Zmiana kierunku czeskiego przewoźnika rodzi pytania o rywalizację z Ryanairem i Wizz Airem oraz o ofertę dla turystów.",
+    "published": "2026-11-21T14:02:45",
+    "fetched": "2026-11-21T21:27:44.821511",
+    "title_uk": "Smartwings планує розширити сегмент дешевих авіаперевезень",
+    "summary_uk": "Чеська авіакомпанія Smartwings змінює стратегію, плануючи активніше входити в сегмент дешевих регулярних рейсів. Це може призвести до посилення конкуренції з Ryanair та Wizz Air. Зміна стратегії викликала запитання щодо впливу на туристичний ринок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміна стратегії Smartwings може призвести до зниження цін на авіаперевезення, що вплине на дистрибуторів, які працюють з туристичними послугами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Smartwings планує розширити сегмент дешевих авіаперевезень",
+    "summary": "Чеська авіакомпанія Smartwings змінює стратегію, плануючи активніше входити в сегмент дешевих регулярних рейсів. Це може призвести до посилення конкуренції з Ryanair та Wizz Air. Зміна стратегії викликала запитання щодо впливу на туристичний ринок.",
+    "link": "https://businessinsider.com.pl/biznes/pegasus-ma-plan-dla-smartwings-chodzi-o-wakacje-bez-biur-podrozy/tj5zwe7",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6dd4c413fc00",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/banki/pis-chce-dyktowac-bankom-jak-maja-liczyc-kredyty-jest-projekt-7353423501269024a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "PiS chce zmienić prawo bankowe. Twierdzi, że dla dobra rodzin",
+    "body_orig": "PiS chce, by banki i SKOK-i miały ustawowy obowiązek uwzględniania 800 plus, alimentów, rent, emerytur i innych regularnych świadczeń przy wyliczaniu zdolności kredytowej. Dziś mogą pomijać część tych wpływów. Projekt zmian w Prawie bankowym zapowiedzieli Przemysław Czarnek i Kacper Płażyński.",
+    "published": "2026-11-21T14:21:31",
+    "fetched": "2026-11-21T21:27:47.446160",
+    "title_uk": "Партія PiS пропонує зміни в законодавстві про банки",
+    "summary_uk": "Партія PiS планує зобов'язати банки враховувати регулярні доходи, такі як 800 плюс, аліменти та пенсії, при розрахунку кредитоспроможності. Зараз банки можуть ігнорувати частину цих доходів. Ініціативу представили Прzemysław Czarnek та Kacper Płażyński.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть вплинути на кредитування споживачів, що може змінити їх купівельну спроможність. Розгляньте адаптацію фінансових пропозицій для клієнтів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Партія PiS пропонує зміни в законодавстві про банки",
+    "summary": "Партія PiS планує зобов'язати банки враховувати регулярні доходи, такі як 800 плюс, аліменти та пенсії, при розрахунку кредитоспроможності. Зараз банки можуть ігнорувати частину цих доходів. Ініціативу представили Прzemysław Czarnek та Kacper Płażyński.",
+    "link": "https://www.money.pl/banki/pis-chce-dyktowac-bankom-jak-maja-liczyc-kredyty-jest-projekt-7353423501269024a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "343d8d4249a1",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/well-wealth/aproape-6-din-10-romani-abia-reusesc-sa-si-acopere-cheltuielile-lunare-ce-sacrifica-primii-cand-bugetul-nu-mai-ajunge-iesirile-in-oras-vacantele-si-hainele-23284225",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Aproape 6 din 10 români abia reuşesc să-şi acopere cheltuielile lunare. Ce sacrifică primii când bugetul nu mai ajunge: ieşirile în oraş, vacanţele şi hainele",
+    "body_orig": "",
+    "published": "2026-11-21T20:23:00",
+    "fetched": "2026-11-21T21:28:10.727742",
+    "title_uk": "Більшість румунів не можуть покрити щомісячні витрати",
+    "summary_uk": "Згідно з опитуванням, 58% румунів мають труднощі з покриттям щомісячних витрат. В умовах фінансової нестабільності люди жертвують витратами на відпочинок, подорожі та одяг. Це свідчить про зростаючий тиск на споживчі витрати в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Більшість румунів не можуть покрити щомісячні витрати",
+    "summary": "Згідно з опитуванням, 58% румунів мають труднощі з покриттям щомісячних витрат. В умовах фінансової нестабільності люди жертвують витратами на відпочинок, подорожі та одяг. Це свідчить про зростаючий тиск на споживчі витрати в країні.",
+    "link": "https://www.zf.ro/well-wealth/aproape-6-din-10-romani-abia-reusesc-sa-si-acopere-cheltuielile-lunare-ce-sacrifica-primii-cand-bugetul-nu-mai-ajunge-iesirile-in-oras-vacantele-si-hainele-23284225",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c75364dd5b14",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/top-cresteri-salariale-la-noua-luni-din-2026-salariile-au-crescut-cu-peste-20-in-patru-sectoare-toate-industriile-din-top-zece-au-avut-cresteri-de-double-digits-de-la-an-la-an-23284133",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Top creşteri salariale la nouă luni din 2026. Salariile au crescut cu peste 20% în patru sectoare. Toate industriile din top zece au avut creşteri de double digits de la an la an",
+    "body_orig": "Salariile au crescut cu două cifre în toate cele zece sectoare de activitate care au înregistrat cele mai mari avansuri în septembrie 2026 faţă de aceeaşi lună a anului trecut, potrivit statisticilor INS analizate de ZF.",
+    "published": "2026-11-21T20:01:00",
+    "fetched": "2026-11-21T21:28:10.727751",
+    "title_uk": "Зростання зарплат у Румунії перевищило 20% у чотирьох секторах",
+    "summary_uk": "Зарплати у десяти секторах Румунії зросли на двозначні цифри у вересні 2026 року в порівнянні з аналогічним місяцем минулого року. Чотири з цих секторів показали підвищення понад 20%. Це свідчить про загальне покращення умов праці в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Зростання зарплат у Румунії перевищило 20% у чотирьох секторах",
+    "summary": "Зарплати у десяти секторах Румунії зросли на двозначні цифри у вересні 2026 року в порівнянні з аналогічним місяцем минулого року. Чотири з цих секторів показали підвищення понад 20%. Це свідчить про загальне покращення умов праці в країні.",
+    "link": "https://www.zf.ro/eveniment/top-cresteri-salariale-la-noua-luni-din-2026-salariile-au-crescut-cu-peste-20-in-patru-sectoare-toate-industriile-din-top-zece-au-avut-cresteri-de-double-digits-de-la-an-la-an-23284133",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a5aa9c53129b",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/ministrul-agriculturii-florin-barbu-vrea-prelungirea-plafonarii-adaosului-comercial-pana-la-finalul-anului-2027-23286654",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ministrul Agriculturii, Florin Barbu, vrea prelungirea plafonării adaosului comercial până la finalul anului 2027",
+    "body_orig": "",
+    "published": "2026-11-21T19:21:02",
+    "fetched": "2026-11-21T21:28:10.727759",
+    "title_uk": "Міністр сільського господарства Румунії пропонує продовження регулювання цін",
+    "summary_uk": "Міністр сільського господарства Румунії, Флорін Барбу, виступив за продовження обмеження торговельної надбавки до кінця 2027 року. Це рішення має на меті контролювати ціни на продукти харчування та захистити споживачів. Влада сподівається, що це допоможе стабілізувати ринок у складних економічних умовах.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на стратегії цінового позиціонування в румунському ритейлі. Розгляньте можливість коригування цінових стратегій для адаптації до нових умов ринку."
+    },
+    "tags": [
+      "регуляція",
+      "ціни-сировина",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Міністр сільського господарства Румунії пропонує продовження регулювання цін",
+    "summary": "Міністр сільського господарства Румунії, Флорін Барбу, виступив за продовження обмеження торговельної надбавки до кінця 2027 року. Це рішення має на меті контролювати ціни на продукти харчування та захистити споживачів. Влада сподівається, що це допоможе стабілізувати ринок у складних економічних умовах.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/ministrul-agriculturii-florin-barbu-vrea-prelungirea-plafonarii-adaosului-comercial-pana-la-finalul-anului-2027-23286654",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d231464520ed",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/nvidia-isi-dubleaza-veniturile-ajunge-vanzari-record-116-miliarde-dolari-plina-criza-conducere-compania-estimeaza-incasari-130-miliarde-dolari-urmatorul-trimestru-dupa-demisia-jensen-huang-23284297",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Nvidia îşi dublează veniturile şi ajunge la vânzări record de 116 miliarde de dolari, în plină criză de conducere. Compania estimează încasări de 130 de miliarde de dolari în următorul trimestru, după demisia lui Jensen Huang",
+    "body_orig": "",
+    "published": "2026-11-21T19:01:00",
+    "fetched": "2026-11-21T21:28:10.727774",
+    "title_uk": "Nvidia досягла рекордних продажів у $116 млрд",
+    "summary_uk": "Nvidia оголосила про рекордні продажі в $116 млрд, подвоївши свої доходи. Компанія прогнозує, що в наступному кварталі її доходи досягнуть $130 млрд. Це відбувається на фоні кризи управління після відставки Дженсена Хуана.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Nvidia досягла рекордних продажів у $116 млрд",
+    "summary": "Nvidia оголосила про рекордні продажі в $116 млрд, подвоївши свої доходи. Компанія прогнозує, що в наступному кварталі її доходи досягнуть $130 млрд. Це відбувається на фоні кризи управління після відставки Дженсена Хуана.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/nvidia-isi-dubleaza-veniturile-ajunge-vanzari-record-116-miliarde-dolari-plina-criza-conducere-compania-estimeaza-incasari-130-miliarde-dolari-urmatorul-trimestru-dupa-demisia-jensen-huang-23284297",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cfaa101ae434",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-travel/romanii-isi-tempereaza-bugetele-pentru-vacantele-in-strainatate-cu-scaderi-in-lunile-de-vara-in-schimb-turistii-straini-cheltuie-mai-mult-in-romania-23283272",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Românii îşi temperează bugetele pentru vacanţele în străinătate, cu scăderi în lunile de vară. În schimb, turiştii străini cheltuie mai mult în România",
+    "body_orig": "Românii nu au mai avut în acest an acelaşi apetit ca în anii trecuţi pentru a-şi creşte bugetele alocate vacanţelor în străinătate. Potrivit Băncii Naţionale a României, cheltuielile pentru călătoriile externe au avansat cu doar 3% în intervalul ianuarie–septembrie, un ritm mult temperat faţă de dinamica ultimilor ani.",
+    "published": "2026-11-21T17:58:00",
+    "fetched": "2026-11-21T21:28:10.727789",
+    "title_uk": "Румуни скорочують витрати на відпустки за кордоном",
+    "summary_uk": "Румунські туристи зменшили бюджети на закордонні поїздки. За даними Національного банку Румунії, витрати на подорожі за кордон зросли лише на 3% у січні-вересні 2026 року, що є значним зниженням у порівнянні з попередніми роками. Водночас іноземні туристи витрачають більше в Румунії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Румуни скорочують витрати на відпустки за кордоном",
+    "summary": "Румунські туристи зменшили бюджети на закордонні поїздки. За даними Національного банку Румунії, витрати на подорожі за кордон зросли лише на 3% у січні-вересні 2026 року, що є значним зниженням у порівнянні з попередніми роками. Водночас іноземні туристи витрачають більше в Румунії.",
+    "link": "https://www.zf.ro/business-travel/romanii-isi-tempereaza-bugetele-pentru-vacantele-in-strainatate-cu-scaderi-in-lunile-de-vara-in-schimb-turistii-straini-cheltuie-mai-mult-in-romania-23283272",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c3073b5e5cc4",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/premiera-in-rca-preturile-au-scazut-serios-in-noiembrie-dupa-explozia-din-vara-toamna-firmele-din-afara-tarii-de-la-care-cumpara-o-treime-din-soferi_997926.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Premieră  în RCA. Prețurile au scăzut serios în noiembrie după explozia din vară-toamnă. Firmele din afara țării de la care cumpără o treime din șoferi",
+    "body_orig": "Premieră în RCA. Pentru prima dată din martie 2026, prețurile de vânzare au scăzut substanțial. Datele din prima jumătate a lunii noiembrie consemnează, printre altele, consolidareea pozițiilor Axeria Iard (Franța) și Hellas Direct (Cipru), care, alături de nou intrata Anytime Interamerican (Grecia) au adunat spre o treime din toate contractele vândute în perioada amintită.",
+    "published": "2026-11-21T20:13:51",
+    "fetched": "2026-11-21T21:28:15.118383",
+    "title_uk": "Ціни на автострахування в Румунії знизилися вперше з березня 2026",
+    "summary_uk": "У листопаді 2026 року ціни на автострахування знизилися вперше за 8 місяців. Axeria Iard (Франція), Hellas Direct (Кіпр) та Anytime Interamerican (Греція) отримали близько третини всіх нових контрактів. Це свідчить про зростання конкуренції на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на автострахування в Румунії знизилися вперше з березня 2026",
+    "summary": "У листопаді 2026 року ціни на автострахування знизилися вперше за 8 місяців. Axeria Iard (Франція), Hellas Direct (Кіпр) та Anytime Interamerican (Греція) отримали близько третини всіх нових контрактів. Це свідчить про зростання конкуренції на ринку.",
+    "link": "https://www.economica.net/premiera-in-rca-preturile-au-scazut-serios-in-noiembrie-dupa-explozia-din-vara-toamna-firmele-din-afara-tarii-de-la-care-cumpara-o-treime-din-soferi_997926.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e02b00e175e8",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/uniunea-europeana-si-indonezia-au-semnat-un-amplu-acord-comercial_997979.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Uniunea Europeană şi Indonezia au semnat un amplu acord comercial",
+    "body_orig": "Uniunea Europeană şi Indonezia au semnat sâmbătă, la Bruxelles, un acord comercial menit să faciliteze accesul reciproc pe pieţele celor două părţi, transmite France Presse.",
+    "published": "2026-11-21T17:54:17",
+    "fetched": "2026-11-21T21:28:15.118412",
+    "title_uk": "ЄС та Індонезія підписали угоду про вільну торгівлю",
+    "summary_uk": "Європейський Союз та Індонезія підписали угоду, що полегшує доступ до ринків обох сторін. Угода має на меті сприяти торгівлі та інвестиціям між регіонами. Деталі угоди поки що не оприлюднені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Ця угода може відкрити нові можливості для турецьких виробників, які шукають ринки в ЄС. Рекомендується вивчити умови угоди для можливого виходу на нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "імпорт",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС та Індонезія підписали угоду про вільну торгівлю",
+    "summary": "Європейський Союз та Індонезія підписали угоду, що полегшує доступ до ринків обох сторін. Угода має на меті сприяти торгівлі та інвестиціям між регіонами. Деталі угоди поки що не оприлюднені.",
+    "link": "https://www.economica.net/uniunea-europeana-si-indonezia-au-semnat-un-amplu-acord-comercial_997979.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "98fc6ca805e0",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cat-va-costa-energia-electrica-pentru-clientii-ppc-vin-noile-oferte-la-recontractare-cu-cat-cresc-preturile_997976.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Cât va costa energia electrică pentru clienții PPC. Vin noile oferte la recontractare, cu cât cresc prețurile",
+    "body_orig": "PPC Energie, unul dintre marii furnizori de energie electrică pentru clienții casnici, trimite și el ofertele de recontractare pentru clienții cărora le expiră perioada contractuală și, așa cum era previzibil, prețurile sunt mai mari, ca urmare a creșterii prețurilor din piața de energie.",
+    "published": "2026-11-21T17:10:01",
+    "fetched": "2026-11-21T21:28:15.118419",
+    "title_uk": "PPC Energie підвищує ціни на електроенергію для клієнтів",
+    "summary_uk": "PPC Energie розсилає нові пропозиції для клієнтів, у яких закінчується контракт. Ціни зростають через підвищення вартості на ринку електроенергії. Очікується, що нові тарифи вплинуть на бюджет домогосподарств.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "PPC Energie підвищує ціни на електроенергію для клієнтів",
+    "summary": "PPC Energie розсилає нові пропозиції для клієнтів, у яких закінчується контракт. Ціни зростають через підвищення вартості на ринку електроенергії. Очікується, що нові тарифи вплинуть на бюджет домогосподарств.",
+    "link": "https://www.economica.net/cat-va-costa-energia-electrica-pentru-clientii-ppc-vin-noile-oferte-la-recontractare-cu-cat-cresc-preturile_997976.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "84c9037a39ad",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/ultimul-pariu-al-lui-dan-ostahie-fondatorul-altex-a-deschis-un-nou-tip-de-magazin-in-romania-e-unic_997954.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ultimul pariu al lui Dan Ostahie, fondatorul Altex: a deschis un nou tip de magazin în România. E unic!",
+    "body_orig": "Retailerul de bricolaj Brico, fostul Brico Depot preluat de Altex-ul românului Dan Ostahie, a deschis un nou format de magazin de mici dimensiuni dedicat exclusiv amenajării bucătăriilor, băilor și dressingurilor, cu mobilier modular personalizabil. Vor fi mai multe astfel de magazine în România.",
+    "published": "2026-11-21T15:27:20",
+    "fetched": "2026-11-21T21:28:15.118440",
+    "title_uk": "Altex відкриває новий формат магазинів для кухонь і ванних кімнат",
+    "summary_uk": "Retailer Brico, що належить Altex, запустив новий формат магазинів малих розмірів в Румунії. Ці магазини спеціалізуються на меблях для кухонь, ванних і гардеробних, пропонуючи модульні рішення. Планується відкриття декількох таких магазинів по країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей новий формат може стати прикладом для українських ритейлерів, які планують розширення асортименту в сегменті меблів. Рекомендується вивчити успішні практики Altex для адаптації в Україні."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Altex відкриває новий формат магазинів для кухонь і ванних кімнат",
+    "summary": "Retailer Brico, що належить Altex, запустив новий формат магазинів малих розмірів в Румунії. Ці магазини спеціалізуються на меблях для кухонь, ванних і гардеробних, пропонуючи модульні рішення. Планується відкриття декількох таких магазинів по країні.",
+    "link": "https://www.economica.net/ultimul-pariu-al-lui-dan-ostahie-fondatorul-altex-a-deschis-un-nou-tip-de-magazin-in-romania-e-unic_997954.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a6313c406964",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/20/pekin-posiliuje-kontrol-nad-texnologicnim-biznesom-kitaiskim-startapam-obmezat-vixid-na-zakordonni-birzi/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Пекін посилює контроль над технологічним бізнесом: китайським стартапам обмежать вихід на закордонні біржі",
+    "body_orig": "Китайський регулятор вимагатиме від компаній, зареєстрованих за кордоном після березня 2023 року, перенести юридичну реєстрацію до Китаю перед виходом на іноземні біржі.",
+    "published": "2026-11-21T17:07:00",
+    "fetched": "2026-11-21T21:27:51.276195",
+    "title_uk": "Китай обмежує вихід стартапів на закордонні біржі",
+    "summary_uk": "Китайський регулятор запроваджує нові вимоги для компаній, зареєстрованих за кордоном після березня 2023 року. Вони повинні перенести юридичну реєстрацію до Китаю перед виходом на іноземні біржі. Це може ускладнити доступ китайських стартапів до міжнародного капіталу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Китай обмежує вихід стартапів на закордонні біржі",
+    "summary": "Китайський регулятор запроваджує нові вимоги для компаній, зареєстрованих за кордоном після березня 2023 року. Вони повинні перенести юридичну реєстрацію до Китаю перед виходом на іноземні біржі. Це може ускладнити доступ китайських стартапів до міжнародного капіталу.",
+    "link": "https://ain.ua/2026/11/20/pekin-posiliuje-kontrol-nad-texnologicnim-biznesom-kitaiskim-startapam-obmezat-vixid-na-zakordonni-birzi/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2deef9953d0a",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/20/nimeccina-profinansuje-zavod-ukrayinskix-droniv-shho-vidomo-pro-plani-skyfall-ta-auterion/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Німеччина профінансує завод українських дронів: що відомо про плани SkyFall та Auterion",
+    "body_orig": "Спочатку на заводі вироблятимуть FPV-дрони Shrike, а згодом — перехоплювачі та ударні безпілотники середньої й великої дальності.",
+    "published": "2026-11-21T14:33:00",
+    "fetched": "2026-11-21T21:27:51.276211",
+    "title_uk": "Німеччина інвестує в український завод дронів SkyFall та Auterion",
+    "summary_uk": "Німеччина профінансує завод, де спочатку вироблятимуть FPV-дрони Shrike. У планах — також перехоплювачі та ударні безпілотники середньої й великої дальності. Це може стати важливим кроком для розвитку української оборонної промисловості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Німеччина інвестує в український завод дронів SkyFall та Auterion",
+    "summary": "Німеччина профінансує завод, де спочатку вироблятимуть FPV-дрони Shrike. У планах — також перехоплювачі та ударні безпілотники середньої й великої дальності. Це може стати важливим кроком для розвитку української оборонної промисловості.",
+    "link": "https://ain.ua/2026/11/20/nimeccina-profinansuje-zavod-ukrayinskix-droniv-shho-vidomo-pro-plani-skyfall-ta-auterion/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
