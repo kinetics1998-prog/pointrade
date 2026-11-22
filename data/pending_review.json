@@ -525394,5 +525394,1282 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "d65a8374b499",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Widzew-trzyma-ceny-w-ryzach-Fenomen-lodzkiego-rynku-mieszkaniowego-9230037.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Widzew trzyma ceny w ryzach. Fenomen łódzkiego rynku mieszkaniowego",
+    "body_orig": "Choć w tym roku sprzedaż nowych mieszkań w Łodzi wyraźnie wzrosła, ceny pozostają stabilne. Z danych BIG DATA RynekPierwotny.pl wynika, że klucza do wyjaśnienia tego fenomenu należy szukać na Widzewie. Wyrósł on na największy plac budowy mieszkań w mieście, a jednocześnie deweloperzy oferują tu najwięcej lokali z niższych przedziałów cenowych.",
+    "published": "2026-11-22T07:00:00",
+    "fetched": "2026-11-22T12:43:54.831816",
+    "title_uk": "Ціни на житло в Лодзі залишаються стабільними, попри зростання продажів",
+    "summary_uk": "У 2026 році продаж нових квартир у Лодзі зріс, але ціни залишилися на рівні. За даними RynekPierwotny.pl, найбільше новобудов з доступними цінами зосереджено на Відзеві, який став найбільшим будівельним майданчиком у місті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Стабільність цін у Лодзі може свідчити про збереження попиту на доступне житло, що може вплинути на рішення щодо інвестицій у нерухомість.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ціни на житло в Лодзі залишаються стабільними, попри зростання продажів",
+    "summary": "У 2026 році продаж нових квартир у Лодзі зріс, але ціни залишилися на рівні. За даними RynekPierwotny.pl, найбільше новобудов з доступними цінами зосереджено на Відзеві, який став найбільшим будівельним майданчиком у місті.",
+    "link": "https://www.bankier.pl/wiadomosc/Widzew-trzyma-ceny-w-ryzach-Fenomen-lodzkiego-rynku-mieszkaniowego-9230037.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "89e299658123",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Anthropic-z-rekordowym-IPO-Analityk-wskazuje-kto-moze-na-tym-zyskac-9231735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Anthropic z rekordowym IPO. Analityk wskazuje, kto może na tym zyskać",
+    "body_orig": "Powodzenie tak dużej oferty Anthropic zwiększa szanse na kolejne udane transakcje w sektorze, zarówno na rynku publicznym, jak i prywatnym, a efekt będzie silniejszy, jeżeli kurs utrzyma się powyżej ceny IPO - poinformował PAP Biznes analityk DM Trigon, Dominik Niszcz. Firma Anthropic uzyskała ponad 81,3 mld USD za pierwszą emisję akcji w ramach swojego giełdowego debiutu.",
+    "published": "2026-11-22T11:00:00",
+    "fetched": "2026-11-22T12:43:54.831867",
+    "title_uk": "Anthropic успішно провела IPO, залучивши $81.3 млрд",
+    "summary_uk": "Компанія Anthropic провела успішне первинне розміщення акцій, залучивши понад $81 млрд. Аналіз показує, що успіх цієї пропозиції може підвищити ймовірність інших успішних угод у секторі. Важливо, щоб курс акцій залишався вище початкової ціни для підтримки позитивного тренду.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Anthropic успішно провела IPO, залучивши $81.3 млрд",
+    "summary": "Компанія Anthropic провела успішне первинне розміщення акцій, залучивши понад $81 млрд. Аналіз показує, що успіх цієї пропозиції може підвищити ймовірність інших успішних угод у секторі. Важливо, щоб курс акцій залишався вище початкової ціни для підтримки позитивного тренду.",
+    "link": "https://www.bankier.pl/wiadomosc/Anthropic-z-rekordowym-IPO-Analityk-wskazuje-kto-moze-na-tym-zyskac-9231735.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "77fab03ba804",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/banki-zmieniaja-zasady-liczenia-800-plus-co-to-oznacza-dla-kredytow-hipotecznych/lb1986k",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Banki zmieniają podejście do 800 plus. To ważna zmiana dla klientów [WYJAŚNIAMY]",
+    "body_orig": "Kontrole Urzędu Komisji Nadzoru Finansowego wykazały, że niektóre banki zbyt liberalnie podchodziły do uwzględniania dochodów z 800 plus do kalkulacji zdolności kredytowej osób wnioskujących o hipoteki. Teraz banki zmieniają praktykę i liczą 800 plus surowiej. Sprawdzamy, w jakim stopniu wpłynie to na możliwość zaciągania kredytów.",
+    "published": "2026-11-22T12:11:13",
+    "fetched": "2026-11-22T12:43:56.427816",
+    "title_uk": "Польські банки посилили вимоги до доходів з 800 плюс",
+    "summary_uk": "Урядовий контроль виявив, що деякі банки занадто вільно враховували доходи з програми 800 плюс при оцінці кредитоспроможності. Тепер банки змінюють підходи і будуть суворіше оцінювати ці доходи. Це може вплинути на можливості отримання іпотечних кредитів для клієнтів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зміни можуть зменшити кількість потенційних покупців, що вплине на обсяги продажів. Розгляньте коригування стратегій продажів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміни в кредитній політиці можуть вплинути на купівельну спроможність споживачів, що варто врахувати при плануванні акцій та запасів."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Польські банки посилили вимоги до доходів з 800 плюс",
+    "summary": "Урядовий контроль виявив, що деякі банки занадто вільно враховували доходи з програми 800 плюс при оцінці кредитоспроможності. Тепер банки змінюють підходи і будуть суворіше оцінювати ці доходи. Це може вплинути на можливості отримання іпотечних кредитів для клієнтів.",
+    "link": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/banki-zmieniaja-zasady-liczenia-800-plus-co-to-oznacza-dla-kredytow-hipotecznych/lb1986k",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "03c1731abc83",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/nowy-plan-pis-na-mieszkania-tanie-mieszkania-i-specjalny-kredyt/njek1l2",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowy program mieszkaniowy PiS. Proponuje państwowy program i kredyt 2,5 proc.",
+    "body_orig": "Kredyt ze stałym oprocentowaniem 2,5 proc., brak wkładu własnego i trzypokojowe mieszkania za 400-450 tys. zł. Prawo i Sprawiedliwość przedstawiło swoje propozycje mieszkaniowe.",
+    "published": "2026-11-22T11:38:23",
+    "fetched": "2026-11-22T12:43:56.427832",
+    "title_uk": "Партія Право і Справедливість пропонує нову програму житла",
+    "summary_uk": "Партія Право і Справедливість представила нову житлову програму. Вона передбачає кредит з фіксованою ставкою 2,5% без початкового внеску, а також трикімнатні квартири вартістю від 400 до 450 тис. злотих. Програма має на меті полегшити доступ до житла для громадян.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Програма може стимулювати попит на будівельні матеріали та меблі, що може позитивно вплинути на продажі в дистрибуції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання попиту на житло може підвищити інтерес до товарів для дому та ремонту. Рекомендується переглянути асортимент у відповідних категоріях."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Партія Право і Справедливість пропонує нову програму житла",
+    "summary": "Партія Право і Справедливість представила нову житлову програму. Вона передбачає кредит з фіксованою ставкою 2,5% без початкового внеску, а також трикімнатні квартири вартістю від 400 до 450 тис. злотих. Програма має на меті полегшити доступ до житла для громадян.",
+    "link": "https://businessinsider.com.pl/gospodarka/nowy-plan-pis-na-mieszkania-tanie-mieszkania-i-specjalny-kredyt/njek1l2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8da0270e871f",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/autopay-informuje-o-incydencie-banki-reaguja-na-wyciek-danych-klientow/3v71k0h",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Autopay ujawnia szczegóły cyberataku. Banki reagują",
+    "body_orig": "Cyberatak na Autopay wywołał reakcję banków. Ich przedstawiciele zapewniają, że nie ma powodów do paniki, choć wprowadzono nadzwyczajne działania.",
+    "published": "2026-11-22T09:51:06",
+    "fetched": "2026-11-22T12:43:56.427849",
+    "title_uk": "Автопей повідомляє про деталі кібератаки, банки реагують",
+    "summary_uk": "Кібератаку на Autopay прокоментували представники банків, які запевнили, що панікувати не варто. Вжито надзвичайних заходів для забезпечення безпеки. Конкретні цифри про збитки або масштаби атаки не наводяться.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Автопей повідомляє про деталі кібератаки, банки реагують",
+    "summary": "Кібератаку на Autopay прокоментували представники банків, які запевнили, що панікувати не варто. Вжито надзвичайних заходів для забезпечення безпеки. Конкретні цифри про збитки або масштаби атаки не наводяться.",
+    "link": "https://businessinsider.com.pl/gospodarka/autopay-informuje-o-incydencie-banki-reaguja-na-wyciek-danych-klientow/3v71k0h",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1ad818a0fe1d",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/praca/ai-moze-zwiekszyc-zatrudnienie-nowe-prognozy-dla-rynku-pracy/q5ls23h",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Apokalipsa AI na rynku pracy? Nowe prognozy mówią coś innego",
+    "body_orig": "Według prognoz firmy Gartner rozwój sztucznej inteligencji doprowadzi do powstania netto ok. 1,7 mln miejsc pracy do 2030 r. To jednak nie znaczy, że technologiczna rewolucja nie pozostawi ofiar.",
+    "published": "2026-11-22T09:30:43",
+    "fetched": "2026-11-22T12:43:56.427856",
+    "title_uk": "Прогнози Gartner: штучний інтелект створить 1.7 млн нових робочих місць",
+    "summary_uk": "Згідно з прогнозами Gartner, до 2030 року розвиток штучного інтелекту створить близько 1.7 млн нових робочих місць. Однак технологічна революція також призведе до втрати робочих місць у певних секторах. Це свідчить про зміни на ринку праці, які можуть вплинути на різні професії.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прогнози Gartner: штучний інтелект створить 1.7 млн нових робочих місць",
+    "summary": "Згідно з прогнозами Gartner, до 2030 року розвиток штучного інтелекту створить близько 1.7 млн нових робочих місць. Однак технологічна революція також призведе до втрати робочих місць у певних секторах. Це свідчить про зміни на ринку праці, які можуть вплинути на різні професії.",
+    "link": "https://businessinsider.com.pl/praca/ai-moze-zwiekszyc-zatrudnienie-nowe-prognozy-dla-rynku-pracy/q5ls23h",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "73d749910d18",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/bruksela-reaguje-na-handel-z-chinami-tak-chce-zatrzymac-ekspansje-pekinu/jgsm8v9",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Bruksela wkracza do \"cichej\" wojny handlowej. Na ten ruch wobec Chin czekano od lat",
+    "body_orig": "Unia Europejska przymyka drzwi przed Chinami, ale nie chce ich zatrzasnąć. Bruksela wprowadziła ograniczenia na samochody i chciałaby interweniować w kolejnych sektorach. To Pekin ma jednak więcej kart w obecnej batalii handlowej, a chińskie firmy niedawno domknęły kilka spektakularnych transakcji na Starym Kontynencie.",
+    "published": "2026-11-22T06:30:00",
+    "fetched": "2026-11-22T12:43:56.427871",
+    "title_uk": "ЄС вводить обмеження на імпорт автомобілів з Китаю",
+    "summary_uk": "Європейський Союз запровадив нові обмеження на імпорт автомобілів з Китаю, плануючи розширити ці заходи на інші сектори. Китайські компанії продовжують укладати угоди в Європі, що підкреслює їхню сильну позицію на ринку. Цей крок є частиною зусиль ЄС з контролю за торговими відносинами з Китаєм.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Обмеження можуть вплинути на імпорт автомобілів, що потребуватиме перегляду асортименту та цінової політики.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "регуляція",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "ЄС вводить обмеження на імпорт автомобілів з Китаю",
+    "summary": "Європейський Союз запровадив нові обмеження на імпорт автомобілів з Китаю, плануючи розширити ці заходи на інші сектори. Китайські компанії продовжують укладати угоди в Європі, що підкреслює їхню сильну позицію на ринку. Цей крок є частиною зусиль ЄС з контролю за торговими відносинами з Китаєм.",
+    "link": "https://businessinsider.com.pl/gospodarka/bruksela-reaguje-na-handel-z-chinami-tak-chce-zatrzymac-ekspansje-pekinu/jgsm8v9",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9264608e4879",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/szymon-midera-polska-przedsiebiorczosc-i-ai-kluczami-do-wzrostu-gospodarki/2w6w8mv",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Musimy biec szybciej niż zachodnia Europa – prezes PKO BP o szansach dla polskiej gospodarki",
+    "body_orig": "Polska gospodarka wciąż może rosnąć szybciej niż bogatsza część Europy, ale coraz wyraźniejszym ograniczeniem staje się demografia. Odpowiedzią mają być m.in. kapitał zagraniczny, przemyślana polityka migracyjna oraz znacznie szybsze wdrażanie sztucznej inteligencji — przekonuje prezes największego polskiego banku. — Zróbmy z Polski najbardziej efektywny hub wdrażania nowoczesnej technologii — mówi Szymon Midera, prezes PKO Banku Polskiego.",
+    "published": "2026-11-22T05:59:00",
+    "fetched": "2026-11-22T12:43:56.427879",
+    "title_uk": "Польща може зберегти швидке зростання економіки попри демографію",
+    "summary_uk": "Президент PKO BP Сzymon Midera заявив, що польська економіка має потенціал зростати швидше, ніж в Західній Європі. Основними викликами є демографічні зміни. Для вирішення проблеми необхідні іноземні інвестиції, політика міграції та активне впровадження штучного інтелекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Іноземні інвестиції можуть створити нові можливості для дистриб'юторів, особливо в технологічному секторі. Рекомендується слідкувати за змінами в політиці міграції.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Польща може зберегти швидке зростання економіки попри демографію",
+    "summary": "Президент PKO BP Сzymon Midera заявив, що польська економіка має потенціал зростати швидше, ніж в Західній Європі. Основними викликами є демографічні зміни. Для вирішення проблеми необхідні іноземні інвестиції, політика міграції та активне впровадження штучного інтелекту.",
+    "link": "https://businessinsider.com.pl/gospodarka/szymon-midera-polska-przedsiebiorczosc-i-ai-kluczami-do-wzrostu-gospodarki/2w6w8mv",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "933cdb515846",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiye-maps-out-digital-transformation-of-agriculture-229701",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye maps out digital transformation of agriculture",
+    "body_orig": "Türkiye will establish a “Digital Irrigation Management System” to forecast irrigation needs, drought and crop yields as part of the country’s Green Deal Action Plan, while artificial intelligence will play an active role in smart farming practices.",
+    "published": "2026-11-22T11:05:07",
+    "fetched": "2026-11-22T12:44:15.566012",
+    "title_uk": "Туреччина впроваджує цифрову систему управління зрошенням",
+    "summary_uk": "Туреччина планує створити систему цифрового управління зрошенням для прогнозування потреб у зрошенні, посухи та врожайності. Це частина Плану дій Зеленого угоди. Штучний інтелект буде активно використовуватись у розумному землеробстві.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Цифрові технології можуть відкрити нові можливості для турецьких виробників, які шукають ринки в Україні, Польщі чи Румунії, зокрема в агросекторі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Туреччина впроваджує цифрову систему управління зрошенням",
+    "summary": "Туреччина планує створити систему цифрового управління зрошенням для прогнозування потреб у зрошенні, посухи та врожайності. Це частина Плану дій Зеленого угоди. Штучний інтелект буде активно використовуватись у розумному землеробстві.",
+    "link": "https://www.hurriyetdailynews.com/turkiye-maps-out-digital-transformation-of-agriculture-229701",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7793fd941944",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/illegal-cigarette-trade-may-cost-turkiye-137-billion-turkish-liras-229691",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Illegal cigarette trade may cost Türkiye 137 billion Turkish Liras",
+    "body_orig": "As the Health Ministry drafts legislation to curb underage tobacco sales, the treasury and finance, trade, interior and agriculture ministries have intensified enforcement against illicit cigarettes, warning that products sold online and at kiosks will be confiscated.",
+    "published": "2026-11-22T08:26:10",
+    "fetched": "2026-11-22T12:44:15.566028",
+    "title_uk": "Незаконна торгівля сигаретами може коштувати Туреччині 137 млрд лір",
+    "summary_uk": "Міністерство охорони здоров'я Туреччини розробляє законодавство для боротьби з продажем тютюну неповнолітнім. Інші міністерства посилили контроль за нелегальними сигаретами, попереджаючи про конфіскацію товарів, що продаються онлайн та в кіосках. За оцінками, збитки від незаконної торгівлі можуть сягнути €5.5 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Посилення контролю може створити бар'єри для турецьких виробників, які планують вихід на нові ринки. Важливо враховувати зміни в законодавстві та можливі ризики.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "тютюн",
+      "митниця"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Незаконна торгівля сигаретами може коштувати Туреччині 137 млрд лір",
+    "summary": "Міністерство охорони здоров'я Туреччини розробляє законодавство для боротьби з продажем тютюну неповнолітнім. Інші міністерства посилили контроль за нелегальними сигаретами, попереджаючи про конфіскацію товарів, що продаються онлайн та в кіосках. За оцінками, збитки від незаконної торгівлі можуть сягнути €5.5 млрд.",
+    "link": "https://www.hurriyetdailynews.com/illegal-cigarette-trade-may-cost-turkiye-137-billion-turkish-liras-229691",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d628be69e15b",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/climate-change-directly-threatening-future-of-tourism-turob-head-229690",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Climate change directly threatening future of tourism: TÜROB head",
+    "body_orig": "Climate change is directly affecting tourism and the future of destinations, with declining snowfall at winter resorts, shifting seasons, extreme temperatures and drought posing major risks to the sector, Turkish Hotel Association (TÜROB) Chair Müberra Eresin has warned.",
+    "published": "2026-11-22T07:54:36",
+    "fetched": "2026-11-22T12:44:15.566037",
+    "title_uk": "Зміна клімату загрожує майбутньому туризму в Туреччині",
+    "summary_uk": "Голова Турецької асоціації готелів (TÜROB) Мюберра Ересін попередила про негативний вплив зміни клімату на туризм. Зменшення снігового покриву на зимових курортах, зміщення сезонів, екстремальні температури та посухи створюють серйозні ризики для галузі. Це може вплинути на популярність туристичних напрямків.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зміна клімату може вплинути на туристичний сектор, що важливо враховувати при плануванні нових продуктів для ринку. Розгляньте адаптацію пропозицій до нових умов.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "туризм"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Зміна клімату загрожує майбутньому туризму в Туреччині",
+    "summary": "Голова Турецької асоціації готелів (TÜROB) Мюберра Ересін попередила про негативний вплив зміни клімату на туризм. Зменшення снігового покриву на зимових курортах, зміщення сезонів, екстремальні температури та посухи створюють серйозні ризики для галузі. Це може вплинути на популярність туристичних напрямків.",
+    "link": "https://www.hurriyetdailynews.com/climate-change-directly-threatening-future-of-tourism-turob-head-229690",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "464d2eb14d4c",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-jewelry-exports-could-exceed-20-billion-sector-head-229688",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s jewelry exports could exceed $20 billion: Sector head",
+    "body_orig": "Türkiye could easily surpass $20 billion in jewelry exports if the quota on unprocessed gold imports introduced in 2023 and additional taxes on jewelry imports were abolished, said Mustafa Özcan, chairman of the board of the Jewelry Exporters’ Association (MİB).",
+    "published": "2026-11-22T07:50:47",
+    "fetched": "2026-11-22T12:44:15.566054",
+    "title_uk": "Туреччина може перевищити $20 млрд експорту ювелірних виробів",
+    "summary_uk": "Голова асоціації експортерів ювелірних виробів Туреччини, Мустафа Озджан, заявив, що країна може легко перевищити $20 млрд в експорті ювелірних виробів. Це можливо за умови скасування квот на імпорт необробленого золота та додаткових податків на імпорт ювелірних виробів. Введення цих обмежень у 2023 році негативно вплинуло на сектор.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Скасування квот і податків може відкрити нові можливості для турецьких виробників, які хочуть експортувати в UA/PL/RO. Рекомендується стежити за змінами в регуляціях.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "експорт",
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина може перевищити $20 млрд експорту ювелірних виробів",
+    "summary": "Голова асоціації експортерів ювелірних виробів Туреччини, Мустафа Озджан, заявив, що країна може легко перевищити $20 млрд в експорті ювелірних виробів. Це можливо за умови скасування квот на імпорт необробленого золота та додаткових податків на імпорт ювелірних виробів. Введення цих обмежень у 2023 році негативно вплинуло на сектор.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-jewelry-exports-could-exceed-20-billion-sector-head-229688",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "62b8f2588aba",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/turkiyes-machinery-exports-hit-record-23-7-billion-in-january-october-229687",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Türkiye’s machinery exports hit record $23.7 billion in January-October",
+    "body_orig": "The machinery manufacturing industry’s consolidated exports, including those from free zones, reached an all-time high of $23.7 billion in the January-October period, according to data from the Machinery Exporters’ Association (MAİB).",
+    "published": "2026-11-22T07:48:48",
+    "fetched": "2026-11-22T12:44:15.566063",
+    "title_uk": "Туреччина встановила рекорд експорту машинобудування у 2023 році",
+    "summary_uk": "Експорт машинобудування Туреччини досяг рекордних $23.7 млрд у період з січня по жовтень. Данні надані Асоціацією експортерів машинобудування (MAİB). Це свідчить про зростання попиту на турецьку продукцію на міжнародних ринках.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту відкриває нові можливості для турецьких виробників, які можуть розширити ринки збуту в Україні, Польщі та Румунії.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Туреччина встановила рекорд експорту машинобудування у 2023 році",
+    "summary": "Експорт машинобудування Туреччини досяг рекордних $23.7 млрд у період з січня по жовтень. Данні надані Асоціацією експортерів машинобудування (MAİB). Це свідчить про зростання попиту на турецьку продукцію на міжнародних ринках.",
+    "link": "https://www.hurriyetdailynews.com/turkiyes-machinery-exports-hit-record-23-7-billion-in-january-october-229687",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "35508096226e",
+    "source": "Hurriyet Daily News",
+    "source_url": "https://www.hurriyetdailynews.com/eu-proposes-tax-on-big-tech-200-billion-euro-cuts-in-new-budget-draft-229685",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "EU proposes tax on Big Tech, 200 billion euro cuts in new budget draft",
+    "body_orig": "The EU has put forward plans to tax the world's biggest digital companies to fund its next budget, as it seeks to bridge divisions among member states over the bloc's long-term funding.",
+    "published": "2026-11-22T06:44:24",
+    "fetched": "2026-11-22T12:44:15.566079",
+    "title_uk": "ЄС пропонує податок на великі технологічні компанії",
+    "summary_uk": "Європейський Союз представив плани оподаткування найбільших цифрових компаній для фінансування нового бюджету. Це має допомогти подолати розбіжності між державами-членами щодо довгострокового фінансування блоку. Заплановані скорочення бюджету становлять €200 млрд.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "податки",
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ЄС пропонує податок на великі технологічні компанії",
+    "summary": "Європейський Союз представив плани оподаткування найбільших цифрових компаній для фінансування нового бюджету. Це має допомогти подолати розбіжності між державами-членами щодо довгострокового фінансування блоку. Заплановані скорочення бюджету становлять €200 млрд.",
+    "link": "https://www.hurriyetdailynews.com/eu-proposes-tax-on-big-tech-200-billion-euro-cuts-in-new-budget-draft-229685",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2952eeec8c99",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/asia-pacific/south-korea-posts-record-car-trade-deficit-with-china-as-tesla-ev-imports-surge/4133332",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "South Korea posts record car trade deficit with China as Tesla EV imports surge",
+    "body_orig": "Car imports from China rise 79.2% to $4.39B in January-October, pushing South Korea's trade deficit to a record $4.23B",
+    "published": "2026-11-22T07:00:20",
+    "fetched": "2026-11-22T12:44:17.396910",
+    "title_uk": "Південна Корея фіксує рекордний дефіцит торгівлі автомобілями з Китаєм",
+    "summary_uk": "Імпорт автомобілів з Китаю зріс на 79% до $4.39 млрд у січні-жовтні. Це призвело до рекордного дефіциту торгівлі Південної Кореї в $4.23 млрд. Основним фактором є зростання імпорту електромобілів Tesla.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "імпорт",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Південна Корея фіксує рекордний дефіцит торгівлі автомобілями з Китаєм",
+    "summary": "Імпорт автомобілів з Китаю зріс на 79% до $4.39 млрд у січні-жовтні. Це призвело до рекордного дефіциту торгівлі Південної Кореї в $4.23 млрд. Основним фактором є зростання імпорту електромобілів Tesla.",
+    "link": "https://www.aa.com.tr/en/asia-pacific/south-korea-posts-record-car-trade-deficit-with-china-as-tesla-ev-imports-surge/4133332",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b03afd59d70f",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/yusufeli-barajindan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki/4133562",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Yusufeli Barajı'ndan Türkiye ekonomisine 16,7 milyar lirayı aşan katkı",
+    "body_orig": "Tarım ve Orman Bakanı Yumaklı, \"Yusufeli, 275 metre gövde yüksekliği, ürettiği 5,6 milyar kilovatsaat elektrik ve ekonomimize sağladığı 16,7 milyar lirayı aşan katkıyla ülkemizin gururu olmaya devam ediyor.\" ifadesini kullandı.",
+    "published": "2026-11-22T12:11:37",
+    "fetched": "2026-11-22T12:44:18.837290",
+    "title_uk": "Гребля Юсуфелі приносить Туреччині понад €0.5 млрд",
+    "summary_uk": "Міністр сільського господарства Туреччини повідомив, що гребля Юсуфелі, висотою 275 метрів, виробляє 5.6 млрд кВт·год електроенергії та забезпечила економіці країни внесок понад 16.7 млрд лір. Це підкреслює важливість інфраструктурних проектів для економічного розвитку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Проект демонструє потенціал інвестицій в енергетичну інфраструктуру. Можливості для співпраці з українськими компаніями в енергетичному секторі можуть бути розглянуті.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Гребля Юсуфелі приносить Туреччині понад €0.5 млрд",
+    "summary": "Міністр сільського господарства Туреччини повідомив, що гребля Юсуфелі, висотою 275 метрів, виробляє 5.6 млрд кВт·год електроенергії та забезпечила економіці країни внесок понад 16.7 млрд лір. Це підкреслює важливість інфраструктурних проектів для економічного розвитку.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/yusufeli-barajindan-turkiye-ekonomisine-16-7-milyar-lirayi-asan-katki/4133562",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "29cc6c6af3e6",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/antalyada-zeytinyagi-fabrikalari-kesintisiz-mesai-yapiyor/4133403",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Antalya'da zeytinyağı fabrikaları kesintisiz mesai yapıyor",
+    "body_orig": "Antalya'nın Serik ilçesinde zeytin hasadının yoğunlaşmasıyla zeytinyağı fabrikalarında hareketlilik arttı.",
+    "published": "2026-11-22T08:40:24",
+    "fetched": "2026-11-22T12:44:18.837306",
+    "title_uk": "Фабрики оливкової олії в Анталії працюють без перерви",
+    "summary_uk": "У районі Серік в Анталії активізувалася робота фабрик оливкової олії через сезон збору оливок. Зростання виробництва очікується внаслідок збільшення обсягів збору. Виробники намагаються задовольнити попит на олію в умовах високої конкуренції.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання виробництва оливкової олії може відкрити нові можливості для експорту в країни, що шукають якісну продукцію. Рекомендується оцінити потенційні ринки.",
+      "category_manager": "Збільшення виробництва оливкової олії може вплинути на ціни та асортимент у категорії олій. Рекомендується переглянути стратегії закупівель і промо-акції."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Фабрики оливкової олії в Анталії працюють без перерви",
+    "summary": "У районі Серік в Анталії активізувалася робота фабрик оливкової олії через сезон збору оливок. Зростання виробництва очікується внаслідок збільшення обсягів збору. Виробники намагаються задовольнити попит на олію в умовах високої конкуренції.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/antalyada-zeytinyagi-fabrikalari-kesintisiz-mesai-yapiyor/4133403",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a5ef925058db",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/dunyanin-en-degerli-bankalari-arasinda-abd-ve-cin-bankalari-one-cikiyor/4133392",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Dünyanın en değerli bankaları arasında ABD ve Çin bankaları öne çıkıyor",
+    "body_orig": "910,4 milyar dolarlık piyasa değeri ile JPMorgan Chase, kendisinden sonra gelen en büyük iki bankanın piyasa değeri toplamını geride bırakıyor.",
+    "published": "2026-11-22T08:22:40",
+    "fetched": "2026-11-22T12:44:18.837314",
+    "title_uk": "JPMorgan Chase залишається найбільшою банківською установою світу",
+    "summary_uk": "JPMorgan Chase має ринкову вартість $910 млрд, що перевищує суму ринкових вартостей двох найбільших конкурентів. Це підтверджує лідерство американських банків у світовій фінансовій системі. Конкуренти не досягають таких показників.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "JPMorgan Chase залишається найбільшою банківською установою світу",
+    "summary": "JPMorgan Chase має ринкову вартість $910 млрд, що перевищує суму ринкових вартостей двох найбільших конкурентів. Це підтверджує лідерство американських банків у світовій фінансовій системі. Конкуренти не досягають таких показників.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/dunyanin-en-degerli-bankalari-arasinda-abd-ve-cin-bankalari-one-cikiyor/4133392",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "61ffe0eaed72",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/nane-uretiminde-lider-gaziantepte-son-hasat/4133385",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Nane üretiminde lider Gaziantep'te son hasat",
+    "body_orig": "Türkiye'nin nane üretiminin bu yıl yüzde 78'ini karşılaması beklenen Gaziantep'te sezonun son hasadı yapılıyor.",
+    "published": "2026-11-22T08:16:19",
+    "fetched": "2026-11-22T12:44:18.837322",
+    "title_uk": "Газиантеп завершує сезон збору м'яти",
+    "summary_uk": "У Газиантепі триває останній збір м'яти, що забезпечить 78% виробництва в Туреччині цього року. Місто є лідером у виробництві цієї культури, що підкреслює його важливість для аграрного сектору країни.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це свідчить про стабільний попит на м'яту в Туреччині, що може бути корисно для виробників, які планують розширення на внутрішньому ринку.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Газиантеп завершує сезон збору м'яти",
+    "summary": "У Газиантепі триває останній збір м'яти, що забезпечить 78% виробництва в Туреччині цього року. Місто є лідером у виробництві цієї культури, що підкреслює його важливість для аграрного сектору країни.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/nane-uretiminde-lider-gaziantepte-son-hasat/4133385",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "4dbbf77058b7",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/turkiye-elektrikli-battaniye-ihracatiyla-dis-ticaretine-sicaklik-kazandirdi/4133379",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Türkiye, elektrikli battaniye ihracatıyla dış ticaretine sıcaklık kazandırdı",
+    "body_orig": "Soğuk kış koşullarıyla birlikte elektrikli battaniye gibi kişisel ısınma ürünleri öne çıkarken, Türkiye 9 ayda söz konusu üründe 1,3 milyon dolarlık ihracat yaptı.",
+    "published": "2026-11-22T08:12:43",
+    "fetched": "2026-11-22T12:44:18.837336",
+    "title_uk": "Туреччина збільшила експорт електричних ковдр до $1.3 млн",
+    "summary_uk": "У Туреччині експорт електричних ковдр за 9 місяців досяг $1.3 млн. Попит на особисті обігрівальні пристрої зростає через холодні зимові умови. Це свідчить про потенціал ринку для виробників таких товарів.",
+    "what_it_means": {
+      "ua_importer": "Якщо ви імпортуєте побутову техніку з Туреччини, зверніть увагу на зростання популярності електричних ковдр. Можливо, варто розглянути їх у вашому асортименті.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Зростання експорту електричних ковдр може відкрити нові можливості для турецьких виробників на ринках України та Польщі. Рекомендується активізувати маркетинг у цих країнах.",
+      "category_manager": "Не впливає."
+    },
+    "tags": [
+      "експорт",
+      "виробництво",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Туреччина збільшила експорт електричних ковдр до $1.3 млн",
+    "summary": "У Туреччині експорт електричних ковдр за 9 місяців досяг $1.3 млн. Попит на особисті обігрівальні пристрої зростає через холодні зимові умови. Це свідчить про потенціал ринку для виробників таких товарів.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-elektrikli-battaniye-ihracatiyla-dis-ticaretine-sicaklik-kazandirdi/4133379",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "64308d726a96",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/dolarin-guclenmesi-ve-faiz-artirim-endiseleri-emtia-piyasasindaki-satis-baskisini-derinlestirdi/4133375",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Doların güçlenmesi ve faiz artırım endişeleri emtia piyasasındaki satış baskısını derinleştirdi",
+    "body_orig": "Altının onsu 3 bin 502 dolarla, gümüşün onsu 40,8 dolarla Eylül 2025'ten bu yana en düşük seviyeyi gördü.",
+    "published": "2026-11-22T08:10:05",
+    "fetched": "2026-11-22T12:44:18.837345",
+    "title_uk": "Зниження цін на золото та срібло до рекордно низьких рівнів",
+    "summary_uk": "Ціни на золото впали до $3,5 тис. за унцію, а срібло — до $40,8. Це найнижчі показники з вересня 2025 року. Причини — зміцнення долара та побоювання щодо підвищення процентних ставок.",
+    "what_it_means": {
+      "ua_importer": "Зниження цін на дорогоцінні метали може зменшити витрати на імпорт ювелірних виробів. Рекомендується переглянути контракти з постачальниками.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зниження цін на сировину може дозволити знизити ціни на готову продукцію. Рекомендується переглянути цінову політику для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "ціни-сировина",
+      "імпорт",
+      "дистрибуція"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Зниження цін на золото та срібло до рекордно низьких рівнів",
+    "summary": "Ціни на золото впали до $3,5 тис. за унцію, а срібло — до $40,8. Це найнижчі показники з вересня 2025 року. Причини — зміцнення долара та побоювання щодо підвищення процентних ставок.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/dolarin-guclenmesi-ve-faiz-artirim-endiseleri-emtia-piyasasindaki-satis-baskisini-derinlestirdi/4133375",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "751cd0e3893f",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/eveniment/peste-570-000-de-doze-de-vaccin-antigripal-ajung-in-farmacii-cand-vor-fi-disponibile-23286841",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Peste 570.000 de doze de vaccin antigripal ajung în farmacii. Când vor fi disponibile",
+    "body_orig": "Peste 570.000 de doze noi de vaccin antigripal vor ajunge în farmaciile din România în zilele următoare, după suplimentarea stocurilor. Cele mai multe sunt doze de Vaxigrip, care vor fi disponibile începând de luni, în timp ce un lot de 50.000 de doze de Efluelda este aşteptat săptămâna viitoare.",
+    "published": "2026-11-22T12:15:22",
+    "fetched": "2026-11-22T12:44:20.881098",
+    "title_uk": "В Румунії з'явиться понад 570 тисяч доз вакцини від грипу",
+    "summary_uk": "В Румунії в найближчі дні в аптеки надійдуть понад 570 тисяч доз вакцини від грипу. Більшість з них — Vaxigrip, доступні з понеділка. Додаткові 50 тисяч доз Efluelda очікуються наступного тижня.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "FMCG",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "В Румунії з'явиться понад 570 тисяч доз вакцини від грипу",
+    "summary": "В Румунії в найближчі дні в аптеки надійдуть понад 570 тисяч доз вакцини від грипу. Більшість з них — Vaxigrip, доступні з понеділка. Додаткові 50 тисяч доз Efluelda очікуються наступного тижня.",
+    "link": "https://www.zf.ro/eveniment/peste-570-000-de-doze-de-vaccin-antigripal-ajung-in-farmacii-cand-vor-fi-disponibile-23286841",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6d6e34a0d469",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-construct/vlad-saftoiu-cushman-wakefield-echinox-urmatorul-pariu-imobiliar-dezvoltarea-caminelor-studenti-avand-vedere-exista-foarte-mare-diferenta-intre-ceea-detine-statul-numarul-studenti-4-5-studenti-23286804",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Vlad Săftoiu, Cushman & Wakefield Echinox: Următorul pariu imobiliar va fi pe dezvoltarea căminelor pentru studenţi, având în vedere că există o foarte mare diferenţă între ceea ce deţine statul şi numărul de studenţi. La 4,5 studenţi există doar un loc în cămin",
+    "body_orig": "",
+    "published": "2026-11-22T11:50:00",
+    "fetched": "2026-11-22T12:44:20.881119",
+    "title_uk": "Розвиток студентських гуртожитків в Румунії стає перспективним напрямком",
+    "summary_uk": "Влад Сăфтойу з Cushman & Wakefield Echinox заявив про потенціал інвестицій у гуртожитки для студентів. На 4,5 студента припадає лише одне місце в гуртожитку, що свідчить про великий попит. Це відкриває можливості для девелоперів у сфері нерухомості.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може вплинути на плани ритейлерів, які працюють у студентських містах. Розгляньте можливість співпраці з новими гуртожитками для просування товарів."
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "Розвиток студентських гуртожитків в Румунії стає перспективним напрямком",
+    "summary": "Влад Сăфтойу з Cushman & Wakefield Echinox заявив про потенціал інвестицій у гуртожитки для студентів. На 4,5 студента припадає лише одне місце в гуртожитку, що свідчить про великий попит. Це відкриває можливості для девелоперів у сфері нерухомості.",
+    "link": "https://www.zf.ro/business-construct/vlad-saftoiu-cushman-wakefield-echinox-urmatorul-pariu-imobiliar-dezvoltarea-caminelor-studenti-avand-vedere-exista-foarte-mare-diferenta-intre-ceea-detine-statul-numarul-studenti-4-5-studenti-23286804",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "75c3caf1eaac",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/start-up-ul-shorts-fondat-cristian-carp-incearca-democratizeze-productia-video-printr-aplicatie-mobil-capabila-genereze-editeze-automat-continut-video-pana-finalul-anului-vrea-ajungem-peste-1-600-23286793",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Start-up-ul Shorts AI, fondat de Cristian Carp,  încearcă să democratizeze producţia video printr-o aplicaţie de mobil capabilă să genereze şi să editeze automat conţinut video. “Până la finalul anului am vrea să ajungem la peste 1.600 de utilizatori plătitori, care să ne aducă venituri de circa 50.000 de dolari pe lună”. VIDEO",
+    "body_orig": "",
+    "published": "2026-11-22T11:09:00",
+    "fetched": "2026-11-22T12:44:20.881136",
+    "title_uk": "Стартап Shorts AI планує 1.600 платних користувачів до кінця року",
+    "summary_uk": "Стартап Shorts AI, заснований Крістіаном Карпом, розробляє мобільний додаток для автоматичного створення та редагування відео. До кінця року компанія сподівається залучити 1.600 платних користувачів, що принесе близько $50.000 щомісяця. Це може змінити підходи до відеомаркетингу для малих бізнесів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Стартап може стати корисним інструментом для категорійних менеджерів, які шукають ефективні рішення для відеомаркетингу. Розгляньте можливість інтеграції таких технологій у свої стратегії."
+    },
+    "tags": [
+      "стартапи",
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Стартап Shorts AI планує 1.600 платних користувачів до кінця року",
+    "summary": "Стартап Shorts AI, заснований Крістіаном Карпом, розробляє мобільний додаток для автоматичного створення та редагування відео. До кінця року компанія сподівається залучити 1.600 платних користувачів, що принесе близько $50.000 щомісяця. Це може змінити підходи до відеомаркетингу для малих бізнесів.",
+    "link": "https://www.zf.ro/business-hi-tech/start-up-ul-shorts-fondat-cristian-carp-incearca-democratizeze-productia-video-printr-aplicatie-mobil-capabila-genereze-editeze-automat-continut-video-pana-finalul-anului-vrea-ajungem-peste-1-600-23286793",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3b042a30dc12",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/retail-agrobusiness/procter-gamble-planuieste-sa-reduca-numarul-angajatilor-din-productie-cu-pana-la-30-gigantul-american-are-in-romania-doua-fabrici-cu-550-de-salariati-23286787",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Procter & Gamble plănuieşte să reducă numărul angajaţilor din producţie cu până la 30%. Gigantul american are în România două fabrici cu 550 de salariaţi",
+    "body_orig": "",
+    "published": "2026-11-22T10:56:34",
+    "fetched": "2026-11-22T12:44:20.881153",
+    "title_uk": "Procter & Gamble планує скоротити 30% працівників у Румунії",
+    "summary_uk": "Procter & Gamble має намір зменшити кількість працівників у виробництві до 30%. У Румунії компанія експлуатує дві фабрики з 550 співробітниками. Скорочення пов'язане з оптимізацією витрат та підвищенням ефективності виробництва.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "FMCG"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Procter & Gamble планує скоротити 30% працівників у Румунії",
+    "summary": "Procter & Gamble має намір зменшити кількість працівників у виробництві до 30%. У Румунії компанія експлуатує дві фабрики з 550 співробітниками. Скорочення пов'язане з оптимізацією витрат та підвищенням ефективності виробництва.",
+    "link": "https://www.zf.ro/companii/retail-agrobusiness/procter-gamble-planuieste-sa-reduca-numarul-angajatilor-din-productie-cu-pana-la-30-gigantul-american-are-in-romania-doua-fabrici-cu-550-de-salariati-23286787",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b00506bfe3de",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/investitie-austriaca-in-romania-kraftfeld-urmeaza-sa-ia-autorizatia-de-la-anre-pentru-un-parc-fotovoltaic-cu-stocare-in-mehedinti_997947.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Investiție austriacă în România: Kraftfeld urmează să ia autorizația de la ANRE pentru un parc fotovoltaic cu stocare în Mehedinți",
+    "body_orig": "Un parc fotovoltaic cu stocare, dezvoltat de austriecii de la Kraffeld în sud-vestul României, Gârla Mare 1, de 74 MW cu 100 MWh, urmează să fie autorizat de ANRE",
+    "published": "2026-11-22T12:34:53",
+    "fetched": "2026-11-22T12:44:23.086073",
+    "title_uk": "Австрійська Kraftfeld планує сонячний парк у Румунії",
+    "summary_uk": "Компанія Kraftfeld отримала дозвіл на будівництво сонячного парку в Румунії. Проект Gârla Mare 1 матиме потужність 74 МВт та зможе зберігати 100 МВт·год енергії. Очікується, що він отримає авторизацію від ANRE.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Австрійська Kraftfeld планує сонячний парк у Румунії",
+    "summary": "Компанія Kraftfeld отримала дозвіл на будівництво сонячного парку в Румунії. Проект Gârla Mare 1 матиме потужність 74 МВт та зможе зберігати 100 МВт·год енергії. Очікується, що він отримає авторизацію від ANRE.",
+    "link": "https://www.economica.net/investitie-austriaca-in-romania-kraftfeld-urmeaza-sa-ia-autorizatia-de-la-anre-pentru-un-parc-fotovoltaic-cu-stocare-in-mehedinti_997947.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "a6730f06ee6a",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/un-brand-italian-de-fashion-de-lux-accesibil-revine-in-romania_996735.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Un brand italian de fashion de lux accesibil revine în România",
+    "body_orig": "Retailerul de modă italian Antony Morato reintră pe piața din România într-un magazin pe care îl va inaugura în centrul comercial Mega Mall din București. Inițial, a testat piața locală în 2013.",
+    "published": "2026-11-22T12:26:41",
+    "fetched": "2026-11-22T12:44:23.086090",
+    "title_uk": "Italian Antony Morato повертається на ринок Румунії",
+    "summary_uk": "Італійський рітейлер Antony Morato відкриє магазин у Mega Mall в Бухаресті. Бренд раніше тестував ринок Румунії у 2013 році. Це повернення може свідчити про відновлення інтересу до ринку моди в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Відкриття нового магазину може вплинути на конкуренцію в сегменті моди. Рекомендується переглянути асортимент та стратегії просування для підвищення конкурентоспроможності."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Italian Antony Morato повертається на ринок Румунії",
+    "summary": "Італійський рітейлер Antony Morato відкриє магазин у Mega Mall в Бухаресті. Бренд раніше тестував ринок Румунії у 2013 році. Це повернення може свідчити про відновлення інтересу до ринку моди в країні.",
+    "link": "https://www.economica.net/un-brand-italian-de-fashion-de-lux-accesibil-revine-in-romania_996735.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e68a39e1781b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/date-in-premiera-cate-carduri-au-romanii-numarul-total-depaseste-cumult-populatia-tarii_998026.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Date în premieră. Câte carduri au românii. Numărul total depășește cu mult populația țării",
+    "body_orig": "Banca Națională a României(BNR) a anunțat câte carduri sunt active în România. Numărul acestora este dublu raportat la populația care locuiește și lucrează în țară.",
+    "published": "2026-11-22T11:52:13",
+    "fetched": "2026-11-22T12:44:23.086107",
+    "title_uk": "Румунія має вдвічі більше карток, ніж населення",
+    "summary_uk": "Банка Національна Румунії повідомила про кількість активних карток у країні. Їх число перевищує населення Румунії вдвічі, що свідчить про високий рівень безготівкових розрахунків. Це може вплинути на фінансові послуги та ринок роздрібної торгівлі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Високий рівень використання карток може свідчити про зростання попиту на безготівкові платежі в ритейлі. Рекомендується адаптувати стратегії продажів до цього тренду."
+    },
+    "tags": [
+      "ритейл",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Румунія має вдвічі більше карток, ніж населення",
+    "summary": "Банка Національна Румунії повідомила про кількість активних карток у країні. Їх число перевищує населення Румунії вдвічі, що свідчить про високий рівень безготівкових розрахунків. Це може вплинути на фінансові послуги та ринок роздрібної торгівлі.",
+    "link": "https://www.economica.net/date-in-premiera-cate-carduri-au-romanii-numarul-total-depaseste-cumult-populatia-tarii_998026.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3888bc04b3bc",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-peste-18-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_998023.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Bursa de la Bucureşti a pierdut peste 18 miliarde de lei la capitalizare în această săptămână",
+    "body_orig": "Bursa de Valori Bucureşti (BVB) a pierdut, în această săptămână, 18,4 miliarde de lei la capitalizare (-2,58%), în timp ce valoarea tranzacţiilor cu acţiuni a scăzut cu aproape 88 de milioane de lei (-31,65%), potrivit datelor publicate de BVB şi consultate de AGERPRES.",
+    "published": "2026-11-22T11:14:15",
+    "fetched": "2026-11-22T12:44:23.086115",
+    "title_uk": "Бухарестська біржа втратила €4 млрд за тиждень",
+    "summary_uk": "Біржа Бухареста знизилася на €4 млрд (-2,6%) за тиждень. Обсяг торгів акціями впав на €18 млн (-31%). Ці дані підтверджені біржею та AGERPRES.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ринок",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Бухарестська біржа втратила €4 млрд за тиждень",
+    "summary": "Біржа Бухареста знизилася на €4 млрд (-2,6%) за тиждень. Обсяг торгів акціями впав на €18 млн (-31%). Ці дані підтверджені біржею та AGERPRES.",
+    "link": "https://www.economica.net/bursa-de-la-bucuresti-a-pierdut-peste-18-miliarde-de-lei-la-capitalizare-in-aceasta-saptamana_998023.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "506ab59e6cfa",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/veste-buna-pentru-soferi-benzina-coboara-sub-9-lei-dupa-mai-multe-luni-la-ce-statii-a-atins-899-lei_998017.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Veste bună pentru șoferi. Benzina coboară sub 9 lei după mai multe luni. La ce stații a atins 8,99 lei",
+    "body_orig": "Veste bună pentru șoferi. După mai multe luni în care a depășit și 10 lei per litru și o serie de câteva zile în care a scăzut constant, prețul benzinei se duce și sub 9 lei și tinde spre normalitate.",
+    "published": "2026-11-22T09:24:34",
+    "fetched": "2026-11-22T12:44:23.086139",
+    "title_uk": "Ціна бензину в Румунії впала нижче 9 леїв",
+    "summary_uk": "Ціна бензину в Румунії знизилася до 8.99 леїв за літр після тривалого періоду, коли перевищувала 10 леїв. Це свідчить про стабілізацію цін на паливо. Зниження відбулося після кількох днів постійного падіння цін.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ціни-сировина"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Ціна бензину в Румунії впала нижче 9 леїв",
+    "summary": "Ціна бензину в Румунії знизилася до 8.99 леїв за літр після тривалого періоду, коли перевищувала 10 леїв. Це свідчить про стабілізацію цін на паливо. Зниження відбулося після кількох днів постійного падіння цін.",
+    "link": "https://www.economica.net/veste-buna-pentru-soferi-benzina-coboara-sub-9-lei-dupa-mai-multe-luni-la-ce-statii-a-atins-899-lei_998017.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e393c4fb1927",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/openai-testuje-novii-dizain-chatgpt-u-zastosunku-zyavitsya-nova-vkladka-p6wk1z",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "OpenAI тестує новий дизайн ChatGPT: у застосунку з’явиться нова вкладка",
+    "body_orig": "OpenAI почала тестувати оновлений інтерфейс мобільного ChatGPT. Головна зміна – нижня панель навігації з окремою вкладкою для AI-агента Dot, а також можливістю закріплювати інші інструменти, зокрема Codex та генератор зображень. Це може свідчити про перехід ChatGPT від звичайного чатбота до платформи з кількома спеціалізованими AI-інструментами.",
+    "published": "2026-11-22T07:00:00",
+    "fetched": "2026-11-22T12:44:14.221309",
+    "title_uk": "OpenAI тестує новий дизайн ChatGPT з новими функціями",
+    "summary_uk": "OpenAI розпочала тестування оновленого інтерфейсу мобільного ChatGPT. Зміни включають нову нижню панель навігації з вкладкою для AI-агента Dot та можливістю закріплення інших інструментів, таких як Codex і генератор зображень. Це може свідчити про еволюцію ChatGPT у багатофункціональну платформу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "OpenAI тестує новий дизайн ChatGPT з новими функціями",
+    "summary": "OpenAI розпочала тестування оновленого інтерфейсу мобільного ChatGPT. Зміни включають нову нижню панель навігації з вкладкою для AI-агента Dot та можливістю закріплення інших інструментів, таких як Codex і генератор зображень. Це може свідчити про еволюцію ChatGPT у багатофункціональну платформу.",
+    "link": "https://speka.ua/news/openai-testuje-novii-dizain-chatgpt-u-zastosunku-zyavitsya-nova-vkladka-p6wk1z",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "c4e740123beb",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/business/slagbaum-dlya-ai-marketingu-9gw626",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "«Шлагбаум» для AI-маркетингу",
+    "body_orig": "На тлі скандалів навколо Дженсена Хуанга та IPO Anthropic зовсім непоміченою пройшла подія, яку насправді можна назвати значно вагомішою. У Нью-Йорку заборонили встановлювати різним людям різні ціни на той самий товар на основі їхніх персональних даних (так зване «surveillance pricing»). Така маркетингова практика – витвір «інформаційної революції», а бурхливий розвиток AI-технологій зробив її набагато поширенішою.",
+    "published": "2026-11-21T23:10:00",
+    "fetched": "2026-11-22T12:44:14.221336",
+    "title_uk": "Нью-Йорк заборонив «surveillance pricing» у маркетингу",
+    "summary_uk": "У Нью-Йорку заборонили встановлювати різні ціни на товари на основі персональних даних. Ця практика, відома як «surveillance pricing», стала поширеною завдяки розвитку AI-технологій. Заборона має на меті захистити споживачів від дискримінації в ціноутворенні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Нью-Йорк заборонив «surveillance pricing» у маркетингу",
+    "summary": "У Нью-Йорку заборонили встановлювати різні ціни на товари на основі персональних даних. Ця практика, відома як «surveillance pricing», стала поширеною завдяки розвитку AI-технологій. Заборона має на меті захистити споживачів від дискримінації в ціноутворенні.",
+    "link": "https://speka.ua/business/slagbaum-dlya-ai-marketingu-9gw626",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
