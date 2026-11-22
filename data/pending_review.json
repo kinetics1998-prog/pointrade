@@ -526671,5 +526671,601 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "d47f733bf60e",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/prawo/prawnik-korzysta-z-ai-w-kazdej-sprawie-za-co-zaplaci-klient/vnxsn40",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "AI pracuje, prawnik kasuje. Ile i za co płaci klient?",
+    "body_orig": "Czy jesteś klientem indywidualnym, czy korzystasz z usług jako firma, musisz się liczyć z jednym. Twój prawnik udzieli odpowiedzi z pomocą sztucznej inteligencji. Poświęci na nią trzy godziny zamiast trzech dni. Czy taka usługa powinna być tańsza? To zależy. Niekoniecznie, bo klient też korzysta z AI i zadaje trudne pytania.",
+    "published": "2026-11-22T17:27:00",
+    "fetched": "2026-11-22T21:33:26.280951",
+    "title_uk": "Адвокати в Польщі використовують AI для швидшого обслуговування клієнтів",
+    "summary_uk": "Адвокати в Польщі почали використовувати штучний інтелект для підготовки відповідей на запитання клієнтів. Тепер на це витрачається три години замість трьох днів. Це може вплинути на вартість послуг, але остаточна ціна залежить від складності запитів клієнтів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Адвокати в Польщі використовують AI для швидшого обслуговування клієнтів",
+    "summary": "Адвокати в Польщі почали використовувати штучний інтелект для підготовки відповідей на запитання клієнтів. Тепер на це витрачається три години замість трьох днів. Це може вплинути на вартість послуг, але остаточна ціна залежить від складності запитів клієнтів.",
+    "link": "https://businessinsider.com.pl/prawo/prawnik-korzysta-z-ai-w-kazdej-sprawie-za-co-zaplaci-klient/vnxsn40",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "92ca6cb16d17",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/bank-centralny-czech-przed-trudnym-wyborem/7qm40j5",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Czeską gospodarkę czeka szok. Bank centralny przed trudnym wyborem",
+    "body_orig": "5 listopada bank centralny Czech po raz drugi w tym roku podniósł główną stopę procentową. Nazwał tę decyzję dostrojeniem restrykcyjnej polityki pieniężnej.",
+    "published": "2026-11-22T15:24:54",
+    "fetched": "2026-11-22T21:33:26.280962",
+    "title_uk": "Центральний банк Чехії підвищив процентну ставку вдруге у 2026 році",
+    "summary_uk": "5 листопада Центральний банк Чехії підвищив основну процентну ставку, що є другим підвищенням цього року. Це рішення названо коригуванням політики. Вплив на ринок може бути значним, оскільки підвищення ставок зазвичай веде до зменшення споживчих витрат.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання ставок може зменшити купівельну спроможність споживачів у Чехії, що вплине на обсяги продажів. Розгляньте можливість коригування асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зміна процентних ставок може вплинути на споживчі звички, тому перегляньте прогнози продажів та плани промо-акцій у відповідних категоріях."
+    },
+    "tags": [
+      "регуляція",
+      "цінова-політика"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Центральний банк Чехії підвищив процентну ставку вдруге у 2026 році",
+    "summary": "5 листопада Центральний банк Чехії підвищив основну процентну ставку, що є другим підвищенням цього року. Це рішення названо коригуванням політики. Вплив на ринок може бути значним, оскільки підвищення ставок зазвичай веде до зменшення споживчих витрат.",
+    "link": "https://businessinsider.com.pl/gospodarka/bank-centralny-czech-przed-trudnym-wyborem/7qm40j5",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d9f8f8905066",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/biznes/zaczynal-od-maszyny-do-lodow-dzis-ma-majatek-wart-1-6-mld-zl-7353729304750080v.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Zaczynał od maszyny do lodów. Dziś ma majątek wart 1,6 mld zł",
+    "body_orig": "Zenon Ziaja, założyciel marki Ziaja, na początku lat&nbsp;90. ruszył bez kapitału, z maszyną do lodów kupioną z demobilu. Dziś jego firma ma ponad 500 mln zł przychodów i 340 mln zł gotówki, a jego majątek \"Forbes\" wycenia na 1,65 mld zł. W Biznes Klasie mówi o początkach, sukcesji i o tym, jak budować duży międzynarodowy biznes.",
+    "published": "2026-11-22T15:57:24",
+    "fetched": "2026-11-22T21:33:28.402915",
+    "title_uk": "Засновник Ziaja став мільярдером з нуля",
+    "summary_uk": "Zenon Ziaja, засновник косметичної марки Ziaja, почав свій бізнес з машини для морозива у 90-х. Сьогодні його компанія має понад €110 млн доходу та €75 млн готівки. Forbes оцінює його статки в €370 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Цей успіх може стати прикладом для польських дистриб'юторів, які працюють з новими брендами. Розгляньте можливість співпраці з малими виробниками, які мають потенціал для зростання.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Вивчайте стратегії Ziaja для розширення асортименту. Їхній досвід може бути корисним для розробки нових продуктів у вашому портфелі."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "FMCG"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Засновник Ziaja став мільярдером з нуля",
+    "summary": "Zenon Ziaja, засновник косметичної марки Ziaja, почав свій бізнес з машини для морозива у 90-х. Сьогодні його компанія має понад €110 млн доходу та €75 млн готівки. Forbes оцінює його статки в €370 млн.",
+    "link": "https://www.money.pl/biznes/zaczynal-od-maszyny-do-lodow-dzis-ma-majatek-wart-1-6-mld-zl-7353729304750080v.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "f20dbd73006c",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gielda/nie-tylko-w-usa-akcje-ai-pikuja-takze-w-chinach-spadek-o-1-7-bln-dol-7353769178068992a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nie tylko w USA. Akcje AI pikują także w Chinach. Spadek o 1,7 bln dol.",
+    "body_orig": "Chińskie spółki związane ze sztuczną inteligencją straciły od końca czerwca łącznie 1,7 bln dolarów wartości rynkowej – informuje serwis investing.com. Inwestorzy obawiają się wysokich wycen, ograniczeń eksportu Stanów Zjednoczonych oraz słabszych perspektyw sektora.",
+    "published": "2026-11-22T13:47:44",
+    "fetched": "2026-11-22T21:33:28.402930",
+    "title_uk": "Китайські акції AI втратили $1.7 трлн з червня",
+    "summary_uk": "Китайські компанії в сфері штучного інтелекту знизилися в ціні на $1.7 трлн з кінця червня. Інвестори стурбовані високими оцінками, обмеженнями експорту з США та погіршенням перспектив сектора. Це викликало занепокоєння на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Китайські акції AI втратили $1.7 трлн з червня",
+    "summary": "Китайські компанії в сфері штучного інтелекту знизилися в ціні на $1.7 трлн з кінця червня. Інвестори стурбовані високими оцінками, обмеженнями експорту з США та погіршенням перспектив сектора. Це викликало занепокоєння на ринку.",
+    "link": "https://www.money.pl/gielda/nie-tylko-w-usa-akcje-ai-pikuja-takze-w-chinach-spadek-o-1-7-bln-dol-7353769178068992a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1e6332beffc5",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gielda/zloto-moze-jeszcze-potaniec-ubs-wskazuje-granice-spadkow-7353757347436544a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Złoto może jeszcze potanieć. UBS wskazuje granicę spadków",
+    "body_orig": "Złoto znalazło się pod presją mocnego dolara i obaw o kolejne podwyżki stóp procentowych w USA. Analitycy UBS ostrzegają, że cena kruszcu może spaść do 3500 dolarów za uncję. Jednocześnie prognozują, że pod koniec 2027 r. złoto będzie kosztować nawet 5000 dolarów.",
+    "published": "2026-11-22T12:52:03",
+    "fetched": "2026-11-22T21:33:28.402937",
+    "title_uk": "UBS прогнозує падіння ціни золота до $3500 за унцію",
+    "summary_uk": "Золото під тиском сильного долара та можливих підвищень ставок у США. Analitycy UBS вважають, що ціна може знизитися до $3500 за унцію, але до кінця 2027 року зросте до $5000.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження цін на золото може зменшити витрати на ювелірні вироби, що позитивно вплине на продажі в сегменті. Розгляньте можливість закупівлі за нижчими цінами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження цін на золото може вплинути на категорії товарів, що містять дорогоцінні метали. Перегляньте асортимент та ціни на відповідні продукти."
+    },
+    "tags": [
+      "ціни-сировина",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "UBS прогнозує падіння ціни золота до $3500 за унцію",
+    "summary": "Золото під тиском сильного долара та можливих підвищень ставок у США. Analitycy UBS вважають, що ціна може знизитися до $3500 за унцію, але до кінця 2027 року зросте до $5000.",
+    "link": "https://www.money.pl/gielda/zloto-moze-jeszcze-potaniec-ubs-wskazuje-granice-spadkow-7353757347436544a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e0eda482642f",
+    "source": "Економічна Правда",
+    "source_url": "https://epravda.com.ua/finances/za-tizhden-nbu-prodav-1-46-mlrd-dolariv-na-mizhbanku-827911/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "general",
+    "title_orig": "За тиждень Нацбанк продав $1,46 мільярда на міжбанку",
+    "body_orig": "За тиждень з 16 по 20 листопада Національний банк (НБУ) продав на міжбанку 1,462 млрд дол., при цьому не купував валюту.",
+    "published": "2026-11-22T16:00:00",
+    "fetched": "2026-11-22T21:33:31.022790",
+    "title_uk": "Нацбанк продав $1,46 млрд на міжбанку за тиждень",
+    "summary_uk": "З 16 по 20 листопада Національний банк України продав на міжбанку $1.5 млрд, не купуючи валюту. Це свідчить про активну інтервенцію НБУ для підтримки курсу гривні. Продажі відбулися на фоні зростаючого попиту на валюту.",
+    "what_it_means": {
+      "ua_importer": "Зростання продажів валюти може призвести до підвищення курсу гривні, що вплине на витрати імпортерів. Рекомендується переглянути цінову політику.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "валюта",
+      "імпорт"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Нацбанк продав $1,46 млрд на міжбанку за тиждень",
+    "summary": "З 16 по 20 листопада Національний банк України продав на міжбанку $1.5 млрд, не купуючи валюту. Це свідчить про активну інтервенцію НБУ для підтримки курсу гривні. Продажі відбулися на фоні зростаючого попиту на валюту.",
+    "link": "https://epravda.com.ua/finances/za-tizhden-nbu-prodav-1-46-mlrd-dolariv-na-mizhbanku-827911/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1457b9445e1d",
+    "source": "Економічна Правда",
+    "source_url": "https://epravda.com.ua/biznes/urozhay-zerna-v-ukrajini-zris-na-10-z-pochatku-roku-derzhstat-827909/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "general",
+    "title_orig": "З початку року аграрії зібрали на 10% більше зерна, ніж торік – Держстат",
+    "body_orig": "Українські аграрії станом на 1 листопада 2026 року зібрали 46,9 млн тонн зернових і зернобобових культур, що на 9,7%, або 4,16 млн тонн більше, аніж на відповідну дату 2025 року.",
+    "published": "2026-11-22T12:40:00",
+    "fetched": "2026-11-22T21:33:31.022824",
+    "title_uk": "Аграрії зібрали на 10% більше зерна, ніж торік",
+    "summary_uk": "Станом на 1 листопада 2026 року українські аграрії зібрали 46,9 млн тонн зернових і зернобобових культур. Це на 9,7%, або 4,2 млн тонн більше, ніж за аналогічний період 2025 року. Зростання обсягів виробництва свідчить про покращення умов для аграрного сектору.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Збільшення обсягів зерна може вплинути на ціни в категорії продуктів, що містять зернові. Рекомендується переглянути стратегії закупівель та ціноутворення."
+    },
+    "tags": [
+      "виробництво",
+      "експорт",
+      "ціни-сировина"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Аграрії зібрали на 10% більше зерна, ніж торік",
+    "summary": "Станом на 1 листопада 2026 року українські аграрії зібрали 46,9 млн тонн зернових і зернобобових культур. Це на 9,7%, або 4,2 млн тонн більше, ніж за аналогічний період 2025 року. Зростання обсягів виробництва свідчить про покращення умов для аграрного сектору.",
+    "link": "https://epravda.com.ua/biznes/urozhay-zerna-v-ukrajini-zris-na-10-z-pochatku-roku-derzhstat-827909/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "994614b6091c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/avrasya-pencere-ve-kapi-fuari-ile-avrasya-cam-fuari-istanbulda-kapilarini-acti/4133610",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı İstanbul'da kapılarını açtı",
+    "body_orig": "Yapı sektörünün uluslararası buluşmaları arasında yer alan Avrasya Pencere ve Kapı Fuarı ile Avrasya Cam Fuarı, 34 ülkeden 750'nin üzerinde katılımcıyla eş zamanlı olarak Tüyap Fuar ve Kongre Merkezi'nde kapılarını açtı.",
+    "published": "2026-11-22T13:31:50",
+    "fetched": "2026-11-22T21:33:39.871001",
+    "title_uk": "Виставки Avrasya Pencere ve Kapı та Avrasya Cam стартували в Стамбулі",
+    "summary_uk": "Виставки Avrasya Pencere ve Kapı та Avrasya Cam відкрилися в Тюяп Фуар і Конгрес Центрі. У заході беруть участь понад 750 учасників з 34 країн. Це важлива подія для будівельного сектору, що об'єднує виробників та постачальників.",
+    "what_it_means": {
+      "ua_importer": "Подія може бути корисною для українських імпортерів, які працюють з будівельними матеріалами з Туреччини. Рекомендується відвідати виставку для налагодження контактів.",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Це можливість для турецьких виробників знайти нових партнерів та розширити ринки збуту в Україні та Польщі.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "інвестиції"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Виставки Avrasya Pencere ve Kapı та Avrasya Cam стартували в Стамбулі",
+    "summary": "Виставки Avrasya Pencere ve Kapı та Avrasya Cam відкрилися в Тюяп Фуар і Конгрес Центрі. У заході беруть участь понад 750 учасників з 34 країн. Це важлива подія для будівельного сектору, що об'єднує виробників та постачальників.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/avrasya-pencere-ve-kapi-fuari-ile-avrasya-cam-fuari-istanbulda-kapilarini-acti/4133610",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e83315473e2d",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/ipo-ul-anthropic-a-creat-5-300-de-milionari-peste-noapte-aproape-toti-angajatii-companiei-de-inteligenta-artificiala-detin-actiuni-de-peste-un-milion-de-dolari-23286023",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "IPO-ul Anthropic a creat 5.300 de milionari peste noapte. Aproape toţi angajaţii companiei de inteligenţă artificială deţin acţiuni de peste un milion de dolari",
+    "body_orig": "",
+    "published": "2026-11-22T16:43:00",
+    "fetched": "2026-11-22T21:33:41.673331",
+    "title_uk": "Anthropic створила 5.300 мільйонерів після IPO",
+    "summary_uk": "Компанія Anthropic, що спеціалізується на штучному інтелекті, провела IPO, яке призвело до створення 5.300 мільйонерів серед своїх співробітників. Більшість працівників володіють акціями на суму понад мільйон доларів. Це свідчить про значний успіх компанії на ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Anthropic створила 5.300 мільйонерів після IPO",
+    "summary": "Компанія Anthropic, що спеціалізується на штучному інтелекті, провела IPO, яке призвело до створення 5.300 мільйонерів серед своїх співробітників. Більшість працівників володіють акціями на суму понад мільйон доларів. Це свідчить про значний успіх компанії на ринку.",
+    "link": "https://www.zf.ro/business-hi-tech/ipo-ul-anthropic-a-creat-5-300-de-milionari-peste-noapte-aproape-toti-angajatii-companiei-de-inteligenta-artificiala-detin-actiuni-de-peste-un-milion-de-dolari-23286023",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7f989aef7408",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/comisia-europeana-regandeste-directiva-privind-practicile-comerciale-ce-impact-ar-putea-avea-in-sectorul-alimentar997709_997709.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Comisia Europeană regândește Directiva privind practicile comerciale. Ce impact ar putea avea în sectorul alimentar wkd",
+    "body_orig": "Comisia Europeană analizează revizuirea Directivei privind practicile comerciale neloiale în relația dintre furnizori și marii retaileri, vizând o aplicare mai strictă a legii și o posibilă regândire a pragurilor de cifră de afaceri. Altfel spus, Comisia urmează să regândească sistemul care stabilește ce companii primesc protecție în relația producător-magazin.",
+    "published": "2026-11-22T20:26:34",
+    "fetched": "2026-11-22T21:33:44.641841",
+    "title_uk": "Європейська Комісія переглядає директиву щодо торгових практик",
+    "summary_uk": "Європейська Комісія розглядає зміни до директиви про неліцензовані торгові практики між постачальниками та великими ритейлерами. Мета — посилити законодавство та переглянути критерії захисту компаній у відносинах з магазинами. Це може вплинути на ринок продуктів харчування в ЄС.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Ці зміни можуть вплинути на переговори з постачальниками в ритейлі, адже нові правила можуть змінити умови співпраці та захисту прав постачальників."
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "regulation",
+    "title": "Європейська Комісія переглядає директиву щодо торгових практик",
+    "summary": "Європейська Комісія розглядає зміни до директиви про неліцензовані торгові практики між постачальниками та великими ритейлерами. Мета — посилити законодавство та переглянути критерії захисту компаній у відносинах з магазинами. Це може вплинути на ринок продуктів харчування в ЄС.",
+    "link": "https://www.economica.net/comisia-europeana-regandeste-directiva-privind-practicile-comerciale-ce-impact-ar-putea-avea-in-sectorul-alimentar997709_997709.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "9bd22e1805a5",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/noul-lexus-nx-debuteaza-europa-2027_998058.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Noul Lexus NX, dezvăluit la Torino și pregătit pentru livrări în 2027",
+    "body_orig": "Constructorul auto japonez Lexus, parte a grupului Toyota, a prezentat în premieră europeană noua generație a SUV-ului NX în cadrul turneului de tenis Nitto ATP Finals de la Torino. Modelul reprezintă pilonul central al operațiunilor europene ale mărcii, generând în prezent aproape o treime din vânzările anuale ale Lexus pe continent. Livrările și prezența în showroom-urile europene sunt programate pentru primăvara anului 2027.",
+    "published": "2026-11-22T20:26:12",
+    "fetched": "2026-11-22T21:33:44.641854",
+    "title_uk": "Lexus представив новий NX, поставки почнуться в 2027",
+    "summary_uk": "Lexus презентував нову генерацію SUV NX на Nitto ATP Finals у Турині. Модель є ключовою для європейських продажів, формуючи близько третини річного обсягу. Поставки в європейські шоуруми заплановані на весну 2027 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Lexus представив новий NX, поставки почнуться в 2027",
+    "summary": "Lexus презентував нову генерацію SUV NX на Nitto ATP Finals у Турині. Модель є ключовою для європейських продажів, формуючи близько третини річного обсягу. Поставки в європейські шоуруми заплановані на весну 2027 року.",
+    "link": "https://www.economica.net/noul-lexus-nx-debuteaza-europa-2027_998058.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "627f2413449e",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/vor-ajunge-agentii-ai-sa-ne-administreze-banii-ce-spune-seful-revolut-despre-viitorul-sistemului-bancar-interviu_996211.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Vor ajunge agenții AI să ne administreze banii? Ce spune șeful Revolut despre viitorul sistemului bancar – INTERVIU",
+    "body_orig": "Inteligența artificială este folosită de bănci pentru a detecta fraude, a analiza comportamentul clienților și a automatiza operațiuni financiare. Odată cu dezvoltarea agenților AI, care pot executa inclusiv plăți și transferuri, se pune însă problema cât de departe va merge această automatizare și dacă oamenii vor accepta să lase în seama tehnologiei inclusiv deciziile privind investițiile și economiile. Kuba Fast, CEO al Revolut Bank, a vorbit într-un interviu pentru Economica.net, despre cum ar putea evolua sistemul bancar odată cu apariția noilor tehnologii, investițiile bănci în AI, dar și despre viitorul competiției dintre băncile tradiționale și cele digitale.",
+    "published": "2026-11-22T20:25:52",
+    "fetched": "2026-11-22T21:33:44.641861",
+    "title_uk": "CEO Revolut про майбутнє банківської системи з AI",
+    "summary_uk": "Kuba Fast, CEO Revolut Bank, обговорив вплив штучного інтелекту на банківську сферу. AI вже використовується для виявлення шахрайства та автоматизації фінансових операцій. Fast підкреслив, що технології можуть змінити підходи до інвестицій та заощаджень, але питання довіри до них залишається відкритим.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "CEO Revolut про майбутнє банківської системи з AI",
+    "summary": "Kuba Fast, CEO Revolut Bank, обговорив вплив штучного інтелекту на банківську сферу. AI вже використовується для виявлення шахрайства та автоматизації фінансових операцій. Fast підкреслив, що технології можуть змінити підходи до інвестицій та заощаджень, але питання довіри до них залишається відкритим.",
+    "link": "https://www.economica.net/vor-ajunge-agentii-ai-sa-ne-administreze-banii-ce-spune-seful-revolut-despre-viitorul-sistemului-bancar-interviu_996211.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1f0bca926d2d",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/incepe-constructia-unui-nou-parc-fotovoltaic-mare-in-romania-220-mw-la-visina-in-dambovita-este-al-danezilor-de-la-eurowind-cel-mai-mare-proiect-din-lume-al-grupului_998004.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Începe construcția unui nou parc fotovoltaic mare în România, 220 MW la Vișina în Dâmbovița. Este al danezilor de la Eurowind, cel mai mare proiect din lume al grupului",
+    "body_orig": "Grupul danez Eurowind, unul dintre pionierii regenerabilelor din Europa și investitor activ în România, unde a alocat un miliard de euro până în 2030, începe contrucția unui parc fotovoltaic de mari dimensiuni, cu stocare, la Vișina, Dâmbovița.",
+    "published": "2026-11-22T20:25:06",
+    "fetched": "2026-11-22T21:33:44.641868",
+    "title_uk": "Данці будують великий сонячний парк у Румунії на 220 МВт",
+    "summary_uk": "Група Eurowind розпочала будівництво сонячного парку потужністю 220 МВт у Vișina, Дамбовіца. Інвестиції компанії в Румунії досягнуть €1 млрд до 2030 року. Проект передбачає також енергозберігаючі рішення.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Данці будують великий сонячний парк у Румунії на 220 МВт",
+    "summary": "Група Eurowind розпочала будівництво сонячного парку потужністю 220 МВт у Vișina, Дамбовіца. Інвестиції компанії в Румунії досягнуть €1 млрд до 2030 року. Проект передбачає також енергозберігаючі рішення.",
+    "link": "https://www.economica.net/incepe-constructia-unui-nou-parc-fotovoltaic-mare-in-romania-220-mw-la-visina-in-dambovita-este-al-danezilor-de-la-eurowind-cel-mai-mare-proiect-din-lume-al-grupului_998004.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "2e1e4b4fc41b",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/performanta-istorica-pentru-dedeman-compania-fratilor-paval-a-intrat-in-top-20-al-gigantilor-zonei_998064.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Performanță istorică pentru Dedeman. Compania fraților Pavăl a intrat în top 20 al giganților zonei",
+    "body_orig": "Dedeman, lanțul românesc de magazine de bricolaj al fraților Pavăl, a intrat în top 20 al celor mai mari companii din Europa de Sud-Est. Iar din punct de vedere al clasamentului profiturilor, firma stă și mai bine.",
+    "published": "2026-11-22T18:13:41",
+    "fetched": "2026-11-22T21:33:44.641887",
+    "title_uk": "Dedeman увійшов до топ-20 компаній Південно-Східної Європи",
+    "summary_uk": "Dedeman, румунський мережевий ритейлер будівельних матеріалів, потрапив до топ-20 найбільших компаній у Південно-Східній Європі. Компанія також демонструє високі показники прибутковості. Це свідчить про зростаючу конкурентоспроможність Dedeman у регіоні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зростання Dedeman може вплинути на конкурентне середовище в ритейлі будівельних матеріалів. Рекомендується переглянути асортимент і стратегії співпраці з постачальниками."
+    },
+    "tags": [
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Dedeman увійшов до топ-20 компаній Південно-Східної Європи",
+    "summary": "Dedeman, румунський мережевий ритейлер будівельних матеріалів, потрапив до топ-20 найбільших компаній у Південно-Східній Європі. Компанія також демонструє високі показники прибутковості. Це свідчить про зростаючу конкурентоспроможність Dedeman у регіоні.",
+    "link": "https://www.economica.net/performanta-istorica-pentru-dedeman-compania-fratilor-paval-a-intrat-in-top-20-al-gigantilor-zonei_998064.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "52dcbf336916",
+    "source": "SPEKA",
+    "source_url": "https://speka.ua/news/ukrayinski-droni-middle-strike-i-deep-strike-viroblyatimut-u-britaniyi-p6wkmz",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "Українські дрони middle strike і deep strike вироблятимуть у Британії",
+    "body_orig": "Міністр оборони України Євгеній Хмара та міністр оборони Великої Британії Вес Стрітінг підписали проєктні домовленості про спільне виробництво українських безпілотників middle strike та deep strike. Про це повідомили в Міноборони.",
+    "published": "2026-11-22T13:59:00",
+    "fetched": "2026-11-22T21:33:34.118330",
+    "title_uk": "Виробництво українських дронів у Великій Британії",
+    "summary_uk": "Міністри оборони України та Великої Британії підписали угоду про спільне виробництво дронів middle strike та deep strike. Це співробітництво має на меті зміцнення обороноздатності обох країн. Конкретні обсяги виробництва поки не оголошені.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Виробництво українських дронів у Великій Британії",
+    "summary": "Міністри оборони України та Великої Британії підписали угоду про спільне виробництво дронів middle strike та deep strike. Це співробітництво має на меті зміцнення обороноздатності обох країн. Конкретні обсяги виробництва поки не оголошені.",
+    "link": "https://speka.ua/news/ukrayinski-droni-middle-strike-i-deep-strike-viroblyatimut-u-britaniyi-p6wkmz",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
