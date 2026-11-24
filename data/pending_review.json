@@ -530007,5 +530007,1401 @@
     "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
     "editor_flag": "ai_flagged",
     "editor_status": "pending"
+  },
+  {
+    "id": "d1e27a53e3a7",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-w-USA-i-wielkie-odbicie-Najwieksze-wzrosty-na-polskiej-gieldzie-od-19-miesiecy-9233714.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Wielki powrót w USA i wielkie odbicie. Największe wzrosty na polskiej giełdzie od 19 miesięcy",
+    "body_orig": "Poniedziałkowa sesja na Giełdzie Papierów Wartościowych w Warszawie przyniosła potężne odreagowanie po serii czterech spadkowych dni z rzędu. Impulsem do gwałtownego zwrotu na globalnych rynkach okazała się sensacyjna decyzja rady dyrektorów koncernu Nvidia o natychmiastowym przywróceniu Jensena Huanga na stanowisko prezesa. W ślad za euforią na Wall Street warszawskie blue chipy zaliczyły najlepszą sesję od kwietnia 2025 r.",
+    "published": "2026-11-23T16:18:00",
+    "fetched": "2026-11-24T02:45:17.514114",
+    "title_uk": "Відновлення на польській біржі після чотирьох днів падіння",
+    "summary_uk": "Польська фондова біржа зафіксувала значне зростання після чотирьох днів падіння. Основним фактором стало повернення Дженсена Хуана на пост президента Nvidia, що викликало емоційний підйом на глобальних ринках. Це найкраща сесія для польських blue chip з квітня 2025 року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання на біржі може позитивно вплинути на інвестиційний клімат у Польщі, що, в свою чергу, може стимулювати попит на FMCG. Рекомендується стежити за змінами на ринку.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Відновлення на польській біржі після чотирьох днів падіння",
+    "summary": "Польська фондова біржа зафіксувала значне зростання після чотирьох днів падіння. Основним фактором стало повернення Дженсена Хуана на пост президента Nvidia, що викликало емоційний підйом на глобальних ринках. Це найкраща сесія для польських blue chip з квітня 2025 року.",
+    "link": "https://www.bankier.pl/wiadomosc/Wielki-powrot-w-USA-i-wielkie-odbicie-Najwieksze-wzrosty-na-polskiej-gieldzie-od-19-miesiecy-9233714.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "573f10792515",
+    "source": "Bankier — wiadomości",
+    "source_url": "https://www.bankier.pl/wiadomosc/Praca-zdalna-jako-karta-przetargowa-Oddadza-pensje-byle-nie-wracac-do-biura-9233417.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Praca zdalna jako karta przetargowa. Oddadzą pensję, byle nie wracać do biura",
+    "body_orig": "Czy pracowników należy kusić, czy zmuszać do powrotu do biura? Podczas gdy firmy eksperymentują, chwieją się kalkulacje, według których niektórzy pracownicy ułożyli sobie życie. Inni są gotowi poświęcić część pensji, by zachować możliwość pracy z domu. Stałe dni pracy zdalnej były kluczowym elementem układanki, gdy pracownik Maersk i jego rodzina zdecydowali się wyprowadzić kawałek za Kopenhagę.",
+    "published": "2026-11-23T17:00:00",
+    "fetched": "2026-11-24T02:45:17.514147",
+    "title_uk": "Працівники готові зменшити зарплату за можливість працювати з дому",
+    "summary_uk": "Дослідження показує, що деякі працівники готові відмовитися від частини зарплати, щоб зберегти можливість працювати віддалено. Це стало важливим фактором для багатьох, хто переїхав з міст. Компанії розглядають різні стратегії повернення працівників до офісів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "мотивація-ТП",
+      "робота-з-байєрами"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Працівники готові зменшити зарплату за можливість працювати з дому",
+    "summary": "Дослідження показує, що деякі працівники готові відмовитися від частини зарплати, щоб зберегти можливість працювати віддалено. Це стало важливим фактором для багатьох, хто переїхав з міст. Компанії розглядають різні стратегії повернення працівників до офісів.",
+    "link": "https://www.bankier.pl/wiadomosc/Praca-zdalna-jako-karta-przetargowa-Oddadza-pensje-byle-nie-wracac-do-biura-9233417.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "54988df65733",
+    "source": "Business Insider Polska",
+    "source_url": "https://businessinsider.com.pl/gospodarka/rekordowy-projekt-lng-w-argentynie-inwestycja-za-miiardy/858xvd2",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nowy gracz na rynku LNG? Kraj zapowiada dużą inwestycję",
+    "body_orig": "Rząd Argentyny zatwierdził zachęty dla projektu eksportu skroplonego gazu ziemnego (LNG), który przewiduje inwestycje o wartości 50 mld dol. do 2050 r.",
+    "published": "2026-11-23T18:19:39",
+    "fetched": "2026-11-24T02:45:18.745338",
+    "title_uk": "Аргентина інвестує $50 млрд у експорт LNG до 2050 року",
+    "summary_uk": "Уряд Аргентини затвердив інвестиційний проект з експорту скрапленого газу на суму $50 млрд до 2050 року. Проект передбачає розвиток інфраструктури для збільшення обсягів експорту LNG. Це може суттєво вплинути на глобальний ринок енергоресурсів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "експорт"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Аргентина інвестує $50 млрд у експорт LNG до 2050 року",
+    "summary": "Уряд Аргентини затвердив інвестиційний проект з експорту скрапленого газу на суму $50 млрд до 2050 року. Проект передбачає розвиток інфраструктури для збільшення обсягів експорту LNG. Це може суттєво вплинути на глобальний ринок енергоресурсів.",
+    "link": "https://businessinsider.com.pl/gospodarka/rekordowy-projekt-lng-w-argentynie-inwestycja-za-miiardy/858xvd2",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "63185b56ec6c",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/klikamy-x-w-ulamku-sekundy-internauci-nauczyli-sie-ignorowac-reklamy",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Klikamy „X” w ułamku sekundy. Internauci nauczyli się ignorować reklamy",
+    "body_orig": "Dziewięciu na dziesięciu ankietowanych podaje przynajmniej jedną cechę reklamy internetowej, która skłania ich do pominięcia przekazu bez zapoznania się ze szczegółami. 27 proc. respondentów wymienia nachalną formę takiej komunikacji. Nieco mniej wskazań mają zbyt częste wyświetlanie tego samego przekazu oraz nadmiar reklam. Problemem jest sposób zdobywania uwagi odbiorcy – przekonują eksperci. Nieodpowiednie działania mogą sprawić, że grupa docelowa przeniesie irytację na promowaną markę.\nZ badania przeprowadzonego dla Hybrid Europe wynika, że 89,9 proc. respondentów wskazuje przynajmniej jedną cechę reklamy internetowej, która skłania ich do pominięcia przekazu bez zapoznania się ze szczegółami. Z kolei tylko 1,9 proc. z 1015 ankietowanych deklaruje, że zazwyczaj nie pomija takich reklam. Badanie przeprowadzono metodą CAWI.\n– Te wyniki potwierdzają, że zjawisko banner blindness, czyli niezwracanie uwagi na reklamy, wynikające głównie z naszego przebodźcowania, jest powszechne. Przycisk „pomiń” lub ikona „X” są lokalizowane i klikane w ułamku sekundy, często bez zarejestrowania nazwy marki. Walka o zwrócenie uwagi odbiorcy na reklamę to dziś ważny czynnik pobudzający firmy technologiczne, wydawców i reklamodawców. Oni szukają nowych sposobów na przyciągnięcie uwagi konsumentów do marek – komentuje Beata Komosa-Trzaska z Hybrid Europe.\nIm więcej reklam, tym łatwiej je ignorujemy\nDlaczego pomijamy reklamy? Najczęściej wskazywanym powodem jest ich nachalna forma, którą zauważa 27 proc. respondentów. Dalej pojawiają się takie odpowiedzi jak zbyt częste wyświetlanie tego samego przekazu – 24,3 proc. oraz nadmiar reklam – 21,9 proc.\nJak stwierdza dr Nikodem Sarna z Katedry Marketingu w Akademii Leona Koźmińskiego, reklamodawcy wpadają w pułapkę dylematu więźnia. Można zatem postawić tezę, że większości z nich opłacałaby się redukcja natężenia komunikacji – ale tylko wtedy, gdyby inni gracze też to zrobili. Jednak konkurencja jest ostra, więc nikt nie zaryzykuje takiego ruchu.\n– Wyniki badania pokazują, że problemem reklamy internetowej coraz częściej nie jest brak widoczności, ale sposób zdobywania uwagi odbiorcy. Z punktu widzenia zarządzania marką istotne jest więc rozróżnienie pomiędzy ekspozycją a rzeczywistym zainteresowaniem. Nadmiernie agresywna komunikacja może prowadzić do zmęczenia reklamą, świadomego ignorowania kolejnych przekazów, a w dłuższej perspektywie także do pogorszenia postrzegania marki – mówi dr Sebastian Zupok, prodziekan kierunku zarządzanie w Wyższej Szkole Biznesu – National Louis University w Nowym Sączu.\nWymuszona uwaga nie oznacza zainteresowania\nZ kolei Beata Komosa-Trzaska dodaje, że reklama niedopasowana do potrzeb i charakterystyki grupy docelowej może irytować. W najlepszym wypadku zostanie pominięta – niezależnie od tego, jak często odbiorca będzie ją widział. Ekspertka zwraca uwagę na wyświetlanie reklamy temu samemu użytkownikowi wiele razy w krótkich odstępach czasu. Niekiedy odnosi to skutek odwrotny od zamierzo",
+    "published": "2026-11-23T21:19:36",
+    "fetched": "2026-11-24T02:45:19.682234",
+    "title_uk": "Ігнорування реклами в інтернеті зростає серед користувачів",
+    "summary_uk": "89% опитаних ігнорують рекламу в інтернеті через її нав'язливість. Найбільш поширені причини — агресивна форма (27%), часте повторення (24%) та надмірна кількість реклами (22%). Експерти вважають, що це може погіршити сприйняття брендів.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні переглянути свої рекламні стратегії, щоб уникнути ігнорування споживачами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Категорійні менеджери повинні враховувати нові дані про споживчу поведінку при плануванні рекламних кампаній, щоб уникнути перевантаження рекламою."
+    },
+    "tags": [
+      "трейд-маркетинг",
+      "FMCG",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Ігнорування реклами в інтернеті зростає серед користувачів",
+    "summary": "89% опитаних ігнорують рекламу в інтернеті через її нав'язливість. Найбільш поширені причини — агресивна форма (27%), часте повторення (24%) та надмірна кількість реклами (22%). Експерти вважають, що це може погіршити сприйняття брендів.",
+    "link": "https://300gospodarka.pl/news/klikamy-x-w-ulamku-sekundy-internauci-nauczyli-sie-ignorowac-reklamy",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "cdc5425984f7",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/produkcja-metali-odbila-ale-w-przyszlym-roku-firmy-dostana-nowy-rachunek",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Produkcja metali odbiła, ale w przyszłym roku firmy dostaną nowy rachunek",
+    "body_orig": "Po słabym początku roku produkcja metali w Polsce odbiła. Pierwsze kontrakty finansowane z programu SAFE mogą stworzyć nowe możliwości dla dostawców z branży metalowej. Jednak nie brakuje też wyzwań: firmy muszą przygotować się na nowe zasady importu stali i aluminium, słabszy eksport unijnej stali oraz przyszłoroczne rozliczenia CBAM. Szanse i koszty dla producentów pod koniec roku mogą mocno różnić się w zależności od odbiorców, asortymentu i warunków kontraktów.\nWe wrześniu produkcja sprzedana metali, liczona w cenach stałych, była o 6,6 proc. wyższa niż rok wcześniej – wynika z danych GUS. Jeszcze w styczniu notowała spadek o 14,4 proc. Z kolei produkcja wyrobów z metali zwiększyła się we wrześniu o 2,1 proc. rok do roku.\nZ danych o sprzedaży nie można jednak wnioskować o całokształcie branży. Po dziewięciu miesiącach produkcja surówki żelaza była niższa o 17,3 proc. niż rok wcześniej, stali surowej o 4,2 proc., natomiast produkcja wyrobów walcowanych na gorąco wzrosła o 1,3 proc.\nDuże różnice widać również po stronie odbiorców. We wrześniu produkcja maszyn i urządzeń wzrosła o 10,9 proc. rok do roku, podczas gdy produkcja pojazdów samochodowych, przyczep i naczep spadła o 0,6 proc. Dostawca komponentów dla przemysłu maszynowego może więc mieć dziś zupełnie inny portfel zamówień niż zakład mocno związany z motoryzacją. W przypadku pojedynczej firmy coraz większe znaczenie ma struktura jej klientów.\nCBAM rozliczy import z opóźnieniem\nOd 1 stycznia 2026 r. działa docelowy system CBAM. To unijny mechanizm, który ma uwzględniać emisje CO2 związane z produkcją wybranych towarów importowanych do UE. System obejmuje m.in. część produktów z żelaza, stali i aluminium. Obowiązki zależą od kodu towarowego oraz warunków przywozu, a w przypadku towarów objętych progiem masowym zwolnienie dotyczy importerów, których roczny przywóz nie przekracza łącznie 50 ton netto.\nFinansowy efekt tegorocznego importu pojawi się jednak dopiero później. Sprzedaż certyfikatów CBAM ma ruszyć w lutym 2027 r., a pierwszą deklarację wraz z certyfikatami do umorzenia trzeba będzie przekazać do 30 września 2027 r.\nTo mocno zmienia finanse firm, bo oznacza rozjazd w czasie między zakupem materiału, sprzedażą gotowego produktu a późniejszym rozliczeniem kosztu CBAM. Jeśli przedsiębiorca zawrze kontrakt ze stałą ceną i nie uwzględni przyszłego obciążenia, to marża może spaść już po wykonaniu dostawy.\nHandel międzynarodowy mocno się zmienił\nNieco później, bo od 1 lipca, funkcjonować zaczął również nowy unijny instrument ochrony rynku stali. Roczny kontyngent bezcłowy wynosi 18,3 mln ton, a poza nim obowiązuje 50-procentowe cło. System obejmuje 30 kategorii wyrobów i nie dotyczy importu z państw Europejskiego Obszaru Gospodarczego.\nStawka 50 proc. nie oznacza automatycznego wzrostu cen całej stali o połowę. Może jednak zmienić opłacalność konkretnej dostawy, zwłaszcza przy zamówieniach z długim terminem realizacji. Dlatego przy wyliczaniu opłacalności zakupu teraz przetwórcy muszą uw",
+    "published": "2026-11-23T21:02:21",
+    "fetched": "2026-11-24T02:45:19.682275",
+    "title_uk": "Виробництво металів у Польщі відновлюється, але чекають нові виклики",
+    "summary_uk": "Після спаду на початку року виробництво металів у Польщі зросло на 6,6% у вересні. Проте, компанії стикаються з новими правилами імпорту сталі та алюмінію, а також з майбутніми розрахунками CBAM. Виробництво окремих металевих виробів зросло на 2,1%, але загалом за дев'ять місяців спостерігається зниження виробництва чавуну на 17% і сталі на 4%.",
+    "what_it_means": {
+      "ua_importer": "Зміни в імпортних правилах можуть вплинути на українських імпортерів, які працюють з польськими постачальниками металів. Рекомендується переглянути контракти з урахуванням нових мит.",
+      "pl_distributor": "Дистриб'ютори в Польщі повинні враховувати зміни в попиті на різні категорії металевих виробів, оскільки виробництво машин зросло, а автомобілів — знизилося.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Необхідно врахувати зміни в попиті на металеві вироби при плануванні закупівель та промо-акцій. Зміни в CBAM можуть вплинути на ціни та маржу."
+    },
+    "tags": [
+      "виробництво",
+      "митниця",
+      "регуляція"
+    ],
+    "impact_score": 2,
+    "category": "market-data",
+    "title": "Виробництво металів у Польщі відновлюється, але чекають нові виклики",
+    "summary": "Після спаду на початку року виробництво металів у Польщі зросло на 6,6% у вересні. Проте, компанії стикаються з новими правилами імпорту сталі та алюмінію, а також з майбутніми розрахунками CBAM. Виробництво окремих металевих виробів зросло на 2,1%, але загалом за дев'ять місяців спостерігається зниження виробництва чавуну на 17% і сталі на 4%.",
+    "link": "https://300gospodarka.pl/news/produkcja-metali-odbila-ale-w-przyszlym-roku-firmy-dostana-nowy-rachunek",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 6,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7a7baed4da61",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/elektryki-pala-sie-rzadziej-niz-auta-spalinowe-bateria-czesto-nie-jest-winna-pozaru",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Elektryki palą się rzadziej niż auta spalinowe. Bateria często nie jest winna pożaru",
+    "body_orig": "W pierwszych dziewięciu miesiącach 2026 r. w Polsce doszło do 44 pożarów samochodów całkowicie elektrycznych. W tym samym czasie odnotowano 7482 pożary aut spalinowych i 93 pożary hybryd. Choć liczba zdarzeń z udziałem elektryków wzrosła rok do roku, wskaźnik pożarów w przeliczeniu na 1000 zarejestrowanych aut spadł o blisko 26 proc. i był niższy niż dla samochodów spalinowych.\nZ najnowszej edycji „Raportu Bezpieczeństwa Pożarowego EV” wynika, że elektryki odpowiadały za 0,58 proc. wszystkich pożarów pojazdów, które zdarzyły się od stycznia do końca września. Jednocześnie flota osobowych i dostawczych samochodów elektrycznych zwiększyła się w ciągu roku aż o 47 proc.\nPożarów było więcej, ale ryzyko spadło\nNa pierwszy rzut oka liczby mogą wyglądać niepokojąco. W analogicznym okresie 2025 r. odnotowano 40 pożarów BEV, więc liczba zdarzeń wzrosła o 10 proc. Sama liczba pożarów nie pokazuje jednak całego obrazu, bo w tym samym czasie mocno zwiększyła się liczba elektryków poruszających się po polskich drogach.\nDlatego autorzy raportu porównują liczbę pożarów z wielkością całej floty. Wskaźnik dla BEV spadł z 0,356 do 0,264 pożaru na 1000 zarejestrowanych samochodów, czyli o 25,8 proc. W przypadku aut spalinowych zmniejszył się z 0,359 do 0,298, a dla hybryd z 0,061 do 0,054.\nRok wcześniej wskaźniki pożarów samochodów elektrycznych i spalinowych były niemal identyczne. Po trzech kwartałach 2026 r. wartość dla BEV była już o około 11 proc. niższa niż dla pojazdów spalinowych.\n– Wraz z rozwojem elektromobilności coraz większego znaczenia nabiera sposób, w jaki interpretujemy dane dotyczące bezpieczeństwa pożarowego. Sam wzrost liczby zdarzeń nie oznacza automatycznie, że dana technologia staje się mniej bezpieczna. Kluczowe jest odniesienie ich do liczby eksploatowanych pojazdów – mówi Albert Kania z F5A New Mobility Research &amp; Consulting.\nAkumulator nie zawsze jest źródłem ognia\nPożar samochodu elektrycznego często automatycznie kojarzy się z baterią trakcyjną. Dane z pierwszych trzech kwartałów 2026 r. pokazują jednak, że w większości przypadków akumulator w ogóle nie został objęty ogniem. Do pożaru baterii doszło w 22,7 proc. odnotowanych przypadków. W 54,5 proc. zdarzeń akumulator nie palił się, a w pozostałych 22,7 proc. nie było wystarczających danych, aby jednoznacznie to ustalić.\nNajczęściej jako wstępną przyczynę wskazywano awarię lub usterkę — dotyczyło to 40,9 proc. zdarzeń. W 36,4 proc. przypadków przyczyna była nieznana lub zakwalifikowana jako inna. Podpalenia i przeniesienie ognia z innego źródła stanowiły 18,2 proc., natomiast wypadki drogowe 4,5 proc.\nStrażacy mają procedury dla elektryków\nOd 2023 r. strażacy korzystają ze specjalnych zasad postępowania z pojazdami elektrycznymi i hybrydowymi. Według Państwowej Straży Pożarnej (PSP) ich zgodność z aktualną wiedzą potwierdziły także testy opisane w sierpniowym raporcie amerykańskiego UL Research Institutes.\n– Oczywiście, jest to dodatkowe zagrożenie do uwzględnienia podczas prowadzon",
+    "published": "2026-11-23T19:24:17",
+    "fetched": "2026-11-24T02:45:19.682304",
+    "title_uk": "Електромобілі рідше спричиняють пожежі, ніж бензинові авто",
+    "summary_uk": "У Польщі за дев'ять місяців 2026 року сталося 44 пожежі електромобілів, що на 10% більше, ніж у 2025. Проте, з урахуванням зростання кількості електрокарів на 47%, ризик пожежі на 1000 авто знизився на 26%. Батареї були причиною лише в 23% випадків, тоді як основною причиною виявилися технічні несправності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання популярності електромобілів може вплинути на попит на зарядні станції та супутні товари. Розгляньте можливості для розширення асортименту.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зниження ризику пожежі електромобілів може позитивно вплинути на продажі аксесуарів для електрокарів. Рекомендується переглянути асортимент у цій категорії."
+    },
+    "tags": [
+      "виробництво",
+      "дистрибуція",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Електромобілі рідше спричиняють пожежі, ніж бензинові авто",
+    "summary": "У Польщі за дев'ять місяців 2026 року сталося 44 пожежі електромобілів, що на 10% більше, ніж у 2025. Проте, з урахуванням зростання кількості електрокарів на 47%, ризик пожежі на 1000 авто знизився на 26%. Батареї були причиною лише в 23% випадків, тоді як основною причиною виявилися технічні несправності.",
+    "link": "https://300gospodarka.pl/news/elektryki-pala-sie-rzadziej-niz-auta-spalinowe-bateria-czesto-nie-jest-winna-pozaru",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "5425fe287c1e",
+    "source": "300Gospodarka",
+    "source_url": "https://300gospodarka.pl/news/nie-warszawa-nie-krakow-katowice-wygraly-ranking-najbardziej-kreatywnych-miast-polski",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Nie Warszawa, nie Kraków. Katowice wygrały ranking najbardziej kreatywnych miast Polski",
+    "body_orig": "Katowice zajęły czwarte miejsce w europejskim Adobe Creative Cities Index 2026, wyprzedzając m.in. Paryż, Berlin i Londyn. Ranking objął 529 miast z 28 krajów i uwzględniał 22 wskaźniki dotyczące lokalnego sektora kreatywnego oraz dostępu do kultury. W Polsce Katowice zajęły pierwszą pozycję, choć w części kategorii lepiej wypadają inne miasta, przede wszystkim Kraków.\nWyżej od Katowic znalazły się jedynie Florencja, Brighton and Hove oraz Bordeaux. Adobe analizowało m.in. liczbę agencji kreatywnych i ofert pracy w branżach kreatywnych, biblioteki, muzea, street art, koncerty, wydarzenia sceniczne i wycieczki kulturowe.\nKatowice wygrywają sektorem kreatywnym\nSama pozycja w rankingu nie oznacza więc, że miasto prowadzi we wszystkich kategoriach. Katowice mocno zyskują przede wszystkim dzięki skali lokalnego sektora kreatywnego i rynku pracy. Na 100 tys. mieszkańców przypada w Katowicach o około 18 proc. więcej agencji kreatywnych niż we Florencji, która wygrała cały europejski ranking.\nJeszcze większą różnicę widać przy ofertach pracy. W przeliczeniu na mieszkańca Katowice miały niemal cztery razy więcej ogłoszeń z sektorów kreatywnych uwzględnionych w badaniu niż Florencja.\nWłoskie miasto odrabia tę stratę kulturą. Na mieszkańca przypada tam ponad sześć razy więcej muzeów, a liczba wycieczek kulturowych (również w przeliczeniu na mieszkańca) jest ponad 80 razy większa niż w Katowicach.\nKraków wygrywa w wielu kategoriach\nW krajowym zestawieniu 50 polskich miast Katowice zajęły pierwsze miejsce. Za nimi znalazły się Kraków, Poznań, Wrocław i Gdańsk.\nCo ciekawe, Kraków prowadzi w większej liczbie analizowanych kategorii. Stolica Małopolski zajęła pierwsze miejsce m.in. pod względem liczby muzeów, koncertów, wydarzeń scenicznych i wycieczek kulturowych. Na 100 tys. mieszkańców przypada tam ponad dwa razy więcej muzeów niż w Katowicach. Mimo to w końcowym zestawieniu wyżej znalazła się stolica Górnego Śląska.\nPonad 300 agencji kreatywnych na 100 tys. mieszkańców\nKatowice najmocniej dystansują inne polskie miasta pod względem liczby agencji kreatywnych. Na 100 tys. mieszkańców przypada ich tam ponad 300. To o 56 proc. więcej niż w Krakowie i ponad dwa razy więcej niż w Warszawie.\nMiasto zajęło też pierwsze miejsce w rankingu Most Loved, opartym na liczbie opinii dotyczących m.in. bibliotek, kreatywnych sklepów i firm, agencji, muzeów oraz wydarzeń kulturalnych. Szczególnie mocno wypada scena muzyczna. Koncerty i wydarzenia sceniczne w Katowicach zebrały o 70 proc. więcej opinii niż w Gdyni, która zajęła drugie miejsce w rankingu Most Loved.\nZnacznie niżej znalazła się Warszawa. Stolica zajęła siódme miejsce w Polsce i 56. w Europie. Wyprzedziły ją także Poznań, Wrocław, Gdańsk i Łódź. Jednym z powodów jest metodologia rankingu: wiele wskaźników przeliczano na liczbę mieszkańców, więc sama skala miasta nie dawała przewagi.\nWarszawa osiągnęła słabsze wyniki m.in. pod względem liczby agencji kreatywnych i muzeów na mieszkańca oraz koncentracji street artu",
+    "published": "2026-11-23T16:45:48",
+    "fetched": "2026-11-24T02:45:19.682329",
+    "title_uk": "Катовіце стали найкреативнішим містом Польщі",
+    "summary_uk": "Катовіце зайняли перше місце в Польщі та четверте в Європі за версією Adobe Creative Cities Index 2026. Місто випередило Париж, Берлін та Лондон завдяки кількості креативних агенцій — понад 300 на 100 тисяч жителів. Краків, хоч і лідирує в кількох категоріях, посів друге місце в Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зростання креативного сектору в Катовіцах може відкрити нові можливості для дистриб'юторів, які працюють з креативними брендами.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зверніть увагу на зростання кількості креативних агенцій у Катовіцах. Це може вплинути на попит на креативні послуги та продукти в регіоні."
+    },
+    "tags": [
+      "інвестиції",
+      "стартапи",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Катовіце стали найкреативнішим містом Польщі",
+    "summary": "Катовіце зайняли перше місце в Польщі та четверте в Європі за версією Adobe Creative Cities Index 2026. Місто випередило Париж, Берлін та Лондон завдяки кількості креативних агенцій — понад 300 на 100 тисяч жителів. Краків, хоч і лідирує в кількох категоріях, посів друге місце в Польщі.",
+    "link": "https://300gospodarka.pl/news/nie-warszawa-nie-krakow-katowice-wygraly-ranking-najbardziej-kreatywnych-miast-polski",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "27872cd0b8a6",
+    "source": "Money.pl",
+    "source_url": "https://www.money.pl/gielda/bardzo-efektywny-debiut-anthropic-opinia-7354133075990560a.html",
+    "market": "pl",
+    "source_lang": "pl",
+    "niche": "general",
+    "title_orig": "Bardzo efektywny debiut Anthropic [OPINIA]",
+    "body_orig": "Debiut giełdowy Anthropic przyniósł firmie ponad 81 mld dolarów już pierwszego dnia notowań. Firma Daria Amodeiego tym samym wyprzedziła OpenAI. I choć istnieje zaledwie od pięciu lat, może się teraz oficjalnie pochwalić (w zależności od przyjętej metody liczenia) wyceną w okolicach 1,3–1,7 bln dolarów. A to więcej nie tylko niż Meta, ale także niż wynosi PKB wielu państw, w tym Polski – pisze w opinii dla money.pl Sylwia Czubkowska, dziennikarka, współautorka podcastu \"Techstorie\" w TOK FM.",
+    "published": "2026-11-23T18:58:23",
+    "fetched": "2026-11-24T02:45:20.873494",
+    "title_uk": "Anthropic досягла ринкової капіталізації понад $1 трлн",
+    "summary_uk": "Anthropic дебютувала на біржі з капіталізацією понад $81 млрд у перший день. Компанія, заснована п'ять років тому, тепер оцінюється в $1.3-1.7 трлн, перевищуючи Meta та ВВП багатьох країн, зокрема Польщі.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Anthropic досягла ринкової капіталізації понад $1 трлн",
+    "summary": "Anthropic дебютувала на біржі з капіталізацією понад $81 млрд у перший день. Компанія, заснована п'ять років тому, тепер оцінюється в $1.3-1.7 трлн, перевищуючи Meta та ВВП багатьох країн, зокрема Польщі.",
+    "link": "https://www.money.pl/gielda/bardzo-efektywny-debiut-anthropic-opinia-7354133075990560a.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3870f6d75f17",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/us-stocks-surge-as-nvidia-reinstates-ceo-huang/4135174",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "US stocks surge as Nvidia reinstates CEO Huang",
+    "body_orig": "Dow jumps 3%, S&amp;P 500 surges 4.73%, and Nasdaq soars 6.5% as VIX fear index drops 25.8%",
+    "published": "2026-11-23T21:26:08",
+    "fetched": "2026-11-24T02:45:27.863423",
+    "title_uk": "Фондові індекси США зростають після повернення CEO Nvidia",
+    "summary_uk": "Фондові індекси США показали значне зростання: Dow виріс на 3%, S&P 500 на 4.7%, а Nasdaq на 6.5%. Зниження індексу страху VIX на 25.8% свідчить про зростання впевненості інвесторів. Повернення CEO Nvidia Дженсена Хуана позитивно вплинуло на ринок.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Фондові індекси США зростають після повернення CEO Nvidia",
+    "summary": "Фондові індекси США показали значне зростання: Dow виріс на 3%, S&P 500 на 4.7%, а Nasdaq на 6.5%. Зниження індексу страху VIX на 25.8% свідчить про зростання впевненості інвесторів. Повернення CEO Nvidia Дженсена Хуана позитивно вплинуло на ринок.",
+    "link": "https://www.aa.com.tr/en/economy/us-stocks-surge-as-nvidia-reinstates-ceo-huang/4135174",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "1d6128f55919",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/amazon-to-buy-decarts-ai-optimization-technology/4135143",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Amazon to buy Decart's AI optimization technology",
+    "body_orig": "Deal brings Decart Optimization Stack and co-founders Dean Leitersdorf, Moshe Shalev, and Orian Leitersdorf to Amazon",
+    "published": "2026-11-23T20:32:41",
+    "fetched": "2026-11-24T02:45:27.863440",
+    "title_uk": "Amazon купує технологію оптимізації від Decart",
+    "summary_uk": "Amazon оголосив про придбання технології Decart Optimization Stack. Угода також передбачає залучення співзасновників компанії: Діна Лейтерсдорфа, Моше Шалев і Оріана Лейтерсдорфа. Це дозволить Amazon покращити свої алгоритми оптимізації в сфері штучного інтелекту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Amazon купує технологію оптимізації від Decart",
+    "summary": "Amazon оголосив про придбання технології Decart Optimization Stack. Угода також передбачає залучення співзасновників компанії: Діна Лейтерсдорфа, Моше Шалев і Оріана Лейтерсдорфа. Це дозволить Amazon покращити свої алгоритми оптимізації в сфері штучного інтелекту.",
+    "link": "https://www.aa.com.tr/en/economy/amazon-to-buy-decarts-ai-optimization-technology/4135143",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ccc9c07852a0",
+    "source": "Anadolu Agency EN",
+    "source_url": "https://www.aa.com.tr/en/economy/ai-profitability-fed-rate-concerns-push-us-fear-index-to-19-month-high/4134819",
+    "market": "tr",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "AI profitability, Fed rate concerns push US fear index to 19-month high",
+    "body_orig": "Leadership turmoil at Nvidia and Federal Reserve rate-hike expectations drive VIX index to 40.03 before easing to 30.12",
+    "published": "2026-11-23T15:22:42",
+    "fetched": "2026-11-24T02:45:27.863459",
+    "title_uk": "Невизначеність на ринку США підвищує індекс страху до 19-місячного максимуму",
+    "summary_uk": "Невизначеність у керівництві Nvidia та очікування підвищення ставок Федеральної резервної системи призвели до зростання індексу VIX до 40,03, після чого він знизився до 30,12. Це свідчить про зростання волатильності на ринку. Інвестори реагують на зміни в економічній політиці та корпоративному управлінні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Невизначеність на ринку США підвищує індекс страху до 19-місячного максимуму",
+    "summary": "Невизначеність у керівництві Nvidia та очікування підвищення ставок Федеральної резервної системи призвели до зростання індексу VIX до 40,03, після чого він знизився до 30,12. Це свідчить про зростання волатильності на ринку. Інвестори реагують на зміни в економічній політиці та корпоративному управлінні.",
+    "link": "https://www.aa.com.tr/en/economy/ai-profitability-fed-rate-concerns-push-us-fear-index-to-19-month-high/4134819",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "662fcb58007c",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/abd-binance-saldirisinda-calinan-1-1-milyar-dolarlik-kripto-varligin-geri-alinmasi-icin-harekete-gecti/4135140",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "ABD, Binance saldırısında çalınan 1,1 milyar dolarlık kripto varlığın geri alınması için harekete geçti",
+    "body_orig": "ABD Adalet Bakanlığı, Kuzey Koreli siber aktörler tarafından kripto para borsası Binance'den yasa dışı yollarla elde edilen 1,1 milyar doların üzerindeki kripto para varlığının geri alınması amacıyla dava açıldığını duyurdu.",
+    "published": "2026-11-23T20:22:46",
+    "fetched": "2026-11-24T02:45:29.194790",
+    "title_uk": "США подають до суду для повернення $1.1 млрд криптовалюти з Binance",
+    "summary_uk": "Міністерство юстиції США оголосило про подачу позову для повернення криптовалюти на суму понад $1.1 млрд, викраденої з біржі Binance. Крадіжка була здійснена північнокорейськими хакерами. Це може вплинути на ринок криптовалют у США та за його межами.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "США подають до суду для повернення $1.1 млрд криптовалюти з Binance",
+    "summary": "Міністерство юстиції США оголосило про подачу позову для повернення криптовалюти на суму понад $1.1 млрд, викраденої з біржі Binance. Крадіжка була здійснена північнокорейськими хакерами. Це може вплинути на ринок криптовалют у США та за його межами.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/abd-binance-saldirisinda-calinan-1-1-milyar-dolarlik-kripto-varligin-geri-alinmasi-icin-harekete-gecti/4135140",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "8c1f8dfa3ac6",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/cinde-elektrikli-arac-sarj-istasyonlari-ve-veri-merkezlerinin-elektrik-tuketimi-artti/4135070",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "Çin'de elektrikli araç şarj istasyonları ve veri merkezlerinin elektrik tüketimi arttı",
+    "body_orig": "Çin'de elektrikli araçların ve yapay zeka uygulamalarının yaygınlaşmasıyla şarj istasyonları ve veri merkezlerinin elektrik tüketimi hızla artıyor.",
+    "published": "2026-11-23T18:21:04",
+    "fetched": "2026-11-24T02:45:29.194801",
+    "title_uk": "У Китаї зростає споживання електрики для зарядних станцій та дата-центрів",
+    "summary_uk": "Зростання популярності електромобілів та штучного інтелекту в Китаї призвело до швидкого збільшення споживання електроенергії зарядними станціями та дата-центрами. Це свідчить про зростаючий попит на інфраструктуру для електромобілів та технологій AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання споживання електроенергії в Китаї може свідчити про потенційний попит на електромобілі та технології AI, що може бути корисно для турецьких виробників, які шукають нові ринки.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "виробництво"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "У Китаї зростає споживання електрики для зарядних станцій та дата-центрів",
+    "summary": "Зростання популярності електромобілів та штучного інтелекту в Китаї призвело до швидкого збільшення споживання електроенергії зарядними станціями та дата-центрами. Це свідчить про зростаючий попит на інфраструктуру для електромобілів та технологій AI.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/cinde-elektrikli-arac-sarj-istasyonlari-ve-veri-merkezlerinin-elektrik-tuketimi-artti/4135070",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ada3732dc472",
+    "source": "Anadolu Ajansı TR",
+    "source_url": "https://www.aa.com.tr/tr/ekonomi/tgs-10-ayda-116-6-milyon-yolcuyla-hizmet-vererek-rekor-kirdi/4134990",
+    "market": "tr",
+    "source_lang": "tr",
+    "niche": "general",
+    "title_orig": "TGS, 10 ayda 116,6 milyon yolcuyla hizmet vererek rekor kırdı",
+    "body_orig": "Türk Hava Yolları'nın (THY) yer hizmetleri iştiraki Turkish Ground Services (TGS), yılın 10 ayında 116,6 milyon yolcuya hizmet vererek yeni bir rekora imza attı.",
+    "published": "2026-11-23T16:45:55",
+    "fetched": "2026-11-24T02:45:29.194810",
+    "title_uk": "Turkish Ground Services встановила рекорд за кількістю пасажирів",
+    "summary_uk": "Turkish Ground Services (TGS) обслугувала 117 млн пасажирів за 10 місяців 2026 року. Це новий рекорд для компанії, що свідчить про зростання попиту на авіаперевезення в Туреччині. TGS є дочірньою компанією Turkish Airlines.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "Зростання обсягу пасажирських перевезень може свідчити про відновлення ринку, що створює можливості для виробників, які постачають товари для аеропортів і авіакомпаній.",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "логістика",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Turkish Ground Services встановила рекорд за кількістю пасажирів",
+    "summary": "Turkish Ground Services (TGS) обслугувала 117 млн пасажирів за 10 місяців 2026 року. Це новий рекорд для компанії, що свідчить про зростання попиту на авіаперевезення в Туреччині. TGS є дочірньою компанією Turkish Airlines.",
+    "link": "https://www.aa.com.tr/tr/ekonomi/tgs-10-ayda-116-6-milyon-yolcuyla-hizmet-vererek-rekor-kirdi/4134990",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "7173ec6323df",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/cele-valoroase-zece-companii-economie-patru-actori-energie-trei-mediul-bancar-doi-retail-unu-tehnologie-isi-gasesc-loc-varf-cei-zece-jucatori-evaluati-impreuna-83-mld-euro-nivel-record-valoarea-23287862",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Care sunt cele mai valoroase zece companii din economie? Patru actori din energie, trei din mediul bancar, doi din retail şi unu din tehnologie îşi găsesc loc la vârf. Cei zece jucători sunt evaluaţi împreună la 83 mld. euro, un nivel record. Valoarea cumulată a liderilor a crescut cu 32% într-un an",
+    "body_orig": "",
+    "published": "2026-11-23T22:08:00",
+    "fetched": "2026-11-24T02:45:31.177476",
+    "title_uk": "Десять найбільш цінних компаній Румунії оцінені в €83 млрд",
+    "summary_uk": "Чотири компанії з енергетичного сектору, три з банківської сфери, дві з ритейлу та одна з технологій займають перші місця. Загальна оцінка цих компаній досягла рекордних €83 млрд, що на 32% більше, ніж минулого року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Десять найбільш цінних компаній Румунії оцінені в €83 млрд",
+    "summary": "Чотири компанії з енергетичного сектору, три з банківської сфери, дві з ритейлу та одна з технологій займають перші місця. Загальна оцінка цих компаній досягла рекордних €83 млрд, що на 32% більше, ніж минулого року.",
+    "link": "https://www.zf.ro/companii/cele-valoroase-zece-companii-economie-patru-actori-energie-trei-mediul-bancar-doi-retail-unu-tehnologie-isi-gasesc-loc-varf-cei-zece-jucatori-evaluati-impreuna-83-mld-euro-nivel-record-valoarea-23287862",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ff053574ef16",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/zf-28-de-ani/zf-28-de-ani-20-de-ani-de-ue-pariul-de-peste-190-de-milioane-de-euro-al-lui-george-copos-cand-altii-hiberneaza-tu-investeste-care-sunt-planurile-proprietarului-ana-hotels-pentru-urmatorii-ani-23287714",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "ZF 28 de ani. 20 de ani de UE. Pariul de peste 190 de milioane de euro al lui George Copos. „Când alţii hibernează, tu investeşte“. Care sunt planurile proprietarului ANA Hotels pentru următorii ani?",
+    "body_orig": "De la criza financiară din 2008 şi blocajul total din pandemia de Covid până la turbulenţele politico-economice din 2026, ANA Hotels, unul dintre cei mai mari jucători din piaţa locală de hotelărie, a reuşit să crească constant, uneori chiar împotriva curentului.",
+    "published": "2026-11-23T22:07:00",
+    "fetched": "2026-11-24T02:45:31.177495",
+    "title_uk": "ANA Hotels планує інвестиції понад €190 млн на наступні роки",
+    "summary_uk": "ANA Hotels, один з найбільших гравців у румунському готельному бізнесі, продовжує зростати, незважаючи на економічні виклики. Після фінансової кризи 2008 року та пандемії Covid компанія планує інвестувати понад €190 млн у розвиток. Власник George Copos закликає до активних інвестицій навіть у складні часи.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "HoReCa"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "ANA Hotels планує інвестиції понад €190 млн на наступні роки",
+    "summary": "ANA Hotels, один з найбільших гравців у румунському готельному бізнесі, продовжує зростати, незважаючи на економічні виклики. Після фінансової кризи 2008 року та пандемії Covid компанія планує інвестувати понад €190 млн у розвиток. Власник George Copos закликає до активних інвестицій навіть у складні часи.",
+    "link": "https://www.zf.ro/zf-28-de-ani/zf-28-de-ani-20-de-ani-de-ue-pariul-de-peste-190-de-milioane-de-euro-al-lui-george-copos-cand-altii-hiberneaza-tu-investeste-care-sunt-planurile-proprietarului-ana-hotels-pentru-urmatorii-ani-23287714",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "3047c57d8ac7",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/burse-fonduri-mutuale/ce-se-intampla-la-bursa-institutionalii-lipsesc-iar-lichiditatea-scazuta-de-40-50-mil-lei-pe-zi-tradeaza-un-retail-singur-in-piata-23287849",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Ce se întâmplă la bursă? Instituţionalii lipsesc, iar lichiditatea scăzută, de 40-50 mil. lei pe zi, trădează un retail singur în piaţă",
+    "body_orig": "De la finalul verii, tranzacţiile cu acţiuni la Bursa de Valori Bucureşti au scăzut în valuri, până la circa 40 mil. lei pe zi în ultimele şedinţe, de aproape trei ori sub media din 2026, iar brokerii chestionaţi de ZF văd în piaţă mai ales in­vestitori de retail şi rareori instituţionali.",
+    "published": "2026-11-23T22:07:00",
+    "fetched": "2026-11-24T02:45:31.177531",
+    "title_uk": "Ліквідність на біржі Румунії знизилася до 40 млн леїв на день",
+    "summary_uk": "Торги акціями на Біржі цінних паперів у Бухаресті знизилися до 40 млн леїв на день, що втричі менше середнього показника 2026 року. Інвестори переважно складаються з роздрібних учасників, тоді як інституційні інвестори практично відсутні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Ліквідність на біржі Румунії знизилася до 40 млн леїв на день",
+    "summary": "Торги акціями на Біржі цінних паперів у Бухаресті знизилися до 40 млн леїв на день, що втричі менше середнього показника 2026 року. Інвестори переважно складаються з роздрібних учасників, тоді як інституційні інвестори практично відсутні.",
+    "link": "https://www.zf.ro/burse-fonduri-mutuale/ce-se-intampla-la-bursa-institutionalii-lipsesc-iar-lichiditatea-scazuta-de-40-50-mil-lei-pe-zi-tradeaza-un-retail-singur-in-piata-23287849",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "13fddff49a2a",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/companii/adrian-tudosca-director-general-al-synevo-romania-nivelul-investitiilor-nu-scade-pentru-romania-grupul-are-incredere-in-piata-locala-23287853",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Adrian Tudoscă, director general al Synevo România: Nivelul investiţiilor nu scade pentru România, grupul are încredere în piaţa locală",
+    "body_orig": "Grupul suedez Medicover, care are divizia medicală cu acelaşi nume şi cea de diagnostic sub umbrela Synevo, va investi în continuare în piaţa locală, chiar dacă la nivel economic se vede impactul scăderii consumului din ultimul an.",
+    "published": "2026-11-23T22:07:00",
+    "fetched": "2026-11-24T02:45:31.177543",
+    "title_uk": "Medicover продовжує інвестиції в ринок Румунії",
+    "summary_uk": "Шведський група Medicover, що управляє Synevo, підтвердила намір інвестувати в Румунії, незважаючи на зниження споживання. Інвестиції в ринок залишаються на стабільному рівні. Керівник Synevo, Adrian Tudoscă, зазначив, що компанія вірить у потенціал місцевого ринку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Medicover продовжує інвестиції в ринок Румунії",
+    "summary": "Шведський група Medicover, що управляє Synevo, підтвердила намір інвестувати в Румунії, незважаючи на зниження споживання. Інвестиції в ринок залишаються на стабільному рівні. Керівник Synevo, Adrian Tudoscă, зазначив, що компанія вірить у потенціал місцевого ринку.",
+    "link": "https://www.zf.ro/companii/adrian-tudosca-director-general-al-synevo-romania-nivelul-investitiilor-nu-scade-pentru-romania-grupul-are-incredere-in-piata-locala-23287853",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fc5f5f5bf8bf",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/business-hi-tech/conferinta-zf-digital-ion-georgescu-bitdefender-romania-trebuie-sa-nu-mai-vanda-ore-de-servicii-ci-sa-isi-creeze-proprietate-intelectuala-23287858",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Conferinţa ZF Digital. Ion Georgescu, Bitdefender: România trebuie să nu mai vândă ore de servicii, ci să îşi creeze proprietate intelectuală",
+    "body_orig": "Europa nu poate construi un ecosistem tehnologic în care totul, de la servere şi reţele la cloud şi aplicaţii, să fie realizat în Europa, iar România ar trebui să treacă de la vânzarea de ore de servicii la crearea de proprietate intelectuală, a declarat Ion Georgescu, country manager România & Moldova la Bitdefender, în cadrul conferinţei ZF Digital.",
+    "published": "2026-11-23T22:07:00",
+    "fetched": "2026-11-24T02:45:31.177564",
+    "title_uk": "Румунія має перейти до створення власної інтелектуальної власності",
+    "summary_uk": "На конференції ZF Digital Ion Georgescu з Bitdefender закликав Румунію відмовитися від продажу годин послуг на користь створення інтелектуальної власності. Він підкреслив, що Європа не може покладатися на зовнішні технології для побудови власного екосистеми. Це питання актуальне для розвитку технологічного сектору в країні.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія має перейти до створення власної інтелектуальної власності",
+    "summary": "На конференції ZF Digital Ion Georgescu з Bitdefender закликав Румунію відмовитися від продажу годин послуг на користь створення інтелектуальної власності. Він підкреслив, що Європа не може покладатися на зовнішні технології для побудови власного екосистеми. Це питання актуальне для розвитку технологічного сектору в країні.",
+    "link": "https://www.zf.ro/business-hi-tech/conferinta-zf-digital-ion-georgescu-bitdefender-romania-trebuie-sa-nu-mai-vanda-ore-de-servicii-ci-sa-isi-creeze-proprietate-intelectuala-23287858",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "6e47188de0b0",
+    "source": "Ziarul Financiar",
+    "source_url": "https://www.zf.ro/banci-si-asigurari/profitul-sistemului-bancar-de-neclintit-11-4-mld-lei-in-9-luni-2026-apropiat-de-cel-din-9-luni-2025-23287860",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Profitul sistemului bancar, de neclintit: 11,4 mld. lei în 9 luni/2026, apropiat de cel din 9 luni/2025",
+    "body_orig": "Băncile din România continuă să raporteze rezultate financiare bune, în pofida vremurilor dificile, obţinând profituri mari şi în condiţii de recesiune economică, cu inflaţie persistentă şi incertitudini de tot felul.",
+    "published": "2026-11-23T22:07:00",
+    "fetched": "2026-11-24T02:45:31.177574",
+    "title_uk": "Прибуток банківської системи Румунії залишається стабільним",
+    "summary_uk": "Банки Румунії продовжують демонструвати хороші фінансові результати, отримавши прибуток у €2.4 млрд за 9 місяців 2026 року. Це показник близький до аналогічного періоду 2025 року, незважаючи на економічну рецесію та інфляцію. Ситуація свідчить про стійкість фінансового сектору в умовах невизначеності.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ринок"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Прибуток банківської системи Румунії залишається стабільним",
+    "summary": "Банки Румунії продовжують демонструвати хороші фінансові результати, отримавши прибуток у €2.4 млрд за 9 місяців 2026 року. Це показник близький до аналогічного періоду 2025 року, незважаючи на економічну рецесію та інфляцію. Ситуація свідчить про стійкість фінансового сектору в умовах невизначеності.",
+    "link": "https://www.zf.ro/banci-si-asigurari/profitul-sistemului-bancar-de-neclintit-11-4-mld-lei-in-9-luni-2026-apropiat-de-cel-din-9-luni-2025-23287860",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "ce34cd7dd267",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/boris-georgiev-google-cloud-ingineri-romani-agenti-ai_987517.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Boris Georgiev, Google Cloud: Unii dintre cei mai buni specialiști de la Google sunt din România. Universitățile fac o treabă extraordinară, dar există un decalaj în restul populației INTERVIU",
+    "body_orig": "Unii dintre cei mai buni specialiști Google implicați în dezvoltarea tehnologiilor de inteligență artificială sunt ingineri români, afirmă Boris Georgiev, director Google Cloud pentru Europa Centrală și de Est, într-un interviu acordat Economica.net. Acesta consideră că România are un avantaj important prin calitatea specialiștilor săi, dar avertizează că diferența dintre nivelul ridicat de pregătire al acestora și competențele digitale ale populației poate limita capacitatea țării de a beneficia de revoluția AI.",
+    "published": "2026-11-23T20:27:32",
+    "fetched": "2026-11-24T02:45:33.602760",
+    "title_uk": "Спеціалісти Google з Румунії мають перевагу у сфері AI",
+    "summary_uk": "Борис Георгієв, директор Google Cloud для Центральної та Східної Європи, зазначив, що румунські інженери є одними з найкращих у розвитку технологій штучного інтелекту. Він підкреслив, що якість освіти в університетах висока, але існує розрив між підготовленими фахівцями та загальними цифровими навичками населення. Це може обмежити можливості країни у використанні переваг AI.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Спеціалісти Google з Румунії мають перевагу у сфері AI",
+    "summary": "Борис Георгієв, директор Google Cloud для Центральної та Східної Європи, зазначив, що румунські інженери є одними з найкращих у розвитку технологій штучного інтелекту. Він підкреслив, що якість освіти в університетах висока, але існує розрив між підготовленими фахівцями та загальними цифровими навичками населення. Це може обмежити можливості країни у використанні переваг AI.",
+    "link": "https://www.economica.net/boris-georgiev-google-cloud-ingineri-romani-agenti-ai_987517.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "aab7678e2b42",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/prima-autostrada-cu-taxa_998397.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Prima autostrada cu taxă din România. Unde se va face",
+    "body_orig": "După spitale, România ar putea construi prin parteneriat public - privat (PPP) și autostrăzi. Primul proiect de infrastructură rutieră pentru care se ia în calcul această variantă nu este însă arhi-cunoscuta autostradă din Valea Prahovei, ci una mai la sud. Mai exact, este vorba despre Autostrada A5 București - Giurgiu.",
+    "published": "2026-11-23T20:24:05",
+    "fetched": "2026-11-24T02:45:33.602777",
+    "title_uk": "Румунія планує першу платну автотрасу A5",
+    "summary_uk": "Румунія розглядає можливість будівництва платної автотраси A5 між Бухарестом і Джурджу через партнерство з приватним сектором. Це перший проект інфраструктури, що передбачає таку модель, і він не пов'язаний з відомою трасою в долині Прахови. Дата реалізації проекту поки не визначена.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Румунія планує першу платну автотрасу A5",
+    "summary": "Румунія розглядає можливість будівництва платної автотраси A5 між Бухарестом і Джурджу через партнерство з приватним сектором. Це перший проект інфраструктури, що передбачає таку модель, і він не пов'язаний з відомою трасою в долині Прахови. Дата реалізації проекту поки не визначена.",
+    "link": "https://www.economica.net/prima-autostrada-cu-taxa_998397.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fa5dfc037c84",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/cota-piata-masini-chinezesti-romania-2026_998135.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Mașinile chinezești i-au sedus pe români, 13 din 100 de mașini vândute la noi provin din China, peste media UE. Topul mărcilor",
+    "body_orig": "Mărcile auto deținute de companii chinezești continuă să își consolideze poziția în România, atingând o cotă de piață mai ridicată decât media înregistrată la nivel european. Iată câteva comparații și clasamente.",
+    "published": "2026-11-23T20:12:36",
+    "fetched": "2026-11-24T02:45:33.602807",
+    "title_uk": "Китайські автомобілі займають 13% ринку в Румунії",
+    "summary_uk": "Китайські автомобільні бренди зміцнюють свої позиції в Румунії, досягаючи частки ринку 13%, що перевищує середній показник в ЄС. Це свідчить про зростаючий інтерес румунських споживачів до китайських автомобілів. Ринок продовжує розвиватися, зокрема завдяки конкурентним цінам та новим моделям.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Зростання популярності китайських автомобілів може вплинути на конкурентоспроможність автомобільних брендів в Румунії. Рекомендується переглянути асортимент і стратегії просування для адаптації до нових умов."
+    },
+    "tags": [
+      "виробництво",
+      "імпорт"
+    ],
+    "impact_score": 0,
+    "category": "market-data",
+    "title": "Китайські автомобілі займають 13% ринку в Румунії",
+    "summary": "Китайські автомобільні бренди зміцнюють свої позиції в Румунії, досягаючи частки ринку 13%, що перевищує середній показник в ЄС. Це свідчить про зростаючий інтерес румунських споживачів до китайських автомобілів. Ринок продовжує розвиватися, зокрема завдяки конкурентним цінам та новим моделям.",
+    "link": "https://www.economica.net/cota-piata-masini-chinezesti-romania-2026_998135.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "93a1d4d063cd",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/grupul-imobiliar-impact-a-realizat-venituri-de-peste-168-de-milioane-de-lei-in-primele-noua-luni-din-2026_998488.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Grupul imobiliar Impact a realizat venituri de peste 168 de milioane de lei în primele nouă luni din 2026",
+    "body_orig": "Grupul Impact a raportat venituri de 168,3 milioane de lei în primele nouă luni din 2026 şi un profit net de 1,04 milioane de lei, în timp ce portofoliul de locuinţe pre-vândute şi rezervate a ajuns la 122,9 milioane de lei, de peste 13 ori mai mare faţă de sfârşitul anului trecut, potrivit rezultatelor financiare publicate luni, transmite Agerpres.",
+    "published": "2026-11-23T20:02:46",
+    "fetched": "2026-11-24T02:45:33.602818",
+    "title_uk": "Grupul Impact отримав понад 168 млн леїв доходу за 9 місяців 2026 року",
+    "summary_uk": "Grupul Impact звітує про доходи в 168 млн леїв та чистий прибуток 1 млн леїв за перші дев'ять місяців 2026 року. Портфель попередньо проданих та зарезервованих житлових об'єктів зріс до 123 млн леїв, що в 13 разів більше, ніж на кінець минулого року.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "недвижимість"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Grupul Impact отримав понад 168 млн леїв доходу за 9 місяців 2026 року",
+    "summary": "Grupul Impact звітує про доходи в 168 млн леїв та чистий прибуток 1 млн леїв за перші дев'ять місяців 2026 року. Портфель попередньо проданих та зарезервованих житлових об'єктів зріс до 123 млн леїв, що в 13 разів більше, ніж на кінець минулого року.",
+    "link": "https://www.economica.net/grupul-imobiliar-impact-a-realizat-venituri-de-peste-168-de-milioane-de-lei-in-primele-noua-luni-din-2026_998488.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "b87d90097d7c",
+    "source": "Economica.net",
+    "source_url": "https://www.economica.net/inca-o-mare-unitate-industriala-din-romania-are-probleme-grave-chimcomplex-a-cerut-intrarea-in-concordat-preventiv_998484.html",
+    "market": "ro",
+    "source_lang": "ro",
+    "niche": "general",
+    "title_orig": "Încă o mare unitate industrială din România are probleme grave. Chimcomplex a cerut intrarea în concordat preventiv",
+    "body_orig": "Chimcomplex Borzești, cel mai mare producător din indiutria chimică din România, controlat de omul de afaceri Ștefan Vuza, a solicitat Tribunalului Bacău deschiderea procedurii de concordat preventiv, scrie Ziarul de Bacău",
+    "published": "2026-11-23T19:48:23",
+    "fetched": "2026-11-24T02:45:33.602827",
+    "title_uk": "Chimcomplex просить про захист від кредиторів у Румунії",
+    "summary_uk": "Chimcomplex Borzești, найбільший виробник хімікатів у Румунії, звернувся до суду з проханням про відкриття процедури попереднього погодження. Компанія, під контролем бізнесмена Штефана Вуза, намагається вирішити фінансові труднощі. Це може вплинути на ринок хімічної продукції в країні.",
+    "what_it_means": {
+      "ua_importer": "Не впливає.",
+      "pl_distributor": "Не впливає.",
+      "tr_manufacturer": "Не впливає.",
+      "category_manager": "Можливі зміни у постачаннях хімічної продукції з Румунії. Слід стежити за ситуацією, оскільки це може вплинути на ціни та доступність товарів."
+    },
+    "tags": [
+      "виробництво"
+    ],
+    "impact_score": 1,
+    "category": "warning",
+    "title": "Chimcomplex просить про захист від кредиторів у Румунії",
+    "summary": "Chimcomplex Borzești, найбільший виробник хімікатів у Румунії, звернувся до суду з проханням про відкриття процедури попереднього погодження. Компанія, під контролем бізнесмена Штефана Вуза, намагається вирішити фінансові труднощі. Це може вплинути на ринок хімічної продукції в країні.",
+    "link": "https://www.economica.net/inca-o-mare-unitate-industriala-din-romania-are-probleme-grave-chimcomplex-a-cerut-intrarea-in-concordat-preventiv_998484.html",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af76ed5e51f0",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/property/selling-the-unbuilt-visualisation-in-residential-development-303565",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "Selling the Unbuilt: Visualisation in Residential Development",
+    "body_orig": "The pre-sale of new residential developments is very popular in Romania and Central/Eastern Europe. In doing so, developers gain finance, reduce risk and get feedback on their pricing. However, large upfront payments are being asked from buyers for properties yet to be completed. In order to maximise sales, developers will create marketing material including brochures, [&#8230;]\nThe post Selling the Unbuilt: Visualisation in Residential Development appeared first on Business Review.",
+    "published": "2026-11-23T19:49:04",
+    "fetched": "2026-11-24T02:45:36.650929",
+    "title_uk": "Попередній продаж новобудов у Румунії стає популярним",
+    "summary_uk": "У Румунії та Центрально-Східній Європі зростає популярність попереднього продажу нових житлових комплексів. Це дозволяє забудовникам залучати фінансування, зменшувати ризики та отримувати зворотний зв'язок щодо цін. Однак покупці змушені сплачувати великі авансові внески за ще не завершені об'єкти.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "інвестиції",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Попередній продаж новобудов у Румунії стає популярним",
+    "summary": "У Румунії та Центрально-Східній Європі зростає популярність попереднього продажу нових житлових комплексів. Це дозволяє забудовникам залучати фінансування, зменшувати ризики та отримувати зворотний зв'язок щодо цін. Однак покупці змушені сплачувати великі авансові внески за ще не завершені об'єкти.",
+    "link": "https://business-review.eu/property/selling-the-unbuilt-visualisation-in-residential-development-303565",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0cd04b0d8220",
+    "source": "Business Review Romania",
+    "source_url": "https://business-review.eu/business/e-commerce/how-romanian-retailers-are-turning-black-friday-into-a-month-long-shopping-season-303563",
+    "market": "ro",
+    "source_lang": "en",
+    "niche": "general",
+    "title_orig": "How Romanian Retailers Are Turning Black Friday Into a Month-Long Shopping Season",
+    "body_orig": "Black Friday in Romania is no longer limited to a single day of major discounts. What started as a one-day shopping event has gradually developed into a longer promotional season, with retailers launching offers earlier, introducing different discount periods, and competing for consumer attention throughout November. Major retailers such as eMAG, Altex and Flanco have [&#8230;]\nThe post How Romanian Retailers Are Turning Black Friday Into a Month-Long Shopping Season appeared first on Business Review.",
+    "published": "2026-11-23T19:44:34",
+    "fetched": "2026-11-24T02:45:36.650947",
+    "title_uk": "Румунські ритейлери розширюють Чорну п’ятницю до місячного сезону знижок",
+    "summary_uk": "Чорна п’ятниця в Румунії перетворилася на місячний сезон знижок. Ритейлери, такі як eMAG, Altex і Flanco, почали пропонувати акції раніше та вводити різні періоди знижок, щоб залучити споживачів у листопаді. Це дозволяє їм конкурувати за увагу покупців протягом усього місяця.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Це може бути корисним прикладом для українських ритейлерів, які планують розширити промо-акції на Чорну п’ятницю. Рекомендується розглянути можливість введення подібних акцій протягом місяця для підвищення продажів."
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Румунські ритейлери розширюють Чорну п’ятницю до місячного сезону знижок",
+    "summary": "Чорна п’ятниця в Румунії перетворилася на місячний сезон знижок. Ритейлери, такі як eMAG, Altex і Flanco, почали пропонувати акції раніше та вводити різні періоди знижок, щоб залучити споживачів у листопаді. Це дозволяє їм конкурувати за увагу покупців протягом усього місяця.",
+    "link": "https://business-review.eu/business/e-commerce/how-romanian-retailers-are-turning-black-friday-into-a-month-long-shopping-season-303563",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "e26ccb8f5fff",
+    "source": "EU-Startups",
+    "source_url": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+    "market": "eu",
+    "source_lang": "en",
+    "niche": "tech",
+    "title_orig": "German startup Playbook secures €8 million to help pharma companies deploy AI safely",
+    "body_orig": "Munich&#8217;s Playbook, a startup developing neurological AI to ensure rule-based compliance in pharmaceutical industries, has raised €8 million to turn documents into data AI can read, but not change. Heal Capital leads the round, together with Bayern Kapital and existing investor Capnamic. The company raised €2.5 million in 2025. &#8220;Our ambition is to help Pharma [&#8230;]\nThe post German startup Playbook secures €8 million to help pharma companies deploy AI safely appeared first on EU-Startups.",
+    "published": "2026-11-23T15:40:56",
+    "fetched": "2026-11-24T02:45:16.831111",
+    "title_uk": "Німецький стартап Playbook залучив €8 млн для розвитку AI у фармацевтиці",
+    "summary_uk": "Стартап Playbook з Мюнхена залучив €8 млн для розробки нейрологічного AI, що забезпечує дотримання правил у фармацевтичній галузі. Інвестиційний раунд очолив Heal Capital, також брали участь Bayern Kapital та Capnamic. У 2025 році компанія вже залучила €2.5 млн.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "стартапи",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Німецький стартап Playbook залучив €8 млн для розвитку AI у фармацевтиці",
+    "summary": "Стартап Playbook з Мюнхена залучив €8 млн для розробки нейрологічного AI, що забезпечує дотримання правил у фармацевтичній галузі. Інвестиційний раунд очолив Heal Capital, також брали участь Bayern Kapital та Capnamic. У 2025 році компанія вже залучила €2.5 млн.",
+    "link": "https://www.eu-startups.com/2026/11/german-startup-playbook-secures-e8-million-to-help-pharma-companies-deploy-ai-safely/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0588a4670bbe",
+    "source": "AIN.UA (tech/startups)",
+    "source_url": "https://ain.ua/2026/11/23/taf-industries-i-draganfly-ogolosili-pro-spivpraciu/",
+    "market": "ua",
+    "source_lang": "uk",
+    "niche": "tech",
+    "title_orig": "TAF Industries і Draganfly планують виробляти дрони в Канаді: компанії оголосили про співпрацю",
+    "body_orig": "Українська та канадська компанії розглянуть можливість запуску спільного виробництва безпілотників. Також вони планують співпрацювати над розробкою нових технологій.",
+    "published": "2026-11-23T19:30:07",
+    "fetched": "2026-11-24T02:45:23.507156",
+    "title_uk": "TAF Industries і Draganfly запускають спільне виробництво дронів",
+    "summary_uk": "Українська компанія TAF Industries та канадська Draganfly оголосили про співпрацю у виробництві дронів. Вони планують спільно розробляти нові технології для безпілотників. Деталі щодо обсягів виробництва та інвестицій поки не розкриті.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "виробництво",
+      "стартапи"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "TAF Industries і Draganfly запускають спільне виробництво дронів",
+    "summary": "Українська компанія TAF Industries та канадська Draganfly оголосили про співпрацю у виробництві дронів. Вони планують спільно розробляти нові технології для безпілотників. Деталі щодо обсягів виробництва та інвестицій поки не розкриті.",
+    "link": "https://ain.ua/2026/11/23/taf-industries-i-draganfly-ogolosili-pro-spivpraciu/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "af1ce8ba26c2",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Black Friday, Cyber Monday shopping projected to slip",
+    "body_orig": "Shoppers will scoop up deals during Thanksgiving weekend, but extended sales events have enticed consumers to start holiday shopping early, according to the National Retail Federation.&nbsp;",
+    "published": "2026-11-23T20:39:00",
+    "fetched": "2026-11-24T02:45:43.404008",
+    "title_uk": "Прогноз зниження продажів на Black Friday та Cyber Monday",
+    "summary_uk": "Споживачі почнуть покупки на Thanksgiving, але розширені акції спонукали їх купувати раніше. На думку Національної асоціації роздрібної торгівлі, це може призвести до зниження обсягів продажів у традиційні дні розпродажів. Ринок очікує на зменшення активності під час Black Friday та Cyber Monday.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "Зниження активності на Black Friday може вплинути на обсяги продажів у PL. Розгляньте можливість акцій до свят, щоб залучити споживачів.",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Зменшення обсягів продажів у ці дні може вимагати перегляду планів промо-акцій. Рекомендується адаптувати стратегії для залучення покупців раніше."
+    },
+    "tags": [
+      "ритейл",
+      "промо-акції"
+    ],
+    "impact_score": 1,
+    "category": "market-data",
+    "title": "Прогноз зниження продажів на Black Friday та Cyber Monday",
+    "summary": "Споживачі почнуть покупки на Thanksgiving, але розширені акції спонукали їх купувати раніше. На думку Національної асоціації роздрібної торгівлі, це може призвести до зниження обсягів продажів у традиційні дні розпродажів. Ринок очікує на зменшення активності під час Black Friday та Cyber Monday.",
+    "link": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "fb2b8f38b327",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Majority of states now battling Dollar General over pricing practices",
+    "body_orig": "Ten states joined the Federal Trade Commission and 20 other states in a complaint filed last month alleging deceptive pricing.",
+    "published": "2026-11-23T16:42:00",
+    "fetched": "2026-11-24T02:45:43.404025",
+    "title_uk": "Більшість штатів США оскаржують Dollar General через цінову політику",
+    "summary_uk": "Десять штатів приєдналися до Федеральної торгової комісії та 20 інших штатів у скарзі на Dollar General. Вони звинувачують компанію у введенні в оману щодо цін. Скарга була подана минулого місяця.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "ритейл"
+    ],
+    "impact_score": 0,
+    "category": "news",
+    "title": "Більшість штатів США оскаржують Dollar General через цінову політику",
+    "summary": "Десять штатів приєдналися до Федеральної торгової комісії та 20 інших штатів у скарзі на Dollar General. Вони звинувачують компанію у введенні в оману щодо цін. Скарга була подана минулого місяця.",
+    "link": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0d8af3737817",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Amazon enlists customers in fight against NYC delivery worker bill",
+    "body_orig": "The e-commerce giant released a call to action for city customers to speak out against The Delivery Protection Act, or face increased order costs of up to $5.&nbsp;",
+    "published": "2026-11-23T16:33:00",
+    "fetched": "2026-11-24T02:45:43.404036",
+    "title_uk": "Amazon закликає клієнтів протистояти законопроекту в Нью-Йорку",
+    "summary_uk": "Amazon закликала своїх клієнтів у Нью-Йорку висловити протест проти Закону про захист кур'єрів. Якщо закон буде ухвалено, компанія може підвищити вартість доставки на €5. Це рішення викликане занепокоєнням щодо зростання витрат на доставку.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "регуляція",
+      "логістика"
+    ],
+    "impact_score": 0,
+    "category": "regulation",
+    "title": "Amazon закликає клієнтів протистояти законопроекту в Нью-Йорку",
+    "summary": "Amazon закликала своїх клієнтів у Нью-Йорку висловити протест проти Закону про захист кур'єрів. Якщо закон буде ухвалено, компанія може підвищити вартість доставки на €5. Це рішення викликане занепокоєнням щодо зростання витрат на доставку.",
+    "link": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "d09d4c33d4e3",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "Backcountry acquires winter sports retailer Christy Sports",
+    "body_orig": "The deal creates a combined retail footprint of more than 60 locations and expands owner CSC Generation&rsquo;s brand portfolio with a large ski and snowboard rental network.",
+    "published": "2026-11-23T15:44:00",
+    "fetched": "2026-11-24T02:45:43.404045",
+    "title_uk": "Backcountry купує ритейлера зимових видів спорту Christy Sports",
+    "summary_uk": "Backcountry оголосила про придбання Christy Sports, що розширює їх мережу до понад 60 магазинів. Угода також додає до портфоліо CSC Generation значну мережу прокату лиж і сноубордів. Це дозволить компанії зміцнити позиції на ринку зимових видів спорту.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "не впливає"
+    },
+    "tags": [
+      "ритейл",
+      "інвестиції"
+    ],
+    "impact_score": 0,
+    "category": "deal",
+    "title": "Backcountry купує ритейлера зимових видів спорту Christy Sports",
+    "summary": "Backcountry оголосила про придбання Christy Sports, що розширює їх мережу до понад 60 магазинів. Угода також додає до портфоліо CSC Generation значну мережу прокату лиж і сноубордів. Це дозволить компанії зміцнити позиції на ринку зимових видів спорту.",
+    "link": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 4,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "0c65c8fd7834",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "David’s Bridal tests dress rental",
+    "body_orig": "The retailer&rsquo;s Something Borrowed program is being piloted at 11 stores in Pennsylvania.",
+    "published": "2026-11-23T15:37:00",
+    "fetched": "2026-11-24T02:45:43.404056",
+    "title_uk": "David’s Bridal тестує прокат весільних суконь",
+    "summary_uk": "Роздрібний продавець David’s Bridal запускає програму прокату суконь Something Borrowed в 11 магазинах Пенсильванії. Це новий підхід, який дозволяє клієнтам орендувати весільні сукні замість їх купівлі. Програма покликана залучити нових покупців та зменшити витрати на придбання суконь.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Цей підхід може стати прикладом для українських ритейлерів, які шукають нові способи залучення клієнтів. Розгляньте можливість впровадження прокату у вашому асортименті."
+    },
+    "tags": [
+      "ритейл",
+      "стартапи"
+    ],
+    "impact_score": 1,
+    "category": "opportunity",
+    "title": "David’s Bridal тестує прокат весільних суконь",
+    "summary": "Роздрібний продавець David’s Bridal запускає програму прокату суконь Something Borrowed в 11 магазинах Пенсильванії. Це новий підхід, який дозволяє клієнтам орендувати весільні сукні замість їх купівлі. Програма покликана залучити нових покупців та зменшити витрати на придбання суконь.",
+    "link": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
+  },
+  {
+    "id": "87a6d4f4bd41",
+    "source": "Retail Dive",
+    "source_url": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
+    "market": "global",
+    "source_lang": "en",
+    "niche": "distribution",
+    "title_orig": "How Home Depot built the missing logistics piece for its Pro business",
+    "body_orig": "Through new flatbed distribution centers, acquisitions and technology, the home improvement retailer has enhanced its last-mile delivery capabilities to better serve contractor customers.",
+    "published": "2026-11-23T15:03:00",
+    "fetched": "2026-11-24T02:45:43.404066",
+    "title_uk": "Home Depot покращує логістику для підрядників через нові центри",
+    "summary_uk": "Home Depot відкриває нові плоскі розподільчі центри та впроваджує технології для покращення доставки. Це дозволить краще обслуговувати підрядників. Компанія акцентує на останній милі доставки, що є критично важливим для бізнесу.",
+    "what_it_means": {
+      "ua_importer": "не впливає",
+      "pl_distributor": "не впливає",
+      "tr_manufacturer": "не впливає",
+      "category_manager": "Покращення логістики Home Depot може стати прикладом для українських ритейлерів. Вивчайте нові технології доставки для оптимізації власних процесів."
+    },
+    "tags": [
+      "логістика",
+      "ритейл"
+    ],
+    "impact_score": 1,
+    "category": "news",
+    "title": "Home Depot покращує логістику для підрядників через нові центри",
+    "summary": "Home Depot відкриває нові плоскі розподільчі центри та впроваджує технології для покращення доставки. Це дозволить краще обслуговувати підрядників. Компанія акцентує на останній милі доставки, що є критично важливим для бізнесу.",
+    "link": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
+    "validator_score": 7,
+    "validator_flags": [
+      "validator_error"
+    ],
+    "validator_suggestions": "validator виключення: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo",
+    "validator_verdict": "review",
+    "editor_decision": "to_human_review",
+    "editor_priority": 5,
+    "editor_reasoning": "AI-редактор: QA=7/10 — потрібна перевірка",
+    "editor_flag": "ai_flagged",
+    "editor_status": "pending"
   }
 ]
